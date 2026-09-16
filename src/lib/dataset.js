@@ -58,8 +58,38 @@ function buildSongKeys(albums) {
       keyOf.set(`${name}|${text}`, `${name}|${head.text}`)
     }
   }
+
+  // 歌名不同但播放數完全相同、長度差 3 秒內 → 同一首（「晚安」＝「晚安曲」、「Hsin Suan De Shing Ke」＝「心酸的情歌」）；
+  // 播放數太少容易撞數字，只看 1 萬次以上。合併後以有中文的歌名為準。
+  const parent = new Map()
+  const find = (k) => (parent.get(k) === k || !parent.has(k) ? k : find(parent.get(k)))
+  const bySignature = new Map() // playsText → [{ key, duration, cjk }]
+  for (const album of albums) {
+    for (const t of album.tracks) {
+      if (!t.playsText || parseApprox(t.playsText) < 1e4 || t.duration == null) continue
+      const key = keyOf.get(`${trackKey(t)}|${t.playsText}`)
+      if (!bySignature.has(t.playsText)) bySignature.set(t.playsText, [])
+      bySignature.get(t.playsText).push({ key, duration: t.duration, cjk: hasCJK(t.title) })
+    }
+  }
+  for (const list of bySignature.values()) {
+    for (let i = 0; i < list.length; i++) {
+      for (let j = i + 1; j < list.length; j++) {
+        const a = list[i]
+        const b = list[j]
+        if (Math.abs(a.duration - b.duration) > 3) continue
+        const ra = find(a.key)
+        const rb = find(b.key)
+        if (ra === rb) continue
+        // 代表鍵：有中文的優先
+        const [keep, drop] = !hasCJK(ra) && hasCJK(rb) ? [rb, ra] : [ra, rb]
+        parent.set(keep, keep)
+        parent.set(drop, keep)
+      }
+    }
+  }
   return (album, t) =>
-    t.playsText ? keyOf.get(`${trackKey(t)}|${t.playsText}`) : t.videoId ?? `${album.browseId}:${t.index}`
+    t.playsText ? find(keyOf.get(`${trackKey(t)}|${t.playsText}`)) : t.videoId ?? `${album.browseId}:${t.index}`
 }
 
 function mode(list) {
@@ -107,7 +137,10 @@ export function buildModel(raw, artistConfig = {}) {
   for (const [key, list] of appearances) {
     list.sort(byOrigin)
     const origin = list[0]
-    const versions = list.flatMap((a) => a.tracks.filter((t) => songKey(a, t) === key))
+    // 有中文歌名的版本排前面，顯示名稱與 nameKey 以它為準
+    const versions = list
+      .flatMap((a) => a.tracks.filter((t) => songKey(a, t) === key))
+      .sort((a, b) => hasCJK(b.titleZh ?? b.title) - hasCJK(a.titleZh ?? a.title))
     const plays = Math.max(...versions.map((t) => t.plays ?? -1))
     songs.set(key, {
       id: key,

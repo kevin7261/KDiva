@@ -3,6 +3,7 @@
 // 若設定 YOUTUBE_API_KEY，會再用官方 YouTube Data API 補上精確的觀看次數。
 // 發行日期另外從 Wikipedia／Wikidata 比對（見 wiki.js）。
 
+import * as OpenCC from 'opencc-js'
 import { fetchReleaseCatalog, matchRelease, normalizeTitle, hasCJK, pinyinKey, toTW } from './wiki.js'
 import { RELEASE_OVERRIDES } from './release-overrides.js'
 import { releaseSortKey } from '../src/lib/release.js'
@@ -339,6 +340,8 @@ export function addChineseTitles(albums, catalog = []) {
 // ---------- 歌名比對鍵 ----------
 
 const LIVE_RE = /live|演唱會|演唱会|音樂會|音乐会|現場|现场|concert/i
+// 日文新字體寫法（「晩安曲」）轉成繁體，才會和「晚安曲」視為同名
+const jpToTW = OpenCC.Converter({ from: 'jp', to: 'tw' })
 
 /**
  * 每首曲目的 nameKey：前端用來判斷「同一首歌」。
@@ -379,7 +382,7 @@ export function addNameKeys(albums) {
       if (t.titleZh && live && !LIVE_RE.test(t.titleZh)) t.titleZh += ' (Live)'
       const title = t.titleZh ?? parts(t.title).find(hasCJK) ?? parts(t.title)[0]
       const base = title.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ' ').trim() || title
-      t.nameKey = normalizeTitle(base) + (live ? '#live' : '')
+      t.nameKey = normalizeTitle(jpToTW(base)) + (live ? '#live' : '')
     }
   }
 }
