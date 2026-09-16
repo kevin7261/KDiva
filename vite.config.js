@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-import { writeFile, mkdir } from 'node:fs/promises'
+import { writeFile, mkdir, readFile } from 'node:fs/promises'
 import { fetchArtistDataset } from './server/ytmusic.js'
 import { DATA_DIR, dataFile, findArtist } from './server/config.js'
 
@@ -16,6 +16,19 @@ function refreshApi() {
   return {
     name: 'kdiva-refresh-api',
     configureServer(server) {
+      // public/data 不在 watch 範圍，Vite 不會登記啟動後才新增的 JSON（會回傳 index.html），所以直接從磁碟讀
+      server.middlewares.use('/data', async (req, res, next) => {
+        const slug = req.url.match(/^\/([\w-]+)\.json(?:\?|$)/)?.[1]
+        if (!slug) return next()
+        try {
+          const body = await readFile(dataFile(slug))
+          res.setHeader('content-type', 'application/json; charset=utf-8')
+          res.setHeader('cache-control', 'no-cache')
+          res.end(body)
+        } catch {
+          send(res, 404, { error: `找不到 ${slug}.json` })
+        }
+      })
       server.middlewares.use('/api/refresh', async (req, res) => {
         if (req.method !== 'POST') return send(res, 405, { error: 'POST only' })
         const slug = new URL(req.url, 'http://localhost').searchParams.get('artist')
