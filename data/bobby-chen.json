@@ -2,19 +2,21 @@
   "slug": "bobby-chen",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-16T18:53:12.584Z",
+  "fetchedAt": "2026-09-16T19:11:43.218Z",
   "artist": {
     "channelId": "UC4lfQ2v3iBxHmYzYRKURyOQ",
     "name": "陳昇 - Bobby Chen",
     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nfw3iXxP0Jv9X-pPiPQhHb8VtesJIfPl2ugaZbIx-qEw=w800-h333-l90-rj-dcHXaGCjIG",
     "subscribers": 35100,
-    "monthlyAudience": 265000
+    "monthlyAudience": 265000,
+    "avatar": "https://yt3.googleusercontent.com/_7-XehS6k2ZDhCWZVa-9xffFkxHdwDHJ2I3PtJyGsSIZCcwT2UOyDrxwcxC0aN1_yuJBnriUPzo=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
       "browseId": "MPREb_RcUUa2oGaLa",
       "playlistId": "OLAK5uy_ng-e85wAEUUY6bmL48ng29fXk0T7sNGRQ",
       "title": "擁擠的樂園",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1988,
       "thumbnail": "https://yt3.googleusercontent.com/JqhXBfLexNwivsU24NOCuL9r_z-eGeuUUiO25s5Al-F-V4kBmFuYUn1Ea1VCYVy5MbpIeQTul26M6qhOgg=w544-h544-l90-rj",
@@ -27,7 +29,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 201,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "擁擠的樂園"
         },
         {
           "index": 2,
@@ -37,7 +40,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夜"
         },
         {
           "index": 3,
@@ -47,7 +51,8 @@
           "plays": 108000,
           "playsText": "108K plays",
           "duration": 318,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "凡人的告白書"
         },
         {
           "index": 4,
@@ -57,7 +62,8 @@
           "plays": 171000,
           "playsText": "171K plays",
           "duration": 368,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "責任"
         },
         {
           "index": 5,
@@ -67,7 +73,8 @@
           "plays": 3600,
           "playsText": "3.6K plays",
           "duration": 215,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黃土"
         },
         {
           "index": 6,
@@ -77,7 +84,8 @@
           "plays": 9600,
           "playsText": "9.6K plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "停火"
         },
         {
           "index": 7,
@@ -87,7 +95,8 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 329,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "回到我身邊"
         },
         {
           "index": 8,
@@ -97,7 +106,8 @@
           "plays": 5900,
           "playsText": "5.9K plays",
           "duration": 352,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "思念"
         },
         {
           "index": 9,
@@ -107,7 +117,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 394,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鄉"
         }
       ],
       "releaseDate": "1988-05-03",
@@ -119,6 +130,7 @@
       "browseId": "MPREb_4iqdieeIZoZ",
       "playlistId": "OLAK5uy_m8rBGtsPkbPBhfjDGDQgpaDKKloXz-RcM",
       "title": "放肆的情人",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1989,
       "thumbnail": "https://yt3.googleusercontent.com/afno2hKJU5PJLOBUKlEbxYevyCoy6j7qDAE9PldTqdQ9QiAKVNn-SYwj2g7ksv3mI9eERfCb6eivcQU=w544-h544-l90-rj",
@@ -131,7 +143,8 @@
           "plays": 61000,
           "playsText": "61K plays",
           "duration": 381,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我的明天"
         },
         {
           "index": 2,
@@ -141,7 +154,8 @@
           "plays": 47000,
           "playsText": "47K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "獵人與羔羊"
         },
         {
           "index": 3,
@@ -151,7 +165,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 184,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "孩子"
         },
         {
           "index": 4,
@@ -161,7 +176,8 @@
           "plays": 8000,
           "playsText": "8K plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛欲之潮來襲時"
         },
         {
           "index": 5,
@@ -171,7 +187,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 303,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "宿命"
         },
         {
           "index": 6,
@@ -181,7 +198,8 @@
           "plays": 5500000,
           "playsText": "5.5M plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最後一次溫柔"
         },
         {
           "index": 7,
@@ -191,7 +209,8 @@
           "plays": 92000,
           "playsText": "92K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "子夜二時你做什麼"
         },
         {
           "index": 8,
@@ -201,7 +220,8 @@
           "plays": 8000,
           "playsText": "8K plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "溫柔的迪化街"
         },
         {
           "index": 9,
@@ -211,7 +231,8 @@
           "plays": 4000,
           "playsText": "4K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "嗚哩哇啦rocknroll"
         },
         {
           "index": 10,
@@ -221,7 +242,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "世界的主人"
         }
       ],
       "releaseDate": "1989-04-18",
@@ -233,6 +255,7 @@
       "browseId": "MPREb_2Wy8f0dPuJN",
       "playlistId": "OLAK5uy_nN8_rf2t5BdtPWKr2cmafWjJegx_OkgNM",
       "title": "貪婪之歌",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1990,
       "thumbnail": "https://yt3.googleusercontent.com/bqtWjeJGCdmYxeIFSbAY6j3zAKHYB752Y2jCuH47rRlfInzXHUmJuWPufDC2AdrvwXRna62e9d7sSySN=w544-h544-l90-rj",
@@ -245,7 +268,8 @@
           "plays": 2500000,
           "playsText": "2.5M plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "然而"
         },
         {
           "index": 2,
@@ -255,7 +279,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 314,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "貪婪之歌"
         },
         {
           "index": 3,
@@ -265,7 +290,8 @@
           "plays": 4300,
           "playsText": "4.3K plays",
           "duration": 341,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夜奔"
         },
         {
           "index": 4,
@@ -275,7 +301,8 @@
           "plays": 4200,
           "playsText": "4.2K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "馬蘭姑娘"
         },
         {
           "index": 5,
@@ -285,7 +312,8 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "脫軌"
         },
         {
           "index": 6,
@@ -295,7 +323,8 @@
           "plays": 262000,
           "playsText": "262K plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "半生情"
         },
         {
           "index": 7,
@@ -305,7 +334,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 425,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "憤怒與童女之舞"
         },
         {
           "index": 8,
@@ -315,7 +345,8 @@
           "plays": 2600,
           "playsText": "2.6K plays",
           "duration": 336,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小王子"
         },
         {
           "index": 9,
@@ -325,7 +356,8 @@
           "plays": 77000,
           "playsText": "77K plays",
           "duration": 312,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無言"
         },
         {
           "index": 10,
@@ -335,7 +367,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 101,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "嘿"
         }
       ],
       "releaseDate": "1990-09-14",
@@ -347,6 +380,7 @@
       "browseId": "MPREb_orlaFwF9wTh",
       "playlistId": "OLAK5uy_lFYa9GwWMf-zTU62urRUUb5n4aYkp7e1g",
       "title": "私奔",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1991,
       "thumbnail": "https://yt3.googleusercontent.com/L70096NdELdQc-BSVn2Vv5qaY8XKf6HoWBMPhN53l2-UKZCMQwi9D_6jbITBtHhR9jcZDz1OTf_1Nj8=w544-h544-l90-rj",
@@ -359,7 +393,8 @@
           "plays": 66000000,
           "playsText": "66M plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "把悲傷留給自己"
         },
         {
           "index": 2,
@@ -369,7 +404,8 @@
           "plays": 251000,
           "playsText": "251K plays",
           "duration": 318,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我喜歡私奔和我自己"
         },
         {
           "index": 3,
@@ -379,7 +415,8 @@
           "plays": 270000,
           "playsText": "270K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "紅色汽球"
         },
         {
           "index": 4,
@@ -389,7 +426,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 309,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如風的少年"
         },
         {
           "index": 5,
@@ -399,7 +437,8 @@
           "plays": 32000,
           "playsText": "32K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "少年夏不安"
         },
         {
           "index": 6,
@@ -409,7 +448,8 @@
           "plays": 635000,
           "playsText": "635K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最後一盞燈"
         },
         {
           "index": 7,
@@ -419,7 +459,9 @@
           "plays": 23000,
           "playsText": "23K plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "午後的蟬聲",
+          "titleZh": "午後的蟬聲"
         },
         {
           "index": 8,
@@ -429,7 +471,8 @@
           "plays": 7700,
           "playsText": "7.7K plays",
           "duration": 290,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "新樂園"
         },
         {
           "index": 9,
@@ -439,7 +482,8 @@
           "plays": 8300,
           "playsText": "8.3K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "老爹的故事"
         },
         {
           "index": 10,
@@ -449,7 +493,8 @@
           "plays": 7800,
           "playsText": "7.8K plays",
           "duration": 372,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無神論者的悲歌"
         }
       ],
       "releaseDate": "1991-08-14",
@@ -461,6 +506,7 @@
       "browseId": "MPREb_bxvquA2C9xr",
       "playlistId": "OLAK5uy_kk72-YbZYrzOOap6Mhl-Qtj3AkTTBaF9U",
       "title": "別讓我哭",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1992,
       "thumbnail": "https://yt3.googleusercontent.com/_77zDbIUNY_w0mxBQnZl4OClqdose6dMbCvrHzjOyGd02mu20p7vtMGr1v-e3SHgtgvib9ruDH3wwKhu=w544-h544-l90-rj",
@@ -473,7 +519,8 @@
           "plays": 514000,
           "playsText": "514K plays",
           "duration": 404,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "別讓我哭"
         },
         {
           "index": 2,
@@ -483,7 +530,8 @@
           "plays": 6200,
           "playsText": "6.2K plays",
           "duration": 128,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "嘿我要走了"
         },
         {
           "index": 3,
@@ -493,7 +541,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 347,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "vivien"
         },
         {
           "index": 4,
@@ -503,7 +552,8 @@
           "plays": 41000,
           "playsText": "41K plays",
           "duration": 408,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "國界"
         },
         {
           "index": 5,
@@ -513,7 +563,8 @@
           "plays": 482000,
           "playsText": "482K plays",
           "duration": 370,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "onenightinbeijing"
         },
         {
           "index": 6,
@@ -523,7 +574,8 @@
           "plays": 3900,
           "playsText": "3.9K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "龍舞"
         },
         {
           "index": 7,
@@ -533,7 +585,8 @@
           "plays": 2200,
           "playsText": "2.2K plays",
           "duration": 397,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "光明凱歌"
         },
         {
           "index": 8,
@@ -543,7 +596,8 @@
           "plays": 2800,
           "playsText": "2.8K plays",
           "duration": 370,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "達邦我的鄉"
         },
         {
           "index": 9,
@@ -553,7 +607,8 @@
           "plays": 2800,
           "playsText": "2.8K plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "西門浪子"
         },
         {
           "index": 10,
@@ -563,7 +618,8 @@
           "plays": 6700,
           "playsText": "6.7K plays",
           "duration": 368,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑水溝"
         }
       ],
       "releaseDate": "1992-11-20",
@@ -575,6 +631,7 @@
       "browseId": "MPREb_NtaRwiqSINm",
       "playlistId": "OLAK5uy_mfipvFyR5yVMGZq3m5tCeytwas87B7uBA",
       "title": "魔鬼的情詩",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1994,
       "thumbnail": "https://yt3.googleusercontent.com/0TjKEOb2JwTwv5lI08hXBfnkDG5tNfZl4a-XSTQfLdg7aHvUmMkBSj95z7lcfrm7BrJ4yQg5jcjVthAd=w544-h544-l90-rj",
@@ -587,7 +644,8 @@
           "plays": 5300000,
           "playsText": "5.3M plays",
           "duration": 335,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不再讓你孤單"
         },
         {
           "index": 2,
@@ -597,7 +655,8 @@
           "plays": 5500000,
           "playsText": "5.5M plays",
           "duration": 298,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最後一次溫柔"
         },
         {
           "index": 3,
@@ -607,7 +666,8 @@
           "plays": 66000000,
           "playsText": "66M plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "把悲傷留給自己"
         },
         {
           "index": 4,
@@ -617,7 +677,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 200,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "擁擠的樂園"
         },
         {
           "index": 5,
@@ -627,7 +688,8 @@
           "plays": 270000,
           "playsText": "270K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "紅色汽球"
         },
         {
           "index": 6,
@@ -637,7 +699,8 @@
           "plays": 171000,
           "playsText": "171K plays",
           "duration": 369,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "責任"
         },
         {
           "index": 7,
@@ -647,7 +710,8 @@
           "plays": 2500000,
           "playsText": "2.5M plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "然而"
         },
         {
           "index": 8,
@@ -657,7 +721,8 @@
           "plays": 108000,
           "playsText": "108K plays",
           "duration": 317,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "凡人的告白書"
         },
         {
           "index": 9,
@@ -667,7 +732,8 @@
           "plays": 514000,
           "playsText": "514K plays",
           "duration": 405,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "別讓我哭"
         },
         {
           "index": 10,
@@ -677,7 +743,8 @@
           "plays": 635000,
           "playsText": "635K plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最後一盞燈"
         },
         {
           "index": 11,
@@ -687,7 +754,8 @@
           "plays": 47000,
           "playsText": "47K plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "獵人與羔羊"
         },
         {
           "index": 12,
@@ -697,7 +765,8 @@
           "plays": 262000,
           "playsText": "262K plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "半生情"
         }
       ],
       "releaseDate": "1994-04-26",
@@ -709,6 +778,7 @@
       "browseId": "MPREb_D4fVjt4nn0U",
       "playlistId": "OLAK5uy_n13fODlkPk6pbqDy8na5ShU5YZWpbP2jg",
       "title": "魔鬼的情詩(二)",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1998,
       "thumbnail": "https://yt3.googleusercontent.com/sgGCYa9pxM1A7gEh3wPfOYTnRslRR6M-C_-n1tCMKRaIaB43kL2y4BF3Ujl4HSebojceXdZzqQlhgf3s=w544-h544-l90-rj",
@@ -721,7 +791,8 @@
           "plays": 961000,
           "playsText": "961K plays",
           "duration": 325,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "20歲的眼淚"
         },
         {
           "index": 2,
@@ -731,7 +802,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 376,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鏡子"
         },
         {
           "index": 3,
@@ -741,7 +813,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "風箏"
         },
         {
           "index": 4,
@@ -751,7 +824,9 @@
           "plays": 474000,
           "playsText": "474K plays",
           "duration": 402,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "擁擠的樂園",
+          "titleZh": "擁擠的樂園"
         },
         {
           "index": 5,
@@ -761,7 +836,8 @@
           "plays": 493000,
           "playsText": "493K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "冰點"
         },
         {
           "index": 6,
@@ -771,7 +847,8 @@
           "plays": 165000,
           "playsText": "165K plays",
           "duration": 481,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "關於男人"
         },
         {
           "index": 7,
@@ -781,7 +858,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "恨情歌"
         },
         {
           "index": 8,
@@ -791,7 +869,8 @@
           "plays": 940000,
           "playsText": "940K plays",
           "duration": 343,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "路口"
         },
         {
           "index": 9,
@@ -801,7 +880,8 @@
           "plays": 443000,
           "playsText": "443K plays",
           "duration": 394,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流星小夜曲"
         },
         {
           "index": 10,
@@ -811,7 +891,8 @@
           "plays": 7700,
           "playsText": "7.7K plays",
           "duration": 348,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "旅程"
         },
         {
           "index": 11,
@@ -821,7 +902,8 @@
           "plays": 489000,
           "playsText": "489K plays",
           "duration": 355,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "六月"
         },
         {
           "index": 12,
@@ -831,7 +913,8 @@
           "plays": 653000,
           "playsText": "653K plays",
           "duration": 439,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "明年你還愛我嗎"
         }
       ],
       "releaseDate": "1994-04-26",
@@ -843,6 +926,7 @@
       "browseId": "MPREb_ABMH424pyfg",
       "playlistId": "OLAK5uy_kriOWoOcXcQnPk44fMCmioDHAvCVeP5q4",
       "title": "風箏",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1994,
       "thumbnail": "https://yt3.googleusercontent.com/YNnxqgz2TSikiXxDiOheGJ4Ibftj-aBmNUPeiZWlsG7bPxVNbAYNTiKzAHDtywtvGVAAgIqsgvXWG8Ak=w544-h544-l90-rj",
@@ -852,10 +936,11 @@
           "title": "20歲的眼淚",
           "artists": "陳昇",
           "videoId": "HSN6wbCy0dE",
-          "plays": 961000,
-          "playsText": "961K plays",
+          "plays": 962000,
+          "playsText": "962K plays",
           "duration": 324,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "20歲的眼淚"
         },
         {
           "index": 2,
@@ -865,7 +950,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 284,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "風箏"
         },
         {
           "index": 3,
@@ -875,7 +961,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 456,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "孤寂的兵"
         },
         {
           "index": 4,
@@ -885,7 +972,8 @@
           "plays": 3300,
           "playsText": "3.3K plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夜"
         },
         {
           "index": 5,
@@ -895,7 +983,8 @@
           "plays": 8800,
           "playsText": "8.8K plays",
           "duration": 440,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夜襲"
         },
         {
           "index": 6,
@@ -905,7 +994,8 @@
           "plays": 493000,
           "playsText": "493K plays",
           "duration": 309,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "冰點"
         },
         {
           "index": 7,
@@ -915,7 +1005,8 @@
           "plays": 7000,
           "playsText": "7K plays",
           "duration": 236,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢"
         },
         {
           "index": 8,
@@ -925,7 +1016,8 @@
           "plays": 5100,
           "playsText": "5.1K plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lastorder"
         },
         {
           "index": 9,
@@ -935,7 +1027,8 @@
           "plays": 2500,
           "playsText": "2.5K plays",
           "duration": 310,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雷雨之夜"
         },
         {
           "index": 10,
@@ -945,7 +1038,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 308,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我愛美麗的寶島"
         },
         {
           "index": 11,
@@ -955,7 +1049,8 @@
           "plays": 2800,
           "playsText": "2.8K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "孩子的鞋"
         }
       ],
       "releaseDate": "1994-09-02",
@@ -967,6 +1062,7 @@
       "browseId": "MPREb_YIWuSvPgeom",
       "playlistId": "OLAK5uy_nGCELbXUDuou4BMUYJm3ep6Cv3b8Y2Bc4",
       "title": "恨情歌",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1995,
       "thumbnail": "https://yt3.googleusercontent.com/AdOvwlZCAUtsGz6AprVV_lwwnRfpxwbhovH2ZVy71WoW0-0oM5DftbEkjEFAcQGcpYg8Idt6OJ-weCMSjQ=w544-h544-l90-rj",
@@ -979,7 +1075,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "恨情歌"
         },
         {
           "index": 2,
@@ -989,7 +1086,8 @@
           "plays": 5100,
           "playsText": "5.1K plays",
           "duration": 140,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蛾"
         },
         {
           "index": 3,
@@ -999,7 +1097,8 @@
           "plays": 8300,
           "playsText": "8.3K plays",
           "duration": 349,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "凡人都寂寞"
         },
         {
           "index": 4,
@@ -1009,7 +1108,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "農夫"
         },
         {
           "index": 5,
@@ -1019,7 +1119,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "姑姑"
         },
         {
           "index": 6,
@@ -1029,7 +1130,8 @@
           "plays": 29000,
           "playsText": "29K plays",
           "duration": 466,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "四號"
         },
         {
           "index": 7,
@@ -1039,7 +1141,8 @@
           "plays": 3200,
           "playsText": "3.2K plays",
           "duration": 524,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "再見阿好嬸"
         },
         {
           "index": 8,
@@ -1049,7 +1152,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "害怕"
         },
         {
           "index": 9,
@@ -1059,7 +1163,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 473,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "瘋子"
         },
         {
           "index": 10,
@@ -1069,7 +1174,8 @@
           "plays": 9300,
           "playsText": "9.3K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "17號省道"
         },
         {
           "index": 11,
@@ -1079,7 +1185,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "藍"
         }
       ],
       "releaseDate": "1995-05-18",
@@ -1091,6 +1198,7 @@
       "browseId": "MPREb_EYSXaH0YlnN",
       "playlistId": "OLAK5uy_n8H_Rny5loKR82sIyYvl3wp5Lmq6mh5S4",
       "title": "1996 SUMMER 夏",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1996,
       "thumbnail": "https://yt3.googleusercontent.com/yBTnIDNVBi1MxYXvzEHpwQHtGMm9EV1cb47yqqoUlVeGmebFXQ8nk8FKhKTYAOG3VsBP7ITs0VhlFkqk=w544-h544-l90-rj",
@@ -1103,7 +1211,8 @@
           "plays": 474000,
           "playsText": "474K plays",
           "duration": 402,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "summer"
         },
         {
           "index": 2,
@@ -1113,7 +1222,8 @@
           "plays": 63000,
           "playsText": "63K plays",
           "duration": 368,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "南風"
         },
         {
           "index": 3,
@@ -1123,7 +1233,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 375,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鏡子"
         },
         {
           "index": 4,
@@ -1133,7 +1244,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 351,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "四條腿"
         },
         {
           "index": 5,
@@ -1143,7 +1255,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 343,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "河"
         },
         {
           "index": 6,
@@ -1153,7 +1266,8 @@
           "plays": 165000,
           "playsText": "165K plays",
           "duration": 478,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "關於男人"
         },
         {
           "index": 7,
@@ -1163,7 +1277,8 @@
           "plays": 30000,
           "playsText": "30K plays",
           "duration": 378,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "海豚阿德"
         },
         {
           "index": 8,
@@ -1173,7 +1288,8 @@
           "plays": 2600,
           "playsText": "2.6K plays",
           "duration": 348,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小扁擔"
         },
         {
           "index": 9,
@@ -1183,7 +1299,8 @@
           "plays": 6700,
           "playsText": "6.7K plays",
           "duration": 526,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不安的年代"
         }
       ],
       "releaseDate": null,
@@ -1195,6 +1312,7 @@
       "browseId": "MPREb_Ed4yJWsag3F",
       "playlistId": "OLAK5uy_mPUG6Ho9abgGuu9xMd1TzS6T3ObsHgCMA",
       "title": "六月",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1997,
       "thumbnail": "https://yt3.googleusercontent.com/qkIWMDRikMnZh2BmWgla53cpZWU3PgDmSlBR2kyuIWjzU97tVcMK6zhpnwrkcZq-ZzWU9tscCzaFJiRt=w544-h544-l90-rj",
@@ -1207,7 +1325,8 @@
           "plays": 8000,
           "playsText": "8K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "給我muchomucho"
         },
         {
           "index": 2,
@@ -1217,7 +1336,8 @@
           "plays": 49000,
           "playsText": "49K plays",
           "duration": 363,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蘑菇蘑菇"
         },
         {
           "index": 3,
@@ -1227,7 +1347,8 @@
           "plays": 111000,
           "playsText": "111K plays",
           "duration": 336,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "候鳥"
         },
         {
           "index": 4,
@@ -1237,7 +1358,8 @@
           "plays": 7700,
           "playsText": "7.7K plays",
           "duration": 347,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "旅程"
         },
         {
           "index": 5,
@@ -1247,7 +1369,8 @@
           "plays": 940000,
           "playsText": "940K plays",
           "duration": 342,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "路口"
         },
         {
           "index": 6,
@@ -1257,7 +1380,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 358,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "水母"
         },
         {
           "index": 7,
@@ -1267,7 +1391,8 @@
           "plays": 4900,
           "playsText": "4.9K plays",
           "duration": 331,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "葉松"
         },
         {
           "index": 8,
@@ -1277,7 +1402,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 155,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "吶喊"
         },
         {
           "index": 9,
@@ -1287,7 +1413,8 @@
           "plays": 48000,
           "playsText": "48K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "老嬉皮"
         },
         {
           "index": 10,
@@ -1297,7 +1424,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "離開你走近你"
         },
         {
           "index": 11,
@@ -1307,7 +1435,8 @@
           "plays": 489000,
           "playsText": "489K plays",
           "duration": 352,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "六月"
         }
       ],
       "releaseDate": "1997-07-17",
@@ -1319,6 +1448,7 @@
       "browseId": "MPREb_RWqeUUcnWSK",
       "playlistId": "OLAK5uy_njzf_ZX2ymF6nkb9WZcKV6SK_g4WVVowQ",
       "title": "鴉片玫瑰",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 1998,
       "thumbnail": "https://yt3.googleusercontent.com/3eaMrZQyBvlR3MyBQ9XLblqBWiFMs1lFFTsfzw0grymicRPgvHAxrWBbCK88RUGBNkNBriZHLmzByIA=w544-h544-l90-rj",
@@ -1331,7 +1461,8 @@
           "plays": 3600,
           "playsText": "3.6K plays",
           "duration": 336,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "生命的滋味"
         },
         {
           "index": 2,
@@ -1341,7 +1472,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 383,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "細漢仔"
         },
         {
           "index": 3,
@@ -1351,7 +1483,8 @@
           "plays": 443000,
           "playsText": "443K plays",
           "duration": 392,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流星小夜曲"
         },
         {
           "index": 4,
@@ -1361,7 +1494,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "淺藍大肥貓"
         },
         {
           "index": 5,
@@ -1371,7 +1505,8 @@
           "plays": 2500,
           "playsText": "2.5K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "christine克莉絲汀"
         },
         {
           "index": 6,
@@ -1381,7 +1516,8 @@
           "plays": 268000,
           "playsText": "268K plays",
           "duration": 299,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鴉片玫瑰"
         },
         {
           "index": 7,
@@ -1391,7 +1527,8 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 87,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鹹魚的滋味"
         },
         {
           "index": 8,
@@ -1401,7 +1538,8 @@
           "plays": 4000,
           "playsText": "4K plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "影子"
         },
         {
           "index": 9,
@@ -1411,7 +1549,8 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 406,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "橘子鼓"
         },
         {
           "index": 10,
@@ -1421,7 +1560,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 432,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "atrain到天堂"
         },
         {
           "index": 11,
@@ -1431,7 +1571,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 137,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑光"
         }
       ],
       "releaseDate": "1998-07-30",
@@ -1443,6 +1584,7 @@
       "browseId": "MPREb_lsnx0RIYRrn",
       "playlistId": "OLAK5uy_kQiiEcwm95hHIJgjbJNI6rCtswaLrio5s",
       "title": "思念人之屋",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2000,
       "thumbnail": "https://yt3.googleusercontent.com/GBMQJ_PRoAjr0wTcBP3kQqDRK5eteepJEmqSNNraK4kMzkM_ypobva6TWt_kHTVTFA66wZnrVyhiHvRB=w544-h544-l90-rj",
@@ -1455,7 +1597,8 @@
           "plays": 128000,
           "playsText": "128K plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "思念人之屋"
         },
         {
           "index": 2,
@@ -1465,7 +1608,8 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "六份地圖"
         },
         {
           "index": 3,
@@ -1475,7 +1619,8 @@
           "plays": 100000,
           "playsText": "100K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "發條兔子"
         },
         {
           "index": 4,
@@ -1485,7 +1630,8 @@
           "plays": 147000,
           "playsText": "147K plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "她不是我的"
         },
         {
           "index": 5,
@@ -1495,7 +1641,8 @@
           "plays": 41000,
           "playsText": "41K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "朋友"
         },
         {
           "index": 6,
@@ -1505,7 +1652,8 @@
           "plays": 2700,
           "playsText": "2.7K plays",
           "duration": 357,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "老麻的私事"
         },
         {
           "index": 7,
@@ -1515,7 +1663,8 @@
           "plays": 3100,
           "playsText": "3.1K plays",
           "duration": 339,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狂戀"
         },
         {
           "index": 8,
@@ -1525,7 +1674,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 118,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "驟雨"
         },
         {
           "index": 9,
@@ -1535,7 +1685,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 298,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "舞"
         },
         {
           "index": 10,
@@ -1545,7 +1696,8 @@
           "plays": 116000,
           "playsText": "116K plays",
           "duration": 325,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "喝完這杯咖啡就走開"
         },
         {
           "index": 11,
@@ -1555,7 +1707,8 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 443,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "晚安母親"
         },
         {
           "index": 12,
@@ -1565,7 +1718,8 @@
           "plays": 5200,
           "playsText": "5.2K plays",
           "duration": 115,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "啊陽光"
         },
         {
           "index": 13,
@@ -1575,7 +1729,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 433,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "airportmalpensa"
         },
         {
           "index": 14,
@@ -1585,7 +1740,8 @@
           "plays": 193000,
           "playsText": "193K plays",
           "duration": 391,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小雪"
         },
         {
           "index": 15,
@@ -1595,7 +1751,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 309,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "voyage"
         }
       ],
       "releaseDate": "2000-05-18",
@@ -1607,6 +1764,7 @@
       "browseId": "MPREb_2mGpZSLMqBD",
       "playlistId": "OLAK5uy_mP52S340UeNVRaz3aDY1eVfOgre8Lk2WM",
       "title": "五十米深藍",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2001,
       "thumbnail": "https://yt3.googleusercontent.com/9QyXXj6_pQkZl6nEhFEXPRPd_30Rt-RIot67vOe8JyJIrXQ2SCSWKwBzdNs8sK9g0Bcizzdz36H8uUWl=w544-h544-l90-rj",
@@ -1619,7 +1777,8 @@
           "plays": 701000,
           "playsText": "701K plays",
           "duration": 374,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一個人去旅行"
         },
         {
           "index": 2,
@@ -1629,7 +1788,8 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 373,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "綠樹與知了"
         },
         {
           "index": 3,
@@ -1639,7 +1799,8 @@
           "plays": 4800,
           "playsText": "4.8K plays",
           "duration": 549,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "漫遊2002"
         },
         {
           "index": 4,
@@ -1649,7 +1810,8 @@
           "plays": 111000,
           "playsText": "111K plays",
           "duration": 364,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "50米深藍"
         },
         {
           "index": 5,
@@ -1659,7 +1821,8 @@
           "plays": 3400,
           "playsText": "3.4K plays",
           "duration": 284,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "柴魚"
         },
         {
           "index": 6,
@@ -1669,7 +1832,8 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 395,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "活該你是單身漢"
         },
         {
           "index": 7,
@@ -1679,7 +1843,8 @@
           "plays": 926,
           "playsText": "926 plays",
           "duration": 151,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大頭日記"
         },
         {
           "index": 8,
@@ -1689,7 +1854,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 329,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "熱浪t恤"
         },
         {
           "index": 9,
@@ -1699,7 +1865,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 363,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小南門"
         },
         {
           "index": 10,
@@ -1709,7 +1876,8 @@
           "plays": 5300,
           "playsText": "5.3K plays",
           "duration": 575,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "爸爸的年代"
         }
       ],
       "releaseDate": "2001-01-01",
@@ -1721,6 +1889,7 @@
       "browseId": "MPREb_Ht4R68WXE4W",
       "playlistId": "OLAK5uy_le0Rc03Fdh9MUX_2LsaY32O96326ZsHD4",
       "title": "魔鬼A春天",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2003,
       "thumbnail": "https://yt3.googleusercontent.com/CtMeAzhnaqEQmfR9m4Y-lRkman2QdSwH4H8FxmT1DymkqdhBSnCyVX4wWb7j9RbS_3Fatvq_V4z4SD4=w544-h544-l90-rj",
@@ -1733,7 +1902,8 @@
           "plays": 103000,
           "playsText": "103K plays",
           "duration": 380,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "真愛a感覺"
         },
         {
           "index": 2,
@@ -1743,7 +1913,8 @@
           "plays": 3900,
           "playsText": "3.9K plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "擁擠的樂園"
         },
         {
           "index": 3,
@@ -1753,7 +1924,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 309,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "責任"
         },
         {
           "index": 4,
@@ -1763,7 +1935,8 @@
           "plays": 158000,
           "playsText": "158K plays",
           "duration": 325,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "子夜二時你做什麼"
         },
         {
           "index": 5,
@@ -1773,7 +1946,8 @@
           "plays": 72000,
           "playsText": "72K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最後一次的溫柔"
         },
         {
           "index": 6,
@@ -1783,7 +1957,8 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 421,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "獵人與羔羊br然而"
         },
         {
           "index": 7,
@@ -1793,7 +1968,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "半生情"
         },
         {
           "index": 8,
@@ -1803,7 +1979,8 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 340,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "紅色氣球"
         },
         {
           "index": 9,
@@ -1813,7 +1990,8 @@
           "plays": 2400,
           "playsText": "2.4K plays",
           "duration": 352,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最後一盞燈"
         },
         {
           "index": 10,
@@ -1823,7 +2001,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 338,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "把悲傷留給自己"
         },
         {
           "index": 11,
@@ -1833,7 +2012,8 @@
           "plays": 58000,
           "playsText": "58K plays",
           "duration": 347,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "別讓我哭"
         },
         {
           "index": 12,
@@ -1843,7 +2023,8 @@
           "plays": 968000,
           "playsText": "968K plays",
           "duration": 373,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "onenightinbeijing"
         },
         {
           "index": 13,
@@ -1853,7 +2034,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 320,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "20歲的眼淚"
         },
         {
           "index": 14,
@@ -1863,7 +2045,8 @@
           "plays": 280000,
           "playsText": "280K plays",
           "duration": 389,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "汀州路的春天"
         },
         {
           "index": 15,
@@ -1873,7 +2056,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "風箏"
         },
         {
           "index": 16,
@@ -1883,7 +2067,8 @@
           "plays": 31000,
           "playsText": "31K plays",
           "duration": 319,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "恨情歌"
         },
         {
           "index": 17,
@@ -1893,7 +2078,8 @@
           "plays": 5800,
           "playsText": "5.8K plays",
           "duration": 374,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "summer"
         },
         {
           "index": 18,
@@ -1903,7 +2089,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 484,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "關於男人"
         },
         {
           "index": 19,
@@ -1913,7 +2100,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 424,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鏡子"
         },
         {
           "index": 20,
@@ -1923,7 +2111,8 @@
           "plays": 7100,
           "playsText": "7.1K plays",
           "duration": 347,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蘑菇蘑菇"
         },
         {
           "index": 21,
@@ -1933,7 +2122,8 @@
           "plays": 2900,
           "playsText": "2.9K plays",
           "duration": 489,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "路口"
         },
         {
           "index": 22,
@@ -1943,7 +2133,8 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 451,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鴉片玫瑰br六月"
         },
         {
           "index": 23,
@@ -1953,7 +2144,8 @@
           "plays": 3300,
           "playsText": "3.3K plays",
           "duration": 371,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "思念人之屋"
         },
         {
           "index": 24,
@@ -1963,7 +2155,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "發條兔子"
         }
       ],
       "releaseDate": "2003-12-26",
@@ -1975,6 +2168,7 @@
       "browseId": "MPREb_oQiI8Hzp02z",
       "playlistId": "OLAK5uy_loSEAZd1smf33YJrNzkFcmdiosxW_ZCsQ",
       "title": "滾石香港黃金十年-陳昇精選",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2003,
       "thumbnail": "https://yt3.googleusercontent.com/PYO9rVCkrR9EUAgJTD_qfEcS92qbQ_MewdusVf1oVA1BU6yJY2b7rjdU3_53puU9AZb_Bm8-1RYXeBvi=w544-h544-l90-rj",
@@ -1987,7 +2181,8 @@
           "plays": 66000000,
           "playsText": "66M plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "把悲傷留給自己"
         },
         {
           "index": 2,
@@ -1997,7 +2192,8 @@
           "plays": 5300000,
           "playsText": "5.3M plays",
           "duration": 334,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不再讓你孤單"
         },
         {
           "index": 3,
@@ -2007,7 +2203,8 @@
           "plays": 474000,
           "playsText": "474K plays",
           "duration": 400,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "summer"
         },
         {
           "index": 4,
@@ -2017,7 +2214,8 @@
           "plays": 482000,
           "playsText": "482K plays",
           "duration": 369,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "北京一夜"
         },
         {
           "index": 5,
@@ -2027,7 +2225,8 @@
           "plays": 193000,
           "playsText": "193K plays",
           "duration": 389,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小雪"
         },
         {
           "index": 6,
@@ -2037,7 +2236,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "風箏"
         },
         {
           "index": 7,
@@ -2047,7 +2247,8 @@
           "plays": 5500000,
           "playsText": "5.5M plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最後一次溫柔"
         },
         {
           "index": 8,
@@ -2057,7 +2258,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 200,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "擁擠的樂園"
         },
         {
           "index": 9,
@@ -2067,7 +2269,8 @@
           "plays": 514000,
           "playsText": "514K plays",
           "duration": 403,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "別讓我哭"
         },
         {
           "index": 10,
@@ -2077,7 +2280,8 @@
           "plays": 165000,
           "playsText": "165K plays",
           "duration": 479,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "關於男人"
         },
         {
           "index": 11,
@@ -2087,7 +2291,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "恨情歌"
         },
         {
           "index": 12,
@@ -2097,7 +2302,8 @@
           "plays": 443000,
           "playsText": "443K plays",
           "duration": 394,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流星小夜曲"
         },
         {
           "index": 13,
@@ -2107,7 +2313,8 @@
           "plays": 111000,
           "playsText": "111K plays",
           "duration": 366,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "50米深藍"
         },
         {
           "index": 14,
@@ -2117,7 +2324,8 @@
           "plays": 128000,
           "playsText": "128K plays",
           "duration": 300,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "思念人之屋"
         }
       ],
       "releaseDate": null,
@@ -2129,6 +2337,7 @@
       "browseId": "MPREb_E1KyNKSYWaN",
       "playlistId": "OLAK5uy_n6OgkZ50DyXA8_Y19WtNJNBJm8RHxFWgo",
       "title": "魚說",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2005,
       "thumbnail": "https://yt3.googleusercontent.com/dhhziW25YRNPfAx2ezBG9pSD2eNe22fIzT5P-nylkijCrCG7iusW5TKNVtW-kfszHpxyAs5MSkN_SiKm=w544-h544-l90-rj",
@@ -2141,7 +2350,8 @@
           "plays": 554000,
           "playsText": "554K plays",
           "duration": 344,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你一直在玩"
         },
         {
           "index": 2,
@@ -2151,7 +2361,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 385,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "魚丸"
         },
         {
           "index": 3,
@@ -2161,7 +2372,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "魚說"
         },
         {
           "index": 4,
@@ -2171,7 +2383,8 @@
           "plays": 85000,
           "playsText": "85K plays",
           "duration": 327,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "塔裡的男孩"
         },
         {
           "index": 5,
@@ -2181,7 +2394,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 371,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "誹聞"
         },
         {
           "index": 6,
@@ -2191,7 +2405,8 @@
           "plays": 33000,
           "playsText": "33K plays",
           "duration": 318,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢河"
         },
         {
           "index": 7,
@@ -2201,7 +2416,8 @@
           "plays": 2000,
           "playsText": "2K plays",
           "duration": 442,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "瘟疫"
         },
         {
           "index": 8,
@@ -2211,7 +2427,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "倫敦廢人區"
         },
         {
           "index": 9,
@@ -2221,7 +2438,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 319,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "1989"
         },
         {
           "index": 10,
@@ -2231,7 +2449,8 @@
           "plays": 9600,
           "playsText": "9.6K plays",
           "duration": 472,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "漠然"
         },
         {
           "index": 11,
@@ -2241,7 +2460,8 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 367,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "孩子氣"
         }
       ],
       "releaseDate": "2005-10-21",
@@ -2253,6 +2473,7 @@
       "browseId": "MPREb_uDIC1ppsUcJ",
       "playlistId": "OLAK5uy_m9eiWU7TnQ9NefurN_PZRRrly4sbXWAg0",
       "title": "這些人,那些人",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/SDnQWFfWI5kj0ZLS9vtLBncSAsrnOfX3uhE6exw5jG7wFCvJPUWSvjkiJTlx1q12rgOmDROyskKNbT9x=w544-h544-l90-rj",
@@ -2265,7 +2486,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 98,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "引子這些人那些人"
         },
         {
           "index": 2,
@@ -2275,7 +2497,8 @@
           "plays": 332000,
           "playsText": "332K plays",
           "duration": 382,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狗臉的歲月"
         },
         {
           "index": 3,
@@ -2285,7 +2508,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 338,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "去年在北海道"
         },
         {
           "index": 4,
@@ -2295,7 +2519,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 337,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "告訴媽媽"
         },
         {
           "index": 5,
@@ -2305,7 +2530,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 64,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "橋這邊"
         },
         {
           "index": 6,
@@ -2315,7 +2541,8 @@
           "plays": 41000,
           "playsText": "41K plays",
           "duration": 320,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "布考斯基協奏曲"
         },
         {
           "index": 7,
@@ -2325,7 +2552,8 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 328,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一碗麵"
         },
         {
           "index": 8,
@@ -2335,7 +2563,8 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 347,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "本命年"
         },
         {
           "index": 9,
@@ -2345,7 +2574,8 @@
           "plays": 783,
           "playsText": "783 plays",
           "duration": 72,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "橋中央"
         },
         {
           "index": 10,
@@ -2355,7 +2585,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 409,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在上海走開"
         },
         {
           "index": 11,
@@ -2365,7 +2596,8 @@
           "plays": 5100,
           "playsText": "5.1K plays",
           "duration": 405,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "變"
         },
         {
           "index": 12,
@@ -2375,7 +2607,8 @@
           "plays": 58000,
           "playsText": "58K plays",
           "duration": 430,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "青鳥日記"
         },
         {
           "index": 13,
@@ -2385,7 +2618,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 166,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "橋那邊"
         }
       ],
       "releaseDate": "2006-12-29",
@@ -2397,6 +2631,7 @@
       "browseId": "MPREb_4ignPaHAsx2",
       "playlistId": "OLAK5uy_kb1imdBBfIbZUTvqx7565s1TAw2ac4FEg",
       "title": "麗江的春天",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/tVzDPJ9zt9fYIuL-FWKQPfksk6Pmgsfske86qRcDGeE2PcKiplVKoiITC3R6aoHl9AOqpsaUfrJrLCw=w544-h544-l90-rj",
@@ -2409,7 +2644,8 @@
           "plays": 6700,
           "playsText": "6.7K plays",
           "duration": 321,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我愛賈蘇切"
         },
         {
           "index": 2,
@@ -2419,7 +2655,8 @@
           "plays": 53000,
           "playsText": "53K plays",
           "duration": 302,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "麗江的春天"
         },
         {
           "index": 3,
@@ -2429,7 +2666,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "茶花"
         },
         {
           "index": 4,
@@ -2439,7 +2677,8 @@
           "plays": 2600,
           "playsText": "2.6K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "那些跟青春記憶有關的美"
         },
         {
           "index": 5,
@@ -2449,7 +2688,8 @@
           "plays": 3500,
           "playsText": "3.5K plays",
           "duration": 384,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "八嗡嗡"
         },
         {
           "index": 6,
@@ -2459,7 +2699,8 @@
           "plays": 5500,
           "playsText": "5.5K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "打電話給我們的好朋友"
         },
         {
           "index": 7,
@@ -2469,7 +2710,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 369,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "emc2"
         },
         {
           "index": 8,
@@ -2479,7 +2721,8 @@
           "plays": 7000,
           "playsText": "7K plays",
           "duration": 452,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "航班116"
         },
         {
           "index": 9,
@@ -2489,7 +2732,8 @@
           "plays": 2900,
           "playsText": "2.9K plays",
           "duration": 328,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "阿草"
         },
         {
           "index": 10,
@@ -2499,7 +2743,8 @@
           "plays": 53000,
           "playsText": "53K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "麗江的春天"
         }
       ],
       "releaseDate": "2007-08-02",
@@ -2511,6 +2756,7 @@
       "browseId": "MPREb_TsaPXtOw3RU",
       "playlistId": "OLAK5uy_n48qDz1Yee4EDI1PS-wflClWFD-elVoNg",
       "title": "美麗的邂逅",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/mdput0f5kkd9RyeX_Dnw593wLvmkPtfLso6A2aRJBx3mBp6G8fOom3auI4ty2Lh3HjfCyc7C2lDfz2kN=w544-h544-l90-rj",
@@ -2523,7 +2769,8 @@
           "plays": 18000,
           "playsText": "18K plays",
           "duration": 364,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "賣水"
         },
         {
           "index": 2,
@@ -2533,7 +2780,8 @@
           "plays": 5200,
           "playsText": "5.2K plays",
           "duration": 355,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "騙子"
         },
         {
           "index": 3,
@@ -2543,7 +2791,8 @@
           "plays": 2500,
           "playsText": "2.5K plays",
           "duration": 390,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛上貴倫美"
         },
         {
           "index": 4,
@@ -2553,7 +2802,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 326,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "112"
         },
         {
           "index": 5,
@@ -2563,7 +2813,8 @@
           "plays": 766,
           "playsText": "766 plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "blingbling"
         },
         {
           "index": 6,
@@ -2573,7 +2824,8 @@
           "plays": 64000,
           "playsText": "64K plays",
           "duration": 340,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "美麗的邂逅"
         },
         {
           "index": 7,
@@ -2583,7 +2835,8 @@
           "plays": 528000,
           "playsText": "528K plays",
           "duration": 319,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "牡丹亭外"
         },
         {
           "index": 8,
@@ -2593,7 +2846,8 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 317,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢見伯陽"
         },
         {
           "index": 9,
@@ -2603,7 +2857,8 @@
           "plays": 2700,
           "playsText": "2.7K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "飛行城市"
         },
         {
           "index": 10,
@@ -2613,7 +2868,8 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 403,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不完全部落"
         },
         {
           "index": 11,
@@ -2623,7 +2879,8 @@
           "plays": 2900,
           "playsText": "2.9K plays",
           "duration": 385,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無法想"
         }
       ],
       "releaseDate": "2008-12-19",
@@ -2635,6 +2892,7 @@
       "browseId": "MPREb_xEbtbJ53IuM",
       "playlistId": "OLAK5uy_mrktsSt3sF6Gz471-mPZl6mCYJ-hsQ9hs",
       "title": "P.S.是的 我在台北",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2010,
       "thumbnail": "https://yt3.googleusercontent.com/TtmdAk8eVLO724kJPx4eHGhQGajutps4pVkyoMYxq3-ptOpQWDvKLmSmkcxAjSpU2pOG6N37gxL7YomW=w544-h544-l90-rj",
@@ -2647,7 +2905,8 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 112,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "市民引子"
         },
         {
           "index": 2,
@@ -2657,7 +2916,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 387,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "拿起來放下"
         },
         {
           "index": 3,
@@ -2667,7 +2927,8 @@
           "plays": 952,
           "playsText": "952 plays",
           "duration": 177,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "自以為是憂鬱症音樂綠洲"
         },
         {
           "index": 4,
@@ -2677,7 +2938,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 329,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "老鼠萬歲"
         },
         {
           "index": 5,
@@ -2687,7 +2949,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "巴西萬歲"
         },
         {
           "index": 6,
@@ -2697,7 +2960,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "食蟻獸"
         },
         {
           "index": 7,
@@ -2707,7 +2971,8 @@
           "plays": 2900,
           "playsText": "2.9K plays",
           "duration": 369,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "哥哥是英雄"
         },
         {
           "index": 8,
@@ -2717,7 +2982,8 @@
           "plays": 223000,
           "playsText": "223K plays",
           "duration": 410,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "妹妹"
         },
         {
           "index": 9,
@@ -2727,7 +2993,8 @@
           "plays": 9500,
           "playsText": "9.5K plays",
           "duration": 491,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "六張犁人"
         },
         {
           "index": 10,
@@ -2737,7 +3004,8 @@
           "plays": 594,
           "playsText": "594 plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "自以為沒大頭症音樂天堂路"
         },
         {
           "index": 11,
@@ -2747,7 +3015,8 @@
           "plays": 44000,
           "playsText": "44K plays",
           "duration": 440,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "舊愛七條通"
         },
         {
           "index": 12,
@@ -2757,7 +3026,8 @@
           "plays": 916,
           "playsText": "916 plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讀書的人"
         },
         {
           "index": 13,
@@ -2767,7 +3037,8 @@
           "plays": 105000,
           "playsText": "105K plays",
           "duration": 313,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "來去廈門電頭毛"
         },
         {
           "index": 14,
@@ -2777,7 +3048,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 393,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "啦啦啦啦啦"
         },
         {
           "index": 15,
@@ -2787,7 +3059,8 @@
           "plays": 339000,
           "playsText": "339K plays",
           "duration": 302,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "20年以前"
         },
         {
           "index": 16,
@@ -2797,7 +3070,8 @@
           "plays": 466,
           "playsText": "466 plays",
           "duration": 176,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小市民終了"
         }
       ],
       "releaseDate": "2010-06-11",
@@ -2809,6 +3083,7 @@
       "browseId": "MPREb_yL2EEal4Cpw",
       "playlistId": "OLAK5uy_lS83kNEqybJFq1ra5qC4iyNoT31Mag1ms",
       "title": "流浪二部曲 家在北極村",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/Lf5z_kL3FusLNIckmEi5BQFd6fz7jtCEo8-2FPVNvgqZ7CLu35TLyrIUwB-ZDx76mYMqN6b1k_nuoSUdsA=w544-h544-l90-rj",
@@ -2821,7 +3096,8 @@
           "plays": 54000,
           "playsText": "54K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "加格達奇的夜車"
         },
         {
           "index": 2,
@@ -2831,7 +3107,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 131,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ihopeshedontmind"
         },
         {
           "index": 3,
@@ -2841,7 +3118,8 @@
           "plays": 39000,
           "playsText": "39K plays",
           "duration": 312,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "月兒幾時圓"
         },
         {
           "index": 4,
@@ -2851,7 +3129,8 @@
           "plays": 238000,
           "playsText": "238K plays",
           "duration": 348,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "老情歌"
         },
         {
           "index": 5,
@@ -2861,7 +3140,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 381,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "滾滾遼河"
         },
         {
           "index": 6,
@@ -2871,7 +3151,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 353,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "航班116"
         },
         {
           "index": 7,
@@ -2881,7 +3162,8 @@
           "plays": 502000,
           "playsText": "502K plays",
           "duration": 386,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情的槍"
         },
         {
           "index": 8,
@@ -2891,7 +3173,8 @@
           "plays": 4700,
           "playsText": "4.7K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "別告訴媽媽"
         },
         {
           "index": 9,
@@ -2901,7 +3184,8 @@
           "plays": 223000,
           "playsText": "223K plays",
           "duration": 332,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "家在北極村"
         },
         {
           "index": 10,
@@ -2911,7 +3195,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 314,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "像父親那樣的人"
         },
         {
           "index": 11,
@@ -2921,7 +3206,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我曾愛過一個男孩"
         },
         {
           "index": 12,
@@ -2931,7 +3217,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 54,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "grassgrass"
         }
       ],
       "releaseDate": null,
@@ -2943,6 +3230,7 @@
       "browseId": "MPREb_XO99BqxOqpG",
       "playlistId": "OLAK5uy_kY_gD4NPadQJsL2nG4vkgbQELhTN3dr2w",
       "title": "我的小清新",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2013,
       "thumbnail": "https://yt3.googleusercontent.com/otjSY8Ly4S96texnfu1DZpqxhdF-ELPrG4heJ98XdRCBqsoyMdWXnfD1Y-1cg5fh4-rnrd3rP9IAPSY=w544-h544-l90-rj",
@@ -2955,7 +3243,8 @@
           "plays": 50000,
           "playsText": "50K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "湯米先生的誠實告白"
         },
         {
           "index": 2,
@@ -2965,7 +3254,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我的小清新"
         },
         {
           "index": 3,
@@ -2975,7 +3265,8 @@
           "plays": 88000,
           "playsText": "88K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "七天戀愛"
         },
         {
           "index": 4,
@@ -2985,7 +3276,8 @@
           "plays": 110000,
           "playsText": "110K plays",
           "duration": 386,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "打死不再戀愛"
         },
         {
           "index": 5,
@@ -2995,7 +3287,8 @@
           "plays": 345000,
           "playsText": "345K plays",
           "duration": 368,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "彩虹的你"
         },
         {
           "index": 6,
@@ -3005,7 +3298,8 @@
           "plays": 8600,
           "playsText": "8.6K plays",
           "duration": 333,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "假如你能多看我一眼"
         },
         {
           "index": 7,
@@ -3015,7 +3309,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 340,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "傘"
         },
         {
           "index": 8,
@@ -3025,7 +3320,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 337,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雅米蛋糕店"
         },
         {
           "index": 9,
@@ -3035,7 +3331,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "買本書回去看吧"
         },
         {
           "index": 10,
@@ -3045,7 +3342,8 @@
           "plays": 911,
           "playsText": "911 plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "陳醫師的恐怖告白"
         },
         {
           "index": 11,
@@ -3055,7 +3353,8 @@
           "plays": 123000,
           "playsText": "123K plays",
           "duration": 385,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我沒在那"
         }
       ],
       "releaseDate": "2013-10-18",
@@ -3067,6 +3366,7 @@
       "browseId": "MPREb_6Ahw5ip3CWQ",
       "playlistId": "OLAK5uy_mF9MZ1Axnb83LDSiT0Q-lLXcaFPPYsGxA",
       "title": "是否.你還記得我",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/oyhm2SCNJSiN42F0EB0CvpgRbZja9uqgGuV7DXQtqq18ox52k-zjKGIuKczonEN2TTkDyW94fBl1ZGvm=w544-h544-l90-rj",
@@ -3079,7 +3379,8 @@
           "plays": 5400,
           "playsText": "5.4K plays",
           "duration": 373,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "兄弟"
         },
         {
           "index": 2,
@@ -3089,7 +3390,8 @@
           "plays": 169000,
           "playsText": "169K plays",
           "duration": 423,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "是否你還記得"
         },
         {
           "index": 3,
@@ -3099,7 +3401,8 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我們去巴塔哥尼亞"
         },
         {
           "index": 4,
@@ -3109,7 +3412,8 @@
           "plays": 90000,
           "playsText": "90K plays",
           "duration": 328,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "風見雞"
         },
         {
           "index": 5,
@@ -3119,7 +3423,8 @@
           "plays": 6600,
           "playsText": "6.6K plays",
           "duration": 453,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "冷情歌"
         },
         {
           "index": 6,
@@ -3129,7 +3434,8 @@
           "plays": 3600,
           "playsText": "3.6K plays",
           "duration": 326,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "臭小孩"
         },
         {
           "index": 7,
@@ -3139,7 +3445,8 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "從來不是主流"
         },
         {
           "index": 8,
@@ -3149,7 +3456,8 @@
           "plays": 1400,
           "playsText": "1.4K plays",
           "duration": 447,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "主要是好玩"
         },
         {
           "index": 9,
@@ -3159,7 +3467,8 @@
           "plays": 139000,
           "playsText": "139K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "婉君妹妹我錯了"
         },
         {
           "index": 10,
@@ -3169,7 +3478,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 305,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "瘋子蝦夫"
         }
       ],
       "releaseDate": "2015-10-29",
@@ -3181,6 +3491,7 @@
       "browseId": "MPREb_zq202PBnb9J",
       "playlistId": "OLAK5uy_n0qTpaRqTv4XZ3z5BGpXVOaH9J-_GNVOc",
       "title": "歸鄉",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/EDQYSbAD1Ixw6bv4CrS9MWmO080x1ICLDek5bVVHaEQgg5W8UaTu8-FEmp_vsZW9ZMzmAxdzFcy0pT4W=w544-h544-l90-rj",
@@ -3193,7 +3504,8 @@
           "plays": 814000,
           "playsText": "814K plays",
           "duration": 320,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "歸鄉"
         },
         {
           "index": 2,
@@ -3203,7 +3515,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "美好的哲學課"
         },
         {
           "index": 3,
@@ -3213,7 +3526,8 @@
           "plays": 202000,
           "playsText": "202K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "61號省道"
         },
         {
           "index": 4,
@@ -3223,7 +3537,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 430,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "賣田"
         },
         {
           "index": 5,
@@ -3233,7 +3548,8 @@
           "plays": 9700,
           "playsText": "9.7K plays",
           "duration": 336,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "七叔"
         },
         {
           "index": 6,
@@ -3243,7 +3559,8 @@
           "plays": 7200,
           "playsText": "7.2K plays",
           "duration": 315,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "海峽"
         },
         {
           "index": 7,
@@ -3253,7 +3570,8 @@
           "plays": 4100,
           "playsText": "4.1K plays",
           "duration": 408,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "成功的旅舍"
         },
         {
           "index": 8,
@@ -3263,7 +3581,8 @@
           "plays": 453000,
           "playsText": "453K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "穗花"
         },
         {
           "index": 9,
@@ -3273,7 +3592,8 @@
           "plays": 4900,
           "playsText": "4.9K plays",
           "duration": 346,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "阿春"
         },
         {
           "index": 10,
@@ -3283,7 +3603,8 @@
           "plays": 194000,
           "playsText": "194K plays",
           "duration": 391,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "浮雲車站"
         },
         {
           "index": 11,
@@ -3293,7 +3614,8 @@
           "plays": 203000,
           "playsText": "203K plays",
           "duration": 317,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "昨天今天明天"
         }
       ],
       "releaseDate": "2017-07-14",
@@ -3305,6 +3627,7 @@
       "browseId": "MPREb_Qfc7K7WosRV",
       "playlistId": "OLAK5uy_lBcXb0MMOkD5khKk0-pBQGzE4V-NcY0sE",
       "title": "南機場人",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/k0vSP7QnlewRnqHFjxjxK35LKlWKRjHs4Z3OIXUPp7i0gak3FEgKsHQyov7druAqd1YTtc34dAK34PU=w544-h544-l90-rj",
@@ -3317,7 +3640,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 134,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "餃子"
         },
         {
           "index": 2,
@@ -3327,7 +3651,8 @@
           "plays": 144000,
           "playsText": "144K plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑夢"
         },
         {
           "index": 3,
@@ -3337,7 +3662,8 @@
           "plays": 121000,
           "playsText": "121K plays",
           "duration": 352,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "三姐"
         },
         {
           "index": 4,
@@ -3347,7 +3673,8 @@
           "plays": 83000,
           "playsText": "83K plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "捕夢網"
         },
         {
           "index": 5,
@@ -3357,7 +3684,8 @@
           "plays": 7500,
           "playsText": "7.5K plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "菟絲花"
         },
         {
           "index": 6,
@@ -3367,7 +3695,8 @@
           "plays": 6100,
           "playsText": "6.1K plays",
           "duration": 303,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "投機者"
         },
         {
           "index": 7,
@@ -3377,7 +3706,8 @@
           "plays": 96000,
           "playsText": "96K plays",
           "duration": 465,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "斑駁"
         },
         {
           "index": 8,
@@ -3387,7 +3717,9 @@
           "plays": 127000,
           "playsText": "127K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "臺灣好",
+          "titleZh": "臺灣好"
         },
         {
           "index": 9,
@@ -3397,7 +3729,8 @@
           "plays": 6200,
           "playsText": "6.2K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "秋月仔"
         },
         {
           "index": 10,
@@ -3407,7 +3740,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 420,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "牯嶺街那年"
         },
         {
           "index": 11,
@@ -3417,7 +3751,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 418,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑潭"
         },
         {
           "index": 12,
@@ -3427,7 +3762,8 @@
           "plays": 7900,
           "playsText": "7.9K plays",
           "duration": 300,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "餃子"
         }
       ],
       "releaseDate": "2017-12-15",
@@ -3439,6 +3775,7 @@
       "browseId": "MPREb_8aOBsZuM8hZ",
       "playlistId": "OLAK5uy_kDAh8P07G4Y-UWQloCS1v29VuV_dwy5xY",
       "title": "無歌之歌",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/_h-VsCq1iE6rWBVVCLuEbliinAX9XDHCkjS7gCuwG0Hl6EonXXeJnqTJFHXYcbOwHIPSSM257NobHXs=w544-h544-l90-rj",
@@ -3451,7 +3788,8 @@
           "plays": 9300,
           "playsText": "9.3K plays",
           "duration": 363,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無歌之歌"
         },
         {
           "index": 2,
@@ -3461,7 +3799,8 @@
           "plays": 3200,
           "playsText": "3.2K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "點菜達人"
         },
         {
           "index": 3,
@@ -3471,7 +3810,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寂靜之喧嘩"
         },
         {
           "index": 4,
@@ -3481,7 +3821,8 @@
           "plays": 4000,
           "playsText": "4K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "請問大恐龍"
         },
         {
           "index": 5,
@@ -3491,7 +3832,8 @@
           "plays": 61000,
           "playsText": "61K plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "水草"
         },
         {
           "index": 6,
@@ -3501,7 +3843,9 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 327,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "舞臺劇",
+          "titleZh": "舞臺劇"
         },
         {
           "index": 7,
@@ -3511,7 +3855,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不睡"
         },
         {
           "index": 8,
@@ -3521,7 +3866,8 @@
           "plays": 60000,
           "playsText": "60K plays",
           "duration": 335,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "琥珀"
         },
         {
           "index": 9,
@@ -3531,7 +3877,8 @@
           "plays": 156000,
           "playsText": "156K plays",
           "duration": 395,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雨晴"
         },
         {
           "index": 10,
@@ -3541,7 +3888,8 @@
           "plays": 2800,
           "playsText": "2.8K plays",
           "duration": 373,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ｏｋ嗎"
         }
       ],
       "releaseDate": "2018-12-07",
@@ -3553,6 +3901,7 @@
       "browseId": "MPREb_dR9cSjxM2Xs",
       "playlistId": "OLAK5uy_kye-aPCkEWzk_kHjqzj2TuhwLaHFQCV9k",
       "title": "流浪日記 四部曲 華人公寓",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/dnuF-HALkane_vZnGxEqjYzwtZYnH0p4MkN4Ul6tHs_R1_Pkqh--n8P3FoRFPZh65-6_rgiJFtwJZVF9ww=w544-h544-l90-rj",
@@ -3565,7 +3914,8 @@
           "plays": 101000,
           "playsText": "101K plays",
           "duration": 313,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "華人公寓"
         },
         {
           "index": 2,
@@ -3575,7 +3925,8 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 360,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "遙"
         },
         {
           "index": 3,
@@ -3585,7 +3936,8 @@
           "plays": 61000,
           "playsText": "61K plays",
           "duration": 323,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "紫月亮"
         },
         {
           "index": 4,
@@ -3595,7 +3947,8 @@
           "plays": 159000,
           "playsText": "159K plays",
           "duration": 378,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "粉紅色假期"
         },
         {
           "index": 5,
@@ -3605,7 +3958,8 @@
           "plays": 3800,
           "playsText": "3.8K plays",
           "duration": 415,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "薯條兒"
         },
         {
           "index": 6,
@@ -3615,7 +3969,8 @@
           "plays": 2800,
           "playsText": "2.8K plays",
           "duration": 351,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "切諾比星空"
         },
         {
           "index": 7,
@@ -3625,7 +3980,8 @@
           "plays": 42000,
           "playsText": "42K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "短歌三葉草"
         },
         {
           "index": 8,
@@ -3635,7 +3991,8 @@
           "plays": 246000,
           "playsText": "246K plays",
           "duration": 335,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愚人之詩"
         },
         {
           "index": 9,
@@ -3645,7 +4002,8 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 354,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "逃離柬埔寨"
         },
         {
           "index": 10,
@@ -3655,7 +4013,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 432,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心情好的每一天"
         }
       ],
       "releaseDate": null,
@@ -3667,6 +4026,7 @@
       "browseId": "MPREb_zinkVKjJU8d",
       "playlistId": "OLAK5uy_lS5QTz1Zfe7VZQxQJy66FaLJ_7RRJtkhc",
       "title": "七天 SEVEN DAYS",
+      "albumArtist": "陳昇 BOBBY CHEN",
       "type": "Album",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/Y-Bp9CVnqSNsZ80eiQr4QIz0eWuUdcVqIQVUitLcHehPC_HEOO_9o4_w90qGchS8A1VPeYL-qxdqUyFK=w544-h544-l90-rj",
@@ -3679,7 +4039,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 168,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "intro樹兒要搬家了"
         },
         {
           "index": 2,
@@ -3689,7 +4050,8 @@
           "plays": 103000,
           "playsText": "103K plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一直以來"
         },
         {
           "index": 3,
@@ -3699,7 +4061,8 @@
           "plays": 177000,
           "playsText": "177K plays",
           "duration": 348,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "七天"
         },
         {
           "index": 4,
@@ -3709,7 +4072,8 @@
           "plays": 88000,
           "playsText": "88K plays",
           "duration": 368,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "樹搬家"
         },
         {
           "index": 5,
@@ -3719,7 +4083,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雲和樹說"
         },
         {
           "index": 6,
@@ -3729,7 +4094,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 351,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "逃跑日記"
         },
         {
           "index": 7,
@@ -3739,7 +4105,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 359,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "七天很夠了"
         },
         {
           "index": 8,
@@ -3749,7 +4116,8 @@
           "plays": 9400,
           "playsText": "9.4K plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小泡芙去散步了"
         },
         {
           "index": 9,
@@ -3759,7 +4127,8 @@
           "plays": 95000,
           "playsText": "95K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "公主校花"
         },
         {
           "index": 10,
@@ -3769,7 +4138,8 @@
           "plays": 83000,
           "playsText": "83K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "她的每一天"
         },
         {
           "index": 11,
@@ -3779,7 +4149,8 @@
           "plays": 7000,
           "playsText": "7K plays",
           "duration": 417,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "螢火蟲他不愛唱歌"
         }
       ],
       "releaseDate": null,
@@ -3791,6 +4162,7 @@
       "browseId": "MPREb_I0AJaqbQ99m",
       "playlistId": "OLAK5uy_kmugfkQRw-tNLqdC6E9_Yt1DU8M1hU0wE",
       "title": "樹搬家",
+      "albumArtist": "陳昇",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/7zO0BnGPmlAHrU5BRWAG9FU3sDRQwPALOxP_265cSFbA8fprmeamG9HxtT4IldiHY0SOL_ZRneL22cw=w544-h544-l90-rj",
@@ -3803,7 +4175,8 @@
           "plays": 88000,
           "playsText": "88K plays",
           "duration": 368,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "樹搬家"
         }
       ],
       "releaseDate": null,
@@ -3815,6 +4188,7 @@
       "browseId": "MPREb_r4nAlYAnHYj",
       "playlistId": "OLAK5uy_neKVX5rVgwZyj1XLjnnLGfSeOsr-liaBg",
       "title": "末日遺緒",
+      "albumArtist": "陳昇 Bobby Chen",
       "type": "Album",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/XkNKqgS6Yx3o9oO7zWgzPY8L3PdXspH_06dIdFSFw6pI_TUDwGGiOX6Givl0-jpssr4oVDiQJ-3G1SK1=w544-h544-l90-rj",
@@ -3827,7 +4201,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 196,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "thewho"
         },
         {
           "index": 2,
@@ -3837,7 +4212,8 @@
           "plays": 63000,
           "playsText": "63K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "末日遺緒"
         },
         {
           "index": 3,
@@ -3847,7 +4223,8 @@
           "plays": 110000,
           "playsText": "110K plays",
           "duration": 597,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "像我們這樣的人"
         },
         {
           "index": 4,
@@ -3857,7 +4234,8 @@
           "plays": 5000,
           "playsText": "5K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "烏蘭巴托在遠方"
         },
         {
           "index": 5,
@@ -3867,7 +4245,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 370,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "霸凌"
         },
         {
           "index": 6,
@@ -3877,7 +4256,8 @@
           "plays": 7200,
           "playsText": "7.2K plays",
           "duration": 432,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "變裝皇后個人秀"
         },
         {
           "index": 7,
@@ -3887,7 +4267,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 334,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "厲害了我們的阿國"
         },
         {
           "index": 8,
@@ -3897,7 +4278,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "中央研究所"
         },
         {
           "index": 9,
@@ -3907,7 +4289,9 @@
           "plays": 5800,
           "playsText": "5.8K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "臺三線",
+          "titleZh": "臺三線"
         },
         {
           "index": 10,
@@ -3917,7 +4301,8 @@
           "plays": 6600,
           "playsText": "6.6K plays",
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鯨魚聊天"
         }
       ],
       "releaseDate": "2020-10-16",
@@ -3929,6 +4314,7 @@
       "browseId": "MPREb_vhHLbkRuPak",
       "playlistId": "OLAK5uy_kiyJUES2vq2wLveyRprzhhWhsgiWo7UcM",
       "title": "末日遺緒 (單曲)",
+      "albumArtist": "陳昇",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/zl_Yn7O5rt_5RhPvMPPnxiJMSlJ7qvqJ3Fqax3TQired8y3VFEWnwGZa8SUlWWjV7b0P76YVgaux48Y=w544-h544-l90-rj",
@@ -3941,7 +4327,8 @@
           "plays": 63000,
           "playsText": "63K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "末日遺緒"
         }
       ],
       "releaseDate": "2020-10-16",
@@ -3953,6 +4340,7 @@
       "browseId": "MPREb_JvOvrOSeeAq",
       "playlistId": "OLAK5uy_nAz3ENbA69i2-nfsOeMC4kaNccdwY96Ik",
       "title": "麗春",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/_WW9RWV0hCjwuaUeAZN1KOcsVo_QG1rj0qZwM-HOScl67bN9hkR_myotkdzvy9Eq-hX1I5QvO3dMQiY=w544-h544-l90-rj",
@@ -3965,7 +4353,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "草原王"
         },
         {
           "index": 2,
@@ -3975,7 +4364,8 @@
           "plays": 8200,
           "playsText": "8.2K plays",
           "duration": 197,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "這些年"
         },
         {
           "index": 3,
@@ -3985,7 +4375,8 @@
           "plays": 201000,
           "playsText": "201K plays",
           "duration": 436,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "麗春"
         },
         {
           "index": 4,
@@ -3995,7 +4386,8 @@
           "plays": 43000,
           "playsText": "43K plays",
           "duration": 458,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "去二連浩特的夜車"
         },
         {
           "index": 5,
@@ -4005,7 +4397,8 @@
           "plays": 5700,
           "playsText": "5.7K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "沙提日記"
         },
         {
           "index": 6,
@@ -4015,7 +4408,8 @@
           "plays": 6600,
           "playsText": "6.6K plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "二毛黑膠"
         },
         {
           "index": 7,
@@ -4025,7 +4419,8 @@
           "plays": 5400,
           "playsText": "5.4K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大黑"
         },
         {
           "index": 8,
@@ -4035,7 +4430,8 @@
           "plays": 7100,
           "playsText": "7.1K plays",
           "duration": 360,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "破鞋"
         },
         {
           "index": 9,
@@ -4045,7 +4441,8 @@
           "plays": 4100,
           "playsText": "4.1K plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "廢墟"
         },
         {
           "index": 10,
@@ -4055,7 +4452,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 368,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "marine"
         },
         {
           "index": 11,
@@ -4065,7 +4463,8 @@
           "plays": 34000,
           "playsText": "34K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "nicetomeetyou"
         }
       ],
       "releaseDate": "2021-11-26",
@@ -4077,6 +4476,7 @@
       "browseId": "MPREb_eXskp6U2YGb",
       "playlistId": "OLAK5uy_mDuJsZ10IqxpyObPq_aD4YnVonpaZTYMU",
       "title": "麗春",
+      "albumArtist": "陳昇",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/mfFHCMAZYlOoaxV5SVKW8wEHErLvdF0TmFNKRlQ35veL9QLHU3iXBfp9WzMJ0wdG7AKpFkSn4kvXPsH1qA=w544-h544-l90-rj",
@@ -4089,7 +4489,8 @@
           "plays": 201000,
           "playsText": "201K plays",
           "duration": 436,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "麗春"
         }
       ],
       "releaseDate": "2021-11-26",
@@ -4101,6 +4502,7 @@
       "browseId": "MPREb_N6c6f6QJNo6",
       "playlistId": "OLAK5uy_lGIRT9dNXNZ9k4WScHQQNXrHE1TuVILBQ",
       "title": "他鄉 - Bobby Chen",
+      "albumArtist": "Bobby Chen",
       "type": "Album",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/7DKfH61z_oaqnGzIAqw2bMf-HnHhytS1mqdD_f3q7KvIUx_5eWaLoudfjGr0OgtXcSW1b5MJZyDYv8I=w544-h544-l90-rj",
@@ -4113,7 +4515,8 @@
           "plays": 138000,
           "playsText": "138K plays",
           "duration": 408,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "他鄉"
         },
         {
           "index": 2,
@@ -4123,7 +4526,9 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 326,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "去他鄉的臺九線",
+          "titleZh": "去他鄉的臺九線"
         },
         {
           "index": 3,
@@ -4133,7 +4538,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 419,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小辮子"
         },
         {
           "index": 4,
@@ -4143,7 +4549,8 @@
           "plays": 6900,
           "playsText": "6.9K plays",
           "duration": 308,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "季風"
         },
         {
           "index": 5,
@@ -4153,7 +4560,8 @@
           "plays": 5400,
           "playsText": "5.4K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "a是什麼調"
         },
         {
           "index": 6,
@@ -4163,7 +4571,8 @@
           "plays": 7400,
           "playsText": "7.4K plays",
           "duration": 345,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "糖果人"
         },
         {
           "index": 7,
@@ -4173,7 +4582,8 @@
           "plays": 44000,
           "playsText": "44K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "morni"
         },
         {
           "index": 8,
@@ -4183,7 +4593,8 @@
           "plays": 5300,
           "playsText": "5.3K plays",
           "duration": 350,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "墨爾本天空藍"
         },
         {
           "index": 9,
@@ -4193,7 +4604,8 @@
           "plays": 4100,
           "playsText": "4.1K plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "dtraintohell"
         },
         {
           "index": 10,
@@ -4203,7 +4615,8 @@
           "plays": 7200,
           "playsText": "7.2K plays",
           "duration": 335,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "再見馬利昂"
         }
       ],
       "releaseDate": "2022-12-09",
@@ -4215,6 +4628,7 @@
       "browseId": "MPREb_JkhGce2RR8e",
       "playlistId": "OLAK5uy_kDSxekVhaeAIBRd4RvRxzJK2dVreARHOs",
       "title": "他鄉-單曲 - Bobby Chen",
+      "albumArtist": "Bobby Chen",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/Eul4jMKPtD4tfZDhdjiGJ7XtaHSPbb4QbfE7570xFDQUAIeSUrBPNTn3KTWVIuzm34kDISQIxdQ-tdY=w544-h544-l90-rj",
@@ -4227,7 +4641,8 @@
           "plays": 138000,
           "playsText": "138K plays",
           "duration": 408,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "他鄉"
         }
       ],
       "releaseDate": null,
@@ -4239,6 +4654,7 @@
       "browseId": "MPREb_iIJHlF9KHhm",
       "playlistId": "OLAK5uy_mIY8f1txz3JpIz3daZ5326hBrN40bhCZM",
       "title": "望鄉",
+      "albumArtist": "陳昇",
       "type": "Album",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/3YydriKNNP5tL8YQ4IL5y7yyFMUuxZoWl5VlvuO-BW_B0rTrlxAuevcIAIDfgpzlpvktRoxNolxWyMnX=w544-h544-l90-rj",
@@ -4251,7 +4667,9 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 133,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "沒關係",
+          "titleZh": "沒關係"
         },
         {
           "index": 2,
@@ -4261,7 +4679,9 @@
           "plays": 98000,
           "playsText": "98K plays",
           "duration": 364,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花雨",
+          "titleZh": "花雨"
         },
         {
           "index": 3,
@@ -4271,7 +4691,9 @@
           "plays": 5100,
           "playsText": "5.1K plays",
           "duration": 324,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "解離",
+          "titleZh": "解離"
         },
         {
           "index": 4,
@@ -4281,7 +4703,9 @@
           "plays": 3800,
           "playsText": "3.8K plays",
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "男優",
+          "titleZh": "男優"
         },
         {
           "index": 5,
@@ -4291,7 +4715,9 @@
           "plays": 3400,
           "playsText": "3.4K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "女優",
+          "titleZh": "女優"
         },
         {
           "index": 6,
@@ -4301,7 +4727,9 @@
           "plays": 33000,
           "playsText": "33K plays",
           "duration": 375,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "找個人來愛",
+          "titleZh": "找個人來愛"
         },
         {
           "index": 7,
@@ -4311,7 +4739,9 @@
           "plays": 3400,
           "playsText": "3.4K plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "嗎啡人",
+          "titleZh": "嗎啡人"
         },
         {
           "index": 8,
@@ -4321,7 +4751,9 @@
           "plays": 2400,
           "playsText": "2.4K plays",
           "duration": 383,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "漢本人",
+          "titleZh": "漢本人"
         },
         {
           "index": 9,
@@ -4331,7 +4763,9 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 116,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你現在就講",
+          "titleZh": "你現在就講"
         },
         {
           "index": 10,
@@ -4341,7 +4775,9 @@
           "plays": 47000,
           "playsText": "47K plays",
           "duration": 364,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "望鄉",
+          "titleZh": "望鄉"
         },
         {
           "index": 11,
@@ -4351,7 +4787,9 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心上人",
+          "titleZh": "心上人"
         },
         {
           "index": 12,
@@ -4361,7 +4799,9 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 392,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "前年",
+          "titleZh": "前年"
         },
         {
           "index": 13,
@@ -4371,7 +4811,9 @@
           "plays": 1400,
           "playsText": "1.4K plays",
           "duration": 129,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "也像是這樣的嗎",
+          "titleZh": "也像是這樣的嗎"
         }
       ],
       "releaseDate": "2023-12-08",

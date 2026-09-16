@@ -2,19 +2,21 @@
   "slug": "victor-wong",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-16T18:54:02.572Z",
+  "fetchedAt": "2026-09-16T19:15:06.084Z",
   "artist": {
     "channelId": "UCZwxvbsLquj9TE0GxLbAXlw",
     "name": "品冠",
     "thumbnail": "https://yt3.googleusercontent.com/owO7QXcqQ5-GDz66LftKsCLw-Fp6utOFeBnUhVnO9_u0OHbpsFapPk6t_pv8gxW3IeGvbgHhdgGMlY4=w2880-h1200-p-l90-rj",
     "subscribers": 5300,
-    "monthlyAudience": null
+    "monthlyAudience": null,
+    "avatar": "https://yt3.googleusercontent.com/rXZ7PFl2CknYYGHBiUYVKG1dqnzi2oKHww2FaNDU8qckBzA7UxJYIMHsW4Hph-JfXRDSN8xiAg=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
       "browseId": "MPREb_OsbfbHJRSEi",
       "playlistId": "OLAK5uy_mL40nYnSohjf97QZajZ5k2GsmEdydv7jU",
       "title": "疼妳的責任",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2001,
       "thumbnail": "https://yt3.googleusercontent.com/yXwA-T_YKHMVxIFug6smcVT7WcpCgDL1SvUdt6yeDOhvtXraxnkHyA_kCMbEqW2L3nNSS3wRqOVPBY3h=w544-h544-l90-rj",
@@ -27,7 +29,8 @@
           "plays": 4800000,
           "playsText": "4.8M plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "疼妳的責任"
         },
         {
           "index": 2,
@@ -37,7 +40,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 334,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "陪妳一起老"
         },
         {
           "index": 3,
@@ -47,7 +51,8 @@
           "plays": 123000,
           "playsText": "123K plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "分不開的兩個人"
         },
         {
           "index": 4,
@@ -57,7 +62,8 @@
           "plays": 49000,
           "playsText": "49K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "健康快樂"
         },
         {
           "index": 5,
@@ -67,7 +73,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "季節"
         },
         {
           "index": 6,
@@ -77,7 +84,8 @@
           "plays": 138000,
           "playsText": "138K plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最佳品牌"
         },
         {
           "index": 7,
@@ -87,7 +95,8 @@
           "plays": 22000,
           "playsText": "22K plays",
           "duration": 197,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "劉德華"
         },
         {
           "index": 8,
@@ -97,7 +106,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "重蹈覆轍"
         },
         {
           "index": 9,
@@ -107,7 +117,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 291,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "偶爾有陽光"
         },
         {
           "index": 10,
@@ -117,7 +128,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 338,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "杜鵑"
         }
       ],
       "releaseDate": null,
@@ -129,6 +141,7 @@
       "browseId": "MPREb_daXyoMP0nOC",
       "playlistId": "OLAK5uy_lFQ_d_nzS_SDQry18E-pd2mEWXp1Mlkac",
       "title": "自創品牌-1996~2000品冠創作紀錄",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2001,
       "thumbnail": "https://yt3.googleusercontent.com/tlFLYteNn8TLXMUMa55N9ffpt1O3WltyTYA__8MmOurdkt-k9hcXUTV4tj-hnqo4ZH2-dsDey7J4vxuh=w544-h544-l90-rj",
@@ -141,7 +154,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": true,
+          "nameKey": "身邊"
         },
         {
           "index": 2,
@@ -151,7 +165,8 @@
           "plays": 59000,
           "playsText": "59K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "就叫我孩子"
         },
         {
           "index": 3,
@@ -161,7 +176,8 @@
           "plays": 699000,
           "playsText": "699K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雨過天晴"
         },
         {
           "index": 4,
@@ -171,7 +187,8 @@
           "plays": 230000,
           "playsText": "230K plays",
           "duration": 218,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "等你的心"
         },
         {
           "index": 5,
@@ -181,7 +198,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最近比較煩"
         },
         {
           "index": 6,
@@ -191,17 +209,19 @@
           "plays": 175000,
           "playsText": "175K plays",
           "duration": 334,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "離開我"
         },
         {
           "index": 7,
           "title": "註定",
           "artists": "品冠",
           "videoId": "--4BlwhweC8",
-          "plays": 547000,
-          "playsText": "547K plays",
+          "plays": 548000,
+          "playsText": "548K plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "註定"
         },
         {
           "index": 8,
@@ -211,7 +231,8 @@
           "plays": 247000,
           "playsText": "247K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "恍然大悟"
         },
         {
           "index": 9,
@@ -221,7 +242,8 @@
           "plays": 246000,
           "playsText": "246K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "假裝"
         },
         {
           "index": 10,
@@ -231,7 +253,8 @@
           "plays": 6400,
           "playsText": "6.4K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "徵婚啟事"
         }
       ],
       "releaseDate": null,
@@ -243,6 +266,7 @@
       "browseId": "MPREb_uJKkrqUNU3b",
       "playlistId": "OLAK5uy_mdQIkQEkdzMpdsK1FH218m6zCpr37BeWU",
       "title": "教堂的初吻",
+      "albumArtist": "品冠",
       "type": "EP",
       "year": 2002,
       "thumbnail": "https://yt3.googleusercontent.com/5PNbKsVWLFCwjvACMI7WOOYeqt9kVX8Pazn48sBv4Ioo3TYD0Y9E8H68vj6hzqJY7jASazlH19KoUCPP=w544-h544-s-l90-rj",
@@ -255,7 +279,8 @@
           "plays": 57000,
           "playsText": "57K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "教堂的初吻"
         },
         {
           "index": 2,
@@ -265,7 +290,8 @@
           "plays": 123000,
           "playsText": "123K plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "分不開的兩個人"
         },
         {
           "index": 3,
@@ -275,7 +301,8 @@
           "plays": 4800000,
           "playsText": "4.8M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "疼你的責任"
         },
         {
           "index": 4,
@@ -285,7 +312,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 331,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "陪你一起老"
         },
         {
           "index": 5,
@@ -295,7 +323,8 @@
           "plays": 810,
           "playsText": "810 plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "教堂的初吻"
         }
       ],
       "releaseDate": "2002-06-07",
@@ -307,6 +336,7 @@
       "browseId": "MPREb_kTm7erCeNnq",
       "playlistId": "OLAK5uy_k6A0M5c1fGsQRYsZfWQx_k66w2sP_Ykqg",
       "title": "U-TURN 180° 轉彎",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2002,
       "thumbnail": "https://yt3.googleusercontent.com/gBy673n4ItVlJiETKo0qCwD5GaeX5uM-ny96w0ZXgulzEnRnItQB6QBl4ktfo9EnmZwRdyICszzuFRA=w544-h544-l90-rj",
@@ -319,7 +349,8 @@
           "plays": 42000,
           "playsText": "42K plays",
           "duration": 284,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "水晶球"
         },
         {
           "index": 2,
@@ -329,7 +360,8 @@
           "plays": 3400000,
           "playsText": "3.4M plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最想念的季節"
         },
         {
           "index": 3,
@@ -339,7 +371,8 @@
           "plays": 254000,
           "playsText": "254K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "請你相信我"
         },
         {
           "index": 4,
@@ -349,7 +382,8 @@
           "plays": 392000,
           "playsText": "392K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情轉彎的地方"
         },
         {
           "index": 5,
@@ -359,7 +393,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "桃花"
         },
         {
           "index": 6,
@@ -369,7 +404,8 @@
           "plays": 145000,
           "playsText": "145K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "離我遠一點"
         },
         {
           "index": 7,
@@ -379,7 +415,8 @@
           "plays": 2200,
           "playsText": "2.2K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個世界"
         },
         {
           "index": 8,
@@ -389,7 +426,8 @@
           "plays": 45000,
           "playsText": "45K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "他值得"
         },
         {
           "index": 9,
@@ -399,7 +437,8 @@
           "plays": 3500,
           "playsText": "3.5K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在同一天"
         },
         {
           "index": 10,
@@ -409,7 +448,8 @@
           "plays": 274000,
           "playsText": "274K plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "從來沒有想過"
         }
       ],
       "releaseDate": null,
@@ -421,6 +461,7 @@
       "browseId": "MPREb_youbwiWY07o",
       "playlistId": "OLAK5uy_nbm8k-41tFjPtS0ZJfbp5jOQ127hj14Cc",
       "title": "己子当归",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2002,
       "thumbnail": "https://yt3.googleusercontent.com/LRLAJUPvfvuk_ob25A-gzCL13C0CtEtcZ-CayGoTCM7wMQlVYRNg_v5lo3GkonBVgV29Ul3PbZNjuwNz=w544-h544-l90-rj",
@@ -433,7 +474,9 @@
           "plays": 5900,
           "playsText": "5.9K plays",
           "duration": 211,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "己子當歸",
+          "titleZh": "己子當歸"
         }
       ],
       "releaseDate": "2003-01-01",
@@ -445,6 +488,7 @@
       "browseId": "MPREb_U6AHcECewXp",
       "playlistId": "OLAK5uy_lXOI6JLsHya7BKNnATCqiNID_V0u5CJrQ",
       "title": "門沒鎖",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2004,
       "thumbnail": "https://yt3.googleusercontent.com/FL1Ht5oZbikZIUPZ2x8Evve1VU8Pi7Qxl9JR7R0D5LzBkOCTpCLyPI00TmVVivmMwNDAR00q_7y95DYM=w544-h544-l90-rj",
@@ -457,7 +501,8 @@
           "plays": 347000,
           "playsText": "347K plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情不能作比較"
         },
         {
           "index": 2,
@@ -467,7 +512,8 @@
           "plays": 5600000,
           "playsText": "5.6M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "明明很愛妳"
         },
         {
           "index": 3,
@@ -477,7 +523,8 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "門沒鎖"
         },
         {
           "index": 4,
@@ -487,7 +534,8 @@
           "plays": 44000,
           "playsText": "44K plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛值得"
         },
         {
           "index": 5,
@@ -497,7 +545,8 @@
           "plays": 32000,
           "playsText": "32K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "出站"
         },
         {
           "index": 6,
@@ -507,7 +556,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我的嗓音"
         },
         {
           "index": 7,
@@ -517,7 +567,8 @@
           "plays": 81000,
           "playsText": "81K plays",
           "duration": 236,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛你的那一天"
         },
         {
           "index": 8,
@@ -527,7 +578,8 @@
           "plays": 47000,
           "playsText": "47K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "單身公寓"
         },
         {
           "index": 9,
@@ -537,7 +589,8 @@
           "plays": 8600,
           "playsText": "8.6K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如何不想你"
         },
         {
           "index": 10,
@@ -547,7 +600,8 @@
           "plays": 5700,
           "playsText": "5.7K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "anniessong"
         }
       ],
       "releaseDate": "2004-04-30",
@@ -559,6 +613,7 @@
       "browseId": "MPREb_7MbkEBxUJtD",
       "playlistId": "OLAK5uy_kv0f6MhJwyIo67az7c_CcCxKODAxWtWF8",
       "title": "品冠 後來的我 新歌+精選",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2005,
       "thumbnail": "https://yt3.googleusercontent.com/7ghOPe-ObxhUkQjGwMPd2MqhN3vby0oRzzP2nRuscQ5GiEAZ_2ZW3bmKePdnPIhnkH22AqCHDSCZmWN9=w544-h544-l90-rj",
@@ -571,7 +626,8 @@
           "plays": 664000,
           "playsText": "664K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "後來的我們"
         },
         {
           "index": 2,
@@ -581,7 +637,8 @@
           "plays": 219000,
           "playsText": "219K plays",
           "duration": 291,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "又一年又三年"
         },
         {
           "index": 3,
@@ -591,7 +648,8 @@
           "plays": 133000,
           "playsText": "133K plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我難過"
         },
         {
           "index": 4,
@@ -601,7 +659,8 @@
           "plays": 4800000,
           "playsText": "4.8M plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "疼妳的責任"
         },
         {
           "index": 5,
@@ -611,7 +670,8 @@
           "plays": 3400000,
           "playsText": "3.4M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最想念的季節"
         },
         {
           "index": 6,
@@ -621,7 +681,8 @@
           "plays": 547000,
           "playsText": "547K plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "註定"
         },
         {
           "index": 7,
@@ -631,7 +692,8 @@
           "plays": 59000,
           "playsText": "59K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "就叫我孩子"
         },
         {
           "index": 8,
@@ -641,7 +703,8 @@
           "plays": 699000,
           "playsText": "699K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雨過天晴"
         },
         {
           "index": 9,
@@ -651,7 +714,8 @@
           "plays": 255000,
           "playsText": "255K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "請你相信我"
         },
         {
           "index": 10,
@@ -661,7 +725,8 @@
           "plays": 128000,
           "playsText": "128K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "明明很愛妳"
         },
         {
           "index": 11,
@@ -671,7 +736,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 331,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "陪你一起老"
         },
         {
           "index": 12,
@@ -681,7 +747,8 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "門沒鎖"
         },
         {
           "index": 13,
@@ -691,7 +758,8 @@
           "plays": 247000,
           "playsText": "247K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "恍然大悟"
         },
         {
           "index": 14,
@@ -701,7 +769,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 275,
-          "byOther": false
+          "byOther": true,
+          "nameKey": "身邊"
         },
         {
           "index": 15,
@@ -711,7 +780,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 290,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最近比較煩"
         },
         {
           "index": 16,
@@ -721,7 +791,8 @@
           "plays": 48000,
           "playsText": "48K plays",
           "duration": 298,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "張愛玲"
         },
         {
           "index": 17,
@@ -731,7 +802,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 188,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "拼圖"
         },
         {
           "index": 18,
@@ -741,7 +813,8 @@
           "plays": 78000,
           "playsText": "78K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情不能作比較"
         },
         {
           "index": 19,
@@ -751,7 +824,8 @@
           "plays": 324000,
           "playsText": "324K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "重來"
         },
         {
           "index": 20,
@@ -761,7 +835,8 @@
           "plays": 769000,
           "playsText": "769K plays",
           "duration": 279,
-          "byOther": false
+          "byOther": true,
+          "nameKey": "我找你找了好久"
         },
         {
           "index": 21,
@@ -771,7 +846,8 @@
           "plays": 123000,
           "playsText": "123K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "分不開的兩個人"
         },
         {
           "index": 22,
@@ -781,7 +857,8 @@
           "plays": 274000,
           "playsText": "274K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "從來沒有想過"
         },
         {
           "index": 23,
@@ -791,7 +868,8 @@
           "plays": 300000,
           "playsText": "300K plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "起床"
         },
         {
           "index": 24,
@@ -801,7 +879,8 @@
           "plays": 246000,
           "playsText": "246K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "假裝"
         },
         {
           "index": 25,
@@ -811,7 +890,8 @@
           "plays": 392000,
           "playsText": "392K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情轉彎的地方"
         },
         {
           "index": 26,
@@ -821,7 +901,8 @@
           "plays": 32000,
           "playsText": "32K plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "美味關係"
         },
         {
           "index": 27,
@@ -831,7 +912,8 @@
           "plays": 230000,
           "playsText": "230K plays",
           "duration": 218,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "等你的心"
         },
         {
           "index": 28,
@@ -841,7 +923,8 @@
           "plays": 49000,
           "playsText": "49K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "健康快樂"
         },
         {
           "index": 29,
@@ -851,7 +934,8 @@
           "plays": 8200,
           "playsText": "8.2K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "babybaby"
         },
         {
           "index": 30,
@@ -861,7 +945,8 @@
           "plays": 121000,
           "playsText": "121K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "火花"
         }
       ],
       "releaseDate": null,
@@ -873,6 +958,7 @@
       "browseId": "MPREb_ANBmpi8whUM",
       "playlistId": "OLAK5uy_mQ2VCuNGAo_teh3bn5zCmXtFYWfTx3c1w",
       "title": "愛到無可救藥",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/D7fuDQ-5NUy-tVfVnHw8BqvabEyB3wzkpjObM_bt0ldTbQ_KQxUiKQmrMR5DcdCtu5PZ5qH1uTvF6nh_=w544-h544-l90-rj",
@@ -885,7 +971,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無可救藥"
         },
         {
           "index": 2,
@@ -895,7 +982,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "哄我入睡"
         },
         {
           "index": 3,
@@ -905,7 +993,8 @@
           "plays": 16000,
           "playsText": "16K plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "darling"
         },
         {
           "index": 4,
@@ -915,7 +1004,8 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一顆心交給誰"
         },
         {
           "index": 5,
@@ -925,7 +1015,8 @@
           "plays": 26000000,
           "playsText": "26M plays",
           "duration": 299,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我以為"
         },
         {
           "index": 6,
@@ -935,7 +1026,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "橋"
         },
         {
           "index": 7,
@@ -945,7 +1037,8 @@
           "plays": 23000,
           "playsText": "23K plays",
           "duration": 327,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "下次再愛我"
         },
         {
           "index": 8,
@@ -955,7 +1048,8 @@
           "plays": 18000,
           "playsText": "18K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "楓葉紅麵館"
         },
         {
           "index": 9,
@@ -965,7 +1059,8 @@
           "plays": 162000,
           "playsText": "162K plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "朋友變情人再變朋友"
         },
         {
           "index": 10,
@@ -975,7 +1070,8 @@
           "plays": 8700,
           "playsText": "8.7K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "座右銘"
         },
         {
           "index": 11,
@@ -985,7 +1081,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "轉捩點"
         }
       ],
       "releaseDate": "2006-11-10",
@@ -997,6 +1094,7 @@
       "browseId": "MPREb_iIuM4u5pjf9",
       "playlistId": "OLAK5uy_lgtymInFpdaeZo1PDFuk5rrWg3edf7Tsk",
       "title": "Need U Most 最需要你",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/eAlnyifWP9KWuthwVV0hnJKlOaB583vzwtG1nsGlSlH160DZKypk3mqdQo9q1I0ZCekGpyQWUR12NKiX=w544-h544-l90-rj",
@@ -1009,7 +1107,8 @@
           "plays": 117000,
           "playsText": "117K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在我最需要你的時候"
         },
         {
           "index": 2,
@@ -1019,7 +1118,8 @@
           "plays": 54000,
           "playsText": "54K plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "重新去愛"
         },
         {
           "index": 3,
@@ -1029,7 +1129,8 @@
           "plays": 55000,
           "playsText": "55K plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "從現在到永遠"
         },
         {
           "index": 4,
@@ -1039,7 +1140,8 @@
           "plays": 3500,
           "playsText": "3.5K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你的每一次呼吸"
         },
         {
           "index": 5,
@@ -1049,7 +1151,8 @@
           "plays": 789,
           "playsText": "789 plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "陽光季節"
         },
         {
           "index": 6,
@@ -1059,7 +1162,8 @@
           "plays": 6500,
           "playsText": "6.5K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最近我有沒有告訴你"
         },
         {
           "index": 7,
@@ -1069,7 +1173,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "美麗佳人"
         },
         {
           "index": 8,
@@ -1079,7 +1184,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你離去的原因"
         },
         {
           "index": 9,
@@ -1089,7 +1195,8 @@
           "plays": 764,
           "playsText": "764 plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "世界末日"
         },
         {
           "index": 10,
@@ -1099,7 +1206,8 @@
           "plays": 6700,
           "playsText": "6.7K plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我是如此愛你"
         },
         {
           "index": 11,
@@ -1109,7 +1217,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "舞后"
         },
         {
           "index": 12,
@@ -1119,7 +1228,8 @@
           "plays": 4900,
           "playsText": "4.9K plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "站在世界之巔"
         },
         {
           "index": 13,
@@ -1129,7 +1239,8 @@
           "plays": 4200,
           "playsText": "4.2K plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "k歌情人"
         }
       ],
       "releaseDate": null,
@@ -1141,6 +1252,7 @@
       "browseId": "MPREb_d6EaMrCJ9tt",
       "playlistId": "OLAK5uy_kwcJRBbcOXkW97xFo7_8wuSBNQjpdIJWY",
       "title": "那些女孩教我的事",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/510RV6KbkWX73BKrC35nCYY3Li1mnlw2gg2-AeiQ97bteUAFWHbBSTJygVQQiSswROffrl4sknCNQuw=w544-h544-l90-rj",
@@ -1153,7 +1265,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "那些女孩教我的事"
         },
         {
           "index": 2,
@@ -1163,7 +1276,8 @@
           "plays": 128000,
           "playsText": "128K plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "漂流"
         },
         {
           "index": 3,
@@ -1173,7 +1287,8 @@
           "plays": 261000,
           "playsText": "261K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最好的朋友"
         },
         {
           "index": 4,
@@ -1183,7 +1298,8 @@
           "plays": 69000,
           "playsText": "69K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "111"
         },
         {
           "index": 5,
@@ -1193,7 +1309,8 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "半生熟"
         },
         {
           "index": 6,
@@ -1203,7 +1320,8 @@
           "plays": 7500,
           "playsText": "7.5K plays",
           "duration": 215,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小白很乖"
         },
         {
           "index": 7,
@@ -1213,7 +1331,8 @@
           "plays": 3500,
           "playsText": "3.5K plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "卿卿愛我我"
         },
         {
           "index": 8,
@@ -1223,7 +1342,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "現在就想見的人"
         },
         {
           "index": 9,
@@ -1233,7 +1353,8 @@
           "plays": 4900,
           "playsText": "4.9K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "要命的溫柔"
         },
         {
           "index": 10,
@@ -1243,7 +1364,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "美人尖"
         },
         {
           "index": 11,
@@ -1253,7 +1375,8 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "真愛到永遠"
         }
       ],
       "releaseDate": "2008-04-18",
@@ -1265,6 +1388,7 @@
       "browseId": "MPREb_RnSshgIsxHQ",
       "playlistId": "OLAK5uy_nP5if4XuUIScknjlc-Iu7EPfUcODwH8AU",
       "title": "一切為了愛 新歌+精選",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/-JLoTr0rA6JiDJ6g1npfryvoYWF_hdkDHa1RYzzKJ2Jl09hBkx7mlJerHtaPcFbvrFpsyLF-qF0YHfraeg=w544-h544-l90-rj",
@@ -1277,7 +1401,8 @@
           "plays": 533000,
           "playsText": "533K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一切為了愛"
         },
         {
           "index": 2,
@@ -1287,7 +1412,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "比想像更想你"
         },
         {
           "index": 3,
@@ -1297,7 +1423,8 @@
           "plays": 329000,
           "playsText": "329K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "當你想著我"
         },
         {
           "index": 4,
@@ -1307,7 +1434,8 @@
           "plays": 149000,
           "playsText": "149K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大富翁"
         },
         {
           "index": 5,
@@ -1317,7 +1445,8 @@
           "plays": 219000,
           "playsText": "219K plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "走路回家"
         },
         {
           "index": 6,
@@ -1327,7 +1456,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無可救藥"
         },
         {
           "index": 7,
@@ -1337,7 +1467,9 @@
           "plays": 54000,
           "playsText": "54K plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "Way back into love（feat.梁靜茹）",
+          "nameKey": "waybackintolove"
         },
         {
           "index": 8,
@@ -1347,7 +1479,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "那些女孩教我的事"
         },
         {
           "index": 9,
@@ -1357,7 +1490,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "哄我入睡"
         },
         {
           "index": 10,
@@ -1367,7 +1501,8 @@
           "plays": 26000000,
           "playsText": "26M plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我以為"
         },
         {
           "index": 11,
@@ -1377,7 +1512,8 @@
           "plays": 128000,
           "playsText": "128K plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "漂流"
         },
         {
           "index": 12,
@@ -1387,7 +1523,8 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "半生熟"
         },
         {
           "index": 13,
@@ -1397,7 +1534,8 @@
           "plays": 69000,
           "playsText": "69K plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情在香港轉機"
         },
         {
           "index": 14,
@@ -1407,7 +1545,8 @@
           "plays": 1300,
           "playsText": "1.3K plays",
           "duration": 236,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "mr對"
         }
       ],
       "releaseDate": null,
@@ -1419,6 +1558,7 @@
       "browseId": "MPREb_x89j2YSwVkO",
       "playlistId": "OLAK5uy_n_6f89kFFNOTrFd49h5VDY5_HJLdHjEEA",
       "title": "當品冠遇見幾米",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2010,
       "thumbnail": "https://yt3.googleusercontent.com/OAR2tJ59NB6K-msjeZumcJJ5Na-DktVp0KLoR-0ac7Rd6dZon65s_bdQP63xHZwRAI-I93q2PYkNr7Q32A=w544-h544-l90-rj",
@@ -1431,7 +1571,8 @@
           "plays": 5100,
           "playsText": "5.1K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "落寞"
         },
         {
           "index": 2,
@@ -1441,7 +1582,8 @@
           "plays": 9900,
           "playsText": "9.9K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是遠的一聲嘆息化做我的呼吸"
         },
         {
           "index": 3,
@@ -1451,7 +1593,8 @@
           "plays": 5900,
           "playsText": "5.9K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我想記得的47件事"
         },
         {
           "index": 4,
@@ -1461,7 +1604,8 @@
           "plays": 257000,
           "playsText": "257K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "有時候愛"
         },
         {
           "index": 5,
@@ -1471,7 +1615,8 @@
           "plays": 283000,
           "playsText": "283K plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "17號"
         },
         {
           "index": 6,
@@ -1481,7 +1626,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛在波希米亞"
         },
         {
           "index": 7,
@@ -1491,7 +1637,8 @@
           "plays": 1400,
           "playsText": "1.4K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "被雨傷透"
         },
         {
           "index": 8,
@@ -1501,7 +1648,8 @@
           "plays": 4400,
           "playsText": "4.4K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "反正大家都愛過誰也不欠"
         },
         {
           "index": 9,
@@ -1511,7 +1659,8 @@
           "plays": 940,
           "playsText": "940 plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "貝阿提絲"
         },
         {
           "index": 10,
@@ -1521,7 +1670,8 @@
           "plays": 1400,
           "playsText": "1.4K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "被審判的審判者"
         }
       ],
       "releaseDate": null,
@@ -1533,6 +1683,7 @@
       "browseId": "MPREb_FiOJDKcGI0M",
       "playlistId": "OLAK5uy_myvZ1jh4qiMaCxhuirEazb-pS2EP7e10I",
       "title": "未拆的禮物",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/0a2YrkbDnErGawrd-81__N6Z6bQ-aK6Wguh7_CCpEQx3IgALnKRmdTeLFXIdHiole0jeF0vQVieV4UJJMQ=w544-h544-l90-rj",
@@ -1545,7 +1696,8 @@
           "plays": 515000,
           "playsText": "515K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "未拆的禮物"
         },
         {
           "index": 2,
@@ -1555,7 +1707,8 @@
           "plays": 63000,
           "playsText": "63K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我希望你快樂"
         },
         {
           "index": 3,
@@ -1565,7 +1718,8 @@
           "plays": 2300000,
           "playsText": "2.3M plays",
           "duration": 221,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我確定"
         },
         {
           "index": 4,
@@ -1575,7 +1729,8 @@
           "plays": 6000,
           "playsText": "6K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "風中的吉普賽"
         },
         {
           "index": 5,
@@ -1585,7 +1740,8 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我渴望的美"
         },
         {
           "index": 6,
@@ -1595,7 +1751,8 @@
           "plays": 383000,
           "playsText": "383K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "再來一杯"
         },
         {
           "index": 7,
@@ -1605,7 +1762,8 @@
           "plays": 5400,
           "playsText": "5.4K plays",
           "duration": 197,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "again"
         },
         {
           "index": 8,
@@ -1615,7 +1773,8 @@
           "plays": 23000,
           "playsText": "23K plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "曬月光"
         },
         {
           "index": 9,
@@ -1625,7 +1784,8 @@
           "plays": 355000,
           "playsText": "355K plays",
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "勇敢的靈魂"
         },
         {
           "index": 10,
@@ -1635,7 +1795,8 @@
           "plays": 2500000,
           "playsText": "2.5M plays",
           "duration": 323,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "執子之手"
         },
         {
           "index": 11,
@@ -1645,7 +1806,8 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "為你我想做更好的人"
         }
       ],
       "releaseDate": "2012-01-06",
@@ -1657,6 +1819,7 @@
       "browseId": "MPREb_zcQDLsxyD9o",
       "playlistId": "OLAK5uy_kclLF8fZbldFEFkyzhaCJ5QeymxqrRc3c",
       "title": "隨時都在",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/2-cwMBNnBe4NldlHPacxwjxP60KcdDg1aQupdudHO7tu7bgUnmOKqg9A5ZDnJ1kUSGxURSZXDwxl3GA=w544-h544-l90-rj",
@@ -1669,7 +1832,8 @@
           "plays": 8800,
           "playsText": "8.8K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蜿蜒"
         },
         {
           "index": 2,
@@ -1679,7 +1843,8 @@
           "plays": 43000,
           "playsText": "43K plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情那麼傻"
         },
         {
           "index": 3,
@@ -1689,7 +1854,8 @@
           "plays": 5500,
           "playsText": "5.5K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "拖延症"
         },
         {
           "index": 4,
@@ -1699,7 +1865,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "默默"
         },
         {
           "index": 5,
@@ -1709,7 +1876,8 @@
           "plays": 688000,
           "playsText": "688K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "隨時都在"
         },
         {
           "index": 6,
@@ -1719,7 +1887,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "還你自由"
         },
         {
           "index": 7,
@@ -1729,7 +1898,8 @@
           "plays": 72000,
           "playsText": "72K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "說不出口的痛"
         },
         {
           "index": 8,
@@ -1739,7 +1909,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "只要有你"
         },
         {
           "index": 9,
@@ -1749,7 +1920,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不是我"
         },
         {
           "index": 10,
@@ -1759,7 +1931,8 @@
           "plays": 581000,
           "playsText": "581K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "更寬的肩膀"
         },
         {
           "index": 11,
@@ -1769,7 +1942,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最美的問候"
         }
       ],
       "releaseDate": "2014-06-18",
@@ -1781,6 +1955,7 @@
       "browseId": "MPREb_DfPbjx6qJlE",
       "playlistId": "OLAK5uy_kiCjQ9_xRrTdvVpbmuOCYlc40RsGlkOfc",
       "title": "我是歌手第二季 (第十一期 Live)",
+      "albumArtist": "品冠 & 张杰",
       "type": "Album",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/tO3LmMHpm4JNXroiCsT7_7fuCu1siWBZEtKgw_bnGfYbnbcBLs4CAtPLxrq0FRQwHOSBbVHi6utVYgZH=w544-h544-l90-rj",
@@ -1793,7 +1968,9 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 273,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "重整河山待後生#live",
+          "titleZh": "重整河山待後生 (Live)"
         },
         {
           "index": 2,
@@ -1803,7 +1980,9 @@
           "plays": 175000,
           "playsText": "175K plays",
           "duration": 274,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "海闊天空#live",
+          "titleZh": "海闊天空 (Live)"
         },
         {
           "index": 3,
@@ -1813,7 +1992,9 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 319,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我最親愛的#live",
+          "titleZh": "我最親愛的 (Live)"
         },
         {
           "index": 4,
@@ -1823,7 +2004,8 @@
           "plays": 7600,
           "playsText": "7.6K plays",
           "duration": 329,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "天空#live"
         },
         {
           "index": 5,
@@ -1833,7 +2015,9 @@
           "plays": 32000,
           "playsText": "32K plays",
           "duration": 301,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "你快回來#live",
+          "titleZh": "你快回來 (Live)"
         },
         {
           "index": 6,
@@ -1843,7 +2027,9 @@
           "plays": 96000,
           "playsText": "96K plays",
           "duration": 261,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "特別的愛給特別的你#live",
+          "titleZh": "特別的愛給特別的你 (Live)"
         },
         {
           "index": 7,
@@ -1853,7 +2039,8 @@
           "plays": 313000,
           "playsText": "313K plays",
           "duration": 290,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "rollinginthedeep#live"
         }
       ],
       "releaseDate": null,
@@ -1865,6 +2052,7 @@
       "browseId": "MPREb_qJkNTfddwVu",
       "playlistId": "OLAK5uy_lZQLRMmify2CDnCohwdVJ7rTzFMYB3Px8",
       "title": "無法理解的大人",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/on7jwpHzQLqDQXoeAfwU9HYZNU7YeKcPNoNFMFbl05LB8n3Hh2lc4mTT_w_QEOVXHcIpVm8k1eKF4Mc=w544-h544-l90-rj",
@@ -1877,7 +2065,9 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "年少時代",
+          "titleZh": "年少時代（八大綜合臺韓劇《學校2015》片頭曲）"
         },
         {
           "index": 2,
@@ -1887,7 +2077,8 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "有關你的地方"
         },
         {
           "index": 3,
@@ -1897,7 +2088,8 @@
           "plays": 822000,
           "playsText": "822K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "越愛越配"
         },
         {
           "index": 4,
@@ -1907,7 +2099,8 @@
           "plays": 832,
           "playsText": "832 plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我應該是什麼模樣"
         },
         {
           "index": 5,
@@ -1917,7 +2110,8 @@
           "plays": 721,
           "playsText": "721 plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "現在就出發"
         },
         {
           "index": 6,
@@ -1927,7 +2121,8 @@
           "plays": 442,
           "playsText": "442 plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最後才學會"
         },
         {
           "index": 7,
@@ -1937,7 +2132,8 @@
           "plays": 172000,
           "playsText": "172K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "現在你在哪裡"
         },
         {
           "index": 8,
@@ -1947,7 +2143,8 @@
           "plays": 4700,
           "playsText": "4.7K plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "他對我很好"
         },
         {
           "index": 9,
@@ -1957,7 +2154,8 @@
           "plays": 6200,
           "playsText": "6.2K plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最幸福的時間"
         },
         {
           "index": 10,
@@ -1967,7 +2165,8 @@
           "plays": 35000,
           "playsText": "35K plays",
           "duration": 209,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一個人不一定就不快樂"
         }
       ],
       "releaseDate": "2015-09-19",
@@ -1979,6 +2178,7 @@
       "browseId": "MPREb_5umIPd3QASU",
       "playlistId": "OLAK5uy_lWkJcyVHOpPbRTB4t4UzytN0V9f9E4chU",
       "title": "現在, 你在哪裡? (2016演唱會Live精選輯)",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/pm3-erIqQW2f2i7tsZR81X4sz0YHMXX1Ui-1it8RoULdkeGrGv8ZO1y0KVryXZK95z9KcHdD3hHa89zZ=w544-h544-l90-rj",
@@ -1991,7 +2191,8 @@
           "plays": 371,
           "playsText": "371 plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一切為了愛"
         },
         {
           "index": 2,
@@ -2001,7 +2202,8 @@
           "plays": 737,
           "playsText": "737 plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "門沒鎖"
         },
         {
           "index": 3,
@@ -2011,7 +2213,8 @@
           "plays": 636,
           "playsText": "636 plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "年少時代"
         },
         {
           "index": 4,
@@ -2021,7 +2224,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "那些女孩教我的事愛情轉移"
         },
         {
           "index": 5,
@@ -2031,7 +2235,8 @@
           "plays": 493,
           "playsText": "493 plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "註定"
         },
         {
           "index": 6,
@@ -2041,7 +2246,8 @@
           "plays": 896,
           "playsText": "896 plays",
           "duration": 177,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情那麼傻"
         },
         {
           "index": 7,
@@ -2051,7 +2257,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我以為"
         },
         {
           "index": 8,
@@ -2061,7 +2268,9 @@
           "plays": 456,
           "playsText": "456 plays",
           "duration": 156,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "未拆的禮物",
+          "titleZh": "未拆的禮物"
         },
         {
           "index": 9,
@@ -2071,7 +2280,8 @@
           "plays": 191,
           "playsText": "191 plays",
           "duration": 211,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "偏偏喜歡你"
         },
         {
           "index": 10,
@@ -2081,7 +2291,8 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最想念的季節"
         },
         {
           "index": 11,
@@ -2091,7 +2302,8 @@
           "plays": 503,
           "playsText": "503 plays",
           "duration": 104,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鬼迷心竅"
         },
         {
           "index": 12,
@@ -2101,7 +2313,8 @@
           "plays": 349,
           "playsText": "349 plays",
           "duration": 186,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最美的問候最幸福的時間"
         },
         {
           "index": 13,
@@ -2111,7 +2324,8 @@
           "plays": 256,
           "playsText": "256 plays",
           "duration": 88,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "還好有你"
         },
         {
           "index": 14,
@@ -2121,7 +2335,8 @@
           "plays": 317,
           "playsText": "317 plays",
           "duration": 197,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "身邊"
         },
         {
           "index": 15,
@@ -2131,7 +2346,8 @@
           "plays": 854,
           "playsText": "854 plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "疼妳的責任"
         },
         {
           "index": 16,
@@ -2141,7 +2357,8 @@
           "plays": 817,
           "playsText": "817 plays",
           "duration": 207,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無可救藥"
         },
         {
           "index": 17,
@@ -2151,7 +2368,8 @@
           "plays": 685,
           "playsText": "685 plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "哄我入睡"
         },
         {
           "index": 18,
@@ -2161,7 +2379,8 @@
           "plays": 390,
           "playsText": "390 plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蜿蜒"
         },
         {
           "index": 19,
@@ -2171,7 +2390,8 @@
           "plays": 142,
           "playsText": "142 plays",
           "duration": 192,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "朋友"
         },
         {
           "index": 20,
@@ -2181,7 +2401,8 @@
           "plays": 364,
           "playsText": "364 plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "現在你在哪裡"
         },
         {
           "index": 21,
@@ -2191,7 +2412,8 @@
           "plays": 304,
           "playsText": "304 plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雨過天晴"
         },
         {
           "index": 22,
@@ -2201,7 +2423,8 @@
           "plays": 274,
           "playsText": "274 plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "水墨"
         },
         {
           "index": 23,
@@ -2211,7 +2434,8 @@
           "plays": 436,
           "playsText": "436 plays",
           "duration": 334,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "隨時都在chaser"
         },
         {
           "index": 24,
@@ -2221,7 +2445,8 @@
           "plays": 56,
           "playsText": "56 plays",
           "duration": 122,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "whitechristmas"
         },
         {
           "index": 25,
@@ -2231,7 +2456,9 @@
           "plays": 62,
           "playsText": "62 plays",
           "duration": 150,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "Jingle Bells + We Wish You A Merry Christmas(feat. 陳曉東)",
+          "nameKey": "jinglebellswewishyouamerrychristmas"
         },
         {
           "index": 26,
@@ -2241,7 +2468,8 @@
           "plays": 312,
           "playsText": "312 plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我最親愛的"
         },
         {
           "index": 27,
@@ -2251,7 +2479,8 @@
           "plays": 255,
           "playsText": "255 plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "殘酷月光失落沙洲"
         },
         {
           "index": 28,
@@ -2261,7 +2490,8 @@
           "plays": 368,
           "playsText": "368 plays",
           "duration": 333,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛當愛已成往事"
         },
         {
           "index": 29,
@@ -2271,7 +2501,8 @@
           "plays": 261,
           "playsText": "261 plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "獨家記憶忽然之間"
         }
       ],
       "releaseDate": "2017-12-22",
@@ -2283,6 +2514,7 @@
       "browseId": "MPREb_ELLkpM9wr3q",
       "playlistId": "OLAK5uy_m1HjesZVqzucF6CsljuVc2jueT8iTL1oo",
       "title": "言外之意 (普通版)",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/Oc2P8U_ZbmBzIM7FG8tvzBCSG6A7HSHfL_5yrN5Q76b0beu0TTtFRRNS4d07pga7zfTLbV_bs_xM7GVb=w544-h544-s-l90-rj",
@@ -2295,7 +2527,9 @@
           "plays": 194000,
           "playsText": "194K plays",
           "duration": 211,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "戒心傷",
+          "titleZh": "戒心傷"
         },
         {
           "index": 2,
@@ -2305,7 +2539,9 @@
           "plays": 191000,
           "playsText": "191K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如願以償",
+          "titleZh": "如願以償"
         },
         {
           "index": 3,
@@ -2315,7 +2551,8 @@
           "plays": 22000,
           "playsText": "22K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "純天然"
         },
         {
           "index": 4,
@@ -2325,7 +2562,8 @@
           "plays": 59000,
           "playsText": "59K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "想"
         },
         {
           "index": 5,
@@ -2335,7 +2573,9 @@
           "plays": 131000,
           "playsText": "131K plays",
           "duration": 308,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不會哭的人",
+          "titleZh": "不會哭的人"
         },
         {
           "index": 6,
@@ -2345,7 +2585,8 @@
           "plays": 30000,
           "playsText": "30K plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "陀螺"
         },
         {
           "index": 7,
@@ -2355,7 +2596,9 @@
           "plays": 32000,
           "playsText": "32K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "難言之隱",
+          "titleZh": "難言之隱"
         },
         {
           "index": 8,
@@ -2365,7 +2608,8 @@
           "plays": 81000,
           "playsText": "81K plays",
           "duration": 217,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "等"
         },
         {
           "index": 9,
@@ -2375,7 +2619,8 @@
           "plays": 153000,
           "playsText": "153K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "言外之意"
         },
         {
           "index": 10,
@@ -2385,7 +2630,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "言表"
         }
       ],
       "releaseDate": "2017-12-29",
@@ -2397,6 +2643,7 @@
       "browseId": "MPREb_34BaX2oIRFI",
       "playlistId": "OLAK5uy_lpfidBNV59n2lh4mOLEX_xA5Rrjz78YEE",
       "title": "孩子别忘了我",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/Vq04B_sbftswndrqW-0sUBAMOr77Yn_ytcfGLA6aiEYZ7oO3rB-g7wtOkSlSGb2jv07U_Gu9UCGeB81f=w544-h544-l90-rj",
@@ -2409,7 +2656,9 @@
           "plays": 645000,
           "playsText": "645K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "孩子別忘了我",
+          "titleZh": "《孩子別忘了我》（臺灣孝親獎詞曲類冠軍歌曲）"
         }
       ],
       "releaseDate": null,
@@ -2421,6 +2670,7 @@
       "browseId": "MPREb_a8zW7AKb1uc",
       "playlistId": "OLAK5uy_kU6rkzJEoqC7F7zw3Sp-fM304VB77qeMw",
       "title": "珍珠奶茶",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/QFJBe6LLNcdqdS7S19lNCagn_NkgEFeflaE3qR5PEb5zgIUt7hl3Aw9eHnBwVcijx76yLVVatT5F17M=w544-h544-l90-rj",
@@ -2433,7 +2683,8 @@
           "plays": 594000,
           "playsText": "594K plays",
           "duration": 206,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "珍珠奶茶"
         }
       ],
       "releaseDate": "2019-04-25",
@@ -2445,6 +2696,7 @@
       "browseId": "MPREb_cP63Gg9RFHC",
       "playlistId": "OLAK5uy_lMhMRE011o5DrIofRd7u7UbvPgBnagSRc",
       "title": "幸福指南編輯部",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/tlT2xGeOvUxYkVbtOpFJbSJfHqFxm4e066mFJ-XDBWRJ5krEYQDciIecWHlL81YPjRKPhLGJhlammxBk=w544-h544-l90-rj",
@@ -2457,7 +2709,8 @@
           "plays": 103000,
           "playsText": "103K plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "幸福指南"
         },
         {
           "index": 2,
@@ -2467,7 +2720,8 @@
           "plays": 594000,
           "playsText": "594K plays",
           "duration": 206,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "珍珠奶茶"
         },
         {
           "index": 3,
@@ -2477,7 +2731,8 @@
           "plays": 97000,
           "playsText": "97K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "上海站"
         },
         {
           "index": 4,
@@ -2487,7 +2742,8 @@
           "plays": 204000,
           "playsText": "204K plays",
           "duration": 184,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最佳前任"
         },
         {
           "index": 5,
@@ -2497,7 +2753,8 @@
           "plays": 126000,
           "playsText": "126K plays",
           "duration": 195,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "投己所好"
         },
         {
           "index": 6,
@@ -2507,7 +2764,8 @@
           "plays": 45000,
           "playsText": "45K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "1111"
         },
         {
           "index": 7,
@@ -2517,7 +2775,8 @@
           "plays": 76000,
           "playsText": "76K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你願不願意"
         },
         {
           "index": 8,
@@ -2527,7 +2786,8 @@
           "plays": 46000,
           "playsText": "46K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "暗戀美學"
         },
         {
           "index": 9,
@@ -2537,7 +2797,8 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 206,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "mylove"
         },
         {
           "index": 10,
@@ -2547,7 +2808,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "線下限定"
         }
       ],
       "releaseDate": "2019-07-12",
@@ -2559,6 +2821,7 @@
       "browseId": "MPREb_8tCoZJKLj8I",
       "playlistId": "OLAK5uy_lOetOP8Xz6Gq1e1e53gSfDD9itpRdDPPM",
       "title": "暖爸品冠经典英文儿歌弹唱课",
+      "albumArtist": "品冠",
       "type": "Album",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/I-GsiwLFToUFEcNOCXKA97j8j4dxsxclLHsS3ZnF2-dz8eMbOZuTL7_mBGD1XyoRiJApWNYoq53hHJE=w544-h544-l90-rj",
@@ -2571,7 +2834,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 335,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "rowrowrowyourboat"
         },
         {
           "index": 2,
@@ -2581,7 +2845,8 @@
           "plays": 2600,
           "playsText": "2.6K plays",
           "duration": 423,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "londonbridgeisfallingdown"
         },
         {
           "index": 3,
@@ -2591,7 +2856,8 @@
           "plays": 7300,
           "playsText": "7.3K plays",
           "duration": 459,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "maryhadalittlelamb"
         },
         {
           "index": 4,
@@ -2601,7 +2867,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 385,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "themorewegettogether"
         },
         {
           "index": 5,
@@ -2611,7 +2878,8 @@
           "plays": 6700,
           "playsText": "6.7K plays",
           "duration": 450,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "rainraingoaway"
         },
         {
           "index": 6,
@@ -2621,7 +2889,8 @@
           "plays": 7600,
           "playsText": "7.6K plays",
           "duration": 509,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "twinkletwinklelittlestar"
         },
         {
           "index": 7,
@@ -2631,7 +2900,8 @@
           "plays": 5300,
           "playsText": "5.3K plays",
           "duration": 461,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "baabaablacksheep"
         },
         {
           "index": 8,
@@ -2641,7 +2911,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 393,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "bingo"
         },
         {
           "index": 9,
@@ -2651,7 +2922,8 @@
           "plays": 4100,
           "playsText": "4.1K plays",
           "duration": 465,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "areyousleeping"
         },
         {
           "index": 10,
@@ -2661,7 +2933,8 @@
           "plays": 4400,
           "playsText": "4.4K plays",
           "duration": 559,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ifyourehappy"
         },
         {
           "index": 11,
@@ -2671,7 +2944,8 @@
           "plays": 3800,
           "playsText": "3.8K plays",
           "duration": 720,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "fivelittleducks"
         },
         {
           "index": 12,
@@ -2681,7 +2955,8 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 521,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "jinglebells"
         },
         {
           "index": 13,
@@ -2691,7 +2966,8 @@
           "plays": 3900,
           "playsText": "3.9K plays",
           "duration": 504,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "fivelittlemonkeys"
         },
         {
           "index": 14,
@@ -2701,7 +2977,8 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 513,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "thefingerfamily"
         },
         {
           "index": 15,
@@ -2711,7 +2988,8 @@
           "plays": 827,
           "playsText": "827 plays",
           "duration": 369,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "headshoulderskneesandtoes"
         },
         {
           "index": 16,
@@ -2721,7 +2999,8 @@
           "plays": 2200,
           "playsText": "2.2K plays",
           "duration": 389,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "hickorydickorydock"
         },
         {
           "index": 17,
@@ -2731,7 +3010,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 316,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "tenlittleindianboys"
         },
         {
           "index": 18,
@@ -2741,7 +3021,8 @@
           "plays": 2400,
           "playsText": "2.4K plays",
           "duration": 663,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lavendersblue"
         },
         {
           "index": 19,
@@ -2751,7 +3032,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 510,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "thewheelsonthebus"
         },
         {
           "index": 20,
@@ -2761,7 +3043,8 @@
           "plays": 652,
           "playsText": "652 plays",
           "duration": 484,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "thisistheway"
         }
       ],
       "releaseDate": null,
@@ -2773,6 +3056,7 @@
       "browseId": "MPREb_K9AdTkvsK4I",
       "playlistId": "OLAK5uy_lmZugrfzHi_bKDwmR09Hlg4v1xFbJcSsw",
       "title": "網路劇《等等啊我的青春》同名片尾曲",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/Zw4SjkGjRxpw7Wyz2OywkNoU9lVcosLV7vejwYmwzSy8a2BqohuU_WCsRjNUcIcG976Csn0xX2pzsoI=w544-h544-l90-rj",
@@ -2785,7 +3069,8 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "等等啊我的青春"
         },
         {
           "index": 2,
@@ -2795,7 +3080,8 @@
           "plays": 2500,
           "playsText": "2.5K plays",
           "duration": 199,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "棉花糖"
         }
       ],
       "releaseDate": null,
@@ -2807,6 +3093,7 @@
       "browseId": "MPREb_z1FvCKnWdOx",
       "playlistId": "OLAK5uy_k4O6E_UII-g3Fhnw9dK8eU3yiCbEg5tZE",
       "title": "電視劇《誰的青春不叛逆》原聲帶",
+      "albumArtist": "品冠, 鍾易軒 & 楊彤",
       "type": "EP",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/l4F5QkeqykdUuMuSMpdIJ95itHaihCadKW9LTsTmgH0InQwFLN-fSMFPOOncR0hA_ukxR5TnyjckWpjuEg=w544-h544-l90-rj",
@@ -2819,7 +3106,8 @@
           "plays": 794,
           "playsText": "794 plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我們曾是少年"
         },
         {
           "index": 2,
@@ -2829,7 +3117,8 @@
           "plays": 344,
           "playsText": "344 plays",
           "duration": 246,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "誰的青春不叛逆"
         },
         {
           "index": 3,
@@ -2839,7 +3128,8 @@
           "plays": 100,
           "playsText": "100 plays",
           "duration": 260,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "我們曾是少年"
         },
         {
           "index": 4,
@@ -2849,7 +3139,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我們曾是少年"
         }
       ],
       "releaseDate": null,
@@ -2861,6 +3152,7 @@
       "browseId": "MPREb_gDm2e1a9nCa",
       "playlistId": "OLAK5uy_nioKnJfWsB_ClusRvc8BPNldq7D5jHDng",
       "title": "愛你需要練習",
+      "albumArtist": "品冠 Feat. 薇婭",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/XQMs45TbWIRi-Vo6bcTLeOsGc-LQUI7z7AIckqr9uJ1SmSqUlWLyq7Qt0sQ96h7yh6vstEvQ6i3Yfq5A=w544-h544-l90-rj",
@@ -2873,7 +3165,8 @@
           "plays": 146000,
           "playsText": "146K plays",
           "duration": 236,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛你需要練習"
         }
       ],
       "releaseDate": "2020-11-01",
@@ -2885,6 +3178,7 @@
       "browseId": "MPREb_I0CqGHGJ1pM",
       "playlistId": "OLAK5uy_meCRRykh-WwdrQ2sUQN3pYikwDPJo0BEI",
       "title": "电视剧《彗星来的那一夜Ⅱ·蓝洞之恋》原声带",
+      "albumArtist": "品冠 & 汪睿",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/R-zCDBgMEtWPZ5N2OhqRRHmiJBIX0ct7sliwLm1tbFbVYY1Wsg-WNXyJxRpGKn0KZure1VwGSrOJZ0FWsQ=w544-h544-l90-rj",
@@ -2897,7 +3191,9 @@
           "plays": 105000,
           "playsText": "105K plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "兩個人",
+          "titleZh": "兩個人"
         },
         {
           "index": 2,
@@ -2907,7 +3203,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 256,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "我等你"
         }
       ],
       "releaseDate": null,
@@ -2919,6 +3216,7 @@
       "browseId": "MPREb_ololwvZOV8j",
       "playlistId": "OLAK5uy_mLCw9fXnnXoQhjpITBTbgZziHEtc2ZmrY",
       "title": "來日不方長",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/kGdqJWLb09Fb4kql8azSh1ggEjUlUpet8CR3Ea6HfZE4Osq8uAy4qAGB-Pj8eRKMK3d4NE0GP974950=w544-h544-l90-rj",
@@ -2931,7 +3229,8 @@
           "plays": 520000,
           "playsText": "520K plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "來日不方長"
         }
       ],
       "releaseDate": "2021-12-01",
@@ -2943,6 +3242,7 @@
       "browseId": "MPREb_WC76SgPnBgW",
       "playlistId": "OLAK5uy_kDhNloMsgtggspOy709lVciNvl_mFZeYs",
       "title": "在偶然與想像中押韻",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/xpWepIOfUWLwPNl-I5xM94CDd7j7yFZtzf3udgJuQ0Xqzpy6d5M8uz28fpG9GjZXfALbJOEMTa8D-h0lXg=w544-h544-l90-rj",
@@ -2955,7 +3255,8 @@
           "plays": 116000,
           "playsText": "116K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在偶然與想像中押韻"
         }
       ],
       "releaseDate": "2022-03-01",
@@ -2967,6 +3268,7 @@
       "browseId": "MPREb_DUdOcwa3kA7",
       "playlistId": "OLAK5uy_k-gAv7acGZP0IbfrHFdDxKp6au1LBdkRM",
       "title": "不如我們今天見",
+      "albumArtist": "品冠",
       "type": "EP",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/xdp1-vOmwy1DTfzhJmnCJ04Ux4MWWjYP3t_QfuzFuNFECcU51hiMwaURi4nQlGl3N8sE_h4UkGAH9A7WVA=w544-h544-l90-rj",
@@ -2979,7 +3281,8 @@
           "plays": 2800000,
           "playsText": "2.8M plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不如我們今天見"
         },
         {
           "index": 2,
@@ -2989,7 +3292,8 @@
           "plays": 116000,
           "playsText": "116K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在偶然與想像中押韻"
         },
         {
           "index": 3,
@@ -2999,7 +3303,8 @@
           "plays": 325000,
           "playsText": "325K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好好愛著"
         },
         {
           "index": 4,
@@ -3009,7 +3314,8 @@
           "plays": 520000,
           "playsText": "520K plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "來日不方長"
         },
         {
           "index": 5,
@@ -3019,7 +3325,9 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 201,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我在月臺看風景",
+          "titleZh": "我在月臺看風景"
         },
         {
           "index": 6,
@@ -3029,7 +3337,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "幸好有你"
         }
       ],
       "releaseDate": "2022-10-20",
@@ -3041,6 +3350,7 @@
       "browseId": "MPREb_VT4LsCgYmRF",
       "playlistId": "OLAK5uy_nb__RSc1nsO7omT1nVx8UDglfc5Nb0jFY",
       "title": "不如我們今天見",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/qb3BnOeJA82J93oF30bH9Ilgc8cgXE9eU3lRNd3WSAEYySN2By2CrwtbcOlOlRwjUYGImIKPgmcNVlTJ_A=w544-h544-l90-rj",
@@ -3053,7 +3363,8 @@
           "plays": 2800000,
           "playsText": "2.8M plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不如我們今天見"
         }
       ],
       "releaseDate": "2022-10-20",
@@ -3065,6 +3376,7 @@
       "browseId": "MPREb_2dmicCyxNyk",
       "playlistId": "OLAK5uy_kbIpInT-qUhqm0fvWPyxZswd5xmckwysE",
       "title": "久久",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/ndreQLdcLdPUB1fCtFRJ1MSOr7MrFVMJWKVVfbQzYcFO8zpXXrMCXIB4zsqrgIPz9MqAdwwdprtnbhn5=w544-h544-l90-rj",
@@ -3077,7 +3389,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "久久"
         },
         {
           "index": 2,
@@ -3087,7 +3400,8 @@
           "plays": 151,
           "playsText": "151 plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "久久"
         }
       ],
       "releaseDate": null,
@@ -3099,6 +3413,7 @@
       "browseId": "MPREb_xawymwvwcG6",
       "playlistId": "OLAK5uy_nCWOP3telE3F13Yb1SFVNQI48HK3pFJwA",
       "title": "《守護神之保險調查》電視劇原聲帶",
+      "albumArtist": "品冠, 黃齡 & 張瑋",
       "type": "EP",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/xStR6DIQDQAyVCjuPZp6oGILXkH9X6XgKumzil7pkn9XDpiX_3DWDxRcBZXh6R1ZNq0osaao0wtmEko-=w544-h544-l90-rj",
@@ -3111,7 +3426,8 @@
           "plays": 57000,
           "playsText": "57K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "靈魂伴侶"
         },
         {
           "index": 2,
@@ -3121,7 +3437,8 @@
           "plays": 87000,
           "playsText": "87K plays",
           "duration": 260,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "靈魂伴侶"
         },
         {
           "index": 3,
@@ -3131,7 +3448,8 @@
           "plays": 51000,
           "playsText": "51K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一種開始"
         },
         {
           "index": 4,
@@ -3141,7 +3459,8 @@
           "plays": 5400,
           "playsText": "5.4K plays",
           "duration": 260,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "另一種開始"
         },
         {
           "index": 5,
@@ -3151,7 +3470,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 225,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "守護英雄"
         }
       ],
       "releaseDate": null,
@@ -3163,6 +3483,7 @@
       "browseId": "MPREb_LVuVo2kQBtB",
       "playlistId": "OLAK5uy_lG-yQ24CKpFFyNCxmwwzdb8lZaPKIZkKY",
       "title": "一個人不一定就不快樂",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/MmAHC8x4LqQxHOZDJXl6piEzr9USST7A-JkVIWlM4LY7bDZwaKAuhaFnj6p2s64W6RoU1YRdmsBmLoGSrw=w544-h544-l90-rj",
@@ -3175,7 +3496,8 @@
           "plays": 35000,
           "playsText": "35K plays",
           "duration": 209,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一個人不一定就不快樂"
         }
       ],
       "releaseDate": null,
@@ -3187,6 +3509,7 @@
       "browseId": "MPREb_I2d6W5dsjRa",
       "playlistId": "OLAK5uy_kMvo2d-CS_WgHKjWKuU7F4Bx9-mO0G3DU",
       "title": "最幸福的時間",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/_2C8ixfYUg-Gt4k78fq94zNoaKThjraCT9uQioX9AB0XPRuhScVUhpVFWZpZKtWdJE6W5wggFK5X2kQZ=w544-h544-l90-rj",
@@ -3199,7 +3522,8 @@
           "plays": 6200,
           "playsText": "6.2K plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最幸福的時間"
         }
       ],
       "releaseDate": null,
@@ -3211,6 +3535,7 @@
       "browseId": "MPREb_P0S70y0VXFw",
       "playlistId": "OLAK5uy_mBoAKgXC_g6GCC1R0TvRSacOz9gc6TUWQ",
       "title": "哈囉",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/43Qxo69W7Y6hgsQMTYn6xf42CADaJDniKahsAcl32J4GYGqcvJBLoA-UQbTxRMzuDKoS0EOnVjwDfcA6VA=w544-h544-l90-rj",
@@ -3223,7 +3548,8 @@
           "plays": 123000,
           "playsText": "123K plays",
           "duration": 188,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "哈囉"
         }
       ],
       "releaseDate": null,
@@ -3235,6 +3561,7 @@
       "browseId": "MPREb_j6BAxkGbt46",
       "playlistId": "OLAK5uy_nN45X4IbQ3bsOchKbl58gG4SsSBLzt3QE",
       "title": "我一個人記得就好（電視原聲帶《失去你的那一天》片尾曲）",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/I3M77i5JsEiyYbweDHEg0V-buVS9Wjk1rTTZcxaJ0v4zmynTs3zPDIXzGHtJyE5zMW18RGkQ7xIBsqDlTA=w544-h544-l90-rj",
@@ -3247,7 +3574,8 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我一個人記得就好"
         }
       ],
       "releaseDate": null,
@@ -3259,6 +3587,7 @@
       "browseId": "MPREb_s168d9O7xao",
       "playlistId": "OLAK5uy_kObQrVr2PXMAhwoneA9hhQg28FiRHVb_k",
       "title": "更寬的肩膀（偶像劇《有愛一家人》插曲）",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/CfDUFGsfk5TOqXTrlBVJGDzss_SNYeMjOteqc31iKLjwpM8nbaHU1nuuWJMwmVQ-Lj_giyLNWeD2S_OXgQ=w544-h544-l90-rj",
@@ -3271,7 +3600,8 @@
           "plays": 581000,
           "playsText": "581K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "更寬的肩膀"
         }
       ],
       "releaseDate": null,
@@ -3283,6 +3613,7 @@
       "browseId": "MPREb_74y6aKV0nHj",
       "playlistId": "OLAK5uy_nAaWY7fMFal6RWFIBhmETMV-pbnZpLJHQ",
       "title": "現在，你在哪裡 ?",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/fErcv_l_vxxCFRxyJdScnoXeUgNzINhf-bnDr6sd3PTuc54JIc1Duaz8EHIsSKW3UzWNC_fLGzIPEw5h=w544-h544-l90-rj",
@@ -3295,7 +3626,8 @@
           "plays": 172000,
           "playsText": "172K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "現在你在哪裡"
         }
       ],
       "releaseDate": null,
@@ -3307,6 +3639,7 @@
       "browseId": "MPREb_kFxYYyaSwYJ",
       "playlistId": "OLAK5uy_nWW2najnpt8uoswoVxNlZR1s9lITVgaM4",
       "title": "神奇的每一天 (feat. Jayden)",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/JJRcDo_4XM4KLL3DmwWIv9UHrr-CfzhnF44xjzyi9mzkBCkxNqIxonH3BL8mtveWmfYP-4R27XKtGTVp-Q=w544-h544-l90-rj",
@@ -3319,7 +3652,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "神奇的每一天"
         }
       ],
       "releaseDate": null,
@@ -3331,6 +3665,7 @@
       "browseId": "MPREb_GYK1fNpCKzA",
       "playlistId": "OLAK5uy_l2exGPh5htD8J3ETNUaTMzkAZN0Z_1hCA",
       "title": "妥妥",
+      "albumArtist": "品冠",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/KPX05Kk5xASEprTVhJg6BaKQI6uju3LzdmXahyZXXT2TkfFgPIhPnasTzr_lH8_hWpAidtzEefb7AJ80=w544-h544-l90-rj",
@@ -3343,7 +3678,8 @@
           "plays": 60000,
           "playsText": "60K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "妥妥"
         }
       ],
       "releaseDate": null,
@@ -3355,6 +3691,7 @@
       "browseId": "MPREb_3xtinVIgW3q",
       "playlistId": "OLAK5uy_kMXgxJ3P1_QsKgbAEH3mp36rmXRkZFg8Y",
       "title": "影視劇《餘生有涯》 原聲帶",
+      "albumArtist": "品冠, 小時姑娘 & 林凡",
       "type": "EP",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/owO7QXcqQ5-GDz66LftKsCLw-Fp6utOFeBnUhVnO9_u0OHbpsFapPk6t_pv8gxW3IeGvbgHhdgGMlY4=w544-h544-l90-rj",
@@ -3367,7 +3704,8 @@
           "plays": 6600,
           "playsText": "6.6K plays",
           "duration": 247,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "霓虹之下"
         },
         {
           "index": 2,
@@ -3377,7 +3715,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 258,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "你聽"
         },
         {
           "index": 3,
@@ -3387,7 +3726,8 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讓我成為你的秘密"
         },
         {
           "index": 4,
@@ -3397,7 +3737,8 @@
           "plays": 525,
           "playsText": "525 plays",
           "duration": 247,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "霓虹之下"
         },
         {
           "index": 5,
@@ -3407,7 +3748,8 @@
           "plays": 312,
           "playsText": "312 plays",
           "duration": 258,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "你聽"
         },
         {
           "index": 6,
@@ -3417,7 +3759,8 @@
           "plays": 331,
           "playsText": "331 plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讓我成為你的秘密"
         }
       ],
       "releaseDate": null,

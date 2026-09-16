@@ -2,19 +2,21 @@
   "slug": "jj-lin",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-16T18:54:26.585Z",
+  "fetchedAt": "2026-09-16T19:15:30.681Z",
   "artist": {
     "channelId": "UCUJ3KuIIgvh8eVItvb-EdFQ",
     "name": "JJ Lin",
     "thumbnail": "https://lh3.googleusercontent.com/i8PKueO4JStFM6i5t-F8V1jnFglYSybQ_NhU-aXv8mwiPgiCsXjW7WO6gKv97cNPrRcipbHLQA4arA=w2880-h1200-p-l90-rj",
     "subscribers": 1650000,
-    "monthlyAudience": 9440000
+    "monthlyAudience": 9440000,
+    "avatar": "https://yt3.googleusercontent.com/EAEel3x86uaSCgt3cRDa5m69vQentWUmM78qAPcTfy-hz_tWJMqCbr5CKSoA0VdHAn2sO_oXAg=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
       "browseId": "MPREb_gQ71maeIo93",
       "playlistId": "OLAK5uy_nHmiloEO8iuYDS206ONnavHdkjb0MyZ-Q",
       "title": "樂行者",
+      "albumArtist": "JJ林俊傑",
       "type": "Album",
       "year": 2003,
       "thumbnail": "https://yt3.googleusercontent.com/VexQHDrpucqNePB6pkNH3II48g7rc6YaoXfnTNtky_UGsP-toay0sHAold0P9TQzK6ZS8uGNCX8kyA4=w544-h544-l90-rj",
@@ -27,7 +29,8 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 195,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "就是我"
         },
         {
           "index": 2,
@@ -37,7 +40,8 @@
           "plays": 561000,
           "playsText": "561K plays",
           "duration": 209,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "會讀書"
         },
         {
           "index": 3,
@@ -47,7 +51,8 @@
           "plays": 4500000,
           "playsText": "4.5M plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "翅膀"
         },
         {
           "index": 4,
@@ -57,7 +62,8 @@
           "plays": 460000,
           "playsText": "460K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星球"
         },
         {
           "index": 5,
@@ -67,7 +73,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "凍結"
         },
         {
           "index": 6,
@@ -77,7 +84,8 @@
           "plays": 70000,
           "playsText": "70K plays",
           "duration": 191,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "壓力"
         },
         {
           "index": 7,
@@ -87,7 +95,8 @@
           "plays": 186000,
           "playsText": "186K plays",
           "duration": 190,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "女兒家"
         },
         {
           "index": 8,
@@ -97,7 +106,8 @@
           "plays": 313000,
           "playsText": "313K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星空下的吻"
         },
         {
           "index": 9,
@@ -107,7 +117,8 @@
           "plays": 691000,
           "playsText": "691K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讓我心動的人"
         },
         {
           "index": 10,
@@ -117,7 +128,8 @@
           "plays": 2800000,
           "playsText": "2.8M plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "會有那麼一天"
         },
         {
           "index": 11,
@@ -127,7 +139,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不懂"
         }
       ],
       "releaseDate": "2003-04-10",
@@ -139,6 +152,7 @@
       "browseId": "MPREb_vw8mwGgXJXX",
       "playlistId": "OLAK5uy_lbyqOCg6fC_HwWErOLcEDXeDEFkiv-sq4",
       "title": "江南（第二天堂）",
+      "albumArtist": "JJ林俊傑",
       "type": "Album",
       "year": 2004,
       "thumbnail": "https://yt3.googleusercontent.com/dNm9Vcs0EOqM005KiX98JER5PkyJi3x4Dp55cLUuYpVKgPessXXryr-XUgHP8aTyKfFF9OamLjkPnJQ=w544-h544-l90-rj",
@@ -151,7 +165,8 @@
           "plays": 1500000,
           "playsText": "1.5M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第二天堂"
         },
         {
           "index": 2,
@@ -161,7 +176,8 @@
           "plays": 443000,
           "playsText": "443K plays",
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "子彈列車"
         },
         {
           "index": 3,
@@ -171,7 +187,8 @@
           "plays": 17000000,
           "playsText": "17M plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "豆漿油條"
         },
         {
           "index": 4,
@@ -181,7 +198,8 @@
           "plays": 102000000,
           "playsText": "102M plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "江南"
         },
         {
           "index": 5,
@@ -191,7 +209,8 @@
           "plays": 5200000,
           "playsText": "5.2M plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "害怕"
         },
         {
           "index": 6,
@@ -201,7 +220,8 @@
           "plays": 292000,
           "playsText": "292K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "天使心"
         },
         {
           "index": 7,
@@ -211,7 +231,8 @@
           "plays": 954000,
           "playsText": "954K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "精靈"
         },
         {
           "index": 8,
@@ -221,7 +242,8 @@
           "plays": 165000,
           "playsText": "165K plays",
           "duration": 201,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "相信無限"
         },
         {
           "index": 9,
@@ -231,7 +253,8 @@
           "plays": 29000000,
           "playsText": "29M plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "美人魚"
         },
         {
           "index": 10,
@@ -241,7 +264,8 @@
           "plays": 2700000,
           "playsText": "2.7M plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "距離"
         },
         {
           "index": 11,
@@ -251,7 +275,8 @@
           "plays": 532000,
           "playsText": "532K plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "endlessroad"
         }
       ],
       "releaseDate": "2004-06-04",
@@ -263,6 +288,7 @@
       "browseId": "MPREb_owZ5JuzZJtg",
       "playlistId": "OLAK5uy_n4yrJPnDKdEXKcRJdz268r9ZjrAyvzDQA",
       "title": "編號89757",
+      "albumArtist": "JJ林俊傑",
       "type": "Album",
       "year": 2005,
       "thumbnail": "https://yt3.googleusercontent.com/xZeP6vxnqf3mbWTgawbZghPz5ss3_ot0LJSHMr1gvhb0PjCs_7AC-2AC3t7FFPrrH7Ux_fG0Qw0GCeOd5Q=w544-h544-l90-rj",
@@ -275,7 +301,8 @@
           "plays": 4200000,
           "playsText": "4.2M plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "木乃伊"
         },
         {
           "index": 2,
@@ -285,7 +312,8 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "編號89757"
         },
         {
           "index": 3,
@@ -295,7 +323,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "莎士比亞的天份"
         },
         {
           "index": 4,
@@ -305,7 +334,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "突然累了"
         },
         {
           "index": 5,
@@ -315,7 +345,8 @@
           "plays": 277000,
           "playsText": "277K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "明天"
         },
         {
           "index": 6,
@@ -325,7 +356,8 @@
           "plays": 9400000,
           "playsText": "9.4M plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "簡簡單單"
         },
         {
           "index": 7,
@@ -335,7 +367,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無盡的思念"
         },
         {
           "index": 8,
@@ -345,7 +378,8 @@
           "plays": 81000,
           "playsText": "81K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "盜"
         },
         {
           "index": 9,
@@ -355,7 +389,8 @@
           "plays": 110000,
           "playsText": "110K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "聽不懂沒關係"
         },
         {
           "index": 10,
@@ -365,7 +400,8 @@
           "plays": 30000000,
           "playsText": "30M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一千年以後"
         },
         {
           "index": 11,
@@ -375,7 +411,8 @@
           "plays": 71000,
           "playsText": "71K plays",
           "duration": 64,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一千年以前"
         }
       ],
       "releaseDate": "2005-04-01",
@@ -387,6 +424,7 @@
       "browseId": "MPREb_B6C5hehq4YH",
       "playlistId": "OLAK5uy_lLerGcdtZv2gJzWnWv4u73R8quFde4KeE",
       "title": "編號89757 (普通版)",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2005,
       "thumbnail": "https://yt3.googleusercontent.com/AM3u79UsjjMp6y-NyycXmFlVsKqVwpg1-LpyGqGDqbSyTxzbQpxa_TYmfk4FQHY3RhcfRiAGwmlG8V8=w544-h544-l90-rj",
@@ -399,7 +437,8 @@
           "plays": 71000,
           "playsText": "71K plays",
           "duration": 64,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一千年以前"
         },
         {
           "index": 2,
@@ -409,7 +448,8 @@
           "plays": 4200000,
           "playsText": "4.2M plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "木迺伊"
         },
         {
           "index": 3,
@@ -419,7 +459,8 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "編號89757"
         },
         {
           "index": 4,
@@ -429,7 +470,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "莎士比亞的天份"
         },
         {
           "index": 5,
@@ -439,7 +481,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "突然累了"
         },
         {
           "index": 6,
@@ -449,7 +492,8 @@
           "plays": 277000,
           "playsText": "277K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "明天"
         },
         {
           "index": 7,
@@ -459,7 +503,8 @@
           "plays": 9400000,
           "playsText": "9.4M plays",
           "duration": 211,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "簡簡單單"
         },
         {
           "index": 8,
@@ -469,7 +514,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無盡的思念"
         },
         {
           "index": 9,
@@ -479,7 +525,8 @@
           "plays": 81000,
           "playsText": "81K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "盜"
         },
         {
           "index": 10,
@@ -489,7 +536,8 @@
           "plays": 110000,
           "playsText": "110K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "聽不懂沒關系"
         },
         {
           "index": 11,
@@ -499,7 +547,8 @@
           "plays": 30000000,
           "playsText": "30M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一千年以後"
         }
       ],
       "releaseDate": "2005-04-01",
@@ -511,6 +560,7 @@
       "browseId": "MPREb_5usFFIjnlwB",
       "playlistId": "OLAK5uy_nOsHSqSsXG9xfr0tQc-Rs5YtV1iQmZE3c",
       "title": "2006就是俊傑世界巡回演唱會",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/YITCDlGet5bhak-W_zDdZEtA5coCpWnwY7nyqGQO1EdY9S-NoQ8gLq74c4pfzwKOYalvqC5O6I8oTDAT=w544-h544-l90-rj",
@@ -523,7 +573,9 @@
           "plays": 131000,
           "playsText": "131K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘記#live",
+          "titleZh": "忘記（Live） (現場)"
         },
         {
           "index": 2,
@@ -533,7 +585,9 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "聽不懂沒關系#live",
+          "titleZh": "聽不懂沒關系（Live） (現場)"
         },
         {
           "index": 3,
@@ -543,7 +597,8 @@
           "plays": 335,
           "playsText": "335 plays",
           "duration": 108,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ido#live"
         },
         {
           "index": 4,
@@ -553,7 +608,8 @@
           "plays": 294,
           "playsText": "294 plays",
           "duration": 104,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛笑的眼睛#live"
         },
         {
           "index": 5,
@@ -563,7 +619,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "被風吹過的夏天#live"
         },
         {
           "index": 6,
@@ -573,7 +630,8 @@
           "plays": 9100,
           "playsText": "9.1K plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "翅膀#live"
         },
         {
           "index": 7,
@@ -583,17 +641,19 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 119,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第二天堂#live"
         },
         {
           "index": 8,
           "title": "記得（Live）",
           "artists": "林俊傑",
           "videoId": "ik8MA1v8JbA",
-          "plays": 462,
-          "playsText": "462 plays",
+          "plays": 464,
+          "playsText": "464 plays",
           "duration": 78,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "記得#live"
         },
         {
           "index": 9,
@@ -603,7 +663,8 @@
           "plays": 8200,
           "playsText": "8.2K plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "江南#live"
         },
         {
           "index": 10,
@@ -613,7 +674,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "進化論#live"
         },
         {
           "index": 11,
@@ -623,7 +685,8 @@
           "plays": 3400,
           "playsText": "3.4K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "就是我#live"
         },
         {
           "index": 12,
@@ -633,7 +696,8 @@
           "plays": 3500,
           "playsText": "3.5K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "明天#live"
         },
         {
           "index": 13,
@@ -643,7 +707,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 340,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "木乃伊#live"
         },
         {
           "index": 14,
@@ -653,7 +718,8 @@
           "plays": 5300,
           "playsText": "5.3K plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "熟能生巧#live"
         },
         {
           "index": 15,
@@ -663,7 +729,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 303,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一千年以後#live"
         },
         {
           "index": 16,
@@ -673,7 +740,8 @@
           "plays": 4300,
           "playsText": "4.3K plays",
           "duration": 302,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "사랑해요只對你說#live"
         },
         {
           "index": 17,
@@ -683,7 +751,8 @@
           "plays": 4000,
           "playsText": "4K plays",
           "duration": 111,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "子彈列車#live"
         },
         {
           "index": 18,
@@ -693,7 +762,8 @@
           "plays": 4100,
           "playsText": "4.1K plays",
           "duration": 53,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "決戰時刻#live"
         },
         {
           "index": 19,
@@ -703,7 +773,8 @@
           "plays": 4900,
           "playsText": "4.9K plays",
           "duration": 83,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "幕後英雄#live"
         },
         {
           "index": 20,
@@ -713,7 +784,8 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 140,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "善與惡#live"
         },
         {
           "index": 21,
@@ -723,7 +795,8 @@
           "plays": 9600,
           "playsText": "9.6K plays",
           "duration": 62,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "英雄再現#live"
         },
         {
           "index": 22,
@@ -733,7 +806,8 @@
           "plays": 4800,
           "playsText": "4.8K plays",
           "duration": 74,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "encore#live"
         },
         {
           "index": 23,
@@ -743,7 +817,8 @@
           "plays": 112,
           "playsText": "112 plays",
           "duration": 87,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "開場白#live"
         }
       ],
       "releaseDate": "2006-01-01",
@@ -755,6 +830,7 @@
       "browseId": "MPREb_ACQOEDYtoxk",
       "playlistId": "OLAK5uy_lMqNkgg_cXzBjbN3L6OJSMRX1Y9SYHVS0",
       "title": "曹操",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/jr7mHwwqCvE4_zMk80jzKWMseOoBZHLrEP5dQj_2kZko3nVBUNwKKYTFMYzYbgnyBlDum7XhIWz8S9CS=w544-h544-l90-rj",
@@ -767,7 +843,8 @@
           "plays": 5200000,
           "playsText": "5.2M plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "사랑해요只對你說"
         },
         {
           "index": 2,
@@ -777,7 +854,9 @@
           "plays": 43000000,
           "playsText": "43M plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "曹操#live",
+          "titleZh": "曹操 (現場)"
         },
         {
           "index": 3,
@@ -787,7 +866,8 @@
           "plays": 3000000,
           "playsText": "3M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "熟能生巧"
         },
         {
           "index": 4,
@@ -797,7 +877,8 @@
           "plays": 560000,
           "playsText": "560K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "波間帶"
         },
         {
           "index": 5,
@@ -807,7 +888,8 @@
           "plays": 9800000,
           "playsText": "9.8M plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "原來"
         },
         {
           "index": 6,
@@ -817,7 +899,8 @@
           "plays": 5000000,
           "playsText": "5M plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不死之身"
         },
         {
           "index": 7,
@@ -827,7 +910,8 @@
           "plays": 353000,
           "playsText": "353K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情yogurt"
         },
         {
           "index": 8,
@@ -837,7 +921,8 @@
           "plays": 500000,
           "playsText": "500K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "進化論"
         },
         {
           "index": 9,
@@ -847,7 +932,8 @@
           "plays": 107000,
           "playsText": "107K plays",
           "duration": 129,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流行主教"
         },
         {
           "index": 10,
@@ -857,7 +943,8 @@
           "plays": 639000,
           "playsText": "639K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "nowthatshesgone"
         },
         {
           "index": 11,
@@ -867,7 +954,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 165,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "down"
         },
         {
           "index": 12,
@@ -877,7 +965,8 @@
           "plays": 3200000,
           "playsText": "3.2M plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你要的不是我"
         }
       ],
       "releaseDate": "2006-02-17",
@@ -889,6 +978,7 @@
       "browseId": "MPREb_1yZN1RROcEs",
       "playlistId": "OLAK5uy_mRcBd4vBVFVbB4xj2kv-J6Wvn9N-OI6qs",
       "title": "西界",
+      "albumArtist": "林俊傑 & 王傳一",
       "type": "Album",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/eRQuSBVTx1pQ6rHj_Dt230ZLl_JvfIBIkx4vcN0Cb2FYbYE4uzkthX_Ir-CP66X0MCcJtAjx9N52lRo=w544-h544-l90-rj",
@@ -901,7 +991,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 294,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "獨白"
         },
         {
           "index": 2,
@@ -911,7 +1002,8 @@
           "plays": 8100000,
           "playsText": "8.1M plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "殺手"
         },
         {
           "index": 3,
@@ -921,7 +1013,8 @@
           "plays": 9000,
           "playsText": "9K plays",
           "duration": 78,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "殺手續"
         },
         {
           "index": 4,
@@ -931,7 +1024,8 @@
           "plays": 4700000,
           "playsText": "4.7M plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "西界"
         },
         {
           "index": 5,
@@ -941,7 +1035,8 @@
           "plays": 348000,
           "playsText": "348K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無聊"
         },
         {
           "index": 6,
@@ -951,7 +1046,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 49,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "單挑"
         },
         {
           "index": 7,
@@ -961,7 +1057,8 @@
           "plays": 348000,
           "playsText": "348K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ko"
         },
         {
           "index": 8,
@@ -971,7 +1068,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大男人小女孩"
         },
         {
           "index": 9,
@@ -981,7 +1079,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "love"
         },
         {
           "index": 10,
@@ -991,7 +1090,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "發現愛"
         },
         {
           "index": 11,
@@ -1001,7 +1101,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不流淚的機場"
         },
         {
           "index": 12,
@@ -1011,7 +1112,8 @@
           "plays": 987000,
           "playsText": "987K plays",
           "duration": 221,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "babybaby"
         },
         {
           "index": 13,
@@ -1021,7 +1123,8 @@
           "plays": 596000,
           "playsText": "596K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "自由不變"
         }
       ],
       "releaseDate": "2007-06-29",
@@ -1033,6 +1136,7 @@
       "browseId": "MPREb_l0zBTiX1kit",
       "playlistId": "OLAK5uy_kwUmrHsRmEujI1WPwzG6xDFgGp7-8JAUs",
       "title": "西界",
+      "albumArtist": "JJ林俊傑",
       "type": "Album",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/51IdQ3yp2zmaoRcZ8-heT9cYbiEr4i4q5ii1WvNXT2j8xh5-Etx7BXcW0IiNNBO5_5Uly7JumSxbFzbK=w544-h544-l90-rj",
@@ -1045,7 +1149,8 @@
           "plays": 8100000,
           "playsText": "8.1M plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "殺手"
         },
         {
           "index": 2,
@@ -1055,7 +1160,8 @@
           "plays": 4700000,
           "playsText": "4.7M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "西界"
         },
         {
           "index": 3,
@@ -1065,7 +1171,8 @@
           "plays": 348000,
           "playsText": "348K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ko"
         },
         {
           "index": 4,
@@ -1075,7 +1182,8 @@
           "plays": 396000,
           "playsText": "396K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大男人小女孩"
         },
         {
           "index": 5,
@@ -1085,7 +1193,8 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "love"
         },
         {
           "index": 6,
@@ -1095,7 +1204,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 221,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "發現愛"
         },
         {
           "index": 7,
@@ -1105,7 +1215,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不流淚的機場"
         },
         {
           "index": 8,
@@ -1115,7 +1226,8 @@
           "plays": 987000,
           "playsText": "987K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "babybaby"
         },
         {
           "index": 9,
@@ -1125,7 +1237,8 @@
           "plays": 57000,
           "playsText": "57K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無聊"
         },
         {
           "index": 10,
@@ -1135,7 +1248,8 @@
           "plays": 596000,
           "playsText": "596K plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "自由不變"
         }
       ],
       "releaseDate": "2007-06-29",
@@ -1147,6 +1261,7 @@
       "browseId": "MPREb_fSl21AXehO4",
       "playlistId": "OLAK5uy_lCjGm2rUTeCQD-v_lqgzu3Kfp4s_gu5ps",
       "title": "Hurray一起搖",
+      "albumArtist": "JJ林俊傑",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/djoUzSbve5NnBk-wSS-BG5gm5KArv3ORSxiLlrsPhI4Rlksww_Mmk92vcU8aNa_4n7RYVDYGs4dreLCO=w544-h544-l90-rj",
@@ -1159,7 +1274,8 @@
           "plays": 200000,
           "playsText": "200K plays",
           "duration": 136,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "hurray一起搖spop萬歲節目主題曲"
         }
       ],
       "releaseDate": null,
@@ -1171,6 +1287,7 @@
       "browseId": "MPREb_jdJf4HTu2lN",
       "playlistId": "OLAK5uy_kU1D3VVPuoA6xVJrdA3YaUEgBJgWSdeIw",
       "title": "大男人小女孩 (豪华版)",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/PyG04RfEsipPW4nVLT9VViCwT68QhBaC848JBCnZD8XIzXsbyB6QILmzFj5mDQAmap6hYOgCYKVgiIE=w544-h544-l90-rj",
@@ -1183,7 +1300,8 @@
           "plays": 396000,
           "playsText": "396K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大男人小女孩"
         }
       ],
       "releaseDate": null,
@@ -1195,6 +1313,7 @@
       "browseId": "MPREb_kq6hXQzRBA5",
       "playlistId": "OLAK5uy_nsvSAbMwz_qXk08ccY1r7O7lr47NSUxVU",
       "title": "忘記",
+      "albumArtist": "JJ林俊傑",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/zBh_kBZjcNRAsZ3745JpFPZ6rHcx1EEilgDND79rfEHrC0rbq_1JDgT9MJ0_BwJ81bJ0Gb8wgRpP3lI5=w544-h544-l90-rj",
@@ -1207,7 +1326,8 @@
           "plays": 250000,
           "playsText": "250K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘記"
         }
       ],
       "releaseDate": null,
@@ -1219,6 +1339,7 @@
       "browseId": "MPREb_CHiATYfS3CV",
       "playlistId": "OLAK5uy_notuxCFPMbnNHxhRQTviuemd-aanExE0g",
       "title": "自由不變",
+      "albumArtist": "JJ林俊傑",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/hj5ngzBOTeixFsdVH9CDXW4A-xETBC-EVWzaeOX6AktywSC4r4PuU42w7Ip35iPuX40PJxiZ9DWEW5nB6Q=w544-h544-l90-rj",
@@ -1231,7 +1352,8 @@
           "plays": 596000,
           "playsText": "596K plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "自由不變"
         }
       ],
       "releaseDate": null,
@@ -1243,6 +1365,7 @@
       "browseId": "MPREb_o2ZGmgeYVOR",
       "playlistId": "OLAK5uy_mqGpoao995ivaw1HOqo4mxf1T1cHG530Y",
       "title": "期待愛 (feat. 金莎)",
+      "albumArtist": "JJ林俊傑",
       "type": "Single",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/PX1W5oyMx02JaNYbvZKguSCLOZckbl7XJkcH-DD1vPJqYbnWuylSlJKjIUu7bMTBG7qbbksaw7qMDDkv=w544-h544-l90-rj",
@@ -1255,7 +1378,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "期待愛"
         }
       ],
       "releaseDate": "2008-02-15",
@@ -1267,6 +1391,7 @@
       "browseId": "MPREb_l7JiGompyMa",
       "playlistId": "OLAK5uy_mSpDMxDk2ikcp3ivMPqNjGZReUX6PiQBA",
       "title": "JJ陸",
+      "albumArtist": "JJ林俊傑",
       "type": "Album",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/P7wC9hf-KfA_NZlzndmCXmJboK8zAtGqec3VnkBUwtvR9z0AhE7JrHrap33Y7uQCmyAf5PUH1-J38CbR=w544-h544-l90-rj",
@@ -1279,7 +1404,8 @@
           "plays": 66000,
           "playsText": "66K plays",
           "duration": 42,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "sixology"
         },
         {
           "index": 2,
@@ -1289,7 +1415,8 @@
           "plays": 21000000,
           "playsText": "21M plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不潮不花錢"
         },
         {
           "index": 3,
@@ -1299,7 +1426,8 @@
           "plays": 66000000,
           "playsText": "66M plays",
           "duration": 217,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小酒窩"
         },
         {
           "index": 4,
@@ -1309,7 +1437,8 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑武士"
         },
         {
           "index": 5,
@@ -1319,7 +1448,8 @@
           "plays": 38000000,
           "playsText": "38M plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "醉赤壁"
         },
         {
           "index": 6,
@@ -1329,7 +1459,8 @@
           "plays": 315000,
           "playsText": "315K plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "由你選擇"
         },
         {
           "index": 7,
@@ -1339,7 +1470,8 @@
           "plays": 20000000,
           "playsText": "20M plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "alwaysonline"
         },
         {
           "index": 8,
@@ -1349,7 +1481,8 @@
           "plays": 392000,
           "playsText": "392K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "街道"
         },
         {
           "index": 9,
@@ -1359,7 +1492,8 @@
           "plays": 241000,
           "playsText": "241K plays",
           "duration": 210,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "主角"
         },
         {
           "index": 10,
@@ -1369,7 +1503,8 @@
           "plays": 27000000,
           "playsText": "27M plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我還想她"
         },
         {
           "index": 11,
@@ -1379,7 +1514,8 @@
           "plays": 853000,
           "playsText": "853K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "criesinadistance"
         }
       ],
       "releaseDate": "2008-10-18",
@@ -1391,6 +1527,7 @@
       "browseId": "MPREb_LyjW4c828cj",
       "playlistId": "OLAK5uy_km7M2TelWgal9pCfk_fKvj8nT2P1Wa_Io",
       "title": "《最佳前男友》OST (feat. 金莎)",
+      "albumArtist": "JJ林俊傑, 汪蘇瀧, 王嘯坤 & 王箏",
       "type": "Album",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/whg4r1_Piw65CVXwrACXCX8NqOuBxTJd0bK6Ptp85U2kZL78jI5XeNJb8XYjnwflVWn9GHK-DHVIOAJV=w544-h544-s-l90-rj",
@@ -1403,7 +1540,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "期待妳的愛"
         },
         {
           "index": 2,
@@ -1413,7 +1551,8 @@
           "plays": 704000,
           "playsText": "704K plays",
           "duration": 244,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "如果時光倒流"
         },
         {
           "index": 3,
@@ -1423,7 +1562,8 @@
           "plays": 45000,
           "playsText": "45K plays",
           "duration": 202,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "10年"
         },
         {
           "index": 4,
@@ -1433,7 +1573,9 @@
           "plays": 70000,
           "playsText": "70K plays",
           "duration": 246,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "一程",
+          "titleZh": "一程（電視劇《最佳前男友》插曲）"
         },
         {
           "index": 5,
@@ -1443,7 +1585,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "被風吹過的夏天"
         },
         {
           "index": 6,
@@ -1453,7 +1596,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 233,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "期待妳的愛"
         },
         {
           "index": 7,
@@ -1463,7 +1607,8 @@
           "plays": 2900,
           "playsText": "2.9K plays",
           "duration": 245,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "如果時光倒流"
         },
         {
           "index": 8,
@@ -1473,7 +1618,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 202,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "10年"
         },
         {
           "index": 9,
@@ -1483,7 +1629,8 @@
           "plays": 1300,
           "playsText": "1.3K plays",
           "duration": 246,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "一程"
         },
         {
           "index": 10,
@@ -1493,7 +1640,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 256,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "被風吹過的夏天"
         }
       ],
       "releaseDate": null,
@@ -1505,6 +1653,7 @@
       "browseId": "MPREb_NXMYf25VQ24",
       "playlistId": "OLAK5uy_nX0CNiJdYMBkXQP8XamPH8JfKplq1FwRg",
       "title": "愛與希望",
+      "albumArtist": "JJ林俊傑",
       "type": "Single",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/fafNmePmdAK9fquF7Kv9oEXrOw2-XShzCOaHZ-jGC2U4zgK9RD-23m11ao5GqToGfSTVWPRB3ujfVm9J6A=w544-h544-l90-rj",
@@ -1517,7 +1666,8 @@
           "plays": 348000,
           "playsText": "348K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛與希望"
         }
       ],
       "releaseDate": null,
@@ -1529,6 +1679,7 @@
       "browseId": "MPREb_XNmime1IOi7",
       "playlistId": "OLAK5uy_lmkeArRzoLLB7FKL-vwUZ9AE9UTQj8GVo",
       "title": "聽見幸福",
+      "albumArtist": "JJ林俊傑",
       "type": "Single",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/xfkivLqmuqFz5JHS7wJ6BbZmD66rYsKgGVPk5owf1Q-RTYWemKUFD6bs5WsIFVw9zCNsttZjC_hNHTA=w544-h544-l90-rj",
@@ -1541,7 +1692,8 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 187,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "聽見幸福"
         }
       ],
       "releaseDate": null,
@@ -1553,6 +1705,7 @@
       "browseId": "MPREb_xBmF74v1E5t",
       "playlistId": "OLAK5uy_lrok__-IGKftonHbAkzURAR19agHVZVek",
       "title": "點一把火炬",
+      "albumArtist": "JJ林俊傑",
       "type": "Single",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/b1GR57IpBqLIWRDSb-_bVlyYHp7Me0Q8r8-CIt7Q5Qjqb3-WUJ5UWTpE3kbZEWjrIHO63BNdS0iaFfAK=w544-h544-l90-rj",
@@ -1565,7 +1718,8 @@
           "plays": 377000,
           "playsText": "377K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "點一把火炬"
         }
       ],
       "releaseDate": null,
@@ -1577,6 +1731,7 @@
       "browseId": "MPREb_ejVCX7NOdru",
       "playlistId": "OLAK5uy_lAk8dBx1IQQtH-Ux3jnr8odBZttgtm2Ko",
       "title": "100天",
+      "albumArtist": "JJ林俊傑",
       "type": "Album",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/4983a0f-1tEx8ncJuW260L-NPYSfkAeFO9XawLtB6xZOQGzzy0pO9W6EhnQbEF3qQJICn25lMjsQS1mF=w544-h544-l90-rj",
@@ -1589,7 +1744,8 @@
           "plays": 540000,
           "playsText": "540K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "x"
         },
         {
           "index": 2,
@@ -1599,7 +1755,8 @@
           "plays": 8700000,
           "playsText": "8.7M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第幾個100天"
         },
         {
           "index": 3,
@@ -1609,7 +1766,8 @@
           "plays": 5000000,
           "playsText": "5M plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "加油"
         },
         {
           "index": 4,
@@ -1619,7 +1777,8 @@
           "plays": 29000,
           "playsText": "29K plays",
           "duration": 46,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "曙光"
         },
         {
           "index": 5,
@@ -1629,7 +1788,9 @@
           "plays": 358000,
           "playsText": "358K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無法剋制",
+          "titleZh": "無法剋制"
         },
         {
           "index": 6,
@@ -1639,7 +1800,8 @@
           "plays": 64000000,
           "playsText": "64M plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "背對背擁抱"
         },
         {
           "index": 7,
@@ -1649,7 +1811,8 @@
           "plays": 316000,
           "playsText": "316K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "跟屁蟲"
         },
         {
           "index": 8,
@@ -1659,7 +1822,8 @@
           "plays": 134000,
           "playsText": "134K plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一個又一個"
         },
         {
           "index": 9,
@@ -1669,7 +1833,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛不會絕跡"
         },
         {
           "index": 10,
@@ -1679,7 +1844,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "轉動"
         },
         {
           "index": 11,
@@ -1689,7 +1855,8 @@
           "plays": 639000,
           "playsText": "639K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "媽媽的娜魯娃"
         },
         {
           "index": 12,
@@ -1699,7 +1866,8 @@
           "plays": 114000,
           "playsText": "114K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "stillmovingundergunfire"
         },
         {
           "index": 13,
@@ -1709,7 +1877,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "表達愛"
         }
       ],
       "releaseDate": "2009-12-18",
@@ -1721,6 +1890,7 @@
       "browseId": "MPREb_FNOhFN21gwj",
       "playlistId": "OLAK5uy_kI_DqgK8WiAMtQ4eYg2mzpngLcVg2TZdU",
       "title": "JJ林俊傑_100天 (普通版)",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/EmKsAr6x8FId_Ydiyc5ZNnpmmjVFv6n3oZkhdqK9x_M955xVszscTxItBtG0_2iTQSMexEAqxxhPUCio=w544-h544-l90-rj",
@@ -1733,7 +1903,8 @@
           "plays": 114000,
           "playsText": "114K plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "stillmovingundergunfire"
         },
         {
           "index": 2,
@@ -1743,7 +1914,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "表達愛"
         },
         {
           "index": 3,
@@ -1753,7 +1925,8 @@
           "plays": 29000,
           "playsText": "29K plays",
           "duration": 46,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "曙光"
         },
         {
           "index": 4,
@@ -1763,7 +1936,8 @@
           "plays": 64000000,
           "playsText": "64M plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "背對背擁抱"
         },
         {
           "index": 5,
@@ -1773,7 +1947,8 @@
           "plays": 358000,
           "playsText": "358K plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無法尅制"
         },
         {
           "index": 6,
@@ -1783,7 +1958,8 @@
           "plays": 316000,
           "playsText": "316K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "跟屁蟲"
         },
         {
           "index": 7,
@@ -1793,7 +1969,9 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛不會絕跡",
+          "titleZh": "愛不會絕跡 (影視原聲)"
         },
         {
           "index": 8,
@@ -1803,7 +1981,8 @@
           "plays": 639000,
           "playsText": "639K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "媽媽的娜魯娃"
         },
         {
           "index": 9,
@@ -1813,7 +1992,9 @@
           "plays": 540000,
           "playsText": "540K plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "愛不會絕跡",
+          "nameKey": "愛不會絕跡"
         },
         {
           "index": 10,
@@ -1823,7 +2004,8 @@
           "plays": 8700000,
           "playsText": "8.7M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第幾個100天"
         },
         {
           "index": 11,
@@ -1833,7 +2015,8 @@
           "plays": 134000,
           "playsText": "134K plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一個又一個"
         },
         {
           "index": 12,
@@ -1843,7 +2026,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 290,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "轉動"
         },
         {
           "index": 13,
@@ -1853,7 +2037,8 @@
           "plays": 5000000,
           "playsText": "5M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "加油"
         }
       ],
       "releaseDate": "2009-12-18",
@@ -1865,6 +2050,7 @@
       "browseId": "MPREb_bG7ozIxbVJ5",
       "playlistId": "OLAK5uy_kdy3dF9nnLLDIXwCriruwyyXKr0z03xjg",
       "title": "夢想的翅膀 (feat. By2)",
+      "albumArtist": "JJ林俊傑, 阿杜 & 金莎",
       "type": "Single",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/V60mf9SdK4yr1typjcp8kTNynLZknzyPkSMi_HOrZNd_dtIiwC5teZXI1y84sIfrhZ-5vuULCFE6ISaAgQ=w544-h544-l90-rj",
@@ -1877,7 +2063,8 @@
           "plays": 104000,
           "playsText": "104K plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢想的翅膀"
         }
       ],
       "releaseDate": null,
@@ -1889,6 +2076,7 @@
       "browseId": "MPREb_bPudnJ0zRdZ",
       "playlistId": "OLAK5uy_mpUN2mT1fnpt6gx3giwBhRZBktsyJWs04",
       "title": "背對背擁抱",
+      "albumArtist": "JJ林俊傑",
       "type": "Single",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/6lQyJITu3YJOSK6pRRZUjZfiNaoS2jj65U0pAsCb72CsiewKIfRR7G5AZoJ0R1xjUgtXsTXaRvF-C7s=w544-h544-l90-rj",
@@ -1901,7 +2089,8 @@
           "plays": 64000000,
           "playsText": "64M plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "背對背擁抱"
         }
       ],
       "releaseDate": null,
@@ -1913,6 +2102,7 @@
       "browseId": "MPREb_Als5ovne9ga",
       "playlistId": "OLAK5uy_mmA2vbPCGq1N5ea3yTOV3cENbjwb-mHXo",
       "title": "她說",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2010,
       "thumbnail": "https://yt3.googleusercontent.com/EBaUJrLTrEmYaI4oHNFxhZobV9ldjLY_zRsJazUJPGhfORwIdhYh0R6RmO38h3JgIxb1ksLIjoWxu18Vyw=w544-h544-s-l90-rj",
@@ -1925,7 +2115,8 @@
           "plays": 111000000,
           "playsText": "111M plays",
           "duration": 319,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "她說"
         },
         {
           "index": 2,
@@ -1935,7 +2126,8 @@
           "plays": 74000000,
           "playsText": "74M plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛笑的眼睛"
         },
         {
           "index": 3,
@@ -1945,7 +2137,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "只對你有感覺"
         },
         {
           "index": 4,
@@ -1955,7 +2148,8 @@
           "plays": 41000000,
           "playsText": "41M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "當你"
         },
         {
           "index": 5,
@@ -1965,7 +2159,8 @@
           "plays": 4500000,
           "playsText": "4.5M plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一眼萬年"
         },
         {
           "index": 6,
@@ -1975,7 +2170,8 @@
           "plays": 262000,
           "playsText": "262K plays",
           "duration": 198,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "保護色"
         },
         {
           "index": 7,
@@ -1985,7 +2181,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 210,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "握不住的他"
         },
         {
           "index": 8,
@@ -1995,7 +2192,8 @@
           "plays": 8400000,
           "playsText": "8.4M plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心牆"
         },
         {
           "index": 9,
@@ -2005,7 +2203,8 @@
           "plays": 8400000,
           "playsText": "8.4M plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我很想愛他"
         },
         {
           "index": 10,
@@ -2015,7 +2214,8 @@
           "plays": 5000000,
           "playsText": "5M plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一生的愛"
         },
         {
           "index": 11,
@@ -2025,7 +2225,8 @@
           "plays": 19000000,
           "playsText": "19M plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "記得"
         },
         {
           "index": 12,
@@ -2035,7 +2236,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "完美新世界"
         },
         {
           "index": 13,
@@ -2045,7 +2247,9 @@
           "plays": 481000,
           "playsText": "481K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "I AM (现场)",
+          "nameKey": "iam"
         },
         {
           "index": 14,
@@ -2055,7 +2259,8 @@
           "plays": 204000,
           "playsText": "204K plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "真材實料的我"
         }
       ],
       "releaseDate": null,
@@ -2067,6 +2272,7 @@
       "browseId": "MPREb_DBKGRE3KooC",
       "playlistId": "OLAK5uy_muYFZR48GzTfefi7-haj3PtGn3ElVhz4I",
       "title": "感動每一刻 (feat. Sun Yanzi, 阿杜 & 蔡健雅)",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2010,
       "thumbnail": "https://yt3.googleusercontent.com/ZzxWt-AJ7KMbspABQitUxwRGjcGHulK3sOkQ0oeC5yb0lodEIAJeV1AU7SHzbX_idcjLAS2XvNl59e2f=w544-h544-l90-rj",
@@ -2079,7 +2285,8 @@
           "plays": 225000,
           "playsText": "225K plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "感動每一刻"
         }
       ],
       "releaseDate": null,
@@ -2091,6 +2298,7 @@
       "browseId": "MPREb_Urhb3A2l1hW",
       "playlistId": "OLAK5uy_lSuTvqO-mHKjoPYfR_8G3tgIVYEckDvJo",
       "title": "學不會",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2012,
       "thumbnail": "https://yt3.googleusercontent.com/i8MLTsCArn0N9UOeQHomuZOB3D6YwIFA3LWf03U31cZ-yXSY-_DiA9_p7MnbFSAHpK-6shKz3sl16uldRw=w544-h544-l90-rj",
@@ -2103,7 +2311,9 @@
           "plays": 66000,
           "playsText": "66K plays",
           "duration": 55,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "獨奏",
+          "nameKey": "獨奏"
         },
         {
           "index": 2,
@@ -2113,7 +2323,8 @@
           "plays": 60000000,
           "playsText": "60M plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "學不會"
         },
         {
           "index": 3,
@@ -2123,7 +2334,8 @@
           "plays": 5200000,
           "playsText": "5.2M plays",
           "duration": 215,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "故事細膩"
         },
         {
           "index": 4,
@@ -2133,7 +2345,8 @@
           "plays": 146000000,
           "playsText": "146M plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "那些你很冒險的夢"
         },
         {
           "index": 5,
@@ -2143,7 +2356,8 @@
           "plays": 93000,
           "playsText": "93K plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白羊夢"
         },
         {
           "index": 6,
@@ -2153,7 +2367,8 @@
           "plays": 4200000,
           "playsText": "4.2M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "靈魂的共鳴"
         },
         {
           "index": 7,
@@ -2163,7 +2378,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "wetogether"
         },
         {
           "index": 8,
@@ -2173,7 +2389,8 @@
           "plays": 68000,
           "playsText": "68K plays",
           "duration": 291,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "cinderella"
         },
         {
           "index": 9,
@@ -2183,7 +2400,8 @@
           "plays": 220000,
           "playsText": "220K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白蘭花"
         },
         {
           "index": 10,
@@ -2193,7 +2411,8 @@
           "plays": 326000,
           "playsText": "326K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "陌生老朋友"
         },
         {
           "index": 11,
@@ -2203,7 +2422,8 @@
           "plays": 8700000,
           "playsText": "8.7M plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不存在的情人"
         },
         {
           "index": 12,
@@ -2213,7 +2433,8 @@
           "plays": 16000000,
           "playsText": "16M plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "loveuu"
         }
       ],
       "releaseDate": "2011-12-31",
@@ -2225,6 +2446,7 @@
       "browseId": "MPREb_NXiwmXt5oGe",
       "playlistId": "OLAK5uy_nI-mpg-xS65gTIxziBHKtgNqQUYixarFI",
       "title": "2011 I AM 世界巡回演唱會 小巨蛋 終極典藏版（Live） (特别版)",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/rw8kBAjqPkbSJqsSM4uVHz77kzcS5NSRw-Q9oNJvUpK3uG9Ey7EFYq2V5U230nUlBkfriRa5bLxTijWO=w544-h544-l90-rj",
@@ -2237,7 +2459,9 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 529,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "曹操#live",
+          "titleZh": "曹操 (現場)"
         },
         {
           "index": 2,
@@ -2247,7 +2471,9 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 194,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "殺手#live",
+          "titleZh": "殺手 (現場)"
         },
         {
           "index": 3,
@@ -2257,7 +2483,9 @@
           "plays": 9900,
           "playsText": "9.9K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "編號89757#live",
+          "titleZh": "編號89757 (現場)"
         },
         {
           "index": 4,
@@ -2267,7 +2495,9 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 491,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "凍結#live",
+          "titleZh": "凍結(現場版) (現場)"
         },
         {
           "index": 5,
@@ -2277,7 +2507,9 @@
           "plays": 128000,
           "playsText": "128K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "사랑해요只對你說#live",
+          "titleZh": "사랑해요只對你說 (現場)"
         },
         {
           "index": 6,
@@ -2287,7 +2519,9 @@
           "plays": 144000,
           "playsText": "144K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "背對背擁抱#live",
+          "titleZh": "背對背擁抱 (現場)"
         },
         {
           "index": 7,
@@ -2297,7 +2531,9 @@
           "plays": 6500,
           "playsText": "6.5K plays",
           "duration": 441,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "x#live",
+          "titleZh": "X (現場)"
         },
         {
           "index": 8,
@@ -2307,7 +2543,9 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 211,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑武士#live",
+          "titleZh": "黑武士 (現場)"
         },
         {
           "index": 9,
@@ -2317,7 +2555,9 @@
           "plays": 5200,
           "playsText": "5.2K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第二天堂#live",
+          "titleZh": "第二天堂 (現場)"
         },
         {
           "index": 10,
@@ -2327,7 +2567,9 @@
           "plays": 20000,
           "playsText": "20K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "她說#live",
+          "titleZh": "她說 (現場)"
         },
         {
           "index": 11,
@@ -2337,7 +2579,9 @@
           "plays": 73000,
           "playsText": "73K plays",
           "duration": 478,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "他說她說金曲組曲失落沙洲拋物線外面的世界太陽掉了#live",
+          "titleZh": "他說：她說 金曲組曲失落沙洲＋拋物線＋外面的世界＋太陽＋掉了 (現場)"
         },
         {
           "index": 12,
@@ -2347,7 +2591,9 @@
           "plays": 6200,
           "playsText": "6.2K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "媽媽的娜魯娃#live",
+          "titleZh": "媽媽的娜魯娃 (現場)"
         },
         {
           "index": 13,
@@ -2357,7 +2603,9 @@
           "plays": 34000,
           "playsText": "34K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "加油#live",
+          "titleZh": "加油 (現場)"
         },
         {
           "index": 14,
@@ -2367,7 +2615,9 @@
           "plays": 5500,
           "playsText": "5.5K plays",
           "duration": 318,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無法剋制#live",
+          "titleZh": "無法剋制 (現場)"
         },
         {
           "index": 15,
@@ -2377,7 +2627,9 @@
           "plays": 7900,
           "playsText": "7.9K plays",
           "duration": 309,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一個又一個#live",
+          "titleZh": "一個又一個 (現場)"
         },
         {
           "index": 16,
@@ -2387,7 +2639,9 @@
           "plays": 481000,
           "playsText": "481K plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "iam#live",
+          "titleZh": "I AM (現場)"
         },
         {
           "index": 17,
@@ -2397,7 +2651,9 @@
           "plays": 34000,
           "playsText": "34K plays",
           "duration": 387,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "記得#live",
+          "titleZh": "記得 (現場)"
         },
         {
           "index": 18,
@@ -2407,7 +2663,9 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "期待愛#live",
+          "titleZh": "期待愛 (現場)"
         },
         {
           "index": 19,
@@ -2417,7 +2675,9 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "豆漿油條#live",
+          "titleZh": "豆漿油條 (現場)"
         },
         {
           "index": 20,
@@ -2427,7 +2687,9 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 417,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "主角#live",
+          "titleZh": "主角 (現場)"
         },
         {
           "index": 21,
@@ -2437,7 +2699,9 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "跟屁蟲#live",
+          "titleZh": "跟屁蟲 (現場)"
         },
         {
           "index": 22,
@@ -2447,7 +2711,9 @@
           "plays": 3100,
           "playsText": "3.1K plays",
           "duration": 221,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "街道#live",
+          "titleZh": "街道 (現場)"
         },
         {
           "index": 23,
@@ -2457,7 +2723,9 @@
           "plays": 4400,
           "playsText": "4.4K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "波間帶#live",
+          "titleZh": "波間帶 (現場)"
         },
         {
           "index": 24,
@@ -2467,7 +2735,9 @@
           "plays": 214000,
           "playsText": "214K plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "江南#live",
+          "titleZh": "江南 (現場)"
         },
         {
           "index": 25,
@@ -2477,7 +2747,9 @@
           "plays": 30000,
           "playsText": "30K plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小酒窩#live",
+          "titleZh": "小酒窩 (現場)"
         },
         {
           "index": 26,
@@ -2487,7 +2759,9 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛笑的眼睛#live",
+          "titleZh": "愛笑的眼睛 (現場)"
         },
         {
           "index": 27,
@@ -2497,7 +2771,9 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不潮不用花錢#live",
+          "titleZh": "不潮不用花錢 (現場)"
         },
         {
           "index": 28,
@@ -2507,7 +2783,9 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 320,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "轉動#live",
+          "titleZh": "轉動 (現場)"
         },
         {
           "index": 29,
@@ -2517,7 +2795,9 @@
           "plays": 112000,
           "playsText": "112K plays",
           "duration": 440,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一千年以後#live",
+          "titleZh": "一千年以後 (現場)"
         }
       ],
       "releaseDate": null,
@@ -2529,6 +2809,7 @@
       "browseId": "MPREb_UEqcTdOQJrC",
       "playlistId": "OLAK5uy_mynKYrijhR_p_rLY2kAIYs9vtRz44Ni8A",
       "title": "他是…JJ林俊傑 (精选集)",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2012,
       "thumbnail": "https://yt3.googleusercontent.com/QGBTRTpOoelDBMR89VUQn7FhD6-ihbdUE5u_iomlno47P6f5SXL_oeAshLv9xK_WhOHo79agrT6OFM5T=w544-h544-l90-rj",
@@ -2541,7 +2822,8 @@
           "plays": 113000,
           "playsText": "113K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "他是jj林俊傑love背對背擁抱她說"
         },
         {
           "index": 2,
@@ -2551,7 +2833,8 @@
           "plays": 4500000,
           "playsText": "4.5M plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "翅膀"
         },
         {
           "index": 3,
@@ -2561,7 +2844,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不懂"
         },
         {
           "index": 4,
@@ -2571,7 +2855,8 @@
           "plays": 102000000,
           "playsText": "102M plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "江南"
         },
         {
           "index": 5,
@@ -2581,7 +2866,8 @@
           "plays": 5200000,
           "playsText": "5.2M plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "害怕"
         },
         {
           "index": 6,
@@ -2591,7 +2877,8 @@
           "plays": 30000000,
           "playsText": "30M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一千年以後"
         },
         {
           "index": 7,
@@ -2601,7 +2888,8 @@
           "plays": 9400000,
           "playsText": "9.4M plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "簡簡單單"
         },
         {
           "index": 8,
@@ -2611,7 +2899,8 @@
           "plays": 9800000,
           "playsText": "9.8M plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "原來"
         },
         {
           "index": 9,
@@ -2621,7 +2910,8 @@
           "plays": 4700000,
           "playsText": "4.7M plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "西界"
         },
         {
           "index": 10,
@@ -2631,7 +2921,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不流淚的機場"
         },
         {
           "index": 11,
@@ -2641,7 +2932,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 218,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小酒窩"
         },
         {
           "index": 12,
@@ -2651,7 +2943,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛與希望"
         },
         {
           "index": 13,
@@ -2661,7 +2954,8 @@
           "plays": 8700000,
           "playsText": "8.7M plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第幾個100天"
         },
         {
           "index": 14,
@@ -2671,7 +2965,8 @@
           "plays": 64000000,
           "playsText": "64M plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "背對背擁抱"
         },
         {
           "index": 15,
@@ -2681,7 +2976,8 @@
           "plays": 111000000,
           "playsText": "111M plays",
           "duration": 321,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "她說"
         },
         {
           "index": 16,
@@ -2691,7 +2987,8 @@
           "plays": 74000000,
           "playsText": "74M plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛笑的眼睛"
         },
         {
           "index": 17,
@@ -2701,7 +2998,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "他是jj林俊傑dance"
         },
         {
           "index": 18,
@@ -2711,7 +3009,8 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 195,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "就是我"
         },
         {
           "index": 19,
@@ -2721,7 +3020,8 @@
           "plays": 561000,
           "playsText": "561K plays",
           "duration": 209,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "會讀書"
         },
         {
           "index": 20,
@@ -2731,7 +3031,8 @@
           "plays": 1500000,
           "playsText": "1.5M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第二天堂"
         },
         {
           "index": 21,
@@ -2741,7 +3042,8 @@
           "plays": 443000,
           "playsText": "443K plays",
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "子彈列車"
         },
         {
           "index": 22,
@@ -2751,7 +3053,8 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "編號89757"
         },
         {
           "index": 23,
@@ -2761,7 +3064,8 @@
           "plays": 4200000,
           "playsText": "4.2M plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "木乃伊"
         },
         {
           "index": 24,
@@ -2771,7 +3075,9 @@
           "plays": 43000000,
           "playsText": "43M plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "曹操#live",
+          "titleZh": "曹操 (現場)"
         },
         {
           "index": 25,
@@ -2781,7 +3087,8 @@
           "plays": 560000,
           "playsText": "560K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "波間帶"
         },
         {
           "index": 26,
@@ -2791,7 +3098,8 @@
           "plays": 8100000,
           "playsText": "8.1M plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "殺手"
         },
         {
           "index": 27,
@@ -2801,7 +3109,8 @@
           "plays": 21000000,
           "playsText": "21M plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不潮不用花錢"
         },
         {
           "index": 28,
@@ -2811,7 +3120,8 @@
           "plays": 392000,
           "playsText": "392K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "街道"
         },
         {
           "index": 29,
@@ -2821,7 +3131,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "期待愛"
         },
         {
           "index": 30,
@@ -2831,7 +3142,8 @@
           "plays": 540000,
           "playsText": "540K plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "x"
         },
         {
           "index": 31,
@@ -2841,7 +3153,8 @@
           "plays": 5000000,
           "playsText": "5M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "加油"
         },
         {
           "index": 32,
@@ -2851,7 +3164,8 @@
           "plays": 316000,
           "playsText": "316K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "跟屁蟲"
         }
       ],
       "releaseDate": "2012-12-21",
@@ -2863,6 +3177,7 @@
       "browseId": "MPREb_BxokrWL8nLT",
       "playlistId": "OLAK5uy_kGYZW-lrW5sgw8NuCBhaF6XQMHSSSs7y0",
       "title": "因你 而在",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2013,
       "thumbnail": "https://yt3.googleusercontent.com/ReRP-fA5GQRduIGu-V_VT3KoXHX68mszUKYTjXZvJr1OucolsNmLBNjkVXF_Lx1Eqc1jPmiZ4ZXmamw=w544-h544-l90-rj",
@@ -2875,7 +3190,8 @@
           "plays": 68000000,
           "playsText": "68M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "因你而在"
         },
         {
           "index": 2,
@@ -2885,7 +3201,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "零度的親吻"
         },
         {
           "index": 3,
@@ -2895,7 +3212,8 @@
           "plays": 54000000,
           "playsText": "54M plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑暗騎士"
         },
         {
           "index": 4,
@@ -2905,7 +3223,8 @@
           "plays": 216000000,
           "playsText": "216M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "修煉愛情"
         },
         {
           "index": 5,
@@ -2915,7 +3234,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "飛機"
         },
         {
           "index": 6,
@@ -2925,7 +3245,8 @@
           "plays": 18000,
           "playsText": "18K plays",
           "duration": 45,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "巴洛克先生"
         },
         {
           "index": 7,
@@ -2935,7 +3256,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "oneshot"
         },
         {
           "index": 8,
@@ -2945,7 +3267,8 @@
           "plays": 23000000,
           "playsText": "23M plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "裂縫中的陽光"
         },
         {
           "index": 9,
@@ -2955,7 +3278,8 @@
           "plays": 6000000,
           "playsText": "6M plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "友人說"
         },
         {
           "index": 10,
@@ -2965,7 +3289,8 @@
           "plays": 4000000,
           "playsText": "4M plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "10秒的衝動"
         },
         {
           "index": 11,
@@ -2975,7 +3300,8 @@
           "plays": 6100000,
           "playsText": "6.1M plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "以後要做的事"
         },
         {
           "index": 12,
@@ -2985,7 +3311,8 @@
           "plays": 953000,
           "playsText": "953K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一千年後記得我"
         }
       ],
       "releaseDate": "2013-03-13",
@@ -2997,6 +3324,7 @@
       "browseId": "MPREb_l8TZiurVJCv",
       "playlistId": "OLAK5uy_lcgrlwXc4-TX1BgBQhOWsroE3Q1CRqsxI",
       "title": "新地球",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/aQGI9TlQ4CdHTiVFUM6AQNZrhzw6x4488mboZKUeBOH03DWjhP5ZOYsYIhmyGWqd-p4nqXyCrGPaYu3q=w544-h544-l90-rj",
@@ -3009,7 +3337,8 @@
           "plays": 57000,
           "playsText": "57K plays",
           "duration": 134,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "迴"
         },
         {
           "index": 2,
@@ -3019,7 +3348,8 @@
           "plays": 20000000,
           "playsText": "20M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "新地球"
         },
         {
           "index": 3,
@@ -3029,7 +3359,8 @@
           "plays": 448000,
           "playsText": "448K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "水仙"
         },
         {
           "index": 4,
@@ -3039,7 +3370,8 @@
           "plays": 33000000,
           "playsText": "33M plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "浪漫血液"
         },
         {
           "index": 5,
@@ -3049,7 +3381,8 @@
           "plays": 5800000,
           "playsText": "5.8M plays",
           "duration": 329,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑鍵"
         },
         {
           "index": 6,
@@ -3059,7 +3392,8 @@
           "plays": 94000000,
           "playsText": "94M plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "手心的薔薇"
         },
         {
           "index": 7,
@@ -3069,7 +3403,8 @@
           "plays": 14000000,
           "playsText": "14M plays",
           "duration": 299,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "可惜沒如果"
         },
         {
           "index": 8,
@@ -3079,7 +3414,8 @@
           "plays": 6600000,
           "playsText": "6.6M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "iamalive#live"
         },
         {
           "index": 9,
@@ -3089,7 +3425,8 @@
           "plays": 204000,
           "playsText": "204K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的鼓勵"
         },
         {
           "index": 10,
@@ -3099,7 +3436,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "茉莉雨"
         },
         {
           "index": 11,
@@ -3109,7 +3447,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "生生"
         }
       ],
       "releaseDate": "2014-12-27",
@@ -3121,6 +3460,7 @@
       "browseId": "MPREb_GYLxxk6vuEv",
       "playlistId": "OLAK5uy_kfJJxNQTiBOdJvX9_PN_ZiZ62vQ9GZ3Uk",
       "title": "和自己對話",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/VFe8LJq2ad3vh6JnGRBv9BFJ7BE1W1yfMH9c6F8BAK1lVJo-0v1pcT_kjI3vZXFYb8DHb9QX4OEH3Bbs=w544-h544-l90-rj",
@@ -3133,7 +3473,8 @@
           "plays": 110000,
           "playsText": "110K plays",
           "duration": 71,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "序曲調音"
         },
         {
           "index": 2,
@@ -3143,7 +3484,8 @@
           "plays": 197000000,
           "playsText": "197M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不為誰而作的歌"
         },
         {
           "index": 3,
@@ -3153,7 +3495,8 @@
           "plays": 38000,
           "playsText": "38K plays",
           "duration": 56,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "序曲中場休息"
         },
         {
           "index": 4,
@@ -3163,7 +3506,8 @@
           "plays": 74000000,
           "playsText": "74M plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "關鍵詞"
         },
         {
           "index": 5,
@@ -3173,7 +3517,8 @@
           "plays": 9900000,
           "playsText": "9.9M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "只要有你的地方"
         },
         {
           "index": 6,
@@ -3183,7 +3528,8 @@
           "plays": 5300000,
           "playsText": "5.3M plays",
           "duration": 192,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "彈唱"
         },
         {
           "index": 7,
@@ -3193,7 +3539,8 @@
           "plays": 4300000,
           "playsText": "4.3M plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "有夢不難"
         },
         {
           "index": 8,
@@ -3203,7 +3550,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 57,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "序曲welcometothelivehouse#live"
         },
         {
           "index": 9,
@@ -3213,7 +3561,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "toobad"
         },
         {
           "index": 10,
@@ -3223,7 +3572,8 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你有沒有過#live"
         },
         {
           "index": 11,
@@ -3233,7 +3583,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 368,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "序曲12年前"
         },
         {
           "index": 12,
@@ -3243,7 +3594,8 @@
           "plays": 39000,
           "playsText": "39K plays",
           "duration": 165,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "現在的我和她"
         },
         {
           "index": 13,
@@ -3253,7 +3605,8 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 30,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "序曲海邊初"
         },
         {
           "index": 14,
@@ -3263,7 +3616,8 @@
           "plays": 62000,
           "playsText": "62K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lierandaccuser"
         },
         {
           "index": 15,
@@ -3273,7 +3627,8 @@
           "plays": 51000,
           "playsText": "51K plays",
           "duration": 215,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "獨舞"
         },
         {
           "index": 16,
@@ -3283,7 +3638,8 @@
           "plays": 18000,
           "playsText": "18K plays",
           "duration": 77,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "序曲海邊終"
         },
         {
           "index": 17,
@@ -3293,7 +3649,8 @@
           "plays": 266000,
           "playsText": "266K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你有沒有過"
         },
         {
           "index": 18,
@@ -3303,7 +3660,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "只要有你的地方"
         }
       ],
       "releaseDate": "2015-12-25",
@@ -3315,6 +3673,7 @@
       "browseId": "MPREb_liOQEypN9Jt",
       "playlistId": "OLAK5uy_k2XjrwM-T1TwWE8PoBUkw9MNmF67kq5yo",
       "title": "Checkmate",
+      "albumArtist": "Jung Yong Hwa & JJ Lin",
       "type": "Single",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/hOqOhmBrBgfmz-4X6NQWFSKjfJSo40M2gTjYhYO1s5m0meHrCESGyAfmGhEkT3PE6kxgxiFx0pvD930=w544-h544-l90-rj",
@@ -3327,7 +3686,8 @@
           "plays": 8300000,
           "playsText": "8.3M plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "checkmate"
         }
       ],
       "releaseDate": null,
@@ -3339,6 +3699,7 @@
       "browseId": "MPREb_if3knmLUT14",
       "playlistId": "OLAK5uy_nDXxc-bb7Sy6sxoM4ds9gLsFxO54AuCug",
       "title": "2infinity And Beyond",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2016,
       "thumbnail": "https://yt3.googleusercontent.com/KoASjNcyyPpgkNTVzEcCfo4ke0iG_xjy7CLVrZIgWHvP4T2xHSeYg0JiEONBxyBugbO7c00vb61WJnqw=w544-h544-l90-rj",
@@ -3351,7 +3712,8 @@
           "plays": 29000,
           "playsText": "29K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "2infinityandbeyond"
         }
       ],
       "releaseDate": null,
@@ -3363,6 +3725,7 @@
       "browseId": "MPREb_R4jTHKJDXWb",
       "playlistId": "OLAK5uy_kU2Bid34Ylx1jaadzr968YJawU1MXRTa0",
       "title": "Message In A Bottle",
+      "albumArtist": "JJ Lin",
       "type": "Album",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/zAf2RyG1HpYuQZUgdQSQ13zcRodz1BUZByPZo2s8WoUAqW8AFJ-7jSGmncifHyQzJr3c8ZIlFyTVzxc=w544-h544-l90-rj",
@@ -3375,7 +3738,8 @@
           "plays": 3900000,
           "playsText": "3.9M plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "sanctuary"
         },
         {
           "index": 2,
@@ -3385,7 +3749,8 @@
           "plays": 35000000,
           "playsText": "35M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "littlebigus"
         },
         {
           "index": 3,
@@ -3395,7 +3760,8 @@
           "plays": 498000,
           "playsText": "498K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "stay"
         },
         {
           "index": 4,
@@ -3405,7 +3771,8 @@
           "plays": 213000,
           "playsText": "213K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "shadows"
         },
         {
           "index": 5,
@@ -3415,7 +3782,8 @@
           "plays": 763000,
           "playsText": "763K plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "eagleseye"
         },
         {
           "index": 6,
@@ -3425,7 +3793,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "paperclouds"
         },
         {
           "index": 7,
@@ -3435,7 +3804,8 @@
           "plays": 68000000,
           "playsText": "68M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "53dawns"
         },
         {
           "index": 8,
@@ -3445,7 +3815,8 @@
           "plays": 1800000,
           "playsText": "1.8M plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "owntheday"
         },
         {
           "index": 9,
@@ -3455,7 +3826,8 @@
           "plays": 311000,
           "playsText": "311K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "destiny"
         },
         {
           "index": 10,
@@ -3465,7 +3837,8 @@
           "plays": 6000000,
           "playsText": "6M plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "messageinabottle"
         },
         {
           "index": 11,
@@ -3475,18 +3848,21 @@
           "plays": 3400000,
           "playsText": "3.4M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "untiltheday"
         }
       ],
       "releaseDate": "2017-12-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "偉大的渺小"
+      "wikiTitle": "偉大的渺小",
+      "titleZh": "偉大的渺小"
     },
     {
       "browseId": "MPREb_DAEgniOTZ4k",
       "playlistId": "OLAK5uy_mcJDPHu2UsYQ4RTkUfznEJSlvzxzNszeA",
       "title": "Message In A Bottle",
+      "albumArtist": "JJ Lin",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/cqCAc6ocoSMEAKdQS81g-WFkihQakJoqQqmpOmbwTFrWABDRPrZwYADbcuuOYBV9E0sXOkXkYgH7iRBn=w544-h544-l90-rj",
@@ -3499,7 +3875,8 @@
           "plays": 35000000,
           "playsText": "35M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "littlebigus"
         },
         {
           "index": 2,
@@ -3509,18 +3886,21 @@
           "plays": 3400000,
           "playsText": "3.4M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "untiltheday"
         }
       ],
       "releaseDate": "2017-12-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "偉大的渺小"
+      "wikiTitle": "偉大的渺小",
+      "titleZh": "偉大的渺小"
     },
     {
       "browseId": "MPREb_rIr9KE1Nzfp",
       "playlistId": "OLAK5uy_nPjFwlUBSgjkrQwalmRKL11a_l4gYmj5Q",
       "title": "53 Dawns",
+      "albumArtist": "JJ Lin",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/aF5H-eyk6WLcULNXogKe_lAVRg9MaKaM1T9Zw0JoeOByyrR2YK1BI8Qr4Q5Ia2dSaLOD5uoJ-NdICn88=w544-h544-l90-rj",
@@ -3533,7 +3913,8 @@
           "plays": 68000000,
           "playsText": "68M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "53dawns"
         }
       ],
       "releaseDate": null,
@@ -3545,6 +3926,7 @@
       "browseId": "MPREb_gBNHfI0VSo8",
       "playlistId": "OLAK5uy_keKb2k6tbqoLOtWv6C3DctnsFkaWD7bXY",
       "title": "Message In A Bottle (\"The Dreaming Man\" Theme Song)",
+      "albumArtist": "JJ Lin",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/I8P3ws423_3lQdpNsTy51XcgPE3R2jLo0hSHSiVkodfpuvmgWt8kaS3Q9yjlWNY7C6oB-2oq0_5DkvPqeA=w544-h544-l90-rj",
@@ -3557,7 +3939,8 @@
           "plays": 6000000,
           "playsText": "6M plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "messageinabottle"
         }
       ],
       "releaseDate": null,
@@ -3569,6 +3952,7 @@
       "browseId": "MPREb_k1PYZI5eDOy",
       "playlistId": "OLAK5uy_kCnLhWdS5Lgp64LPsVUiI8NT9TbFwWMPA",
       "title": "Own The Day (feat. Moe)",
+      "albumArtist": "JJ Lin",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/sCvP-ff3Dk3lTdOezAR8Mna1v_ugue2tEA8__hybVweYQbt1SCYU1Wkv0S_eHVG80uoZpN3VfbIBbF5X=w544-h544-l90-rj",
@@ -3581,7 +3965,8 @@
           "plays": 1800000,
           "playsText": "1.8M plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "owntheday"
         }
       ],
       "releaseDate": null,
@@ -3593,6 +3978,7 @@
       "browseId": "MPREb_gme6xsbmTHt",
       "playlistId": "OLAK5uy_li2RJmH1WzCM7Q1IAasZC5bsFwSkJUloA",
       "title": "Under The Cloud",
+      "albumArtist": "Han Hong & JJ Lin",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/YrIAkUusOP4Y7XLz4Q9cdVVsie41Fun81rOgZjPyS22of6soV3SHeSAitVmM2n78mf2Ag4_9nXcAYOrh=w544-h544-l90-rj",
@@ -3605,7 +3991,8 @@
           "plays": 21000000,
           "playsText": "21M plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "underthecloud"
         }
       ],
       "releaseDate": null,
@@ -3617,6 +4004,7 @@
       "browseId": "MPREb_Dcl4A2m77K3",
       "playlistId": "OLAK5uy_n4GDcWFkj-Jiiq4hpgixCX74iqh_vmXzA",
       "title": "進階",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/gMq3hEdiXR7LIUSGrVp8ygUtk45qPUSg4_jWn7Wj7aU0BHmHDs_p0KcVRJO_ITIWUoTXbHzUBU2iemWe=w544-h544-l90-rj",
@@ -3629,7 +4017,8 @@
           "plays": 4800000,
           "playsText": "4.8M plays",
           "duration": 218,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "進階"
         }
       ],
       "releaseDate": null,
@@ -3641,6 +4030,7 @@
       "browseId": "MPREb_4vGSbQhJ3YX",
       "playlistId": "OLAK5uy_mPsTJSCh0XaNt1CexuXYBDuLcg7An2gtE",
       "title": "As I Believe",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/i5Lj3LuJcaOzwp7Pp3FMGFWxqrKQMrU0JpYwoZ2NLUoEcf6EmBxs6qZJqevx9M20YV4TrR_9plEjwpHGEQ=w544-h544-l90-rj",
@@ -3653,7 +4043,8 @@
           "plays": 94000,
           "playsText": "94K plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "asibelieve"
         }
       ],
       "releaseDate": null,
@@ -3665,6 +4056,7 @@
       "browseId": "MPREb_4owP7sJ271C",
       "playlistId": "OLAK5uy_m9prsQKBpn17PatuatE9tyK7jyrm8muu8",
       "title": "SHOW THE WORLD",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/qyHWPIFFnkxC-Ar8QL5D8Adz_4ieBs6tT8Stpx0nAm7uHW4AL7N6A2w8JJyjD3MD_ny4r-LNxmuDRBnT=w544-h544-l90-rj",
@@ -3677,7 +4069,8 @@
           "plays": 586000,
           "playsText": "586K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "showtheworld"
         }
       ],
       "releaseDate": null,
@@ -3689,6 +4082,7 @@
       "browseId": "MPREb_5lqlCggDVtA",
       "playlistId": "OLAK5uy_lx49cw3esOYe0Lm9Jc930kyHX0wLuDPrQ",
       "title": "Wonderland",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/4qSIg9ToT0qyXK4Us9cj8F8YLQNSybzdTx3kxtJEIPjnURf9I-OZHr_iuANNXpRtkIgHV0zcYk6aPMU=w544-h544-l90-rj",
@@ -3701,7 +4095,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "wonderland"
         }
       ],
       "releaseDate": null,
@@ -3713,6 +4108,7 @@
       "browseId": "MPREb_Woz0NTGwigX",
       "playlistId": "OLAK5uy_nhhFmV4CYm5NrbtOWOPpCusuMci_w2JGc",
       "title": "將故事寫成我們",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/HYMvTv1queuahYiAvVHlFuvRtm7TpFv2U7bK1W8unC1IsmPZWyXe7ItQG4bBXMS1i_F_Kr7if3zbkp56=w544-h544-l90-rj",
@@ -3725,7 +4121,8 @@
           "plays": 34000000,
           "playsText": "34M plays",
           "duration": 337,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "將故事寫成我們"
         }
       ],
       "releaseDate": null,
@@ -3737,6 +4134,7 @@
       "browseId": "MPREb_zhQQgqEULBX",
       "playlistId": "OLAK5uy_kOq6LGmzH9sd7OsKIB2-FoH5etJ969feA",
       "title": "對的時間點",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/O1KZW0AXPw0Fa1Cs2FlDy1_SHC1AYYIcmrPyg7UNJqTyDDBFqV-rQgp5iD1AmL4rnmQEefImD6lT0xY=w544-h544-l90-rj",
@@ -3749,7 +4147,8 @@
           "plays": 13000000,
           "playsText": "13M plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "對的時間點"
         }
       ],
       "releaseDate": null,
@@ -3761,6 +4160,7 @@
       "browseId": "MPREb_dPkt92E0Qt9",
       "playlistId": "OLAK5uy_n3UXIwVS3nN1dX_9Ier1dq7IrDHRq6q-4",
       "title": "我們很好 (\"少年的你\" 電影主題曲)",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/G_WlBw03gTKE1tQi3H9d3hr6myfv6ZS470mXMuwaKVZ5mTcMbKCodwFQQdO9vFZj5C-Z_rLqwYeYQCmgtw=w544-h544-l90-rj",
@@ -3773,7 +4173,8 @@
           "plays": 3500000,
           "playsText": "3.5M plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我們很好"
         }
       ],
       "releaseDate": null,
@@ -3785,6 +4186,7 @@
       "browseId": "MPREb_SP2T9jVIyIH",
       "playlistId": "OLAK5uy_kiDCi5DGgYwtpeaL-O-EzQBRsME3huwIU",
       "title": "Stay With You (feat. 孫燕姿) [英文版]",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/GLwwCTRlnwhxVpyOxBJOnuEQ3nd9MqgbIG1DkRfliI6hEjV3FTqYXzkQjVm_sC_kQRmlHx6a65y1ltk7jQ=w544-h544-l90-rj",
@@ -3797,7 +4199,8 @@
           "plays": 993000,
           "playsText": "993K plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "staywithyou"
         }
       ],
       "releaseDate": "2020-01-28",
@@ -3809,6 +4212,7 @@
       "browseId": "MPREb_aKUBvm3lmGr",
       "playlistId": "OLAK5uy_k9AooQRdBrA7r_U7tEkiJf1SVe0_Pq1Co",
       "title": "Like You Do",
+      "albumArtist": "JJ Lin",
       "type": "Album",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/n_tKE3q8Qk-tXptJEg5VFGPCcGBGa0tP94mhpZ7oXx4IA-4aAPnjRHSGSSi4N0AS7Bvu_FFZwmPYilw=w544-h544-l90-rj",
@@ -3821,7 +4225,8 @@
           "plays": 995000,
           "playsText": "995K plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "whileican"
         },
         {
           "index": 2,
@@ -3831,7 +4236,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 197,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "likeyoudo"
         },
         {
           "index": 3,
@@ -3841,7 +4247,8 @@
           "plays": 127000,
           "playsText": "127K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "nottonight"
         },
         {
           "index": 4,
@@ -3851,7 +4258,8 @@
           "plays": 105000,
           "playsText": "105K plays",
           "duration": 186,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "allinyourmind"
         },
         {
           "index": 5,
@@ -3861,7 +4269,8 @@
           "plays": 78000,
           "playsText": "78K plays",
           "duration": 174,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "headon"
         },
         {
           "index": 6,
@@ -3871,7 +4280,8 @@
           "plays": 117000,
           "playsText": "117K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "steadymylove"
         },
         {
           "index": 7,
@@ -3881,7 +4291,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "bedroom"
         },
         {
           "index": 8,
@@ -3891,18 +4302,21 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "nottonight"
         }
       ],
       "releaseDate": "2020-10-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "倖存者 · 如你"
+      "wikiTitle": "倖存者 · 如你",
+      "titleZh": "倖存者 · 如你"
     },
     {
       "browseId": "MPREb_8eXaPAPWaT1",
       "playlistId": "OLAK5uy_l2-ox_JZKd45sDMhI3UmccFEvAr7wYgLI",
       "title": "Drifter",
+      "albumArtist": "JJ Lin",
       "type": "EP",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/2SSZ08as3RQ9JmfXUn0B_lepbiMFCf5Oc2Ff2Z4wy365lw3yCZq1h0H0bhVJm6qqqxZq3IwlOPIYQq-VSQ=w544-h544-l90-rj",
@@ -3915,7 +4329,8 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "embark"
         },
         {
           "index": 2,
@@ -3925,7 +4340,8 @@
           "plays": 42000000,
           "playsText": "42M plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "noturningback"
         },
         {
           "index": 3,
@@ -3935,7 +4351,8 @@
           "plays": 6700000,
           "playsText": "6.7M plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "drifter"
         },
         {
           "index": 4,
@@ -3945,7 +4362,8 @@
           "plays": 2500000,
           "playsText": "2.5M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "thelostones"
         },
         {
           "index": 5,
@@ -3955,7 +4373,8 @@
           "plays": 8200000,
           "playsText": "8.2M plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "sobeit"
         },
         {
           "index": 6,
@@ -3965,7 +4384,8 @@
           "plays": 4100000,
           "playsText": "4.1M plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "passingthrough"
         }
       ],
       "releaseDate": null,
@@ -3977,6 +4397,7 @@
       "browseId": "MPREb_jjDUIuNnGBH",
       "playlistId": "OLAK5uy_nLEH1csocPaGXSCkF2NlHtPR9BbvaUmfY",
       "title": "Hello",
+      "albumArtist": "Jam Hsiao & JJ Lin",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/ljU-ng9knEHXR0cNttUi_ZvozR8WyU63iKHrtrOKHQsix7Vo3KCtlxoKwQvZvyA6TM3levg7hj3u3B8rrw=w544-h544-l90-rj",
@@ -3989,7 +4410,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "hello"
         }
       ],
       "releaseDate": null,
@@ -4001,6 +4423,7 @@
       "browseId": "MPREb_491RQI6vlzO",
       "playlistId": "OLAK5uy_kOZBVcBbKPzy2v853_KJ53gyNObMIkW7Y",
       "title": "No Turning Back",
+      "albumArtist": "JJ Lin",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/T0zAlN_8TzwdZsS9EidMHrJLPGnyDfu4DiKTrveYm_v5JwfT2Ae8CUIO93f8MI5BtZIwPMkwUFfLyQmXFw=w544-h544-l90-rj",
@@ -4013,7 +4436,8 @@
           "plays": 42000000,
           "playsText": "42M plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "noturningback"
         }
       ],
       "releaseDate": null,
@@ -4025,6 +4449,7 @@
       "browseId": "MPREb_VbVngGzIvRw",
       "playlistId": "OLAK5uy_nwYfxWqNa6oYoRc8wdGHkyDyt0KjAoreE",
       "title": "感爵這一刻",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/EcvlAKfG6o8N9tsLr7YjBdDR5IR7xxFEpwbxTOLGz8fomFdwubpfdP879tZCV51JJt6ibh5gMb6DnUexQg=w544-h544-l90-rj",
@@ -4037,7 +4462,8 @@
           "plays": 685000,
           "playsText": "685K plays",
           "duration": 333,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "修煉愛情"
         },
         {
           "index": 2,
@@ -4047,7 +4473,8 @@
           "plays": 135000,
           "playsText": "135K plays",
           "duration": 299,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "偉大的渺小"
         }
       ],
       "releaseDate": null,
@@ -4059,6 +4486,7 @@
       "browseId": "MPREb_Uaw8SLQowKS",
       "playlistId": "OLAK5uy_lKMcMQVmWmZ7ZPoYyn_g9X009FhruInAk",
       "title": "無濾鏡 (feat.藤原浩)",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/6xhjWY4t5Fw_QG64BU-5dm5Saf3QiqlQzyWHCVqwRqWr_KRz17yxZKNqhS6rnFPIGODukQmwhPua5W0l=w544-h544-l90-rj",
@@ -4071,7 +4499,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無濾鏡"
         }
       ],
       "releaseDate": null,
@@ -4083,6 +4512,7 @@
       "browseId": "MPREb_IBJlkF75UHh",
       "playlistId": "OLAK5uy_nSisGcODueM9ME5zaHk5axcxCT_R_vw4E",
       "title": "After The Rain",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/HepTH_9fzeAsLuRgyw3JXmjMcImefXb3YJja6mJssf-ljPbhEs9aGamD9q1xDKi1UDLrQZlQAB7Fy2Fnpw=w544-h544-l90-rj",
@@ -4095,7 +4525,8 @@
           "plays": 618000,
           "playsText": "618K plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "aftertherain"
         }
       ],
       "releaseDate": null,
@@ -4107,6 +4538,7 @@
       "browseId": "MPREb_SJ3fPxDRa5D",
       "playlistId": "OLAK5uy_lR4nQyOVc7Llqb4de7lqSjuI6khkuCbeg",
       "title": "At Least I Had You",
+      "albumArtist": "Gentle Bones & JJ Lin",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/t_lJYDiPXj1dmC_B0VRWnwdkfXMFLCS3bqn0kGquQ1hPh_he438nhmAPOhCJWKwNQMjDnV0RweW-ojFS=w544-h544-l90-rj",
@@ -4119,7 +4551,8 @@
           "plays": 745000,
           "playsText": "745K plays",
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "atleastihadyou"
         }
       ],
       "releaseDate": null,
@@ -4131,6 +4564,7 @@
       "browseId": "MPREb_Ld1BtuGblS3",
       "playlistId": "OLAK5uy_kwNxPr8RY8rR6sZ_Yg-NxwoKvAzyXjWVk",
       "title": "Bedroom (feat. Anne-Marie)",
+      "albumArtist": "JJ Lin",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/hY4uFClxAYt9w1f4D8dmgC8z0S-_SXnA5gViNl9bmtapldX2UfyqRd5klyEhOQPu9o3qC6CbD3VcJrnm=w544-h544-l90-rj",
@@ -4143,7 +4577,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "bedroom"
         }
       ],
       "releaseDate": null,
@@ -4155,6 +4590,7 @@
       "browseId": "MPREb_hBw6ZqRHTOh",
       "playlistId": "OLAK5uy_n-rHliSJAZCmS8T3iAuLt03BX7A2y8jOs",
       "title": "CHECKMATE (R3HAB Remix)",
+      "albumArtist": "Jung Yong Hwa & JJ Lin",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/lnmiTMVVjBegwXcCke0GobPZsTZYla65SYeihHJLJd-_w6vDHbaAhukSnlMQZS9toblJlrWZAKpeZ1SA=w544-h544-l90-rj",
@@ -4167,7 +4603,8 @@
           "plays": 424000,
           "playsText": "424K plays",
           "duration": 154,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "checkmate"
         }
       ],
       "releaseDate": null,
@@ -4179,6 +4616,7 @@
       "browseId": "MPREb_yDUqMMkIneG",
       "playlistId": "OLAK5uy_m7nPyJHVyTqtr1GhtXJ0_mJ27ViWv31qE",
       "title": "一定會",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/7WOV2UVhrsCu0aN9tb2fhMz3Y1Jlpe2lE6tS-A6W0Aigls2uTiMyx5CvHWwJ-CgkhEpoxMUEVPov7UUE=w544-h544-l90-rj",
@@ -4191,7 +4629,8 @@
           "plays": 5800000,
           "playsText": "5.8M plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一定會"
         }
       ],
       "releaseDate": null,
@@ -4203,6 +4642,7 @@
       "browseId": "MPREb_hvBVARF90iJ",
       "playlistId": "OLAK5uy_k6yWCc9lVEWVlKbLUu8-7Kt5uNpqYAltg",
       "title": "裹著心的光",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/XrPj83gkJ-77jylqH3xoLen59ODUoVco81HcgnpgNKC8eNFxaW_780Upw3NqiPUoGrJEoJOJZCH9rLs=w544-h544-l90-rj",
@@ -4215,7 +4655,8 @@
           "plays": 23000000,
           "playsText": "23M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "裹著心的光"
         }
       ],
       "releaseDate": null,
@@ -4227,6 +4668,7 @@
       "browseId": "MPREb_YMdK3dRytjq",
       "playlistId": "OLAK5uy_mzsoW8koaicfOTpghtQrpDdrTi7iPA5Co",
       "title": "7千3百多天 (JJ林俊傑《JJ20世界巡迴演唱會》主題曲)",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/xvtkrYcIFzb9Ky9KcsIaFOUj-nVoeaSWStkPhNvxFPk2QGF9OT1t1GG6ZzmjUxHfwTsiLw4DlQXdLA4z=w544-h544-l90-rj",
@@ -4239,7 +4681,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "7千3百多天#live"
         }
       ],
       "releaseDate": null,
@@ -4251,6 +4694,7 @@
       "browseId": "MPREb_yCISANavrCE",
       "playlistId": "OLAK5uy_nPGULXih16vzEZky6cF4ZpYfY_gwtcs0I",
       "title": "From the Ashes",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/SUZkDLW4F0MqtdzpmSlvdFGIyoOy2jhTU_jrxSs-UVflcgV9jLz4V2buXD1u_d5oYRXqwYiHJ1z3Pknw=w544-h544-l90-rj",
@@ -4263,7 +4707,8 @@
           "plays": 752000,
           "playsText": "752K plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "fromtheashes"
         }
       ],
       "releaseDate": null,
@@ -4275,6 +4720,7 @@
       "browseId": "MPREb_rRxlWRdtb9o",
       "playlistId": "OLAK5uy_kFmMvxYYpzHZS1J4tUFNHL8B79Ar6Yc_o",
       "title": "Unchained",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/xko-i-ogQNAzu_PhXQWSzfj6kvLZCVzMWPVtykOfBMssI9zLl9AVG59twTZJ_l8yyEGpu-IzpCm_nyk=w544-h544-l90-rj",
@@ -4287,7 +4733,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "unchained"
         }
       ],
       "releaseDate": null,
@@ -4299,6 +4746,7 @@
       "browseId": "MPREb_QmF73SkU32N",
       "playlistId": "OLAK5uy_mjzbdL8CnQ_U40y0dAP64Q2wrF07GbFq0",
       "title": "那些你很冒險的夢 (JJ20版)",
+      "albumArtist": "JJ Lin",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/oAYkyq94gAp6Z9H3uahepe1sKd91eyX1uKCOBQLBJkqco3njHWOIqZ5a9WkFGSk7mri9ZoMBZmFmR6nAMQ=w544-h544-l90-rj",
@@ -4311,7 +4759,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "那些你很冒險的夢"
         }
       ],
       "releaseDate": null,
@@ -4323,6 +4772,7 @@
       "browseId": "MPREb_n4sTpu0H2ua",
       "playlistId": "OLAK5uy_mxpwZh52Dk8UuP2yqyWdHnbRZULB2uagA",
       "title": "願與愁",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/zbbrSYtYj9YAcgmMU0SJk4TNVv4ld6zeYWJeXDE18yp2Kd_eRz2fBj7299FpLzfjiXHj9skKrilT7Bvz3A=w544-h544-l90-rj",
@@ -4335,7 +4785,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "願與愁"
         }
       ],
       "releaseDate": "2023-04-14",
@@ -4347,6 +4798,7 @@
       "browseId": "MPREb_Zk4gApQXN8l",
       "playlistId": "OLAK5uy_l_1C8W5XafSQsdgFo5nRyXPrSxY0qghuA",
       "title": "重拾_快樂",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/zyYVfAN1QxEInE0orlD3OF7EWFRKVS5-zr12eV3G2asT12HBIvmH9fCsvm-AhTP7bJVhxVfRiLQ9sow=w544-h544-s-l90-rj",
@@ -4359,7 +4811,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "願與愁"
         },
         {
           "index": 2,
@@ -4369,7 +4822,8 @@
           "plays": 640000,
           "playsText": "640K plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "逆光白"
         },
         {
           "index": 3,
@@ -4379,7 +4833,8 @@
           "plays": 4700000,
           "playsText": "4.7M plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "孤獨娛樂"
         },
         {
           "index": 4,
@@ -4389,7 +4844,8 @@
           "plays": 574000,
           "playsText": "574K plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢不凌亂"
         },
         {
           "index": 5,
@@ -4399,7 +4855,8 @@
           "plays": 6100000,
           "playsText": "6.1M plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "自畫像"
         },
         {
           "index": 6,
@@ -4409,7 +4866,8 @@
           "plays": 3300000,
           "playsText": "3.3M plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "謝幕"
         },
         {
           "index": 7,
@@ -4419,7 +4877,8 @@
           "plays": 8700000,
           "playsText": "8.7M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果我還剩一件事情可以做"
         },
         {
           "index": 8,
@@ -4429,7 +4888,8 @@
           "plays": 664000,
           "playsText": "664K plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑色泡沫"
         },
         {
           "index": 9,
@@ -4439,7 +4899,8 @@
           "plays": 232000,
           "playsText": "232K plays",
           "duration": 198,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你都在"
         },
         {
           "index": 10,
@@ -4449,7 +4910,8 @@
           "plays": 6400000,
           "playsText": "6.4M plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一時的選擇"
         },
         {
           "index": 11,
@@ -4459,7 +4921,8 @@
           "plays": 779000,
           "playsText": "779K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "castleintheair"
         },
         {
           "index": 12,
@@ -4469,7 +4932,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "7千3百多天"
         }
       ],
       "releaseDate": "2023-04-21",
@@ -4481,6 +4945,7 @@
       "browseId": "MPREb_OGUoUmqyEZ9",
       "playlistId": "OLAK5uy_kSjtkGScQZiQpzcFIQuZ3BUmyk18CtOR8",
       "title": "In The Joy (feat. Anderson .Paak)",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/r3p9MYkdrTFFnCzDn1xIa7BGB4L_nJHoB7EA5hTOC9gBXIoVT4R6IZeDy7ZPg0cvuueNLPdWkIHScxQ=w544-h544-l90-rj",
@@ -4493,7 +4958,8 @@
           "plays": 183000,
           "playsText": "183K plays",
           "duration": 198,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "inthejoy"
         }
       ],
       "releaseDate": null,
@@ -4505,6 +4971,7 @@
       "browseId": "MPREb_qi8qRjlpFi3",
       "playlistId": "OLAK5uy_k-mMJk79rS1dEKP7iM4uw0roWtjUrvYsQ",
       "title": "JJ的咖啡調調, Vol.1",
+      "albumArtist": "林俊傑",
       "type": "Album",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/XW1xFHkTzPDDghPTIuTPcIIaJ7_F29HJkDqo6tKBkXxd-FKl15nUKYQBZTs9HHN6VvFs6L1WfJtO7FFh=w544-h544-l90-rj",
@@ -4517,7 +4984,8 @@
           "plays": 86000,
           "playsText": "86K plays",
           "duration": 59,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "intro"
         },
         {
           "index": 2,
@@ -4527,7 +4995,8 @@
           "plays": 131000,
           "playsText": "131K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "toobad"
         },
         {
           "index": 3,
@@ -4537,7 +5006,8 @@
           "plays": 365000,
           "playsText": "365K plays",
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "身後"
         },
         {
           "index": 4,
@@ -4547,7 +5017,8 @@
           "plays": 498000,
           "playsText": "498K plays",
           "duration": 139,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "想見你想見你想見你"
         },
         {
           "index": 5,
@@ -4557,7 +5028,8 @@
           "plays": 985000,
           "playsText": "985K plays",
           "duration": 178,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "恨幸福來過"
         },
         {
           "index": 6,
@@ -4567,7 +5039,8 @@
           "plays": 212000,
           "playsText": "212K plays",
           "duration": 210,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "youarethereason"
         },
         {
           "index": 7,
@@ -4577,7 +5050,8 @@
           "plays": 834000,
           "playsText": "834K plays",
           "duration": 215,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "咖啡交換餘生"
         },
         {
           "index": 8,
@@ -4587,7 +5061,8 @@
           "plays": 93000,
           "playsText": "93K plays",
           "duration": 167,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "聖所"
         },
         {
           "index": 9,
@@ -4597,7 +5072,8 @@
           "plays": 474000,
           "playsText": "474K plays",
           "duration": 184,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "生生"
         }
       ],
       "releaseDate": null,
@@ -4609,6 +5085,7 @@
       "browseId": "MPREb_YzSrpfowAdB",
       "playlistId": "OLAK5uy_luqR7LgufD8UNvZYZxdlo04b4GSAk7fIw",
       "title": "JJ的咖啡調調, Vol.2",
+      "albumArtist": "林俊傑",
       "type": "EP",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/eaVY87pynSh2AvUpl4slAxDKyrplAIREW7qCUDcl7dfbZ3DspVX8vP_q40Rk-0GMs25-xDNDNtcmhYE=w544-h544-l90-rj",
@@ -4621,7 +5098,8 @@
           "plays": 100000,
           "playsText": "100K plays",
           "duration": 198,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我還年輕我還年輕"
         },
         {
           "index": 2,
@@ -4631,7 +5109,8 @@
           "plays": 585000,
           "playsText": "585K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "那女孩對我說"
         },
         {
           "index": 3,
@@ -4641,7 +5120,8 @@
           "plays": 267000,
           "playsText": "267K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你啊你啊"
         },
         {
           "index": 4,
@@ -4651,7 +5131,8 @@
           "plays": 441000,
           "playsText": "441K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "是你"
         },
         {
           "index": 5,
@@ -4661,7 +5142,8 @@
           "plays": 2500000,
           "playsText": "2.5M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "達爾文"
         }
       ],
       "releaseDate": null,
@@ -4673,6 +5155,7 @@
       "browseId": "MPREb_n2PKgqSBTPE",
       "playlistId": "OLAK5uy_m5J5Cmm3w31kn1J3MNgJTOMrH0HMPmPww",
       "title": "The Show",
+      "albumArtist": "Steve Aoki & JJ Lin",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/SebjR1GltGqergHyzEaQ9-ujEp7_o05bcboR6BFhiJf8-n2DZXpIFmnktc42WN59P9svvdWzHLueb0Jm=w544-h544-l90-rj",
@@ -4685,7 +5168,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "theshow"
         }
       ],
       "releaseDate": null,
@@ -4697,6 +5181,7 @@
       "browseId": "MPREb_RY3GqKN5Jm8",
       "playlistId": "OLAK5uy_lBSfISWqqczJ2UoaFjzoueZF9wV3r8_5Y",
       "title": "謝幕",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/lxt0n7BPbb3ufdfDIyobQ5_VeWQKMMIMKhcg0rV4L4OY8zKldcnCsoovCS4RGxlxM8AzRwtKmwS6M1I=w544-h544-l90-rj",
@@ -4709,7 +5194,8 @@
           "plays": 3300000,
           "playsText": "3.3M plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "謝幕"
         }
       ],
       "releaseDate": null,
@@ -4721,6 +5207,7 @@
       "browseId": "MPREb_SfY6pvmLr32",
       "playlistId": "OLAK5uy_nK_3j_7HntPjYTT_KVH4Gk_odH3iLQPI4",
       "title": "The Show (Steve Aoki & Lucas & Steve Remix)",
+      "albumArtist": "Steve Aoki & JJ Lin",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/OeadgrzRxVm0oDxdevgT8EGg58DyZ5-5d5ecShNWhRwH61L3aY47LocPHx7W9Tj4Mj9ScU9UY_zMcn3VOQ=w544-h544-l90-rj",
@@ -4733,7 +5220,8 @@
           "plays": 181000,
           "playsText": "181K plays",
           "duration": 169,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "theshow"
         }
       ],
       "releaseDate": null,
@@ -4745,6 +5233,7 @@
       "browseId": "MPREb_zuFcyzFqba2",
       "playlistId": "OLAK5uy_npOZdJLZVydsrU1hz8VpG7e1_9SEfqAo4",
       "title": "Turn Of A Page",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/v91Gb8Z1aSWgnRFLSNhxxP49yUYKSJSCS5Jjpg-V5n0LbMLQ0Q3oYpIevtL3-wHro9nbNnZJ8dglT5Np=w544-h544-l90-rj",
@@ -4757,7 +5246,8 @@
           "plays": 368000,
           "playsText": "368K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "turnofapage"
         }
       ],
       "releaseDate": null,
@@ -4769,6 +5259,7 @@
       "browseId": "MPREb_F5k1cLP0ten",
       "playlistId": "OLAK5uy_lMMToJg7xS4cv3TvRlN9pLz48p9cylvpE",
       "title": "俯衝的靈魂",
+      "albumArtist": "動力火車 & JJ Lin",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/uT0oV4VWXDm02ySSHkDu87g2_uj9XlXX6QPTB_7GoEzgJcMKu6H3JMXodiZaxHbi310zXCCH8_9epmSW=w544-h544-l90-rj",
@@ -4781,7 +5272,8 @@
           "plays": 4200000,
           "playsText": "4.2M plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "俯衝的靈魂"
         }
       ],
       "releaseDate": null,
@@ -4793,6 +5285,7 @@
       "browseId": "MPREb_NoQNqSzViEd",
       "playlistId": "OLAK5uy_lDFUbSJbVgYI4IMV_H-Muy2VFrxBlaFNk",
       "title": "光陰副本",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/kFb9HKMw5PYA0G1LgYW7kE30YPUdYT0BTLmIZXSk-ZZdn_669YgqGoKrQN6jX8dIwhVK_8epsJGA2Mf-=w544-h544-l90-rj",
@@ -4805,7 +5298,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "光陰副本"
         }
       ],
       "releaseDate": null,
@@ -4817,6 +5311,7 @@
       "browseId": "MPREb_SXQ9mM4kpKf",
       "playlistId": "OLAK5uy_k6eupQ7gCEjd_vP4-QVFHFVcIv4uezEjc",
       "title": "絕不絕",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/SLQecoJoBpppXRVNw0LwWKX-QTS_UhJm0ptWWJG3KL8fccX2kojda0rvGKygjJ5uE0cXyBNDBU-RskJ5=w544-h544-l90-rj",
@@ -4829,7 +5324,8 @@
           "plays": 675000,
           "playsText": "675K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "絕不絕"
         }
       ],
       "releaseDate": null,
@@ -4841,6 +5337,7 @@
       "browseId": "MPREb_0GmNOlDe6RL",
       "playlistId": "OLAK5uy_mkYJARsvh-SVIPZLZX-Y0LHMZaPZ3tJKE",
       "title": "在月蝕裡抱緊我",
+      "albumArtist": "林俊傑 & A-Lin",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/cIu-O3FDcfMRCllPlEGJf5U8fdt1di5fy-ja_07Av2VjSfspelfvIfcVH1Id0HYtdnG-RmlywfD2rtcl=w544-h544-l90-rj",
@@ -4853,7 +5350,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在月蝕裡抱緊我"
         }
       ],
       "releaseDate": "2025-07-06",
@@ -4865,6 +5363,7 @@
       "browseId": "MPREb_C0hzp2Hnctc",
       "playlistId": "OLAK5uy_kW3XWEnnelL1hh7Zz6bKKUNkrgnbTMK_Y",
       "title": "Skibidi",
+      "albumArtist": "林俊傑 & 成龍",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/5AZDPsftUtKJpldPXdE9FPIebWkEVL6JNHMe-gcek7wfqYt5YHvossMTYn_-iWxoNNF95ZYAfAMsAhy8nw=w544-h544-l90-rj",
@@ -4877,7 +5376,8 @@
           "plays": 4100000,
           "playsText": "4.1M plays",
           "duration": 198,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "skibidi"
         }
       ],
       "releaseDate": "2025-08-29",
@@ -4889,6 +5389,7 @@
       "browseId": "MPREb_NBofgiEpmte",
       "playlistId": "OLAK5uy_mJShWjnp1swlaLdF-29d2VHmnw9oqGNcY",
       "title": "瞬間的瞬間 (電影《他年她日》主題曲)",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/hwFJoGwB2E6GoyWWZMl7TdN8y86WVAtlu2vBg6r2jKiS7U9Z7kd1JTSMk8n8CTnWaiaZUY0SZGraighqtg=w544-h544-l90-rj",
@@ -4901,7 +5402,8 @@
           "plays": 5400000,
           "playsText": "5.4M plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "瞬間的瞬間"
         }
       ],
       "releaseDate": "2025-09-15",
@@ -4913,6 +5415,7 @@
       "browseId": "MPREb_jSiauIi2GB1",
       "playlistId": "OLAK5uy_lO8cqO8PKSjiZw4TF8GzneMBIoKv-uySc",
       "title": "明日座標 (王者榮耀十週年版本主題曲)",
+      "albumArtist": "林俊傑 & 王者榮耀",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/OJFOGPpS4xAuqdfaM4OkCZHifcRISNIaB8rUcKgK0CNI8UNPG-bS7MZh9d6wZVo6oPVhpzvtqWU33C2KPA=w544-h544-l90-rj",
@@ -4925,7 +5428,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "明日座標"
         }
       ],
       "releaseDate": null,
@@ -4937,6 +5441,7 @@
       "browseId": "MPREb_OVA7zCq7f8M",
       "playlistId": "OLAK5uy_lRx-yGWOC74pAg9EXhAhuG_2XZuI-TmnE",
       "title": "我對緣分小心翼翼 (劇集《逐玉》主題曲)",
+      "albumArtist": "林俊傑",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/nSL8_iaEqsxIwFCJgQ9JFeTcE0QpNoMdyOrS_2NA0Y3cKwj2Ywbd2JqKpMEkNhU3jQCmsHTm0amW2hcr=w544-h544-l90-rj",
@@ -4949,7 +5454,8 @@
           "plays": 13000000,
           "playsText": "13M plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我對緣分小心翼翼"
         }
       ],
       "releaseDate": "2026-02-27",

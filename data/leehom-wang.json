@@ -2,19 +2,21 @@
   "slug": "leehom-wang",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-16T17:33:45.752Z",
+  "fetchedAt": "2026-09-16T19:13:22.370Z",
   "artist": {
     "channelId": "UCSirtpIlKNCvnrTN4i0GFvw",
     "name": "Leehom Wang - Wang Leehom",
     "thumbnail": "https://yt3.googleusercontent.com/_oj0eGnyRt7n39_-nmR8zTtNH5l-Ao_y1rWAQp-OsEWLngmlhcQthB6oXjxNPgPqGGOPxZQqWQ=w1176-h490-l90-rj-dcoUSWzCEJ",
     "subscribers": 418000,
-    "monthlyAudience": 2490000
+    "monthlyAudience": 2490000,
+    "avatar": "https://yt3.googleusercontent.com/fXa0kC5Av_SGefJHBrfqxS2Kpkq4RyWG0hK5o8FYaNB5uyyKeWnqyJl_-gnH72T_Juj0ckUg5oY=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
       "browseId": "MPREb_J370u1R3i6d",
       "playlistId": "OLAK5uy_njso9RFlkJaoMoBJwylAk8fJ_jXuwTC9g",
       "title": "Qing Di Bei Duo Fen",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 1995,
       "thumbnail": "https://yt3.googleusercontent.com/HwrfA-ePYE7OfJxLSx3I1gIWVsCXF7HNlPjhX18aVEme8sfuE37Tc-NsESYyT30aMjfslBZKfFMQCcnMxw=w544-h544-l90-rj",
@@ -27,7 +29,9 @@
           "plays": 203000,
           "playsText": "203K plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "四季",
+          "titleZh": "四季"
         },
         {
           "index": 2,
@@ -37,7 +41,9 @@
           "plays": 216000,
           "playsText": "216K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "情敵貝多芬",
+          "titleZh": "情敵貝多芬 (Live)"
         },
         {
           "index": 3,
@@ -47,7 +53,9 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你傷了我的心",
+          "titleZh": "你傷了我的心"
         },
         {
           "index": 4,
@@ -57,7 +65,9 @@
           "plays": 5300,
           "playsText": "5.3K plays",
           "duration": 300,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "為我哭一次好不好",
+          "titleZh": "為我哭一次好不好"
         },
         {
           "index": 5,
@@ -67,7 +77,8 @@
           "plays": 44000,
           "playsText": "44K plays",
           "duration": 290,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lovemetender"
         },
         {
           "index": 6,
@@ -77,7 +88,9 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 284,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "聽雨",
+          "titleZh": "聽雨"
         },
         {
           "index": 7,
@@ -87,7 +100,9 @@
           "plays": 6200,
           "playsText": "6.2K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "乘著愛自由的飛",
+          "titleZh": "乘著愛自由的飛"
         },
         {
           "index": 8,
@@ -97,7 +112,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 184,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "thewateriswide"
         },
         {
           "index": 9,
@@ -107,7 +123,9 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "別這樣我會哭",
+          "titleZh": "別這樣我會哭"
         },
         {
           "index": 10,
@@ -117,7 +135,9 @@
           "plays": 9300,
           "playsText": "9.3K plays",
           "duration": 175,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lastnight",
+          "titleZh": "Last Night (2002重唱版)"
         },
         {
           "index": 11,
@@ -127,18 +147,22 @@
           "plays": 147000,
           "playsText": "147K plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不願說再見",
+          "titleZh": "不願說再見"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "1995-12-19",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "情敵貝多芬",
+      "titleZh": "情敵貝多芬"
     },
     {
       "browseId": "MPREb_lcc32hXJTKd",
       "playlistId": "OLAK5uy_mjsIjXnTzbTLIgpF1yy_mPs7NdLrotIYw",
       "title": "如果你聽見我的歌",
+      "albumArtist": "王力宏",
       "type": "Album",
       "year": 1996,
       "thumbnail": "https://yt3.googleusercontent.com/08aMKIzBF1vS-5CponxS_O2-6o3rtqRI7gMe9V_5NNTCvVemTT78wGIfkYluiq8oDlUYUmVVGkJvqrdH=w544-h544-s-l90-rj",
@@ -151,7 +175,8 @@
           "plays": 749000,
           "playsText": "749K plays",
           "duration": 298,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果你聽見我的歌"
         },
         {
           "index": 2,
@@ -161,7 +186,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 291,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "喊我一千遍"
         },
         {
           "index": 3,
@@ -171,7 +197,8 @@
           "plays": 22000,
           "playsText": "22K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "去愛"
         },
         {
           "index": 4,
@@ -181,7 +208,8 @@
           "plays": 4700,
           "playsText": "4.7K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "頭版搖滾"
         },
         {
           "index": 5,
@@ -191,7 +219,8 @@
           "plays": 4900,
           "playsText": "4.9K plays",
           "duration": 200,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "standbyme"
         },
         {
           "index": 6,
@@ -201,7 +230,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "是你"
         },
         {
           "index": 7,
@@ -211,7 +241,8 @@
           "plays": 130000,
           "playsText": "130K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "有了你就足夠"
         },
         {
           "index": 8,
@@ -221,7 +252,8 @@
           "plays": 106000,
           "playsText": "106K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "aslongasihaveyou"
         },
         {
           "index": 9,
@@ -231,7 +263,8 @@
           "plays": 5700,
           "playsText": "5.7K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "情難牽"
         },
         {
           "index": 10,
@@ -241,7 +274,8 @@
           "plays": 5400,
           "playsText": "5.4K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "betteroffalone"
         }
       ],
       "releaseDate": "1996-08-07",
@@ -253,6 +287,7 @@
       "browseId": "MPREb_lQFk8EYv3Wt",
       "playlistId": "OLAK5uy_mcZ5AuHAOwearwURoxXpK9PLz2l1jw05M",
       "title": "Nature 大地的窗口",
+      "albumArtist": "王力宏",
       "type": "Album",
       "year": 1996,
       "thumbnail": "https://yt3.googleusercontent.com/dgM399WC10oPUsBev3-9_h5v91vHvu-Xm3-6RJkr3fgzaFsjqffHW_Bc0uBb9omwZNKc5ry_Mmmelac=w544-h544-s-l90-rj",
@@ -265,7 +300,8 @@
           "plays": 35000,
           "playsText": "35K plays",
           "duration": 302,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "nature"
         },
         {
           "index": 2,
@@ -275,17 +311,19 @@
           "plays": 869,
           "playsText": "869 plays",
           "duration": 341,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "河谷歲月"
         },
         {
           "index": 3,
           "title": "銀色的湖",
           "artists": "",
           "videoId": "fzsrfHVnGks",
-          "plays": 927,
-          "playsText": "927 plays",
+          "plays": 928,
+          "playsText": "928 plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "銀色的湖"
         },
         {
           "index": 4,
@@ -295,7 +333,8 @@
           "plays": 1300,
           "playsText": "1.3K plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "哭泣的森林"
         },
         {
           "index": 5,
@@ -305,7 +344,8 @@
           "plays": 429,
           "playsText": "429 plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "往岡貝的路上"
         },
         {
           "index": 6,
@@ -315,7 +355,8 @@
           "plays": 743,
           "playsText": "743 plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大地的歌"
         },
         {
           "index": 7,
@@ -325,7 +366,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "是你"
         },
         {
           "index": 8,
@@ -335,7 +377,8 @@
           "plays": 411,
           "playsText": "411 plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一窩黑猩猩"
         },
         {
           "index": 9,
@@ -345,7 +388,8 @@
           "plays": 438,
           "playsText": "438 plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "風想"
         },
         {
           "index": 10,
@@ -355,7 +399,8 @@
           "plays": 345,
           "playsText": "345 plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "樹梢"
         },
         {
           "index": 11,
@@ -365,7 +410,8 @@
           "plays": 359,
           "playsText": "359 plays",
           "duration": 369,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "高原上的月影"
         },
         {
           "index": 12,
@@ -375,7 +421,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大地的窗口"
         }
       ],
       "releaseDate": "1996-11-01",
@@ -387,6 +434,7 @@
       "browseId": "MPREb_upCWZ9XgNBF",
       "playlistId": "OLAK5uy_niwzgAEs3dI8yjo2k3YFb0kwLgkkWfbnU",
       "title": "好想你",
+      "albumArtist": "王力宏",
       "type": "Album",
       "year": 1996,
       "thumbnail": "https://yt3.googleusercontent.com/YQeDO__LlyuwAx4XMsoYTXBx5LQSmxcBDwHuXp-Ziu99sEqrV9qn5Is2kg51RMWjb5Cr6Rbbf_2UHAqt=w544-h544-s-l90-rj",
@@ -399,7 +447,8 @@
           "plays": 223000,
           "playsText": "223K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "風中的遺憾"
         },
         {
           "index": 2,
@@ -409,7 +458,8 @@
           "plays": 4900,
           "playsText": "4.9K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "遠離傷心"
         },
         {
           "index": 3,
@@ -419,7 +469,8 @@
           "plays": 403000,
           "playsText": "403K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想你"
         },
         {
           "index": 4,
@@ -429,7 +480,8 @@
           "plays": 7000,
           "playsText": "7K plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "暴風雨"
         },
         {
           "index": 5,
@@ -439,7 +491,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "回憶"
         },
         {
           "index": 6,
@@ -449,7 +502,8 @@
           "plays": 22000,
           "playsText": "22K plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不說後悔"
         },
         {
           "index": 7,
@@ -459,7 +513,8 @@
           "plays": 3900,
           "playsText": "3.9K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "預約你的愛"
         },
         {
           "index": 8,
@@ -469,7 +524,8 @@
           "plays": 3200,
           "playsText": "3.2K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "眼睛"
         },
         {
           "index": 9,
@@ -479,7 +535,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛依然執著"
         },
         {
           "index": 10,
@@ -489,7 +546,8 @@
           "plays": 9400,
           "playsText": "9.4K plays",
           "duration": 341,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "noah"
         }
       ],
       "releaseDate": "1996-12-27",
@@ -501,6 +559,7 @@
       "browseId": "MPREb_R5TcA16zmkw",
       "playlistId": "OLAK5uy_mwEIiLEu58D22OAEGOVCKc2_Ep86llb-k",
       "title": "白紙",
+      "albumArtist": "王力宏",
       "type": "Album",
       "year": 1997,
       "thumbnail": "https://yt3.googleusercontent.com/s1CleXlRB5ZWK8xNgJV0ARp86y5ZVPpOHPFDcMfbWO3dFB9SoSqbQOrpgPGEYJS20-AMV0E5fiimtZfN=w517-h517-s-l90-rj",
@@ -513,7 +572,8 @@
           "plays": 424000,
           "playsText": "424K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在每一秒裡都想見到妳"
         },
         {
           "index": 2,
@@ -523,7 +583,8 @@
           "plays": 39000,
           "playsText": "39K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不要開燈"
         },
         {
           "index": 3,
@@ -533,7 +594,8 @@
           "plays": 6400,
           "playsText": "6.4K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛在思念蔓延時"
         },
         {
           "index": 4,
@@ -543,7 +605,8 @@
           "plays": 33000,
           "playsText": "33K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "認真"
         },
         {
           "index": 5,
@@ -553,7 +616,8 @@
           "plays": 4100,
           "playsText": "4.1K plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "放逐思念"
         },
         {
           "index": 6,
@@ -563,7 +627,8 @@
           "plays": 142000,
           "playsText": "142K plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白紙"
         },
         {
           "index": 7,
@@ -573,7 +638,8 @@
           "plays": 5300,
           "playsText": "5.3K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "給我妳的手"
         },
         {
           "index": 8,
@@ -583,7 +649,8 @@
           "plays": 423000,
           "playsText": "423K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "dreamagain"
         },
         {
           "index": 9,
@@ -593,7 +660,8 @@
           "plays": 6900,
           "playsText": "6.9K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "想家"
         },
         {
           "index": 10,
@@ -603,7 +671,8 @@
           "plays": 2900,
           "playsText": "2.9K plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "四月還會下雪"
         }
       ],
       "releaseDate": "1997-07-18",
@@ -615,6 +684,7 @@
       "browseId": "MPREb_dDLA5pLS6eZ",
       "playlistId": "OLAK5uy_npgvEVbEKeb9JKaCAByMaFFhfU0_lKbzo",
       "title": "Revolution",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 1998,
       "thumbnail": "https://yt3.googleusercontent.com/QTlHSI6EumyJNZUwEVfEhN8Nm00BGpgDH1Mz1f4tESN-BaSyS1xcFlb2k3oZCT725QIpBzVQ-KIJqik=w544-h544-l90-rj",
@@ -627,7 +697,9 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "公轉自轉",
+          "titleZh": "公轉自轉"
         },
         {
           "index": 2,
@@ -637,7 +709,8 @@
           "plays": 30000,
           "playsText": "30K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "mengxiangbeilengdong"
         },
         {
           "index": 3,
@@ -647,7 +720,8 @@
           "plays": 4900000,
           "playsText": "4.9M plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ainidengyuaiziji"
         },
         {
           "index": 4,
@@ -657,7 +731,8 @@
           "plays": 159000,
           "playsText": "159K plays",
           "duration": 290,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "oneofthesedays"
         },
         {
           "index": 5,
@@ -667,7 +742,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "wodeqingge"
         },
         {
           "index": 6,
@@ -677,7 +753,9 @@
           "plays": 327000,
           "playsText": "327K plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "信任",
+          "titleZh": "信任"
         },
         {
           "index": 7,
@@ -687,7 +765,8 @@
           "plays": 178000,
           "playsText": "178K plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "buguanzenyang"
         },
         {
           "index": 8,
@@ -697,7 +776,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "2000nian"
         },
         {
           "index": 9,
@@ -707,7 +787,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "niyiweiwoshishei"
         },
         {
           "index": 10,
@@ -717,18 +798,21 @@
           "plays": 22000,
           "playsText": "22K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "pleasecomebacktome"
         }
       ],
       "releaseDate": "1998-01-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "公轉自轉"
+      "wikiTitle": "公轉自轉",
+      "titleZh": "公轉自轉"
     },
     {
       "browseId": "MPREb_JnM917Q6v6a",
       "playlistId": "OLAK5uy_ky9FVQFA7IMXIbihAYfrz_jBqHvVaLjAM",
       "title": "好力宏精選集",
+      "albumArtist": "王力宏",
       "type": "Album",
       "year": 1998,
       "thumbnail": "https://yt3.googleusercontent.com/JFSMhblp1zoKYpBYYObcLeHt097TOLC2XspbdcfDgfX-Xe-9vKvzu_u4qEyuD4-kPJlfwQPOhlcUbW0=w544-h544-s-l90-rj",
@@ -741,7 +825,8 @@
           "plays": 34000,
           "playsText": "34K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "因為有妳"
         },
         {
           "index": 2,
@@ -751,7 +836,8 @@
           "plays": 142000,
           "playsText": "142K plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白紙"
         },
         {
           "index": 3,
@@ -761,7 +847,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "喊我一千遍"
         },
         {
           "index": 4,
@@ -771,7 +858,8 @@
           "plays": 403000,
           "playsText": "403K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想你"
         },
         {
           "index": 5,
@@ -781,7 +869,8 @@
           "plays": 424000,
           "playsText": "424K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在每一秒裡都想見到妳"
         },
         {
           "index": 6,
@@ -791,7 +880,8 @@
           "plays": 130000,
           "playsText": "130K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "有了你就足夠"
         },
         {
           "index": 7,
@@ -801,7 +891,8 @@
           "plays": 22000,
           "playsText": "22K plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不說後悔"
         },
         {
           "index": 8,
@@ -811,7 +902,8 @@
           "plays": 41000,
           "playsText": "41K plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最好的愛"
         },
         {
           "index": 9,
@@ -821,7 +913,8 @@
           "plays": 231000,
           "playsText": "231K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雪人"
         },
         {
           "index": 10,
@@ -831,7 +924,8 @@
           "plays": 39000,
           "playsText": "39K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不要開燈"
         },
         {
           "index": 11,
@@ -841,7 +935,8 @@
           "plays": 223000,
           "playsText": "223K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "風中的遺憾"
         },
         {
           "index": 12,
@@ -851,7 +946,8 @@
           "plays": 749000,
           "playsText": "749K plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果你聽見我的歌"
         },
         {
           "index": 13,
@@ -861,7 +957,8 @@
           "plays": 4700,
           "playsText": "4.7K plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "頭版搖滾"
         },
         {
           "index": 14,
@@ -871,7 +968,8 @@
           "plays": 2900,
           "playsText": "2.9K plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "四月還會下雪"
         }
       ],
       "releaseDate": "1998-08-12",
@@ -883,6 +981,7 @@
       "browseId": "MPREb_5tNylOK1ei0",
       "playlistId": "OLAK5uy_kpLo7r19HN4R1gpffTnlFmQJ8cT4j6v34",
       "title": "Impossible to Miss You",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 1999,
       "thumbnail": "https://yt3.googleusercontent.com/TdkW5yhJUJR1OnHGJ8xi66DzeJx1vsegieP5Hr2wSCEgkL0-qOx01_xbEuXx4iSGW6oVrrOeF3NxN9G4nA=w544-h544-l90-rj",
@@ -895,7 +994,8 @@
           "plays": 16000,
           "playsText": "16K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "diaolinggan"
         },
         {
           "index": 2,
@@ -905,7 +1005,9 @@
           "plays": 694000,
           "playsText": "694K plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不可能錯過你",
+          "titleZh": "不可能錯過你"
         },
         {
           "index": 3,
@@ -915,7 +1017,9 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流淚手心",
+          "titleZh": "流淚手心 (Live)"
         },
         {
           "index": 4,
@@ -925,7 +1029,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "julia"
         },
         {
           "index": 5,
@@ -935,7 +1040,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ganqingfuzuoyong"
         },
         {
           "index": 6,
@@ -945,7 +1051,8 @@
           "plays": 211000,
           "playsText": "211K plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "dakaiai"
         },
         {
           "index": 7,
@@ -955,7 +1062,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "bujingluodehuaxiangyi"
         },
         {
           "index": 8,
@@ -965,7 +1073,8 @@
           "plays": 163000,
           "playsText": "163K plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "shiquleni"
         },
         {
           "index": 9,
@@ -975,7 +1084,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "niaiguomeiyou"
         },
         {
           "index": 10,
@@ -985,7 +1095,8 @@
           "plays": 7600,
           "playsText": "7.6K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "happyending"
         },
         {
           "index": 11,
@@ -995,18 +1106,21 @@
           "plays": 58000,
           "playsText": "58K plays",
           "duration": 309,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "marysays"
         }
       ],
       "releaseDate": "1999-01-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "不可能錯過你"
+      "wikiTitle": "不可能錯過你",
+      "titleZh": "不可能錯過你"
     },
     {
       "browseId": "MPREb_xBXhDLYVHyL",
       "playlistId": "OLAK5uy_lUWK0VUDHdzBKK2cGJKrS_HCAD62UH-t8",
       "title": "Too Nice",
+      "albumArtist": "蘇永康 & 王力宏",
       "type": "Single",
       "year": 1999,
       "thumbnail": "https://yt3.googleusercontent.com/S1l4YhtWzM72CRQM-cDtVe6DEZk10ECTRX9aIxtGn8xLwdpU9UoljJWml7gAf28x41QJpLiAjmcHuCo6=w544-h544-s-l90-rj",
@@ -1019,7 +1133,8 @@
           "plays": 23000,
           "playsText": "23K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "左右為難#live"
         }
       ],
       "releaseDate": null,
@@ -1031,6 +1146,7 @@
       "browseId": "MPREb_wGTXgbxD73v",
       "playlistId": "OLAK5uy_lozCuU2gVA3-DZAXBlYulhbxz6aeKh4p8",
       "title": "Forever's First Day",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2000,
       "thumbnail": "https://yt3.googleusercontent.com/JjYZMNsD26nKRXA86AZ_Pa0diLP2zOCiHDYXuDEp-SNSaQF8udaZtTJj_BJMVN2oY6WTCrGWV0M4JdYR=w544-h544-l90-rj",
@@ -1043,7 +1159,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 86,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "introduction"
         },
         {
           "index": 2,
@@ -1053,7 +1170,9 @@
           "plays": 385000,
           "playsText": "385K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "永遠的第一天",
+          "titleZh": "永遠的第一天 (Live)"
         },
         {
           "index": 3,
@@ -1063,7 +1182,9 @@
           "plays": 5300000,
           "playsText": "5.3M plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "龍的傳人",
+          "titleZh": "龍的傳人"
         },
         {
           "index": 4,
@@ -1073,7 +1194,9 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不要害怕",
+          "titleZh": "不要害怕"
         },
         {
           "index": 5,
@@ -1083,7 +1206,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kuangxiangshijie"
         },
         {
           "index": 6,
@@ -1093,7 +1217,8 @@
           "plays": 103000,
           "playsText": "103K plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ganqingshiwutai"
         },
         {
           "index": 7,
@@ -1103,7 +1228,8 @@
           "plays": 39000,
           "playsText": "39K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "shangkoushiaidebiji"
         },
         {
           "index": 8,
@@ -1113,7 +1239,8 @@
           "plays": 57000,
           "playsText": "57K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "huanxicheng"
         },
         {
           "index": 9,
@@ -1123,7 +1250,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 362,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "wangleshijanwanglewo"
         },
         {
           "index": 10,
@@ -1133,7 +1261,8 @@
           "plays": 39000,
           "playsText": "39K plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "zhejiushiai"
         },
         {
           "index": 11,
@@ -1143,18 +1272,22 @@
           "plays": 76000,
           "playsText": "76K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你可以告訴我",
+          "titleZh": "你可以告訴我(你還愛誰) (Live)"
         }
       ],
       "releaseDate": "2000-01-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "永遠的第一天"
+      "wikiTitle": "永遠的第一天",
+      "titleZh": "永遠的第一天"
     },
     {
       "browseId": "MPREb_ETMthWSSGWa",
       "playlistId": "OLAK5uy_kK1gGgy4K4K2Qf-Ozo0zIMYOT33Ww2MNY",
       "title": "The One and Only",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2001,
       "thumbnail": "https://yt3.googleusercontent.com/VIleQJeHd9PCXomGnyHh3P_-afHrXYD4BXN4jH9zZ-0F4wuL20_87xwE-_o64y3rh78i5aY7RdeCTC8X=w544-h544-s-l90-rj",
@@ -1167,7 +1300,9 @@
           "plays": 22000000,
           "playsText": "22M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "唯一",
+          "titleZh": "唯一 (Live)"
         },
         {
           "index": 2,
@@ -1177,7 +1312,9 @@
           "plays": 14000000,
           "playsText": "14M plays",
           "duration": 290,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的就是你",
+          "titleZh": "愛的就是你 (Live)"
         },
         {
           "index": 3,
@@ -1187,7 +1324,8 @@
           "plays": 54000,
           "playsText": "54K plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "xiejuetuixiaonideai"
         },
         {
           "index": 4,
@@ -1197,7 +1335,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "anquangan"
         },
         {
           "index": 5,
@@ -1207,7 +1346,8 @@
           "plays": 108000,
           "playsText": "108K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "jiebuliaoni"
         },
         {
           "index": 6,
@@ -1217,7 +1357,8 @@
           "plays": 111000,
           "playsText": "111K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "bubiwenbieren"
         },
         {
           "index": 7,
@@ -1227,7 +1368,8 @@
           "plays": 198000,
           "playsText": "198K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "baihuli"
         },
         {
           "index": 8,
@@ -1237,7 +1379,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "bianhuai"
         },
         {
           "index": 9,
@@ -1247,7 +1390,8 @@
           "plays": 44000,
           "playsText": "44K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ifyouknew"
         },
         {
           "index": 10,
@@ -1257,7 +1401,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "woyao"
         },
         {
           "index": 11,
@@ -1267,18 +1412,22 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的就是你",
+          "titleZh": "愛的就是你 (Live)"
         }
       ],
       "releaseDate": "2001-09-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "唯一 (專輯)"
+      "wikiTitle": "唯一 (專輯)",
+      "titleZh": "唯一 (專輯)"
     },
     {
       "browseId": "MPREb_SgrI5OMjimx",
       "playlistId": "OLAK5uy_m1729m9Zg5lznjIE_iSXbu2Ng2qSqekks",
       "title": "Lee Hom Music Century",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2001,
       "thumbnail": "https://yt3.googleusercontent.com/hDjcmXALVXRD06LcTikE9VPCcKuTBEtUN_eI2Q-2gnTnIAmTkWJVZmV_47TqhfckesST-vI17zOfC58K=w544-h544-l90-rj",
@@ -1291,7 +1440,8 @@
           "plays": 53000,
           "playsText": "53K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "takeyourtime"
         },
         {
           "index": 2,
@@ -1301,7 +1451,9 @@
           "plays": 5600,
           "playsText": "5.6K plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛我的歌",
+          "titleZh": "愛我的歌"
         },
         {
           "index": 3,
@@ -1311,7 +1463,8 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "meitianainiersixiaoshi"
         }
       ],
       "releaseDate": null,
@@ -1323,6 +1476,7 @@
       "browseId": "MPREb_CtApVC7vgwz",
       "playlistId": "OLAK5uy_lO0CsL51qkl2uS04EuGLevMSYuW-Hlu1o",
       "title": "王力宏的音樂進化論(新歌+精選)’95～’02 - Evolution",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2002,
       "thumbnail": "https://yt3.googleusercontent.com/GHz18fy0T3D5ScOn53x-pi-XIe90jA1NVyYBuQAC4yZesKiLzwwyQyJtD98JLiDacl74Eex7HC9zboA=w544-h544-l90-rj",
@@ -1335,7 +1489,8 @@
           "plays": 400000,
           "playsText": "400K plays",
           "duration": 179,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "why"
         },
         {
           "index": 2,
@@ -1345,7 +1500,8 @@
           "plays": 155000,
           "playsText": "155K plays",
           "duration": 201,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lastnight"
         },
         {
           "index": 3,
@@ -1355,7 +1511,8 @@
           "plays": 504000,
           "playsText": "504K plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "兩個人不等於我們"
         }
       ],
       "releaseDate": "2002-10-04",
@@ -1367,6 +1524,7 @@
       "browseId": "MPREb_Yk57Pbqcew0",
       "playlistId": "OLAK5uy_mkcCdiLav61wUwCTetw2yJtaUuGGt8B6M",
       "title": "Leehom's Music Evolution",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2002,
       "thumbnail": "https://yt3.googleusercontent.com/HupWdcKkIZMxCIaWil46B5X98u36hfruIKwMZRgcQ3xkKe9sGgbGNqQIh5Xu9sXAk2ssGnQuLqmP2pA=w544-h544-s-l90-rj",
@@ -1379,7 +1537,8 @@
           "plays": null,
           "playsText": null,
           "duration": 179,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "why"
         },
         {
           "index": 2,
@@ -1389,7 +1548,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "julia"
         },
         {
           "index": 3,
@@ -1399,7 +1559,9 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "公轉自轉",
+          "titleZh": "公轉自轉"
         },
         {
           "index": 4,
@@ -1409,7 +1571,9 @@
           "plays": 22000000,
           "playsText": "22M plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "唯一",
+          "titleZh": "唯一 (Live)"
         },
         {
           "index": 5,
@@ -1419,7 +1583,9 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不要害怕",
+          "titleZh": "不要害怕"
         },
         {
           "index": 6,
@@ -1429,7 +1595,9 @@
           "plays": 694000,
           "playsText": "694K plays",
           "duration": 305,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不可能錯過你",
+          "titleZh": "不可能錯過你"
         },
         {
           "index": 7,
@@ -1439,7 +1607,8 @@
           "plays": 4900000,
           "playsText": "4.9M plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ainidengyuaiziji"
         },
         {
           "index": 8,
@@ -1449,7 +1618,9 @@
           "plays": null,
           "playsText": null,
           "duration": 300,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果你聽見我的歌",
+          "titleZh": "如果你聽見我的歌"
         },
         {
           "index": 9,
@@ -1459,7 +1630,8 @@
           "plays": 53000,
           "playsText": "53K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "takeyourtime"
         },
         {
           "index": 10,
@@ -1469,7 +1641,9 @@
           "plays": 14000000,
           "playsText": "14M plays",
           "duration": 290,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的就是你",
+          "titleZh": "愛的就是你 (Live)"
         },
         {
           "index": 11,
@@ -1479,7 +1653,8 @@
           "plays": null,
           "playsText": null,
           "duration": 255,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "lightofmylife"
         },
         {
           "index": 12,
@@ -1489,7 +1664,9 @@
           "plays": 3600,
           "playsText": "3.6K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我用生命愛你",
+          "titleZh": "我用生命愛你"
         },
         {
           "index": 13,
@@ -1499,7 +1676,9 @@
           "plays": null,
           "playsText": null,
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lastnight",
+          "titleZh": "Last Night (2002重唱版)"
         },
         {
           "index": 14,
@@ -1509,7 +1688,8 @@
           "plays": null,
           "playsText": null,
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "liangerenbudengyuwomen"
         },
         {
           "index": 15,
@@ -1519,7 +1699,9 @@
           "plays": null,
           "playsText": null,
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在每一秒裡都想見到你",
+          "titleZh": "在每一秒裡都想見到你 (Live)"
         },
         {
           "index": 16,
@@ -1529,7 +1711,9 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流淚手心",
+          "titleZh": "流淚手心 (Live)"
         },
         {
           "index": 17,
@@ -1539,7 +1723,9 @@
           "plays": null,
           "playsText": null,
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白紙",
+          "titleZh": "白紙"
         },
         {
           "index": 18,
@@ -1549,7 +1735,9 @@
           "plays": 385000,
           "playsText": "385K plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "永遠的第一天",
+          "titleZh": "永遠的第一天 (Live)"
         },
         {
           "index": 19,
@@ -1559,7 +1747,9 @@
           "plays": 216000,
           "playsText": "216K plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "情敵貝多芬",
+          "titleZh": "情敵貝多芬 (Live)"
         },
         {
           "index": 20,
@@ -1569,7 +1759,9 @@
           "plays": null,
           "playsText": null,
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想你",
+          "titleZh": "好想你"
         },
         {
           "index": 21,
@@ -1579,7 +1771,8 @@
           "plays": null,
           "playsText": null,
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雪人"
         },
         {
           "index": 22,
@@ -1589,7 +1782,8 @@
           "plays": null,
           "playsText": null,
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "nature"
         },
         {
           "index": 23,
@@ -1599,7 +1793,8 @@
           "plays": 150000,
           "playsText": "150K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "chinawhite"
         },
         {
           "index": 24,
@@ -1609,7 +1804,8 @@
           "plays": null,
           "playsText": null,
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "happinessx3lonelinessx3"
         },
         {
           "index": 25,
@@ -1619,7 +1815,8 @@
           "plays": 96000,
           "playsText": "96K plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "likeagunshot"
         },
         {
           "index": 26,
@@ -1629,7 +1826,9 @@
           "plays": 5300000,
           "playsText": "5.3M plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "龍的傳人",
+          "titleZh": "龍的傳人"
         }
       ],
       "releaseDate": null,
@@ -1641,6 +1840,7 @@
       "browseId": "MPREb_JqhDDRuMGEP",
       "playlistId": "OLAK5uy_m8nIGIzlF6p0x_QQ3iDa1JzanOQL9msDM",
       "title": "Last Night",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2003,
       "thumbnail": "https://yt3.googleusercontent.com/D52hAgA8DbC7hhQHirfNObrcDGyBwP99lD7r2Euu4-LP8M9WBDNfGPn4JBqnp27NHPBwPIW-RRbV0Eam=w544-h544-l90-rj",
@@ -1653,7 +1853,9 @@
           "plays": 22000000,
           "playsText": "22M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "唯一",
+          "titleZh": "唯一 (Live)"
         },
         {
           "index": 2,
@@ -1663,7 +1865,9 @@
           "plays": null,
           "playsText": null,
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lastnight",
+          "titleZh": "Last Night (2002重唱版)"
         },
         {
           "index": 3,
@@ -1673,18 +1877,21 @@
           "plays": null,
           "playsText": null,
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "tattahitorinokimie"
         }
       ],
       "releaseDate": "2003-04-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "唯一/Last Night"
+      "wikiTitle": "唯一/Last Night",
+      "titleZh": "唯一/Last Night"
     },
     {
       "browseId": "MPREb_7Oe667ihPmX",
       "playlistId": "OLAK5uy_n2oKxzZNSTHffTB7LVDPJ8NdcA_69G78s",
       "title": "The Only One",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2003,
       "thumbnail": "https://yt3.googleusercontent.com/V0iBXCLX4No6ru42OhSITQp2J52sP_72WUKUejn8mOMA4L3f6b_XYf9Hcs2q_dmzdnlST2v8euru4vHLrg=w544-h544-l90-rj",
@@ -1697,7 +1904,9 @@
           "plays": 22000000,
           "playsText": "22M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "唯一",
+          "titleZh": "唯一 (Live)"
         },
         {
           "index": 2,
@@ -1707,7 +1916,9 @@
           "plays": null,
           "playsText": null,
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lastnight",
+          "titleZh": "Last Night (2002重唱版)"
         },
         {
           "index": 3,
@@ -1717,7 +1928,8 @@
           "plays": 96000,
           "playsText": "96K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "likeagunshot"
         },
         {
           "index": 4,
@@ -1727,7 +1939,9 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流淚手心",
+          "titleZh": "流淚手心 (Live)"
         },
         {
           "index": 5,
@@ -1737,7 +1951,8 @@
           "plays": null,
           "playsText": null,
           "duration": 255,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "lightofmylife"
         },
         {
           "index": 6,
@@ -1747,7 +1962,8 @@
           "plays": 150000,
           "playsText": "150K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "chinawhite"
         },
         {
           "index": 7,
@@ -1757,7 +1973,9 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不要害怕",
+          "titleZh": "不要害怕"
         },
         {
           "index": 8,
@@ -1767,7 +1985,9 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的就是你",
+          "titleZh": "愛的就是你 (Live)"
         },
         {
           "index": 9,
@@ -1777,7 +1997,8 @@
           "plays": 58000,
           "playsText": "58K plays",
           "duration": 308,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "marysays"
         },
         {
           "index": 10,
@@ -1787,7 +2008,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "julia"
         },
         {
           "index": 11,
@@ -1797,7 +2019,9 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "公轉自轉",
+          "titleZh": "公轉自轉"
         },
         {
           "index": 12,
@@ -1807,7 +2031,8 @@
           "plays": 4900000,
           "playsText": "4.9M plays",
           "duration": 236,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ainidengyuaiziji"
         },
         {
           "index": 13,
@@ -1817,7 +2042,9 @@
           "plays": 694000,
           "playsText": "694K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不可能錯過你",
+          "titleZh": "不可能錯過你"
         },
         {
           "index": 14,
@@ -1827,7 +2054,8 @@
           "plays": null,
           "playsText": null,
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "aslongasihaveyou"
         },
         {
           "index": 15,
@@ -1837,7 +2065,8 @@
           "plays": null,
           "playsText": null,
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "tattahitorinokimie"
         }
       ],
       "releaseDate": "2003-04-23",
@@ -1849,6 +2078,7 @@
       "browseId": "MPREb_KnzkWJnUnHR",
       "playlistId": "OLAK5uy_nqYBbPh7M_6XxId_lN5LxOROpmgJskEY4",
       "title": "不可思議 - Unbelievable",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2003,
       "thumbnail": "https://yt3.googleusercontent.com/V-CxN5BRGSnbfcCqIrSU8MIqjq5L6eNV6SvyQj8wjdnZgo8QQUHg7igtbZuih_N4UNj3KrleUNMoumxs=w544-h544-l90-rj",
@@ -1861,7 +2091,8 @@
           "plays": 186000,
           "playsText": "186K plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "yabirthday"
         },
         {
           "index": 2,
@@ -1871,7 +2102,8 @@
           "plays": 18000000,
           "playsText": "18M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不在"
         },
         {
           "index": 3,
@@ -1881,7 +2113,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lovelovelove"
         },
         {
           "index": 4,
@@ -1891,7 +2124,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "女朋友"
         },
         {
           "index": 5,
@@ -1901,7 +2135,8 @@
           "plays": 764000,
           "playsText": "764K plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "此刻你心裡想起誰"
         },
         {
           "index": 6,
@@ -1911,7 +2146,9 @@
           "plays": 7000,
           "playsText": "7K plays",
           "duration": 24,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不可思議電臺",
+          "titleZh": "不可思議電臺"
         },
         {
           "index": 7,
@@ -1921,7 +2158,8 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你和我"
         },
         {
           "index": 8,
@@ -1931,7 +2169,8 @@
           "plays": 23000,
           "playsText": "23K plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "whatwasithinking"
         },
         {
           "index": 9,
@@ -1941,7 +2180,8 @@
           "plays": 72000,
           "playsText": "72K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "notyouraveragethug"
         },
         {
           "index": 10,
@@ -1951,7 +2191,8 @@
           "plays": 30000,
           "playsText": "30K plays",
           "duration": 190,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不著地"
         },
         {
           "index": 11,
@@ -1961,7 +2202,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "canyoufeelmyworld"
         },
         {
           "index": 12,
@@ -1971,7 +2213,8 @@
           "plays": 213000,
           "playsText": "213K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛無所不在"
         }
       ],
       "releaseDate": "2003-10-15",
@@ -1983,6 +2226,7 @@
       "browseId": "MPREb_VrrmnrD5roe",
       "playlistId": "OLAK5uy_kw8I3PfNa1_rVdfg_7c8Volqcw0NbC5m8",
       "title": "心中的日月 - Shangri-la",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2004,
       "thumbnail": "https://yt3.googleusercontent.com/EU-dBd9n2kvEMvnvODvy5gw6x5JuMkpWcqbhNyLjzr-Xy4vdkIm4y51oqHJc0FghBBoXBET9E7FojUqs3Q=w544-h544-l90-rj",
@@ -1995,7 +2239,9 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 53,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "放開你的心",
+          "titleZh": "放開你的心 (Music Video)"
         },
         {
           "index": 2,
@@ -2005,7 +2251,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "放開你的心"
         },
         {
           "index": 3,
@@ -2015,7 +2262,8 @@
           "plays": 6800000,
           "playsText": "6.8M plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的日月"
         },
         {
           "index": 4,
@@ -2025,7 +2273,8 @@
           "plays": 699000,
           "playsText": "699K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "竹林深處"
         },
         {
           "index": 5,
@@ -2035,7 +2284,9 @@
           "plays": 25000000,
           "playsText": "25M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在那遙遠的地方",
+          "titleZh": "在那遙遠的地方 (Music Video)"
         },
         {
           "index": 6,
@@ -2045,7 +2296,8 @@
           "plays": 331000,
           "playsText": "331K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在那遙遠的地方"
         },
         {
           "index": 7,
@@ -2055,7 +2307,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌"
         },
         {
           "index": 8,
@@ -2065,7 +2318,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 186,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星座"
         },
         {
           "index": 9,
@@ -2075,7 +2329,8 @@
           "plays": 173000,
           "playsText": "173K plays",
           "duration": 177,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "過來"
         },
         {
           "index": 10,
@@ -2085,7 +2340,8 @@
           "plays": 50000000,
           "playsText": "50M plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛錯"
         },
         {
           "index": 11,
@@ -2095,7 +2351,8 @@
           "plays": 176000,
           "playsText": "176K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "followme"
         }
       ],
       "releaseDate": "2004-12-31",
@@ -2107,6 +2364,7 @@
       "browseId": "MPREb_536FOyM9gv0",
       "playlistId": "OLAK5uy_mRRZAqy2K9cKCA6T92tdnrytb5navEC1A",
       "title": "蓋世英雄 - Heroes of Earth",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2005,
       "thumbnail": "https://yt3.googleusercontent.com/GnERHf8OgIz2AfFt6aaL-9RW0lxqxzuOmbq-x-ehsIh3W8MrlwbdQIxQ3AbnDG9PzriIgKrpRhJe6X0J3Q=w544-h544-l90-rj",
@@ -2119,7 +2377,8 @@
           "plays": 788000,
           "playsText": "788K plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在梅邊"
         },
         {
           "index": 2,
@@ -2129,7 +2388,8 @@
           "plays": 10000000,
           "playsText": "10M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花田錯"
         },
         {
           "index": 3,
@@ -2139,7 +2399,8 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蓋世英雄"
         },
         {
           "index": 4,
@@ -2149,7 +2410,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 5,
@@ -2159,7 +2422,8 @@
           "plays": 256000,
           "playsText": "256K plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "完美的互動"
         },
         {
           "index": 6,
@@ -2169,7 +2433,8 @@
           "plays": 17000000,
           "playsText": "17M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛"
         },
         {
           "index": 7,
@@ -2179,7 +2444,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第一個清晨"
         },
         {
           "index": 8,
@@ -2189,7 +2455,8 @@
           "plays": 44000,
           "playsText": "44K plays",
           "duration": 179,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "哥兒們"
         },
         {
           "index": 9,
@@ -2199,7 +2466,8 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 182,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讓開"
         },
         {
           "index": 10,
@@ -2209,7 +2477,8 @@
           "plays": 470000,
           "playsText": "470K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛因為在心中"
         }
       ],
       "releaseDate": "2005-12-30",
@@ -2221,6 +2490,7 @@
       "browseId": "MPREb_NeGBvNnxWOh",
       "playlistId": "OLAK5uy_mEusS48_nmBypHaIhhOy8D9UsZgxOPihk",
       "title": "蓋世英雄 (日版) - Heroes Of Earth (Japanese Ver.)",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/IF20cE_8wghCulOJsQIGM5p00-dqkg5RB2aBySBO1t2SPLaz3D_pKxP9AgcEcXxOttM0_0ErrBRJNQVpBQ=w544-h544-l90-rj",
@@ -2233,7 +2503,8 @@
           "plays": 788000,
           "playsText": "788K plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在梅邊"
         },
         {
           "index": 2,
@@ -2243,7 +2514,8 @@
           "plays": 10000000,
           "playsText": "10M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花田錯"
         },
         {
           "index": 3,
@@ -2253,7 +2525,8 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蓋世英雄"
         },
         {
           "index": 4,
@@ -2263,7 +2536,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 5,
@@ -2273,7 +2548,8 @@
           "plays": 17000000,
           "playsText": "17M plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛"
         },
         {
           "index": 6,
@@ -2283,17 +2559,19 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第一個清晨"
         },
         {
           "index": 7,
           "title": "哥兒們 - Homies",
           "artists": "",
           "videoId": "7gEtnpTeXvM",
-          "plays": 44000,
-          "playsText": "44K plays",
+          "plays": 45000,
+          "playsText": "45K plays",
           "duration": 179,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "哥兒們"
         },
         {
           "index": 8,
@@ -2303,7 +2581,8 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 182,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讓開"
         },
         {
           "index": 9,
@@ -2313,7 +2592,8 @@
           "plays": 470000,
           "playsText": "470K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛因為在心中"
         },
         {
           "index": 10,
@@ -2323,7 +2603,9 @@
           "plays": 158000,
           "playsText": "158K plays",
           "duration": 324,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛にゆこう",
+          "titleZh": "愛にゆこう"
         }
       ],
       "releaseDate": "2005-12-30",
@@ -2335,6 +2617,7 @@
       "browseId": "MPREb_OKBcAsvTq6U",
       "playlistId": "OLAK5uy_lAUpcs57AnTngoYB_ZMM5DJ4FfVaVciDY",
       "title": "As Time Goes By",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/kpjPHdpz3djE3dwGjAXyycHCR3jXAkHBmWCS-lN-PqdkblfH1xGeX3rQxWvgtHr8BYmlMXvRFGIW3OS3=w544-h544-l90-rj",
@@ -2347,7 +2630,8 @@
           "plays": 50000,
           "playsText": "50K plays",
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "astimegoesby"
         }
       ],
       "releaseDate": "2006-10-30",
@@ -2359,6 +2643,7 @@
       "browseId": "MPREb_Q2f1Yi4Bjcj",
       "playlistId": "OLAK5uy_lCTzFKXIUTt4PFx4uKHZLiSXtIwfvFHuU",
       "title": "2006 Heroes of Earth Live Concert",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/d-2gl-Za8hDydUa8cIKsaDEFrrV6lsj5RlfSvaEMjTCGsKS1TCZSXBFI3_p9FtAP-HtoGVjlaarDBtY=w544-h544-l90-rj",
@@ -2371,7 +2656,8 @@
           "plays": 6600,
           "playsText": "6.6K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "overturegaishiyingxiong#live"
         },
         {
           "index": 2,
@@ -2381,7 +2667,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 680,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "gaishiyingxiongfangkainidexinainidengyuaiziji#live"
         },
         {
           "index": 3,
@@ -2391,7 +2678,9 @@
           "plays": 169000,
           "playsText": "169K plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "公轉自轉#live",
+          "titleZh": "公轉自轉 (Live)"
         },
         {
           "index": 4,
@@ -2401,7 +2690,9 @@
           "plays": 6600,
           "playsText": "6.6K plays",
           "duration": 477,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的就是你#live",
+          "titleZh": "愛的就是你 (Live)"
         },
         {
           "index": 5,
@@ -2411,7 +2702,9 @@
           "plays": 116000,
           "playsText": "116K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye#live",
+          "titleZh": "Kiss Goodbye (演奏版) (Live)"
         },
         {
           "index": 6,
@@ -2421,7 +2714,9 @@
           "plays": 103000,
           "playsText": "103K plays",
           "duration": 322,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "永遠的第一天#live",
+          "titleZh": "永遠的第一天 (Live)"
         },
         {
           "index": 7,
@@ -2431,7 +2726,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 100,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "djpart#live"
         },
         {
           "index": 8,
@@ -2441,7 +2737,8 @@
           "plays": 23000,
           "playsText": "23K plays",
           "duration": 356,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "yabirthdaywojiuxihuannupengyou#live"
         },
         {
           "index": 9,
@@ -2451,7 +2748,9 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 381,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "情敵貝多芬#live",
+          "titleZh": "情敵貝多芬 (Live)"
         },
         {
           "index": 10,
@@ -2461,7 +2760,9 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 117,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第一個清晨#live",
+          "titleZh": "第一個清晨 (Live)"
         },
         {
           "index": 11,
@@ -2471,7 +2772,9 @@
           "plays": 4800,
           "playsText": "4.8K plays",
           "duration": 146,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不要害怕#live",
+          "titleZh": "不要害怕 (Live)"
         },
         {
           "index": 12,
@@ -2481,7 +2784,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "dachengxiaoai#live"
         },
         {
           "index": 13,
@@ -2491,7 +2795,8 @@
           "plays": 2200,
           "playsText": "2.2K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "followme#live"
         },
         {
           "index": 14,
@@ -2501,7 +2806,8 @@
           "plays": 2200,
           "playsText": "2.2K plays",
           "duration": 213,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "why#live"
         },
         {
           "index": 15,
@@ -2511,7 +2817,9 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌#live",
+          "titleZh": "一首簡單的歌 (Live)"
         },
         {
           "index": 16,
@@ -2521,7 +2829,9 @@
           "plays": 430000,
           "playsText": "430K plays",
           "duration": 309,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果你聽見我的歌#live",
+          "titleZh": "如果你聽見我的歌 (Live)"
         },
         {
           "index": 17,
@@ -2531,7 +2841,9 @@
           "plays": 402000,
           "playsText": "402K plays",
           "duration": 341,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流淚手心#live",
+          "titleZh": "流淚手心 (Live)"
         },
         {
           "index": 18,
@@ -2541,7 +2853,8 @@
           "plays": 29000,
           "playsText": "29K plays",
           "duration": 355,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lovelovelove#live"
         },
         {
           "index": 19,
@@ -2551,7 +2864,9 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不在#live",
+          "titleZh": "你不在 (Live)"
         },
         {
           "index": 20,
@@ -2561,7 +2876,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 383,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove#live"
         },
         {
           "index": 21,
@@ -2571,7 +2887,8 @@
           "plays": 71000,
           "playsText": "71K plays",
           "duration": 318,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "julia#live"
         },
         {
           "index": 22,
@@ -2581,7 +2898,9 @@
           "plays": 65000,
           "playsText": "65K plays",
           "duration": 300,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在梅邊#live",
+          "titleZh": "在梅邊 (Live)"
         },
         {
           "index": 23,
@@ -2591,7 +2910,9 @@
           "plays": 32000,
           "playsText": "32K plays",
           "duration": 157,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花田錯#live",
+          "titleZh": "花田錯 (Live)"
         },
         {
           "index": 24,
@@ -2601,7 +2922,9 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的日月#live",
+          "titleZh": "心中的日月 (Live)"
         },
         {
           "index": 25,
@@ -2611,7 +2934,9 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 298,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在那遙遠的地方#live",
+          "titleZh": "在那遙遠的地方 (Live)"
         },
         {
           "index": 26,
@@ -2621,7 +2946,9 @@
           "plays": 3000,
           "playsText": "3K plays",
           "duration": 418,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "龍的傳人#live",
+          "titleZh": "龍的傳人 (Live)"
         },
         {
           "index": 27,
@@ -2631,7 +2958,9 @@
           "plays": 3400,
           "playsText": "3.4K plays",
           "duration": 593,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不可能錯過你#live",
+          "titleZh": "不可能錯過你 (Live)"
         },
         {
           "index": 28,
@@ -2641,7 +2970,9 @@
           "plays": 135000,
           "playsText": "135K plays",
           "duration": 345,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "唯一#live",
+          "titleZh": "唯一 (Live)"
         }
       ],
       "releaseDate": null,
@@ -2653,6 +2984,7 @@
       "browseId": "MPREb_oyLdijq0iRq",
       "playlistId": "OLAK5uy_luLNFdCbKuXvoTlxCInXCipDe0M7oUgu4",
       "title": "2006 KTV點唱精選國語總排行 - BEST CHINESE KARAOKE HITS 2006",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/SmVaJgWJhcoFAeZ6GFSStqs9qnD03XmivEoTwFK7Flyjja49PIopDp2SW-rtKrGjt34ozL82YI-8a8zFjA=w544-h544-l90-rj",
@@ -2665,7 +2997,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第一個清晨"
         },
         {
           "index": 2,
@@ -2675,7 +3008,8 @@
           "plays": 17000000,
           "playsText": "17M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛"
         },
         {
           "index": 3,
@@ -2685,7 +3019,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         }
       ],
       "releaseDate": null,
@@ -2697,6 +3033,7 @@
       "browseId": "MPREb_o3RVvFvVsiq",
       "playlistId": "OLAK5uy_nqr7y1EB7AsDZRLBKfi6VZ8FbuxEyj_vU",
       "title": "2006 MP3人氣超強總冠軍 - BEST CHINESE MP3 2006",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/qwSr4zeyTT1euww0dmawW3mazHRbgUC1pqo4nU74Eh_4Xw5JRFPuSuWXv5xyxfB-yujk7jNs6I8ZbjzT=w544-h544-l90-rj",
@@ -2709,7 +3046,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 2,
@@ -2719,7 +3058,8 @@
           "plays": 25000000,
           "playsText": "25M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove"
         },
         {
           "index": 3,
@@ -2729,7 +3069,8 @@
           "plays": 17000000,
           "playsText": "17M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛"
         }
       ],
       "releaseDate": null,
@@ -2741,6 +3082,7 @@
       "browseId": "MPREb_xG4LL2YCRMJ",
       "playlistId": "OLAK5uy_muj9bZBpspLlJBETxDmOC6QwBbse9ghgA",
       "title": "2006 韓劇超強情歌精選NO.1 - NO.1 CHINESE THEME SONGS FOR KOREAN TV",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/Xrt8sd1e1MDlw2lBoBY2F3x9CYwFGog0rhUAteYGixjYlqMhGZezBrTXvXdfYhUwrOGXZqYo49w9MlGc=w544-h544-l90-rj",
@@ -2753,7 +3095,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌"
         },
         {
           "index": 2,
@@ -2763,7 +3106,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 3,
@@ -2773,7 +3118,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第一個清晨"
         }
       ],
       "releaseDate": null,
@@ -2785,6 +3131,7 @@
       "browseId": "MPREb_fIMmDVcLSMh",
       "playlistId": "OLAK5uy_mxnWq64tWIvJut9rmX3J1TAlpEh-9doFw",
       "title": "全民發燒偶像劇冠軍主題曲 Top 32 - HOTTEST TV DRAMA THEME SONGS Top 32",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/I7dw01_HANhOfuR-kiJ_rCBm00BBynK7xVcB7Yxf3BY37iAwIiEy4P287asrXLMk7wvR62BRJPtVDYyl=w544-h544-l90-rj",
@@ -2797,7 +3144,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌"
         },
         {
           "index": 2,
@@ -2807,7 +3155,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第一個清晨"
         },
         {
           "index": 3,
@@ -2817,7 +3166,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         }
       ],
       "releaseDate": null,
@@ -2829,6 +3180,7 @@
       "browseId": "MPREb_eoCV8XzggnD",
       "playlistId": "OLAK5uy_nxKj08h4GTV3cTnrzkS-KUqxNkfSDZvRU",
       "title": "為你而聲 - Wei Ni Er Sheng",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2006,
       "thumbnail": "https://yt3.googleusercontent.com/cfNJRVI93CRu1J9hiK46gLlHbFiK_6lgVo2lFZVLHjKZrnF-pJvpjrwob3DI7q-mtutSZeCEDtvT-YWs=w544-h544-l90-rj",
@@ -2841,7 +3193,8 @@
           "plays": 5800,
           "playsText": "5.8K plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花田錯"
         },
         {
           "index": 2,
@@ -2851,7 +3204,8 @@
           "plays": 350,
           "playsText": "350 plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye"
         }
       ],
       "releaseDate": null,
@@ -2863,6 +3217,7 @@
       "browseId": "MPREb_6UDXDlo81s1",
       "playlistId": "OLAK5uy_nhl-8ywt9w17RhjVE8Sn09gY8hnnmzJwY",
       "title": "戲出東方 - OPERA OF THE EAST",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/gzn1186uWbbIaqDQQV6faFJOUawUrCsY7byYORhbfvhxxz-E0goAjEBTaGLIG_pZ0flT2Z9wsuYKSO0S=w544-h544-l90-rj",
@@ -2875,7 +3230,8 @@
           "plays": 41000,
           "playsText": "41K plays",
           "duration": 166,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "戲出東方"
         }
       ],
       "releaseDate": "2007-05-01",
@@ -2887,6 +3243,7 @@
       "browseId": "MPREb_Mmrsr0TH5UH",
       "playlistId": "OLAK5uy_lODMzBLM8_JW7kFqJos9_xHIcgNxiUvZk",
       "title": "改變自己 - Change Me",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/QeikzpDJ_yl4IFWX_urt-gfVqs3HEdVv84LQkRYq77iCdNF4vRRb3NQWOkuImhkSoaki67VUVfgbsWyY1w=w544-h544-l90-rj",
@@ -2899,7 +3256,8 @@
           "plays": 46000,
           "playsText": "46K plays",
           "duration": 32,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "intro"
         },
         {
           "index": 2,
@@ -2909,7 +3267,8 @@
           "plays": 7800000,
           "playsText": "7.8M plays",
           "duration": 196,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "改變自己"
         },
         {
           "index": 3,
@@ -2919,7 +3278,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 316,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "落葉歸根"
         },
         {
           "index": 4,
@@ -2929,7 +3289,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 21,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "創作前言"
         },
         {
           "index": 5,
@@ -2939,7 +3300,8 @@
           "plays": 16000000,
           "playsText": "16M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我們的歌"
         },
         {
           "index": 6,
@@ -2949,7 +3311,8 @@
           "plays": 9200000,
           "playsText": "9.2M plays",
           "duration": 167,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是我心內的一首歌"
         },
         {
           "index": 7,
@@ -2959,7 +3322,8 @@
           "plays": 431000,
           "playsText": "431K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛在哪裡"
         },
         {
           "index": 8,
@@ -2969,7 +3333,8 @@
           "plays": 283000,
           "playsText": "283K plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "cockneygirl"
         },
         {
           "index": 9,
@@ -2979,7 +3344,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不完整的旋律"
         },
         {
           "index": 10,
@@ -2989,7 +3355,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的鼓勵"
         },
         {
           "index": 11,
@@ -2999,7 +3366,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 193,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "華人萬歲#live"
         },
         {
           "index": 12,
@@ -3009,7 +3377,8 @@
           "plays": 156000,
           "playsText": "156K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星期六的深夜"
         }
       ],
       "releaseDate": "2007-07-13",
@@ -3021,6 +3390,7 @@
       "browseId": "MPREb_3DJO2NSObCz",
       "playlistId": "OLAK5uy_kc3xRKeeAjUNTcjvuhV-bj5l02AKCQOds",
       "title": "2006 來電答鈴國語歌曲排行總冠軍 - 2006 Top Ranking Mandarin Ringback Tones",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/3p2ES1yx67ApfqHW-ICX2lb6SLN9Wy1dO1SYfjO5v0qExXoZ66mdvAHjQrQ5QhQ8HeliT7REyf63Vxl-rw=w544-h544-l90-rj",
@@ -3033,7 +3403,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 2,
@@ -3043,7 +3415,8 @@
           "plays": 17000000,
           "playsText": "17M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛"
         },
         {
           "index": 3,
@@ -3053,7 +3426,8 @@
           "plays": 25000000,
           "playsText": "25M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove"
         }
       ],
       "releaseDate": null,
@@ -3065,6 +3439,7 @@
       "browseId": "MPREb_ipogKXE9blu",
       "playlistId": "OLAK5uy_n3Ep7Iau9yk2mMxsLSDedECkVMUhJ9s70",
       "title": "Forever Love 34首動人國語精選情歌 - Forever Love - Forever Love 34 Best Mandarin Hits - Forever Love",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/nr4SQeenbmbu-Y41iM3bI_qrG-gwE2K2MU0IMxMUeflySTRtMhqxzWS39oVQnW7c2KtqXe3j8M9Oe9A=w544-h544-l90-rj",
@@ -3077,7 +3452,9 @@
           "plays": 25000000,
           "playsText": "25M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove",
+          "titleZh": "Forever Love"
         }
       ],
       "releaseDate": null,
@@ -3089,6 +3466,7 @@
       "browseId": "MPREb_kGoGviPoJyk",
       "playlistId": "OLAK5uy_mpAsT-HIgDaov_F0eaFFqmkwA-aPlNqXU",
       "title": "K情歌 - Forever Love - Our Love Songs - Forever Love",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/R8Mxf874_a60jPWc_ACVZ49WxfTNEmjj8-tAiy96yRr_MlIbT01kFdd6M4g7Cn66sFOSFkKSfQNWMVIV=w544-h544-l90-rj",
@@ -3101,7 +3479,9 @@
           "plays": 25000000,
           "playsText": "25M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove",
+          "titleZh": "Forever Love"
         }
       ],
       "releaseDate": null,
@@ -3113,6 +3493,7 @@
       "browseId": "MPREb_4xvmWPSvfXf",
       "playlistId": "OLAK5uy_k341YO8VU5ueLDqQGGcwIdW7ieYQb1Jvw",
       "title": "K情歌 2 - 你不在 - Our Love Songs 2 - You're Not Here",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/PP0IaKFV1e_Kzlz4qyZWO9e9iBNplCOgDt5FED8sKAC3Qc-NiEEBfULmiuyy0B9lD91P4qqwbPtvkzs=w544-h544-l90-rj",
@@ -3125,7 +3506,9 @@
           "plays": 18000000,
           "playsText": "18M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不在",
+          "titleZh": "你不在"
         }
       ],
       "releaseDate": null,
@@ -3137,6 +3520,7 @@
       "browseId": "MPREb_JHB5UMZUJCq",
       "playlistId": "OLAK5uy_kDg8m7GCROvGZ7JCLebTkdmpqzcznk18g",
       "title": "戀愛占星音樂全精選 - ASTROLOGY ALBUM OF ROMANCE",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/nUfVLZ5LLZaStTubz77GPCxpTgJJDLvFwu--gDg81Kna1u3CIIIj3_BederlI3Ymsgo_y6HOP55ygCbm=w544-h544-l90-rj",
@@ -3149,7 +3533,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 186,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星座"
         },
         {
           "index": 2,
@@ -3159,7 +3544,8 @@
           "plays": 50000000,
           "playsText": "50M plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛錯"
         },
         {
           "index": 3,
@@ -3169,7 +3555,8 @@
           "plays": 18000000,
           "playsText": "18M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不在"
         }
       ],
       "releaseDate": null,
@@ -3181,6 +3568,7 @@
       "browseId": "MPREb_3FocwcCmVn1",
       "playlistId": "OLAK5uy_kLl_Pl62w79NTGpE4wtXK_dyVW38z2_G0",
       "title": "男女情歌對唱冠軍全記錄 - 完美的互動 - Greatest Duets : a Love Songs Collection - Perfect Interaction",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2007,
       "thumbnail": "https://yt3.googleusercontent.com/3Q1NQHUBBQoh1IPfhJZzEpal3O4IHyN3WL7nneilkcZEaD24DiRDJCeifviM6QzQeB_wLGUVWuNjYQKO=w544-h544-l90-rj",
@@ -3193,7 +3581,9 @@
           "plays": 256000,
           "playsText": "256K plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "完美的互動",
+          "titleZh": "完美的互動"
         }
       ],
       "releaseDate": null,
@@ -3205,6 +3595,7 @@
       "browseId": "MPREb_5OvLMIa1nxD",
       "playlistId": "OLAK5uy_l7lP0y2brnQ528HfJEV7hcyP6G4r6lPZo",
       "title": "心跳 - Heart Beat",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/qMhnyKJM9yR31KCN4tB-DMakSLyotP7wQflnDdCarDnnfgctogorL8Y2m7U7fosE-Sp6yvNk1tuWBgyx1w=w544-h544-l90-rj",
@@ -3217,7 +3608,8 @@
           "plays": 55000,
           "playsText": "55K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛得得體"
         },
         {
           "index": 2,
@@ -3227,7 +3619,8 @@
           "plays": 36000000,
           "playsText": "36M plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳"
         },
         {
           "index": 3,
@@ -3237,7 +3630,8 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "春雨裡洗過的太陽"
         },
         {
           "index": 4,
@@ -3247,7 +3641,8 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 300,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "everything"
         },
         {
           "index": 5,
@@ -3257,7 +3652,8 @@
           "plays": 410000,
           "playsText": "410K plays",
           "duration": 188,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我完全沒有任何理由理你"
         },
         {
           "index": 6,
@@ -3267,7 +3663,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個天堂"
         },
         {
           "index": 7,
@@ -3277,7 +3674,8 @@
           "plays": 42000,
           "playsText": "42K plays",
           "duration": 178,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "玩偶"
         },
         {
           "index": 8,
@@ -3287,7 +3685,8 @@
           "plays": null,
           "playsText": "腳本 - Screenplay",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "腳本"
         },
         {
           "index": 9,
@@ -3297,7 +3696,8 @@
           "plays": 41000,
           "playsText": "41K plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "競爭對手"
         },
         {
           "index": 10,
@@ -3307,7 +3707,8 @@
           "plays": 494000,
           "playsText": "494K plays",
           "duration": 156,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "搖滾怎麼了"
         }
       ],
       "releaseDate": "2008-12-26",
@@ -3319,6 +3720,7 @@
       "browseId": "MPREb_3J7xUKVcxHF",
       "playlistId": "OLAK5uy_mxraT2yutfczS4u5rmeBl11MTWLWBmH3A",
       "title": "K情歌 4 冠軍主題歌 - 一首簡單的歌 - The Champion Theme Songs - A Simple Song",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/a7tLmyRIjI6b7BGsz4BnnGNOZIgkhjn7-lnBam5Dk3MqKcloUGV3PtZHR-7wBnCFi31sv7Xqkjv54zMUmA=w544-h544-l90-rj",
@@ -3331,7 +3733,9 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌",
+          "titleZh": "一首簡單的歌"
         }
       ],
       "releaseDate": null,
@@ -3343,6 +3747,7 @@
       "browseId": "MPREb_rJJbdxBChz0",
       "playlistId": "OLAK5uy_mZ8x-k-3Jtt3pna-l8Io_a1dtKk9Tko7M",
       "title": "尼康 + 王力宏限量版 - NiKon + Leehom Limited Edition",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/T511NDXNQ8hJ4Uu-qgICtsBy4ytOC9tctuIxlY2QymLaXfDs-cR-P8Ql12z8SdxN-L4zqpVIf4zKI00=w544-h544-l90-rj",
@@ -3355,7 +3760,8 @@
           "plays": 495000,
           "playsText": "495K plays",
           "duration": 156,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "搖滾怎麼了"
         },
         {
           "index": 2,
@@ -3365,7 +3771,8 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蓋世英雄#live"
         },
         {
           "index": 3,
@@ -3375,7 +3782,8 @@
           "plays": 920,
           "playsText": "920 plays",
           "duration": 189,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "放開你的心#live"
         },
         {
           "index": 4,
@@ -3385,7 +3793,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 298,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove#live"
         },
         {
           "index": 5,
@@ -3395,7 +3804,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 150,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛#live"
         },
         {
           "index": 6,
@@ -3405,7 +3815,9 @@
           "plays": 116000,
           "playsText": "116K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye#live",
+          "titleZh": "Kiss Goodbye (演奏版) (Live)"
         },
         {
           "index": 7,
@@ -3415,7 +3827,8 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌#live"
         },
         {
           "index": 8,
@@ -3425,7 +3838,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 150,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的日月#live"
         }
       ],
       "releaseDate": null,
@@ -3437,6 +3851,7 @@
       "browseId": "MPREb_1NkkgRKfh2V",
       "playlistId": "OLAK5uy_lWgF8mKPU0orEYXvuave8wAzMFQTqbLdM",
       "title": "我...真的受傷了 - Forever Love - I'm Hurt - Forever Love",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/78OFQWfMWtJ90jYqJvISOHlNMHkk_h7tBezDDSCO3Nufl0vv_aHVCCt2cx2g05_jSBjWwgaaEsE_l6NR=w544-h544-l90-rj",
@@ -3449,7 +3864,9 @@
           "plays": 25000000,
           "playsText": "25M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove",
+          "titleZh": "Forever Love"
         }
       ],
       "releaseDate": null,
@@ -3461,6 +3878,7 @@
       "browseId": "MPREb_fP4OBWQQMkT",
       "playlistId": "OLAK5uy_nPY8yxe6X6ldhQ-0EDwOpyOMU58gjakgk",
       "title": "Man in the Mirror",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/DrTrG9ELxrxlIuLa46yEAIhQR4f0twyBQ7E5Os64sZq1CET7HWPKm2i-ipJX82405UvtmwoarpYLJzqM0g=w544-h544-l90-rj",
@@ -3473,7 +3891,8 @@
           "plays": 214000,
           "playsText": "214K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "maninthemirror"
         }
       ],
       "releaseDate": "2009-08-22",
@@ -3485,6 +3904,7 @@
       "browseId": "MPREb_a5TZuFSKzfJ",
       "playlistId": "OLAK5uy_mULCmTcca5E44lB9YXA7wqfJ6kNiJF1CQ",
       "title": "K情歌 6 - Our Love Songs 6",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/Q8_yUXjLxZwYoHA8VuB7IBgGTrjicgXardy4gBnej1KQUNnE_NOUQ_Ne733WF34YcGlURF3HbKN9oss=w544-h544-l90-rj",
@@ -3497,7 +3917,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 2,
@@ -3507,7 +3929,8 @@
           "plays": 50000000,
           "playsText": "50M plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛錯"
         }
       ],
       "releaseDate": null,
@@ -3519,6 +3942,7 @@
       "browseId": "MPREb_fc1tqMFRk3n",
       "playlistId": "OLAK5uy_mQEuN296H0SBuQXc9NecnOCLKiupIWX5Q",
       "title": "K情歌 7 - Our Love Songs 7",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/Z_neOE0PtjMiTWFJx31W1uKL_6ArtiHLDjl37dy30yNrGxVnMNhPEIRNw5Wba4YCXT2cfg1bH2KW8qU=w544-h544-l90-rj",
@@ -3531,7 +3955,8 @@
           "plays": 6800000,
           "playsText": "6.8M plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的日月"
         },
         {
           "index": 2,
@@ -3541,7 +3966,8 @@
           "plays": 10000000,
           "playsText": "10M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花田錯"
         }
       ],
       "releaseDate": null,
@@ -3553,6 +3979,7 @@
       "browseId": "MPREb_PU4JNvB56dC",
       "playlistId": "OLAK5uy_meaBwfb7O-DxIO2frmOG8Ep1k7lQujSpw",
       "title": "Wang Leehom 2008 MUSIC-MAN World Tour (Live)",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/Wp4S2YbnmetmgkoZpiR9Oohs4PwlzeXO88DtyIw2ascQSZWbspOjr4Lsce9HOQ9E46iCMQSo_DYrZGb0CQ=w544-h544-l90-rj",
@@ -3565,7 +3992,8 @@
           "plays": 8200,
           "playsText": "8.2K plays",
           "duration": 141,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "overture#live"
         },
         {
           "index": 2,
@@ -3575,7 +4003,8 @@
           "plays": 7900,
           "playsText": "7.9K plays",
           "duration": 180,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "yaogunzenmoliao#live"
         },
         {
           "index": 3,
@@ -3585,7 +4014,8 @@
           "plays": 6000,
           "playsText": "6K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "why#live"
         },
         {
           "index": 4,
@@ -3595,7 +4025,9 @@
           "plays": 55000,
           "playsText": "55K plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花田錯#live",
+          "titleZh": "花田錯 (Live)"
         },
         {
           "index": 5,
@@ -3605,7 +4037,9 @@
           "plays": 9000,
           "playsText": "9K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "龍的傳人#live",
+          "titleZh": "龍的傳人 (Live)"
         },
         {
           "index": 6,
@@ -3615,7 +4049,9 @@
           "plays": 270000,
           "playsText": "270K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛錯#live",
+          "titleZh": "愛錯 (Live)"
         },
         {
           "index": 7,
@@ -3625,7 +4061,8 @@
           "plays": 43000,
           "playsText": "43K plays",
           "duration": 325,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove#live"
         },
         {
           "index": 8,
@@ -3635,7 +4072,8 @@
           "plays": 22000,
           "playsText": "22K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "anquangan#live"
         },
         {
           "index": 9,
@@ -3645,7 +4083,9 @@
           "plays": 48000,
           "playsText": "48K plays",
           "duration": 199,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第一個清晨#live",
+          "titleZh": "第一個清晨 (Live)"
         },
         {
           "index": 10,
@@ -3655,7 +4095,9 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流淚手心#live",
+          "titleZh": "流淚手心 (Live)"
         },
         {
           "index": 11,
@@ -3665,7 +4107,9 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果你聽見我的歌#live",
+          "titleZh": "如果你聽見我的歌 (Live)"
         },
         {
           "index": 12,
@@ -3675,7 +4119,9 @@
           "plays": 7500,
           "playsText": "7.5K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "竹林深處#live",
+          "titleZh": "竹林深處 (Live)"
         },
         {
           "index": 13,
@@ -3685,7 +4131,8 @@
           "plays": 4300,
           "playsText": "4.3K plays",
           "duration": 197,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "nupengyou#live"
         },
         {
           "index": 14,
@@ -3695,7 +4142,9 @@
           "plays": 4400,
           "playsText": "4.4K plays",
           "duration": 189,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛得得體#live",
+          "titleZh": "愛得得體 (Live)"
         },
         {
           "index": 15,
@@ -3705,7 +4154,9 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "改變自己#live",
+          "titleZh": "改變自己 (Live)"
         },
         {
           "index": 16,
@@ -3715,7 +4166,9 @@
           "plays": 369000,
           "playsText": "369K plays",
           "duration": 328,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "落葉歸根#live",
+          "titleZh": "落葉歸根 (Live)"
         },
         {
           "index": 17,
@@ -3725,7 +4178,9 @@
           "plays": 84000,
           "playsText": "84K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌#live",
+          "titleZh": "一首簡單的歌 (Live)"
         },
         {
           "index": 18,
@@ -3735,7 +4190,9 @@
           "plays": 115000,
           "playsText": "115K plays",
           "duration": 305,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不在#live",
+          "titleZh": "你不在 (Live)"
         },
         {
           "index": 19,
@@ -3745,7 +4202,9 @@
           "plays": 78000,
           "playsText": "78K plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "唯一#live",
+          "titleZh": "唯一 (Live)"
         },
         {
           "index": 20,
@@ -3755,7 +4214,9 @@
           "plays": 75000,
           "playsText": "75K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的鼓勵#live",
+          "titleZh": "愛的鼓勵 (Live)"
         },
         {
           "index": 21,
@@ -3765,7 +4226,8 @@
           "plays": 64000,
           "playsText": "64K plays",
           "duration": 180,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "canyoufeelmyworld#live"
         },
         {
           "index": 22,
@@ -3775,7 +4237,9 @@
           "plays": 3600,
           "playsText": "3.6K plays",
           "duration": 147,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我完全沒有任何理由理你#live",
+          "titleZh": "我完全沒有任何理由理你 (Live)"
         },
         {
           "index": 23,
@@ -3785,7 +4249,9 @@
           "plays": 5800,
           "playsText": "5.8K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在梅邊#live",
+          "titleZh": "在梅邊 (Live)"
         },
         {
           "index": 24,
@@ -3795,7 +4261,9 @@
           "plays": 5300,
           "playsText": "5.3K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蓋世英雄#live",
+          "titleZh": "蓋世英雄 (Live)"
         },
         {
           "index": 25,
@@ -3805,7 +4273,9 @@
           "plays": 33000,
           "playsText": "33K plays",
           "duration": 366,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的日月#live",
+          "titleZh": "心中的日月 (Live)"
         },
         {
           "index": 26,
@@ -3815,7 +4285,9 @@
           "plays": 5200,
           "playsText": "5.2K plays",
           "duration": 157,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "放開你的心#live",
+          "titleZh": "放開你的心 (Live)"
         },
         {
           "index": 27,
@@ -3825,7 +4297,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ainidengyuaiziji#live"
         },
         {
           "index": 28,
@@ -3835,7 +4308,8 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 317,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "dachengxiaoai#live"
         },
         {
           "index": 29,
@@ -3845,7 +4319,8 @@
           "plays": 30000,
           "playsText": "30K plays",
           "duration": 130,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "everything#live"
         },
         {
           "index": 30,
@@ -3855,7 +4330,9 @@
           "plays": 108000,
           "playsText": "108K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye#live",
+          "titleZh": "Kiss Goodbye (演奏版) (Live)"
         },
         {
           "index": 31,
@@ -3865,7 +4342,8 @@
           "plays": 2800,
           "playsText": "2.8K plays",
           "duration": 213,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "yaogunzenmoliao#live"
         }
       ],
       "releaseDate": null,
@@ -3877,6 +4355,7 @@
       "browseId": "MPREb_suyzMlOcYkc",
       "playlistId": "OLAK5uy_kLy9ALK3fLPfAH0f5VwCknuSnNRBEKDy4",
       "title": "大馬Music Man 紀念精選輯 - \"Music Man\" concert in KL 2009 Best Selection",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/IS86JgydzSPmKvo3y0xeOLT1MjS53xPnW2UdKXGB_a4MtZWUifZRGoQ90TCtEV8s08H5l0Kliu4stqs=w544-h544-l90-rj",
@@ -3889,7 +4368,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不完整的旋律"
         },
         {
           "index": 2,
@@ -3899,7 +4379,8 @@
           "plays": 9200000,
           "playsText": "9.2M plays",
           "duration": 167,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是我心內的一首歌"
         },
         {
           "index": 3,
@@ -3909,7 +4390,8 @@
           "plays": 16000000,
           "playsText": "16M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我們的歌"
         },
         {
           "index": 4,
@@ -3919,7 +4401,8 @@
           "plays": 7800000,
           "playsText": "7.8M plays",
           "duration": 196,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "改變自己"
         },
         {
           "index": 5,
@@ -3929,7 +4412,8 @@
           "plays": 25000000,
           "playsText": "25M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove"
         },
         {
           "index": 6,
@@ -3939,7 +4423,8 @@
           "plays": 17000000,
           "playsText": "17M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛"
         },
         {
           "index": 7,
@@ -3949,7 +4434,8 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你和我"
         },
         {
           "index": 8,
@@ -3959,7 +4445,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 9,
@@ -3969,7 +4457,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌"
         },
         {
           "index": 10,
@@ -3979,7 +4468,8 @@
           "plays": 764000,
           "playsText": "764K plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "此刻你心裡想起誰"
         },
         {
           "index": 11,
@@ -3989,7 +4479,8 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蓋世英雄"
         },
         {
           "index": 12,
@@ -3999,7 +4490,8 @@
           "plays": 494000,
           "playsText": "494K plays",
           "duration": 156,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "搖滾怎麼了"
         },
         {
           "index": 13,
@@ -4009,7 +4501,8 @@
           "plays": 50000000,
           "playsText": "50M plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛錯"
         },
         {
           "index": 14,
@@ -4019,7 +4512,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "canyoufeelmyworld"
         },
         {
           "index": 15,
@@ -4029,7 +4523,8 @@
           "plays": 42000,
           "playsText": "42K plays",
           "duration": 178,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "玩偶"
         },
         {
           "index": 16,
@@ -4039,7 +4534,8 @@
           "plays": 789000,
           "playsText": "789K plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在梅邊"
         },
         {
           "index": 17,
@@ -4049,7 +4545,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個天堂"
         },
         {
           "index": 18,
@@ -4059,7 +4556,8 @@
           "plays": 6800000,
           "playsText": "6.8M plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的日月"
         },
         {
           "index": 19,
@@ -4069,7 +4567,8 @@
           "plays": 18000000,
           "playsText": "18M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不在"
         },
         {
           "index": 20,
@@ -4079,7 +4578,8 @@
           "plays": 10000000,
           "playsText": "10M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花田錯"
         },
         {
           "index": 21,
@@ -4089,7 +4589,8 @@
           "plays": 36000000,
           "playsText": "36M plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳"
         }
       ],
       "releaseDate": null,
@@ -4101,6 +4602,7 @@
       "browseId": "MPREb_i7FcfJuuUUJ",
       "playlistId": "OLAK5uy_n5d62Mvy_he1ekawRiFr5h3tA0DXuIs58",
       "title": "寂寞邊境月光愛人情歌精選 - Moon Lover Love Songs Collection",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/VB0xzuTr491CLzf1PZRvgRaMYytAodyZhOMyOMf8-Y9-GAwvLSlth5zcKFin8qKTZGqQ8XWc-Qm9_HYX=w544-h544-l90-rj",
@@ -4113,7 +4615,8 @@
           "plays": 6800000,
           "playsText": "6.8M plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的日月"
         },
         {
           "index": 2,
@@ -4123,7 +4626,8 @@
           "plays": 156000,
           "playsText": "156K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星期六的深夜"
         }
       ],
       "releaseDate": null,
@@ -4135,6 +4639,7 @@
       "browseId": "MPREb_QjQaUxzJ5pL",
       "playlistId": "OLAK5uy_kU_7VAuzxaJl24Rz414chpruvWjLu86gk",
       "title": "心情。出口 - OUR FAVORITE SONGS",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/NTQYdPy80Oz2EqGzv-pz7C1jNMxRoiOFbrvneggrt-C1dDYczLo5RcQhcbbRsA9yydhsiWMFF9JPj4Zr=w544-h544-l90-rj",
@@ -4147,7 +4652,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 2,
@@ -4157,7 +4664,8 @@
           "plays": 36000000,
           "playsText": "36M plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳"
         }
       ],
       "releaseDate": null,
@@ -4169,6 +4677,7 @@
       "browseId": "MPREb_cmbuMEi6cJ9",
       "playlistId": "OLAK5uy_lEod5_uSOpJQUCeCW9DNatdy3ILPGACCU",
       "title": "摩登搖滾 - MODERN ROCK",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/h9J3O45hOkAOOglkrOqn1T4LQ7nSr8TeEfJwIpr8trHVW9RHuASbeEQbToMhfLmm6rsQzYU0ER7fWnmS=w544-h544-l90-rj",
@@ -4181,7 +4690,8 @@
           "plays": 494000,
           "playsText": "494K plays",
           "duration": 156,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "搖滾怎麼了"
         },
         {
           "index": 2,
@@ -4191,7 +4701,8 @@
           "plays": 55000,
           "playsText": "55K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛得得體"
         }
       ],
       "releaseDate": null,
@@ -4203,6 +4714,7 @@
       "browseId": "MPREb_f5JnEu7YC8F",
       "playlistId": "OLAK5uy_kn_fOPcE68M0fCFrH89kVmSnm6tKDkYy4",
       "title": "十八般武藝 - 18 Martial Arts",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2010,
       "thumbnail": "https://yt3.googleusercontent.com/lNeVfTrx6w_80BK4cOhiTC0DcSbFG4CdlDVRZ7gotNrqMZ5yfKGA-Rn8e7ykY9A1YbQHmIOFi5kgQwLw=w544-h544-l90-rj",
@@ -4215,7 +4727,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 124,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "dragondance"
         },
         {
           "index": 2,
@@ -4225,7 +4738,8 @@
           "plays": 69000,
           "playsText": "69K plays",
           "duration": 196,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "杜uloveme"
         },
         {
           "index": 3,
@@ -4235,7 +4749,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "18般武藝"
         },
         {
           "index": 4,
@@ -4245,7 +4760,8 @@
           "plays": 53000000,
           "playsText": "53M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不知道的事"
         },
         {
           "index": 5,
@@ -4255,7 +4771,8 @@
           "plays": 2300000,
           "playsText": "2.3M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "伯牙絕弦"
         },
         {
           "index": 6,
@@ -4265,7 +4782,8 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "柴米油鹽醬醋茶"
         },
         {
           "index": 7,
@@ -4275,7 +4793,8 @@
           "plays": 3900000,
           "playsText": "3.9M plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "美"
         },
         {
           "index": 8,
@@ -4285,7 +4804,8 @@
           "plays": 8800000,
           "playsText": "8.8M plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "需要人陪"
         },
         {
           "index": 9,
@@ -4295,7 +4815,8 @@
           "plays": 530000,
           "playsText": "530K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "天涯海角"
         },
         {
           "index": 10,
@@ -4305,7 +4826,8 @@
           "plays": 8400,
           "playsText": "8.4K plays",
           "duration": 67,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不知道的事"
         },
         {
           "index": 11,
@@ -4315,7 +4837,8 @@
           "plays": 84000,
           "playsText": "84K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "自己人"
         }
       ],
       "releaseDate": "2010-08-13",
@@ -4327,6 +4850,7 @@
       "browseId": "MPREb_IKKyZpkP7qv",
       "playlistId": "OLAK5uy_mhH-mkUdhRRmxzP3WuJ7RLEsFamvts854",
       "title": "K情歌 8 - Our Love Songs 8",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2010,
       "thumbnail": "https://yt3.googleusercontent.com/bBOOAK_V79eQ0FM7LZCFipxi5nA44HN2akqJJ4vPk6FcR-n94AIrrMMnB-swEq7k1nki_dOjNUheN7UmHg=w544-h544-l90-rj",
@@ -4339,7 +4863,8 @@
           "plays": 36000000,
           "playsText": "36M plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳"
         },
         {
           "index": 2,
@@ -4349,7 +4874,8 @@
           "plays": 9200000,
           "playsText": "9.2M plays",
           "duration": 167,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是我心內的一首歌"
         }
       ],
       "releaseDate": null,
@@ -4361,6 +4887,7 @@
       "browseId": "MPREb_X9Q3CAm6Quj",
       "playlistId": "OLAK5uy_kAjq0GC32cVtBgjIRzL14UcLzxeOLJ9ps",
       "title": "婚禮歌手 幸福情歌精選 - Wedding Songs Collections",
+      "albumArtist": "Wang Leehom",
       "type": "EP",
       "year": 2010,
       "thumbnail": "https://yt3.googleusercontent.com/qtAzv2TZwGuL2-ImT7bZPuP264N1ebbJ-sGJuRr0rwNLe45EFPfBBpwWIjlzPgWq4aZ7UhuQ2_GbFRb9=w544-h544-l90-rj",
@@ -4373,7 +4900,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個天堂"
         },
         {
           "index": 2,
@@ -4383,7 +4911,8 @@
           "plays": 25000000,
           "playsText": "25M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove"
         },
         {
           "index": 3,
@@ -4393,7 +4922,8 @@
           "plays": 9200000,
           "playsText": "9.2M plays",
           "duration": 167,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是我心內的一首歌"
         },
         {
           "index": 4,
@@ -4403,7 +4933,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌"
         },
         {
           "index": 5,
@@ -4413,7 +4944,8 @@
           "plays": 17000000,
           "playsText": "17M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛"
         }
       ],
       "releaseDate": null,
@@ -4425,6 +4957,7 @@
       "browseId": "MPREb_Rap1FrYrx6N",
       "playlistId": "OLAK5uy_maXeUEvxmMQia5nFWBYVWtZKsaQYP5cGc",
       "title": "星座聖典 - 一首簡單的歌 - Love Songs of Horoscope - A Simple Song",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2010,
       "thumbnail": "https://yt3.googleusercontent.com/qpkC35oo-1gePc498wjufI5w4Ch8OKtaSmr91FelfZVugctiaE8NSoU7N6wgyqhNr8pcprnUKjC5d_7j=w544-h544-l90-rj",
@@ -4437,7 +4970,9 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌",
+          "titleZh": "一首簡單的歌"
         }
       ],
       "releaseDate": null,
@@ -4449,6 +4984,7 @@
       "browseId": "MPREb_gfkYsqqxdpz",
       "playlistId": "OLAK5uy_nZ-TIE0eIbsNliLoYr1RlEQqMgbNyU7As",
       "title": "火力全開 新歌 + 精選 - \"OPEN FIRE\" WANG LEEHOM GREATEST HITS 1998-2011",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/_AOqbhC4Uui0s2jMa8h4G75D43Yzn1E0ZH4SK0kzcAm3lizaVmQWxpKCVhQ2-P9Q0xF5RUnErxPWEJic=w544-h544-l90-rj",
@@ -4461,7 +4997,8 @@
           "plays": 5600000,
           "playsText": "5.6M plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "火力全開"
         },
         {
           "index": 2,
@@ -4471,7 +5008,8 @@
           "plays": 34000000,
           "playsText": "34M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "依然愛你"
         },
         {
           "index": 3,
@@ -4481,7 +5019,8 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 218,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蓋世英雄"
         },
         {
           "index": 4,
@@ -4491,7 +5030,8 @@
           "plays": 53000000,
           "playsText": "53M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不知道的事"
         },
         {
           "index": 5,
@@ -4501,7 +5041,8 @@
           "plays": 7800000,
           "playsText": "7.8M plays",
           "duration": 196,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "改變自己"
         },
         {
           "index": 6,
@@ -4511,7 +5052,9 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 7,
@@ -4521,7 +5064,8 @@
           "plays": 18000000,
           "playsText": "18M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不在"
         },
         {
           "index": 8,
@@ -4531,7 +5075,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lovelovelove"
         },
         {
           "index": 9,
@@ -4541,7 +5086,8 @@
           "plays": 10000000,
           "playsText": "10M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花田錯"
         },
         {
           "index": 10,
@@ -4551,7 +5097,8 @@
           "plays": 50000000,
           "playsText": "50M plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛錯"
         },
         {
           "index": 11,
@@ -4561,7 +5108,8 @@
           "plays": 400000,
           "playsText": "400K plays",
           "duration": 178,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "why"
         },
         {
           "index": 12,
@@ -4571,7 +5119,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 188,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星座"
         },
         {
           "index": 13,
@@ -4581,7 +5130,8 @@
           "plays": 25000000,
           "playsText": "25M plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove"
         },
         {
           "index": 14,
@@ -4591,7 +5141,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌"
         },
         {
           "index": 15,
@@ -4601,7 +5152,8 @@
           "plays": 36000000,
           "playsText": "36M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳"
         },
         {
           "index": 16,
@@ -4611,7 +5163,8 @@
           "plays": 17000000,
           "playsText": "17M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛"
         },
         {
           "index": 17,
@@ -4621,7 +5174,8 @@
           "plays": 6800000,
           "playsText": "6.8M plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的日月"
         },
         {
           "index": 18,
@@ -4631,7 +5185,8 @@
           "plays": 764000,
           "playsText": "764K plays",
           "duration": 209,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "此刻你心裡想起誰"
         },
         {
           "index": 19,
@@ -4641,7 +5196,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "canyoufeelmyworld"
         },
         {
           "index": 20,
@@ -4651,7 +5207,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 316,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "落葉歸根"
         },
         {
           "index": 21,
@@ -4661,7 +5218,8 @@
           "plays": 9300000,
           "playsText": "9.3M plays",
           "duration": 168,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是我心內的一首歌"
         },
         {
           "index": 22,
@@ -4671,7 +5229,8 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "春雨裡洗過的太陽"
         },
         {
           "index": 23,
@@ -4681,7 +5240,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個天堂"
         },
         {
           "index": 24,
@@ -4691,7 +5251,8 @@
           "plays": 50000,
           "playsText": "50K plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "astimegoesby"
         }
       ],
       "releaseDate": "2011-09-30",
@@ -4703,6 +5264,7 @@
       "browseId": "MPREb_MYx9kdnxS6u",
       "playlistId": "OLAK5uy_njnEC5NCgWAlqkurrK7ymr1y_jdkCNak0",
       "title": "K情歌 9 - Our Love Songs 9",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/uxaGkLu6wxQVZGHmXWyIy_wIENmMQAAnqsTXDMIFFTF99G8hcj_F5DZUjRGxcjFiEkzViXwaNdEEM88=w544-h544-l90-rj",
@@ -4715,7 +5277,8 @@
           "plays": 495000,
           "playsText": "495K plays",
           "duration": 156,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "搖滾怎麼了"
         },
         {
           "index": 2,
@@ -4725,7 +5288,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個天堂"
         }
       ],
       "releaseDate": null,
@@ -4737,6 +5301,7 @@
       "browseId": "MPREb_JNWwF2Sii8G",
       "playlistId": "OLAK5uy_lB1E14UqDbdIS39HtsXeE4E2ZWp1DbGrk",
       "title": "Open Fire",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/x3uFQjNdgn8tRECUH5Eh3JmZJq5ZlC8Eq_AxFZALNMnLlSmgkRwrDKq4kE8bUXHQpJfABY-gqQ6hW8d9=w544-h544-s-l90-rj",
@@ -4749,7 +5314,9 @@
           "plays": null,
           "playsText": null,
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "火力全開",
+          "titleZh": "火力全開"
         },
         {
           "index": 2,
@@ -4759,7 +5326,9 @@
           "plays": null,
           "playsText": null,
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "依然愛你",
+          "titleZh": "依然愛你"
         },
         {
           "index": 3,
@@ -4769,7 +5338,9 @@
           "plays": null,
           "playsText": null,
           "duration": 217,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蓋世英雄",
+          "titleZh": "蓋世英雄"
         },
         {
           "index": 4,
@@ -4779,7 +5350,9 @@
           "plays": null,
           "playsText": null,
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不知道的事",
+          "titleZh": "你不知道的事"
         },
         {
           "index": 5,
@@ -4789,7 +5362,9 @@
           "plays": null,
           "playsText": null,
           "duration": 195,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "改變自己",
+          "titleZh": "改變自己"
         },
         {
           "index": 6,
@@ -4799,7 +5374,9 @@
           "plays": null,
           "playsText": null,
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye",
+          "titleZh": "Kiss Goodbye (演奏版)"
         },
         {
           "index": 7,
@@ -4809,7 +5386,9 @@
           "plays": 14000000,
           "playsText": "14M plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的就是你",
+          "titleZh": "愛的就是你 (Live)"
         },
         {
           "index": 8,
@@ -4819,7 +5398,9 @@
           "plays": null,
           "playsText": null,
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不在",
+          "titleZh": "你不在"
         },
         {
           "index": 9,
@@ -4829,7 +5410,8 @@
           "plays": null,
           "playsText": null,
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lovelovelove"
         },
         {
           "index": 10,
@@ -4839,7 +5421,9 @@
           "plays": null,
           "playsText": null,
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花田錯",
+          "titleZh": "花田錯"
         },
         {
           "index": 11,
@@ -4849,7 +5433,9 @@
           "plays": null,
           "playsText": null,
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛錯",
+          "titleZh": "愛錯"
         },
         {
           "index": 12,
@@ -4859,7 +5445,8 @@
           "plays": null,
           "playsText": null,
           "duration": 176,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "why"
         },
         {
           "index": 13,
@@ -4869,7 +5456,9 @@
           "plays": null,
           "playsText": null,
           "duration": 187,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星座",
+          "titleZh": "星座"
         },
         {
           "index": 14,
@@ -4879,7 +5468,8 @@
           "plays": null,
           "playsText": null,
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove"
         },
         {
           "index": 15,
@@ -4889,7 +5479,9 @@
           "plays": 22000000,
           "playsText": "22M plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "唯一",
+          "titleZh": "唯一 (Live)"
         },
         {
           "index": 16,
@@ -4899,7 +5491,9 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "公轉自轉",
+          "titleZh": "公轉自轉"
         },
         {
           "index": 17,
@@ -4909,7 +5503,9 @@
           "plays": null,
           "playsText": null,
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首簡單的歌",
+          "titleZh": "一首簡單的歌"
         },
         {
           "index": 18,
@@ -4919,7 +5515,9 @@
           "plays": null,
           "playsText": null,
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳",
+          "titleZh": "心跳"
         },
         {
           "index": 19,
@@ -4929,7 +5527,8 @@
           "plays": null,
           "playsText": null,
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "dachengxiaoai"
         },
         {
           "index": 20,
@@ -4939,7 +5538,9 @@
           "plays": null,
           "playsText": null,
           "duration": 236,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的日月",
+          "titleZh": "心中的日月"
         },
         {
           "index": 21,
@@ -4949,7 +5550,8 @@
           "plays": 4900000,
           "playsText": "4.9M plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ainidengyuaiziji"
         },
         {
           "index": 22,
@@ -4959,7 +5561,8 @@
           "plays": null,
           "playsText": null,
           "duration": 207,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "cikenixinlixiangqishei"
         },
         {
           "index": 23,
@@ -4969,7 +5572,8 @@
           "plays": null,
           "playsText": null,
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "canyoufeelmyworld"
         },
         {
           "index": 24,
@@ -4979,7 +5583,9 @@
           "plays": null,
           "playsText": null,
           "duration": 314,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "落葉歸根",
+          "titleZh": "落葉歸根"
         },
         {
           "index": 25,
@@ -4989,7 +5595,9 @@
           "plays": null,
           "playsText": null,
           "duration": 166,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是我心內的一首歌",
+          "titleZh": "你是我心內的一首歌"
         },
         {
           "index": 26,
@@ -4999,7 +5607,9 @@
           "plays": null,
           "playsText": null,
           "duration": 291,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "春雨裡洗過的太陽",
+          "titleZh": "春雨裡洗過的太陽"
         },
         {
           "index": 27,
@@ -5009,7 +5619,9 @@
           "plays": null,
           "playsText": null,
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個天堂",
+          "titleZh": "另一個天堂"
         },
         {
           "index": 28,
@@ -5019,7 +5631,8 @@
           "plays": null,
           "playsText": null,
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "astimegoesby"
         },
         {
           "index": 29,
@@ -5029,7 +5642,8 @@
           "plays": null,
           "playsText": null,
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "huoliquankaizuqu"
         }
       ],
       "releaseDate": null,
@@ -5041,6 +5655,7 @@
       "browseId": "MPREb_G5aDuJzljqQ",
       "playlistId": "OLAK5uy_nWQECLqt98gVHR5wc2Pi_eIpNHXwZh0gc",
       "title": "一路有你車載金唱盤 (男人篇) - HAVE YOU ALL THE WAY (Male Vocal)",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/sK-7hU0ym76VBwsyZNNikctLAahP5Hrb5Vns0L9d8sQq9f57SmfdRXBaxhfZZn7YP4Wk4_dVezCyLeY=w544-h544-l90-rj",
@@ -5053,7 +5668,8 @@
           "plays": 53000000,
           "playsText": "53M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不知道的事"
         },
         {
           "index": 2,
@@ -5063,7 +5679,8 @@
           "plays": 8800000,
           "playsText": "8.8M plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "需要人陪"
         }
       ],
       "releaseDate": null,
@@ -5075,6 +5692,7 @@
       "browseId": "MPREb_mDfx0yKVHT6",
       "playlistId": "OLAK5uy_nO0hkGDKlVhMEkO109p4sdtsZH2MlGt5A",
       "title": "跨世紀金曲精選 - 蓋世英雄 - Golden Melody Hits - Heroes of Earth",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/Z1GRkkcU4PHBmOrYaWF-Tnaf7P92yzI-QKNZbWfOF_vpJPwmyqBm5q94ELqrFFAZEGc25-zhEX5jsr8=w544-h544-l90-rj",
@@ -5087,7 +5705,9 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蓋世英雄",
+          "titleZh": "蓋世英雄"
         }
       ],
       "releaseDate": null,
@@ -5099,6 +5719,7 @@
       "browseId": "MPREb_9auxfp9MLv3",
       "playlistId": "OLAK5uy_kS8OZMqaV52Kux3yckvi9rg7Thm3e5BAY",
       "title": "十二生肖 - 12 Zodiacs",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2012,
       "thumbnail": "https://yt3.googleusercontent.com/tmQCzKuGVxi_EI2BdZyRTVUkGCgo3yks3m_pAZBjkw78U66g2oal4VuxIV8VvjiOCsnlN7VAGA1DbxjN=w544-h544-l90-rj",
@@ -5111,7 +5732,8 @@
           "plays": 3900000,
           "playsText": "3.9M plays",
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "12生肖"
         }
       ],
       "releaseDate": "2012-12-07",
@@ -5123,6 +5745,7 @@
       "browseId": "MPREb_GsQunR3eMRZ",
       "playlistId": "OLAK5uy_nMVIOBv1-WNLgdPG6BpbL_TeQkSnopB5U",
       "title": "《十二生肖》 電影原聲帶 - \"12 Zodiacs\" Official Soundtrack",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2012,
       "thumbnail": "https://yt3.googleusercontent.com/6xZpyBiEhDV_6Kb2pseV0BD5WFNlcK8EAQlQz3JCLSOrB4FmROZXo8ZiQvwF1OSqmyZYRlF9E6D9cBo=w544-h544-l90-rj",
@@ -5135,7 +5758,8 @@
           "plays": 3900000,
           "playsText": "3.9M plays",
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "12生肖電影原聲帶"
         }
       ],
       "releaseDate": null,
@@ -5147,6 +5771,7 @@
       "browseId": "MPREb_FD7Pt8vbG2U",
       "playlistId": "OLAK5uy_mK1UgUTbRryd2dj4Cus2e8fy-4d0_-5K0",
       "title": "《非常幸運》 電影原聲帶 - 愛一點 (feat. 章子怡) - \"My Lucky Star\" Soundtrack - Love a Little (feat. Ziyi Zhang)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2013,
       "thumbnail": "https://yt3.googleusercontent.com/WnVOHlDdTwUkoTaDkLfz7CbryrzxMD4NFPjP6kAaMQt4ti4RjsKC5Zkc_3a_EgVyzKsvJAMG5fZB4lt9=w544-h544-l90-rj",
@@ -5159,7 +5784,9 @@
           "plays": 8100000,
           "playsText": "8.1M plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛一點",
+          "titleZh": "愛一點"
         }
       ],
       "releaseDate": "2013-09-17",
@@ -5171,6 +5798,7 @@
       "browseId": "MPREb_MqKw2KoMp1B",
       "playlistId": "OLAK5uy_kH9Z03flTtyOeO7YhKgHNEB5KOUAib8Z0",
       "title": "K情歌 10 - Our Love Songs 10",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2013,
       "thumbnail": "https://yt3.googleusercontent.com/Pfa6IPWZHXdnS9E2ZDAHCZzWxMaEZ1JUct9NEV7QLt7YIpJM8DdRdDIIOC1uTRZrspHYoCxPZn3I7SdxUw=w544-h544-l90-rj",
@@ -5183,7 +5811,8 @@
           "plays": 53000000,
           "playsText": "53M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不知道的事"
         },
         {
           "index": 2,
@@ -5193,7 +5822,8 @@
           "plays": 9200000,
           "playsText": "9.2M plays",
           "duration": 167,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是我心內的一首歌"
         }
       ],
       "releaseDate": null,
@@ -5205,6 +5835,7 @@
       "browseId": "MPREb_Jpf8BtXPKVX",
       "playlistId": "OLAK5uy_mucLEZqVad6dw6LbOamUKkGJWol4MhaG0",
       "title": "人海中遇見你 最佳婚禮歌曲精選 - 另一個天堂 (feat.張靚穎) - The Best Wedding Songs - Another Heaven (feat. Jane Zhang)",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/5Xp5tpdz8t3IHpuvGv-aZvPcJ_kF0CVNtbUYfbud-GaCByJ0Yunv44-sPfL6zG_z-RDQ6S3hXjpk9EM=w544-h544-l90-rj",
@@ -5217,7 +5848,9 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個天堂",
+          "titleZh": "另一個天堂"
         }
       ],
       "releaseDate": null,
@@ -5229,6 +5862,7 @@
       "browseId": "MPREb_DkapuqfMGO6",
       "playlistId": "OLAK5uy_lHLaH6osvm9OYqv1SiGUJzKN1DqI8hEEk",
       "title": "城市唱遊 - 最佳運動歌曲精選 - The Best Running Hits",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/258AtEzItmQXsumDbbhA1-xeBoJ2Z5tIQ8L8A_Pq8U9rdNgGKZSboejqa39UfXy4YG_O0xP0QEnHm-YY4g=w544-h544-l90-rj",
@@ -5241,7 +5875,8 @@
           "plays": 3900000,
           "playsText": "3.9M plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "美"
         },
         {
           "index": 2,
@@ -5251,7 +5886,8 @@
           "plays": 495000,
           "playsText": "495K plays",
           "duration": 156,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "搖滾怎麼了"
         }
       ],
       "releaseDate": null,
@@ -5263,6 +5899,7 @@
       "browseId": "MPREb_NV0yhQN46mL",
       "playlistId": "OLAK5uy_n-sK-QqLTU86dwLVzu__ncoPuMR5U2G1A",
       "title": "婚禮歌手 緣定一生情歌精選 - The Best Wedding Songs",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/t87evjBGkhMUaNLzKHZfYpSOhcrhFGUKRxj9WaF1uaICRESBRPS-wUjm4beaEqGHuIUMBgBRDHM4ep3d=w544-h544-l90-rj",
@@ -5275,7 +5912,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個天堂"
         },
         {
           "index": 2,
@@ -5285,7 +5923,8 @@
           "plays": 3100000,
           "playsText": "3.1M plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "柴米油鹽醬醋茶"
         },
         {
           "index": 3,
@@ -5295,7 +5934,8 @@
           "plays": 9200000,
           "playsText": "9.2M plays",
           "duration": 167,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是我心內的一首歌"
         }
       ],
       "releaseDate": null,
@@ -5307,6 +5947,7 @@
       "browseId": "MPREb_EjpgIrZ7N8t",
       "playlistId": "OLAK5uy_m_dO3KlRBzf_uJpopX4QNvzEUtYksZilQ",
       "title": "巨星金曲 - 合唱篇 - THE GREATEST MANDOPOP DUETS",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/lQobG8jqQhyt104oo-56NVxIW7SVjTz-eeli0f-fLE5hKPyrE5aBia4KEVR24QE4zJLFOzgm3ImN2Kmk=w544-h544-l90-rj",
@@ -5319,7 +5960,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "另一個天堂"
         },
         {
           "index": 2,
@@ -5329,7 +5971,8 @@
           "plays": 9200000,
           "playsText": "9.2M plays",
           "duration": 167,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你是我心內的一首歌"
         }
       ],
       "releaseDate": null,
@@ -5341,6 +5984,7 @@
       "browseId": "MPREb_hC94YOGtfjj",
       "playlistId": "OLAK5uy_ng1aVC0KY113qmZpFfgmwvu23bZZhC4qU",
       "title": "巨星金曲 - 心跳 - The Greatest Mandopop Hits - Heart Beat",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/5aAnxsHyPj2iDNwvSJvUPlhRdGtxjF4KDwgo7W_AWtf4xMLkEmSvwxUNH2vY_-CugjOxn_OzIb00BQDn-w=w544-h544-l90-rj",
@@ -5353,7 +5997,9 @@
           "plays": 36000000,
           "playsText": "36M plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳",
+          "titleZh": "心跳"
         }
       ],
       "releaseDate": null,
@@ -5365,6 +6011,7 @@
       "browseId": "MPREb_68bpjm49liV",
       "playlistId": "OLAK5uy_nRcEcbzlLR6IuFpMf403HIgpGtIG3jxos",
       "title": "王力宏福利秀2014 - WANG LEEHOM THE FREE SHOW 2014",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/cgvVAZY2CYGua7a0mY0xpYJ2SFKVvfAxYo7TEM9VM8fUgsEtRnIDjyQr52w79TWywbApxXczLl9pUdA=w544-h544-l90-rj",
@@ -5377,7 +6024,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "情敵貝多芬#live"
         },
         {
           "index": 2,
@@ -5387,7 +6035,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 385,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛得得體#live"
         },
         {
           "index": 3,
@@ -5397,7 +6046,8 @@
           "plays": 281000,
           "playsText": "281K plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你可以告訴我#live"
         },
         {
           "index": 4,
@@ -5407,7 +6057,8 @@
           "plays": 213000,
           "playsText": "213K plays",
           "duration": 353,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "永遠的第一天#live"
         },
         {
           "index": 5,
@@ -5417,7 +6068,8 @@
           "plays": 228000,
           "playsText": "228K plays",
           "duration": 335,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘了時間忘了我#live"
         },
         {
           "index": 6,
@@ -5427,7 +6079,8 @@
           "plays": 91000,
           "playsText": "91K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lullabye#live"
         },
         {
           "index": 7,
@@ -5437,7 +6090,8 @@
           "plays": 1300,
           "playsText": "1.3K plays",
           "duration": 333,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "leanonme#live"
         },
         {
           "index": 8,
@@ -5447,7 +6101,8 @@
           "plays": 4500,
           "playsText": "4.5K plays",
           "duration": 399,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳#live"
         },
         {
           "index": 9,
@@ -5457,7 +6112,8 @@
           "plays": 8600,
           "playsText": "8.6K plays",
           "duration": 351,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流淚手心#live"
         },
         {
           "index": 10,
@@ -5467,7 +6123,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 504,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ifeelgood#live"
         }
       ],
       "releaseDate": null,
@@ -5479,6 +6136,7 @@
       "browseId": "MPREb_EBLKlw2zBsq",
       "playlistId": "OLAK5uy_n6_Ob8SIQCAdSv7lVoAlqWUwtTNlAyv38",
       "title": "絕贊K情歌 - 依然愛你 - The Best K Love Songs - Still In Love With You",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/ygsIAbWLNB53MAgqohWTt2d353FiPwNmA0LrjcIUnJZkaQ7OSGWnA3OIMILsicgsQonA1BAKaQnqAV3a=w544-h544-l90-rj",
@@ -5491,7 +6149,9 @@
           "plays": 34000000,
           "playsText": "34M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "依然愛你",
+          "titleZh": "依然愛你"
         }
       ],
       "releaseDate": null,
@@ -5503,6 +6163,7 @@
       "browseId": "MPREb_PN5p2r2xQOb",
       "playlistId": "OLAK5uy_mgtl7eVUDqgH7vPxfK7ifY2MrjoBwFzGk",
       "title": "你的愛 - Your Love",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/r-uj9G8U-lOfygtaYkFF-ltRgwmP-ZnLeKUwz1biAs4EbQ10o4MRO_UG6U3ELOFZhBODyW1aJZkieiA=w544-h544-l90-rj",
@@ -5515,7 +6176,8 @@
           "plays": 69000,
           "playsText": "69K plays",
           "duration": 45,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "前奏"
         },
         {
           "index": 2,
@@ -5525,7 +6187,8 @@
           "plays": 2600000,
           "playsText": "2.6M plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "天翻地覆"
         },
         {
           "index": 3,
@@ -5535,7 +6198,8 @@
           "plays": 5600000,
           "playsText": "5.6M plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "裂心"
         },
         {
           "index": 4,
@@ -5545,7 +6209,8 @@
           "plays": 3000000,
           "playsText": "3M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘我"
         },
         {
           "index": 5,
@@ -5555,7 +6220,8 @@
           "plays": 15000000,
           "playsText": "15M plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你的愛"
         },
         {
           "index": 6,
@@ -5565,7 +6231,8 @@
           "plays": 8500000,
           "playsText": "8.5M plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "就是現在"
         },
         {
           "index": 7,
@@ -5575,7 +6242,8 @@
           "plays": 3400000,
           "playsText": "3.4M plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "70億分之一"
         },
         {
           "index": 8,
@@ -5585,7 +6253,8 @@
           "plays": 113000,
           "playsText": "113K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "inyoureyes"
         },
         {
           "index": 9,
@@ -5595,7 +6264,8 @@
           "plays": 79000,
           "playsText": "79K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "保護"
         },
         {
           "index": 10,
@@ -5605,7 +6275,8 @@
           "plays": 3300000,
           "playsText": "3.3M plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢寐以求"
         },
         {
           "index": 11,
@@ -5615,7 +6286,8 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 185,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "微博控"
         },
         {
           "index": 12,
@@ -5625,7 +6297,8 @@
           "plays": 8100000,
           "playsText": "8.1M plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛一點"
         },
         {
           "index": 13,
@@ -5635,7 +6308,8 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘我"
         }
       ],
       "releaseDate": "2015-01-23",
@@ -5647,6 +6321,7 @@
       "browseId": "MPREb_jow7a25bxSv",
       "playlistId": "OLAK5uy_lU4z3USU8EkiS9eEeXMj5OZdM-OMXS4iA",
       "title": "你的愛。",
+      "albumArtist": "王力宏",
       "type": "Album",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/fKCbmVPFShbvIvN5rjI-rbVFtoN0bDdYkFW69FNcBH0k3-EjdZTegNN1XU0BFnPvqt7QccPN7d9acjHuiw=w544-h544-l90-rj",
@@ -5659,7 +6334,8 @@
           "plays": 69000,
           "playsText": "69K plays",
           "duration": 46,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "前奏"
         },
         {
           "index": 2,
@@ -5669,7 +6345,8 @@
           "plays": 2600000,
           "playsText": "2.6M plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "天翻地覆"
         },
         {
           "index": 3,
@@ -5679,7 +6356,8 @@
           "plays": 5600000,
           "playsText": "5.6M plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "裂心"
         },
         {
           "index": 4,
@@ -5689,7 +6367,8 @@
           "plays": 3000000,
           "playsText": "3M plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘我"
         },
         {
           "index": 5,
@@ -5699,7 +6378,8 @@
           "plays": 15000000,
           "playsText": "15M plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你的愛"
         },
         {
           "index": 6,
@@ -5709,7 +6389,8 @@
           "plays": 8500000,
           "playsText": "8.5M plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "就是現在"
         },
         {
           "index": 7,
@@ -5719,7 +6400,8 @@
           "plays": 3400000,
           "playsText": "3.4M plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "70億分之一"
         },
         {
           "index": 8,
@@ -5729,7 +6411,8 @@
           "plays": 113000,
           "playsText": "113K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "inyoureyes"
         },
         {
           "index": 9,
@@ -5739,7 +6422,8 @@
           "plays": 79000,
           "playsText": "79K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "保護"
         },
         {
           "index": 10,
@@ -5749,7 +6433,8 @@
           "plays": 3300000,
           "playsText": "3.3M plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢寐以求"
         },
         {
           "index": 11,
@@ -5759,7 +6444,8 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 185,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "微博控"
         },
         {
           "index": 12,
@@ -5769,7 +6455,8 @@
           "plays": 8100000,
           "playsText": "8.1M plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛一點"
         },
         {
           "index": 13,
@@ -5779,7 +6466,8 @@
           "plays": 48000,
           "playsText": "48K plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘我"
         }
       ],
       "releaseDate": "2015-01-23",
@@ -5791,6 +6479,7 @@
       "browseId": "MPREb_mwkLYbSsItw",
       "playlistId": "OLAK5uy_mW7NurjpvJdA_MadmPf2P8cA1S-K7HB54",
       "title": "七十億分之一新歌發佈會 - \"7 Billion to 1\" New Album Press Conference",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/mBKRHYyWduY2K0WjQED8T7fLvdLJ5RABK0JwnrLi2e8HG0xDhsjmkZYU9_yOtzM-nuvuwVjakc6nalPK=w544-h544-l90-rj",
@@ -5803,7 +6492,8 @@
           "plays": 39000,
           "playsText": "39K plays",
           "duration": 215,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove#live"
         },
         {
           "index": 2,
@@ -5813,7 +6503,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "70億分之一#live"
         },
         {
           "index": 3,
@@ -5823,7 +6514,8 @@
           "plays": 3900,
           "playsText": "3.9K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你的愛#live"
         },
         {
           "index": 4,
@@ -5833,7 +6525,8 @@
           "plays": 3600,
           "playsText": "3.6K plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "裂心#live"
         },
         {
           "index": 5,
@@ -5843,7 +6536,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 217,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "保護#live"
         },
         {
           "index": 6,
@@ -5853,7 +6547,8 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "天翻地覆#live"
         },
         {
           "index": 7,
@@ -5863,7 +6558,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 171,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "依然愛你#live"
         },
         {
           "index": 8,
@@ -5873,7 +6569,8 @@
           "plays": 4700,
           "playsText": "4.7K plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "就是現在#live"
         },
         {
           "index": 9,
@@ -5883,7 +6580,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢寐以求#live"
         },
         {
           "index": 10,
@@ -5893,7 +6591,8 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘我#live"
         },
         {
           "index": 11,
@@ -5903,7 +6602,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 183,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "微博控#live"
         }
       ],
       "releaseDate": "2015-02-15",
@@ -5915,6 +6615,7 @@
       "browseId": "MPREb_yxh6YpEEYyp",
       "playlistId": "OLAK5uy_lR7CAxXchYKBmeZTqL93B4vbeoohV3bGw",
       "title": "力宏二十 二十週年唯一精選 - 20th Anniversary …Best & More 1995-2015",
+      "albumArtist": "Leehom Wang",
       "type": "EP",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/1tchB71iONf08xgA6OQ1bbXTdQ3l_YeubTRmNZhvRoql9g40A4mdWgIhAxusD9GMCldemDO99nd1mew=w544-h544-l90-rj",
@@ -5927,7 +6628,8 @@
           "plays": 53000000,
           "playsText": "53M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不知道的事"
         },
         {
           "index": 2,
@@ -5937,7 +6639,8 @@
           "plays": 36000000,
           "playsText": "36M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳"
         },
         {
           "index": 3,
@@ -5947,7 +6650,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 316,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "落葉歸根"
         },
         {
           "index": 4,
@@ -5957,7 +6661,8 @@
           "plays": 8800000,
           "playsText": "8.8M plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "需要人陪"
         }
       ],
       "releaseDate": "2015-07-24",
@@ -5969,6 +6674,7 @@
       "browseId": "MPREb_3BKliJT23bd",
       "playlistId": "OLAK5uy_lBck4WOb0BmgvRlKXxCHbqcH_kXphkX0w",
       "title": "Leehom XX...Best & More",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/lq6M-E24Pf7I1yOFlGwygeDDewZPHS4mJsUdbWkh0cbCWCfsIXqVCMDlvWfuBwz2NLZGZ1C0bW-DplXniQ=w544-h544-s-l90-rj",
@@ -5981,7 +6687,9 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "公轉自轉",
+          "titleZh": "公轉自轉"
         },
         {
           "index": 2,
@@ -5991,7 +6699,9 @@
           "plays": 22000000,
           "playsText": "22M plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "唯一",
+          "titleZh": "唯一 (Live)"
         },
         {
           "index": 3,
@@ -6001,7 +6711,9 @@
           "plays": null,
           "playsText": null,
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不知道的事",
+          "titleZh": "你不知道的事"
         },
         {
           "index": 4,
@@ -6011,7 +6723,9 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流淚手心",
+          "titleZh": "流淚手心 (Live)"
         },
         {
           "index": 5,
@@ -6021,7 +6735,9 @@
           "plays": 216000,
           "playsText": "216K plays",
           "duration": 218,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "情敵貝多芬",
+          "titleZh": "情敵貝多芬 (Live)"
         },
         {
           "index": 6,
@@ -6031,7 +6747,9 @@
           "plays": 385000,
           "playsText": "385K plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "永遠的第一天",
+          "titleZh": "永遠的第一天 (Live)"
         },
         {
           "index": 7,
@@ -6041,7 +6759,9 @@
           "plays": null,
           "playsText": null,
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心跳",
+          "titleZh": "心跳"
         },
         {
           "index": 8,
@@ -6051,7 +6771,9 @@
           "plays": null,
           "playsText": null,
           "duration": 316,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "落葉歸根",
+          "titleZh": "落葉歸根"
         },
         {
           "index": 9,
@@ -6061,7 +6783,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "julia"
         },
         {
           "index": 10,
@@ -6071,7 +6794,9 @@
           "plays": 14000000,
           "playsText": "14M plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的就是你",
+          "titleZh": "愛的就是你 (Live)"
         },
         {
           "index": 11,
@@ -6081,7 +6806,8 @@
           "plays": 4900000,
           "playsText": "4.9M plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ainidengyuaiziji"
         },
         {
           "index": 12,
@@ -6091,7 +6817,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "anquangan"
         },
         {
           "index": 13,
@@ -6101,7 +6828,9 @@
           "plays": null,
           "playsText": null,
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "需要人陪",
+          "titleZh": "需要人陪"
         },
         {
           "index": 14,
@@ -6111,7 +6840,8 @@
           "plays": null,
           "playsText": null,
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛の奇蹟"
         },
         {
           "index": 15,
@@ -6121,7 +6851,8 @@
           "plays": 43000000,
           "playsText": "43M plays",
           "duration": 180,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "好心分手"
         },
         {
           "index": 16,
@@ -6131,7 +6862,8 @@
           "plays": 32000,
           "playsText": "32K plays",
           "duration": 303,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "huatiancuoxinzhongderiyue#live"
         },
         {
           "index": 17,
@@ -6141,7 +6873,8 @@
           "plays": 223000,
           "playsText": "223K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讓我取暖"
         },
         {
           "index": 18,
@@ -6151,7 +6884,9 @@
           "plays": 115000,
           "playsText": "115K plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不在#live",
+          "titleZh": "你不在 (Live)"
         },
         {
           "index": 19,
@@ -6161,7 +6896,8 @@
           "plays": 211000,
           "playsText": "211K plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "dakaiai"
         },
         {
           "index": 20,
@@ -6171,7 +6907,9 @@
           "plays": 5600,
           "playsText": "5.6K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛我的歌",
+          "titleZh": "愛我的歌"
         },
         {
           "index": 21,
@@ -6181,7 +6919,9 @@
           "plays": 116000,
           "playsText": "116K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye#live",
+          "titleZh": "Kiss Goodbye (演奏版) (Live)"
         },
         {
           "index": 22,
@@ -6191,7 +6931,8 @@
           "plays": 54000,
           "playsText": "54K plays",
           "duration": 176,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "ifiruledtheworld"
         },
         {
           "index": 23,
@@ -6201,7 +6942,8 @@
           "plays": 44000,
           "playsText": "44K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lovemetender"
         },
         {
           "index": 24,
@@ -6211,7 +6953,8 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "meitianainiersixiaoshi"
         },
         {
           "index": 25,
@@ -6221,7 +6964,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove#live"
         },
         {
           "index": 26,
@@ -6231,7 +6975,9 @@
           "plays": 76000,
           "playsText": "76K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你可以告訴我",
+          "titleZh": "你可以告訴我(你還愛誰) (Live)"
         },
         {
           "index": 27,
@@ -6241,7 +6987,8 @@
           "plays": 58000,
           "playsText": "58K plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "marysays"
         },
         {
           "index": 28,
@@ -6251,7 +6998,9 @@
           "plays": 203000,
           "playsText": "203K plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "四季",
+          "titleZh": "四季"
         }
       ],
       "releaseDate": null,
@@ -6263,6 +7012,7 @@
       "browseId": "MPREb_wFsUSOaUNsG",
       "playlistId": "OLAK5uy_li3hWg-9Dyp64AAwMJrxKwK6YynUST49I",
       "title": "列王的紛爭 - Clash of Kings",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2016,
       "thumbnail": "https://yt3.googleusercontent.com/gHPukbPO19wBiPQSYWbN67Ret5bCEQTQ9gFQ7SIjdAh5_F0uA43ewVGAIKR28lbanm7vbaGMoaxuJIuy=w544-h544-l90-rj",
@@ -6275,7 +7025,8 @@
           "plays": 129000,
           "playsText": "129K plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "列王的紛爭"
         }
       ],
       "releaseDate": null,
@@ -6287,6 +7038,7 @@
       "browseId": "MPREb_eiicpLbOqix",
       "playlistId": "OLAK5uy_nY0VDhu1DlNFLROVMU4BLdQm9iPA9iAjE",
       "title": "2017 王力宏 福利秀 The Freeshow 現場錄音專輯 - 2017 Wang Leehom The Free Show Live Recording Album",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/Q9dKPzQmu-CvrI9I18qmDBj0gI7_3nCejKO1UaKUOWbeAtfA6-glfplWUkGbPJva5R2RgRX23-9BM9TW=w544-h544-l90-rj",
@@ -6299,7 +7051,8 @@
           "plays": 1400,
           "playsText": "1.4K plays",
           "duration": 380,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的就是你#live"
         },
         {
           "index": 2,
@@ -6309,7 +7062,8 @@
           "plays": 768,
           "playsText": "768 plays",
           "duration": 358,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "flow#live"
         }
       ],
       "releaseDate": "2017-03-10",
@@ -6321,6 +7075,7 @@
       "browseId": "MPREb_87H9vKmvxif",
       "playlistId": "OLAK5uy_kzrlOvaY-CylBD9m2xqk4Hjc1WmErtP3U",
       "title": "A.I. 愛：第一集 - A.I. Love : 1st Mini Album",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/eLtzGauoSz00QjgcRD9tbr08CABGG1nqG9XoAKrwc6qKnNTsahuZRuBuiK15ZXpjoM8u9LCAY7OANCSyVg=w544-h544-l90-rj",
@@ -6333,7 +7088,8 @@
           "plays": 44000000,
           "playsText": "44M plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ai愛"
         },
         {
           "index": 2,
@@ -6343,7 +7099,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "沒有眼淚的世界"
         }
       ],
       "releaseDate": "2017-09-15",
@@ -6355,6 +7112,7 @@
       "browseId": "MPREb_U3ACANgRnDc",
       "playlistId": "OLAK5uy_noYfnGhhOX3Rg9O4wIxq1OTa2C0eoeKzQ",
       "title": "A.I. 愛：第二集 - A.I. Love : 2nd Mini Album",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/eJdcA_wcn2ZHRpYO2uQAc9PAzUPDxp7VoQ8DgjVaOf5TNAoRyroIJe0FK8dij-H7zXNJzdOldmo_awuC=w544-h544-l90-rj",
@@ -6367,7 +7125,8 @@
           "plays": 30000000,
           "playsText": "30M plays",
           "duration": 299,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "親愛的"
         },
         {
           "index": 2,
@@ -6377,7 +7136,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 176,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無聲感情"
         }
       ],
       "releaseDate": "2017-10-13",
@@ -6389,6 +7149,7 @@
       "browseId": "MPREb_c1Yl95kjhbK",
       "playlistId": "OLAK5uy_nu7ZGUQnyxpIfAv0YDtMa8dYmqa6Kf3lc",
       "title": "A.I. 愛 - A.I. Love",
+      "albumArtist": "Wang Leehom",
       "type": "Album",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/eUs4xyUBITCLyhF19B_b0BXOaWiGKNRw-sIEzLqor3jVLRLEIivZ68CYghHwZbyFhDLjy2hvvJcrioc=w544-h544-l90-rj",
@@ -6401,7 +7162,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "沒有眼淚的世界"
         },
         {
           "index": 2,
@@ -6411,7 +7173,8 @@
           "plays": 44000000,
           "playsText": "44M plays",
           "duration": 208,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ai愛"
         },
         {
           "index": 3,
@@ -6421,7 +7184,8 @@
           "plays": 44000,
           "playsText": "44K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "千秋萬代"
         },
         {
           "index": 4,
@@ -6431,7 +7195,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 176,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無聲感情"
         },
         {
           "index": 5,
@@ -6441,7 +7206,8 @@
           "plays": 820000,
           "playsText": "820K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "tonightforever"
         },
         {
           "index": 6,
@@ -6451,7 +7217,8 @@
           "plays": 30000000,
           "playsText": "30M plays",
           "duration": 299,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "親愛的"
         },
         {
           "index": 7,
@@ -6461,7 +7228,8 @@
           "plays": 5300000,
           "playsText": "5.3M plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "奇遇的起點"
         },
         {
           "index": 8,
@@ -6471,7 +7239,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "whydontyoujustloveme"
         },
         {
           "index": 9,
@@ -6481,7 +7250,8 @@
           "plays": 6700000,
           "playsText": "6.7M plays",
           "duration": 218,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "聽愛"
         },
         {
           "index": 10,
@@ -6491,7 +7261,8 @@
           "plays": 38000000,
           "playsText": "38M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "緣分一道橋"
         },
         {
           "index": 11,
@@ -6501,7 +7272,8 @@
           "plays": 129000,
           "playsText": "129K plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "列王的紛爭"
         }
       ],
       "releaseDate": "2017-12-29",
@@ -6513,6 +7285,7 @@
       "browseId": "MPREb_VHGcKeN1tP5",
       "playlistId": "OLAK5uy_l94fTHlex_qipjm3-sFeo5zN49lALresM",
       "title": "再見英雄 - Goodbye Heroes",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/0FnYWX5CGEPoPz_v6LI2NN1PfK7QMdxOImUxKPB65ZNE3BwJrTsDLrF9qVzt_NTqDuvPRKncolsnf16n=w544-h544-l90-rj",
@@ -6525,7 +7298,8 @@
           "plays": 131000,
           "playsText": "131K plays",
           "duration": 302,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "再見英雄"
         }
       ],
       "releaseDate": "2018-01-18",
@@ -6537,6 +7311,7 @@
       "browseId": "MPREb_wOpCzqrdkF9",
       "playlistId": "OLAK5uy_loLrAA8cy8VDok9YNonDsW7xzwZ5hifSY",
       "title": "南京，南京 - Nanjing, Nanjing",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/_4m8xlIaacNaOQx0sQRmkP0hl2wMZmTCdWf53nXjaX-4yw2BVz4engf3mUt31WXAv0B-MNOPOC8qrF_k=w544-h544-l90-rj",
@@ -6549,7 +7324,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "南京南京"
         }
       ],
       "releaseDate": "2018-06-12",
@@ -6561,6 +7337,7 @@
       "browseId": "MPREb_I35aqeGCeIj",
       "playlistId": "OLAK5uy_krnHtzAH1ZGLZVX3ta8rB7C9PCLsotXUI",
       "title": "CrossFire",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/frZwGLnQswRCH-2Fbi6daHfRTIYA1GsCuAlDws0N_4flYluBxkFfWpXU3FYSrIHN-uurVniY5t8IH2I4-w=w544-h544-l90-rj",
@@ -6573,7 +7350,8 @@
           "plays": 1500000,
           "playsText": "1.5M plays",
           "duration": 202,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "crossfire"
         }
       ],
       "releaseDate": "2018-08-03",
@@ -6585,6 +7363,7 @@
       "browseId": "MPREb_fVoR0AjH3O3",
       "playlistId": "OLAK5uy_mGc1e9qmgkfE72s5Z-NFyUluoPkFrEIOk",
       "title": "星光（脫貧攻堅戰星光行動主題曲） - Starlight (Starlight War Against Poverty Theme Song)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/FYJiHPR9-gy3s5qu0vePQZSWPUkyyC8DFZV5M4SokVELC_9mlfH7C2vO1mBsMGk8qaxJoER4XjXRfHqc=w544-h544-l90-rj",
@@ -6597,7 +7376,8 @@
           "plays": 140000,
           "playsText": "140K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星光"
         }
       ],
       "releaseDate": "2018-11-15",
@@ -6609,6 +7389,7 @@
       "browseId": "MPREb_Oe0vgQcMDT3",
       "playlistId": "OLAK5uy_kYWY_AslBk-_rzOwodHTlZG6SbE2gyjG0",
       "title": "經典詠流傳 第2期 - 三字經 (Live) - Everlasting Classics 2 - Three Character Classic (Live)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/C86Z2BZ4OOcyw5PTdGLgBSolkXwtT7gPTbMV682ZBqvQI7TlHht0vrr6ecZ23kFfppTOoSb7OSk-jp8=w544-h544-l90-rj",
@@ -6621,7 +7402,9 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 191,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "三字經#live",
+          "titleZh": "三字經 (Live)"
         }
       ],
       "releaseDate": null,
@@ -6633,6 +7416,7 @@
       "browseId": "MPREb_4rR4Zo9A4J5",
       "playlistId": "OLAK5uy_mO3COWYZn_oo-SurPIVhZhQvRzfiUuuH8",
       "title": "王力宏 2019福利秀臺北大安森林公園LIVE專輯 - Wang Leehom 2019 The Free Show @Daan Park LIVE Album",
+      "albumArtist": "Leehom Wang",
       "type": "Album",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/brOS5ODeQ3y5BrQqgDU7fmGHLZp0eNOvTTL4ubedVGYitNah991-YSgIGb2JaI9ByJY-ok56-C1kW8lS7w=w544-h544-l90-rj",
@@ -6645,7 +7429,8 @@
           "plays": 246000,
           "playsText": "246K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你不知道的事#live"
         },
         {
           "index": 2,
@@ -6655,7 +7440,8 @@
           "plays": 142000,
           "playsText": "142K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在每一秒裡都想見到你#live"
         },
         {
           "index": 3,
@@ -6665,7 +7451,8 @@
           "plays": 135000,
           "playsText": "135K plays",
           "duration": 346,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "情敵貝多芬#live"
         },
         {
           "index": 4,
@@ -6675,7 +7462,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你把我灌醉#live"
         },
         {
           "index": 5,
@@ -6685,7 +7473,8 @@
           "plays": 79000,
           "playsText": "79K plays",
           "duration": 300,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "oneofthesedays#live"
         },
         {
           "index": 6,
@@ -6695,7 +7484,8 @@
           "plays": 16000,
           "playsText": "16K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "飄向北方#live"
         },
         {
           "index": 7,
@@ -6705,7 +7495,8 @@
           "plays": 35000,
           "playsText": "35K plays",
           "duration": 329,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "唯一#live"
         },
         {
           "index": 8,
@@ -6715,7 +7506,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "需要人陪#live"
         },
         {
           "index": 9,
@@ -6725,7 +7517,8 @@
           "plays": 224000,
           "playsText": "224K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大城小愛#live"
         },
         {
           "index": 10,
@@ -6735,7 +7528,8 @@
           "plays": 92000,
           "playsText": "92K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "依然愛你#live"
         },
         {
           "index": 11,
@@ -6745,7 +7539,9 @@
           "plays": 29000,
           "playsText": "29K plays",
           "duration": 361,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kissgoodbye#live",
+          "titleZh": "Kiss Goodbye (演奏版) (Live)"
         }
       ],
       "releaseDate": "2019-01-30",
@@ -6757,6 +7553,7 @@
       "browseId": "MPREb_E1Q8VtiYOY6",
       "playlistId": "OLAK5uy_k5yqAUmzm3-9bXkVN8ps1aau9AJ2wqQag",
       "title": "光耀亞洲 - Splendor of Asia",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/KMhP3ZOXlp-GN5ntICDfIPkvemIUsChVesdsmQg4e5xy2HJ59CchpMI_Uut0We8yG-zqOnTblgG8FIQ=w544-h544-l90-rj",
@@ -6769,7 +7566,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "光耀亞洲"
         }
       ],
       "releaseDate": "2019-07-02",
@@ -6781,6 +7579,7 @@
       "browseId": "MPREb_ppmZaYxVujr",
       "playlistId": "OLAK5uy_mkQBCnFSA5YUz4GzukJ8ZR6rnMuaHy8LA",
       "title": "堅信愛會贏 (獨唱版) - Believe That Love Will Win (Leehom Wang Solo)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/djx1aOvZZ_0bQ3UvwBGQNPvsOuFtniCcc6ebPg-JfFnhtqQBXoI1xiOsevNHn8tgQxlc23wbejCaCTE=w544-h544-l90-rj",
@@ -6793,7 +7592,8 @@
           "plays": 183000,
           "playsText": "183K plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "堅信愛會贏"
         }
       ],
       "releaseDate": "2020-02-13",
@@ -6805,6 +7605,7 @@
       "browseId": "MPREb_FAa4um7q4l4",
       "playlistId": "OLAK5uy_mWQkaWKzFtv7ZjAw6rB1Plg-rK_x6d6XA",
       "title": "Forever Your Dad",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/Qtv46xo7aD1i_4FL0pdPDL8MMal1M4DV0pTcBVpx6vrq6gN_xdmz2fd4WQXzIr87D7yPC7LOX5OSfsvP=w544-h544-l90-rj",
@@ -6817,7 +7618,8 @@
           "plays": 23000,
           "playsText": "23K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreveryourdad"
         }
       ],
       "releaseDate": "2020-02-25",
@@ -6829,6 +7631,7 @@
       "browseId": "MPREb_2RwpJzfVNtJ",
       "playlistId": "OLAK5uy_lRNj_kI-vv1vjcEYyc5gdtedw3KdRmd3k",
       "title": "寸心 - A Measure of the Heart",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/mhGGLJXcohptUZF2b_xz1g4oOZFn_3oQN8meFWqtUuA_FWZZGJ_LejiW_N0b4n7TaxmMlIV6UJ64Mrkk=w544-h544-l90-rj",
@@ -6841,7 +7644,8 @@
           "plays": 228000,
           "playsText": "228K plays",
           "duration": 319,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寸心"
         }
       ],
       "releaseDate": "2021-08-01",
@@ -6853,6 +7657,7 @@
       "browseId": "MPREb_6F19uP3Z4QM",
       "playlistId": "OLAK5uy_lHSZqQ4r2InFYu-RkP51NTXkM0-TrDPq4",
       "title": "天地龍鱗（大型紀錄片《紫禁城》主題歌）",
+      "albumArtist": "王力宏",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/S-Nljy9M7i9_WugxzEd5Y_gipDiQVkpLLjJAIQg2N-GedLSE7LH30ybskM4Os15RhOhAiSU4OTU0zh4c=w544-h544-l90-rj",
@@ -6865,7 +7670,8 @@
           "plays": 8900000,
           "playsText": "8.9M plays",
           "duration": 197,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "天地龍鱗"
         },
         {
           "index": 2,
@@ -6875,7 +7681,8 @@
           "plays": null,
           "playsText": null,
           "duration": 197,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "天地龍鱗伴奏"
         }
       ],
       "releaseDate": null,
@@ -6887,6 +7694,7 @@
       "browseId": "MPREb_LSUYaK23gNi",
       "playlistId": "OLAK5uy_meTTVHWlT8h6w8lyOGJfkWpO6bXmZI9aY",
       "title": "聽愛 - 電影《豆福傳》主題曲 - Hearing Love (\"ToFu\" OST)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/uzy_aXGFrv7IHX-_5noGlX6k10ayVAsfWMomKEbvYUcnuYPyKj8ayF-TCeLSjM2_EyKVNYYKRmpS1tfWvw=w544-h544-l90-rj",
@@ -6899,7 +7707,9 @@
           "plays": 6700000,
           "playsText": "6.7M plays",
           "duration": 218,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "電影豆福傳主題曲",
+          "titleZh": "電影《豆福傳》主題曲"
         }
       ],
       "releaseDate": null,
@@ -6911,6 +7721,7 @@
       "browseId": "MPREb_wwu7SPSa5CF",
       "playlistId": "OLAK5uy_l-evdz-jRtN7Q3ahFYbcwmF6kO0jlVlfY",
       "title": "蓋世英雄電影《Free Guy》中文主題曲 - GAI SHI YING XIONG \"Free Guy\" Chinese Soundtrack",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/rbWut-XT33L6k05N5dv5UC0iwrXTWa96ikkoArJFuwvzKh0TQklwnks7fCYRC9lclfEC2mYAA0H3DMM=w544-h544-l90-rj",
@@ -6923,7 +7734,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 185,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蓋世英雄電影freeguy中文主題曲"
         }
       ],
       "releaseDate": null,
@@ -6935,6 +7747,7 @@
       "browseId": "MPREb_vQeVR1moh8h",
       "playlistId": "OLAK5uy_m4BdTIKvVzotSe-djiqXtxZawF581huuE",
       "title": "ONE 一個 (Live 版) - ONE (Live)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/AMx37Dtl5f_Z3whWRmlM2QHYUHqaB-YQXppIJEKraR89AC10dxFXpnCQcwWRBpTmnfuiQQpRuuSsbhVr=w544-h544-l90-rj",
@@ -6947,7 +7760,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 348,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "one一個#live"
         }
       ],
       "releaseDate": "2023-02-07",
@@ -6959,6 +7773,7 @@
       "browseId": "MPREb_Ihlx9l8vLi1",
       "playlistId": "OLAK5uy_mdE5rPuN1K1MgmED9eD1cSWb_kTamVF8U",
       "title": "想見就能相見 (Live 版) - See You Soon (Live)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/8api10NVqfb8maAbxE_dTCyXgHuXx6ookV8GLn2AVKE2zpyKM10x_6gnr4W0B5DVUXDfBzo6g1nhdkQ=w544-h544-l90-rj",
@@ -6971,7 +7786,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 305,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "想見就能相見#live"
         }
       ],
       "releaseDate": "2023-02-14",
@@ -6983,6 +7799,7 @@
       "browseId": "MPREb_oVH5Ae1KEAp",
       "playlistId": "OLAK5uy_kQKgBPwuihhIwpWGV2Ebr2up-iH3HFv8w",
       "title": "想见就能相见",
+      "albumArtist": "王力宏",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/lBG0FyebQeRxLK0KIjMBhGWhFGRpoTbTsXszzguQkMxaI8i3CtyrqIor-1D2XCpGCPpQL-ctZhhl3Ak=w544-h544-l90-rj",
@@ -6995,7 +7812,9 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "想見就能相見",
+          "titleZh": "想見就能相見"
         }
       ],
       "releaseDate": "2023-02-14",
@@ -7007,6 +7826,7 @@
       "browseId": "MPREb_rdtl39RRc0v",
       "playlistId": "OLAK5uy_nXdZ8MoDRtaOadJ0VRUMySmfd5vIHsTAM",
       "title": "王力宏2022福利秀 - Everything (Live) - Leehom Wang 2022 Free Show - Everything (Live)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/4lt-Dt3TpBvw8MN0Gll7FpuNLClYR7wdC5CCP5t2WcpAJzUYT20gr_NMtH0zWRa4WG_umlHdTw8c3hOa=w544-h544-l90-rj",
@@ -7019,7 +7839,9 @@
           "plays": 630000,
           "playsText": "630K plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "everything#live",
+          "titleZh": "Everything (Live)"
         }
       ],
       "releaseDate": null,
@@ -7031,6 +7853,7 @@
       "browseId": "MPREb_8vrYin0uD3l",
       "playlistId": "OLAK5uy_kpmapMfwDErOvIw79LrniIH4ZgjfpJDNk",
       "title": "王力宏2022福利秀 - 不可能錯過你 (Live) - Leehom Wang 2022 Free Show - Impossible to Miss You (Live)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/FChvKE7_WNlDfNjQn1tMU2C1bnZ8W0SDMqBAaLULDqztblTGAfn-Ah3RjS7kkqdXg1d494CGlXERvcM=w544-h544-l90-rj",
@@ -7043,7 +7866,9 @@
           "plays": 264000,
           "playsText": "264K plays",
           "duration": 315,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不可能錯過你#live",
+          "titleZh": "不可能錯過你 (Live)"
         }
       ],
       "releaseDate": null,
@@ -7055,6 +7880,7 @@
       "browseId": "MPREb_mAEYw42zyW0",
       "playlistId": "OLAK5uy_m8RmmO3ElywoToFPrO3ozmdZrmNAwRLq4",
       "title": "王力宏2022福利秀 - 腳本 (Live) - Leehom Wang 2022 Free Show - Screenplay (Live)",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/tEi7RRzojlw-rZefm6Xf8HN4XGVQM6aDfEwifX7YzATUQFPXLYiYRhYP5FohkKNNGVPP1CpHZJZjdpQM=w544-h544-l90-rj",
@@ -7067,7 +7893,9 @@
           "plays": 327000,
           "playsText": "327K plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "腳本#live",
+          "titleZh": "腳本 (Live)"
         }
       ],
       "releaseDate": null,
@@ -7079,6 +7907,7 @@
       "browseId": "MPREb_LK2JSe5mY2i",
       "playlistId": "OLAK5uy_mFdY34NZtkfUTBJqSE7nqvoSm68_OlTYU",
       "title": "I'm Alive",
+      "albumArtist": "Leehom Wang",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/5ZpeRnq9nWWK2wGZO56GCx6ZMB4QsrI1cCKpUmbNGqELl48Xtw72pyj8xoIxPb9vvOrtMXfKBijNKKuY=w544-h544-l90-rj",
@@ -7091,7 +7920,8 @@
           "plays": 324000,
           "playsText": "324K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "imalive#live"
         }
       ],
       "releaseDate": "2025-01-01",
@@ -7103,6 +7933,7 @@
       "browseId": "MPREb_lyeNjsqScwz",
       "playlistId": "OLAK5uy_n_jo7NM8A06sZ7JtWWcItEpD3refMn3EM",
       "title": "愛錯 (feat. 單依純) (Live) - Wrong Love (feat. Shan YiChun) (Live)",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/rd2uct4KT2WFozL0CfIxjq7CMI64QCRAycerMWtSEEokqZBqLSp2mOWyWnwuJX9xZqXPNtMl71zoK4-w6A=w544-h544-l90-rj",
@@ -7115,7 +7946,8 @@
           "plays": 3800000,
           "playsText": "3.8M plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛錯#live"
         }
       ],
       "releaseDate": null,
@@ -7127,6 +7959,7 @@
       "browseId": "MPREb_tHb53kxwCJl",
       "playlistId": "OLAK5uy_mYdbbHCXdoabqiJaAAv30vHHCXNaoQh88",
       "title": "火力全開 (2025 成都演唱會Live版) - Open Fire (2025 Chengdu Concert Live Version)",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/vSAURHaPSaPSUJ3qvUXXlwGrdeBc7lRlrlCtHVFryDGqaNxK4ARPudC2KJjMremdstd_LlwxHrCF_SA=w544-h544-l90-rj",
@@ -7139,7 +7972,8 @@
           "plays": 10000,
           "playsText": "10K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "火力全開#live"
         }
       ],
       "releaseDate": null,
@@ -7151,6 +7985,7 @@
       "browseId": "MPREb_b9mw1rU2plQ",
       "playlistId": "OLAK5uy_kdBptxUN6HO9_z9N5gejXjgbJSjBqiMAs",
       "title": "王力宏福利秀2025 - Forever Love (Live) - WANG LEEHOM FREE SHOW 2025 - Forever Love (Live) (feat. Shila Amzah)",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/M83hpCpY9jLTlq6VSyBjACQceDZr9Fvry37ikf-vqPWnl9jOtH5fudDNc3GwqGTWqLMXxya1JsGLlwqW=w544-h544-l90-rj",
@@ -7163,7 +7998,9 @@
           "plays": 849000,
           "playsText": "849K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foreverlove#live",
+          "titleZh": "Forever Love (Live)"
         }
       ],
       "releaseDate": null,
@@ -7175,6 +8012,7 @@
       "browseId": "MPREb_LClOpAc4xKQ",
       "playlistId": "OLAK5uy_lMQ4WW1Ik92mogUa8DKzXChPwXjv6wuKQ",
       "title": "王力宏福利秀2025 - Turn the Lights Back On (Live) - WANG LEEHOM FREE SHOW 2025 - Turn the Lights Back On (Live)",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/qkhnusjx_GZrSZyBohTMlQ2HoJmxzD-2Rz4yLJRCsIADuyh9LV62co5fPWbxePE4Jkv9XIS22L2q_GUtow=w544-h544-l90-rj",
@@ -7187,7 +8025,9 @@
           "plays": 52000,
           "playsText": "52K plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "turnthelightsbackon#live",
+          "titleZh": "Turn the Lights Back On (Live)"
         }
       ],
       "releaseDate": null,
@@ -7199,6 +8039,7 @@
       "browseId": "MPREb_WN75YPaknVl",
       "playlistId": "OLAK5uy_lhC4LQF9sADXmKIT9T4Coon3jSbEBsRl8",
       "title": "王力宏福利秀2025 - 愛錯 (Live) - WANG LEEHOM FREE SHOW 2025 - Wrong Love (Live)",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/y5AS6fCzuAYyUwMK6xhl2Sc64KCWevEPVO29xkkhPFbhv-U_3wXXouGncP2ilYokkZXcxMS_WtfMG4Fm=w544-h544-l90-rj",
@@ -7211,7 +8052,9 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛錯#live",
+          "titleZh": "愛錯 (Live)"
         }
       ],
       "releaseDate": null,
@@ -7223,6 +8066,7 @@
       "browseId": "MPREb_z1NDncYDXc8",
       "playlistId": "OLAK5uy_nkkXsqE76BKDkCc5Ixu8Z1FVV3EJDv0YI",
       "title": "「最好的地方」演唱會主題曲 - \"The Best Place\" Concert Theme Song",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/iE2gncJ8eJuCuxPRp_10oTGkdchIaE-pVISZZq_IY0VQhfvDepy09hgvilZ4qTh2emhhpLOcu3fBqO5d=w544-h544-l90-rj",
@@ -7235,7 +8079,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 77,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最好的地方演唱會主題曲#live"
         }
       ],
       "releaseDate": null,
@@ -7247,6 +8092,7 @@
       "browseId": "MPREb_RFUofehsRCx",
       "playlistId": "OLAK5uy_mf5O2EUSNDtuJmTSci-aTlCkUR9dl7EN8",
       "title": "「最好的地方II」演唱會主題曲 - \"The Best Place II\" Concert Theme Song",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/MLeMFaLR42oMCNC6TwMzlMnf18m93zBzoGhKfM_OWVpaB-qpbfUHj1kjLGGDPWizBmVFJ0SDJJjUM3k1Zg=w544-h544-l90-rj",
@@ -7259,7 +8105,8 @@
           "plays": 3900,
           "playsText": "3.9K plays",
           "duration": 131,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最好的地方ii演唱會主題曲#live"
         }
       ],
       "releaseDate": null,
@@ -7271,6 +8118,7 @@
       "browseId": "MPREb_YqHUOYQJbm4",
       "playlistId": "OLAK5uy_l-QVVQ9AEqrMTy2zhXv6YUXnLKuk7DpJE",
       "title": "Come What May",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/J5zv2TKlQzP3e93RryQ0SFmxZFxT_ufp_z4Hgie2kKt0hPWoU57uM6c9iIIhw1lzV6VAw8sxdHlR3ITd=w544-h544-l90-rj",
@@ -7283,7 +8131,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 236,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "comewhatmay"
         }
       ],
       "releaseDate": null,
@@ -7295,6 +8144,7 @@
       "browseId": "MPREb_SO7weC4iHuV",
       "playlistId": "OLAK5uy_mjXjh461nw5_VdP0IZ6t6ALhQkBjo0NdU",
       "title": "Hope",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/MJVutmdQ2jy8HLTVoVQG4h8RyMT03JH1qhushU2B6INxtYTWh0r3uG7QhMacwJAuTPKN2C2xWk5TXmp2RA=w544-h544-l90-rj",
@@ -7307,7 +8157,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "hope"
         }
       ],
       "releaseDate": null,
@@ -7319,6 +8170,7 @@
       "browseId": "MPREb_Km4QLehT85K",
       "playlistId": "OLAK5uy_nX20Bd3kguf5Tb5lVEN496jn03BcRazxw",
       "title": "他們都是我們的孩子 - Aren't They All Our Children",
+      "albumArtist": "Wang Leehom",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/LCB1vR0NNOrDaG_dMsNMV3qmOdj7CBEZQqEF0YKkzqNZWRDBqSmhK4dUY2aLuk3xRShrPLV_qL6Ev9FJ=w544-h544-l90-rj",
@@ -7331,7 +8183,8 @@
           "plays": 5200,
           "playsText": "5.2K plays",
           "duration": 291,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "他們都是我們的孩子"
         }
       ],
       "releaseDate": null,

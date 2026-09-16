@@ -2,19 +2,21 @@
   "slug": "chyi-chin",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-16T17:33:39.374Z",
+  "fetchedAt": "2026-09-16T19:10:26.567Z",
   "artist": {
     "channelId": "UCXAFPuHD3vHw9agvXeY948A",
     "name": "齊秦 - Qin Qi",
     "thumbnail": "https://yt3.googleusercontent.com/hUk9LI1kNFZX9w84b6A6cN56L7PZ6qjhC7cXAqYKdqdYrb2Zpq3nQ9gZEUTpwblcQE7mqHlHr488JDAj=w2880-h1200-p-l90-rj",
     "subscribers": 6220,
-    "monthlyAudience": null
+    "monthlyAudience": null,
+    "avatar": "https://yt3.googleusercontent.com/M-ZlwzrH-KF4fu9dJ2XFHuzpFzRHD5g7KdnaGZPg6o1WFNLYHaRUlnySuV1wVQVhwZl2UsCT=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
       "browseId": "MPREb_ooE8p62YpO2",
       "playlistId": "OLAK5uy_lQlE6H4MLIJcMrOsrfRBKrIvEpW7vlfUQ",
       "title": "又見溜溜的她",
+      "albumArtist": "齊秦",
       "type": "Album",
       "year": 1981,
       "thumbnail": "https://yt3.googleusercontent.com/msyGXJwMmLVFdzfmSP0ZXz5jNuf8JZ8OImY36caDGtvuI5JVoZXNMSQ5wtxodRA8HKA6FROVTEJfCSh3=w544-h544-l90-rj",
@@ -27,7 +29,8 @@
           "plays": 573000,
           "playsText": "573K plays",
           "duration": 176,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "又見溜溜的她"
         },
         {
           "index": 2,
@@ -37,7 +40,8 @@
           "plays": 340,
           "playsText": "340 plays",
           "duration": 142,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "河"
         },
         {
           "index": 3,
@@ -47,7 +51,8 @@
           "plays": 2200,
           "playsText": "2.2K plays",
           "duration": 156,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "來跟著我"
         },
         {
           "index": 4,
@@ -57,7 +62,8 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 147,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "乘著彩雲來"
         },
         {
           "index": 5,
@@ -67,7 +73,8 @@
           "plays": 1200,
           "playsText": "1.2K plays",
           "duration": 210,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我彈我唱"
         },
         {
           "index": 6,
@@ -77,7 +84,8 @@
           "plays": 2700,
           "playsText": "2.7K plays",
           "duration": 160,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "長髮溜溜的姑娘"
         },
         {
           "index": 7,
@@ -87,7 +95,8 @@
           "plays": 335,
           "playsText": "335 plays",
           "duration": 180,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "尋找一個你"
         },
         {
           "index": 8,
@@ -97,7 +106,8 @@
           "plays": 2000,
           "playsText": "2K plays",
           "duration": 197,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "歌不唱心不爽"
         },
         {
           "index": 9,
@@ -107,7 +117,8 @@
           "plays": 6400,
           "playsText": "6.4K plays",
           "duration": 201,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "遠方的故鄉"
         },
         {
           "index": 10,
@@ -117,7 +128,8 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 183,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "這首歌"
         }
       ],
       "releaseDate": "1981-01-01",
@@ -129,6 +141,7 @@
       "browseId": "MPREb_ZhAFPBUKwLL",
       "playlistId": "OLAK5uy_kshyaWIixg3LPbPXdVwChX4Pyzx7FFgRo",
       "title": "狼 - Wolf",
+      "albumArtist": "齊秦",
       "type": "Album",
       "year": 1985,
       "thumbnail": "https://yt3.googleusercontent.com/YZc1lFVstYfLV10rkMoutbWMel0HfhaaUdVh4tgXALbXY8kzh06wM-Eh1B1A6JExhTQxfEe9mEaV-IXi=w544-h544-l90-rj",
@@ -141,7 +154,8 @@
           "plays": 216000,
           "playsText": "216K plays",
           "duration": 334,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狼"
         },
         {
           "index": 2,
@@ -151,7 +165,8 @@
           "plays": 5400000,
           "playsText": "5.4M plays",
           "duration": 314,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "原來的我"
         },
         {
           "index": 3,
@@ -161,7 +176,8 @@
           "plays": 47000,
           "playsText": "47K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "太陽雨"
         },
         {
           "index": 4,
@@ -171,7 +187,8 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 348,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "曾幾何時"
         },
         {
           "index": 5,
@@ -181,7 +198,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "被遺忘的"
         },
         {
           "index": 6,
@@ -191,7 +209,8 @@
           "plays": 496000,
           "playsText": "496K plays",
           "duration": 359,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "埡口"
         },
         {
           "index": 7,
@@ -201,7 +220,8 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 327,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不必勉強"
         },
         {
           "index": 8,
@@ -211,7 +231,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "異鄉遊子"
         },
         {
           "index": 9,
@@ -221,7 +242,8 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 383,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "歲月的休止符"
         },
         {
           "index": 10,
@@ -231,7 +253,8 @@
           "plays": 8600,
           "playsText": "8.6K plays",
           "duration": 185,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狂想"
         }
       ],
       "releaseDate": null,
@@ -243,6 +266,7 @@
       "browseId": "MPREb_rfxeK9j9Fa3",
       "playlistId": "OLAK5uy_mCiec2JydHpPe3kV4k3zprbRkhgh03ThY",
       "title": "出沒",
+      "albumArtist": "齊秦",
       "type": "Album",
       "year": 1986,
       "thumbnail": "https://yt3.googleusercontent.com/pGqCq7sSt__0t3yT1k7ZvWO-QpzgX47wPZt4v9_e4IlItnesqWdY_rWAM8_owcNuV4jKptvAA6sr4uVC=w544-h544-l90-rj",
@@ -255,7 +279,8 @@
           "plays": 68000,
           "playsText": "68K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "九個太陽"
         },
         {
           "index": 2,
@@ -265,7 +290,8 @@
           "plays": 286000,
           "playsText": "286K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "蜉蝣"
         },
         {
           "index": 3,
@@ -275,7 +301,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寄旅"
         },
         {
           "index": 4,
@@ -285,7 +312,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 175,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "朋友"
         },
         {
           "index": 5,
@@ -295,7 +323,8 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "冷月"
         },
         {
           "index": 6,
@@ -305,7 +334,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 326,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "出沒"
         },
         {
           "index": 7,
@@ -315,7 +345,8 @@
           "plays": 91000,
           "playsText": "91K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讓我孤獨的時候還能夠想著你"
         },
         {
           "index": 8,
@@ -325,7 +356,8 @@
           "plays": 7400,
           "playsText": "7.4K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "門與窗"
         },
         {
           "index": 9,
@@ -335,7 +367,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "火車快開"
         },
         {
           "index": 10,
@@ -345,7 +378,8 @@
           "plays": 5800,
           "playsText": "5.8K plays",
           "duration": 167,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "今天明天"
         }
       ],
       "releaseDate": "1986-01-01",
@@ -357,6 +391,7 @@
       "browseId": "MPREb_rvEGMz7p1tA",
       "playlistId": "OLAK5uy_l3SZ7LNHN3iUeWd88T4gqDy69M1bFuE6E",
       "title": "冬雨 - Winter Rain",
+      "albumArtist": "齊秦",
       "type": "Album",
       "year": 1987,
       "thumbnail": "https://yt3.googleusercontent.com/0T7ic-ZhWmxcZi2dUTWlktN88IasSpP2ZxkdPfxkYEpakGoMxZJr_pJplz_9l9MoiKyQPRVDgnuCEcY=w544-h544-l90-rj",
@@ -369,7 +404,8 @@
           "plays": 953000,
           "playsText": "953K plays",
           "duration": 313,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "冬雨"
         },
         {
           "index": 2,
@@ -379,7 +415,8 @@
           "plays": 35000,
           "playsText": "35K plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "獨行"
         },
         {
           "index": 3,
@@ -389,7 +426,8 @@
           "plays": 7400000,
           "playsText": "7.4M plays",
           "duration": 320,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "外面的世界"
         },
         {
           "index": 4,
@@ -399,7 +437,8 @@
           "plays": 43000,
           "playsText": "43K plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "黑暗的沉思"
         },
         {
           "index": 5,
@@ -409,7 +448,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "戀的冥想"
         },
         {
           "index": 6,
@@ -419,7 +459,8 @@
           "plays": 144000,
           "playsText": "144K plays",
           "duration": 315,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "空白"
         },
         {
           "index": 7,
@@ -429,7 +470,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "感"
         },
         {
           "index": 8,
@@ -439,7 +481,8 @@
           "plays": 14000000,
           "playsText": "14M plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大約在冬季"
         },
         {
           "index": 9,
@@ -449,7 +492,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "也許就足夠"
         },
         {
           "index": 10,
@@ -459,7 +503,8 @@
           "plays": 111000,
           "playsText": "111K plays",
           "duration": 303,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "請你別對我說再見"
         }
       ],
       "releaseDate": "1987-02-18",
@@ -471,6 +516,7 @@
       "browseId": "MPREb_aaUJ7fB1vMp",
       "playlistId": "OLAK5uy_n2hMgisABkW9C7Nf6wH2gWv9m_XJM7mpc",
       "title": "狼(Ⅱ) - Wolf (Ⅱ)",
+      "albumArtist": "齊秦",
       "type": "Album",
       "year": 1987,
       "thumbnail": "https://yt3.googleusercontent.com/POXGrJA3edLKfr1QQ6o1KBduBba7IePQ9fzVrTJZFCCVk463tzhQg9vptxbtv-5TOOe7DItIR-B0hL8y=w544-h544-l90-rj",
@@ -480,10 +526,11 @@
           "title": "狼II(巡行)",
           "artists": "",
           "videoId": "Zomwykpw_Sg",
-          "plays": 61000,
-          "playsText": "61K plays",
+          "plays": 62000,
+          "playsText": "62K plays",
           "duration": 346,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狼ii"
         },
         {
           "index": 2,
@@ -493,7 +540,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "花祭"
         },
         {
           "index": 3,
@@ -503,7 +551,8 @@
           "plays": 675000,
           "playsText": "675K plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狂流"
         },
         {
           "index": 4,
@@ -513,7 +562,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 188,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "離家的路"
         },
         {
           "index": 5,
@@ -523,7 +573,8 @@
           "plays": 28000,
           "playsText": "28K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心中的鳳凰城"
         },
         {
           "index": 6,
@@ -533,7 +584,8 @@
           "plays": 9900,
           "playsText": "9.9K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狼"
         },
         {
           "index": 7,
@@ -543,7 +595,8 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 291,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "昨天的太陽"
         },
         {
           "index": 8,
@@ -553,7 +606,8 @@
           "plays": 90000,
           "playsText": "90K plays",
           "duration": 350,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "自己的沙場"
         },
         {
           "index": 9,
@@ -563,7 +617,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "尋"
         },
         {
           "index": 10,
@@ -573,7 +628,8 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "價值"
         }
       ],
       "releaseDate": null,
@@ -585,6 +641,7 @@
       "browseId": "MPREb_TYoEksmzAE3",
       "playlistId": "OLAK5uy_nEv2h4mXUk9rHOo-OP6cIT6bEGwKeWWzs",
       "title": "一首歌的故事",
+      "albumArtist": "齊秦 & 李超",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/Ia0uQSREnRjvBWUF7hfCcD3wWSsi3k2J4TJdxnTRefeNZ2-GTlhklvwbCmfdbq0k6OQ61ya1DEd_LYY=w544-h544-l90-rj",
@@ -597,7 +654,8 @@
           "plays": 684,
           "playsText": "684 plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一首歌的故事"
         }
       ],
       "releaseDate": null,
@@ -609,6 +667,7 @@
       "browseId": "MPREb_H1UQDS6XkqX",
       "playlistId": "OLAK5uy_lLyGGY7BNC1jC-OvfF7mVHzar5MO8qdkg",
       "title": "可惜了",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/aVpcvBlmPHVt7u98SKYDgul8rVSlZ8KvJD2uz9yHZDJWgKicXySfp03pBMR90vgUOVurZQPjOx6mTwA=w544-h544-l90-rj",
@@ -621,7 +680,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "可惜了電影大約在冬季主題片尾曲"
         }
       ],
       "releaseDate": null,
@@ -633,6 +693,7 @@
       "browseId": "MPREb_OHDSGptFtF7",
       "playlistId": "OLAK5uy_mO20oxmuQquVLXbbPAsVrC0FZEUJdqWsQ",
       "title": "大約在冬季(群星版)",
+      "albumArtist": "齊秦, 馬思純, 霍建華, 魏大勛, 張瑤, 林柏宏, 侯佩岑",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/ZN_0MlQSCM6hHJeWLl5cofvhivp7Cl5K0oi4WespJgKpc0HhH-tz2FXYZI2wbdWwW57kfmAyxCYCifcfPg=w544-h544-l90-rj",
@@ -645,7 +706,8 @@
           "plays": 713000,
           "playsText": "713K plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大約在冬季"
         }
       ],
       "releaseDate": null,
@@ -657,6 +719,7 @@
       "browseId": "MPREb_7zetixVso5w",
       "playlistId": "OLAK5uy_n91_s-D4AY3g39Qa0-qTqTE8oiM6ALJ2s",
       "title": "大約在冬季2019",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/GXBIRcwOh6ls1nRhC4WVTu99zOg1mCChYKrV1tza5Qhqsd50ECr0-EYLMjGPHvQaUXXbGXYXGA4hYAv5=w544-h544-l90-rj",
@@ -669,7 +732,8 @@
           "plays": 273000,
           "playsText": "273K plays",
           "duration": 309,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大約在冬季2019"
         }
       ],
       "releaseDate": null,
@@ -681,6 +745,7 @@
       "browseId": "MPREb_gDIZi4hfPOX",
       "playlistId": "OLAK5uy_lQE1cr2bFDmamzwSy8rvsNfhWnjF7w1eY",
       "title": "安然之歌",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/69jdLtkiJubU-XRRRKXRlWxmekVYtUIa5OJ91xQTLPNz9wE-xuUT1TYTTJMFuSfiWFTTSEM-Ch76bSwB=w544-h544-l90-rj",
@@ -693,7 +758,9 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "電影大約在冬季插曲",
+          "titleZh": "電影<大約在冬季>插曲"
         }
       ],
       "releaseDate": null,
@@ -705,6 +772,7 @@
       "browseId": "MPREb_D70sr4tuim4",
       "playlistId": "OLAK5uy_mbHhD78TBo1XNunA3Qq66fePVAfXsmdmc",
       "title": "大乘天",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/t3sQUHyIacqqdNgoFvGoRxuqUBkQNC7y2GQoxdsNJvs4VnMOJMWdKslPSF2CTt-NLdYHMNmIJRH2ibR6=w544-h544-l90-rj",
@@ -717,7 +785,8 @@
           "plays": 112000,
           "playsText": "112K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大乘天"
         }
       ],
       "releaseDate": null,
@@ -729,6 +798,7 @@
       "browseId": "MPREb_TaAeqZpqTmk",
       "playlistId": "OLAK5uy_mosoaJJ5iUmuJuL7m01pSlxq1qKqaC2S4",
       "title": "柳川西街的少年",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/8Zh-qEmPIcHkx5C4rMFnIEWzQFQ4sNr4sQGZXScI2CjA4Jsj2LcElyo7yBQJjw_sYpnKnCzPT1eDeUc=w544-h544-l90-rj",
@@ -741,7 +811,8 @@
           "plays": 89000,
           "playsText": "89K plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "柳川西街的少年"
         }
       ],
       "releaseDate": null,
@@ -753,6 +824,7 @@
       "browseId": "MPREb_WzcNq6VLBpo",
       "playlistId": "OLAK5uy_m7rc0R6z2aKvo5hewzQscqxUU3q6dy9hE",
       "title": "偷回憶的人",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/oMPpfBMTFmEKucoqGa-uH9SJGW2Wg0VTbOaPsTtwllSaxmBDclc3mFP1W164AO40fK2CA9SQ4PXfqWjg=w544-h544-l90-rj",
@@ -765,7 +837,8 @@
           "plays": 35000,
           "playsText": "35K plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "偷回憶的人"
         }
       ],
       "releaseDate": null,
@@ -777,6 +850,7 @@
       "browseId": "MPREb_XEz2X47hgaM",
       "playlistId": "OLAK5uy_mMrwn3GWOE0zuqs5FUuzyWWKWkMWjhfQ8",
       "title": "問秋風 (電視劇《相逢時節》主題曲)",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/Gqz3ID87VW1JZBhHl2b8Tcts6PXDwY0hI3EpO54ZBKyOlt9rpZtYO4Uyo0juTaQrUOAdwXZOI710WGo=w544-h544-l90-rj",
@@ -789,7 +863,8 @@
           "plays": 150000,
           "playsText": "150K plays",
           "duration": 315,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "問秋風"
         }
       ],
       "releaseDate": null,
@@ -801,6 +876,7 @@
       "browseId": "MPREb_Oy2DFYTNqAC",
       "playlistId": "OLAK5uy_mqQarTXIupPISgLOcct5mvBlspx5UoB-I",
       "title": "有生之年",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/u8JK8DpQjBCMcJvTVkH1Auhkv05jt22qHA1uzSuWP09Te6EkHDQlRsUtkKb6a9PdovTVAeklcqW6YIjL=w544-h544-l90-rj",
@@ -813,7 +889,8 @@
           "plays": 46000,
           "playsText": "46K plays",
           "duration": 372,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "有生之年"
         }
       ],
       "releaseDate": null,
@@ -825,6 +902,7 @@
       "browseId": "MPREb_FtFDSxJUxzf",
       "playlistId": "OLAK5uy_mKYdC-GuTMS1CJNyrz_wbU1A16Xki8IY0",
       "title": "電視劇《相逢時節》原聲帶",
+      "albumArtist": "齊秦, 周深, 薩吉 & 關喆",
       "type": "EP",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/5F7AFtEHFkPwKh5NEJBD84Uvvsfn7EIyhFPzbnG4C7z6OwGQw98ns-nPXL1t2M6_gARHVdoVacVwcgkdyQ=w544-h544-l90-rj",
@@ -837,7 +915,8 @@
           "plays": 150000,
           "playsText": "150K plays",
           "duration": 315,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "問秋風"
         },
         {
           "index": 2,
@@ -847,7 +926,8 @@
           "plays": 514000,
           "playsText": "514K plays",
           "duration": 231,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "在意"
         },
         {
           "index": 3,
@@ -857,7 +937,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 233,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "我願意"
         },
         {
           "index": 4,
@@ -867,7 +948,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 209,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "以為"
         }
       ],
       "releaseDate": null,
@@ -879,6 +961,7 @@
       "browseId": "MPREb_2I68aYCtvZt",
       "playlistId": "OLAK5uy_k9dVlTNj3Zme5O-VBo8ZCLhdQ83kjhME4",
       "title": "For The Children",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/WLmIFvAkVYEaOwRLCA3WAdEWPfHGT247JPoJ7X786mdCbXPX7ipNZjt2_JnHWhaggAuZIBvN2hYZX5Zjsw=w544-h544-l90-rj",
@@ -891,7 +974,8 @@
           "plays": 7200,
           "playsText": "7.2K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "forthechildren"
         }
       ],
       "releaseDate": null,
@@ -903,6 +987,7 @@
       "browseId": "MPREb_48om2c7738n",
       "playlistId": "OLAK5uy_mH90aNEThkwZqF-yya2i-c6q2Yo7ZQ3wo",
       "title": "別離曲",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/CgPfbrGhccv8gBvwcgAH7FYrA_BtmWnsETdWI61MKDLQCqWH2RF1Ftx7aNBzsyyox4dV3NNXln4QU3c=w544-h544-l90-rj",
@@ -915,7 +1000,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 302,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "別離曲"
         }
       ],
       "releaseDate": null,
@@ -927,6 +1013,7 @@
       "browseId": "MPREb_1Iy8bvZspDA",
       "playlistId": "OLAK5uy_kBFQ4j8Y3vu_HOg0hz8RIM3TbzdzBsFiU",
       "title": "稀客",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/hUk9LI1kNFZX9w84b6A6cN56L7PZ6qjhC7cXAqYKdqdYrb2Zpq3nQ9gZEUTpwblcQE7mqHlHr488JDAj=w544-h544-l90-rj",
@@ -939,7 +1026,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 296,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "稀客"
         }
       ],
       "releaseDate": null,
@@ -951,6 +1039,7 @@
       "browseId": "MPREb_7cBa9UT93TQ",
       "playlistId": "OLAK5uy_lWXy9XMo4F60yt5w0SowxKIlWWQKv2JRs",
       "title": "虛度",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/4M-UWu5SNxHGp90N5W2LWv6qrxFC4ZIKbvGFQU1M51ugmvcJo-7VVAGvNj8J7Xbam_hHtg7Y7t9IPWdjJg=w544-h544-l90-rj",
@@ -963,7 +1052,8 @@
           "plays": 7200,
           "playsText": "7.2K plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "forthechildren"
         },
         {
           "index": 2,
@@ -973,7 +1063,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "虛度"
         },
         {
           "index": 3,
@@ -983,7 +1074,8 @@
           "plays": 4400,
           "playsText": "4.4K plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "豈不妙哉"
         }
       ],
       "releaseDate": null,
@@ -995,6 +1087,7 @@
       "browseId": "MPREb_Sofzk1PGKBE",
       "playlistId": "OLAK5uy_noMFTEY3DHrrmTwQ0gVP_yGUastRFIS1A",
       "title": "虛度",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/jkQjj3vfVVHVexJAwfZmrOyAKnIQ0a-Sh5CtR9jJ_BCAAqGmowI-5Mymh393pJr-1QKFsxZp0yp8tic7=w544-h544-l90-rj",
@@ -1007,7 +1100,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "虛度"
         }
       ],
       "releaseDate": null,
@@ -1019,6 +1113,7 @@
       "browseId": "MPREb_ZlAxDacs76h",
       "playlistId": "OLAK5uy_nL71f1gPl27CsC3aL85m9XL1bpwFXWlzY",
       "title": "豈不妙哉",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/R9OKmzbVWwzjIUXmXoCo1og94HECkqTcejwwAENPPxkNadwadXNrAbKWMtxChMzoUcdvUs7yJJtGkJDw=w544-h544-l90-rj",
@@ -1031,7 +1126,8 @@
           "plays": 4400,
           "playsText": "4.4K plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "豈不妙哉"
         }
       ],
       "releaseDate": null,
@@ -1043,6 +1139,7 @@
       "browseId": "MPREb_QJjiP6EQBBX",
       "playlistId": "OLAK5uy_lV7WJS_we_p2DdI4gppAQiLcB9VwONmis",
       "title": "阿姆斯特丹白色的長廊",
+      "albumArtist": "齊秦",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/C3lIAbIHIkirPDSiScGeFp6f8AEA1t3fm0XfMTqs7Sm-QuUcpxoRcD_2Ax1aT3zzWgK4Fx7_o6iRaIDo=w544-h544-l90-rj",
@@ -1055,7 +1152,8 @@
           "plays": 23000,
           "playsText": "23K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "阿姆斯特丹白色的長廊"
         }
       ],
       "releaseDate": null,

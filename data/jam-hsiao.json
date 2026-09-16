@@ -2,19 +2,21 @@
   "slug": "jam-hsiao",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-16T18:54:33.665Z",
+  "fetchedAt": "2026-09-16T19:16:13.588Z",
   "artist": {
     "channelId": "UCvjGf4upqUNaqi524A5AHIw",
     "name": "蕭敬騰 - Jam Hsiao",
     "thumbnail": "https://lh3.googleusercontent.com/Gyy2xABTpK5i7fgSoMEpveMgazcNxeBwoPeVqjf-NBh9u2Ijp3m8XfaUx0NAUbSk7RU7NFMkDfLCVFw=w2880-h1200-p-l90-rj",
     "subscribers": 375000,
-    "monthlyAudience": 1600000
+    "monthlyAudience": 1600000,
+    "avatar": "https://yt3.googleusercontent.com/t8Q4upuisvRCvvTkxsO-qGwVVG9jLGF3bJYwnbM-5nXyC0u3d3sla4A04Ur_2Id6eH7a9trg=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
       "browseId": "MPREb_NNW7rT9apQz",
       "playlistId": "OLAK5uy_nZnIK246E_F11U9u9v-KSDxcQTv6IaAac",
       "title": "同名專輯 - Tong Ming Zhuan Ji",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/GV66vZ2eYxELNXeKzD8oyVu1M-YEd8B5E0EQPzMLEn74uB_dRNr25ZOne0b0k-mPl4RLkM6N2xQ75QWP=w544-h544-l90-rj",
@@ -27,7 +29,8 @@
           "plays": 3500000,
           "playsText": "3.5M plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "收藏"
         },
         {
           "index": 2,
@@ -37,7 +40,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王子的新衣"
         },
         {
           "index": 3,
@@ -47,7 +51,8 @@
           "plays": 9500000,
           "playsText": "9.5M plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "原諒我"
         },
         {
           "index": 4,
@@ -57,7 +62,8 @@
           "plays": 816000,
           "playsText": "816K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "奮不顧身"
         },
         {
           "index": 5,
@@ -67,7 +73,8 @@
           "plays": 4200000,
           "playsText": "4.2M plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "疼愛"
         },
         {
           "index": 6,
@@ -77,7 +84,8 @@
           "plays": 813000,
           "playsText": "813K plays",
           "duration": 314,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "多希望你在"
         },
         {
           "index": 7,
@@ -87,7 +95,8 @@
           "plays": 577000,
           "playsText": "577K plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "活著"
         },
         {
           "index": 8,
@@ -97,7 +106,8 @@
           "plays": 323000,
           "playsText": "323K plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一輩子存在"
         },
         {
           "index": 9,
@@ -107,7 +117,8 @@
           "plays": 504000,
           "playsText": "504K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我在哭"
         },
         {
           "index": 10,
@@ -117,7 +128,8 @@
           "plays": 132000,
           "playsText": "132K plays",
           "duration": 211,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "blues"
         },
         {
           "index": 11,
@@ -127,7 +139,8 @@
           "plays": 1800000,
           "playsText": "1.8M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "海芋戀"
         }
       ],
       "releaseDate": "2008-06-16",
@@ -139,6 +152,7 @@
       "browseId": "MPREb_ZB4wCgv4lDs",
       "playlistId": "OLAK5uy_mu051LCTsuoW2VSYo31a3mKaovlb8bYgg",
       "title": "蕭敬騰 (First Live 影音限定版) - Jam Hsiao (First Live Version)",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2008,
       "thumbnail": "https://yt3.googleusercontent.com/2SeUBKV7l-ilieKvraexlzq7-LcfMmDQM0r4tvzBsCH6cHZUMORfEHGo_F_42JUVrmO3uAsYNaV7XBsm=w544-h544-l90-rj",
@@ -151,17 +165,19 @@
           "plays": 5900,
           "playsText": "5.9K plays",
           "duration": 313,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王子的新衣#live"
         },
         {
           "index": 2,
           "title": "活著 (Live) - Alive (Live)",
           "artists": "Jam Hsiao",
           "videoId": "-UuWko1iPQo",
-          "plays": 2900,
-          "playsText": "2.9K plays",
+          "plays": 3000,
+          "playsText": "3K plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "活著#live"
         },
         {
           "index": 3,
@@ -171,7 +187,8 @@
           "plays": 7800,
           "playsText": "7.8K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "海芋戀#live"
         },
         {
           "index": 4,
@@ -181,7 +198,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 236,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夠不夠#live"
         },
         {
           "index": 5,
@@ -191,7 +209,8 @@
           "plays": 8400,
           "playsText": "8.4K plays",
           "duration": 263,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "lovesongliveversion#live"
         },
         {
           "index": 6,
@@ -201,7 +220,8 @@
           "plays": 3200,
           "playsText": "3.2K plays",
           "duration": 284,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "奮不顧身#live"
         },
         {
           "index": 7,
@@ -211,7 +231,8 @@
           "plays": 728,
           "playsText": "728 plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一輩子存在#live"
         },
         {
           "index": 8,
@@ -221,7 +242,8 @@
           "plays": 540,
           "playsText": "540 plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我在哭#live"
         },
         {
           "index": 9,
@@ -231,7 +253,8 @@
           "plays": 870000,
           "playsText": "870K plays",
           "duration": 190,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "blues"
         },
         {
           "index": 10,
@@ -241,7 +264,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "疼愛#live"
         },
         {
           "index": 11,
@@ -251,7 +275,8 @@
           "plays": 74000,
           "playsText": "74K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "原諒我#live"
         },
         {
           "index": 12,
@@ -261,7 +286,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "多希望你在#live"
         },
         {
           "index": 13,
@@ -271,7 +297,8 @@
           "plays": 2400,
           "playsText": "2.4K plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "收藏#live"
         }
       ],
       "releaseDate": null,
@@ -283,6 +310,7 @@
       "browseId": "MPREb_ECYj8gneuHj",
       "playlistId": "OLAK5uy_kpyjWC3nXFKJE2OX_LRiWifUDp4bSO7NA",
       "title": "王妃 - Princess",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/Af052adXklj7MzzTaWVKf0pRSKZrCE3sYzS4EZLtlLKes9rkAw9Sc4w7UdAQ59xjD6FZUXi5ZMZn-sZO=w544-h544-l90-rj",
@@ -295,7 +323,8 @@
           "plays": 32000000,
           "playsText": "32M plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王妃"
         },
         {
           "index": 2,
@@ -305,7 +334,8 @@
           "plays": 7500000,
           "playsText": "7.5M plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我不會愛"
         },
         {
           "index": 3,
@@ -315,7 +345,8 @@
           "plays": 13000000,
           "playsText": "13M plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "阿飛的小蝴蝶"
         },
         {
           "index": 4,
@@ -325,7 +356,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "善男信女"
         },
         {
           "index": 5,
@@ -335,7 +367,9 @@
           "plays": 437000,
           "playsText": "437K plays",
           "duration": 209,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "Say A Lil Something (台南Live巡迴版)",
+          "nameKey": "sayalilsomething"
         },
         {
           "index": 6,
@@ -345,7 +379,8 @@
           "plays": 30000,
           "playsText": "30K plays",
           "duration": 231,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛遊戲"
         },
         {
           "index": 7,
@@ -355,7 +390,8 @@
           "plays": 6800,
           "playsText": "6.8K plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小男人大男孩"
         },
         {
           "index": 8,
@@ -365,7 +401,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "會痛的石頭"
         },
         {
           "index": 9,
@@ -375,7 +412,8 @@
           "plays": 4700000,
           "playsText": "4.7M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛過了頭"
         },
         {
           "index": 10,
@@ -385,7 +423,9 @@
           "plays": 2800,
           "playsText": "2.8K plays",
           "duration": 199,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "Green Door (台南Live巡迴版)",
+          "nameKey": "greendoor"
         },
         {
           "index": 11,
@@ -395,7 +435,8 @@
           "plays": 152000,
           "playsText": "152K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "給愛人"
         },
         {
           "index": 12,
@@ -405,7 +446,8 @@
           "plays": 74000,
           "playsText": "74K plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寂寞還是你"
         }
       ],
       "releaseDate": "2009-07-17",
@@ -417,6 +459,7 @@
       "browseId": "MPREb_9ofSg6c0FTo",
       "playlistId": "OLAK5uy_kXAztAWXYZmjjVgP7kbYPCRYYcGpFLuSk",
       "title": "愛的時刻 自選輯 - Ai De Shi Ke Zi Xuan Ji",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/g87qnFKhoKMl8gPZP4t_16i_s-raDME6A5ALBhS7rORRbyMoHBKkfx-k8oo4qZ9Dwe1g8vME-_RBoCP7=w544-h544-l90-rj",
@@ -429,7 +472,8 @@
           "plays": 658000,
           "playsText": "658K plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "開到荼靡"
         },
         {
           "index": 2,
@@ -439,7 +483,8 @@
           "plays": 15000000,
           "playsText": "15M plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "新不了情"
         },
         {
           "index": 3,
@@ -449,7 +494,8 @@
           "plays": 5900000,
           "playsText": "5.9M plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果沒有你"
         },
         {
           "index": 4,
@@ -459,7 +505,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢一場"
         },
         {
           "index": 5,
@@ -469,7 +516,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無言花"
         },
         {
           "index": 6,
@@ -479,7 +527,9 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我懷唸的",
+          "titleZh": "我懷唸的"
         },
         {
           "index": 7,
@@ -489,7 +539,8 @@
           "plays": 97000,
           "playsText": "97K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "記念"
         },
         {
           "index": 8,
@@ -499,7 +550,8 @@
           "plays": 4900,
           "playsText": "4.9K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寫一首歌"
         },
         {
           "index": 9,
@@ -509,7 +561,8 @@
           "plays": 257000,
           "playsText": "257K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "記得"
         },
         {
           "index": 10,
@@ -519,7 +572,8 @@
           "plays": 6200000,
           "playsText": "6.2M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "倒帶"
         }
       ],
       "releaseDate": "2009-11-13",
@@ -531,6 +585,7 @@
       "browseId": "MPREb_JG4vKHaaZAV",
       "playlistId": "OLAK5uy_nbz3at2zTt6CCFQZly-eCxySHYmwHVSqY",
       "title": "王妃 (Live版) - Princess Live Version",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2009,
       "thumbnail": "https://yt3.googleusercontent.com/dWyHw6B5tkIdOE2uTAp7rNyPkMTaO_mQ7WSNMQXyZeaXZvyRYQO47UfJQ7R6tbKrx0EWBhdHRBehLJAJ8w=w544-h544-l90-rj",
@@ -543,7 +598,9 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 303,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王妃#live",
+          "titleZh": "王妃 (臺南Live巡迴版)"
         },
         {
           "index": 2,
@@ -553,7 +610,9 @@
           "plays": 4200,
           "playsText": "4.2K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "善男信女#live",
+          "titleZh": "善男信女 (臺南Live巡迴版)"
         },
         {
           "index": 3,
@@ -563,7 +622,9 @@
           "plays": 6400,
           "playsText": "6.4K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛過了頭#live",
+          "titleZh": "愛過了頭 (臺南Live巡迴版)"
         },
         {
           "index": 4,
@@ -573,7 +634,9 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小男人大男孩#live",
+          "titleZh": "小男人大男孩 (臺南Live巡迴版)"
         },
         {
           "index": 5,
@@ -583,7 +646,9 @@
           "plays": 1300,
           "playsText": "1.3K plays",
           "duration": 182,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "greendoor#live",
+          "titleZh": "Green Door (臺南Live巡迴版)"
         },
         {
           "index": 6,
@@ -593,7 +658,9 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "sayalilsomething#live",
+          "titleZh": "Say A Lil Something (臺南Live巡迴版)"
         },
         {
           "index": 7,
@@ -603,7 +670,9 @@
           "plays": 3200,
           "playsText": "3.2K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我不會愛#live",
+          "titleZh": "我不會愛 (臺南Live巡迴版)"
         },
         {
           "index": 8,
@@ -613,7 +682,9 @@
           "plays": 151000,
           "playsText": "151K plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "阿飛的小蝴蝶#live",
+          "titleZh": "阿飛的小蝴蝶 (臺南Live巡迴版)"
         },
         {
           "index": 9,
@@ -623,7 +694,9 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寂寞還是你#live",
+          "titleZh": "寂寞還是你 (臺南Live巡迴版)"
         },
         {
           "index": 10,
@@ -633,7 +706,9 @@
           "plays": 39000,
           "playsText": "39K plays",
           "duration": 328,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "會痛的石頭#live",
+          "titleZh": "會痛的石頭 (臺南Live巡迴版)"
         }
       ],
       "releaseDate": null,
@@ -645,6 +720,7 @@
       "browseId": "MPREb_UgCUmzEUKSR",
       "playlistId": "OLAK5uy_mX2hBcpC4PEiBNT3u88ZBsL7ZqzNySplI",
       "title": "洛克先生Mr. Rock演唱會LIVE紀實 - Mr. Rock Live Concert",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2010,
       "thumbnail": "https://yt3.googleusercontent.com/Bz0eT5wL3zqwd7R4pUeb5pYB_EB6pH-h3oFOZz7aF-w3oZN4NsTWG8WobPtdW-l1qQ86J-UNuYSnHvkxuw=w544-h544-l90-rj",
@@ -657,7 +733,8 @@
           "plays": 162,
           "playsText": "162 plays",
           "duration": 64,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "opening#live"
         },
         {
           "index": 2,
@@ -667,7 +744,8 @@
           "plays": 2000,
           "playsText": "2K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王子的新衣#live"
         },
         {
           "index": 3,
@@ -677,7 +755,8 @@
           "plays": 378,
           "playsText": "378 plays",
           "duration": 178,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "上海灘#live"
         },
         {
           "index": 4,
@@ -687,7 +766,8 @@
           "plays": 469,
           "playsText": "469 plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "樹枝孤鳥#live"
         },
         {
           "index": 5,
@@ -697,7 +777,8 @@
           "plays": 584000,
           "playsText": "584K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "desperado#live"
         },
         {
           "index": 6,
@@ -707,7 +788,8 @@
           "plays": 8600,
           "playsText": "8.6K plays",
           "duration": 327,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "給愛人#live"
         },
         {
           "index": 7,
@@ -717,7 +799,8 @@
           "plays": 97000,
           "playsText": "97K plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我不會愛#live"
         },
         {
           "index": 8,
@@ -727,7 +810,8 @@
           "plays": 2400,
           "playsText": "2.4K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "會痛的石頭#live"
         },
         {
           "index": 9,
@@ -737,7 +821,8 @@
           "plays": 414,
           "playsText": "414 plays",
           "duration": 318,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "開到荼靡#live"
         },
         {
           "index": 10,
@@ -747,7 +832,8 @@
           "plays": 457,
           "playsText": "457 plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無言花#live"
         },
         {
           "index": 11,
@@ -757,7 +843,9 @@
           "plays": 283000,
           "playsText": "283K plays",
           "duration": 308,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我懷唸的#live",
+          "titleZh": "我懷唸的 (Live)"
         },
         {
           "index": 12,
@@ -767,7 +855,8 @@
           "plays": 578000,
           "playsText": "578K plays",
           "duration": 429,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "組曲看我72變飛起來愛的抱抱nobody#live"
         },
         {
           "index": 13,
@@ -777,7 +866,8 @@
           "plays": 565,
           "playsText": "565 plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "阿飛的小蝴蝶#live"
         },
         {
           "index": 14,
@@ -787,7 +877,9 @@
           "plays": 152,
           "playsText": "152 plays",
           "duration": 213,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "Say A Lil Something (台南Live巡迴版)",
+          "nameKey": "sayalilsomething#live"
         },
         {
           "index": 15,
@@ -797,7 +889,8 @@
           "plays": 65000,
           "playsText": "65K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "新不了情#live"
         },
         {
           "index": 16,
@@ -807,7 +900,8 @@
           "plays": 9000,
           "playsText": "9K plays",
           "duration": 185,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "心如刀割#live"
         },
         {
           "index": 17,
@@ -817,7 +911,8 @@
           "plays": 340000,
           "playsText": "340K plays",
           "duration": 138,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "衝動的懲罰#live"
         },
         {
           "index": 18,
@@ -827,7 +922,8 @@
           "plays": 323000,
           "playsText": "323K plays",
           "duration": 133,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛如潮水#live"
         },
         {
           "index": 19,
@@ -837,7 +933,8 @@
           "plays": 286000,
           "playsText": "286K plays",
           "duration": 127,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "童話#live"
         },
         {
           "index": 20,
@@ -847,7 +944,8 @@
           "plays": 202,
           "playsText": "202 plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "活著#live"
         },
         {
           "index": 21,
@@ -857,7 +955,8 @@
           "plays": 982,
           "playsText": "982 plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "善男信女#live"
         },
         {
           "index": 22,
@@ -867,7 +966,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "原諒我#live"
         },
         {
           "index": 23,
@@ -877,7 +977,8 @@
           "plays": 200,
           "playsText": "200 plays",
           "duration": 189,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "blues#live"
         },
         {
           "index": 24,
@@ -887,7 +988,8 @@
           "plays": 327,
           "playsText": "327 plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小男人大男孩#live"
         },
         {
           "index": 25,
@@ -897,7 +999,8 @@
           "plays": 478,
           "playsText": "478 plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "海芋戀#live"
         },
         {
           "index": 26,
@@ -907,7 +1010,8 @@
           "plays": 94000,
           "playsText": "94K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寂寞還是你#live"
         },
         {
           "index": 27,
@@ -917,7 +1021,8 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王妃#live"
         },
         {
           "index": 28,
@@ -927,7 +1032,8 @@
           "plays": 231000,
           "playsText": "231K plays",
           "duration": 389,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "組曲征服背叛#live"
         },
         {
           "index": 29,
@@ -937,7 +1043,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "收藏#live"
         },
         {
           "index": 30,
@@ -947,7 +1054,8 @@
           "plays": 6800,
           "playsText": "6.8K plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "晚安曲#live"
         },
         {
           "index": 31,
@@ -957,7 +1065,8 @@
           "plays": 66,
           "playsText": "66 plays",
           "duration": 142,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ending#live"
         }
       ],
       "releaseDate": "2010-07-05",
@@ -969,6 +1078,7 @@
       "browseId": "MPREb_NLif3MTx5O0",
       "playlistId": "OLAK5uy_npIiFF28pHdDhgjxEtaoZmM7Veos_RMN8",
       "title": "狂想曲 - WILD DREAMS",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/Vx0Q9w5fJkg9VGlW20c5I8N6OFekirBSZua8rGg8t8yiwVIFZwGGldgDhYZyVlyhsPIKQFLJtkXEGTFEZg=w544-h544-l90-rj",
@@ -981,7 +1091,8 @@
           "plays": 8500000,
           "playsText": "8.5M plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你"
         },
         {
           "index": 2,
@@ -991,7 +1102,8 @@
           "plays": 3000000,
           "playsText": "3M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "複製人"
         },
         {
           "index": 3,
@@ -1001,7 +1113,8 @@
           "plays": 7800000,
           "playsText": "7.8M plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狂想曲"
         },
         {
           "index": 4,
@@ -1011,7 +1124,8 @@
           "plays": 34000000,
           "playsText": "34M plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "只能想念你"
         },
         {
           "index": 5,
@@ -1021,7 +1135,8 @@
           "plays": 311000,
           "playsText": "311K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "話不多"
         },
         {
           "index": 6,
@@ -1031,7 +1146,8 @@
           "plays": 24000000,
           "playsText": "24M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "怎麼說我不愛你"
         },
         {
           "index": 7,
@@ -1041,7 +1157,8 @@
           "plays": 454000,
           "playsText": "454K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不停有意外的世界"
         },
         {
           "index": 8,
@@ -1051,7 +1168,8 @@
           "plays": 922000,
           "playsText": "922K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "敷衍"
         },
         {
           "index": 9,
@@ -1061,7 +1179,8 @@
           "plays": 416000,
           "playsText": "416K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "信仰"
         },
         {
           "index": 10,
@@ -1071,7 +1190,8 @@
           "plays": 96000,
           "playsText": "96K plays",
           "duration": 302,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想對你說"
         },
         {
           "index": 11,
@@ -1081,7 +1201,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想對你說"
         },
         {
           "index": 12,
@@ -1091,7 +1212,8 @@
           "plays": 2600,
           "playsText": "2.6K plays",
           "duration": 150,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白蛇傳"
         },
         {
           "index": 13,
@@ -1101,7 +1223,8 @@
           "plays": 208000,
           "playsText": "208K plays",
           "duration": 168,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "茉莉戀"
         },
         {
           "index": 14,
@@ -1111,7 +1234,8 @@
           "plays": 192000,
           "playsText": "192K plays",
           "duration": 213,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "看對眼"
         }
       ],
       "releaseDate": "2011-06-30",
@@ -1123,6 +1247,7 @@
       "browseId": "MPREb_Hp5751Wq7TR",
       "playlistId": "OLAK5uy_lmI36tBhQ-PGvMyK8-ITPlmeum1NvOyhs",
       "title": "漁人碼頭夏日狂想曲新歌演唱會 (2nd Version) - Jam Wild Dreams (2nd Version)",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2011,
       "thumbnail": "https://yt3.googleusercontent.com/casNLIyyk4a-g2qO08K2RTLXVdyJsauLR3qPJgqo4srRXkO-JN-18b6P_F-KrmvvIKYdBvb9XZzToHspbg=w544-h544-l90-rj",
@@ -1135,7 +1260,8 @@
           "plays": 8500000,
           "playsText": "8.5M plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你"
         },
         {
           "index": 2,
@@ -1145,7 +1271,8 @@
           "plays": 3000000,
           "playsText": "3M plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "複製人"
         },
         {
           "index": 3,
@@ -1155,7 +1282,8 @@
           "plays": 7800000,
           "playsText": "7.8M plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狂想曲"
         },
         {
           "index": 4,
@@ -1165,7 +1293,8 @@
           "plays": 34000000,
           "playsText": "34M plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "只能想念你"
         },
         {
           "index": 5,
@@ -1175,7 +1304,8 @@
           "plays": 311000,
           "playsText": "311K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "話不多"
         },
         {
           "index": 6,
@@ -1185,7 +1315,8 @@
           "plays": 24000000,
           "playsText": "24M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "怎麼說我不愛你"
         },
         {
           "index": 7,
@@ -1195,7 +1326,8 @@
           "plays": 454000,
           "playsText": "454K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不停有意外的世界"
         },
         {
           "index": 8,
@@ -1205,7 +1337,8 @@
           "plays": 922000,
           "playsText": "922K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "敷衍"
         },
         {
           "index": 9,
@@ -1215,7 +1348,8 @@
           "plays": 416000,
           "playsText": "416K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "信仰"
         },
         {
           "index": 10,
@@ -1225,7 +1359,8 @@
           "plays": 96000,
           "playsText": "96K plays",
           "duration": 302,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想對你說"
         },
         {
           "index": 11,
@@ -1235,7 +1370,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 307,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想對你說"
         },
         {
           "index": 12,
@@ -1245,7 +1381,8 @@
           "plays": 2600,
           "playsText": "2.6K plays",
           "duration": 150,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白蛇傳"
         },
         {
           "index": 13,
@@ -1255,7 +1392,8 @@
           "plays": 208000,
           "playsText": "208K plays",
           "duration": 168,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "茉莉戀"
         },
         {
           "index": 14,
@@ -1265,7 +1403,8 @@
           "plays": 192000,
           "playsText": "192K plays",
           "duration": 213,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "看對眼"
         },
         {
           "index": 15,
@@ -1275,7 +1414,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 341,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狂想曲#live"
         },
         {
           "index": 16,
@@ -1285,7 +1425,8 @@
           "plays": 918,
           "playsText": "918 plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "話不多#live"
         },
         {
           "index": 17,
@@ -1295,7 +1436,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "複製人#live"
         },
         {
           "index": 18,
@@ -1305,7 +1447,8 @@
           "plays": 475,
           "playsText": "475 plays",
           "duration": 357,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想對你說#live"
         },
         {
           "index": 19,
@@ -1315,7 +1458,8 @@
           "plays": 565,
           "playsText": "565 plays",
           "duration": 290,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你#live"
         },
         {
           "index": 20,
@@ -1325,7 +1469,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "怎麼說我不愛你#live"
         },
         {
           "index": 21,
@@ -1335,7 +1480,8 @@
           "plays": 1800,
           "playsText": "1.8K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不停有意外的世界#live"
         },
         {
           "index": 22,
@@ -1345,7 +1491,8 @@
           "plays": 222,
           "playsText": "222 plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "信仰#live"
         },
         {
           "index": 23,
@@ -1355,7 +1502,8 @@
           "plays": 1900,
           "playsText": "1.9K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "只能想念你#live"
         },
         {
           "index": 24,
@@ -1365,7 +1513,8 @@
           "plays": 360,
           "playsText": "360 plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "敷衍#live"
         },
         {
           "index": 25,
@@ -1375,7 +1524,8 @@
           "plays": 346,
           "playsText": "346 plays",
           "duration": 171,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白蛇傳#live"
         },
         {
           "index": 26,
@@ -1385,7 +1535,8 @@
           "plays": 687,
           "playsText": "687 plays",
           "duration": 369,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王妃#live"
         }
       ],
       "releaseDate": null,
@@ -1397,6 +1548,7 @@
       "browseId": "MPREb_HtO86VqsM68",
       "playlistId": "OLAK5uy_kkXKug_b7vDhXa69QcY2_9U9kcdkrzTBo",
       "title": "蕭敬騰同名世界巡迴演唱會香港紅磡站-有一種精神叫蕭敬騰 - Xiao Jing Teng Tong Ming Shi Jie Xun Hui Yan Chang Hui Xiang Gang Hong Kan Zhan - You Yi Zhong Jing Shen Jiao Xiao Jing Teng",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2012,
       "thumbnail": "https://yt3.googleusercontent.com/t_zWAl79SClok8j1RwDG4Q2VBIWC-0CIRJqTqHrIHt5Rm22lSTKP_hgvJ4tNR1pRz5zKUFQBfrLmfvjw=w544-h544-l90-rj",
@@ -1409,7 +1561,8 @@
           "plays": 472,
           "playsText": "472 plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狂想曲#live"
         },
         {
           "index": 2,
@@ -1419,7 +1572,8 @@
           "plays": 241,
           "playsText": "241 plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "livingonaprayer#live"
         },
         {
           "index": 3,
@@ -1429,7 +1583,8 @@
           "plays": 8300,
           "playsText": "8.3K plays",
           "duration": 195,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "軋車#live"
         },
         {
           "index": 4,
@@ -1439,7 +1594,8 @@
           "plays": 1200,
           "playsText": "1.2K plays",
           "duration": 374,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "海闊天空#live"
         },
         {
           "index": 5,
@@ -1449,7 +1605,8 @@
           "plays": 456,
           "playsText": "456 plays",
           "duration": 297,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "每天愛你多一些#live"
         },
         {
           "index": 6,
@@ -1459,7 +1616,8 @@
           "plays": 6500,
           "playsText": "6.5K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "原諒我#live"
         },
         {
           "index": 7,
@@ -1469,7 +1627,8 @@
           "plays": 352,
           "playsText": "352 plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "話不多#live"
         },
         {
           "index": 8,
@@ -1479,7 +1638,8 @@
           "plays": 852,
           "playsText": "852 plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "複製人#live"
         },
         {
           "index": 9,
@@ -1489,7 +1649,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我不會愛#live"
         },
         {
           "index": 10,
@@ -1499,7 +1660,8 @@
           "plays": 203,
           "playsText": "203 plays",
           "duration": 482,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你#live"
         },
         {
           "index": 11,
@@ -1509,7 +1671,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 320,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "追#live"
         },
         {
           "index": 12,
@@ -1519,7 +1682,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "親密愛人#live"
         },
         {
           "index": 13,
@@ -1529,7 +1693,8 @@
           "plays": 254,
           "playsText": "254 plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "closetoyou#live"
         },
         {
           "index": 14,
@@ -1539,7 +1704,8 @@
           "plays": 244,
           "playsText": "244 plays",
           "duration": 210,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘情森巴舞#live"
         },
         {
           "index": 15,
@@ -1549,7 +1715,8 @@
           "plays": 294,
           "playsText": "294 plays",
           "duration": 126,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一支獨秀#live"
         },
         {
           "index": 16,
@@ -1559,7 +1726,8 @@
           "plays": 656,
           "playsText": "656 plays",
           "duration": 314,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "組曲重愛輕友眉飛色舞#live"
         },
         {
           "index": 17,
@@ -1569,7 +1737,8 @@
           "plays": 281,
           "playsText": "281 plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "信仰#live"
         },
         {
           "index": 18,
@@ -1579,7 +1748,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "阿飛的小蝴蝶#live"
         },
         {
           "index": 19,
@@ -1589,7 +1759,8 @@
           "plays": 945,
           "playsText": "945 plays",
           "duration": 354,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想對你說#live"
         },
         {
           "index": 20,
@@ -1599,7 +1770,8 @@
           "plays": 513,
           "playsText": "513 plays",
           "duration": 284,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "收藏#live"
         },
         {
           "index": 21,
@@ -1609,7 +1781,8 @@
           "plays": 841,
           "playsText": "841 plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "只能想念你#live"
         },
         {
           "index": 22,
@@ -1619,7 +1792,8 @@
           "plays": 2000,
           "playsText": "2K plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "新不了情#live"
         },
         {
           "index": 23,
@@ -1629,7 +1803,8 @@
           "plays": 832,
           "playsText": "832 plays",
           "duration": 559,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王妃#live"
         },
         {
           "index": 24,
@@ -1639,7 +1814,8 @@
           "plays": 189000,
           "playsText": "189K plays",
           "duration": 156,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白蛇傳#live"
         },
         {
           "index": 25,
@@ -1649,7 +1825,8 @@
           "plays": 216,
           "playsText": "216 plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "yougiveloveabadname#live"
         }
       ],
       "releaseDate": "2012-02-07",
@@ -1661,6 +1838,7 @@
       "browseId": "MPREb_BP9UzSIC3hg",
       "playlistId": "OLAK5uy_lRgfJYxSLhGfrVbnAwOVcErlEZ55WaX0o",
       "title": "以愛之名 - IT'S ALL ABOUT LOVE",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2012,
       "thumbnail": "https://yt3.googleusercontent.com/YrQM8V-oCDkRTcGFbHbDhXLgyufZUEQKm2KJbXyQeCHPIfVzOV_TAYVjWw8TEU1pEF2xgJ70t5Ka4uQ=w544-h544-l90-rj",
@@ -1673,7 +1851,8 @@
           "plays": 2800000,
           "playsText": "2.8M plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "福爾摩斯"
         },
         {
           "index": 2,
@@ -1683,7 +1862,8 @@
           "plays": 965000,
           "playsText": "965K plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "爸爸"
         },
         {
           "index": 3,
@@ -1693,7 +1873,9 @@
           "plays": 22000000,
           "playsText": "22M plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "Marry me (詞：蕭敬騰 曲：陳奐仁 林雅慧)",
+          "nameKey": "marryme"
         },
         {
           "index": 4,
@@ -1703,7 +1885,8 @@
           "plays": 199000,
           "playsText": "199K plays",
           "duration": 210,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不正常"
         },
         {
           "index": 5,
@@ -1713,7 +1896,8 @@
           "plays": 50000,
           "playsText": "50K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "活在故事裡"
         },
         {
           "index": 6,
@@ -1723,7 +1907,8 @@
           "plays": 3200000,
           "playsText": "3.2M plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "以愛之名"
         },
         {
           "index": 7,
@@ -1733,7 +1918,8 @@
           "plays": 3800,
           "playsText": "3.8K plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果"
         },
         {
           "index": 8,
@@ -1743,7 +1929,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "兄弟我說"
         },
         {
           "index": 9,
@@ -1753,7 +1940,8 @@
           "plays": 5500,
           "playsText": "5.5K plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "練習曲"
         },
         {
           "index": 10,
@@ -1763,7 +1951,8 @@
           "plays": 236000,
           "playsText": "236K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "純金打造"
         },
         {
           "index": 11,
@@ -1773,7 +1962,8 @@
           "plays": 113000,
           "playsText": "113K plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你知道嗎"
         },
         {
           "index": 12,
@@ -1783,7 +1973,8 @@
           "plays": 297000,
           "playsText": "297K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第六感"
         }
       ],
       "releaseDate": "2012-11-30",
@@ -1795,6 +1986,7 @@
       "browseId": "MPREb_k7BdtrC5nVv",
       "playlistId": "OLAK5uy_n3gv2MlWs_TN2hFwRI9iKvMnWd3NmbOgQ",
       "title": "Mr. Jazz - A song for you",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2012,
       "thumbnail": "https://yt3.googleusercontent.com/qvb_JinlhclZIAG-GCOJpTkLA6UizDNdxJDa91wLONq-EhMcN2sw7KCm6Qd8dnqsMZwscSnqcfYCJy8=w544-h544-l90-rj",
@@ -1807,7 +1999,8 @@
           "plays": 331,
           "playsText": "331 plays",
           "duration": 73,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "intro"
         },
         {
           "index": 2,
@@ -1817,7 +2010,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 160,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "foronceinmylife"
         },
         {
           "index": 3,
@@ -1827,7 +2021,8 @@
           "plays": 108000,
           "playsText": "108K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "forsentimentalreasons"
         },
         {
           "index": 4,
@@ -1837,7 +2032,8 @@
           "plays": 33000,
           "playsText": "33K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "howcanyoumendabrokenheart"
         },
         {
           "index": 5,
@@ -1847,7 +2043,8 @@
           "plays": 573000,
           "playsText": "573K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "howdeepisyourlove"
         },
         {
           "index": 6,
@@ -1857,7 +2054,8 @@
           "plays": 7900,
           "playsText": "7.9K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "fever"
         },
         {
           "index": 7,
@@ -1867,7 +2065,8 @@
           "plays": 46000,
           "playsText": "46K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "savethelastdanceforme"
         },
         {
           "index": 8,
@@ -1877,7 +2076,8 @@
           "plays": 64000,
           "playsText": "64K plays",
           "duration": 162,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "rhythmoftherain"
         },
         {
           "index": 9,
@@ -1887,7 +2087,8 @@
           "plays": 145000,
           "playsText": "145K plays",
           "duration": 392,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "sorryseemstobethehardestword"
         },
         {
           "index": 10,
@@ -1897,7 +2098,8 @@
           "plays": 20000,
           "playsText": "20K plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "putyourheadonmyshoulder"
         },
         {
           "index": 11,
@@ -1907,7 +2109,8 @@
           "plays": 395,
           "playsText": "395 plays",
           "duration": 117,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "lovebandmembersintroduction"
         },
         {
           "index": 12,
@@ -1917,7 +2120,8 @@
           "plays": 61000,
           "playsText": "61K plays",
           "duration": 169,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "love"
         },
         {
           "index": 13,
@@ -1927,7 +2131,8 @@
           "plays": 205000,
           "playsText": "205K plays",
           "duration": 358,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "asongforyou"
         }
       ],
       "releaseDate": null,
@@ -1939,6 +2144,7 @@
       "browseId": "MPREb_ONampYb3Ewe",
       "playlistId": "OLAK5uy_n4_PeGYegJvcxJ0PJk0vPy-b6J3O8vgPg",
       "title": "悲愛 - Sorrow Of Love",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2012,
       "thumbnail": "https://yt3.googleusercontent.com/kdynKXPNGYo7Goe0RmQXiA0kilCXKeyYxo-rq0t9mwTnyWzX4YWjNW_GiUdAwS1bVjoVMiT85g662REt=w544-h544-l90-rj",
@@ -1951,7 +2157,8 @@
           "plays": 379000,
           "playsText": "379K plays",
           "duration": 292,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "悲愛"
         }
       ],
       "releaseDate": null,
@@ -1963,6 +2170,7 @@
       "browseId": "MPREb_O6m8AjFqU4l",
       "playlistId": "OLAK5uy_n7R209Yy4WuKldl2sOw-LCV96aAMVDgG0",
       "title": "約定你 - Yue Ding Ni",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2012,
       "thumbnail": "https://yt3.googleusercontent.com/dCUsVfee31xiHOhaMSDY8duKwloEgkl3aH7IYbGuvUio0saPs-nl_XuQTu0i80jzfBtJTg6GzNJ3-Rt9=w544-h544-l90-rj",
@@ -1975,7 +2183,8 @@
           "plays": 274000,
           "playsText": "274K plays",
           "duration": 365,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "約定你"
         }
       ],
       "releaseDate": null,
@@ -1987,6 +2196,7 @@
       "browseId": "MPREb_STrvlsCrMQd",
       "playlistId": "OLAK5uy_lnW__1hdmoFncpvr64XVh-imDnkqedJfs",
       "title": "蕭敬騰同名世界巡迴演唱會2012台北站 - Jam's Live World Tour Taipei 2012",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2013,
       "thumbnail": "https://yt3.googleusercontent.com/Ca8vo8AUJuW26j8CB3VIZb8jKnFCi8QBpPbSYnl17IfXaUChJ-CpCsfJTmqYH3UYmJKhOJVHWPMLqcZEyA=w544-h544-l90-rj",
@@ -1999,7 +2209,8 @@
           "plays": 1000,
           "playsText": "1K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "狂想曲#live"
         },
         {
           "index": 2,
@@ -2009,7 +2220,8 @@
           "plays": 266,
           "playsText": "266 plays",
           "duration": 147,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白蛇傳#live"
         },
         {
           "index": 3,
@@ -2019,7 +2231,8 @@
           "plays": 396,
           "playsText": "396 plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "離開地球表面#live"
         },
         {
           "index": 4,
@@ -2029,7 +2242,8 @@
           "plays": 757,
           "playsText": "757 plays",
           "duration": 368,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "征服#live"
         },
         {
           "index": 5,
@@ -2039,7 +2253,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 284,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "會痛的石頭#live"
         },
         {
           "index": 6,
@@ -2049,7 +2264,8 @@
           "plays": 5000,
           "playsText": "5K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "怎麼說我不愛你#live"
         },
         {
           "index": 7,
@@ -2059,7 +2275,8 @@
           "plays": 516,
           "playsText": "516 plays",
           "duration": 413,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "原諒我#live"
         },
         {
           "index": 8,
@@ -2069,7 +2286,8 @@
           "plays": 266,
           "playsText": "266 plays",
           "duration": 374,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一輩子存在#live"
         },
         {
           "index": 9,
@@ -2079,7 +2297,8 @@
           "plays": 388,
           "playsText": "388 plays",
           "duration": 431,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "好想對你說#live"
         },
         {
           "index": 10,
@@ -2089,7 +2308,9 @@
           "plays": 227,
           "playsText": "227 plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "Say A Lil Something (台南Live巡迴版)",
+          "nameKey": "sayalilsomething#live"
         },
         {
           "index": 11,
@@ -2099,7 +2320,8 @@
           "plays": 490,
           "playsText": "490 plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "親密愛人#live"
         },
         {
           "index": 12,
@@ -2109,7 +2331,8 @@
           "plays": 412,
           "playsText": "412 plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寂寞還是你#live"
         },
         {
           "index": 13,
@@ -2119,7 +2342,8 @@
           "plays": 600,
           "playsText": "600 plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "疼愛#live"
         },
         {
           "index": 14,
@@ -2129,7 +2353,8 @@
           "plays": 469,
           "playsText": "469 plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "小男人大男孩#live"
         },
         {
           "index": 15,
@@ -2139,7 +2364,8 @@
           "plays": 301,
           "playsText": "301 plays",
           "duration": 121,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "青蘋果樂園#live"
         },
         {
           "index": 16,
@@ -2149,7 +2375,8 @@
           "plays": 167,
           "playsText": "167 plays",
           "duration": 127,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一支獨秀#live"
         },
         {
           "index": 17,
@@ -2159,7 +2386,8 @@
           "plays": 356,
           "playsText": "356 plays",
           "duration": 181,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "嗶嗶嗶#live"
         },
         {
           "index": 18,
@@ -2169,7 +2397,8 @@
           "plays": 147,
           "playsText": "147 plays",
           "duration": 119,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "喇舌#live"
         },
         {
           "index": 19,
@@ -2179,7 +2408,8 @@
           "plays": 242,
           "playsText": "242 plays",
           "duration": 175,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "眉飛色舞#live"
         },
         {
           "index": 20,
@@ -2189,7 +2419,8 @@
           "plays": 143,
           "playsText": "143 plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛遊戲#live"
         },
         {
           "index": 21,
@@ -2199,7 +2430,8 @@
           "plays": 362,
           "playsText": "362 plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "海芋戀#live"
         },
         {
           "index": 22,
@@ -2209,7 +2441,8 @@
           "plays": 385,
           "playsText": "385 plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "阿飛的小蝴蝶#live"
         },
         {
           "index": 23,
@@ -2219,7 +2452,8 @@
           "plays": 110,
           "playsText": "110 plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "信仰#live"
         },
         {
           "index": 24,
@@ -2229,7 +2463,8 @@
           "plays": 256,
           "playsText": "256 plays",
           "duration": 304,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "收藏#live"
         },
         {
           "index": 25,
@@ -2239,7 +2474,8 @@
           "plays": 372,
           "playsText": "372 plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "只能想念你#live"
         },
         {
           "index": 26,
@@ -2249,7 +2485,8 @@
           "plays": 873,
           "playsText": "873 plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "新不了情#live"
         },
         {
           "index": 27,
@@ -2259,7 +2496,8 @@
           "plays": 286,
           "playsText": "286 plays",
           "duration": 371,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王子的新衣#live"
         },
         {
           "index": 28,
@@ -2269,7 +2507,8 @@
           "plays": 6400,
           "playsText": "6.4K plays",
           "duration": 361,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你#live"
         },
         {
           "index": 29,
@@ -2279,7 +2518,8 @@
           "plays": 580,
           "playsText": "580 plays",
           "duration": 280,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "倒帶#live"
         },
         {
           "index": 30,
@@ -2289,7 +2529,8 @@
           "plays": 638,
           "playsText": "638 plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王妃#live"
         }
       ],
       "releaseDate": "2013-03-21",
@@ -2301,6 +2542,7 @@
       "browseId": "MPREb_c1nLSi2wezb",
       "playlistId": "OLAK5uy_mDMA5ZlBTttBh3oDiPrnUDO5YRwqqSo2E",
       "title": "到不了的地方 - Anywhere, Somewhere, Nowhere",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/dJLHe-EfwBtWMfnADK4MEM81hIoxdRln5GaaqWAM3l0QRYv7UaC0Ml35qaMDEZyzJpmeK4KbGgPhHJg=w544-h544-l90-rj",
@@ -2313,7 +2555,8 @@
           "plays": 2300000,
           "playsText": "2.3M plays",
           "duration": 286,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "到不了的地方"
         }
       ],
       "releaseDate": "2014-04-01",
@@ -2325,6 +2568,7 @@
       "browseId": "MPREb_nLo9aOiQWPv",
       "playlistId": "OLAK5uy_kODuCPgqK-cOgH-lthnkI4hEFUf5kzx60",
       "title": "The Song",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/t3Z4q11WhJNbrCdENNJf2Hhofm66BQBw3QUzKHY9vtGbWfZKs4_C9mVljbE7Mi1aKFCIxQsCNxuGtL7f=w544-h544-l90-rj",
@@ -2337,7 +2581,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "吻我吧"
         },
         {
           "index": 2,
@@ -2347,7 +2592,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我就是愛你"
         },
         {
           "index": 3,
@@ -2357,7 +2603,8 @@
           "plays": 4200,
           "playsText": "4.2K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "放開"
         },
         {
           "index": 4,
@@ -2367,7 +2614,8 @@
           "plays": 713000,
           "playsText": "713K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鈴鈴"
         },
         {
           "index": 5,
@@ -2377,7 +2625,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "說"
         },
         {
           "index": 6,
@@ -2387,7 +2636,8 @@
           "plays": 747000,
           "playsText": "747K plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "色"
         },
         {
           "index": 7,
@@ -2397,7 +2647,8 @@
           "plays": 6000,
           "playsText": "6K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我在飛"
         },
         {
           "index": 8,
@@ -2407,7 +2658,8 @@
           "plays": 737000,
           "playsText": "737K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "跟我玩"
         },
         {
           "index": 9,
@@ -2417,7 +2669,8 @@
           "plays": 2900000,
           "playsText": "2.9M plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kelly"
         },
         {
           "index": 10,
@@ -2427,7 +2680,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 179,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "這首歌"
         },
         {
           "index": 11,
@@ -2437,7 +2691,8 @@
           "plays": 315,
           "playsText": "315 plays",
           "duration": 178,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "這首歌"
         }
       ],
       "releaseDate": "2014-06-27",
@@ -2449,6 +2704,7 @@
       "browseId": "MPREb_MKf4praykCQ",
       "playlistId": "OLAK5uy_lImYWIFCIqNp0ZkutEouet5ktXw23TDQ0",
       "title": "天敵 (電影：痞子英雄-黎明再起主題曲) - Natural Enemy (The theme song of '' Black & White - The Dawn of Justice '')",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2014,
       "thumbnail": "https://yt3.googleusercontent.com/K8oZOYCy6MIkzc1Mf9oB4VfQ_nUNBcmH8oKpEXDMDnkuMkfQGRG4EiXs0_XOrplB48NJRnXBERNmQ4L1=w544-h544-l90-rj",
@@ -2461,7 +2717,9 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 332,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "naturalenemythethemesongofblackwhite",
+          "titleZh": "Natural Enemy (The Theme Song of '' Black & White"
         }
       ],
       "releaseDate": "2014-09-01",
@@ -2473,6 +2731,7 @@
       "browseId": "MPREb_e2HRvQcZS7W",
       "playlistId": "OLAK5uy_m1guQdUT33NZ9GkFPAOc1NIFp853NaARY",
       "title": "Rock K.O.",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/Wan5bZ8FH-qbALDOeX9Ejljma2pY08ZKaHt1gFdj4B51Ay08fQBOfab8qbCgrnT7GW6CiGeW7ULj854=w544-h544-l90-rj",
@@ -2485,7 +2744,8 @@
           "plays": 63000,
           "playsText": "63K plays",
           "duration": 233,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "rockko"
         }
       ],
       "releaseDate": "2015-03-01",
@@ -2497,6 +2757,7 @@
       "browseId": "MPREb_bQmPf6t5QxX",
       "playlistId": "OLAK5uy_nbKaxg9Y2S1mg7oHqpndcfz1IY3OkAp5I",
       "title": "REMINISCENCE",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2015,
       "thumbnail": "https://yt3.googleusercontent.com/8u9bGK0FCYmlxCV-vRlI1vlpVtGZMt5jDXd16JUHoWe6ne9_0dUMWQ18cm-Jz5r2xHwpPdg615fshpS_=w544-h544-l90-rj",
@@ -2509,7 +2770,8 @@
           "plays": 60000,
           "playsText": "60K plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "千言萬語"
         },
         {
           "index": 2,
@@ -2519,7 +2781,8 @@
           "plays": 46000,
           "playsText": "46K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "被遺忘的時光"
         },
         {
           "index": 3,
@@ -2529,7 +2792,8 @@
           "plays": 8600000,
           "playsText": "8.6M plays",
           "duration": 314,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "袖手旁觀"
         },
         {
           "index": 4,
@@ -2539,7 +2803,8 @@
           "plays": 5900000,
           "playsText": "5.9M plays",
           "duration": 323,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "矜持"
         },
         {
           "index": 5,
@@ -2549,7 +2814,8 @@
           "plays": 110000,
           "playsText": "110K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "張三的歌"
         },
         {
           "index": 6,
@@ -2559,7 +2825,8 @@
           "plays": 10000000,
           "playsText": "10M plays",
           "duration": 303,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一次幸福的機會"
         },
         {
           "index": 7,
@@ -2569,7 +2836,8 @@
           "plays": 42000,
           "playsText": "42K plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "親密愛人"
         },
         {
           "index": 8,
@@ -2579,7 +2847,8 @@
           "plays": 56000,
           "playsText": "56K plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "想你的人沒有睡"
         },
         {
           "index": 9,
@@ -2589,7 +2858,8 @@
           "plays": 36000,
           "playsText": "36K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛的箴言"
         },
         {
           "index": 10,
@@ -2599,7 +2869,8 @@
           "plays": 256000,
           "playsText": "256K plays",
           "duration": 446,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "城裡的月光"
         }
       ],
       "releaseDate": "2015-12-31",
@@ -2611,6 +2882,7 @@
       "browseId": "MPREb_Rz86k6qWg0m",
       "playlistId": "OLAK5uy_km-9M2fv5BVN6Ag0MUbqm3-1HcHHxiHYs",
       "title": "河 (網路劇\"河神\"主題曲) - River (The Theme Song of Web Series \"Tientsin Mystic\")",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/AtmlEqdYQ_lngAemnW602MsV36PbmuxpMXHBwc-0QS60ILoNWE64VYrlCdhUQrl4mdMM_4Jk2CT7hH-MqA=w544-h544-l90-rj",
@@ -2623,7 +2895,8 @@
           "plays": 114000,
           "playsText": "114K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "河"
         }
       ],
       "releaseDate": "2017-07-01",
@@ -2635,6 +2908,7 @@
       "browseId": "MPREb_ManXxb3uz5j",
       "playlistId": "OLAK5uy_lEw-7e7Uj6d433yORSjcpgaFjWlUGIZKs",
       "title": "請記住我 - Remember Me (Jam Hsiao Version / From \"Coco\")",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/6wKWJ2ORpTrmWdRHliksQyisqsKNOCLqW9Oylda1M7ReOi6Jk0ilDysTTg8WO9Dd5aV9-33ENi4OGnSImA=w544-h544-l90-rj",
@@ -2647,7 +2921,8 @@
           "plays": 2400000,
           "playsText": "2.4M plays",
           "duration": 194,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "rememberme"
         }
       ],
       "releaseDate": "2017-11-01",
@@ -2659,6 +2934,7 @@
       "browseId": "MPREb_m0JxKd7p0Pf",
       "playlistId": "OLAK5uy_nCrEjjKydO79SqmnZjZ8Zjm9XkqJrb7VI",
       "title": "誰是英雄 (\"蒼天英雄誌\" 遊戲主題曲) - HERO (Theme Song For \"Heroic Legend\" )",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/5iCEWkOSJ1JnyAXPm6b7QU37J6Rrbn3PEHVakL3kwV-N-Kv8R9GgCXaln9xfWrn59jaw1_-heV1YuBnn=w544-h544-l90-rj",
@@ -2671,7 +2947,8 @@
           "plays": 566000,
           "playsText": "566K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "誰是英雄"
         }
       ],
       "releaseDate": null,
@@ -2683,6 +2960,7 @@
       "browseId": "MPREb_tUDcfh5GkwY",
       "playlistId": "OLAK5uy_mj6UK08uoTS_flyqv4B8v40U_DifSssDw",
       "title": "皮囊 - Pi Nang",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/VgXTpHSv9E0KnyOAaEUmIFgQWThFs4XDuFyUJ17R4_3Deenq7rdk5Jq6wcZF3KuW-bEaEPUn7ksfsj4=w544-h544-l90-rj",
@@ -2695,7 +2973,8 @@
           "plays": 13000000,
           "playsText": "13M plays",
           "duration": 360,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "皮囊"
         }
       ],
       "releaseDate": "2018-01-13",
@@ -2707,6 +2986,7 @@
       "browseId": "MPREb_KFDIMzyNv3b",
       "playlistId": "OLAK5uy_kFMn1-ZzTrhzamxTpyZBIt_su3dWwFBu0",
       "title": "讓我為你唱情歌 - A Love Song For You",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/ZImglIt4n9vClCG4YqK4KGWSpvvebZ_9siRWFon_oc1yt7oFM_o6MNqHMgUV4nuWfiY8jjAHcHzWPqYb=w544-h544-l90-rj",
@@ -2719,7 +2999,8 @@
           "plays": 38000000,
           "playsText": "38M plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讓我為你唱情歌"
         }
       ],
       "releaseDate": "2018-05-08",
@@ -2731,6 +3012,7 @@
       "browseId": "MPREb_HMZJkxOAWv3",
       "playlistId": "OLAK5uy_lmYZFnMDVGZ7E-_7L_9RkuXLXjgq_7CT8",
       "title": "你會在哪呢 - Where Are You",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/T0evtIiBabx0r8EU1pRNV_dXnj2Bojz6xo8o1S_tZiQZPe-Ml_Hz9M9jgKdUzNL-igdtIdM7QgB09uVskw=w544-h544-l90-rj",
@@ -2743,7 +3025,8 @@
           "plays": 6300000,
           "playsText": "6.3M plays",
           "duration": 298,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你會在哪呢"
         }
       ],
       "releaseDate": "2018-05-15",
@@ -2755,6 +3038,7 @@
       "browseId": "MPREb_yT3IiATuvTc",
       "playlistId": "OLAK5uy_mTcLN-DGKHXYX2L5tezd85MRdlA4iFCRQ",
       "title": "全是愛 - All About Love",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/nHgUSl0t4XjK3MyO5WFGAZenTDpsg8pV-l80kFbaRWKGDbLHetxZ7qnjMKk4E5Pj6pmn-qOdMPbxTMc2=w544-h544-l90-rj",
@@ -2767,7 +3051,8 @@
           "plays": 8900000,
           "playsText": "8.9M plays",
           "duration": 290,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "全是愛"
         }
       ],
       "releaseDate": "2018-05-22",
@@ -2779,6 +3064,7 @@
       "browseId": "MPREb_hvykzlxPNfL",
       "playlistId": "OLAK5uy_k55BvQHo5PlDx-H2V_x0YBJBIg3s-9ROk",
       "title": "王妃 2.0 - Princess 2.0",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/wwFt-bbMOs6SDbbLuluqqfPXbbpdpzKwgVarigMdanEEFYwmEtmT1toYiVesbA5ylODv_2AtdOS85fyk=w544-h544-l90-rj",
@@ -2791,7 +3077,8 @@
           "plays": 6300000,
           "playsText": "6.3M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王妃20"
         }
       ],
       "releaseDate": "2018-05-27",
@@ -2803,6 +3090,7 @@
       "browseId": "MPREb_ohob37BTpwP",
       "playlistId": "OLAK5uy_mHAYjZ5mRnsiTVM9bNmWVg8tcRcgtwcd8",
       "title": "我有多麼喜歡你 - How Much I Love You (feat. Yoga Lin)",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/BxYkvyD_Okgic0ZcockRmE5E3XmR36nUQ6nHzyk8cm1v533Iw5hGu5aW0S6XQORigdYMw3cbCU4z5nA=w544-h544-l90-rj",
@@ -2815,7 +3103,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我有多麼喜歡你"
         }
       ],
       "releaseDate": "2018-05-28",
@@ -2827,6 +3116,7 @@
       "browseId": "MPREb_hJkytbl4ovf",
       "playlistId": "OLAK5uy_ktusz2w3UDOiV4BNU3vDtly8g8vNcl7t4",
       "title": "欲望反光 - Reflection Of Desire",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/Q_YvqQQGw7ooLWW01sNfDYRSYxjma2zhgMUV9WhulwEkqowlr39uryvKUultlAHrOzkbucaImE6UOZxK=w544-h544-l90-rj",
@@ -2839,7 +3129,8 @@
           "plays": 13000000,
           "playsText": "13M plays",
           "duration": 355,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "皮囊"
         },
         {
           "index": 2,
@@ -2849,7 +3140,8 @@
           "plays": 6300000,
           "playsText": "6.3M plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王妃20"
         },
         {
           "index": 3,
@@ -2859,7 +3151,8 @@
           "plays": 38000000,
           "playsText": "38M plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "讓我為你唱情歌"
         },
         {
           "index": 4,
@@ -2869,7 +3162,8 @@
           "plays": 6300000,
           "playsText": "6.3M plays",
           "duration": 298,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你會在哪呢"
         },
         {
           "index": 5,
@@ -2879,7 +3173,8 @@
           "plays": 8900000,
           "playsText": "8.9M plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "全是愛"
         },
         {
           "index": 6,
@@ -2889,7 +3184,9 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 178,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "慾望反光",
+          "titleZh": "慾望反光"
         },
         {
           "index": 7,
@@ -2899,7 +3196,8 @@
           "plays": 549000,
           "playsText": "549K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "迷茫世代"
         },
         {
           "index": 8,
@@ -2909,7 +3207,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "發現"
         },
         {
           "index": 9,
@@ -2919,7 +3218,8 @@
           "plays": 16000,
           "playsText": "16K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "與海鷗交談"
         },
         {
           "index": 10,
@@ -2929,7 +3229,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我有多麼喜歡你"
         },
         {
           "index": 11,
@@ -2939,7 +3240,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我有多麼喜歡你"
         }
       ],
       "releaseDate": "2018-06-22",
@@ -2951,6 +3253,7 @@
       "browseId": "MPREb_hQapRhVLl2P",
       "playlistId": "OLAK5uy_kBSlwEazxxQv272etrZE4JEYDk6cwDIpA",
       "title": "欲望反光 - Reflection Of Desire",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/Sk0SdjoiFChkYHE6Ua-U46XCeri3BEljVStOnRt8QGxoQ4K9Fq4sIF10UK6btLgCTpXJfWOCox_yU4U=w544-h544-l90-rj",
@@ -2963,7 +3266,9 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 178,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "慾望反光",
+          "titleZh": "慾望反光"
         }
       ],
       "releaseDate": "2018-06-22",
@@ -2975,6 +3280,7 @@
       "browseId": "MPREb_eCr54mVZ6SE",
       "playlistId": "OLAK5uy_nyqgf5dyPgtYcVGnnD96qJOBMCyV134WE",
       "title": "斗羅大陸 (動畫網路劇 \"斗羅大陸\" 主題曲) - The Land Of Warriors (Theme Song of ''The Land Of Warriors'' )",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/QincAeKOiWblK30qNEXhiaps7O1m9plTph2vp3-eU0nlbrZYkgd21ycHDgVIcc_FdawzBUaMgUumaFs8=w544-h544-l90-rj",
@@ -2987,7 +3293,9 @@
           "plays": 652000,
           "playsText": "652K plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "鬥羅大陸",
+          "titleZh": "鬥羅大陸 (動畫網路劇 \"鬥羅大陸\" 主題曲)"
         }
       ],
       "releaseDate": null,
@@ -2999,6 +3307,7 @@
       "browseId": "MPREb_ROAIwLIri0K",
       "playlistId": "OLAK5uy_m4b0_Q_U5NzBGqm2OFFPVw8KMg4XqpC1E",
       "title": "百里守約 (\"王者榮耀\"百里守約英雄主打歌) - BAI LI SHOU YUE (Theme Song For \"Honor of Kings\" BAI LI SHOU YUE)",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/IO5vM9rSYQFCJ_LlGnNagGwipW3U89zQB_ZGwBinvlmTudlRQy6bK8yknKeWkZ7wlPZ43wYblBXjY2oj=w544-h544-l90-rj",
@@ -3011,7 +3320,8 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "百里守約"
         }
       ],
       "releaseDate": null,
@@ -3023,6 +3333,7 @@
       "browseId": "MPREb_vQPhRlVLLz7",
       "playlistId": "OLAK5uy_mIfXhnRXKuPTfHXvG8TFo8AHlv5A0a4X4",
       "title": "耍light (OPPO R17廣告歌曲) - Seize the night (OPPO R17 Theme Song)",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/-iUJTV3qllJxNoUGKiC-0oy7mr6c1e6vxnYKAyZ9j_6-xoeC-lZCjWlDLFLqslyH32JdUdAn4QRhsgc=w544-h544-l90-rj",
@@ -3035,7 +3346,8 @@
           "plays": 6300,
           "playsText": "6.3K plays",
           "duration": 188,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "耍light"
         }
       ],
       "releaseDate": null,
@@ -3047,6 +3359,7 @@
       "browseId": "MPREb_fZJkyd5R2Mo",
       "playlistId": "OLAK5uy_kp5h0lZ00Qi8rYYfmcQSHAFPfSjxlcv3M",
       "title": "Haunting Me (\"魂囚西門\" 片尾曲) - Haunting Me (Ending Theme Song of \"Green Door\")",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/3Ln6nSdVT7HJOjTJJvDy7LsadL-MdR_NZxTUfCNVjZ9SQ0EmM5JLuGxZwN7zjF-Hwko2y_XVdDajSEh0Qg=w544-h544-l90-rj",
@@ -3059,7 +3372,8 @@
           "plays": 434000,
           "playsText": "434K plays",
           "duration": 199,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "hauntingme"
         }
       ],
       "releaseDate": "2019-03-09",
@@ -3071,6 +3385,7 @@
       "browseId": "MPREb_cdxZf55q5sP",
       "playlistId": "OLAK5uy_n_LUGowIdEYrrcY1kbJK-lUByOPc_asyY",
       "title": "浮生 (手遊 \"浮生為卿歌\" 主題曲) - Love Without Fear (Theme Song Of \"Fate Of The Empress\")",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/dCZpXo5dt9nv1pIwZgaDeLfYrCOU1zcnW-H2OJjo3cHNp3iDX4mPNrI7tAxPxPoWcE5pAFb24kXkmBw=w544-h544-l90-rj",
@@ -3083,7 +3398,8 @@
           "plays": 31000,
           "playsText": "31K plays",
           "duration": 318,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "浮生"
         }
       ],
       "releaseDate": "2019-06-26",
@@ -3095,6 +3411,7 @@
       "browseId": "MPREb_fPGhNBvLky1",
       "playlistId": "OLAK5uy_lye-4qHNUkytuCbOHj6Vo11JsIUCpxu-g",
       "title": "別認慫 - Never Get Low",
+      "albumArtist": "Jam Hsiao, Will Pan, Henry & VaVa",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/Q8mB6urXECR2-xVSudqYv9l9sbitKP6FE-VXSruYnB8Pxzz2k2eXRstoF85WqfCVCjjNXEJxL8_eTzc=w544-h544-l90-rj",
@@ -3107,7 +3424,8 @@
           "plays": 65000,
           "playsText": "65K plays",
           "duration": 184,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "別認慫"
         }
       ],
       "releaseDate": "2019-12-02",
@@ -3119,6 +3437,7 @@
       "browseId": "MPREb_HGEx2nYYGc6",
       "playlistId": "OLAK5uy_mKhBQXfjpHlUup3T7rYJxZCxxtuE9w7Dg",
       "title": "亡羊 (電影《誤殺》主題曲) - Sheep without a shepherd (Theme Song from \"Sheep without a shepherd\")",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/Z0tJmdAd-pOqvu4hSuneg2wtplVsRWLg9klR3IMiyxiBd6YaiYJo8ezvt0hPD52isORxbowPvzZbb-Vh=w544-h544-l90-rj",
@@ -3131,7 +3450,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "亡羊"
         }
       ],
       "releaseDate": "2019-12-12",
@@ -3143,6 +3463,7 @@
       "browseId": "MPREb_jjDUIuNnGBH",
       "playlistId": "OLAK5uy_nLEH1csocPaGXSCkF2NlHtPR9BbvaUmfY",
       "title": "Hello",
+      "albumArtist": "Jam Hsiao & JJ Lin",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/ljU-ng9knEHXR0cNttUi_ZvozR8WyU63iKHrtrOKHQsix7Vo3KCtlxoKwQvZvyA6TM3levg7hj3u3B8rrw=w544-h544-l90-rj",
@@ -3155,7 +3476,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "hello"
         }
       ],
       "releaseDate": "2020-04-24",
@@ -3167,6 +3489,7 @@
       "browseId": "MPREb_SCWCZIu3LEf",
       "playlistId": "OLAK5uy_ldXYN8Ak8T7ytEEeuEwanQGcLStoY-IVE",
       "title": "猴籠 - Dance Monkey",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/kJpWEzCp4QXm0LRBTaLg9S97hH-5o9Zy2h6gsBwehTYtqz-kvGK73gWANLiWelxAFl3wK-uuoPMTNsS8zQ=w544-h544-l90-rj",
@@ -3179,7 +3502,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 283,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "猴籠"
         }
       ],
       "releaseDate": "2020-06-09",
@@ -3191,6 +3515,7 @@
       "browseId": "MPREb_37rCb3wLLus",
       "playlistId": "OLAK5uy_m4xsLTJi94OPOXEYAnt_mT4q0QOBOyB1A",
       "title": "薩哈星球 - SA-HAH",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/sw6xKW7CwY-2YXUCgt2jqgUhcpSUhvtj8_6rxF7b04h_nCiB_f-h_Fbi7-OR7kpIbkBSyrOITFLID1E=w544-h544-l90-rj",
@@ -3203,7 +3528,8 @@
           "plays": 5700000,
           "playsText": "5.7M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "薩哈星球"
         }
       ],
       "releaseDate": "2020-12-11",
@@ -3215,6 +3541,7 @@
       "browseId": "MPREb_Mm6PK1svhYG",
       "playlistId": "OLAK5uy_k6pcQuqGxO0qiHk8UOHmQxWK7F582ihtE",
       "title": "星期三 - Wednesday (feat. Mr Gao)",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/oW59ggD0QmTGaNbClFDsZNiumBY_qBYT_YkBRU0JdNS8IwK4C0tR5_z4k5t7BxR5GVmsUq7b5fsWw_qo=w544-h544-l90-rj",
@@ -3227,7 +3554,8 @@
           "plays": 378000,
           "playsText": "378K plays",
           "duration": 153,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "星期三"
         }
       ],
       "releaseDate": null,
@@ -3239,6 +3567,7 @@
       "browseId": "MPREb_biyTipL1OfH",
       "playlistId": "OLAK5uy_kWKcFPr2LjuiMmHN9kd6dedpeLZj6d3pA",
       "title": "禁愛條款 - NONSENSE",
+      "albumArtist": "Jung Yong Hwa & Jam Hsiao",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/7TrOIsJh01pwYV6ap95xINQRWqAsholv8v8tUiS30eKFKDsWDDj2xgEUx4UHCUbW27bCb3Qvzs7G1sM=w544-h544-l90-rj",
@@ -3251,7 +3580,8 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 177,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "禁愛條款"
         }
       ],
       "releaseDate": "2021-06-22",
@@ -3263,6 +3593,7 @@
       "browseId": "MPREb_xDPhbbcTIYN",
       "playlistId": "OLAK5uy_mKEIGAIQg4DkBDv_iTYJx8V3KF8Jc2QOQ",
       "title": "隔離套房2827 - Quarantine Hotel Room 2827",
+      "albumArtist": "Jam Hsiao",
       "type": "Album",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/34q0g-nOUwsS1ZB6KYMuuWp2-ULqErTEVX5gEtZTHRiQAn3S-PMajz58bK3ovJyPMWc-R3Edgr8fEAZTpA=w544-h544-l90-rj",
@@ -3275,7 +3606,8 @@
           "plays": 42000,
           "playsText": "42K plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "嗨way"
         },
         {
           "index": 2,
@@ -3285,7 +3617,8 @@
           "plays": 30000,
           "playsText": "30K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "銀河星艦"
         },
         {
           "index": 3,
@@ -3295,7 +3628,8 @@
           "plays": 5700000,
           "playsText": "5.7M plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "薩哈星球"
         },
         {
           "index": 4,
@@ -3305,7 +3639,8 @@
           "plays": 2500000,
           "playsText": "2.5M plays",
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "彼得潘"
         },
         {
           "index": 5,
@@ -3315,7 +3650,8 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 299,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "燈絲裡"
         },
         {
           "index": 6,
@@ -3325,7 +3661,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最最愛"
         },
         {
           "index": 7,
@@ -3335,7 +3672,8 @@
           "plays": 1200000,
           "playsText": "1.2M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "同情情敵"
         },
         {
           "index": 8,
@@ -3345,7 +3683,8 @@
           "plays": 839000,
           "playsText": "839K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "已讀不回94我"
         }
       ],
       "releaseDate": "2021-12-23",
@@ -3357,6 +3696,7 @@
       "browseId": "MPREb_lBcxonRl5aG",
       "playlistId": "OLAK5uy_nzPQnBG4Wa5aQ-MM_fkex0ABBYH58tRck",
       "title": "不完美的我 (電影《跟你老婆去旅行》主題曲) - Imperfect Me (Theme Song From The Movie \"A Trip with Your Wife\")",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/eFtiszI7JTCSU_0dGGNiYa6HLUsbHB2OAEvKd4fcSo7gezLxFd93yLt3NeQoXA8Fmu6VgWXWQLBf4LiQgA=w544-h544-l90-rj",
@@ -3369,7 +3709,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不完美的我"
         }
       ],
       "releaseDate": null,
@@ -3381,6 +3722,7 @@
       "browseId": "MPREb_EONt4iIRLrJ",
       "playlistId": "OLAK5uy_lcMq3UJGxxyB5wdPIDvUGiTo2ofmJDGXo",
       "title": "已讀不回94我 - Leave You On Read",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/of8basRb2Pzs62B7AIVRMaAvZqLuc0nsZL0drKvZwkOn8JtETQB3GiSjax06YtbfUNEku8tFyY0vO5It=w544-h544-l90-rj",
@@ -3393,7 +3735,8 @@
           "plays": 839000,
           "playsText": "839K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "已讀不回94我"
         }
       ],
       "releaseDate": null,
@@ -3405,6 +3748,7 @@
       "browseId": "MPREb_BNEKfnNSPbR",
       "playlistId": "OLAK5uy_nRzSqa3kN8fTkTO_I-R8GtvH2daUyI4dE",
       "title": "彼得潘 - Peter Pan",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/71YHVrXB3luZpm6k3viDQ3nBVlde9NF4gGnTeZWHBDbMDMVzLmROlGTCKzjUec8KRP_-iycnpwReG2BG=w544-h544-l90-rj",
@@ -3417,7 +3761,8 @@
           "plays": 2500000,
           "playsText": "2.5M plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "彼得潘"
         }
       ],
       "releaseDate": null,
@@ -3429,6 +3774,7 @@
       "browseId": "MPREb_bOtyOWZwtQR",
       "playlistId": "OLAK5uy_mX_2m3e4ZMM-9M1ichTtUiA-ZXooSuWoM",
       "title": "我 - It’s Me (feat. Ma Jia)",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/P7hnrvaD0tGcXeqlzAN71aumwoMVVHhij-ODgjJS3yKUnBVRX_YzyEUiGVZJ3ktdQEsvFVnhngHt9b8kiA=w544-h544-l90-rj",
@@ -3441,7 +3787,8 @@
           "plays": 133000,
           "playsText": "133K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我"
         }
       ],
       "releaseDate": null,
@@ -3453,6 +3800,7 @@
       "browseId": "MPREb_fkpwpiLQ06l",
       "playlistId": "OLAK5uy_n38RXw3SBD36Dr4pdZ65U7HUhoCyyt2L0",
       "title": "陽光燦爛的日子 (原創版) - Bright & Shiny Days (Demo Version)",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/G5-43G4qgzV5AzhllTG021oOu7l_4iBCMhQh3ovaGbI5g3Oi_Liw5vsAiP9z3ses_xtREj0o0SjY5BHD=w544-h544-l90-rj",
@@ -3465,7 +3813,8 @@
           "plays": 60000,
           "playsText": "60K plays",
           "duration": 488,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "陽光燦爛的日子"
         }
       ],
       "releaseDate": "2022-04-15",
@@ -3477,6 +3826,7 @@
       "browseId": "MPREb_vZHIec7oZtg",
       "playlistId": "OLAK5uy_kb_x-mDNONpezJqiRlJUFxfNg5JSve4Rs",
       "title": "My Tiffany",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/lN8Hh24a89CkijUy2Utl16v9vUvXHKXcS3qEX30rE2_aFcWA_RwlDmp743iHQpLrobWCuC-756eJOy4=w544-h544-l90-rj",
@@ -3489,7 +3839,8 @@
           "plays": 113000,
           "playsText": "113K plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "mytiffany"
         }
       ],
       "releaseDate": "2022-09-16",
@@ -3501,6 +3852,7 @@
       "browseId": "MPREb_eZkgjUmBm8U",
       "playlistId": "OLAK5uy_kaEWVHq21loC0gX-krknVlyFi_BtANxO4",
       "title": "銀河星艦 (Joe Stone Remix) - Quest For Hope (Joe Stone Remix)",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/VhXX7Y-xO6XYRQsMr4C4nT9PBKIe3RgoFPtYaWKFieWG2A2WNTvH8ItbwOW2-7eHylv6j2DondQYdkE=w544-h544-l90-rj",
@@ -3513,7 +3865,8 @@
           "plays": 293000,
           "playsText": "293K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "銀河星艦"
         }
       ],
       "releaseDate": "2022-12-24",
@@ -3525,6 +3878,7 @@
       "browseId": "MPREb_2MdIjGMLKAw",
       "playlistId": "OLAK5uy_nbwi73GCkQcCXT9Ydf_S0eKK68HiP0EEQ",
       "title": "无畏之路 (feat. 英雄联盟赛事)",
+      "albumArtist": "萧敬腾",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/TgUbkZ-oA3RCMfl86l9UMIBRo8MYhA0P1keXFHGkF5gHQfIFnLlgEDHYRDiauxYFSbnkHqhs5kTMjwVpiw=w544-h544-l90-rj",
@@ -3537,7 +3891,9 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無畏之路",
+          "titleZh": "無畏之路 (feat. 英雄聯盟賽事)"
         }
       ],
       "releaseDate": null,
@@ -3549,6 +3905,7 @@
       "browseId": "MPREb_lkVnImg4U7b",
       "playlistId": "OLAK5uy_mP3msuKYC9iAffJ24NKn5TOSbl_SY3O1Y",
       "title": "全世界在等你 - Waiting For You",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/uclFV-tQ8xwQmnjI7SEjIQSHOGYkHwuQ-oMGcbrIZmt1oVuyZ-joj3_dpioQa1QB5m31bD0jaSJEX4f9jA=w544-h544-l90-rj",
@@ -3561,7 +3918,8 @@
           "plays": 55000,
           "playsText": "55K plays",
           "duration": 206,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "全世界在等你"
         }
       ],
       "releaseDate": "2023-02-10",
@@ -3573,6 +3931,7 @@
       "browseId": "MPREb_kuoYbAspbcQ",
       "playlistId": "OLAK5uy_ms7U8GKziY704USp9HyYQSDeK_wvzPNoc",
       "title": "野生 - WILD/MILD",
+      "albumArtist": "Jam Hsiao",
       "type": "EP",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/wBzpaLrnav2MyFuW429YKSz1IfPzx54gWHwcgf2O0rQwFbT65Wqwds7IZYjuDPYR4MA6_jD5Z6bje--8=w544-h544-l90-rj",
@@ -3585,7 +3944,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無目的地找目的地"
         },
         {
           "index": 2,
@@ -3595,7 +3955,8 @@
           "plays": 668000,
           "playsText": "668K plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "被丟掉的最後都去了什麼地方"
         },
         {
           "index": 3,
@@ -3605,7 +3966,8 @@
           "plays": 803000,
           "playsText": "803K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我帶著我的皮囊"
         },
         {
           "index": 4,
@@ -3615,7 +3977,8 @@
           "plays": 919000,
           "playsText": "919K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "野生"
         },
         {
           "index": 5,
@@ -3625,7 +3988,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白夜"
         },
         {
           "index": 6,
@@ -3635,7 +3999,8 @@
           "plays": 919000,
           "playsText": "919K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "在無名指有你的名字"
         }
       ],
       "releaseDate": "2023-12-16",
@@ -3647,6 +4012,7 @@
       "browseId": "MPREb_XsaN7l19cog",
       "playlistId": "OLAK5uy_lhDC5WASwS9UAahIHI42rSestsTXnWoV4",
       "title": "無目的地找目的地 - HIGHWAYS/SIDEWAYS",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/jqlKQShlEWy9X-TAFZ5ULClMiJ0WD_Kh-1SETl0HXPkIt2TZSGuRILy-YM8SA-QxwfZYqn3Gc_Mczs247A=w544-h544-l90-rj",
@@ -3659,7 +4025,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無目的地找目的地"
         }
       ],
       "releaseDate": null,
@@ -3671,6 +4038,7 @@
       "browseId": "MPREb_LiODqlLHMxb",
       "playlistId": "OLAK5uy_nExFvSNaC65oKiceZpbaOGlJXoFJvyVIk",
       "title": "登天路",
+      "albumArtist": "萧敬腾",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/gDwLmqJusc0PrRdW6dEaxY8tM59GloW8ArpnmXYrIaYnUkRaBuO-0Ltc2tKcYhWKifEst3XkOf90Q_oo=w544-h544-l90-rj",
@@ -3683,7 +4051,8 @@
           "plays": 338000,
           "playsText": "338K plays",
           "duration": 215,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "登天路"
         }
       ],
       "releaseDate": null,
@@ -3695,6 +4064,7 @@
       "browseId": "MPREb_uH0HUad3gfR",
       "playlistId": "OLAK5uy_lnvssBqlqwsTgCKBhkYTAaXwP7bk5bmaA",
       "title": "白夜 - HOPE/NOPE",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/GzvM0u75rUrgHFD4adSMGOmj02pSxkuuY-MeX2CfogZW7FuHJiYDAbTSuINx7FExo2YI2g8_7B5rg-RQ=w544-h544-l90-rj",
@@ -3707,7 +4077,8 @@
           "plays": 1900000,
           "playsText": "1.9M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白夜"
         }
       ],
       "releaseDate": null,
@@ -3719,6 +4090,7 @@
       "browseId": "MPREb_z6RrchNFAba",
       "playlistId": "OLAK5uy_nzUkmbdriNiKSSlCZQGpDm0sy9NsgsFJg",
       "title": "赤梦华夏 (feat. 郁可唯, 胡夏, 张碧晨 & 黄霄雲)",
+      "albumArtist": "萧敬腾",
       "type": "Album",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/qXA4R98nknexpU8Rh4yTPQPTBozc0iglpedfABHF_SGq0cx2w4WHawhKKigGF6XYHHd2ajxmg5vg7tQ=w544-h544-l90-rj",
@@ -3731,7 +4103,8 @@
           "plays": 15000,
           "playsText": "15K plays",
           "duration": 288,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "微光"
         },
         {
           "index": 2,
@@ -3741,7 +4114,9 @@
           "plays": 4800,
           "playsText": "4.8K plays",
           "duration": 231,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "純紅色的聲音",
+          "titleZh": "純紅色的聲音"
         },
         {
           "index": 3,
@@ -3751,7 +4126,8 @@
           "plays": 16000,
           "playsText": "16K plays",
           "duration": 262,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "旅程"
         },
         {
           "index": 4,
@@ -3761,7 +4137,9 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 227,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "淬鍊",
+          "titleZh": "淬鍊"
         },
         {
           "index": 5,
@@ -3771,7 +4149,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 248,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "生活你好"
         },
         {
           "index": 6,
@@ -3781,7 +4160,9 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 203,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "閃光的童話",
+          "titleZh": "閃光的童話"
         },
         {
           "index": 7,
@@ -3791,7 +4172,8 @@
           "plays": 6600,
           "playsText": "6.6K plays",
           "duration": 199,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "明日序言"
         },
         {
           "index": 8,
@@ -3801,7 +4183,8 @@
           "plays": 40000,
           "playsText": "40K plays",
           "duration": 241,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "路上"
         },
         {
           "index": 9,
@@ -3811,7 +4194,8 @@
           "plays": 227000,
           "playsText": "227K plays",
           "duration": 217,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "你眼中有光"
         },
         {
           "index": 10,
@@ -3821,7 +4205,9 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 258,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "願為你",
+          "titleZh": "願為你"
         }
       ],
       "releaseDate": null,
@@ -3833,6 +4219,7 @@
       "browseId": "MPREb_aMUuDTmasDJ",
       "playlistId": "OLAK5uy_m-6OPLALniXoEWE_baDO9XAKn3YqQMnfY",
       "title": "胭脂扣 (音樂劇主題曲) - Rouge (Theme from \"Musical Rouge\")",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/2y29C7gPcTqe2FR2rWTo4Nzuha3YC6re9qxJGcvPQIu-DzdMcTBaF8SjUEPsh25dAh1r15tma9N-ib8=w544-h544-l90-rj",
@@ -3845,7 +4232,8 @@
           "plays": 14000,
           "playsText": "14K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "胭脂扣"
         },
         {
           "index": 2,
@@ -3855,7 +4243,8 @@
           "plays": 1400,
           "playsText": "1.4K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "胭脂扣"
         }
       ],
       "releaseDate": "2024-04-01",
@@ -3867,6 +4256,7 @@
       "browseId": "MPREb_laMtWXfhzIY",
       "playlistId": "OLAK5uy_l6hzpbDZxjToF-_cOgsk9Q2ZpL96lSjiw",
       "title": "繁星",
+      "albumArtist": "袁娅维 & 萧敬腾",
       "type": "Single",
       "year": 2024,
       "thumbnail": "https://yt3.googleusercontent.com/v8JgX0QJULOu7hjs0Bzdt2E-b3vbmwVjhOtP0_-jYweMD9IKZylinXWiWUCDzfm0_sCuzL-DDo2OAVwf=w544-h544-l90-rj",
@@ -3879,7 +4269,8 @@
           "plays": 39000,
           "playsText": "39K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "繁星"
         },
         {
           "index": 2,
@@ -3889,7 +4280,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "繁星"
         },
         {
           "index": 3,
@@ -3899,7 +4291,9 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "繁星",
+          "titleZh": "繁星 (和聲伴奏版)"
         }
       ],
       "releaseDate": null,
@@ -3911,6 +4305,7 @@
       "browseId": "MPREb_VkZGgIPiyyK",
       "playlistId": "OLAK5uy_m6M34v0AKXTPc8tYxXlGV6lCxl0DpODUI",
       "title": "為愛狂歡 - Love Sensation",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/f51P6wKeC23vAoVK1Urmnaew7-Nxb5uRPK0KMp1ebM7ZhUFutzdONQygKROjOawpivc8LFBJl8CS_Q=w544-h544-l90-rj",
@@ -3923,7 +4318,8 @@
           "plays": 114000,
           "playsText": "114K plays",
           "duration": 183,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "為愛狂歡"
         }
       ],
       "releaseDate": null,
@@ -3935,6 +4331,7 @@
       "browseId": "MPREb_MoAeRyyMUbH",
       "playlistId": "OLAK5uy_koi6_PNloMPOCTUE7BxE-WGOnm6cj073U",
       "title": "流浪流浪就好 - Wander and Let Wander",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/d4ukvU7bnk8C0C1dxOHn70gfXDBzCRSMKu-bM-EvPBd4rKiFgc6i6No4C9GP_ZjrC5al2eAO9Pkvgjoj=w544-h544-l90-rj",
@@ -3947,7 +4344,8 @@
           "plays": 90000,
           "playsText": "90K plays",
           "duration": 184,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "流浪流浪就好"
         }
       ],
       "releaseDate": "2026-07-17",
@@ -3959,6 +4357,7 @@
       "browseId": "MPREb_eJvn6ziop9a",
       "playlistId": "OLAK5uy_nslvXzFaFBUvm8Wcn7OBUURfgay6ekERI",
       "title": "愛上你不是我決定 - Beyond My Control (feat. A-Lin)",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/Qpx2C36YQt5g-w8q6EtY3UlFWrWtOyQpZNY1jfnx3QNMOwE2_nAnm-vdW6o0NOr2Fvs-28RPEB7VNI-k=w544-h544-l90-rj",
@@ -3971,7 +4370,8 @@
           "plays": 1800000,
           "playsText": "1.8M plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛上你不是我決定"
         }
       ],
       "releaseDate": "2026-07-19",
@@ -3983,6 +4383,7 @@
       "browseId": "MPREb_HuBGkovVqlf",
       "playlistId": "OLAK5uy_klyk8xBuwV1vOgILJzKOhsWd7F3oFz-eg",
       "title": "赐予我力量吧 (（电影《Masters of the Universe》中文宣传曲）)",
+      "albumArtist": "Jam Hsiao",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/dQPVAVSeKBWHn388opqhGmNBlfHL-LsXdSRMqKh6h7cHWWUUlMbE7QfHAshnffzm6-kN3Z0GxcegDk4N=w544-h544-l90-rj",
@@ -3995,7 +4396,9 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "賜予我力量吧",
+          "titleZh": "賜予我力量吧（電影《Masters of the Universe》中文宣傳曲）"
         },
         {
           "index": 2,
@@ -4005,7 +4408,9 @@
           "plays": 1200,
           "playsText": "1.2K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "賜予我力量吧",
+          "titleZh": "賜予我力量吧 (Instrumental)"
         }
       ],
       "releaseDate": null,

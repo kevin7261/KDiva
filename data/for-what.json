@@ -2,19 +2,21 @@
   "slug": "for-what",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-16T17:45:40.876Z",
+  "fetchedAt": "2026-09-16T19:16:44.142Z",
   "artist": {
     "channelId": "UCry9S-7wth479tbrtiP_l9A",
     "name": "For What",
     "thumbnail": "https://yt3.googleusercontent.com/AOJU8prO_HuEogNZXksDvujav1t081SogSUe5Ff8w9zjxl7xemH8g2VZ4YRL0LB2SoIJekBCGAM2sMk9=w2880-h1200-p-l90-rj",
     "subscribers": 5,
-    "monthlyAudience": null
+    "monthlyAudience": null,
+    "avatar": "https://yt3.googleusercontent.com/tf1TuoEgTr8QlmqBnI4RK3hlun2xIb2bUEqXvSLbesfNr-Kuaa-s4Wcm5XHkz00hoFcyVAk6=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
       "browseId": "MPREb_NL5bRzAkewN",
       "playlistId": "OLAK5uy_nNx0u49ZEC40BN78_0Lp9s_SQxuLwFFUU",
       "title": "All Good",
+      "albumArtist": "For What",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/nYe4-dU2uOGW06Be96KEjqaKmbTHGi_CP07UTo-1aED2YLPCA_HYOlzwC-mQP3wmr_2gm7ZbRudIO4j_hA=w544-h544-l90-rj",
@@ -27,7 +29,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "allgood"
         }
       ]
     },
@@ -35,6 +38,7 @@
       "browseId": "MPREb_4GObivjPf7R",
       "playlistId": "OLAK5uy_nmd2XPV47jGhl1E8JfjQOXRwB1tALeHC4",
       "title": "Spring Light",
+      "albumArtist": "For What",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/wzZuIaGiGkyGMxgGoZnI4bJ0PmMg4XPhWSLcvVVwff6rMcUjMbjrj3isPRJq_iNLvSU3kuBzRKtpGy6dew=w544-h544-l90-rj",
@@ -47,7 +51,8 @@
           "plays": 4500,
           "playsText": "4.5K plays",
           "duration": 310,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "springlight"
         }
       ]
     },
@@ -55,6 +60,7 @@
       "browseId": "MPREb_0W6rl7JXimP",
       "playlistId": "OLAK5uy_k8t1B9pfMHG6yjivdq65SHLXVHCR226xA",
       "title": "What do you expect me to do?",
+      "albumArtist": "For What",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/DnfWdllBdUR0Rjde75ZEo1bFl2thmC89Y5nXv518lfA4PdSyk8pd3cLauriVz4nfUhDL1OywWpM52amASg=w544-h544-l90-rj",
@@ -67,7 +73,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "whatdoyouexpectmetodo"
         }
       ]
     },
@@ -75,6 +82,7 @@
       "browseId": "MPREb_evsthzg72PK",
       "playlistId": "OLAK5uy_kGj9JGUORp9zBd0dwnA_Jbds6Nn7SGdao",
       "title": "Break Me Out",
+      "albumArtist": "For What",
       "type": "Album",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/qU2Ya_Y7NE7kvQbQgWKIU9qd1e8E7AtbgJ7Jpt5Y85kwUMjMp4lzJW3wbW-cqbw0Kxiai0iJDYrkLJ2rcA=w544-h544-l90-rj",
@@ -87,7 +95,8 @@
           "plays": 4500,
           "playsText": "4.5K plays",
           "duration": 309,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "springlight"
         },
         {
           "index": 2,
@@ -97,7 +106,8 @@
           "plays": 88,
           "playsText": "88 plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "breakmeout"
         },
         {
           "index": 3,
@@ -107,7 +117,8 @@
           "plays": 3700,
           "playsText": "3.7K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "whatdoyouexpectmetodo"
         },
         {
           "index": 4,
@@ -117,7 +128,8 @@
           "plays": 40,
           "playsText": "40 plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "youaretheone"
         },
         {
           "index": 5,
@@ -127,7 +139,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "sweettime"
         },
         {
           "index": 6,
@@ -137,7 +150,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "allgood"
         },
         {
           "index": 7,
@@ -147,7 +161,8 @@
           "plays": 41,
           "playsText": "41 plays",
           "duration": 299,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "stolenheart"
         },
         {
           "index": 8,
@@ -157,7 +172,8 @@
           "plays": 26,
           "playsText": "26 plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "hypewaveinside"
         }
       ]
     },
@@ -165,6 +181,7 @@
       "browseId": "MPREb_tas5yAtk2wC",
       "playlistId": "OLAK5uy_kcWTNv4z-m2EOzJObXMT3p1Dw9QiL8GTU",
       "title": "Sweet time (Theme Song from \"what a feast\")",
+      "albumArtist": "For What",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/AOJU8prO_HuEogNZXksDvujav1t081SogSUe5Ff8w9zjxl7xemH8g2VZ4YRL0LB2SoIJekBCGAM2sMk9=w544-h544-l90-rj",
@@ -177,7 +194,8 @@
           "plays": 2100,
           "playsText": "2.1K plays",
           "duration": 270,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "sweettime"
         }
       ]
     }

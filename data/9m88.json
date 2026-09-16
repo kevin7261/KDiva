@@ -2,19 +2,21 @@
   "slug": "9m88",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-16T16:46:05.886Z",
+  "fetchedAt": "2026-09-16T19:16:38.639Z",
   "artist": {
     "channelId": "UCpZvDKDJtQUXm1o6LKT2xhA",
     "name": "9m88",
     "thumbnail": "https://lh3.googleusercontent.com/L0eC-nOW1aezezHza4974N8E2QXvLgqpH4eOHBaDLu5DOLGwBgjLZqg0CqzH-wisnI3gNAkXYufGblM=w2880-h1200-p-l90-rj",
     "subscribers": 150000,
-    "monthlyAudience": 187000
+    "monthlyAudience": 187000,
+    "avatar": "https://yt3.googleusercontent.com/-LVpr2PIdb9sNaFQwCxwkfn7PvZMyz-C-55antcDNd59YPt6TxCTmtx08fnaBIeQxwj0S9WWepU=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
       "browseId": "MPREb_cmXsx8NVyEE",
       "playlistId": "OLAK5uy_maRS-QvTafLW86G2U2GU1U5yh49JkwUEs",
       "title": "Air Doll",
+      "albumArtist": "9m88 & Fishdoll",
       "type": "Single",
       "year": 2017,
       "thumbnail": "https://yt3.googleusercontent.com/XbswJlG_CKbAHnh2Y8BzP4eqjsvWR25BQjcr4Q-_JYhxkfXwsSdfv14e1o7biWhRLfAFqbM02HmXqucutw=w544-h544-l90-rj",
@@ -27,7 +29,8 @@
           "plays": 241000,
           "playsText": "241K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "airdoll"
         }
       ],
       "releaseDate": "2017-01-01",
@@ -39,6 +42,7 @@
       "browseId": "MPREb_5sHbAsy7pJf",
       "playlistId": "OLAK5uy_kEITBI_wcBsOqj9dPaprCaX_DY01PghCw",
       "title": "你朝我的方向走來 - Walking Towards Me",
+      "albumArtist": "Ma Nien Hsien & 9m88",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/my4Fo1fsKRIiPYEIEjMGetIsJzzPN2BcGDgrOqSlruQFz1Fiweb6KNg9GcDvPsHTv-IlOsc7kk0DwA9f=w544-h544-l90-rj",
@@ -51,7 +55,8 @@
           "plays": 20000000,
           "playsText": "20M plays",
           "duration": 211,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "你朝我的方向走來"
         }
       ],
       "releaseDate": "2019-01-01",
@@ -63,6 +68,7 @@
       "browseId": "MPREb_U6UBeTqbnwO",
       "playlistId": "OLAK5uy_l94czFDejh36ZYEcSy4PT7DuO1qB_Ecog",
       "title": "平庸之上 Beyond Mediocrity",
+      "albumArtist": "9m88",
       "type": "Album",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/_U2WtXyqdXYoEFH_AkixPVmuiz0F32SLiYvAEHcZ5LkkAR_B9YOboQln3zYzTtsEIlH10ZBGZgv2zKR8=w544-h544-l90-rj",
@@ -75,7 +81,8 @@
           "plays": 65000,
           "playsText": "65K plays",
           "duration": 37,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "intro"
         },
         {
           "index": 2,
@@ -85,7 +92,8 @@
           "plays": 651000,
           "playsText": "651K plays",
           "duration": 228,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "平庸之上beyondmediocrity"
         },
         {
           "index": 3,
@@ -95,7 +103,8 @@
           "plays": 3700000,
           "playsText": "3.7M plays",
           "duration": 204,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最高品質靜悄悄airplanemode"
         },
         {
           "index": 4,
@@ -105,7 +114,8 @@
           "plays": 3800000,
           "playsText": "3.8M plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "aimhigh"
         },
         {
           "index": 5,
@@ -115,7 +125,8 @@
           "plays": 378000,
           "playsText": "378K plays",
           "duration": 253,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "浪費時間wasteoftime"
         },
         {
           "index": 6,
@@ -125,7 +136,8 @@
           "plays": 949000,
           "playsText": "949K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "廚餘戀人leftlovers"
         },
         {
           "index": 7,
@@ -135,7 +147,8 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 188,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情雨loverain"
         },
         {
           "index": 8,
@@ -145,7 +158,8 @@
           "plays": 112000,
           "playsText": "112K plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "九頭身日奈nineheadhinano"
         },
         {
           "index": 9,
@@ -155,7 +169,8 @@
           "plays": 51000,
           "playsText": "51K plays",
           "duration": 105,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "inner"
         },
         {
           "index": 10,
@@ -165,7 +180,8 @@
           "plays": 470000,
           "playsText": "470K plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果可以ificould"
         }
       ],
       "releaseDate": "2019-08-08",
@@ -177,6 +193,7 @@
       "browseId": "MPREb_Xpt80tIKVM8",
       "playlistId": "OLAK5uy_l_cACbmPAdpnz2F7LYpoj2OliHCm4C7LM",
       "title": "Aim High",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/ptPqN1sLZbHImR_PDE8GaYnMcfY1oKTkbcUH-k7wWCnVZOljkbmPwPG97pNxZrgWnXBNZrjmnFsRJa6J=w544-h544-l90-rj",
@@ -189,7 +206,8 @@
           "plays": 3800000,
           "playsText": "3.8M plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "aimhigh"
         }
       ],
       "releaseDate": null,
@@ -201,6 +219,7 @@
       "browseId": "MPREb_ehx5MAGuGqs",
       "playlistId": "OLAK5uy_loHyKsBbe4yXA_fgWujia1Wqy2ry7dYnw",
       "title": "為i篩檢",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2019,
       "thumbnail": "https://yt3.googleusercontent.com/QaUnk_D-V5RycBpi_uHFS3ZkWzVGNhPf8Bv-86dpF0o0jDr2B_5LBgw8MAi06_jKDvqmw_6489SUUUeOjg=w544-h544-l90-rj",
@@ -213,7 +232,8 @@
           "plays": 826000,
           "playsText": "826K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "為i篩檢"
         }
       ],
       "releaseDate": null,
@@ -225,6 +245,7 @@
       "browseId": "MPREb_6xtknkdRVJQ",
       "playlistId": "OLAK5uy_mEbb0gpQP-NT8vaLVU5t4F3gDQUy7MJR4",
       "title": "9m88 - ASIA RISING FOREVER",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/WiZmpmvpm-51oVeg-2PLazeT0qai5wZxBA1n-0l5MAyfQGj6LvQwd92Sfle4-HVu-igmnyi1g_VWm1VF=w544-h544-l90-rj",
@@ -237,7 +258,8 @@
           "plays": 236000,
           "playsText": "236K plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "aimhigh"
         },
         {
           "index": 2,
@@ -247,7 +269,8 @@
           "plays": 4400,
           "playsText": "4.4K plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "baglady"
         }
       ],
       "releaseDate": null,
@@ -259,6 +282,7 @@
       "browseId": "MPREb_v2Ct8dDn6PT",
       "playlistId": "OLAK5uy_mhR0YBXsyYSGxb1lQgTOTqu3RuNemGF_A",
       "title": "Hello Bye Bye",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/yPOgWZSasDjlXJoXs7n3O8hvOehfIjeMdsOUuubyiQ45gByexXb1wi4tPP-9wwf-ZT-r63Sw0ILGw-qZ8g=w544-h544-l90-rj",
@@ -271,7 +295,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 179,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "hellobyebye"
         }
       ],
       "releaseDate": null,
@@ -283,6 +308,7 @@
       "browseId": "MPREb_aW8mWfKhWPp",
       "playlistId": "OLAK5uy_nLo22wy6ZJ4wpiCDfUto8z28syhLwiyOk",
       "title": "真想见到你",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2020,
       "thumbnail": "https://yt3.googleusercontent.com/iPPNeTfbRzmEtDTEDhVr9R3siE2moYp9o6IE7Pnq1DGq8RHSUjtpcdGXDVTSJBzh1YOqzhGCGUz7YrJI0w=w544-h544-l90-rj",
@@ -295,7 +321,9 @@
           "plays": 9700,
           "playsText": "9.7K plays",
           "duration": 193,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "真想見到你",
+          "titleZh": "真想見到你"
         }
       ],
       "releaseDate": null,
@@ -307,6 +335,7 @@
       "browseId": "MPREb_1w5m2Ja0zXJ",
       "playlistId": "OLAK5uy_mj_BNZBf6l6jlkerqujPN9S5jiZbfm9bI",
       "title": "Tell Me (feat. DJ Mitsu the Beats)",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/Nhwo5B6iY25C8oJNSzOhpOCGcXzRilowuD9q48ePBHG3-QjGVnStf0ShV139SyiES9j0EejqBhwOiUpn=w544-h544-l90-rj",
@@ -319,7 +348,8 @@
           "plays": 1500000,
           "playsText": "1.5M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "tellme"
         }
       ],
       "releaseDate": "2021-01-01",
@@ -331,6 +361,7 @@
       "browseId": "MPREb_wX3YFJPSt8u",
       "playlistId": "OLAK5uy_medgp50k6sy9I_nWCnXP7QtvzGZqREcyw",
       "title": "A Merry Feeling (feat. Layton Wu)",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/i6rA6M_8Igka4K-bTEm1_7SenX4Ru3zuNB08MZtAGEwsMa0AnvtKHpIHGxDMj9xi_R8rKABFPCPfw0av_A=w544-h544-l90-rj",
@@ -343,7 +374,8 @@
           "plays": 230000,
           "playsText": "230K plays",
           "duration": 189,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "amerryfeeling"
         }
       ],
       "releaseDate": null,
@@ -355,6 +387,7 @@
       "browseId": "MPREb_Ekc1Y786br0",
       "playlistId": "OLAK5uy_krXiL_i7YVC7h9AcpALPqlzUkqN6tjTCY",
       "title": "Kan Bu Jian De Cheng",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/WQ7eA6Wo_pWgPR8tgrYaRxpKKF936ssUFITZikyf45TihYAwcYY4CTE63rJaeXZUglEI1yTFXM67TNCI0w=w544-h544-l90-rj",
@@ -367,7 +400,8 @@
           "plays": 59000,
           "playsText": "59K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "kanbujiandecheng"
         }
       ],
       "releaseDate": null,
@@ -379,6 +413,7 @@
       "browseId": "MPREb_v1J0eof9mB9",
       "playlistId": "OLAK5uy_mvj-VT9gpKp3FLSsMcIRF1MhCk8yHZ0GM",
       "title": "This Temporary Ensemble",
+      "albumArtist": "9m88",
       "type": "EP",
       "year": 2021,
       "thumbnail": "https://yt3.googleusercontent.com/2cuPsTUPZwKjFa8pvJhixyliAvq0UPCjmKwSP3duwbwliOy8bN1Kepi3OAjDcdUMTRevUwdF5YSTPGgZXA=w544-h544-l90-rj",
@@ -391,7 +426,8 @@
           "plays": 111000,
           "playsText": "111K plays",
           "duration": 316,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "eyes"
         },
         {
           "index": 2,
@@ -401,7 +437,8 @@
           "plays": 42000,
           "playsText": "42K plays",
           "duration": 347,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "beyondmediocrity"
         },
         {
           "index": 3,
@@ -411,7 +448,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 403,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "nineheadhinano"
         },
         {
           "index": 4,
@@ -421,7 +459,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 406,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "wasteoftime"
         }
       ],
       "releaseDate": null,
@@ -433,6 +472,7 @@
       "browseId": "MPREb_LUD8Sik2qQW",
       "playlistId": "OLAK5uy_l6k4UhqxNpuy9acwFZzQBJLkrteAGhlTI",
       "title": "Material Girl",
+      "albumArtist": "Joanna Wang & 9m88",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/VQ_I8cSdoEI8F8QbcKvA7FfahHpQ9BJtW8VjVb62jIm6Fmt-OGD1vKcjRF4ux-AbWLMhijH0iQbj-ME=w544-h544-l90-rj",
@@ -445,7 +485,8 @@
           "plays": 453000,
           "playsText": "453K plays",
           "duration": 218,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "materialgirl"
         }
       ],
       "releaseDate": "2022-01-01",
@@ -457,6 +498,7 @@
       "browseId": "MPREb_nNu998CyZeB",
       "playlistId": "OLAK5uy_kzhtsT6CP6vr4MEhd4PSBF_aSt92CrXec",
       "title": "Friend Zone (Acoustic Live in Brussels)",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/LIxBO3XnPVu8thbSjPYyYssohqx86j4BFav5KM3BR7OhiSjInohYKGXtEPeqf69TE2jinYL-R50TgAOx=w544-h544-l90-rj",
@@ -469,7 +511,8 @@
           "plays": 78000,
           "playsText": "78K plays",
           "duration": 198,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "friendzone#live"
         }
       ],
       "releaseDate": null,
@@ -481,6 +524,7 @@
       "browseId": "MPREb_xaqjaJDiMV3",
       "playlistId": "OLAK5uy_lUuH3wYPeKhgbTjwGWNFf5iL02Ls6QIfU",
       "title": "Whatchu Gonna...? (feat. Rainbow Chan)",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/6ReNpedTNfppRbzcz5Ag6jJkGlSOk9RDsd7uVb6dzxBlk8Yztv6aMe-Zu9vCLbX3GcdeoaAW8Hse1bU=w544-h544-l90-rj",
@@ -493,7 +537,8 @@
           "plays": 422000,
           "playsText": "422K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "whatchugonna"
         }
       ],
       "releaseDate": null,
@@ -505,6 +550,7 @@
       "browseId": "MPREb_8TngOCJWkLU",
       "playlistId": "OLAK5uy_mGu45mE0qFzBtr4FumU6CTxGdI1MGUopw",
       "title": "9m88 Radio",
+      "albumArtist": "9m88",
       "type": "Album",
       "year": 2022,
       "thumbnail": "https://yt3.googleusercontent.com/cJc5yoNl-A2z3vwf-Usd0ye2gBPAyNpFnZ-ntcq9vHoxi2ZOEzrLU7FgXMzWBntzVnGkpVZG-pdJr4e2=w544-h544-l90-rj",
@@ -517,7 +563,8 @@
           "plays": 422000,
           "playsText": "422K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "whatchugonna"
         },
         {
           "index": 2,
@@ -527,7 +574,8 @@
           "plays": 1500000,
           "playsText": "1.5M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "tellme"
         },
         {
           "index": 3,
@@ -537,7 +585,8 @@
           "plays": 325000,
           "playsText": "325K plays",
           "duration": 211,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "sleepwalking"
         },
         {
           "index": 4,
@@ -547,7 +596,8 @@
           "plays": 651000,
           "playsText": "651K plays",
           "duration": 161,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "loveissocruel"
         },
         {
           "index": 5,
@@ -557,7 +607,8 @@
           "plays": 231000,
           "playsText": "231K plays",
           "duration": 189,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "amerryfeeling"
         },
         {
           "index": 6,
@@ -567,7 +618,8 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 52,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "d"
         },
         {
           "index": 7,
@@ -577,7 +629,8 @@
           "plays": 232000,
           "playsText": "232K plays",
           "duration": 206,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "friendzone"
         },
         {
           "index": 8,
@@ -587,7 +640,8 @@
           "plays": 35000,
           "playsText": "35K plays",
           "duration": 53,
-          "byOther": false
+          "byOther": false,
+          "nameKey": ""
         },
         {
           "index": 9,
@@ -597,7 +651,8 @@
           "plays": 119000,
           "playsText": "119K plays",
           "duration": 195,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "darknightsunlight"
         },
         {
           "index": 10,
@@ -607,7 +662,8 @@
           "plays": 30000,
           "playsText": "30K plays",
           "duration": 26,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "preludetoastar"
         },
         {
           "index": 11,
@@ -617,7 +673,8 @@
           "plays": 324000,
           "playsText": "324K plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "star"
         }
       ],
       "releaseDate": "2023-01-01",
@@ -629,6 +686,7 @@
       "browseId": "MPREb_x4kOHvW38SI",
       "playlistId": "OLAK5uy_kz-tE5yvlKYaGPqp0uaImZQcALBpIkSPY",
       "title": "Snowy Road",
+      "albumArtist": "WONK & 9m88",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/b8Xeaph7eWW33YiV7ITWs3IvXrKs8JIXX40OOthI5VqVmcZafxLr4_lrwOmIgIExU6onjAOMJ-gTBpRh=w544-h544-l90-rj",
@@ -641,7 +699,8 @@
           "plays": 85000,
           "playsText": "85K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "snowyroad"
         }
       ],
       "releaseDate": "2023-01-01",
@@ -653,6 +712,7 @@
       "browseId": "MPREb_xpey0aBZE6X",
       "playlistId": "OLAK5uy_kNs-Ioh1yY15WW4SFhjHWe8jwMhCr-iSs",
       "title": "Sent",
+      "albumArtist": "9m88",
       "type": "Album",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/ZVbma9DTmzY40AO2PpXKTaVjhU8hryIgfGAN6RPRbyhbz1WWttbPfOvOMRb35RYdL07G9lzrRDk2clG1pg=w544-h544-l90-rj",
@@ -665,7 +725,8 @@
           "plays": 658000,
           "playsText": "658K plays",
           "duration": 183,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "頭髮"
         },
         {
           "index": 2,
@@ -675,7 +736,8 @@
           "plays": 163000,
           "playsText": "163K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "看向我吧"
         },
         {
           "index": 3,
@@ -685,7 +747,8 @@
           "plays": 226000,
           "playsText": "226K plays",
           "duration": 185,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "足久無見"
         },
         {
           "index": 4,
@@ -695,7 +758,8 @@
           "plays": 2700000,
           "playsText": "2.7M plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "決定不想你"
         },
         {
           "index": 5,
@@ -705,7 +769,8 @@
           "plays": 258000,
           "playsText": "258K plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "野獸派"
         },
         {
           "index": 6,
@@ -715,7 +780,8 @@
           "plays": 314000,
           "playsText": "314K plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "若我告訴你其實我愛的只是你"
         },
         {
           "index": 7,
@@ -725,7 +791,8 @@
           "plays": 227000,
           "playsText": "227K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "frenemy"
         },
         {
           "index": 8,
@@ -735,7 +802,8 @@
           "plays": 76000,
           "playsText": "76K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夏天妳要離開我了"
         }
       ],
       "releaseDate": "2023-10-13",
@@ -747,6 +815,7 @@
       "browseId": "MPREb_yyyMSBTWpXE",
       "playlistId": "OLAK5uy_mE0JgI6eEVrcl-ePXazr0Zpjkn1OdbAzA",
       "title": "看向我吧",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/fOsFbyr-eR3fu8wQzFjYv9J0DVraAEpRmZ_lpXwSihVVgOdP2BlSWXNuv8TVJcUFICAY5lo3oa57gibf_A=w544-h544-l90-rj",
@@ -759,7 +828,8 @@
           "plays": 163000,
           "playsText": "163K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "看向我吧"
         }
       ],
       "releaseDate": null,
@@ -771,6 +841,7 @@
       "browseId": "MPREb_r0OqTEeSQjI",
       "playlistId": "OLAK5uy_mHtV0Z_H6ik_I5sP_j8UoK1j420pHKvDg",
       "title": "若我告訴你其實我愛的只是你",
+      "albumArtist": "9m88 & Takuya Kuroda",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/HafnftqJg7iMG3PDfMukr2GG8JwjZ8VHoAuYrUW9X-bXjI87YJ-XVuq4dr0WcvLSNITgGygQT3JWpmrz=w544-h544-l90-rj",
@@ -783,7 +854,8 @@
           "plays": 314000,
           "playsText": "314K plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "若我告訴你其實我愛的只是你"
         }
       ],
       "releaseDate": null,
@@ -795,6 +867,7 @@
       "browseId": "MPREb_WjqeLQF45Jl",
       "playlistId": "OLAK5uy_keHYvgUvaeTFQPMz2-DhAeFlbyaMVsOBk",
       "title": "頭髮",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2023,
       "thumbnail": "https://yt3.googleusercontent.com/EXb4nvON3vdASt-f2z3FmYO68jWeOG7BvKrPFAo8wuTlMsSuf5d_p5MEORAyz5ZHJ_1xUxUahHMmBwko=w544-h544-l90-rj",
@@ -807,7 +880,8 @@
           "plays": 658000,
           "playsText": "658K plays",
           "duration": 183,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "頭髮"
         }
       ],
       "releaseDate": null,
@@ -819,6 +893,7 @@
       "browseId": "MPREb_15LNB2GBg8G",
       "playlistId": "OLAK5uy_kc9CMj8NlKTj6OQqTnuNwfjDNTkBGvuqw",
       "title": "Floating Free",
+      "albumArtist": "Solar & 9m88",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/OPAMUl-IAVcD0TE1OI6pH4pV-JYY9o4jbwHZYyML6LHSARmjM6SAb8DNLi0MWFYjpCN82l-JCIhMqAP7=w544-h544-l90-rj",
@@ -831,7 +906,8 @@
           "plays": 2600000,
           "playsText": "2.6M plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "floatingfree"
         }
       ],
       "releaseDate": "2025-01-01",
@@ -843,6 +919,7 @@
       "browseId": "MPREb_anhJ2JDuOiQ",
       "playlistId": "OLAK5uy_mBw6bvHCvLE_7VsxXjnyFHWA2nHXggUK8",
       "title": "失眠航班（Sleepless on the plane)",
+      "albumArtist": "Phum Viphurit & 9m88",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/GjHMC6olQNL5SRaL_oxGkI4gqg4n4L-z5b5Ht8-7wxj1EKp1iPtVpMj_NStLjs5zGi9BQ8RE6H1FlNxg1w=w544-h544-l90-rj",
@@ -855,7 +932,8 @@
           "plays": 120000,
           "playsText": "120K plays",
           "duration": 182,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "失眠航班"
         }
       ],
       "releaseDate": "2025-01-01",
@@ -867,6 +945,7 @@
       "browseId": "MPREb_ZH51Jq6kTon",
       "playlistId": "OLAK5uy_nIg30QnJE2bO1Dvtn3kmjy6tMfh9jvRL8",
       "title": "This Temporary Ensemble Vol. 2",
+      "albumArtist": "9m88",
       "type": "EP",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/Q_6V1AgRvIQDWsDEEB2sT2CQeBqlc2_daWt5KVDZ1If0xYOvMIORuo5sJr-8r1vJs1Opuv07-_3fzhg=w544-h544-l90-rj",
@@ -879,7 +958,8 @@
           "plays": 6700,
           "playsText": "6.7K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "loveissocruel"
         },
         {
           "index": 2,
@@ -889,7 +969,9 @@
           "plays": 72000,
           "playsText": "72K plays",
           "duration": 387,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "看向我吧",
+          "titleZh": "看向我吧 (feat. 陳嫻靜)"
         },
         {
           "index": 3,
@@ -899,7 +981,8 @@
           "plays": 4600,
           "playsText": "4.6K plays",
           "duration": 346,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "野獸派"
         },
         {
           "index": 4,
@@ -909,7 +992,8 @@
           "plays": 5100,
           "playsText": "5.1K plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "tellme"
         },
         {
           "index": 5,
@@ -919,18 +1003,21 @@
           "plays": 3900,
           "playsText": "3.9K plays",
           "duration": 298,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "whatchugonna"
         }
       ],
       "releaseDate": "2025-10-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "9m88"
+      "wikiTitle": "9m88",
+      "titleZh": "This Temporary Ensemble Vol.2 暫時集合2"
     },
     {
       "browseId": "MPREb_4DDZY8D3Jl0",
       "playlistId": "OLAK5uy_kAibJbWha--m6z1dqBJIEbijjd-Lpzy_0",
       "title": "Timeless (Movie \"The Photo From 1977\" Theme Song)",
+      "albumArtist": "Jinyoung & 9m88",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/5VF0Zdp9cUlqXKd1__FFpnV_FO9uBqmZPMEg-CooH22ByLmgqb9loUXGZgedyrm6U8eCvYmMsNpDijHv=w544-h544-l90-rj",
@@ -943,7 +1030,8 @@
           "plays": 881000,
           "playsText": "881K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "timeless"
         },
         {
           "index": 2,
@@ -953,7 +1041,8 @@
           "plays": 881000,
           "playsText": "881K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "timeless"
         }
       ],
       "releaseDate": null,
@@ -965,6 +1054,7 @@
       "browseId": "MPREb_jF9fFWkxJXY",
       "playlistId": "OLAK5uy_kbXvO5RQUWM3wnjW2naFBhQOvBKWYFTzQ",
       "title": "微醺小房間",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2025,
       "thumbnail": "https://yt3.googleusercontent.com/asibuifG6L_1lKbayb1KAwb6QAkgfVRN0fLwrVtEWiyHuryoQjMkFPn0ou9X4xbxsAr0eD1-lYso9YDp=w544-h544-l90-rj",
@@ -977,7 +1067,8 @@
           "plays": 465000,
           "playsText": "465K plays",
           "duration": 192,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "微醺小房間"
         }
       ],
       "releaseDate": null,
@@ -989,6 +1080,7 @@
       "browseId": "MPREb_hoFcRovUFh7",
       "playlistId": "OLAK5uy_lZdBz-e6N51KZn6n0SOm3cfmJy-vXAZtg",
       "title": "You Can Fly On My Aeroplane",
+      "albumArtist": "YUMA HARA & 9m88",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/leNpWbfk1ChBkbkwjopV10yWsTaCXbdryBKsgK4LIQweCI8AfuCjY8s0rRoSTNDBjOBNE6wfaV2FdaZV=w544-h544-l90-rj",
@@ -1001,7 +1093,8 @@
           "plays": 4300,
           "playsText": "4.3K plays",
           "duration": 337,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "youcanflyonmyaeroplane"
         },
         {
           "index": 2,
@@ -1011,7 +1104,8 @@
           "plays": 1300,
           "playsText": "1.3K plays",
           "duration": 337,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "youcanflyonmyaeroplane"
         }
       ],
       "releaseDate": "2026-01-01",
@@ -1023,6 +1117,7 @@
       "browseId": "MPREb_kZSQQgxvDZn",
       "playlistId": "OLAK5uy_lbYhZLJmlEcJ84zpHJpOz1hlbEfwXAs-E",
       "title": "You Can Fly On My Aeroplane (Japanese version)",
+      "albumArtist": "YUMA HARA & 9m88",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/ovvxyBKMwRlMxaWtnZe4GLGKASzqol81es87XY3CTcWDvtdHxhbUIU5mXXxLWyyW4MGU1OPFjCmSM8M=w544-h544-l90-rj",
@@ -1035,7 +1130,8 @@
           "plays": 4300,
           "playsText": "4.3K plays",
           "duration": 337,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "youcanflyonmyaeroplane"
         }
       ],
       "releaseDate": "2026-01-01",
@@ -1047,6 +1143,7 @@
       "browseId": "MPREb_0OxdJN4inIJ",
       "playlistId": "OLAK5uy_nFUJuajJQeHKawjpWDUTnOyw2qs686JV8",
       "title": "我只想唱歌給你聽",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/IYjksJ4U3_HyKD6KeagoIRyUn_BSJBCTpJP-4g_Tdi2O5RKLb4WbwlJgrV-sUlw4KMNJxzsxPdtBdCmsDg=w544-h544-l90-rj",
@@ -1059,7 +1156,8 @@
           "plays": 489000,
           "playsText": "489K plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我只想唱歌給你聽"
         }
       ],
       "releaseDate": null,
@@ -1071,6 +1169,7 @@
       "browseId": "MPREb_IiImcSo9DFQ",
       "playlistId": "OLAK5uy_m_mdb-fFgHOX9DIKkqYEjZmujWgP2F_Uo",
       "title": "輕輕放下",
+      "albumArtist": "9m88",
       "type": "Single",
       "year": 2026,
       "thumbnail": "https://yt3.googleusercontent.com/EhRvtKMgxUP8kkJqbukKBRFyYgIeiNj4ZPJVyGO9AjejE0gzyr7MLUxdTe8aAXjLlQkWjiUw_lmesYgsQw=w544-h544-l90-rj",
@@ -1083,7 +1182,8 @@
           "plays": 200000,
           "playsText": "200K plays",
           "duration": 265,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "輕輕放下"
         }
       ],
       "releaseDate": null,
