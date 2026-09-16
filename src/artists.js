@@ -19,6 +19,7 @@ export const ARTISTS = [
   { slug: 'hebe-tien', name: '田馥甄', en: 'Hebe Tien', debut: '2001-09', channelId: 'UCGkj4uoWx_1BA2tF9Q-9Y6w', wiki: '田馥甄' },
   { slug: 'a-lin', name: 'A-Lin', en: '黃麗玲', debut: '2006', channelId: 'UCh8MAQTB0y4JMTROjINKenA', wiki: 'A-Lin' },
   { slug: 'lala-hsu', name: '徐佳瑩', en: 'LaLa Hsu', debut: '2009', channelId: 'UC974iWoR_ZhWT6cNbZSaEdg', wiki: '徐佳瑩' },
+  { slug: 'eve-ai', name: '艾怡良', en: 'Eve Ai', debut: '2010', channelId: 'UC_igPX3c9gOMQ41hSDV8tNg', wiki: '艾怡良' },
   { slug: '9m88', name: '9m88', en: '', debut: '2016', channelId: 'UCpZvDKDJtQUXm1o6LKT2xhA', wiki: '9m88' },
 ]
 
