@@ -1,0 +1,282 @@
+<script setup>
+import { computed, ref } from 'vue'
+import { formatCount, formatFull, formatDuration, watchUrl } from '../lib/format.js'
+
+const props = defineProps({
+  model: { type: Object, required: true },
+  approx: { type: Boolean, default: true },
+})
+const emit = defineEmits(['open-album'])
+
+const query = ref('')
+const decade = ref('')
+const sortKey = ref('plays')
+const sortDir = ref(-1)
+
+const decades = computed(() =>
+  [...new Set(props.model.songs.map((s) => Math.floor((s.year ?? 0) / 10) * 10))].sort(),
+)
+
+const columns = [
+  { key: 'rank', label: '排名', num: true },
+  { key: 'name', label: '歌名' },
+  { key: 'album', label: '首發專輯' },
+  { key: 'year', label: '發行', num: true },
+  { key: 'duration', label: '長度', num: true },
+  { key: 'appears', label: '收錄', num: true },
+  { key: 'plays', label: '播放數', num: true },
+]
+
+const getters = {
+  rank: (s) => s.rank,
+  name: (s) => s.name,
+  album: (s) => s.origin.name,
+  year: (s) => s.origin.sortKey,
+  duration: (s) => s.duration ?? 0,
+  appears: (s) => s.appearsOn.length,
+  plays: (s) => s.plays ?? -1,
+}
+
+const rows = computed(() => {
+  const q = query.value.trim().toLowerCase()
+  let list = props.model.songs.filter((s) => {
+    if (decade.value !== '' && Math.floor((s.year ?? 0) / 10) * 10 !== Number(decade.value)) return false
+    if (!q) return true
+    return [s.title, ...s.appearsOn.map((a) => a.title)].some((t) => t.toLowerCase().includes(q))
+  })
+  const get = getters[sortKey.value]
+  return [...list].sort((a, b) => {
+    const x = get(a)
+    const y = get(b)
+    const c = typeof x === 'string' ? x.localeCompare(y, 'zh-Hant') : x - y
+    return c * sortDir.value || a.rank - b.rank
+  })
+})
+
+const max = computed(() => Math.max(1, ...props.model.songs.map((s) => s.plays ?? 0)))
+const filteredTotal = computed(() => rows.value.reduce((n, s) => n + (s.plays ?? 0), 0))
+
+function sortBy(key) {
+  if (sortKey.value === key) sortDir.value *= -1
+  else {
+    sortKey.value = key
+    sortDir.value = ['plays', 'appears', 'duration', 'year'].includes(key) ? -1 : 1
+  }
+}
+
+function exportCsv() {
+  const esc = (v) => `"${String(v ?? '').replace(/"/g, '""')}"`
+  const lines = [
+    ['排名', '歌名', '首發專輯', '發行日期', '長度', '播放數', '收錄專輯', 'YouTube Music'].map(esc).join(','),
+    ...rows.value.map((s) =>
+      [
+        s.rank,
+        s.title,
+        s.origin.title,
+        s.origin.releaseLabel,
+        formatDuration(s.duration),
+        s.plays,
+        s.appearsOn.map((a) => a.name).join(' / '),
+        s.videoId ? watchUrl(s.videoId) : '',
+      ]
+        .map(esc)
+        .join(','),
+    ),
+  ]
+  const blob = new Blob(['﻿' + lines.join('\n')], { type: 'text/csv;charset=utf-8' })
+  const a = document.createElement('a')
+  a.href = URL.createObjectURL(blob)
+  a.download = `${props.model.artist.name}歌曲播放數_${new Date(props.model.fetchedAt).toISOString().slice(0, 10)}.csv`
+  a.click()
+  URL.revokeObjectURL(a.href)
+}
+</script>
+
+<template>
+  <div class="toolbar">
+    <input v-model="query" class="field search" type="search" placeholder="搜尋歌名或專輯…" aria-label="搜尋" />
+    <select v-model="decade" class="field" aria-label="年代">
+      <option value="">所有年代</option>
+      <option v-for="d in decades" :key="d" :value="d">{{ d }} 年代</option>
+    </select>
+    <span class="muted count">{{ rows.length }} 首 · 合計 {{ formatCount(filteredTotal) }}</span>
+    <button class="btn" @click="exportCsv">⬇ 匯出 CSV</button>
+  </div>
+
+  <div class="card table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th
+            v-for="c in columns"
+            :key="c.key"
+            :class="['col-' + c.key, { num: c.num }]"
+            :aria-sort="sortKey === c.key ? (sortDir > 0 ? 'ascending' : 'descending') : 'none'"
+          >
+            <button @click="sortBy(c.key)">
+              {{ c.label }}
+              <span class="arrow">{{ sortKey === c.key ? (sortDir > 0 ? '▲' : '▼') : '' }}</span>
+            </button>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="s in rows" :key="s.id">
+          <td class="num col-rank muted">{{ s.rank }}</td>
+          <td class="col-name">
+            <a v-if="s.videoId" :href="watchUrl(s.videoId)" target="_blank" rel="noopener">{{ s.name }}</a>
+            <span v-else>{{ s.name }}</span>
+            <div v-if="s.alt" class="muted small">{{ s.alt }}</div>
+          </td>
+          <td class="col-album">
+            <button class="link" @click="emit('open-album', s.origin)">{{ s.origin.name }}</button>
+          </td>
+          <td class="num col-year">{{ s.origin.releaseLabel }}</td>
+          <td class="num col-duration">{{ formatDuration(s.duration) }}</td>
+          <td
+            class="num col-appears"
+            :title="s.appearsOn.map((a) => a.name).join('\n')"
+          >
+            {{ s.appearsOn.length }} 張
+          </td>
+          <td class="col-plays">
+            <div class="plays-cell" :title="`${approx ? '約 ' : ''}${formatFull(s.plays)} 次播放`">
+              <div class="minibar"><div :style="{ width: `${((s.plays ?? 0) / max) * 100}%` }" /></div>
+              <span class="num">{{ formatCount(s.plays) }}</span>
+            </div>
+          </td>
+        </tr>
+        <tr v-if="!rows.length">
+          <td colspan="7" class="empty muted">找不到符合的歌曲</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</template>
+
+<style scoped>
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.search {
+  flex: 1 1 220px;
+}
+.count {
+  font-size: 13px;
+  margin-left: auto;
+}
+.table-wrap {
+  overflow-x: auto;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+th {
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+  text-align: left;
+  border-bottom: 1px solid var(--baseline);
+  white-space: nowrap;
+}
+th button {
+  border: 0;
+  background: none;
+  padding: 12px 10px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+th.num {
+  text-align: right;
+}
+th.col-plays {
+  text-align: left;
+  min-width: 190px;
+}
+.arrow {
+  font-size: 10px;
+}
+td {
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--grid);
+  vertical-align: middle;
+}
+td.num {
+  text-align: right;
+  white-space: nowrap;
+}
+tbody tr:hover {
+  background: var(--surface-2);
+}
+.col-name a {
+  text-decoration: none;
+  font-weight: 500;
+}
+.col-name a:hover {
+  text-decoration: underline;
+}
+.small {
+  font-size: 12px;
+}
+.link {
+  border: 0;
+  background: none;
+  padding: 0;
+  text-align: left;
+  cursor: pointer;
+  color: var(--accent-ink);
+}
+.link:hover {
+  text-decoration: underline;
+}
+.plays-cell {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.minibar {
+  flex: 1;
+  min-width: 80px;
+  height: 12px;
+  border-left: 1px solid var(--baseline);
+}
+.minibar div {
+  height: 100%;
+  min-width: 2px;
+  background: var(--series);
+  border-radius: 0 4px 4px 0;
+}
+.plays-cell .num {
+  width: 4.5rem;
+  text-align: right;
+  white-space: nowrap;
+}
+.empty {
+  text-align: center;
+  padding: 32px;
+}
+@media (max-width: 720px) {
+  .col-duration,
+  .col-appears,
+  .col-year {
+    display: none;
+  }
+  .minibar {
+    min-width: 40px;
+  }
+  .col-name .small {
+    display: none;
+  }
+  th.col-plays {
+    min-width: 130px;
+  }
+}
+</style>

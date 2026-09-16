@@ -1,0 +1,4 @@
+export { ARTISTS, findArtist } from '../src/artists.js'
+
+export const DATA_DIR = new URL('../public/data/', import.meta.url)
+export const dataFile = (slug) => new URL(`${slug}.json`, DATA_DIR)
