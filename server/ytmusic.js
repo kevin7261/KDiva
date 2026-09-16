@@ -161,6 +161,8 @@ async function fetchAlbum(release) {
   const header = findFirst(page, 'musicResponsiveHeaderRenderer') ?? {}
   const subtitle = header.subtitle?.runs?.map((r) => r.text.trim()) ?? []
   const year = subtitle.find((s) => /^\d{4}$/.test(s))
+  // 專輯的演出者（「Andy Lau & Julia Peng」）；曲目演出者欄空白時就是這位
+  const albumArtist = text(header.straplineTextOne) || null
   const playlistUrl = page.microformat?.microformatDataRenderer?.urlCanonical ?? ''
   const playlistId = playlistUrl.match(/list=([^&]+)/)?.[1] ?? null
 
@@ -191,6 +193,7 @@ async function fetchAlbum(release) {
     browseId: release.browseId,
     playlistId,
     title: text(header.title) || release.title,
+    albumArtist,
     type: subtitle[0] || release.type,
     year: year ? Number(year) : release.year,
     thumbnail: lastThumb(header.thumbnail) ?? release.thumbnail,
@@ -224,14 +227,38 @@ async function fetchExactViews(videoIds, apiKey) {
  * 合唱（「張國榮 & 梅豔芳」）仍算；名字比對會做簡繁轉換，別名寫在 artists.js 的 aliases。
  */
 export function markOtherArtists(albums, artistConfig, channelName = '') {
-  const names = [artistConfig.name, artistConfig.en, artistConfig.wiki, ...(artistConfig.aliases ?? []), ...channelName.split(' - ')]
-  const keys = [...new Set(names.filter(Boolean).map((n) => normalizeTitle(n)).filter((k) => k.length >= 2))]
+  const norm = (s) => normalizeTitle(String(s).replace(/\s+-\s+/g, ' '))
+  const names = artistConfig.names ?? [
+    artistConfig.name,
+    artistConfig.en,
+    artistConfig.wiki,
+    ...(artistConfig.aliases ?? []),
+    ...channelName.split(' - '),
+  ]
+  const keys = [...new Set(names.filter(Boolean).map(norm).filter(Boolean))]
+  const groups = (artistConfig.groups ?? []).map(norm)
+  const members = (artistConfig.members ?? []).map(norm)
+  // 一個字的名字（「信」）要整段相符，不能只是包含
+  const mentions = (credit, list) => {
+    const whole = norm(credit)
+    const parts = String(credit).split(/\s*(?:&|,|、|\||\/|;|\(|\)|（|）|\bfeat\.?|\bwith\b|\bx\b)\s*/i).map(norm).filter(Boolean)
+    return list.some((k) => (k.length >= 2 ? whole.includes(k) : parts.includes(k)))
+  }
   let marked = 0
   for (const album of albums) {
+    // 別人的專輯（主演出者不是這位歌手，例如彭佳慧頻道上「Andy Lau & Julia Peng」的《因為愛》）整張不算，
+    // 即使裡面有一首合唱；單曲、EP 的合唱仍算這位歌手的歌
+    const lead = album.albumArtist?.split(/\s*(?:&|,|、)\s*/)[0]
+    const othersAlbum = album.type === 'Album' && !!lead && !mentions(lead, keys)
     for (const t of album.tracks) {
-      // 演出者欄可能是「The Legend of Lion Rock 5CD - Anita Mui」，不能用去掉「 - 」後段的標題正規化
-      const credit = t.artists ? normalizeTitle(t.artists.replace(/\s+-\s+/g, ' ')) : ''
-      t.byOther = !!credit && !keys.some((k) => credit.includes(k))
+      // 曲目沒寫演出者時就是專輯演出者（舊資料沒有 albumArtist，視為這位歌手）
+      const credit = t.artists || album.albumArtist || ''
+      t.byOther =
+        othersAlbum ||
+        (!!credit &&
+        (!mentions(credit, keys) || // 別人唱的
+          (groups.length > 0 && mentions(credit, groups)) || // 個人頻道上的團體作品
+          (members.length > 0 && mentions(credit, members)))) // 團體頻道上的團員個人作品
       if (t.byOther) marked++
     }
   }
