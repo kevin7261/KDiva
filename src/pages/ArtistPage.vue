@@ -1,7 +1,7 @@
 <script setup>
 import { computed, ref, shallowRef, watch } from 'vue'
 import { RouterLink } from 'vue-router'
-import { ARTISTS, findArtist } from '../artists.js'
+import { artistsIn, findArtist } from '../artists.js'
 import { getModel, loadArtist, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
 import { formatCount, formatFull, formatDate } from '../lib/format.js'
@@ -15,6 +15,7 @@ const props = defineProps({ slug: { type: String, required: true } })
 
 const canRefresh = import.meta.env.DEV
 const artist = computed(() => findArtist(props.slug))
+const siblings = computed(() => artistsIn(artist.value.group))
 const model = computed(() => getModel(props.slug))
 const error = ref('')
 const refreshing = ref(false)
@@ -81,10 +82,10 @@ const tabs = [
     <header class="hero" :style="model?.artist.thumbnail ? { '--bg': `url(${model.artist.thumbnail})` } : {}">
       <div class="hero-inner">
         <div class="topbar">
-          <RouterLink to="/" class="btn ghost">← KDiva</RouterLink>
+          <RouterLink :to="`/${artist.group}`" class="btn ghost">← KDiva</RouterLink>
           <nav class="switcher" aria-label="切換歌手">
             <RouterLink
-              v-for="a in ARTISTS"
+              v-for="a in siblings"
               :key="a.slug"
               :to="`/artist/${a.slug}`"
               :class="{ on: a.slug === slug }"
@@ -201,9 +202,14 @@ const tabs = [
   margin-bottom: 48px;
 }
 /* 歌手多，獨佔一列並換行；手機改成橫向捲動 */
+.topbar::after {
+  content: '';
+  order: 2;
+  flex-basis: 100%;
+}
 .switcher {
   order: 3;
-  width: 100%;
+  max-width: 100%;
   display: flex;
   flex-wrap: wrap;
   gap: 2px;

@@ -3,7 +3,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import App from './App.vue'
 import HomePage from './pages/HomePage.vue'
 import ArtistPage from './pages/ArtistPage.vue'
-import { findArtist } from './artists.js'
+import { GROUPS, findArtist } from './artists.js'
 import { applyTheme } from './lib/prefs.js'
 import './style.css'
 
@@ -13,21 +13,23 @@ applyTheme()
 const router = createRouter({
   history: createWebHashHistory(),
   routes: [
-    { path: '/', component: HomePage },
+    { path: '/', redirect: '/female' },
+    { path: '/:group(female|male|group)', component: HomePage, props: true },
     {
       path: '/artist/:slug',
       component: ArtistPage,
       props: true,
-      beforeEnter: (to) => (findArtist(to.params.slug) ? true : '/'),
+      beforeEnter: (to) => (findArtist(to.params.slug) ? true : '/female'),
     },
-    { path: '/:pathMatch(.*)*', redirect: '/' },
+    { path: '/:pathMatch(.*)*', redirect: '/female' },
   ],
   scrollBehavior: () => ({ top: 0 }),
 })
 
 router.afterEach((to) => {
   const artist = findArtist(to.params.slug)
-  document.title = artist ? `${artist.name}｜KDiva` : 'KDiva｜華語天后播放數'
+  const group = GROUPS.find((g) => g.key === to.params.group)
+  document.title = artist ? `${artist.name}｜KDiva` : `KDiva｜華語${group?.label ?? '歌手'}播放數`
 })
 
 createApp(App).use(router).mount('#app')

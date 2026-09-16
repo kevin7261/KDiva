@@ -1,24 +1,34 @@
 <script setup>
-import { computed, ref } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { RouterLink, useRouter } from 'vue-router'
-import { ARTISTS } from '../artists.js'
+import { GROUPS, artistsIn } from '../artists.js'
 import { getModel, loadAll, refreshArtist } from '../lib/store.js'
 import { formatCount, formatDate, watchUrl } from '../lib/format.js'
 import BarList from '../components/BarList.vue'
 import ThemeToggle from '../components/ThemeToggle.vue'
+
+const props = defineProps({ group: { type: String, default: 'female' } })
 
 const router = useRouter()
 const canRefresh = import.meta.env.DEV
 const errors = ref([])
 const refreshing = ref('')
 
-loadAll().then((results) => {
-  errors.value = results.filter((r) => r.status === 'rejected').map((r) => r.reason.message)
-})
+const groupInfo = computed(() => GROUPS.find((g) => g.key === props.group) ?? GROUPS[0])
+const artists = computed(() => artistsIn(groupInfo.value.key))
 
-const entries = computed(() =>
-  ARTISTS.map((a) => ({ artist: a, model: getModel(a.slug) })),
+watch(
+  artists,
+  (list) => {
+    errors.value = []
+    loadAll(list).then((results) => {
+      errors.value = results.filter((r) => r.status === 'rejected').map((r) => r.reason.message)
+    })
+  },
+  { immediate: true },
 )
+
+const entries = computed(() => artists.value.map((a) => ({ artist: a, model: getModel(a.slug) })))
 const loaded = computed(() => entries.value.filter((e) => e.model))
 
 const grandTotal = computed(() => loaded.value.reduce((n, e) => n + e.model.totalPlays, 0))
@@ -31,7 +41,14 @@ const zhNumber = (n) => {
   if (n < 10) return d[n]
   return `${n >= 20 ? d[Math.floor(n / 10)] : ''}十${n % 10 ? d[n % 10] : ''}`
 }
-const artistCount = zhNumber(ARTISTS.length)
+// 「五十位天后」「三位天王」「兩組團體」
+const heading = computed(() => {
+  const n = artists.value.length
+  return `${n === 2 ? '兩' : zhNumber(n)}${groupInfo.value.unit}${groupInfo.value.title}`
+})
+const noun = computed(() => (groupInfo.value.key === 'group' ? '團體' : '歌手'))
+// 主視覺拼貼：人數少時不要留空欄
+const collageCols = computed(() => Math.min(10, Math.max(1, artists.value.length)))
 
 const goArtist = (slug) => router.push(`/artist/${slug}`)
 
@@ -87,7 +104,7 @@ const cardInfo = ({ model }) => {
 
 async function refreshAll() {
   errors.value = []
-  for (const a of ARTISTS) {
+  for (const a of artists.value) {
     refreshing.value = a.name
     try {
       await refreshArtist(a.slug)
@@ -104,7 +121,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
 <template>
   <div>
     <header class="hero">
-      <div class="collage" aria-hidden="true">
+      <div class="collage" aria-hidden="true" :style="{ '--cols': collageCols }">
         <div
           v-for="{ artist, model } in entries"
           :key="artist.slug"
@@ -115,15 +132,20 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
       <div class="hero-inner">
         <div class="topbar">
           <span class="brand">KDiva</span>
+          <nav class="groups" aria-label="分類">
+            <RouterLink v-for="g in GROUPS" :key="g.key" :to="`/${g.key}`" :class="{ on: g.key === groupInfo.key }">
+              {{ g.label }}
+            </RouterLink>
+          </nav>
           <div class="actions">
             <button v-if="canRefresh" class="btn ghost" :disabled="!!refreshing" @click="refreshAll">
-              {{ refreshing ? `抓取 ${refreshing}…` : '↻ 全部重新抓取' }}
+              {{ refreshing ? `抓取 ${refreshing}…` : `↻ 重新抓取${groupInfo.label}` }}
             </button>
             <ThemeToggle />
           </div>
         </div>
-        <p class="eyebrow">華語天后 · YouTube Music 播放數據 · 依出道日期排列</p>
-        <h1>{{ artistCount }}位天后，<br class="br" />{{ songTotal ? `${songTotal} 首歌` : '所有歌曲' }}的播放紀錄</h1>
+        <p class="eyebrow">華語{{ groupInfo.label }} · YouTube Music 播放數據 · 依出道日期排列</p>
+        <h1>{{ heading }}，<br class="br" />{{ songTotal ? `${songTotal} 首歌` : '所有歌曲' }}的播放紀錄</h1>
         <div v-if="loaded.length" class="hero-number">
           <span class="figure">{{ formatCount(grandTotal) }}</span>
           <span class="caption">合計播放次數</span>
@@ -176,7 +198,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
           <section class="card panel">
             <header>
               <h2>累計播放數</h2>
-              <p class="muted">每位歌手所有歌曲（去除重複收錄）的播放數合計。點一下看歌手頁。</p>
+              <p class="muted">每{{ groupInfo.unit }}{{ noun }}所有歌曲（去除重複收錄）的播放數合計。點一下看{{ noun }}頁。</p>
             </header>
             <BarList :rows="totalRows" label-width="6rem" @select="(r) => goArtist(r.key)" />
           </section>
@@ -195,7 +217,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
 
         <section class="card panel">
           <header>
-            <h2>{{ artistCount }}位天后最熱門 20 首</h2>
+            <h2>{{ heading }}最熱門 20 首</h2>
             <p class="muted">點一下在 YouTube Music 播放。</p>
           </header>
           <BarList :rows="topSongs" label-width="11rem" @select="openSong" />
@@ -223,7 +245,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
   position: absolute;
   inset: 0;
   display: grid;
-  grid-template-columns: repeat(10, 1fr);
+  grid-template-columns: repeat(var(--cols, 10), 1fr);
   grid-auto-rows: 1fr;
 }
 .tile {
@@ -247,7 +269,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
 }
 .topbar {
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
   align-items: center;
   gap: 12px;
   margin-bottom: 56px;
@@ -260,6 +282,31 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
 .actions {
   display: flex;
   gap: 8px;
+  margin-left: auto;
+}
+.groups {
+  display: flex;
+  gap: 2px;
+  padding: 3px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(6px);
+}
+.groups a {
+  padding: 5px 14px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.8);
+  white-space: nowrap;
+}
+.groups a:hover {
+  color: #fff;
+}
+.groups a.on {
+  background: #fff;
+  color: #111;
+  font-weight: 600;
 }
 .eyebrow {
   margin: 0 0 8px;
@@ -431,7 +478,7 @@ h2 {
     gap: 10px;
   }
   .collage {
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(min(var(--cols, 10), 5), 1fr);
   }
   .hero-inner {
     padding-left: 16px;

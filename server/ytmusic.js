@@ -219,9 +219,17 @@ async function fetchExactViews(videoIds, apiKey) {
 // ---------- 主流程 ----------
 
 export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} } = {}) {
-  const { channelId } = artistConfig
+  const { channelId, extraChannelIds = [] } = artistConfig
   log('讀取歌手頁…')
   const artist = await fetchArtist(channelId)
+  // 作品分散在多個頻道的歌手（例如改過藝名）：合併其他頻道的專輯，頭像、訂閱等仍以主頻道為準
+  for (const id of extraChannelIds) {
+    const extra = await fetchArtist(id)
+    const seen = new Set(artist.releases.map((r) => r.browseId))
+    artist.releases.push(...extra.releases.filter((r) => !seen.has(r.browseId)))
+    artist.thumbnail ??= extra.thumbnail
+    log(`合併頻道 ${extra.name}：${extra.releases.length} 張`)
+  }
   log(`找到 ${artist.releases.length} 張專輯／單曲，開始讀取曲目…`)
 
   const albums = await mapLimit(artist.releases, 4, async (r) => {

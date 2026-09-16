@@ -1,8 +1,8 @@
 # KDiva｜華語天后播放數
 
-用 Vue 3 + Vite 做的網頁，比較 50 位華語女歌手在 YouTube Music 上每首歌的播放數（依出道日期排列：歐陽菲菲、鄧麗君、鳳飛飛、陳淑樺、黃鶯鶯、齊豫、蔡琴、鄭怡、潘越雲、江蕙、梅艷芳、蘇芮、張清芳、林憶蓮、辛曉琪、黃乙玲、趙詠華、那英、王菲、萬芳、蘇慧倫、黃小琥、鄭秀文、莫文蔚、許美靜、李玟、許茹芸、劉若英、范曉萱、彭佳慧、梁詠琪、順子、張惠妹、蔡健雅、楊乃文、陳綺貞、蔡依林、梁靜茹、蕭亞軒、戴佩妮、楊丞琳、范瑋琪、田馥甄、張韶涵、魏如萱、王心凌、A-Lin、徐佳瑩、艾怡良、9m88），專輯依 Wikipedia 的原始發行日期排序。
+用 Vue 3 + Vite 做的網頁，比較華語女歌手、男歌手與團體在 YouTube Music 上每首歌的播放數，各自依出道日期排列，專輯依 Wikipedia 的原始發行日期排序。
 
-- 首頁 `#/`：各歌手累計播放、每月觀眾、合併的熱門 20 首
+- 首頁 `#/female`、`#/male`、`#/group`：女歌手／男歌手／團體分頁，各自的累計播放、每月觀眾、合併的熱門 20 首
 - 歌手頁 `#/artist/<slug>`：總覽圖表、專輯牆（點開看曲目）、全部歌曲表（搜尋／排序／匯出 CSV）
 
 ## 使用
@@ -25,7 +25,7 @@ npm run fetch-data -- a-mei jolin-tsai   # 指定歌手（slug 見 src/artists.j
 
 ## 新增歌手
 
-在 `src/artists.js` 依出道日期插入一筆：YouTube Music 藝人頻道 ID（`music.youtube.com/channel/UC…`）、中文 Wikipedia 條目名稱與出道日期（`debut`），然後 `npm run fetch-data -- <slug>`。首頁標題的人數會自動跟著清單變。
+在 `src/artists.js` 依出道日期插入一筆：YouTube Music 藝人頻道 ID（`music.youtube.com/channel/UC…`）、中文 Wikipedia 條目名稱、出道日期（`debut`）與分類（`group`：`female`／`male`／`group`），然後 `npm run fetch-data -- <slug>`。首頁標題的人數會自動跟著清單變。
 
 ## 資料怎麼來
 

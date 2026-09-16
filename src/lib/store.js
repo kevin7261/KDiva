@@ -32,7 +32,7 @@ export function loadArtist(slug) {
   return pending.get(slug)
 }
 
-export const loadAll = () => Promise.allSettled(ARTISTS.map((a) => loadArtist(a.slug)))
+export const loadAll = (list = ARTISTS) => Promise.allSettled(list.map((a) => loadArtist(a.slug)))
 
 /** 開發模式：請 Vite 伺服器重新抓取並回傳新資料 */
 export async function refreshArtist(slug) {
