@@ -64,19 +64,29 @@ const totalRows = computed(() =>
     })),
 )
 
-const noAudience = computed(() =>
-  loaded.value.filter((e) => e.model.artist.monthlyAudience == null).map((e) => e.artist.name),
-)
+// 依某個數字排序；沒有數字的排在最後（保持出道順序）
+const byMetric = (get) =>
+  [...loaded.value].sort((a, b) => (get(b.model) ?? -1) - (get(a.model) ?? -1))
+
+const noAudienceCount = computed(() => loaded.value.filter((e) => e.model.artist.monthlyAudience == null).length)
+// YouTube Music 只對部分藝人頁顯示每月觀眾，其餘只顯示訂閱數；沒有的一樣列出，排在最後
 const audienceRows = computed(() =>
-  loaded.value
-    .filter((e) => e.model.artist.monthlyAudience != null)
-    .sort((a, b) => (b.model.artist.monthlyAudience ?? 0) - (a.model.artist.monthlyAudience ?? 0))
-    .map(({ artist, model }) => ({
-      key: artist.slug,
-      label: artist.name,
-      sub: `訂閱 ${formatCount(model.artist.subscribers)}`,
-      value: model.artist.monthlyAudience,
-    })),
+  byMetric((m) => m.artist.monthlyAudience).map(({ artist, model }) => ({
+    key: artist.slug,
+    label: artist.name,
+    sub: `訂閱 ${formatCount(model.artist.subscribers)}`,
+    value: model.artist.monthlyAudience,
+    valueLabel: 'YouTube Music 未提供',
+  })),
+)
+const subscriberRows = computed(() =>
+  byMetric((m) => m.artist.subscribers).map(({ artist, model }) => ({
+    key: artist.slug,
+    label: artist.name,
+    sub: model.artist.monthlyAudience == null ? '無每月觀眾資料' : `每月觀眾 ${formatCount(model.artist.monthlyAudience)}`,
+    value: model.artist.subscribers,
+    valueLabel: '未提供',
+  })),
 )
 
 const topSongs = computed(() =>
@@ -206,12 +216,19 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
             <header>
               <h2>每月觀眾</h2>
               <p class="muted">
-                YouTube Music 藝人頁顯示的每月觀眾人數。<template v-if="noAudience.length"
-                  >{{ noAudience.join('、') }}的頁面未顯示這項數字。</template
+                YouTube Music 藝人頁顯示的每月觀眾人數。<template v-if="noAudienceCount"
+                  >其中 {{ noAudienceCount }} {{ groupInfo.unit }}的頁面只顯示訂閱數、沒有這項數字，列在最後。</template
                 >
               </p>
             </header>
             <BarList :rows="audienceRows" label-width="6rem" :approx="false" unit="位" @select="(r) => goArtist(r.key)" />
+          </section>
+          <section class="card panel">
+            <header>
+              <h2>頻道訂閱</h2>
+              <p class="muted">YouTube Music 藝人頻道的訂閱人數，每{{ groupInfo.unit }}{{ noun }}都有這項數字。</p>
+            </header>
+            <BarList :rows="subscriberRows" label-width="6rem" :approx="false" unit="位訂閱" @select="(r) => goArtist(r.key)" />
           </section>
         </div>
 

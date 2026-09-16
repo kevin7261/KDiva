@@ -4,7 +4,7 @@ import { computed, ref } from 'vue'
 import { formatCount, formatFull } from '../lib/format.js'
 
 const props = defineProps({
-  rows: { type: Array, required: true }, // { key, label, sub?, value, href?, tip? }
+  rows: { type: Array, required: true }, // { key, label, sub?, value, valueLabel?, tip? }；value 為 null 時顯示 valueLabel
   labelWidth: { type: String, default: '11rem' },
   approx: { type: Boolean, default: true },
   unit: { type: String, default: '次播放' },
@@ -50,8 +50,10 @@ const tipStyle = computed(() => {
         <span v-if="row.sub" class="sub">{{ row.sub }}</span>
       </div>
       <div class="track">
-        <div class="bar" :style="{ width: `calc((100% - 5.5rem) * ${(row.value ?? 0) / max})` }" />
-        <span class="value num">{{ formatCount(row.value) }}</span>
+        <div v-if="row.value != null" class="bar" :style="{ width: `calc((100% - 5.5rem) * ${row.value / max})` }" />
+        <span class="value num" :class="{ missing: row.value == null }">{{
+          row.value == null ? row.valueLabel ?? '—' : formatCount(row.value)
+        }}</span>
       </div>
     </li>
   </ol>
@@ -59,7 +61,8 @@ const tipStyle = computed(() => {
     <div v-if="tip" class="tooltip" :style="tipStyle">
       <strong>{{ tip.row.label }}</strong>
       <div v-if="tip.row.sub" class="muted">{{ tip.row.sub }}</div>
-      <div class="num">{{ approx ? '約 ' : '' }}{{ formatFull(tip.row.value) }} {{ unit }}</div>
+      <div v-if="tip.row.value == null" class="muted">{{ tip.row.valueLabel ?? '沒有資料' }}</div>
+      <div v-else class="num">{{ approx ? '約 ' : '' }}{{ formatFull(tip.row.value) }} {{ unit }}</div>
       <div v-if="tip.row.tip" class="muted">{{ tip.row.tip }}</div>
     </div>
   </Teleport>
@@ -122,6 +125,9 @@ const tipStyle = computed(() => {
   font-size: 13px;
   color: var(--text-secondary);
   white-space: nowrap;
+}
+.value.missing {
+  color: var(--text-muted);
 }
 @media (max-width: 560px) {
   .row {
