@@ -21,7 +21,9 @@ npm run fetch-data -- a-mei jolin-tsai   # 指定歌手（slug 見 src/artists.j
 
 精確播放數（YouTube Music 只顯示「27M」這種概數）：到 Google Cloud Console 啟用 YouTube Data API v3、建立 API key，然後 `YOUTUBE_API_KEY=你的key npm run fetch-data`。
 
-部署：`npm run build` 後把 `dist/` 放到任何靜態主機。靜態版不能重新抓取，要更新就在本機跑 `fetch-data` 再 build。
+網站：https://kevin7261.github.io/KDiva/。更新網站：`npm run deploy`（建置後把 `dist/` 推到 `gh-pages` 分支，GitHub Pages 從該分支發布）。
+
+部署到其他主機：`npm run build` 後把 `dist/` 放到任何靜態主機。靜態版不能重新抓取，要更新就在本機跑 `fetch-data` 再 build。
 
 ## 新增歌手
 
