@@ -8,9 +8,10 @@
 //  4. 條列（「*1989年 《純屬虛構》」）
 //  5. 內文（「1998年6月，發行第五張個人專輯《我依然愛你》」）
 import * as OpenCC from 'opencc-js'
+import { pinyin } from 'pinyin-pro'
 
 const UA = 'KDiva/1.0 (personal project; https://github.com/kevin7261/KDiva)'
-const toTW = OpenCC.Converter({ from: 'cn', to: 'tw' })
+export const toTW = OpenCC.Converter({ from: 'cn', to: 'tw' })
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
@@ -49,6 +50,15 @@ export function normalizeTitle(title) {
   s = s.replace(/[（(][^）)]*(專輯|單曲|EP|版|Version|Edition|Remaster|主題曲|插曲|片尾曲|片頭曲|feat)[^）)]*[）)]/gi, '')
   s = chineseNumbers(s).toLowerCase().replace(/ㄞˋ/g, '愛').replace(/痴/g, '癡').replace(/艷/g, '豔').replace(/羣/g, '群')
   return s.replace(/[^\p{L}\p{N}]/gu, '')
+}
+
+export const hasCJK = (s) => /[\u3400-\u9fff]/.test(String(s ?? ''))
+
+/** 拼音比對鍵：「情敵貝多芬」與 YouTube Music 的「Qing Di Bei Duo Fen」都變成 qingdibeiduofen */
+export function pinyinKey(title) {
+  let s = String(title ?? '').replace(/\s+-\s+.*$/, '').replace(/[（(][^）)]*[）)]/g, '')
+  if (hasCJK(s)) s = pinyin(toTW(s), { toneType: 'none', type: 'array', nonZh: 'consecutive' }).join('')
+  return s.toLowerCase().replace(/[^a-z0-9]/g, '')
 }
 
 function bigrams(s) {
@@ -251,6 +261,7 @@ function parseTables(wikitext, page, artistKeys) {
       const titles = row[titleCol] != null ? titlesFromCell(row[titleCol]) : []
       const date = row[dateCol] != null ? parseDate(toPlain(row[dateCol]), { allowYear: true }) : null
       if (!titles.length || !date) continue
+      const tracks = row.map(listTracks).find((t) => t.length >= 2)
       // 以歌曲為單位的表格：歌名只拿來比對同年的單曲，「收錄專輯」欄另外當成專輯
       if (SONG_HEAD.test(header[titleCol])) {
         out.push({ titles, ...date, source: 'song-table', page })
@@ -258,7 +269,7 @@ function parseTables(wikitext, page, artistKeys) {
         const albumTitles = albumCol >= 0 && row[albumCol] != null ? titlesFromCell(row[albumCol]) : []
         if (albumTitles.length) out.push({ titles: albumTitles, ...date, source: 'table', page })
       } else {
-        out.push({ titles, ...date, source: 'table', page })
+        out.push({ titles, ...date, source: 'table', page, tracks })
       }
     }
   }
@@ -298,6 +309,25 @@ const INFOBOX_DATE = /^\s*\|\s*(?:發行日期|发行日期|發行時間|发行�
 const INFOBOX_NAME = /^\s*\|\s*(?:名稱|名称|專輯名稱|专辑名称|name)\s*=\s*(.*)$/im
 const INFOBOX_ARTIST = /^\s*\|\s*(?:歌手|藝人|艺人|演唱者|演出者|artist)\s*=\s*(.*)$/im
 
+/** 專輯條目的 {{Tracklist | title1 = … }} 曲目 */
+function parseTracklist(wikitext) {
+  const tracks = []
+  for (const m of wikitext.matchAll(/^\s*\|\s*title(\d+)\s*=\s*(.*)$/gim)) {
+    const title = toPlain(m[2]).trim()
+    if (title) tracks[Number(m[1]) - 1] = title
+  }
+  return tracks.filter(Boolean)
+}
+
+/** 表格「曲目」格裡的「#出塞曲」條列 */
+function listTracks(cell) {
+  return cell
+    .split('\n')
+    .filter((l) => /^\s*#(?!#)/.test(l) || /^\s*\{\{[^|]*\|[^|]*\|\s*#/.test(l))
+    .map((l) => toPlain(l.replace(/^.*?#/, '')).replace(/\}\}\s*$/, '').trim())
+    .filter(Boolean)
+}
+
 function parseAlbumPage(title, wikitext, artistKeys) {
   const dateLine = wikitext.match(INFOBOX_DATE)?.[1]
   if (!dateLine) return null
@@ -308,7 +338,8 @@ function parseAlbumPage(title, wikitext, artistKeys) {
   const titles = [title.replace(/\s*[（(][^）)]*[）)]\s*$/, '')]
   const name = toPlain(wikitext.match(INFOBOX_NAME)?.[1] ?? '').trim()
   if (name && name.length <= 60) titles.push(...titleVariants(name))
-  return { titles, ...date, source: 'album-page', page: title }
+  const tracks = parseTracklist(wikitext)
+  return { titles, ...date, source: 'album-page', page: title, tracks: tracks.length ? tracks : undefined }
 }
 
 async function fetchPages(titles) {
@@ -334,7 +365,7 @@ async function fetchPages(titles) {
  * 讀歌手條目與作品列表頁（表格、條列、內文），再打開其中連到、名稱像 YouTube Music 專輯的條目取資訊框日期。
  * albumKeys：YouTube Music 專輯名稱的正規化結果，用來挑要打開哪些專輯條目。
  */
-async function fromWikipedia(pageTitle, albumKeys, artistKeys, log) {
+async function fromWikipedia(pageTitle, albumKeys, artistKeys, log, albumPinyin = new Set()) {
   const main = await wikiApi({ action: 'parse', page: pageTitle, prop: 'wikitext|links|properties', redirects: '1' })
   if (main.error) throw new Error(`找不到 Wikipedia 條目「${pageTitle}」`)
   const qid = main.parse.properties?.find?.((p) => p.name === 'wikibase_item')?.value ?? main.parse.properties?.wikibase_item ?? null
@@ -357,7 +388,9 @@ async function fromWikipedia(pageTitle, albumKeys, artistKeys, log) {
       const target = m[1].trim()
       if (/^(?:File|Image|Category|Template|檔案|文件|分類|Wikipedia|WP|Help|Portal):/i.test(target)) continue
       const names = [target.replace(/\s*[（(][^）)]*[）)]\s*$/, ''), m[2] ?? ''].map(normalizeTitle).filter(Boolean)
-      if (names.some((n) => albumKeys.some((k) => similarity(n, k) >= 0.8))) linkTargets.set(target, true)
+      const py = [target.replace(/\s*[（(][^）)]*[）)]\s*$/, ''), m[2] ?? ''].map(pinyinKey).filter((k) => k.length >= 4)
+      if (names.some((n) => albumKeys.some((k) => similarity(n, k) >= 0.8)) || py.some((k) => albumPinyin.has(k)))
+        linkTargets.set(target, true)
     }
   }
 
@@ -380,7 +413,9 @@ async function fromWikipedia(pageTitle, albumKeys, artistKeys, log) {
 export async function fetchReleaseCatalog(artistConfig, albums, log = () => {}) {
   const artistKeys = [artistConfig.name, artistConfig.en, artistConfig.wiki].map((n) => (n ? normalizeTitle(n) : '')).filter(Boolean)
   const albumKeys = albums.map((a) => stripArtist(normalizeTitle(a.title), artistKeys)).filter(Boolean)
-  const { entries: wp, qid } = await fromWikipedia(artistConfig.wiki, albumKeys, artistKeys, log)
+  // 標題沒有中文的專輯（「Qing Di Bei Duo Fen」）用拼音找條目
+  const albumPinyin = new Set(albums.filter((a) => !hasCJK(a.title)).map((a) => pinyinKey(a.title)).filter((k) => k.length >= 4))
+  const { entries: wp, qid } = await fromWikipedia(artistConfig.wiki, albumKeys, artistKeys, log, albumPinyin)
   let wd = []
   if (qid) {
     try {
@@ -390,7 +425,11 @@ export async function fetchReleaseCatalog(artistConfig, albums, log = () => {}) 
     }
   }
   log(`  Wikidata：${wd.length} 筆`)
-  return [...wp, ...wd].map((e) => ({ ...e, keys: e.titles.map((t) => stripArtist(normalizeTitle(t), artistKeys)).filter(Boolean) }))
+  return [...wp, ...wd].map((e) => ({
+    ...e,
+    keys: e.titles.map((t) => stripArtist(normalizeTitle(t), artistKeys)).filter(Boolean),
+    pinyinKeys: e.titles.filter(hasCJK).map(pinyinKey).filter((k) => k.length >= 4),
+  }))
 }
 
 // 去掉名稱裡的歌手名（「絕版公主蔡依林-夢綺地精選」），避免干擾比對；名稱就是歌手名時保留
@@ -423,7 +462,8 @@ export function matchRelease(album, catalog, artistNames = []) {
   let best = null
   for (const entry of catalog) {
     if (isVariant && !entry.titles.some((t) => VARIANT_RE.test(t))) continue
-    const score = Math.max(0, ...entry.keys.map((k) => similarity(key, k)))
+    let score = Math.max(0, ...entry.keys.map((k) => similarity(key, k)))
+    if (!hasCJK(album.title) && entry.pinyinKeys?.includes(pinyinKey(album.title))) score = 1
     if (score < THRESHOLD[entry.source]) continue
     const year = Number(entry.date.slice(0, 4))
     if (album.year && year > album.year + (score >= 0.99 ? 2 : 0)) continue
@@ -446,5 +486,7 @@ export function matchRelease(album, catalog, artistNames = []) {
     releaseDatePrecision: best.entry.precision,
     releaseDateSource: best.entry.source,
     wikiTitle: best.entry.page ?? best.entry.titles[0],
+    wikiName: best.entry.titles.find(hasCJK) ?? null,
+    wikiTracks: best.entry.tracks ?? null,
   }
 }

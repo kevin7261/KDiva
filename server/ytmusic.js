@@ -3,7 +3,7 @@
 // 若設定 YOUTUBE_API_KEY，會再用官方 YouTube Data API 補上精確的觀看次數。
 // 發行日期另外從 Wikipedia／Wikidata 比對（見 wiki.js）。
 
-import { fetchReleaseCatalog, matchRelease, normalizeTitle } from './wiki.js'
+import { fetchReleaseCatalog, matchRelease, normalizeTitle, hasCJK, pinyinKey, toTW } from './wiki.js'
 import { RELEASE_OVERRIDES } from './release-overrides.js'
 import { releaseSortKey } from '../src/lib/release.js'
 
@@ -154,6 +154,25 @@ async function fetchArtist(channelId) {
   }
 }
 
+// ---------- YouTube 頻道大頭照 ----------
+
+/** 歌手 YouTube 頻道的大頭照（YouTube Music 藝人頁的圖是橫幅，裁切後常看不到臉），放大成 800px */
+export async function fetchAvatar(channelId) {
+  const res = await fetch('https://www.youtube.com/youtubei/v1/browse?prettyPrint=false', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json', 'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/140.0' },
+    body: JSON.stringify({
+      context: { client: { clientName: 'WEB', clientVersion: clientVersion().replace(/^1\./, '2.'), hl: 'zh-TW', gl: 'TW' } },
+      browseId: channelId,
+    }),
+  })
+  if (!res.ok) return null
+  const page = await res.json()
+  const sources = [...findAll(page.header, 'avatar')].flatMap((a) => [...findAll(a, 'sources')]).flat()
+  const url = sources.sort((a, b) => (b.width ?? 0) - (a.width ?? 0))[0]?.url ?? page.metadata?.channelMetadataRenderer?.avatar?.thumbnails?.at(-1)?.url
+  return url ? url.replace(/=s\d+(-[^/]*)?$/, '=s800-c-k-c0x00ffffff-no-rj') : null
+}
+
 // ---------- 專輯頁 ----------
 
 async function fetchAlbum(release) {
@@ -265,6 +284,64 @@ export function markOtherArtists(albums, artistConfig, channelName = '') {
   return marked
 }
 
+// ---------- 中文歌名 ----------
+
+/**
+ * 有些唱片公司上架時只填英文或拼音（蕭煌奇〈Last Train〉＝〈末班車〉、王力宏〈Si Ji〉＝〈四季〉）。
+ * 有中文名就改顯示中文（titleZh）：
+ *  1. 專輯對到 Wikipedia 且曲目數相同 → 依曲序取 Wikipedia 曲目名
+ *  2. 拼音相同 → 取同一位歌手其他專輯或 Wikipedia 上的中文歌名
+ */
+export function addChineseTitles(albums, catalog = []) {
+  const zhOf = new Map() // 拼音 → 中文名
+  const add = (t) => {
+    if (!hasCJK(t)) return
+    const name = t.split(/\s+-\s+/).find(hasCJK)?.trim()
+    const k = pinyinKey(name)
+    if (name && k.length >= 3 && !zhOf.has(k)) zhOf.set(k, name)
+  }
+  for (const a of albums) for (const t of a.tracks) add(t.title)
+  for (const e of catalog) {
+    e.titles.forEach(add)
+    e.tracks?.forEach(add)
+  }
+  for (const album of albums) {
+    delete album.titleZh
+    if (!hasCJK(album.title)) album.titleZh = (album._wiki?.name ?? zhOf.get(pinyinKey(album.title))) || undefined
+    const wikiTracks = album._wiki?.tracks
+    const byIndex = wikiTracks?.length === album.tracks.length
+    album.tracks.forEach((t, i) => {
+      delete t.titleZh
+      if (hasCJK(t.title)) return
+      const zh = byIndex && hasCJK(wikiTracks[i]) ? wikiTracks[i] : zhOf.get(pinyinKey(t.title))
+      if (zh) t.titleZh = zh
+    })
+  }
+}
+
+// ---------- 歌名比對鍵 ----------
+
+const LIVE_RE = /live|演唱會|演唱会|音樂會|音乐会|現場|现场|concert/i
+
+/**
+ * 每首曲目的 nameKey：前端用來判斷「同一首歌」。
+ * 用中文名（有的話）、簡轉繁、去掉尾端括號註記（「傷心的人別聽慢歌（貫徹快樂）」＝「傷心的人別聽慢歌」），
+ * Live 版本加上標記、不和錄音室版本視為同名。
+ */
+export function addNameKeys(albums) {
+  for (const album of albums) {
+    for (const t of album.tracks) {
+      const zh = t.titleZh ?? t.title.split(/\s+-\s+/).find(hasCJK)
+      // 簡體歌名顯示成繁體（「最后一夜」→「最後一夜」），原名留作副標
+      if (zh && !t.titleZh && toTW(zh) !== zh) t.titleZh = toTW(zh)
+      const title = t.titleZh ?? zh ?? t.title.split(/\s+-\s+/)[0]
+      const base = title.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ' ').trim() || title
+      const live = LIVE_RE.test(t.title) ? '#live' : ''
+      t.nameKey = normalizeTitle(base) + live
+    }
+  }
+}
+
 // ---------- 發行日期 ----------
 
 /**
@@ -291,9 +368,13 @@ export async function applyReleaseDates(albums, artistConfig, log = () => {}) {
     const info = manual
       ? { releaseDate: manual, releaseDatePrecision: 'day', releaseDateSource: 'manual', wikiTitle: null }
       : matchRelease(album, catalog, [artistConfig.name, artistConfig.en, artistConfig.wiki])
-    Object.assign(album, info ?? { releaseDate: null, releaseDatePrecision: null, releaseDateSource: null, wikiTitle: null })
+    const { wikiName = null, wikiTracks = null, ...dates } = info ?? {}
+    Object.assign(album, info ? dates : { releaseDate: null, releaseDatePrecision: null, releaseDateSource: null, wikiTitle: null })
+    album._wiki = { name: wikiName, tracks: wikiTracks }
     if (info) matched++
   }
+  if (catalog) addChineseTitles(albums, catalog)
+  for (const album of albums) delete album._wiki
   log(`發行日期：${matched}/${albums.length} 張取自 Wikipedia，其餘使用 YouTube Music 年份`)
   albums.sort((a, b) => releaseSortKey(a).localeCompare(releaseSortKey(b)) || a.title.localeCompare(b.title))
   return matched
@@ -332,9 +413,11 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
     exact = true
   }
 
+  artist.avatar = await fetchAvatar(channelId).catch(() => null)
   const others = markOtherArtists(albums, artistConfig, artist.name)
   if (others) log(`其他歌手演唱的曲目：${others} 首（不列入統計）`)
   await applyReleaseDates(albums, artistConfig, log)
+  addNameKeys(albums)
   const { releases, ...artistInfo } = artist
 
   return {

@@ -52,6 +52,28 @@ const collageCols = computed(() => Math.min(10, Math.max(1, artists.value.length
 
 const goArtist = (slug) => router.push(`/artist/${slug}`)
 
+// 歌手圖片一律用 YouTube 頻道大頭照；舊資料沒有時退回 YouTube Music 藝人頁圖片
+const photo = (model) => model?.artist.avatar ?? model?.artist.thumbnail ?? null
+
+// 左側「出道年份」清單：依出道年份分組
+const debutYears = computed(() => {
+  const byYear = new Map()
+  for (const a of artists.value) {
+    const y = a.debut.slice(0, 4)
+    if (!byYear.has(y)) byYear.set(y, [])
+    byYear.get(y).push(a)
+  }
+  return [...byYear].sort((a, b) => a[0].localeCompare(b[0]))
+})
+const jumpTo = (slug) => {
+  const el = document.getElementById(`card-${slug}`)
+  if (!el) return
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+  el.classList.remove('flash')
+  void el.offsetWidth
+  el.classList.add('flash')
+}
+
 const totalRows = computed(() =>
   [...loaded.value]
     .sort((a, b) => b.model.totalPlays - a.model.totalPlays)
@@ -136,7 +158,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
           v-for="{ artist, model } in entries"
           :key="artist.slug"
           class="tile"
-          :style="model?.artist.thumbnail ? { backgroundImage: `url(${model.artist.thumbnail})` } : {}"
+          :style="photo(model) ? { backgroundImage: `url(${photo(model)})` } : {}"
         />
       </div>
       <div class="hero-inner">
@@ -166,16 +188,30 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
     <main class="page-main">
       <p v-for="e in errors" :key="e" class="error card">{{ e }}</p>
 
+      <div class="roster">
+      <aside class="years card" aria-label="出道年份">
+        <h2>出道年份</h2>
+        <ol>
+          <li v-for="[year, list] in debutYears" :key="year">
+            <span class="year num">{{ year }}</span>
+            <span class="names">
+              <button v-for="a in list" :key="a.slug" type="button" @click="jumpTo(a.slug)">{{ a.name }}</button>
+            </span>
+          </li>
+        </ol>
+      </aside>
+
       <section class="artists">
         <RouterLink
           v-for="entry in entries"
+          :id="`card-${entry.artist.slug}`"
           :key="entry.artist.slug"
           :to="`/artist/${entry.artist.slug}`"
           class="card artist"
         >
           <div
             class="banner"
-            :style="entry.model?.artist.thumbnail ? { backgroundImage: `url(${entry.model.artist.thumbnail})` } : {}"
+            :style="photo(entry.model) ? { backgroundImage: `url(${photo(entry.model)})` } : {}"
           >
             <div class="banner-text">
               <div class="name">{{ entry.artist.name }}</div>
@@ -202,6 +238,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
           <div v-else class="body muted small">載入中…</div>
         </RouterLink>
       </section>
+      </div>
 
       <div v-if="loaded.length" class="grid">
         <div class="stack">
@@ -357,13 +394,79 @@ h1 {
   opacity: 0.85;
 }
 
-.artists {
+.roster {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: 200px minmax(0, 1fr);
   gap: 14px;
+  align-items: start;
   margin-top: -28px;
   position: relative;
   z-index: 2;
+}
+/* 出道年份清單：捲動時固定在左側 */
+.years {
+  position: sticky;
+  top: 12px;
+  max-height: calc(100vh - 24px);
+  overflow-y: auto;
+  padding: 14px 12px;
+}
+.years h2 {
+  margin: 0 0 8px;
+  font-size: 15px;
+}
+.years ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+}
+.years li {
+  display: grid;
+  grid-template-columns: 2.6rem minmax(0, 1fr);
+  gap: 6px;
+  align-items: baseline;
+  font-size: 13px;
+}
+.year {
+  color: var(--text-muted);
+}
+.names {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 8px;
+  min-width: 0;
+}
+.names button {
+  border: 0;
+  padding: 0;
+  background: none;
+  color: var(--text-primary);
+  cursor: pointer;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.names button:hover {
+  color: var(--accent-ink);
+  text-decoration: underline;
+}
+.artists {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 14px;
+}
+.artist.flash {
+  animation: flash 1.2s ease;
+}
+@keyframes flash {
+  0%,
+  40% {
+    box-shadow: 0 0 0 3px var(--series);
+  }
+  100% {
+    box-shadow: 0 0 0 0 transparent;
+  }
 }
 .artist {
   overflow: hidden;
@@ -479,9 +582,26 @@ h2 {
   z-index: 3;
 }
 
-@media (max-width: 1100px) {
-  .artists {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+/* 窄螢幕：年份清單改到卡片上方，橫向捲動 */
+@media (max-width: 720px) {
+  .roster {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .years {
+    position: static;
+    max-height: none;
+    overflow-x: auto;
+  }
+  .years ol {
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    gap: 6px 16px;
+  }
+  .years li {
+    grid-template-columns: auto auto;
+  }
+  .names {
+    flex-wrap: nowrap;
   }
 }
 @media (max-width: 960px) {

@@ -3,16 +3,31 @@
 // 所以歌曲要先去重，並歸屬到最早發行它的專輯，專輯總播放才不會重複計算。
 import { releaseSortKey, releaseYear, formatRelease } from './release.js'
 
-/** "茹此精彩十三首 - So Bravo 13 Songs" → { name: '茹此精彩十三首', alt: 'So Bravo 13 Songs' } */
+const hasCJK = (s) => /[\u3400-\u9fff]/.test(s)
+
+/**
+ * "茹此精彩十三首 - So Bravo 13 Songs" → { name: '茹此精彩十三首', alt: 'So Bravo 13 Songs' }
+ * 有中文就用中文當主名：「Beauty and the Beast - 美女與野獸」也會把中文放前面
+ */
 export function splitTitle(title = '') {
   const i = title.indexOf(' - ')
   if (i <= 0) return { name: title, alt: '' }
-  return { name: title.slice(0, i), alt: title.slice(i + 3) }
+  const name = title.slice(0, i)
+  const alt = title.slice(i + 3)
+  return !hasCJK(name) && hasCJK(alt) ? { name: alt, alt: name } : { name, alt }
 }
+
+// 抓取時補上的中文名（titleZh，例如〈Last Train〉＝〈末班車〉）放前面，原名當副標
+const withChinese = (item) => (item.titleZh ? { ...item, title: `${item.titleZh} - ${item.title}` } : item)
+
+// 演唱會、Live 版本：同名也是不同錄音，不和錄音室版本合併
+const LIVE_RE = /live|演唱會|演唱会|音樂會|音乐会|現場|现场|concert/i
 
 const TYPE_LABEL = { Album: '專輯', Single: '單曲', EP: 'EP' }
 
 const normName = (title) => splitTitle(title).name.replace(/\s+/g, '').toLowerCase()
+// 抓取時算好的 nameKey（簡繁、括號註記都已統一）；舊資料退回用顯示名稱
+const trackKey = (t) => t.nameKey ?? normName(t.title)
 
 function parseApprox(text) {
   const m = String(text).replace(/,/g, '').match(/([\d.]+)\s*([KMB])?/i)
@@ -30,7 +45,7 @@ function buildSongKeys(albums) {
   for (const album of albums) {
     for (const t of album.tracks) {
       if (!t.playsText) continue
-      const name = normName(t.title)
+      const name = trackKey(t)
       if (!byName.has(name)) byName.set(name, new Map())
       byName.get(name).set(t.playsText, parseApprox(t.playsText))
     }
@@ -44,7 +59,7 @@ function buildSongKeys(albums) {
     }
   }
   return (album, t) =>
-    t.playsText ? keyOf.get(`${normName(t.title)}|${t.playsText}`) : t.videoId ?? `${album.browseId}:${t.index}`
+    t.playsText ? keyOf.get(`${trackKey(t)}|${t.playsText}`) : t.videoId ?? `${album.browseId}:${t.index}`
 }
 
 function mode(list) {
@@ -56,7 +71,7 @@ function mode(list) {
 export function buildModel(raw, artistConfig = {}) {
   // byOther：其他歌手演唱的曲目（抓取時標記），不算這位歌手的歌
   const albums = raw.albums
-    .map((a) => ({ ...a, tracks: a.tracks.filter((t) => !t.byOther) }))
+    .map((a) => withChinese({ ...a, tracks: a.tracks.filter((t) => !t.byOther).map(withChinese) }))
     .filter((a) => a.tracks.length > 0)
     .map((a) => ({
       ...a,
@@ -96,6 +111,7 @@ export function buildModel(raw, artistConfig = {}) {
     const plays = Math.max(...versions.map((t) => t.plays ?? -1))
     songs.set(key, {
       id: key,
+      nameKey: trackKey(versions[0]),
       videoId: versions[0].videoId,
       ...splitTitle(versions[0].title),
       title: versions[0].title,
@@ -107,10 +123,31 @@ export function buildModel(raw, artistConfig = {}) {
     })
   }
 
+  // 同名歌曲（不同錄音、YouTube Music 分開計數）合併成一首、播放數相加，排行才不會重複出現；
+  // 演唱會專輯或標 Live 的版本另計
+  const merged = new Map() // 群組名 → 合併後的歌
+  const mergedOf = new Map() // 原歌曲鍵 → 合併後的歌
+  for (const [key, song] of songs) {
+    const live = LIVE_RE.test(song.title) || LIVE_RE.test(song.origin.title)
+    const group = live ? `live:${key}` : song.nameKey
+    const into = merged.get(group)
+    if (!into) {
+      merged.set(group, { ...song, id: key, versions: 1 })
+    } else {
+      into.plays = into.plays == null && song.plays == null ? null : (into.plays ?? 0) + (song.plays ?? 0)
+      into.appearsOn = [...new Set([...into.appearsOn, ...song.appearsOn])].sort(byOrigin)
+      if (byOrigin(song.origin, into.origin) < 0) Object.assign(into, { origin: song.origin, year: song.year })
+      into.versions++
+    }
+    mergedOf.set(key, merged.get(group))
+  }
+  songs.clear()
+  for (const song of merged.values()) songs.set(song.id, song)
+
   for (const album of albums) {
     const seen = new Set()
     album.songs = album.tracks.map((t) => {
-      const song = songs.get(songKey(album, t))
+      const song = mergedOf.get(songKey(album, t))
       // 同一張裡重複出現（例如附贈版本）只算第一次
       const isOriginal = song.origin === album && !seen.has(song)
       seen.add(song)

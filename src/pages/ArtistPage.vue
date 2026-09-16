@@ -51,6 +51,8 @@ async function refresh() {
   }
 }
 
+// 歌手圖片用 YouTube 頻道大頭照；沒有時退回 YouTube Music 藝人頁圖片
+const photo = computed(() => model.value?.artist.avatar ?? model.value?.artist.thumbnail ?? null)
 const approx = computed(() => !model.value?.exactCounts)
 const stats = computed(() => {
   const m = model.value
@@ -79,7 +81,7 @@ const tabs = [
 
 <template>
   <div>
-    <header class="hero" :style="model?.artist.thumbnail ? { '--bg': `url(${model.artist.thumbnail})` } : {}">
+    <header class="hero" :style="photo ? { '--bg': `url(${photo})` } : {}">
       <div class="hero-inner">
         <div class="topbar">
           <RouterLink :to="`/${artist.group}`" class="btn ghost">← KDiva</RouterLink>

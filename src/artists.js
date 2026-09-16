@@ -73,6 +73,7 @@ export const ARTISTS = [
   { slug: 'power-station', group: 'group', name: '動力火車', en: 'Power Station', debut: '1997-10', channelId: 'UCl0TTFWfUV-JKfTbcFr5glQ', wiki: '動力火車', members: ['尤秋興', '顏志琳'] },
   { slug: 'david-tao', group: 'male', name: '陶喆', en: 'David Tao', debut: '1997-12', channelId: 'UCUfR8ZO3dAsLC5yQx1E4E9Q', wiki: '陶喆' },
   { slug: 'cheer-chen', group: 'female', name: '陳綺貞', en: 'Cheer Chen', debut: '1998-07', channelId: 'UC3Sf91aR21dEBHWwOxzXCRw', wiki: '陳綺貞' },
+  { slug: 'jin-xiu-duo', group: 'group', name: '錦繡二重唱', en: 'Jin Xiu Duo', debut: '1998', channelId: 'UCHPbRjEA5dCxUNYjy_98LUA', wiki: '錦繡二重唱', members: ['黃錦雯', '于子育'] },
   { slug: 'jolin-tsai', group: 'female', name: '蔡依林', en: 'Jolin Tsai', debut: '1999-09-10', channelId: 'UC9dLsF7Ss7Wg0kR6TiIWiXg', wiki: '蔡依林' },
   { slug: 'fish-leong', group: 'female', name: '梁靜茹', en: 'Fish Leong', debut: '1999-09-17', channelId: 'UC8viexI7VBM6p632pCfTWRg', wiki: '梁靜茹' },
   { slug: 'elva-hsiao', group: 'female', name: '蕭亞軒', en: 'Elva Hsiao', debut: '1999-11', channelId: 'UCChWNfpWW8dUMmkgSWgOHKw', wiki: '蕭亞軒' },
