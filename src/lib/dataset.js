@@ -128,7 +128,8 @@ export function buildModel(raw, artistConfig = {}) {
   const merged = new Map() // 群組名 → 合併後的歌
   const mergedOf = new Map() // 原歌曲鍵 → 合併後的歌
   for (const [key, song] of songs) {
-    const live = LIVE_RE.test(song.title) || LIVE_RE.test(song.origin.title)
+    // 標題標 Live，或只收在演唱會專輯裡才算 Live；錄音室版本也收進演唱會精選時仍是錄音室版本
+    const live = LIVE_RE.test(song.title) || song.appearsOn.every((a) => LIVE_RE.test(a.title))
     const group = live ? `live:${key}` : song.nameKey
     const into = merged.get(group)
     if (!into) {
@@ -162,13 +163,18 @@ export function buildModel(raw, artistConfig = {}) {
     const borrowed = album.tracks.length > 1 && originals.length / album.tracks.length < 0.5
     const sources = album.songs.filter((t) => !t.isOriginal).map((t) => t.song.origin)
     const main = mode(sources)
+    // 名稱去掉括號註記（「(2021 Remaster)」「（蘇打綠版）」）後相同，或同一天發行 → 再版
+    const baseName = (n) => normName(n.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ''))
     album.isReissue =
-      borrowed && !!main && (normName(main.name) === normName(album.name) || main.sortKey === album.sortKey)
+      borrowed && !!main && (baseName(main.name) === baseName(album.name) || main.sortKey === album.sortKey)
     album.reissueOf = album.isReissue ? main : null
     album.isCompilation = borrowed && !album.isReissue
     album.topSong = [...album.songs].sort((a, b) => (b.song.plays ?? -1) - (a.song.plays ?? -1))[0]
   }
 
+  // 再版不列出：歌曲本來就只算在首發專輯，這裡連專輯清單與「收錄於幾張」都拿掉
+  const shown = albums.filter((a) => !a.isReissue)
+  for (const song of songs.values()) song.appearsOn = song.appearsOn.filter((a) => !a.isReissue)
   const songList = [...songs.values()].sort((a, b) => (b.plays ?? -1) - (a.plays ?? -1))
   songList.forEach((s, i) => (s.rank = i + 1))
 
@@ -181,9 +187,10 @@ export function buildModel(raw, artistConfig = {}) {
     },
     fetchedAt: raw.fetchedAt,
     exactCounts: raw.exactCounts,
-    albums,
+    albums: shown,
+    reissueCount: albums.length - shown.length,
     songs: songList,
     totalPlays: songList.reduce((n, s) => n + (s.plays ?? 0), 0),
-    datedCount: albums.filter((a) => a.releaseDate).length,
+    datedCount: shown.filter((a) => a.releaseDate).length,
   }
 }

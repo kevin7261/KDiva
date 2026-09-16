@@ -51,7 +51,7 @@ const openSong = (row) => row.song.videoId && window.open(watchUrl(row.song.vide
     <section class="card panel">
       <header>
         <h2>各專輯首發歌曲播放數</h2>
-        <p class="muted">依發行日期排列；精選輯、再版重複收錄的歌只算在首發專輯。點一下看曲目。</p>
+        <p class="muted">依發行日期排列；精選輯重複收錄的歌只算在首發專輯，再版不列出。點一下看曲目。</p>
       </header>
       <BarList :rows="albumRows" label-width="12rem" @select="(r) => emit('open-album', r.album)" />
     </section>

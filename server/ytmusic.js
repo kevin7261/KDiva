@@ -355,10 +355,19 @@ export function addNameKeys(albums) {
       if (zh.length === 1) known.add(normalizeTitle(toTW(zh[0])))
     }
   for (const album of albums) {
+    const albumPrefix = normalizeTitle(parts(album.title)[0])
     for (const t of album.tracks) {
       const live = LIVE_RE.test(t.title)
+      // 標題本身有中文時，titleZh 只由這裡決定（中文歌名補齊只處理沒有中文的標題），每次重算
+      if (hasCJK(t.title)) delete t.titleZh
+      let segs = parts(t.title)
+      // 「王力宏2022福利秀 - 不可能錯過你 (Live) - Leehom Wang 2022 Free Show - …」：開頭是專輯系列名，拿掉
+      if (segs.length >= 3 && normalizeTitle(segs[0]) === albumPrefix) {
+        segs = segs.slice(1)
+        if (!t.titleZh) t.titleZh = toTW(segs.find(hasCJK) ?? segs[0])
+      }
       if (!t.titleZh) {
-        const zhParts = parts(t.title).filter(hasCJK)
+        const zhParts = segs.filter(hasCJK)
         if (zhParts.length > 1) {
           t.titleZh = toTW(zhParts.find((p) => known.has(normalizeTitle(toTW(p)))) ?? zhParts.at(-1))
         } else if (zhParts.length === 1 && toTW(zhParts[0]) !== zhParts[0]) {

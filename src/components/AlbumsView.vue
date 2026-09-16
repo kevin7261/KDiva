@@ -11,7 +11,7 @@ const order = ref('year')
 const albums = computed(() => {
   let list = props.model.albums
   if (filter.value === 'studio') list = list.filter((a) => !a.isCompilation && !a.isReissue && a.type === 'Album')
-  if (filter.value === 'compilation') list = list.filter((a) => a.isCompilation || a.isReissue)
+  if (filter.value === 'compilation') list = list.filter((a) => a.isCompilation)
   if (filter.value === 'single') list = list.filter((a) => a.type !== 'Album')
   list = [...list]
   if (order.value === 'plays') list.sort((a, b) => b.originalPlays - a.originalPlays)
@@ -24,7 +24,7 @@ const albums = computed(() => {
   <div class="toolbar">
     <div class="seg" role="radiogroup" aria-label="類型">
       <button
-        v-for="[v, l] in [['all', '全部'], ['studio', '錄音室專輯'], ['compilation', '精選／再版'], ['single', '單曲／EP']]"
+        v-for="[v, l] in [['all', '全部'], ['studio', '錄音室專輯'], ['compilation', '精選輯'], ['single', '單曲／EP']]"
         :key="v"
         role="radio"
         :aria-checked="filter === v"
