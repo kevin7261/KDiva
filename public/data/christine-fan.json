@@ -119,9 +119,9 @@
           "duration": 237
         }
       ],
-      "releaseDate": "2000-01-01",
+      "releaseDate": "2000-11-08",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "范范的世界"
     },
     {
@@ -232,9 +232,9 @@
           "duration": 246
         }
       ],
-      "releaseDate": "2001-08-01",
+      "releaseDate": "2001-08-04",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "太陽 (范瑋琪專輯)"
     },
     {
@@ -347,8 +347,8 @@
       ],
       "releaseDate": "2003-05-28",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "真善美 (The Sound of Music)"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "真善美 (音樂專輯)"
     },
     {
       "browseId": "MPREb_5qxUIgfALO1",
@@ -568,8 +568,8 @@
       ],
       "releaseDate": "2004-05-07",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "FOR FAN - 最初的夢想"
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_0Cg58JHM8v9",
@@ -679,10 +679,10 @@
           "duration": 259
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2005-06-05",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_HtzNaLEDH1i",
@@ -792,10 +792,10 @@
           "duration": 194
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2006-06-09",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_b11Zt8ankEI",
@@ -896,10 +896,33 @@
           "duration": 233
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2007-09-04",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
+    },
+    {
+      "browseId": "MPREb_wKxCQlltlES",
+      "playlistId": "OLAK5uy_k3zWF3ik8xG2NSsZfOdf1EHRX_JlAbPLs",
+      "title": "微笑的起點",
+      "type": "Single",
+      "year": 2008,
+      "thumbnail": "https://yt3.googleusercontent.com/_lI2iCd9kPPp_VovC2L6jFxjN_TmOxv5vdXqbgiSVJH-lAte-lywdLnTTECiQGNBb8EwI2Oo_Mf9U6E=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "微笑的起點",
+          "artists": "",
+          "videoId": "NFPNQ2UJI_I",
+          "plays": 394000,
+          "playsText": "394K plays",
+          "duration": 271
+        }
+      ],
+      "releaseDate": "2008-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_oa6uBbt9PcH",
@@ -1191,31 +1214,31 @@
       ],
       "releaseDate": "2008-07-11",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "Faces of FanFan"
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
     },
     {
-      "browseId": "MPREb_wKxCQlltlES",
-      "playlistId": "OLAK5uy_k3zWF3ik8xG2NSsZfOdf1EHRX_JlAbPLs",
-      "title": "微笑的起點",
+      "browseId": "MPREb_WQChkrV2lLW",
+      "playlistId": "OLAK5uy_lX4lXZTzXnp1xH05AKzhJx3thQvJQ4KZs",
+      "title": "熱血精神(八大霹靂MIT單曲)",
       "type": "Single",
-      "year": 2008,
-      "thumbnail": "https://yt3.googleusercontent.com/_lI2iCd9kPPp_VovC2L6jFxjN_TmOxv5vdXqbgiSVJH-lAte-lywdLnTTECiQGNBb8EwI2Oo_Mf9U6E=w544-h544-l90-rj",
+      "year": 2009,
+      "thumbnail": "https://yt3.googleusercontent.com/Y2MhisMswyGRaiMYmnCNCWjRTXDby4DhYkbel1mlXFn1xJ0XZ28SbE9o9R_nViYT7zB6OePoVeuXzfeW9w=w544-h544-l90-rj",
       "tracks": [
         {
           "index": 1,
-          "title": "微笑的起點",
+          "title": "熱血精神(八大霹靂MIT單曲)",
           "artists": "",
-          "videoId": "NFPNQ2UJI_I",
-          "plays": 394000,
-          "playsText": "394K plays",
-          "duration": 271
+          "videoId": "I6ZITZN7yRU",
+          "plays": 8600,
+          "playsText": "8.6K plays",
+          "duration": 205
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2009-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_v5mariCJV63",
@@ -1327,31 +1350,8 @@
       ],
       "releaseDate": "2009-07-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "F One"
-    },
-    {
-      "browseId": "MPREb_WQChkrV2lLW",
-      "playlistId": "OLAK5uy_lX4lXZTzXnp1xH05AKzhJx3thQvJQ4KZs",
-      "title": "熱血精神(八大霹靂MIT單曲)",
-      "type": "Single",
-      "year": 2009,
-      "thumbnail": "https://yt3.googleusercontent.com/Y2MhisMswyGRaiMYmnCNCWjRTXDby4DhYkbel1mlXFn1xJ0XZ28SbE9o9R_nViYT7zB6OePoVeuXzfeW9w=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "熱血精神(八大霹靂MIT單曲)",
-          "artists": "",
-          "videoId": "I6ZITZN7yRU",
-          "plays": 8600,
-          "playsText": "8.6K plays",
-          "duration": 205
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_xnWfftmGFgK",
@@ -1454,8 +1454,8 @@
       ],
       "releaseDate": "2011-03-18",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "Love & FanFan"
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_fqLAXpzi60d",
@@ -1725,7 +1725,7 @@
       ],
       "releaseDate": "2012-05-30",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "愛，在一起"
     },
     {
@@ -1746,10 +1746,10 @@
           "duration": 137
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2013-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_2eSy2avl52F",
@@ -1769,33 +1769,10 @@
           "duration": 224
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
-      "browseId": "MPREb_ZuCVZPGtQbM",
-      "playlistId": "OLAK5uy_kMeA2YYLAbMJaQ7Mg3RihNaiJyquN53Pc",
-      "title": "在幸福的路上",
-      "type": "Single",
-      "year": 2017,
-      "thumbnail": "https://yt3.googleusercontent.com/4f7hRYYhMmHfRwAmaBdgMe8DC7gScSbejQaiGMY_eKwOsKQPUZp-EQK2Q3WwnDOzOEIfKqWxhYGuYsQT=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "在幸福的路上",
-          "artists": "",
-          "videoId": "_jGVpKPcAWQ",
-          "plays": 970000,
-          "playsText": "970K plays",
-          "duration": 227
-        }
-      ],
-      "releaseDate": "2014-03-18",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "在幸福的路上"
+      "releaseDate": "2013-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_e7h03vSFklh",
@@ -1815,10 +1792,10 @@
           "duration": 280
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2014-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_c9HhRUZ1HNS",
@@ -1921,8 +1898,31 @@
       ],
       "releaseDate": "2016-01-09",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "范范的感恩節"
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
+    },
+    {
+      "browseId": "MPREb_ZuCVZPGtQbM",
+      "playlistId": "OLAK5uy_kMeA2YYLAbMJaQ7Mg3RihNaiJyquN53Pc",
+      "title": "在幸福的路上",
+      "type": "Single",
+      "year": 2017,
+      "thumbnail": "https://yt3.googleusercontent.com/4f7hRYYhMmHfRwAmaBdgMe8DC7gScSbejQaiGMY_eKwOsKQPUZp-EQK2Q3WwnDOzOEIfKqWxhYGuYsQT=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "在幸福的路上",
+          "artists": "",
+          "videoId": "_jGVpKPcAWQ",
+          "plays": 970000,
+          "playsText": "970K plays",
+          "duration": 227
+        }
+      ],
+      "releaseDate": "2017-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_IdrEMpwiWQG",
@@ -1942,10 +1942,10 @@
           "duration": 243
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2017-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_66RtvJlC7J8",
@@ -1965,10 +1965,10 @@
           "duration": 171
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2017-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_3YlLK393hzY",
@@ -1988,10 +1988,10 @@
           "duration": 261
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2017-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_kco2MxuEpcP",
@@ -2057,56 +2057,10 @@
           "duration": 236
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
-      "browseId": "MPREb_isz0nZYyjTb",
-      "playlistId": "OLAK5uy_m-wQ6753rF-IVQOBnCze6m4W898GtjDtE",
-      "title": "Que Sera Sera",
-      "type": "Single",
-      "year": 2022,
-      "thumbnail": "https://yt3.googleusercontent.com/0Lbo3eRDXGafYf-YgndOwE94txJRP0YZYInxk5GQGzg7iIQC1tfm4w5hA_6wDqoUsYz3Rbyb7KEZWlOA=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "Que Sera Sera",
-          "artists": "",
-          "videoId": "NaZe9DxEbRc",
-          "plays": 10000,
-          "playsText": "10K plays",
-          "duration": 274
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
-      "browseId": "MPREb_ClFPmvgJYQs",
-      "playlistId": "OLAK5uy_mrd4YgBj9Kg8xa0dZNujF6cKjzqHP5-Pc",
-      "title": "一笑置之",
-      "type": "Single",
-      "year": 2022,
-      "thumbnail": "https://yt3.googleusercontent.com/uWGPUP6qhGBsFjddlMa18WfnbeZoFL7tp5CAfzG_oHEDeb3eoAfGd9ZIR07HINVkuIlQpajGkV4cS4Jc=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "一笑置之",
-          "artists": "",
-          "videoId": "fu-uPcPAvnc",
-          "plays": 26000,
-          "playsText": "26K plays",
-          "duration": 291
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2021-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_1ibK0eEu2sR",
@@ -2189,10 +2143,10 @@
           "duration": 196
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2022-03-18",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
     },
     {
       "browseId": "MPREb_rjs88jumTBw",
@@ -2210,6 +2164,52 @@
           "plays": 140000,
           "playsText": "140K plays",
           "duration": 248
+        }
+      ],
+      "releaseDate": "2022-03-18",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "范瑋琪"
+    },
+    {
+      "browseId": "MPREb_isz0nZYyjTb",
+      "playlistId": "OLAK5uy_m-wQ6753rF-IVQOBnCze6m4W898GtjDtE",
+      "title": "Que Sera Sera",
+      "type": "Single",
+      "year": 2022,
+      "thumbnail": "https://yt3.googleusercontent.com/0Lbo3eRDXGafYf-YgndOwE94txJRP0YZYInxk5GQGzg7iIQC1tfm4w5hA_6wDqoUsYz3Rbyb7KEZWlOA=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Que Sera Sera",
+          "artists": "",
+          "videoId": "NaZe9DxEbRc",
+          "plays": 10000,
+          "playsText": "10K plays",
+          "duration": 274
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null
+    },
+    {
+      "browseId": "MPREb_ClFPmvgJYQs",
+      "playlistId": "OLAK5uy_mrd4YgBj9Kg8xa0dZNujF6cKjzqHP5-Pc",
+      "title": "一笑置之",
+      "type": "Single",
+      "year": 2022,
+      "thumbnail": "https://yt3.googleusercontent.com/uWGPUP6qhGBsFjddlMa18WfnbeZoFL7tp5CAfzG_oHEDeb3eoAfGd9ZIR07HINVkuIlQpajGkV4cS4Jc=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "一笑置之",
+          "artists": "",
+          "videoId": "fu-uPcPAvnc",
+          "plays": 26000,
+          "playsText": "26K plays",
+          "duration": 291
         }
       ],
       "releaseDate": null,

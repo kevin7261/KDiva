@@ -207,7 +207,7 @@
       ],
       "releaseDate": "1989-06-01",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "別問我會不會後悔"
     },
     {
@@ -1093,7 +1093,7 @@
       ],
       "releaseDate": "1994-06-03",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "我的愛 我的夢 我的家"
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "releaseDate": "1994-12-29",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "問心無愧"
     },
     {
@@ -1441,8 +1441,8 @@
       ],
       "releaseDate": "1996-08-01",
       "releaseDatePrecision": "month",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "Cyndi"
+      "releaseDateSource": "table",
+      "wikiTitle": "趙詠華"
     },
     {
       "browseId": "MPREb_W56NI5DjH15",
@@ -1647,10 +1647,10 @@
           "duration": 280
         }
       ],
-      "releaseDate": "1997-01-01",
+      "releaseDate": "1997-10-29",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "請你放心"
+      "releaseDateSource": "table",
+      "wikiTitle": "趙詠華"
     },
     {
       "browseId": "MPREb_eDa3GcgcBpb",
@@ -1753,7 +1753,7 @@
       ],
       "releaseDate": "1998-05-20",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "愛·不愛"
     },
     {
@@ -1911,8 +1911,8 @@
       ],
       "releaseDate": "1998-11-30",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "擁華"
+      "releaseDateSource": "table",
+      "wikiTitle": "趙詠華"
     },
     {
       "browseId": "MPREb_UqKZGYF5SOo",
@@ -2103,114 +2103,10 @@
           "duration": 389
         }
       ],
-      "releaseDate": "1999-06-15",
+      "releaseDate": "1999-06-26",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "相见太晚"
-    },
-    {
-      "browseId": "MPREb_CrKpnDEK7o0",
-      "playlistId": "OLAK5uy_kWuKnzUGinfdF2V4iTSITnr-AYoljU4W4",
-      "title": "Love Cyndi",
-      "type": "Album",
-      "year": 2000,
-      "thumbnail": "https://yt3.googleusercontent.com/bKXhlcHBbkFBUHklHBnrqa3wRYNLjs8qUghxVWbZBwfkkmUPQLrrU0IgGu-UJPbERodCLUuwKTx91cY=w544-h544-s-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "Angel",
-          "artists": "",
-          "videoId": "fYujrXrjR8Y",
-          "plays": 13000,
-          "playsText": "13K plays",
-          "duration": 275
-        },
-        {
-          "index": 2,
-          "title": "明白 - Ming Bai (Understand)",
-          "artists": "",
-          "videoId": "NoJWhKndxDg",
-          "plays": 68000,
-          "playsText": "68K plays",
-          "duration": 243
-        },
-        {
-          "index": 3,
-          "title": "喜歡 - Xi Huan (I Like You)",
-          "artists": "",
-          "videoId": "1iip39MQ650",
-          "plays": 759,
-          "playsText": "759 plays",
-          "duration": 229
-        },
-        {
-          "index": 4,
-          "title": "Hey Girl",
-          "artists": "",
-          "videoId": "6NNMhrCiBPk",
-          "plays": 1700,
-          "playsText": "1.7K plays",
-          "duration": 255
-        },
-        {
-          "index": 5,
-          "title": "最好 - Zu Hao (You're The Best)",
-          "artists": "",
-          "videoId": "K_KZjoPJzSY",
-          "plays": 349,
-          "playsText": "349 plays",
-          "duration": 286
-        },
-        {
-          "index": 6,
-          "title": "要幸福哦 - Yao Xing Fu O (Wish You Well)",
-          "artists": "",
-          "videoId": "mpwxDzsLTPA",
-          "plays": 6800,
-          "playsText": "6.8K plays",
-          "duration": 236
-        },
-        {
-          "index": 7,
-          "title": "曾經我和你 - Ceng Jing Wo He Ni (Our Past)",
-          "artists": "",
-          "videoId": "HrvYCQzbv0k",
-          "plays": 694,
-          "playsText": "694 plays",
-          "duration": 277
-        },
-        {
-          "index": 8,
-          "title": "戀愛芭莎 - Lian Ai Ba Sha (In Love)",
-          "artists": "",
-          "videoId": "ly6qxapKJFc",
-          "plays": 534,
-          "playsText": "534 plays",
-          "duration": 257
-        },
-        {
-          "index": 9,
-          "title": "復活 - Fu Huo (Reborn)",
-          "artists": "",
-          "videoId": "yEDQsXn2_EQ",
-          "plays": 528,
-          "playsText": "528 plays",
-          "duration": 273
-        },
-        {
-          "index": 10,
-          "title": "紐約的秋天 - Niu Yue De Qiu Tian (Autumn In New York)",
-          "artists": "",
-          "videoId": "1rBymG_sU5E",
-          "plays": 1400,
-          "playsText": "1.4K plays",
-          "duration": 243
-        }
-      ],
-      "releaseDate": "2000-12-01",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "Love Cyndi"
     },
     {
       "browseId": "MPREb_O8QxQLTeuuh",
@@ -2401,10 +2297,114 @@
           "duration": 215
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2000-04-01",
+      "releaseDatePrecision": "month",
+      "releaseDateSource": "table",
+      "wikiTitle": "趙詠華"
+    },
+    {
+      "browseId": "MPREb_CrKpnDEK7o0",
+      "playlistId": "OLAK5uy_kWuKnzUGinfdF2V4iTSITnr-AYoljU4W4",
+      "title": "Love Cyndi",
+      "type": "Album",
+      "year": 2000,
+      "thumbnail": "https://yt3.googleusercontent.com/bKXhlcHBbkFBUHklHBnrqa3wRYNLjs8qUghxVWbZBwfkkmUPQLrrU0IgGu-UJPbERodCLUuwKTx91cY=w544-h544-s-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Angel",
+          "artists": "",
+          "videoId": "fYujrXrjR8Y",
+          "plays": 13000,
+          "playsText": "13K plays",
+          "duration": 275
+        },
+        {
+          "index": 2,
+          "title": "明白 - Ming Bai (Understand)",
+          "artists": "",
+          "videoId": "NoJWhKndxDg",
+          "plays": 68000,
+          "playsText": "68K plays",
+          "duration": 243
+        },
+        {
+          "index": 3,
+          "title": "喜歡 - Xi Huan (I Like You)",
+          "artists": "",
+          "videoId": "1iip39MQ650",
+          "plays": 759,
+          "playsText": "759 plays",
+          "duration": 229
+        },
+        {
+          "index": 4,
+          "title": "Hey Girl",
+          "artists": "",
+          "videoId": "6NNMhrCiBPk",
+          "plays": 1700,
+          "playsText": "1.7K plays",
+          "duration": 255
+        },
+        {
+          "index": 5,
+          "title": "最好 - Zu Hao (You're The Best)",
+          "artists": "",
+          "videoId": "K_KZjoPJzSY",
+          "plays": 349,
+          "playsText": "349 plays",
+          "duration": 286
+        },
+        {
+          "index": 6,
+          "title": "要幸福哦 - Yao Xing Fu O (Wish You Well)",
+          "artists": "",
+          "videoId": "mpwxDzsLTPA",
+          "plays": 6800,
+          "playsText": "6.8K plays",
+          "duration": 236
+        },
+        {
+          "index": 7,
+          "title": "曾經我和你 - Ceng Jing Wo He Ni (Our Past)",
+          "artists": "",
+          "videoId": "HrvYCQzbv0k",
+          "plays": 694,
+          "playsText": "694 plays",
+          "duration": 277
+        },
+        {
+          "index": 8,
+          "title": "戀愛芭莎 - Lian Ai Ba Sha (In Love)",
+          "artists": "",
+          "videoId": "ly6qxapKJFc",
+          "plays": 534,
+          "playsText": "534 plays",
+          "duration": 257
+        },
+        {
+          "index": 9,
+          "title": "復活 - Fu Huo (Reborn)",
+          "artists": "",
+          "videoId": "yEDQsXn2_EQ",
+          "plays": 528,
+          "playsText": "528 plays",
+          "duration": 273
+        },
+        {
+          "index": 10,
+          "title": "紐約的秋天 - Niu Yue De Qiu Tian (Autumn In New York)",
+          "artists": "",
+          "videoId": "1rBymG_sU5E",
+          "plays": 1400,
+          "playsText": "1.4K plays",
+          "duration": 243
+        }
+      ],
+      "releaseDate": "2000-12-27",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "趙詠華"
     },
     {
       "browseId": "MPREb_YXdR82jZo7j",
@@ -2550,10 +2550,10 @@
           "duration": 271
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2003-01-30",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "趙詠華"
     },
     {
       "browseId": "MPREb_2gpo1DSvAhI",
@@ -2760,7 +2760,7 @@
       ],
       "releaseDate": "2013-03-29",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "簡單的幸福"
     },
     {
@@ -2783,8 +2783,8 @@
       ],
       "releaseDate": "2015-03-06",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "我願賭服輸"
+      "releaseDateSource": "table",
+      "wikiTitle": "趙詠華"
     },
     {
       "browseId": "MPREb_wBCOuSTRivN",

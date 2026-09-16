@@ -59,6 +59,7 @@ export const ARTISTS = [
   { slug: 'lala-hsu', group: 'female', name: '徐佳瑩', en: 'LaLa Hsu', debut: '2009', channelId: 'UC974iWoR_ZhWT6cNbZSaEdg', wiki: '徐佳瑩' },
   { slug: 'eve-ai', group: 'female', name: '艾怡良', en: 'Eve Ai', debut: '2010', channelId: 'UC_igPX3c9gOMQ41hSDV8tNg', wiki: '艾怡良' },
   { slug: '9m88', group: 'female', name: '9m88', en: '', debut: '2016', channelId: 'UCpZvDKDJtQUXm1o6LKT2xhA', wiki: '9m88' },
+  { slug: 'for-what', group: 'group', name: '浮花樂隊', en: 'For What', debut: '2022', channelId: 'UCry9S-7wth479tbrtiP_l9A', wiki: null },
 ]
 
 export const GROUPS = [

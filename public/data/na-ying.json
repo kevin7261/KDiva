@@ -112,7 +112,7 @@
       ],
       "releaseDate": "1994-01-28",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "為你朝思暮想"
     },
     {
@@ -225,7 +225,7 @@
       ],
       "releaseDate": "1995-02-17",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "白天不懂夜的黑"
     },
     {
@@ -329,7 +329,7 @@
       ],
       "releaseDate": "1998-04-15",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "征服 (專輯)"
     },
     {
@@ -424,7 +424,7 @@
       ],
       "releaseDate": "1999-07-07",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "乾脆"
     },
     {
@@ -528,7 +528,7 @@
       ],
       "releaseDate": "2000-08-15",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "心酸的浪漫"
     },
     {
@@ -632,7 +632,7 @@
       ],
       "releaseDate": "2001-09-20",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "我不是天使"
     },
     {
@@ -736,7 +736,7 @@
       ],
       "releaseDate": "2002-11-07",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "如今"
     },
     {
@@ -840,8 +840,31 @@
       ],
       "releaseDate": "2011-10-07",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "那又怎樣"
+    },
+    {
+      "browseId": "MPREb_15ikWXvzjZ5",
+      "playlistId": "OLAK5uy_nBxJCgZbzGFFPcSrisVEC2wxXVCsLH8lU",
+      "title": "默 - Mo",
+      "type": "Single",
+      "year": 2015,
+      "thumbnail": "https://yt3.googleusercontent.com/aqzDV5ivClxMFMwNYOjRCdTIjeKio9CMjrwnjR5m_yFlQpT5s6Sz-Hk0nghM88EiXZck3Hk6GnJyNzzQ=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "默 - Mo",
+          "artists": "",
+          "videoId": "wGfMLbPJSgg",
+          "plays": 4400000,
+          "playsText": "4.4M plays",
+          "duration": 326
+        }
+      ],
+      "releaseDate": "2015-04-19",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "默 (歌曲)"
     },
     {
       "browseId": "MPREb_4sya5OsEmoz",
@@ -918,29 +941,6 @@
           "plays": 2300000,
           "playsText": "2.3M plays",
           "duration": 281
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
-      "browseId": "MPREb_15ikWXvzjZ5",
-      "playlistId": "OLAK5uy_nBxJCgZbzGFFPcSrisVEC2wxXVCsLH8lU",
-      "title": "默 - Mo",
-      "type": "Single",
-      "year": 2015,
-      "thumbnail": "https://yt3.googleusercontent.com/aqzDV5ivClxMFMwNYOjRCdTIjeKio9CMjrwnjR5m_yFlQpT5s6Sz-Hk0nghM88EiXZck3Hk6GnJyNzzQ=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "默 - Mo",
-          "artists": "",
-          "videoId": "wGfMLbPJSgg",
-          "plays": 4400000,
-          "playsText": "4.4M plays",
-          "duration": 326
         }
       ],
       "releaseDate": null,
@@ -1143,10 +1143,10 @@
           "duration": 270
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2022-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "那英"
     },
     {
       "browseId": "MPREb_0kOtKVaSdci",
@@ -1179,6 +1179,61 @@
       "releaseDatePrecision": null,
       "releaseDateSource": null,
       "wikiTitle": null
+    },
+    {
+      "browseId": "MPREb_vmk0hbTNGwR",
+      "playlistId": "OLAK5uy_kV1-Ti5_HObNBt3dvrf6sKm74-yLB7eiA",
+      "title": "一生的风（《龙城》影视剧主题曲）",
+      "type": "Single",
+      "year": 2023,
+      "thumbnail": "https://yt3.googleusercontent.com/Q-5b1uViG2ieJcFXjPUai1rFfoOdZ0ZQAVbxjUiYV-_ghkrNol0wxRXoWlkC2-oZ9B914qzUmdGRFNEE=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "一生的风（《龙城》影视剧主题曲）",
+          "artists": "",
+          "videoId": "Vq2-PAm0GjM",
+          "plays": 62000,
+          "playsText": "62K plays",
+          "duration": 231
+        },
+        {
+          "index": 2,
+          "title": "一生的风（《龙城》影视剧主题曲） (伴奏版)",
+          "artists": "",
+          "videoId": "csbr_tSvUps",
+          "plays": 2300,
+          "playsText": "2.3K plays",
+          "duration": 231
+        }
+      ],
+      "releaseDate": "2023-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "那英"
+    },
+    {
+      "browseId": "MPREb_qeuWjar6e32",
+      "playlistId": "OLAK5uy_lCxxD5-Oi4q2rFzoLS4nfvHgmR8WenulY",
+      "title": "烟火人间 (电视剧《我的人间烟火》主题曲)",
+      "type": "Single",
+      "year": 2023,
+      "thumbnail": "https://yt3.googleusercontent.com/IYG665oYr4n8PU8OvuQP8SCb7B2G_pPrKd7FsAp4qIf01qWhWDXwSdgABM2osPaERNTbw4wJYI6ImmYa7w=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "烟火人间 (电视剧《我的人间烟火》主题曲)",
+          "artists": "",
+          "videoId": "AWRc4f8PE1g",
+          "plays": 658000,
+          "playsText": "658K plays",
+          "duration": 274
+        }
+      ],
+      "releaseDate": "2023-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "那英"
     },
     {
       "browseId": "MPREb_eHeIvNZYgs9",
@@ -1290,61 +1345,6 @@
       "wikiTitle": null
     },
     {
-      "browseId": "MPREb_vmk0hbTNGwR",
-      "playlistId": "OLAK5uy_kV1-Ti5_HObNBt3dvrf6sKm74-yLB7eiA",
-      "title": "一生的风（《龙城》影视剧主题曲）",
-      "type": "Single",
-      "year": 2023,
-      "thumbnail": "https://yt3.googleusercontent.com/Q-5b1uViG2ieJcFXjPUai1rFfoOdZ0ZQAVbxjUiYV-_ghkrNol0wxRXoWlkC2-oZ9B914qzUmdGRFNEE=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "一生的风（《龙城》影视剧主题曲）",
-          "artists": "",
-          "videoId": "Vq2-PAm0GjM",
-          "plays": 62000,
-          "playsText": "62K plays",
-          "duration": 231
-        },
-        {
-          "index": 2,
-          "title": "一生的风（《龙城》影视剧主题曲） (伴奏版)",
-          "artists": "",
-          "videoId": "csbr_tSvUps",
-          "plays": 2300,
-          "playsText": "2.3K plays",
-          "duration": 231
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
-      "browseId": "MPREb_qeuWjar6e32",
-      "playlistId": "OLAK5uy_lCxxD5-Oi4q2rFzoLS4nfvHgmR8WenulY",
-      "title": "烟火人间 (电视剧《我的人间烟火》主题曲)",
-      "type": "Single",
-      "year": 2023,
-      "thumbnail": "https://yt3.googleusercontent.com/IYG665oYr4n8PU8OvuQP8SCb7B2G_pPrKd7FsAp4qIf01qWhWDXwSdgABM2osPaERNTbw4wJYI6ImmYa7w=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "烟火人间 (电视剧《我的人间烟火》主题曲)",
-          "artists": "",
-          "videoId": "AWRc4f8PE1g",
-          "plays": 658000,
-          "playsText": "658K plays",
-          "duration": 274
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
       "browseId": "MPREb_ny77KYGcuYh",
       "playlistId": "OLAK5uy_nZdLJjFcp79nYrp35OS-XhJ1rW3Z9xULg",
       "title": "熟年（《熟年》电视剧主题曲）",
@@ -1394,10 +1394,10 @@
           "duration": 311
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2024-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "那英"
     },
     {
       "browseId": "MPREb_R5SzvCNlEpO",
@@ -1426,10 +1426,10 @@
           "duration": 346
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2024-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "那英"
     },
     {
       "browseId": "MPREb_uYQjwyHtSpJ",
@@ -1458,10 +1458,10 @@
           "duration": 298
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2025-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "那英"
     },
     {
       "browseId": "MPREb_hkEo3Dul4gw",

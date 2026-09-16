@@ -8,7 +8,8 @@
     "serve": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "fetch-data": "node scripts/fetch-data.js"
+    "fetch-data": "node scripts/fetch-data.js",
+    "fetch-dates": "node scripts/fetch-dates.js"
   },
   "dependencies": {
     "opencc-js": "^1.4.2",

@@ -146,7 +146,7 @@ const tabs = [
             <template v-else>數字為 YouTube Data API 提供的精確觀看次數。</template>
           </p>
           <p>
-            發行日期：{{ model.datedCount }}/{{ model.albums.length }} 張取自 Wikipedia／Wikidata，其餘沿用 YouTube Music 標示的年份（可能是重新上架年份）。
+            發行日期以 Wikipedia 為準：{{ model.datedCount }}/{{ model.albums.length }} 張取自 Wikipedia／Wikidata；Wikipedia 沒列出的沿用 YouTube Music 標示的年份（可能是重新上架年份）。
             同一首歌收錄於多張專輯時播放數共用，只計入最早發行的專輯。資料透過 YouTube Music 網頁版非公開介面取得，僅供參考。
           </p>
         </footer>

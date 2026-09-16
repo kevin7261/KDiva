@@ -32,11 +32,12 @@ npm run fetch-data -- a-mei jolin-tsai   # 指定歌手（slug 見 src/artists.j
 | 項目 | 來源 | 程式 |
 |---|---|---|
 | 專輯、曲目、播放數、每月觀眾 | YouTube Music 網頁版內部介面（非公開 API，改版可能要調整） | `server/ytmusic.js` |
-| 原始發行日期 | Wikidata「出版日期」＋ Wikipedia 歌手條目／作品列表 | `server/wiki.js` |
+| 原始發行日期（以 Wikipedia 為準） | 專輯條目資訊框、歌手條目／作品列表的表格與條列、Wikidata「出版日期」 | `server/wiki.js` |
 | 手動修正發行日期 | 自行填寫 | `server/release-overrides.js` |
 | 去重、首發專輯、精選輯／再版判斷 | 前端計算 | `src/lib/dataset.js` |
 
-- YouTube Music 的年份常是數位重新上架年份（張惠妹《Bad Boy》標 2020），所以改用 Wikipedia 日期；名稱比對不到的沿用 YouTube Music 年份，排在該年最後。
+- YouTube Music 的年份常是數位重新上架年份（張惠妹《Bad Boy》標 2020），所以發行日期一律以 Wikipedia 為準；Wikipedia 沒列出的發行（多半是數位精選輯、新單曲）才沿用 YouTube Music 年份，排在該年最後。
+- 只想重新比對發行日期、不重抓 YouTube Music：`npm run fetch-dates`（可加 slug 指定歌手）。
 - 播放數以歌曲計，精選輯收錄的同一首歌數字共用。「歌名相同、播放數差 1% 內」視為同一首，只算在最早發行的專輯。
 - 大部分曲目首發於別張的專輯：同名或同一天發行的標「再版」，其餘標「精選輯」。
 - 瀏覽器無法直接呼叫 YouTube Music（CORS），所以由 Node 抓取：開發時走 `vite.config.js` 的 `/api/refresh?artist=<slug>`，或用 `scripts/fetch-data.js`。

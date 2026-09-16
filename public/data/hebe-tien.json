@@ -119,9 +119,9 @@
           "duration": 197
         }
       ],
-      "releaseDate": "2010-01-01",
+      "releaseDate": "2010-09-03",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "To Hebe"
     },
     {
@@ -223,10 +223,10 @@
           "duration": 283
         }
       ],
-      "releaseDate": "2010-12-03",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "To Hebe Live音樂會"
+      "releaseDate": "2010-10-01",
+      "releaseDatePrecision": "month",
+      "releaseDateSource": "list",
+      "wikiTitle": "田馥甄音樂作品列表"
     },
     {
       "browseId": "MPREb_ktu4sscXW9g",
@@ -327,9 +327,9 @@
           "duration": 225
         }
       ],
-      "releaseDate": "2011-01-01",
+      "releaseDate": "2011-09-02",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "My Love (田馥甄專輯)"
     },
     {
@@ -476,10 +476,10 @@
           "duration": 307
         }
       ],
-      "releaseDate": "2012-01-20",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "To My Love影音館"
+      "releaseDate": "2011-12-01",
+      "releaseDatePrecision": "month",
+      "releaseDateSource": "list",
+      "wikiTitle": "田馥甄音樂作品列表"
     },
     {
       "browseId": "MPREb_d5Tpix8bpgO",
@@ -580,9 +580,9 @@
           "duration": 268
         }
       ],
-      "releaseDate": "2013-01-01",
+      "releaseDate": "2013-11-29",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "渺小"
     },
     {
@@ -605,8 +605,8 @@
       ],
       "releaseDate": "2015-03-31",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "十萬嬉皮"
+      "releaseDateSource": "list",
+      "wikiTitle": "田馥甄音樂作品列表"
     },
     {
       "browseId": "MPREb_YhAOVnDVdDi",
@@ -628,7 +628,7 @@
       ],
       "releaseDate": "2015-07-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
+      "releaseDateSource": "album-page",
       "wikiTitle": "小幸運"
     },
     {
@@ -753,9 +753,9 @@
           "duration": 228
         }
       ],
-      "releaseDate": "2016-01-01",
+      "releaseDate": "2016-07-13",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "日常 (田馥甄專輯)"
     },
     {
@@ -1001,10 +1001,10 @@
           "duration": 341
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2016-12-09",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "If Only如果田馥甄巡迴演唱會"
     },
     {
       "browseId": "MPREb_9IPncK9MDcL",
@@ -1026,8 +1026,8 @@
       ],
       "releaseDate": "2017-02-16",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "美女與野獸"
+      "releaseDateSource": "list",
+      "wikiTitle": "田馥甄音樂作品列表"
     },
     {
       "browseId": "MPREb_1JR9suFIY9l",
@@ -1116,29 +1116,6 @@
       "wikiTitle": null
     },
     {
-      "browseId": "MPREb_B9XcOgsuJ38",
-      "playlistId": "OLAK5uy_n012UFsouSK_oO_cJ_65CPVCHbKp8b-Uw",
-      "title": "最暖的憂傷",
-      "type": "Single",
-      "year": 2018,
-      "thumbnail": "https://yt3.googleusercontent.com/9j7LlbFkwjAUgDG4A-WrkBSjjjAfNajXtqgcwVKaMFBHi7Ddir0gLAUirSKZGJzoAhZMF9fNUPez1tkf=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "最暖的憂傷 - 電視劇＜溫暖的弦＞主題曲",
-          "artists": "",
-          "videoId": "3aypp_YlBzI",
-          "plays": 3600000,
-          "playsText": "3.6M plays",
-          "duration": 269
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
       "browseId": "MPREb_hYlmCugd0Sg",
       "playlistId": "OLAK5uy_kVqCsnALhVJ--EW6qv7EkbfhBo7YPUgRU",
       "title": "愛了很久的朋友",
@@ -1156,10 +1133,33 @@
           "duration": 269
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2018-03-28",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "田馥甄"
+    },
+    {
+      "browseId": "MPREb_B9XcOgsuJ38",
+      "playlistId": "OLAK5uy_n012UFsouSK_oO_cJ_65CPVCHbKp8b-Uw",
+      "title": "最暖的憂傷",
+      "type": "Single",
+      "year": 2018,
+      "thumbnail": "https://yt3.googleusercontent.com/9j7LlbFkwjAUgDG4A-WrkBSjjjAfNajXtqgcwVKaMFBHi7Ddir0gLAUirSKZGJzoAhZMF9fNUPez1tkf=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "最暖的憂傷 - 電視劇＜溫暖的弦＞主題曲",
+          "artists": "",
+          "videoId": "3aypp_YlBzI",
+          "plays": 3600000,
+          "playsText": "3.6M plays",
+          "duration": 269
+        }
+      ],
+      "releaseDate": "2018-04-19",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "田馥甄"
     },
     {
       "browseId": "MPREb_RF2nXA1dRL9",
@@ -1179,10 +1179,10 @@
           "duration": 252
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2018-08-20",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "田馥甄"
     },
     {
       "browseId": "MPREb_8qb5tJWvtu0",
@@ -1202,10 +1202,10 @@
           "duration": 256
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2019-08-26",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "田馥甄"
     },
     {
       "browseId": "MPREb_75iuZShyMlz",
@@ -1317,31 +1317,8 @@
       ],
       "releaseDate": "2020-09-25",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "無人知曉"
-    },
-    {
-      "browseId": "MPREb_Tp9TZqYvtzu",
-      "playlistId": "OLAK5uy_lpCjsmiP1Fo7IyYLKRMKZoY2K_xWdt4UI",
-      "title": "一一",
-      "type": "Single",
-      "year": 2020,
-      "thumbnail": "https://yt3.googleusercontent.com/x7kBmPGReTpZoNqX4Jqkw0y9eiADH2LsU6NPNPV1C2C_WwiXb41ljN6e2aDYtJoATFW8Riom5ICmfAA=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "一一",
-          "artists": "",
-          "videoId": "0Rk099vYgDo",
-          "plays": 2800000,
-          "playsText": "2.8M plays",
-          "duration": 251
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDateSource": "album-page",
+      "wikiTitle": "無人知曉 (專輯)"
     },
     {
       "browseId": "MPREb_DySYX0w7E85",
@@ -1459,27 +1436,27 @@
       "wikiTitle": null
     },
     {
-      "browseId": "MPREb_5q2i1VFKAIh",
-      "playlistId": "OLAK5uy_l2UH9y5XHf17rMpPhuElnWZXQOIROUTh4",
-      "title": "一周的朋友 (電影《一周的朋友》主題曲)",
+      "browseId": "MPREb_Tp9TZqYvtzu",
+      "playlistId": "OLAK5uy_lpCjsmiP1Fo7IyYLKRMKZoY2K_xWdt4UI",
+      "title": "一一",
       "type": "Single",
-      "year": 2022,
-      "thumbnail": "https://yt3.googleusercontent.com/e7jW9_ZI9D-JOGLtN68V-io-8cZXAgF8Y51Q7MBIXdznyzTN-zUkqtcLt6Zpm_5NxAH0RNK6Ush6OJY=w544-h544-l90-rj",
+      "year": 2020,
+      "thumbnail": "https://yt3.googleusercontent.com/x7kBmPGReTpZoNqX4Jqkw0y9eiADH2LsU6NPNPV1C2C_WwiXb41ljN6e2aDYtJoATFW8Riom5ICmfAA=w544-h544-l90-rj",
       "tracks": [
         {
           "index": 1,
-          "title": "一周的朋友 (電影《一周的朋友》主題曲)",
+          "title": "一一",
           "artists": "",
-          "videoId": "NbX4ZHSuCsg",
-          "plays": 2300000,
-          "playsText": "2.3M plays",
-          "duration": 275
+          "videoId": "0Rk099vYgDo",
+          "plays": 2800000,
+          "playsText": "2.8M plays",
+          "duration": 251
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2022-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "list",
+      "wikiTitle": "無人知曉 (專輯)"
     },
     {
       "browseId": "MPREb_i0htbfHykNc",
@@ -1499,10 +1476,33 @@
           "duration": 240
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2022-02-25",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "田馥甄"
+    },
+    {
+      "browseId": "MPREb_5q2i1VFKAIh",
+      "playlistId": "OLAK5uy_l2UH9y5XHf17rMpPhuElnWZXQOIROUTh4",
+      "title": "一周的朋友 (電影《一周的朋友》主題曲)",
+      "type": "Single",
+      "year": 2022,
+      "thumbnail": "https://yt3.googleusercontent.com/e7jW9_ZI9D-JOGLtN68V-io-8cZXAgF8Y51Q7MBIXdznyzTN-zUkqtcLt6Zpm_5NxAH0RNK6Ush6OJY=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "一周的朋友 (電影《一周的朋友》主題曲)",
+          "artists": "",
+          "videoId": "NbX4ZHSuCsg",
+          "plays": 2300000,
+          "playsText": "2.3M plays",
+          "duration": 275
+        }
+      ],
+      "releaseDate": "2022-06-10",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "田馥甄"
     },
     {
       "browseId": "MPREb_IYRYQzkter9",
@@ -1522,10 +1522,10 @@
           "duration": 370
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2023-08-18",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "田馥甄"
     },
     {
       "browseId": "MPREb_Bavcy7T24Yv",
@@ -1545,10 +1545,10 @@
           "duration": 236
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2025-04-18",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "田馥甄"
     }
   ]
 }

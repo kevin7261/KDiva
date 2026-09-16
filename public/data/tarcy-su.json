@@ -110,9 +110,9 @@
           "duration": 249
         }
       ],
-      "releaseDate": "1990-03-08",
+      "releaseDate": "1990-03-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "追得過一切"
     },
     {
@@ -320,7 +320,7 @@
       ],
       "releaseDate": "1991-07-26",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "甜蜜心事"
     },
     {
@@ -422,10 +422,10 @@
           "duration": 236
         }
       ],
-      "releaseDate": "1992-08-01",
+      "releaseDate": "1992-08-06",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "寂寞喧嘩"
+      "releaseDateSource": "table",
+      "wikiTitle": "蘇慧倫"
     },
     {
       "browseId": "MPREb_GqTBSnNsMkZ",
@@ -754,7 +754,7 @@
       ],
       "releaseDate": "1994-10-01",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "就要愛了嗎"
     },
     {
@@ -858,7 +858,7 @@
       ],
       "releaseDate": "1994-11-16",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "我有時會想"
     },
     {
@@ -962,8 +962,8 @@
       ],
       "releaseDate": "1995-10-05",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "滿足"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "滿足 (專輯)"
     },
     {
       "browseId": "MPREb_CSnXyjVt9N5",
@@ -1179,8 +1179,8 @@
       ],
       "releaseDate": "1996-05-23",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "Lemon Tree"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "Lemon Tree (專輯)"
     },
     {
       "browseId": "MPREb_xDEwsS9Gh4D",
@@ -1222,110 +1222,6 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "檸檬原舞曲"
-    },
-    {
-      "browseId": "MPREb_VPG7137j7A3",
-      "playlistId": "OLAK5uy_kEWL-eTV7sNd0Zy1PvzJiw6YTHqtYcQFA",
-      "title": "鴨子",
-      "type": "Album",
-      "year": 1996,
-      "thumbnail": "https://yt3.googleusercontent.com/PzQ3RtZ28-aJrpXseRTBs7Vctui8xqeBgCWJ3bzZnwetcSvKOVTN_tWDVAIyZUbrEx0y-PybQh8sbyPBvg=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "OK? OK!",
-          "artists": "蘇慧倫+任賢齊+羅百吉",
-          "videoId": "HnNlhAiCo-0",
-          "plays": 1100000,
-          "playsText": "1.1M plays",
-          "duration": 227
-        },
-        {
-          "index": 2,
-          "title": "鴨子",
-          "artists": "蘇慧倫",
-          "videoId": "d2T_Vy29fF0",
-          "plays": 7400000,
-          "playsText": "7.4M plays",
-          "duration": 203
-        },
-        {
-          "index": 3,
-          "title": "葉子落下的世界",
-          "artists": "蘇慧倫",
-          "videoId": "fGxx520yi2g",
-          "plays": 49000,
-          "playsText": "49K plays",
-          "duration": 240
-        },
-        {
-          "index": 4,
-          "title": "愛了就算",
-          "artists": "蘇慧倫+成龍",
-          "videoId": "flXc9uO2n9g",
-          "plays": 740000,
-          "playsText": "740K plays",
-          "duration": 259
-        },
-        {
-          "index": 5,
-          "title": "如果愛是這樣",
-          "artists": "蘇慧倫",
-          "videoId": "qXhQTKrRe0k",
-          "plays": 250000,
-          "playsText": "250K plays",
-          "duration": 288
-        },
-        {
-          "index": 6,
-          "title": "你來",
-          "artists": "蘇慧倫",
-          "videoId": "Y8q1g5crudI",
-          "plays": 66000,
-          "playsText": "66K plays",
-          "duration": 246
-        },
-        {
-          "index": 7,
-          "title": "潛意識",
-          "artists": "蘇慧倫",
-          "videoId": "W7KZ0LAJA7o",
-          "plays": 9000,
-          "playsText": "9K plays",
-          "duration": 307
-        },
-        {
-          "index": 8,
-          "title": "不安",
-          "artists": "蘇慧倫",
-          "videoId": "hep8GFdUxWU",
-          "plays": 18000,
-          "playsText": "18K plays",
-          "duration": 282
-        },
-        {
-          "index": 9,
-          "title": "背影",
-          "artists": "蘇慧倫",
-          "videoId": "Cv_5k_g59CY",
-          "plays": 6400,
-          "playsText": "6.4K plays",
-          "duration": 271
-        },
-        {
-          "index": 10,
-          "title": "七歲的影子",
-          "artists": "蘇慧倫",
-          "videoId": "g2Au25uwT_Y",
-          "plays": 37000,
-          "playsText": "37K plays",
-          "duration": 254
-        }
-      ],
-      "releaseDate": "1996-12-27",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "鴨子 (專輯)"
     },
     {
       "browseId": "MPREb_0hLVPtbE3yo",
@@ -1444,10 +1340,114 @@
           "duration": 250
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "1996-11-15",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "話說蘇慧倫X檔案"
+    },
+    {
+      "browseId": "MPREb_VPG7137j7A3",
+      "playlistId": "OLAK5uy_kEWL-eTV7sNd0Zy1PvzJiw6YTHqtYcQFA",
+      "title": "鴨子",
+      "type": "Album",
+      "year": 1996,
+      "thumbnail": "https://yt3.googleusercontent.com/PzQ3RtZ28-aJrpXseRTBs7Vctui8xqeBgCWJ3bzZnwetcSvKOVTN_tWDVAIyZUbrEx0y-PybQh8sbyPBvg=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "OK? OK!",
+          "artists": "蘇慧倫+任賢齊+羅百吉",
+          "videoId": "HnNlhAiCo-0",
+          "plays": 1100000,
+          "playsText": "1.1M plays",
+          "duration": 227
+        },
+        {
+          "index": 2,
+          "title": "鴨子",
+          "artists": "蘇慧倫",
+          "videoId": "d2T_Vy29fF0",
+          "plays": 7400000,
+          "playsText": "7.4M plays",
+          "duration": 203
+        },
+        {
+          "index": 3,
+          "title": "葉子落下的世界",
+          "artists": "蘇慧倫",
+          "videoId": "fGxx520yi2g",
+          "plays": 49000,
+          "playsText": "49K plays",
+          "duration": 240
+        },
+        {
+          "index": 4,
+          "title": "愛了就算",
+          "artists": "蘇慧倫+成龍",
+          "videoId": "flXc9uO2n9g",
+          "plays": 740000,
+          "playsText": "740K plays",
+          "duration": 259
+        },
+        {
+          "index": 5,
+          "title": "如果愛是這樣",
+          "artists": "蘇慧倫",
+          "videoId": "qXhQTKrRe0k",
+          "plays": 250000,
+          "playsText": "250K plays",
+          "duration": 288
+        },
+        {
+          "index": 6,
+          "title": "你來",
+          "artists": "蘇慧倫",
+          "videoId": "Y8q1g5crudI",
+          "plays": 66000,
+          "playsText": "66K plays",
+          "duration": 246
+        },
+        {
+          "index": 7,
+          "title": "潛意識",
+          "artists": "蘇慧倫",
+          "videoId": "W7KZ0LAJA7o",
+          "plays": 9000,
+          "playsText": "9K plays",
+          "duration": 307
+        },
+        {
+          "index": 8,
+          "title": "不安",
+          "artists": "蘇慧倫",
+          "videoId": "hep8GFdUxWU",
+          "plays": 18000,
+          "playsText": "18K plays",
+          "duration": 282
+        },
+        {
+          "index": 9,
+          "title": "背影",
+          "artists": "蘇慧倫",
+          "videoId": "Cv_5k_g59CY",
+          "plays": 6400,
+          "playsText": "6.4K plays",
+          "duration": 271
+        },
+        {
+          "index": 10,
+          "title": "七歲的影子",
+          "artists": "蘇慧倫",
+          "videoId": "g2Au25uwT_Y",
+          "plays": 37000,
+          "playsText": "37K plays",
+          "duration": 254
+        }
+      ],
+      "releaseDate": "1996-12-27",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "鴨子 (專輯)"
     },
     {
       "browseId": "MPREb_l6Q4Pj9Fuaf",
@@ -1550,7 +1550,7 @@
       ],
       "releaseDate": "1997-08-08",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "傻瓜 (專輯)"
     },
     {
@@ -1580,10 +1580,10 @@
           "duration": 265
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "1997-08-29",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "list",
+      "wikiTitle": "蘇慧倫"
     },
     {
       "browseId": "MPREb_9kNkbcSPfU7",
@@ -1790,7 +1790,7 @@
       ],
       "releaseDate": "1998-01-08",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "失戀萬歲"
     },
     {
@@ -1912,7 +1912,7 @@
       ],
       "releaseDate": "1999-01-15",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "Happy Hours"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "releaseDate": "1999-12-31",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "懶人日記"
     },
     {
@@ -2287,7 +2287,7 @@
       ],
       "releaseDate": "2001-12-25",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "恋恋真言"
     },
     {
@@ -2425,10 +2425,10 @@
           "duration": 244
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2003-02-26",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "list",
+      "wikiTitle": "蘇慧倫"
     },
     {
       "browseId": "MPREb_xLV97yWI0tx",
@@ -2531,7 +2531,7 @@
       ],
       "releaseDate": "2006-04-25",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "苏慧伦同名专辑"
     },
     {
@@ -2635,7 +2635,7 @@
       ],
       "releaseDate": "2007-10-19",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "蘇慧倫，左撇子，旋轉門。"
     },
     {
@@ -2762,8 +2762,8 @@
       ],
       "releaseDate": "2020-03-09",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "Every Side of Me"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "面面"
     },
     {
       "browseId": "MPREb_gPQ28LDKqKK",
@@ -3010,8 +3010,8 @@
       ],
       "releaseDate": "2020-08-28",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "生命之花"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "生命之花 (專輯)"
     },
     {
       "browseId": "MPREb_rjbBtG3U0Je",
@@ -3183,7 +3183,7 @@
       ],
       "releaseDate": "2025-02-18",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
+      "releaseDateSource": "album-page",
       "wikiTitle": "輕重"
     },
     {

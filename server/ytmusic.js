@@ -216,6 +216,40 @@ async function fetchExactViews(videoIds, apiKey) {
   return result
 }
 
+// ---------- 發行日期 ----------
+
+/**
+ * 以 Wikipedia 為準替每張專輯填上原始發行日期（YouTube Music 的年份常是重新上架年份），並依日期排序。
+ * 抓不到 Wikipedia 時保留原本的日期，不會清掉。
+ */
+export async function applyReleaseDates(albums, artistConfig, log = () => {}) {
+  const overrides = RELEASE_OVERRIDES[artistConfig.slug] ?? {}
+  let catalog = null
+  if (artistConfig.wiki) {
+    try {
+      catalog = await fetchReleaseCatalog(artistConfig, albums, log)
+    } catch (err) {
+      log(`Wikipedia 讀取失敗，保留原本的發行日期：${err.message}`)
+    }
+  }
+  let matched = 0
+  for (const album of albums) {
+    const manual = overrides[album.browseId] ?? overrides[album.title]
+    if (!manual && !catalog) {
+      if (album.releaseDate) matched++
+      continue
+    }
+    const info = manual
+      ? { releaseDate: manual, releaseDatePrecision: 'day', releaseDateSource: 'manual', wikiTitle: null }
+      : matchRelease(album, catalog, [artistConfig.name, artistConfig.en, artistConfig.wiki])
+    Object.assign(album, info ?? { releaseDate: null, releaseDatePrecision: null, releaseDateSource: null, wikiTitle: null })
+    if (info) matched++
+  }
+  log(`發行日期：${matched}/${albums.length} 張取自 Wikipedia，其餘使用 YouTube Music 年份`)
+  albums.sort((a, b) => releaseSortKey(a).localeCompare(releaseSortKey(b)) || a.title.localeCompare(b.title))
+  return matched
+}
+
 // ---------- 主流程 ----------
 
 export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} } = {}) {
@@ -249,28 +283,7 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
     exact = true
   }
 
-  // 原始發行日期：YouTube Music 的年份常是重新上架年份，改用 Wikipedia／Wikidata
-  const overrides = RELEASE_OVERRIDES[artistConfig.slug] ?? {}
-  let catalog = []
-  if (artistConfig.wiki) {
-    try {
-      catalog = await fetchReleaseCatalog(artistConfig.wiki, log)
-    } catch (err) {
-      log(`Wikipedia 讀取失敗，改用 YouTube Music 年份：${err.message}`)
-    }
-  }
-  let matched = 0
-  for (const album of albums) {
-    const manual = overrides[album.browseId] ?? overrides[album.title]
-    const info = manual
-      ? { releaseDate: manual, releaseDatePrecision: 'day', releaseDateSource: 'manual', wikiTitle: null }
-      : matchRelease(album, catalog, [artistConfig.name, artistConfig.en])
-    Object.assign(album, info ?? { releaseDate: null, releaseDatePrecision: null, releaseDateSource: null, wikiTitle: null })
-    if (info) matched++
-  }
-  log(`發行日期：${matched}/${albums.length} 張對到 Wikipedia，其餘使用 YouTube Music 年份`)
-
-  albums.sort((a, b) => releaseSortKey(a).localeCompare(releaseSortKey(b)) || a.title.localeCompare(b.title))
+  await applyReleaseDates(albums, artistConfig, log)
   const { releases, ...artistInfo } = artist
 
   return {

@@ -232,10 +232,10 @@
           "duration": 310
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "1999-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "table",
+      "wikiTitle": "順子"
     },
     {
       "browseId": "MPREb_n7V4nDn5LEA",
@@ -392,8 +392,8 @@
       ],
       "releaseDate": "1999-03-01",
       "releaseDatePrecision": "month",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "Open Up"
+      "releaseDateSource": "prose",
+      "wikiTitle": "順子"
     },
     {
       "browseId": "MPREb_e0ljNPxJ4UX",
@@ -550,8 +550,8 @@
       ],
       "releaseDate": "2001-03-01",
       "releaseDatePrecision": "month",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "昨日。唯一。更多"
+      "releaseDateSource": "table",
+      "wikiTitle": "順子"
     },
     {
       "browseId": "MPREb_jWgefeyIMyj",
@@ -690,8 +690,130 @@
       ],
       "releaseDate": "2001-05-01",
       "releaseDatePrecision": "month",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "...and music's there..."
+      "releaseDateSource": "table",
+      "wikiTitle": "順子"
+    },
+    {
+      "browseId": "MPREb_UGCwmJt5Bi3",
+      "playlistId": "OLAK5uy_mQ9iiFadw3Lryr-ThC4xPuZgk1qn-tPRI",
+      "title": "Dear Shunza",
+      "type": "Album",
+      "year": 2014,
+      "thumbnail": "https://yt3.googleusercontent.com/yc0SHoBTzHpJ5qmrTQrCbjo02SPsz3m4UR4YbZlObb6BFB6t6uWT2ItrT5CwJu4B97VLOcqppamdQ15Z=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "It's Cold Outside",
+          "artists": "",
+          "videoId": "gmWHsRtmXP4",
+          "plays": 28000,
+          "playsText": "28K plays",
+          "duration": 63
+        },
+        {
+          "index": 2,
+          "title": "It's Gonna Be Alright",
+          "artists": "",
+          "videoId": "3ffcI2Xw_Mg",
+          "plays": 222000,
+          "playsText": "222K plays",
+          "duration": 292
+        },
+        {
+          "index": 3,
+          "title": "Dear Friend",
+          "artists": "",
+          "videoId": "6_wwgeOh2yw",
+          "plays": 723000,
+          "playsText": "723K plays",
+          "duration": 194
+        },
+        {
+          "index": 4,
+          "title": "And I Know",
+          "artists": "",
+          "videoId": "D3Mzn53oeTY",
+          "plays": 22000,
+          "playsText": "22K plays",
+          "duration": 219
+        },
+        {
+          "index": 5,
+          "title": "看见 Star Blue - See Blue Star",
+          "artists": "",
+          "videoId": "5ivBg_2g8DQ",
+          "plays": 71000,
+          "playsText": "71K plays",
+          "duration": 297
+        },
+        {
+          "index": 6,
+          "title": "Happy",
+          "artists": "",
+          "videoId": "57aQIj2rbRk",
+          "plays": 7800,
+          "playsText": "7.8K plays",
+          "duration": 274
+        },
+        {
+          "index": 7,
+          "title": "眷恋 - Longing",
+          "artists": "",
+          "videoId": "S438JxoyWYw",
+          "plays": 179000,
+          "playsText": "179K plays",
+          "duration": 363
+        },
+        {
+          "index": 8,
+          "title": "恰好的寂寞 - Loneliness Just Right",
+          "artists": "",
+          "videoId": "LrCLNOWQ9F8",
+          "plays": 107000,
+          "playsText": "107K plays",
+          "duration": 215
+        },
+        {
+          "index": 9,
+          "title": "Destiny",
+          "artists": "",
+          "videoId": "Dph9UJr31Eg",
+          "plays": 9100,
+          "playsText": "9.1K plays",
+          "duration": 234
+        },
+        {
+          "index": 10,
+          "title": "Fly Away",
+          "artists": "",
+          "videoId": "X1GfT1OKiX0",
+          "plays": 7500,
+          "playsText": "7.5K plays",
+          "duration": 231
+        },
+        {
+          "index": 11,
+          "title": "给我 - Give Me",
+          "artists": "",
+          "videoId": "8SniXalrGj4",
+          "plays": 11000,
+          "playsText": "11K plays",
+          "duration": 250
+        },
+        {
+          "index": 12,
+          "title": "看见 Star Blue (主题曲版) - See Blue Star (TV Version)",
+          "artists": "",
+          "videoId": "tg3qNWFLX9w",
+          "plays": 1900,
+          "playsText": "1.9K plays",
+          "duration": 179
+        }
+      ],
+      "releaseDate": "2002-01-01",
+      "releaseDatePrecision": "month",
+      "releaseDateSource": "table",
+      "wikiTitle": "順子"
     },
     {
       "browseId": "MPREb_Zs00nNE7Zke",
@@ -783,10 +905,10 @@
           "duration": 227
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2003-04-25",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "順子"
     },
     {
       "browseId": "MPREb_ImaAIN6pwXb",
@@ -930,128 +1052,6 @@
           "plays": 18000,
           "playsText": "18K plays",
           "duration": 381
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
-      "browseId": "MPREb_UGCwmJt5Bi3",
-      "playlistId": "OLAK5uy_mQ9iiFadw3Lryr-ThC4xPuZgk1qn-tPRI",
-      "title": "Dear Shunza",
-      "type": "Album",
-      "year": 2014,
-      "thumbnail": "https://yt3.googleusercontent.com/yc0SHoBTzHpJ5qmrTQrCbjo02SPsz3m4UR4YbZlObb6BFB6t6uWT2ItrT5CwJu4B97VLOcqppamdQ15Z=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "It's Cold Outside",
-          "artists": "",
-          "videoId": "gmWHsRtmXP4",
-          "plays": 28000,
-          "playsText": "28K plays",
-          "duration": 63
-        },
-        {
-          "index": 2,
-          "title": "It's Gonna Be Alright",
-          "artists": "",
-          "videoId": "3ffcI2Xw_Mg",
-          "plays": 222000,
-          "playsText": "222K plays",
-          "duration": 292
-        },
-        {
-          "index": 3,
-          "title": "Dear Friend",
-          "artists": "",
-          "videoId": "6_wwgeOh2yw",
-          "plays": 723000,
-          "playsText": "723K plays",
-          "duration": 194
-        },
-        {
-          "index": 4,
-          "title": "And I Know",
-          "artists": "",
-          "videoId": "D3Mzn53oeTY",
-          "plays": 22000,
-          "playsText": "22K plays",
-          "duration": 219
-        },
-        {
-          "index": 5,
-          "title": "看见 Star Blue - See Blue Star",
-          "artists": "",
-          "videoId": "5ivBg_2g8DQ",
-          "plays": 71000,
-          "playsText": "71K plays",
-          "duration": 297
-        },
-        {
-          "index": 6,
-          "title": "Happy",
-          "artists": "",
-          "videoId": "57aQIj2rbRk",
-          "plays": 7800,
-          "playsText": "7.8K plays",
-          "duration": 274
-        },
-        {
-          "index": 7,
-          "title": "眷恋 - Longing",
-          "artists": "",
-          "videoId": "S438JxoyWYw",
-          "plays": 179000,
-          "playsText": "179K plays",
-          "duration": 363
-        },
-        {
-          "index": 8,
-          "title": "恰好的寂寞 - Loneliness Just Right",
-          "artists": "",
-          "videoId": "LrCLNOWQ9F8",
-          "plays": 107000,
-          "playsText": "107K plays",
-          "duration": 215
-        },
-        {
-          "index": 9,
-          "title": "Destiny",
-          "artists": "",
-          "videoId": "Dph9UJr31Eg",
-          "plays": 9100,
-          "playsText": "9.1K plays",
-          "duration": 234
-        },
-        {
-          "index": 10,
-          "title": "Fly Away",
-          "artists": "",
-          "videoId": "X1GfT1OKiX0",
-          "plays": 7500,
-          "playsText": "7.5K plays",
-          "duration": 231
-        },
-        {
-          "index": 11,
-          "title": "给我 - Give Me",
-          "artists": "",
-          "videoId": "8SniXalrGj4",
-          "plays": 11000,
-          "playsText": "11K plays",
-          "duration": 250
-        },
-        {
-          "index": 12,
-          "title": "看见 Star Blue (主题曲版) - See Blue Star (TV Version)",
-          "artists": "",
-          "videoId": "tg3qNWFLX9w",
-          "plays": 1900,
-          "playsText": "1.9K plays",
-          "duration": 179
         }
       ],
       "releaseDate": null,

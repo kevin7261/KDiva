@@ -112,8 +112,8 @@
       ],
       "releaseDate": "1999-09-17",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "一夜長大"
+      "releaseDateSource": "table",
+      "wikiTitle": "梁靜茹"
     },
     {
       "browseId": "MPREb_QmFvNOcjyZg",
@@ -216,7 +216,7 @@
       ],
       "releaseDate": "2000-08-02",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "勇氣 (梁靜茹專輯)"
     },
     {
@@ -329,7 +329,7 @@
       ],
       "releaseDate": "2001-06-26",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "閃亮的星"
     },
     {
@@ -442,8 +442,8 @@
       ],
       "releaseDate": "2002-02-07",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "Sunrise 我喜歡"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "Sunrise 我喜歡 (梁靜茹專輯)"
     },
     {
       "browseId": "MPREb_9jOHgw1RgKg",
@@ -582,7 +582,7 @@
       ],
       "releaseDate": "2002-05-30",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikipedia",
+      "releaseDateSource": "album-page",
       "wikiTitle": "Time & Love 演唱會Live全紀錄"
     },
     {
@@ -695,7 +695,7 @@
       ],
       "releaseDate": "2003-02-12",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "美麗人生 (梁靜茹專輯)"
     },
     {
@@ -889,7 +889,7 @@
       ],
       "releaseDate": "2003-11-25",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "戀愛的力量"
     },
     {
@@ -1002,8 +1002,8 @@
       ],
       "releaseDate": "2004-09-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "燕尾蝶 下定愛的決心"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "燕尾蝶 (梁靜茹專輯)"
     },
     {
       "browseId": "MPREb_Sz26NwEHocn",
@@ -1250,7 +1250,7 @@
       ],
       "releaseDate": "2005-03-04",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "愛的大遊行 Live全記錄"
     },
     {
@@ -1354,8 +1354,8 @@
       ],
       "releaseDate": "2005-09-16",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "絲路 通往愛的路途"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "絲路 (梁靜茹專輯)"
     },
     {
       "browseId": "MPREb_gy4RmdZ7x1Z",
@@ -1476,7 +1476,7 @@
       ],
       "releaseDate": "2006-10-06",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "親親"
     },
     {
@@ -1589,7 +1589,7 @@
       ],
       "releaseDate": "2007-11-09",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "崇拜 (梁靜茹專輯)"
     },
     {
@@ -1729,7 +1729,7 @@
       ],
       "releaseDate": "2008-08-28",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "今天情人節"
     },
     {
@@ -1901,8 +1901,8 @@
       ],
       "releaseDate": "2009-01-16",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
-      "wikiTitle": "靜茹＆情歌-別再為他流淚"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "靜茹&情歌"
     },
     {
       "browseId": "MPREb_DH6Puyz2a5b",
@@ -2005,7 +2005,7 @@
       ],
       "releaseDate": "2010-12-24",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "情歌沒有告訴你"
     },
     {
@@ -2145,8 +2145,8 @@
       ],
       "releaseDate": "2011-02-01",
       "releaseDatePrecision": "month",
-      "releaseDateSource": "wikipedia",
-      "wikiTitle": "現在開始我愛你 戀愛的力量下集（新歌+精選）"
+      "releaseDateSource": "prose",
+      "wikiTitle": "梁靜茹"
     },
     {
       "browseId": "MPREb_3QrYj3FJLRO",
@@ -2258,7 +2258,7 @@
       ],
       "releaseDate": "2012-08-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "wikidata",
+      "releaseDateSource": "album-page",
       "wikiTitle": "愛久見人心"
     },
     {
@@ -2352,6 +2352,29 @@
       "releaseDatePrecision": null,
       "releaseDateSource": null,
       "wikiTitle": null
+    },
+    {
+      "browseId": "MPREb_0CY9RuOSTcv",
+      "playlistId": "OLAK5uy_nYj0OoMtHjq_TnLN2ZxpjWRPbMTlkA2PY",
+      "title": "想都沒想過 (电影 \"寒单\" 主题曲)",
+      "type": "Single",
+      "year": 2019,
+      "thumbnail": "https://yt3.googleusercontent.com/X1dGeFNau955EJ22C-_s-xZOTS2p1yw1S9YTBL7Q-uwrShn3lFQzphTDruTAATm3dc-4Xeip4OZj6OH5=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "想都沒想過 (电影 \"寒单\" 主题曲)",
+          "artists": "",
+          "videoId": "ohX4DFeH0Do",
+          "plays": 684000,
+          "playsText": "684K plays",
+          "duration": 309
+        }
+      ],
+      "releaseDate": "2019-01-01",
+      "releaseDatePrecision": "month",
+      "releaseDateSource": "table",
+      "wikiTitle": "梁靜茹"
     },
     {
       "browseId": "MPREb_QkIlPnY7op5",
@@ -2644,29 +2667,6 @@
       "wikiTitle": null
     },
     {
-      "browseId": "MPREb_0CY9RuOSTcv",
-      "playlistId": "OLAK5uy_nYj0OoMtHjq_TnLN2ZxpjWRPbMTlkA2PY",
-      "title": "想都沒想過 (电影 \"寒单\" 主题曲)",
-      "type": "Single",
-      "year": 2019,
-      "thumbnail": "https://yt3.googleusercontent.com/X1dGeFNau955EJ22C-_s-xZOTS2p1yw1S9YTBL7Q-uwrShn3lFQzphTDruTAATm3dc-4Xeip4OZj6OH5=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "想都沒想過 (电影 \"寒单\" 主题曲)",
-          "artists": "",
-          "videoId": "ohX4DFeH0Do",
-          "plays": 684000,
-          "playsText": "684K plays",
-          "duration": 309
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
       "browseId": "MPREb_BO0vAhnxW7I",
       "playlistId": "OLAK5uy_lm2PkE91xX0QWOs0fUBuQ9vc-13ld7gD8",
       "title": "飄洋過海來看你 - Piao Yang Guo Hai Lai Kan Ni",
@@ -2684,10 +2684,10 @@
           "duration": 284
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2020-05-01",
+      "releaseDatePrecision": "month",
+      "releaseDateSource": "table",
+      "wikiTitle": "梁靜茹"
     },
     {
       "browseId": "MPREb_qwvs9t9JB8k",
@@ -2884,10 +2884,10 @@
           "duration": 205
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null
+      "releaseDate": "2025-01-29",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "梁靜茹"
     }
   ]
 }
