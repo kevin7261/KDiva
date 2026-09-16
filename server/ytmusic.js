@@ -263,6 +263,10 @@ export function markOtherArtists(albums, artistConfig, channelName = '') {
     const parts = String(credit).split(/\s*(?:&|,|、|\||\/|;|\(|\)|（|）|\bfeat\.?|\bwith\b|\bx\b)\s*/i).map(norm).filter(Boolean)
     return list.some((k) => (k.length >= 2 ? whole.includes(k) : parts.includes(k)))
   }
+  // 只寫團員名、沒寫團名 → 團員個人作品（「無印良品(光良|品冠)」寫了團名，仍是團體作品）；
+  // 團員的個人藝名本身含團名時（「五月天 阿信」）直接算個人
+  const memberSolo = (credit) =>
+    members.some((m) => mentions(credit, [m]) && (keys.some((k) => m.includes(k)) || !mentions(credit, keys)))
   let marked = 0
   for (const album of albums) {
     // 別人的專輯（主演出者不是這位歌手，例如彭佳慧頻道上「Andy Lau & Julia Peng」的《因為愛》）整張不算，
@@ -277,7 +281,7 @@ export function markOtherArtists(albums, artistConfig, channelName = '') {
         (!!credit &&
         (!mentions(credit, keys) || // 別人唱的
           (groups.length > 0 && mentions(credit, groups)) || // 個人頻道上的團體作品
-          (members.length > 0 && mentions(credit, members)))) // 團體頻道上的團員個人作品
+          memberSolo(credit))) // 團體頻道上的團員個人作品
       if (t.byOther) marked++
     }
   }
@@ -294,9 +298,10 @@ export function markOtherArtists(albums, artistConfig, channelName = '') {
  */
 export function addChineseTitles(albums, catalog = []) {
   const zhOf = new Map() // 拼音 → 中文名
+  const clean = (t) => String(t).replace(/^[〈《「『"'“]+|[〉》」』"'”]+$/g, '').trim()
   const add = (t) => {
     if (!hasCJK(t)) return
-    const name = t.split(/\s+-\s+/).find(hasCJK)?.trim()
+    const name = clean(t.split(/\s+-\s+/).find(hasCJK) ?? '')
     const k = pinyinKey(name)
     if (name && k.length >= 3 && !zhOf.has(k)) zhOf.set(k, name)
   }
@@ -307,13 +312,25 @@ export function addChineseTitles(albums, catalog = []) {
   }
   for (const album of albums) {
     delete album.titleZh
-    if (!hasCJK(album.title)) album.titleZh = (album._wiki?.name ?? zhOf.get(pinyinKey(album.title))) || undefined
-    const wikiTracks = album._wiki?.tracks
-    const byIndex = wikiTracks?.length === album.tracks.length
+    if (!hasCJK(album.title)) {
+      const zh = album._wiki?.name ?? zhOf.get(pinyinKey(album.title))
+      if (zh) album.titleZh = clean(zh)
+    }
+    const wikiTracks = album._wiki?.tracks?.map(clean)
+    // 依曲序對應的前提：曲目數相同，而且看得出拼音的曲目都剛好對在同一個位置（曲序不同就不用）
+    const byIndex =
+      wikiTracks?.length === album.tracks.length &&
+      album.tracks.every((t, i) => {
+        if (hasCJK(t.title)) return true
+        const k = pinyinKey(t.title)
+        const hit = wikiTracks.findIndex((w) => hasCJK(w) && pinyinKey(w) === k)
+        return hit < 0 || hit === i
+      })
     album.tracks.forEach((t, i) => {
       delete t.titleZh
       if (hasCJK(t.title)) return
-      const zh = byIndex && hasCJK(wikiTracks[i]) ? wikiTracks[i] : zhOf.get(pinyinKey(t.title))
+      // 拼音對得到的中文名優先；拼音對不到（英文歌名）才依曲序
+      const zh = zhOf.get(pinyinKey(t.title)) ?? (byIndex && hasCJK(wikiTracks[i]) ? wikiTracks[i] : null)
       if (zh) t.titleZh = zh
     })
   }
@@ -329,15 +346,31 @@ const LIVE_RE = /live|演唱會|演唱会|音樂會|音乐会|現場|现场|conc
  * Live 版本加上標記、不和錄音室版本視為同名。
  */
 export function addNameKeys(albums) {
+  const parts = (title) => title.split(/\s+-\s+/)
+  // 標題只有一段中文的曲目，拿來判斷「巨星金曲 - 心跳 - …」這種夾了專輯名的標題哪一段才是歌名
+  const known = new Set()
+  for (const album of albums)
+    for (const t of album.tracks) {
+      const zh = parts(t.title).filter(hasCJK)
+      if (zh.length === 1) known.add(normalizeTitle(toTW(zh[0])))
+    }
   for (const album of albums) {
     for (const t of album.tracks) {
-      const zh = t.titleZh ?? t.title.split(/\s+-\s+/).find(hasCJK)
-      // 簡體歌名顯示成繁體（「最后一夜」→「最後一夜」），原名留作副標
-      if (zh && !t.titleZh && toTW(zh) !== zh) t.titleZh = toTW(zh)
-      const title = t.titleZh ?? zh ?? t.title.split(/\s+-\s+/)[0]
+      const live = LIVE_RE.test(t.title)
+      if (!t.titleZh) {
+        const zhParts = parts(t.title).filter(hasCJK)
+        if (zhParts.length > 1) {
+          t.titleZh = toTW(zhParts.find((p) => known.has(normalizeTitle(toTW(p)))) ?? zhParts.at(-1))
+        } else if (zhParts.length === 1 && toTW(zhParts[0]) !== zhParts[0]) {
+          // 簡體歌名顯示成繁體（「最后一夜」→「最後一夜」），原名留作副標
+          t.titleZh = toTW(zhParts[0])
+        }
+      }
+      // 補上的中文名也要保留 Live 標記（「Ai Cuo (Live)」→「愛錯 (Live)」）
+      if (t.titleZh && live && !LIVE_RE.test(t.titleZh)) t.titleZh += ' (Live)'
+      const title = t.titleZh ?? parts(t.title).find(hasCJK) ?? parts(t.title)[0]
       const base = title.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ' ').trim() || title
-      const live = LIVE_RE.test(t.title) ? '#live' : ''
-      t.nameKey = normalizeTitle(base) + live
+      t.nameKey = normalizeTitle(base) + (live ? '#live' : '')
     }
   }
 }

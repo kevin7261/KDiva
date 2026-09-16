@@ -8,7 +8,8 @@
     "name": "張韶涵 - Angela Chang",
     "thumbnail": "https://yt3.googleusercontent.com/7buDUATb3VZ0dAiIJH64ik_DgBIaui8-WYW3HPsP9dnfCCc00vBbuOm8rcPPPfign0XAqEZStw=w1070-h445-l90-rj-dcGSacCxoK",
     "subscribers": 201000,
-    "monthlyAudience": 2610000
+    "monthlyAudience": 2610000,
+    "avatar": "https://yt3.googleusercontent.com/mQ6IixXuomAqh4xMTz4LI6bPTJJfn8D9TZV_EBLZzzj_5voDJ_p9q-jWIY8PveH8A-ia2HURcg=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
@@ -28,7 +29,9 @@
           "plays": 364000,
           "playsText": "364K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "Over The Rainbow (張韶涵專輯)",
+          "nameKey": "overtherainbow"
         },
         {
           "index": 2,
@@ -38,7 +41,8 @@
           "plays": 12000000,
           "playsText": "12M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寓言"
         },
         {
           "index": 3,
@@ -48,7 +52,8 @@
           "plays": 625000,
           "playsText": "625K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "都只因為你"
         },
         {
           "index": 4,
@@ -58,7 +63,8 @@
           "plays": 4300000,
           "playsText": "4.3M plays",
           "duration": 263,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我的最愛"
         },
         {
           "index": 5,
@@ -68,7 +74,8 @@
           "plays": 703000,
           "playsText": "703K plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "天邊"
         },
         {
           "index": 6,
@@ -78,7 +85,8 @@
           "plays": 145000,
           "playsText": "145K plays",
           "duration": 291,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "聽見月光"
         },
         {
           "index": 7,
@@ -88,7 +96,8 @@
           "plays": 1700000,
           "playsText": "1.7M plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "吶喊"
         },
         {
           "index": 8,
@@ -98,7 +107,8 @@
           "plays": 556000,
           "playsText": "556K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "雨後"
         },
         {
           "index": 9,
@@ -108,7 +118,8 @@
           "plays": 172000,
           "playsText": "172K plays",
           "duration": 275,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "明明愛你"
         },
         {
           "index": 10,
@@ -118,7 +129,8 @@
           "plays": 155000,
           "playsText": "155K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "真愛冒險"
         },
         {
           "index": 11,
@@ -128,7 +140,8 @@
           "plays": 21000000,
           "playsText": "21M plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "遺失的美好"
         },
         {
           "index": 12,
@@ -138,13 +151,15 @@
           "plays": 4000000,
           "playsText": "4M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "journey"
         }
       ],
       "releaseDate": "2004-01-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Over the Rainbow (張韶涵專輯)"
+      "wikiTitle": "Over the Rainbow (張韶涵專輯)",
+      "titleZh": "Over The Rainbow (張韶涵專輯)"
     },
     {
       "browseId": "MPREb_RnJWRcq2XaP",
@@ -163,7 +178,8 @@
           "plays": 415000,
           "playsText": "415K plays",
           "duration": 224,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "mamamama"
         },
         {
           "index": 2,
@@ -173,7 +189,8 @@
           "plays": 31000000,
           "playsText": "31M plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "歐若拉"
         },
         {
           "index": 3,
@@ -183,7 +200,8 @@
           "plays": 3200000,
           "playsText": "3.2M plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "手心的太陽"
         },
         {
           "index": 4,
@@ -193,7 +211,8 @@
           "plays": 607000,
           "playsText": "607K plays",
           "duration": 293,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "浮雲"
         },
         {
           "index": 5,
@@ -203,7 +222,8 @@
           "plays": 70000,
           "playsText": "70K plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "直線"
         },
         {
           "index": 6,
@@ -213,7 +233,8 @@
           "plays": 101000,
           "playsText": "101K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "起點"
         },
         {
           "index": 7,
@@ -223,7 +244,8 @@
           "plays": 342000,
           "playsText": "342K plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "復活節"
         },
         {
           "index": 8,
@@ -233,7 +255,8 @@
           "plays": 108000,
           "playsText": "108K plays",
           "duration": 273,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "可以愛很久"
         },
         {
           "index": 9,
@@ -243,7 +266,8 @@
           "plays": 2300000,
           "playsText": "2.3M plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "猜不透"
         },
         {
           "index": 10,
@@ -253,7 +277,8 @@
           "plays": 482000,
           "playsText": "482K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "靜不下來"
         }
       ],
       "releaseDate": "2004-12-01",
@@ -278,7 +303,8 @@
           "plays": 72000000,
           "playsText": "72M plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "隱形的翅膀"
         },
         {
           "index": 2,
@@ -288,7 +314,8 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "潘朵拉"
         },
         {
           "index": 3,
@@ -298,7 +325,8 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 178,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "香水百合"
         },
         {
           "index": 4,
@@ -308,7 +336,8 @@
           "plays": 3500000,
           "playsText": "3.5M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "真的"
         },
         {
           "index": 5,
@@ -318,7 +347,8 @@
           "plays": 83000,
           "playsText": "83K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最近"
         },
         {
           "index": 6,
@@ -328,7 +358,8 @@
           "plays": 104000,
           "playsText": "104K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "驚天動地"
         },
         {
           "index": 7,
@@ -338,7 +369,8 @@
           "plays": 923000,
           "playsText": "923K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "保護色"
         },
         {
           "index": 8,
@@ -348,7 +380,8 @@
           "plays": 9800000,
           "playsText": "9.8M plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "口袋的天空"
         },
         {
           "index": 9,
@@ -358,7 +391,8 @@
           "plays": 3900000,
           "playsText": "3.9M plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛情旅程"
         },
         {
           "index": 10,
@@ -368,7 +402,8 @@
           "plays": 3500000,
           "playsText": "3.5M plays",
           "duration": 202,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "喜歡你沒道理"
         },
         {
           "index": 11,
@@ -378,7 +413,8 @@
           "plays": 133000,
           "playsText": "133K plays",
           "duration": 221,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "永晝"
         }
       ],
       "releaseDate": "2006-01-06",
@@ -403,7 +439,8 @@
           "plays": 4200000,
           "playsText": "4.2M plays",
           "duration": 217,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢裡花"
         },
         {
           "index": 2,
@@ -413,7 +450,8 @@
           "plays": 5400000,
           "playsText": "5.4M plays",
           "duration": 246,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不痛"
         },
         {
           "index": 3,
@@ -423,7 +461,8 @@
           "plays": 15000000,
           "playsText": "15M plays",
           "duration": 206,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "c大調"
         },
         {
           "index": 4,
@@ -433,7 +472,8 @@
           "plays": 458000,
           "playsText": "458K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "樣子"
         },
         {
           "index": 5,
@@ -443,7 +483,8 @@
           "plays": 522000,
           "playsText": "522K plays",
           "duration": 236,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "幻想愛"
         },
         {
           "index": 6,
@@ -453,7 +494,8 @@
           "plays": 51000,
           "playsText": "51K plays",
           "duration": 158,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "給你給我"
         },
         {
           "index": 7,
@@ -463,7 +505,8 @@
           "plays": 137000,
           "playsText": "137K plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "交換"
         },
         {
           "index": 8,
@@ -473,7 +516,8 @@
           "plays": 3200000,
           "playsText": "3.2M plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "其實很愛你"
         },
         {
           "index": 9,
@@ -483,7 +527,8 @@
           "plays": 85000,
           "playsText": "85K plays",
           "duration": 264,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "淚光"
         },
         {
           "index": 10,
@@ -493,7 +538,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 200,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛上愛的味道"
         },
         {
           "index": 11,
@@ -503,7 +549,8 @@
           "plays": 397000,
           "playsText": "397K plays",
           "duration": 206,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "尋寶"
         }
       ],
       "releaseDate": "2007-01-12",
@@ -528,7 +575,8 @@
           "plays": 18000,
           "playsText": "18K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "夢裡花"
         },
         {
           "index": 2,
@@ -538,7 +586,8 @@
           "plays": 9800,
           "playsText": "9.8K plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "潘朵拉"
         },
         {
           "index": 3,
@@ -548,7 +597,8 @@
           "plays": 6100,
           "playsText": "6.1K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "都只因為你"
         },
         {
           "index": 4,
@@ -558,7 +608,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 301,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "真的猜不透"
         },
         {
           "index": 5,
@@ -568,7 +619,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 279,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "手心的太陽"
         },
         {
           "index": 6,
@@ -578,7 +630,8 @@
           "plays": 4400,
           "playsText": "4.4K plays",
           "duration": 349,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "保護色"
         },
         {
           "index": 7,
@@ -588,7 +641,8 @@
           "plays": 3600,
           "playsText": "3.6K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "mamamama"
         },
         {
           "index": 8,
@@ -598,7 +652,8 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "如果的事"
         },
         {
           "index": 9,
@@ -608,7 +663,8 @@
           "plays": 3100,
           "playsText": "3.1K plays",
           "duration": 259,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "一比一"
         },
         {
           "index": 10,
@@ -618,7 +674,8 @@
           "plays": 107000,
           "playsText": "107K plays",
           "duration": 278,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不痛"
         },
         {
           "index": 11,
@@ -628,7 +685,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "口袋的天空"
         },
         {
           "index": 12,
@@ -638,7 +696,8 @@
           "plays": 3500,
           "playsText": "3.5K plays",
           "duration": 281,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "journey"
         },
         {
           "index": 13,
@@ -648,7 +707,8 @@
           "plays": 6100,
           "playsText": "6.1K plays",
           "duration": 255,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "吶喊"
         },
         {
           "index": 14,
@@ -658,7 +718,8 @@
           "plays": 17000,
           "playsText": "17K plays",
           "duration": 244,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "c大調"
         },
         {
           "index": 15,
@@ -668,7 +729,8 @@
           "plays": 2600,
           "playsText": "2.6K plays",
           "duration": 214,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "靜不下來"
         },
         {
           "index": 16,
@@ -678,7 +740,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "快樂崇拜"
         },
         {
           "index": 17,
@@ -688,7 +751,8 @@
           "plays": 2800,
           "playsText": "2.8K plays",
           "duration": 199,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "尋寶"
         },
         {
           "index": 18,
@@ -698,7 +762,8 @@
           "plays": 6700,
           "playsText": "6.7K plays",
           "duration": 189,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "喜歡你沒道理"
         },
         {
           "index": 19,
@@ -708,7 +773,8 @@
           "plays": 82000,
           "playsText": "82K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "隱形的翅膀"
         },
         {
           "index": 20,
@@ -718,7 +784,8 @@
           "plays": 12000,
           "playsText": "12K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我的最愛"
         },
         {
           "index": 21,
@@ -728,7 +795,8 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 344,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "遺失的美好"
         },
         {
           "index": 22,
@@ -738,7 +806,8 @@
           "plays": 19000,
           "playsText": "19K plays",
           "duration": 251,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "寓言"
         },
         {
           "index": 23,
@@ -748,7 +817,8 @@
           "plays": 21000,
           "playsText": "21K plays",
           "duration": 398,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "歐若拉"
         },
         {
           "index": 24,
@@ -758,7 +828,8 @@
           "plays": 130000,
           "playsText": "130K plays",
           "duration": 166,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "控制不了"
         }
       ],
       "releaseDate": "2007-08-03",
@@ -783,7 +854,8 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "絕不"
         }
       ],
       "releaseDate": "2007-08-04",
@@ -808,7 +880,8 @@
           "plays": 2200000,
           "playsText": "2.2M plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我戀愛了"
         },
         {
           "index": 2,
@@ -818,7 +891,8 @@
           "plays": 24000000,
           "playsText": "24M plays",
           "duration": 277,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不想懂得"
         },
         {
           "index": 3,
@@ -828,7 +902,8 @@
           "plays": 43000000,
           "playsText": "43M plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "親愛的那不是愛情"
         },
         {
           "index": 4,
@@ -838,7 +913,8 @@
           "plays": 688000,
           "playsText": "688K plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "床邊故事"
         },
         {
           "index": 5,
@@ -848,7 +924,8 @@
           "plays": 8200000,
           "playsText": "8.2M plays",
           "duration": 220,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "頭號甜心"
         },
         {
           "index": 6,
@@ -858,7 +935,8 @@
           "plays": 71000,
           "playsText": "71K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "重來"
         },
         {
           "index": 7,
@@ -868,7 +946,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "能不能勇敢說愛"
         },
         {
           "index": 8,
@@ -878,7 +957,8 @@
           "plays": 221000,
           "playsText": "221K plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "失憶"
         },
         {
           "index": 9,
@@ -888,7 +968,8 @@
           "plays": 162000,
           "playsText": "162K plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "樂園"
         },
         {
           "index": 10,
@@ -898,7 +979,8 @@
           "plays": 76000,
           "playsText": "76K plays",
           "duration": 188,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "誰愛誰"
         },
         {
           "index": 11,
@@ -908,7 +990,9 @@
           "plays": 31000,
           "playsText": "31K plays",
           "duration": 160,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "不想懂得(鋼琴絃樂演奏版)",
+          "nameKey": "不想懂得"
         },
         {
           "index": 12,
@@ -918,7 +1002,8 @@
           "plays": 11000,
           "playsText": "11K plays",
           "duration": 262,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "樂園"
         }
       ],
       "releaseDate": "2007-12-14",
@@ -943,7 +1028,8 @@
           "plays": 3900000,
           "playsText": "3.9M plays",
           "duration": 269,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "藍眼睛"
         }
       ],
       "releaseDate": null,
@@ -968,7 +1054,8 @@
           "plays": 394000,
           "playsText": "394K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "微笑的起點"
         }
       ],
       "releaseDate": "2008-06-03",
@@ -993,7 +1080,8 @@
           "plays": 270000,
           "playsText": "270K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "非常完美"
         }
       ],
       "releaseDate": "2009-09-11",
@@ -1018,7 +1106,8 @@
           "plays": 394000,
           "playsText": "394K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第5季"
         },
         {
           "index": 2,
@@ -1028,7 +1117,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 261,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "白白的"
         },
         {
           "index": 3,
@@ -1038,7 +1128,8 @@
           "plays": 9000000,
           "playsText": "9M plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "看得最遠的地方"
         },
         {
           "index": 4,
@@ -1048,7 +1139,8 @@
           "plays": 132000,
           "playsText": "132K plays",
           "duration": 207,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "幸運之吻"
         },
         {
           "index": 5,
@@ -1058,7 +1150,8 @@
           "plays": 210000,
           "playsText": "210K plays",
           "duration": 227,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "搖擺頭"
         },
         {
           "index": 6,
@@ -1068,7 +1161,8 @@
           "plays": 2300000,
           "playsText": "2.3M plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "偶爾"
         },
         {
           "index": 7,
@@ -1078,7 +1172,8 @@
           "plays": 70000,
           "playsText": "70K plays",
           "duration": 295,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我要你的"
         },
         {
           "index": 8,
@@ -1088,7 +1183,8 @@
           "plays": 160000,
           "playsText": "160K plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "尋找愛蜜莉"
         },
         {
           "index": 9,
@@ -1098,7 +1194,8 @@
           "plays": 222000,
           "playsText": "222K plays",
           "duration": 259,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "再快樂一點"
         },
         {
           "index": 10,
@@ -1108,7 +1205,8 @@
           "plays": 943000,
           "playsText": "943K plays",
           "duration": 181,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "istartedajoke"
         }
       ],
       "releaseDate": "2009-09-25",
@@ -1133,7 +1231,8 @@
           "plays": 119000,
           "playsText": "119K plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "城市之窗"
         }
       ],
       "releaseDate": null,
@@ -1158,7 +1257,8 @@
           "plays": 3600000,
           "playsText": "3.6M plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "thatgirl"
         },
         {
           "index": 2,
@@ -1168,7 +1268,8 @@
           "plays": 55000000,
           "playsText": "55M plays",
           "duration": 205,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "淋雨一直走"
         },
         {
           "index": 3,
@@ -1178,7 +1279,8 @@
           "plays": 11000000,
           "playsText": "11M plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "最近好嗎"
         },
         {
           "index": 4,
@@ -1188,7 +1290,8 @@
           "plays": 14000000,
           "playsText": "14M plays",
           "duration": 217,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "有形的翅膀"
         },
         {
           "index": 5,
@@ -1198,7 +1301,8 @@
           "plays": 803000,
           "playsText": "803K plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我沒改變"
         },
         {
           "index": 6,
@@ -1208,7 +1312,8 @@
           "plays": 380000,
           "playsText": "380K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "講不聽"
         },
         {
           "index": 7,
@@ -1218,7 +1323,8 @@
           "plays": 282000,
           "playsText": "282K plays",
           "duration": 285,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "honesty"
         },
         {
           "index": 8,
@@ -1228,7 +1334,8 @@
           "plays": 505000,
           "playsText": "505K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ifimtheoneforyou"
         },
         {
           "index": 9,
@@ -1238,7 +1345,8 @@
           "plays": 258000,
           "playsText": "258K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "王子病"
         },
         {
           "index": 10,
@@ -1248,7 +1356,8 @@
           "plays": 77000,
           "playsText": "77K plays",
           "duration": 202,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "兄弟姐妹"
         },
         {
           "index": 11,
@@ -1258,7 +1367,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "是我"
         }
       ],
       "releaseDate": "2012-10-12",
@@ -1283,7 +1393,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ok蹦"
         },
         {
           "index": 2,
@@ -1293,7 +1404,8 @@
           "plays": 590000,
           "playsText": "590K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "為愛而活#live"
         },
         {
           "index": 3,
@@ -1303,7 +1415,8 @@
           "plays": 1000000,
           "playsText": "1M plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我的眼淚"
         },
         {
           "index": 4,
@@ -1313,7 +1426,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 234,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "陽光空氣"
         },
         {
           "index": 5,
@@ -1323,7 +1437,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 300,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛沒有錯"
         },
         {
           "index": 6,
@@ -1333,7 +1448,8 @@
           "plays": 364000,
           "playsText": "364K plays",
           "duration": 268,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛旅行的人"
         },
         {
           "index": 7,
@@ -1343,7 +1459,8 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 194,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "愛磁場"
         },
         {
           "index": 8,
@@ -1353,7 +1470,8 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 267,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "討好"
         },
         {
           "index": 9,
@@ -1363,7 +1481,8 @@
           "plays": 427000,
           "playsText": "427K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "刺情"
         },
         {
           "index": 10,
@@ -1373,7 +1492,8 @@
           "plays": 112000,
           "playsText": "112K plays",
           "duration": 189,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "活在此刻#live"
         },
         {
           "index": 11,
@@ -1383,13 +1503,15 @@
           "plays": 132000,
           "playsText": "132K plays",
           "duration": 207,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "neverforgetyou"
         }
       ],
       "releaseDate": "2014-03-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "titleZh": "張韶涵"
     },
     {
       "browseId": "MPREb_8HC7zk80Gq1",
@@ -1408,7 +1530,8 @@
           "plays": 499000,
           "playsText": "499K plays",
           "duration": 282,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "完整愛"
         }
       ],
       "releaseDate": "2014-05-27",
@@ -1433,7 +1556,8 @@
           "plays": 1400000,
           "playsText": "1.4M plays",
           "duration": 203,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "ok蹦"
         }
       ],
       "releaseDate": null,
@@ -1458,7 +1582,8 @@
           "plays": 590000,
           "playsText": "590K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "為愛而活"
         }
       ],
       "releaseDate": null,
@@ -1483,7 +1608,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不害怕"
         },
         {
           "index": 2,
@@ -1493,7 +1619,9 @@
           "plays": 3500000,
           "playsText": "3.5M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "第一頁",
+          "nameKey": "第一頁"
         },
         {
           "index": 3,
@@ -1503,7 +1631,9 @@
           "plays": 3300000,
           "playsText": "3.3M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "再見之前",
+          "nameKey": "再見之前"
         },
         {
           "index": 4,
@@ -1513,7 +1643,9 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "終於",
+          "nameKey": "終於"
         },
         {
           "index": 5,
@@ -1523,7 +1655,9 @@
           "plays": 513000,
           "playsText": "513K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "不後悔",
+          "nameKey": "不後悔"
         },
         {
           "index": 6,
@@ -1533,7 +1667,8 @@
           "plays": 96000,
           "playsText": "96K plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘了"
         },
         {
           "index": 7,
@@ -1543,7 +1678,8 @@
           "plays": 156000,
           "playsText": "156K plays",
           "duration": 193,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "go"
         },
         {
           "index": 8,
@@ -1553,7 +1689,9 @@
           "plays": 4400000,
           "playsText": "4.4M plays",
           "duration": 202,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "全面淪陷",
+          "nameKey": "全面淪陷"
         },
         {
           "index": 9,
@@ -1563,7 +1701,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "把你信仰"
         },
         {
           "index": 10,
@@ -1573,7 +1712,9 @@
           "plays": 556000,
           "playsText": "556K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "還記得嗎 （絃樂版）",
+          "nameKey": "還記得嗎"
         },
         {
           "index": 11,
@@ -1583,7 +1724,9 @@
           "plays": 408000,
           "playsText": "408K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "還記得嗎",
+          "nameKey": "還記得嗎"
         },
         {
           "index": 12,
@@ -1593,7 +1736,9 @@
           "plays": 408000,
           "playsText": "408K plays",
           "duration": 221,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "還記得嗎（歌迷版）",
+          "nameKey": "還記得嗎"
         }
       ],
       "releaseDate": "2016-07-21",
@@ -1618,7 +1763,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不害怕"
         },
         {
           "index": 2,
@@ -1628,7 +1774,8 @@
           "plays": 3500000,
           "playsText": "3.5M plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "第一頁"
         },
         {
           "index": 3,
@@ -1638,7 +1785,8 @@
           "plays": 3300000,
           "playsText": "3.3M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "再見之前"
         },
         {
           "index": 4,
@@ -1648,7 +1796,8 @@
           "plays": 2000000,
           "playsText": "2M plays",
           "duration": 276,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "終於"
         },
         {
           "index": 5,
@@ -1658,7 +1807,8 @@
           "plays": 513000,
           "playsText": "513K plays",
           "duration": 225,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不後悔"
         },
         {
           "index": 6,
@@ -1668,7 +1818,8 @@
           "plays": 96000,
           "playsText": "96K plays",
           "duration": 242,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "忘了"
         },
         {
           "index": 7,
@@ -1678,7 +1829,8 @@
           "plays": 156000,
           "playsText": "156K plays",
           "duration": 193,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "go"
         },
         {
           "index": 8,
@@ -1688,7 +1840,8 @@
           "plays": 4400000,
           "playsText": "4.4M plays",
           "duration": 202,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "全面淪陷"
         },
         {
           "index": 9,
@@ -1698,7 +1851,8 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 306,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "把你信仰"
         },
         {
           "index": 10,
@@ -1708,7 +1862,8 @@
           "plays": 556000,
           "playsText": "556K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "還記得嗎"
         },
         {
           "index": 11,
@@ -1718,7 +1873,8 @@
           "plays": 408000,
           "playsText": "408K plays",
           "duration": 222,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "還記得嗎"
         }
       ],
       "releaseDate": "2016-07-21",
@@ -1743,7 +1899,8 @@
           "plays": 4600000,
           "playsText": "4.6M plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "不害怕"
         }
       ],
       "releaseDate": null,
@@ -1768,7 +1925,8 @@
           "plays": 3300000,
           "playsText": "3.3M plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "再見之前"
         }
       ],
       "releaseDate": null,
@@ -1793,7 +1951,8 @@
           "plays": 698000,
           "playsText": "698K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "傳世之愛"
         }
       ],
       "releaseDate": "2017-11-01",
@@ -1818,7 +1977,8 @@
           "plays": 546000,
           "playsText": "546K plays",
           "duration": 274,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "引路的風箏"
         },
         {
           "index": 2,
@@ -1828,7 +1988,8 @@
           "plays": 372000,
           "playsText": "372K plays",
           "duration": 248,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "還"
         },
         {
           "index": 3,
@@ -1838,7 +1999,8 @@
           "plays": 1100000,
           "playsText": "1.1M plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "因我而起"
         },
         {
           "index": 4,
@@ -1848,7 +2010,8 @@
           "plays": 13000,
           "playsText": "13K plays",
           "duration": 247,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "給還沒出現的你"
         },
         {
           "index": 5,
@@ -1858,7 +2021,8 @@
           "plays": 4400,
           "playsText": "4.4K plays",
           "duration": 243,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "別"
         },
         {
           "index": 6,
@@ -1868,7 +2032,8 @@
           "plays": 7800,
           "playsText": "7.8K plays",
           "duration": 229,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "作勢裝腔"
         },
         {
           "index": 7,
@@ -1878,7 +2043,8 @@
           "plays": 599000,
           "playsText": "599K plays",
           "duration": 260,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "無度"
         },
         {
           "index": 8,
@@ -1888,7 +2054,8 @@
           "plays": 7000,
           "playsText": "7K plays",
           "duration": 238,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "常"
         },
         {
           "index": 9,
@@ -1898,7 +2065,8 @@
           "plays": 250000,
           "playsText": "250K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "我"
         },
         {
           "index": 10,
@@ -1908,7 +2076,8 @@
           "plays": 25000,
           "playsText": "25K plays",
           "duration": 271,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "河"
         }
       ],
       "releaseDate": null,
@@ -1933,7 +2102,9 @@
           "plays": 45000000,
           "playsText": "45M plays",
           "duration": 212,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "破繭",
+          "nameKey": "破繭"
         }
       ],
       "releaseDate": "2020-05-01",
@@ -1958,7 +2129,9 @@
           "plays": 370000,
           "playsText": "370K plays",
           "duration": 199,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "決鬥場見",
+          "nameKey": "決鬥場見"
         }
       ],
       "releaseDate": "2020-07-01",
@@ -1983,7 +2156,8 @@
           "plays": 106000,
           "playsText": "106K plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "光芒"
         }
       ],
       "releaseDate": "2020-10-01",
@@ -2008,7 +2182,9 @@
           "plays": 1600000,
           "playsText": "1.6M plays",
           "duration": 188,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "魔鏡裡的童話",
+          "nameKey": "魔鏡裡的童話"
         }
       ],
       "releaseDate": "2021-12-01",
@@ -2033,7 +2209,8 @@
           "plays": 50000,
           "playsText": "50K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "相擁各自不完整"
         },
         {
           "index": 2,
@@ -2043,7 +2220,8 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 247,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "星空穹頂"
         },
         {
           "index": 3,
@@ -2053,7 +2231,8 @@
           "plays": 282,
           "playsText": "282 plays",
           "duration": 165,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "惘惜"
         },
         {
           "index": 4,
@@ -2063,7 +2242,8 @@
           "plays": 295,
           "playsText": "295 plays",
           "duration": 268,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "離開"
         },
         {
           "index": 5,
@@ -2073,7 +2253,8 @@
           "plays": 109,
           "playsText": "109 plays",
           "duration": 35,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "酒館"
         },
         {
           "index": 6,
@@ -2083,7 +2264,8 @@
           "plays": 86,
           "playsText": "86 plays",
           "duration": 276,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "sleepinuniverse"
         },
         {
           "index": 7,
@@ -2093,7 +2275,8 @@
           "plays": 93,
           "playsText": "93 plays",
           "duration": 375,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "將來"
         },
         {
           "index": 8,
@@ -2103,7 +2286,8 @@
           "plays": 86,
           "playsText": "86 plays",
           "duration": 267,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "斬"
         },
         {
           "index": 9,
@@ -2113,7 +2297,8 @@
           "plays": 52,
           "playsText": "52 plays",
           "duration": 264,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "追"
         },
         {
           "index": 10,
@@ -2123,7 +2308,8 @@
           "plays": 53,
           "playsText": "53 plays",
           "duration": 223,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "潛"
         },
         {
           "index": 11,
@@ -2133,7 +2319,8 @@
           "plays": 40,
           "playsText": "40 plays",
           "duration": 237,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "begin"
         },
         {
           "index": 12,
@@ -2143,7 +2330,8 @@
           "plays": 31,
           "playsText": "31 plays",
           "duration": 218,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "何方"
         },
         {
           "index": 13,
@@ -2153,7 +2341,8 @@
           "plays": 79,
           "playsText": "79 plays",
           "duration": 235,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "最後的戰場"
         }
       ],
       "releaseDate": null,
@@ -2178,7 +2367,8 @@
           "plays": 50000,
           "playsText": "50K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "相擁各自不完整"
         },
         {
           "index": 2,
@@ -2188,7 +2378,8 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 247,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "星空穹頂"
         }
       ],
       "releaseDate": null,
@@ -2213,7 +2404,9 @@
           "plays": 86000,
           "playsText": "86K plays",
           "duration": 202,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "飛火",
+          "nameKey": "飛火"
         }
       ],
       "releaseDate": "2022-04-01",
@@ -2238,7 +2431,9 @@
           "plays": 172000,
           "playsText": "172K plays",
           "duration": 181,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "衝破",
+          "nameKey": "衝破"
         }
       ],
       "releaseDate": "2022-07-01",
@@ -2263,7 +2458,8 @@
           "plays": 45000,
           "playsText": "45K plays",
           "duration": 221,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "空之要塞"
         }
       ],
       "releaseDate": "2022-10-01",
@@ -2288,7 +2484,9 @@
           "plays": 502000,
           "playsText": "502K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "獸",
+          "nameKey": "獸"
         },
         {
           "index": 2,
@@ -2298,7 +2496,9 @@
           "plays": 2400,
           "playsText": "2.4K plays",
           "duration": 249,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "獸 (伴奏)",
+          "nameKey": "獸"
         },
         {
           "index": 3,
@@ -2308,7 +2508,9 @@
           "plays": 1700,
           "playsText": "1.7K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "獸 (和聲伴奏)",
+          "nameKey": "獸"
         }
       ],
       "releaseDate": "2023-09-01",
@@ -2333,7 +2535,9 @@
           "plays": 54000,
           "playsText": "54K plays",
           "duration": 237,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "牽手 (Live)",
+          "nameKey": "牽手#live"
         },
         {
           "index": 2,
@@ -2343,7 +2547,8 @@
           "plays": 559000,
           "playsText": "559K plays",
           "duration": 258,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "天黑黑#live"
         },
         {
           "index": 3,
@@ -2353,7 +2558,9 @@
           "plays": 187000,
           "playsText": "187K plays",
           "duration": 317,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "沒那麼簡單 (Live)",
+          "nameKey": "沒那麼簡單#live"
         },
         {
           "index": 4,
@@ -2363,7 +2570,9 @@
           "plays": 657000,
           "playsText": "657K plays",
           "duration": 214,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "夢醒時分 (Live)",
+          "nameKey": "夢醒時分#live"
         },
         {
           "index": 5,
@@ -2373,7 +2582,9 @@
           "plays": 102000,
           "playsText": "102K plays",
           "duration": 280,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "讓我歡喜讓我憂 (Live)",
+          "nameKey": "讓我歡喜讓我憂#live"
         },
         {
           "index": 6,
@@ -2383,7 +2594,8 @@
           "plays": 109000,
           "playsText": "109K plays",
           "duration": 232,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "味道#live"
         }
       ],
       "releaseDate": null,
@@ -2408,7 +2620,9 @@
           "plays": 118000,
           "playsText": "118K plays",
           "duration": 192,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "戀曲1980 (Live)",
+          "nameKey": "戀曲1980#live"
         },
         {
           "index": 2,
@@ -2418,7 +2632,9 @@
           "plays": 111000,
           "playsText": "111K plays",
           "duration": 181,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "鹿港小鎮 (Live)",
+          "nameKey": "鹿港小鎮#live"
         },
         {
           "index": 3,
@@ -2428,7 +2644,9 @@
           "plays": 34000,
           "playsText": "34K plays",
           "duration": 158,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "娜魯灣情歌 (Live)",
+          "nameKey": "娜魯灣情歌#live"
         },
         {
           "index": 4,
@@ -2438,7 +2656,8 @@
           "plays": 367000,
           "playsText": "367K plays",
           "duration": 249,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "你啊你啊#live"
         },
         {
           "index": 5,
@@ -2448,7 +2667,9 @@
           "plays": 268000,
           "playsText": "268K plays",
           "duration": 240,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "你的樣子 (Live)",
+          "nameKey": "你的樣子#live"
         },
         {
           "index": 6,
@@ -2458,7 +2679,9 @@
           "plays": 74000,
           "playsText": "74K plays",
           "duration": 254,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "我是真的愛你 (Live)",
+          "nameKey": "我是真的愛你#live"
         },
         {
           "index": 7,
@@ -2468,7 +2691,9 @@
           "plays": 242000,
           "playsText": "242K plays",
           "duration": 181,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "心願便利貼 (Live)",
+          "nameKey": "心願便利貼#live"
         },
         {
           "index": 8,
@@ -2478,7 +2703,9 @@
           "plays": 95000,
           "playsText": "95K plays",
           "duration": 289,
-          "byOther": false
+          "byOther": true,
+          "titleZh": "遺失的美好 (Live)",
+          "nameKey": "遺失的美好#live"
         }
       ],
       "releaseDate": null,
@@ -2503,7 +2730,9 @@
           "plays": 2600000,
           "playsText": "2.6M plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "無名的人 (電影《雄獅少年2》主題曲/片尾曲)",
+          "nameKey": "無名的人"
         },
         {
           "index": 2,
@@ -2513,7 +2742,9 @@
           "plays": 20000,
           "playsText": "20K plays",
           "duration": 266,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "無名的人 (伴奏)",
+          "nameKey": "無名的人"
         }
       ],
       "releaseDate": "2024-12-01",
@@ -2538,7 +2769,9 @@
           "plays": 219000,
           "playsText": "219K plays",
           "duration": 194,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "十分鐘",
+          "nameKey": "10分鐘"
         },
         {
           "index": 2,
@@ -2548,7 +2781,8 @@
           "plays": 166000,
           "playsText": "166K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "麻瓜"
         },
         {
           "index": 3,
@@ -2558,7 +2792,8 @@
           "plays": 51000,
           "playsText": "51K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "幽作"
         },
         {
           "index": 4,
@@ -2568,7 +2803,8 @@
           "plays": 53000,
           "playsText": "53K plays",
           "duration": 191,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一秒回神"
         },
         {
           "index": 5,
@@ -2578,7 +2814,8 @@
           "plays": 56000,
           "playsText": "56K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "玩具"
         }
       ],
       "releaseDate": "2024-12-27",
@@ -2603,7 +2840,9 @@
           "plays": 220000,
           "playsText": "220K plays",
           "duration": 194,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "十分鐘",
+          "nameKey": "10分鐘"
         },
         {
           "index": 2,
@@ -2613,7 +2852,8 @@
           "plays": 27000,
           "playsText": "27K plays",
           "duration": 245,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "麻瓜"
         },
         {
           "index": 3,
@@ -2623,7 +2863,8 @@
           "plays": 51000,
           "playsText": "51K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "幽作"
         },
         {
           "index": 4,
@@ -2633,7 +2874,8 @@
           "plays": 53000,
           "playsText": "53K plays",
           "duration": 191,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "一秒回神"
         },
         {
           "index": 5,
@@ -2643,7 +2885,8 @@
           "plays": 56000,
           "playsText": "56K plays",
           "duration": 287,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "玩具"
         },
         {
           "index": 6,
@@ -2653,7 +2896,9 @@
           "plays": 24000,
           "playsText": "24K plays",
           "duration": 219,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "蜂擁而至",
+          "nameKey": "蜂擁而至"
         },
         {
           "index": 7,
@@ -2663,7 +2908,8 @@
           "plays": 33000,
           "playsText": "33K plays",
           "duration": 250,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "演算的浪漫"
         },
         {
           "index": 8,
@@ -2673,7 +2919,9 @@
           "plays": 41000,
           "playsText": "41K plays",
           "duration": 256,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "離線",
+          "nameKey": "離線"
         },
         {
           "index": 9,
@@ -2683,7 +2931,9 @@
           "plays": 164000,
           "playsText": "164K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "覓光",
+          "nameKey": "覓光"
         },
         {
           "index": 10,
@@ -2693,7 +2943,8 @@
           "plays": 376000,
           "playsText": "376K plays",
           "duration": 294,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "大小孩"
         }
       ],
       "releaseDate": "2024-12-27",
@@ -2718,7 +2969,9 @@
           "plays": 220000,
           "playsText": "220K plays",
           "duration": 194,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "十分鐘",
+          "nameKey": "10分鐘"
         }
       ],
       "releaseDate": null,
@@ -2743,7 +2996,9 @@
           "plays": 33000000,
           "playsText": "33M plays",
           "duration": 182,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "暮色迴響 (電影《默殺》推廣曲)",
+          "nameKey": "暮色迴響"
         }
       ],
       "releaseDate": null,
@@ -2768,7 +3023,9 @@
           "plays": 33000000,
           "playsText": "33M plays",
           "duration": 182,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "暮色迴響（電影《默殺》推廣曲）",
+          "nameKey": "暮色迴響"
         }
       ],
       "releaseDate": null,
@@ -2793,7 +3050,8 @@
           "plays": 14000000,
           "playsText": "14M plays",
           "duration": 202,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "有形的翅膀"
         }
       ],
       "releaseDate": null,
@@ -2818,7 +3076,9 @@
           "plays": 164000,
           "playsText": "164K plays",
           "duration": 272,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "覓光",
+          "nameKey": "覓光"
         }
       ],
       "releaseDate": null,
@@ -2843,7 +3103,9 @@
           "plays": 137000,
           "playsText": "137K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "折斷玫瑰 (電影《匿殺》推廣曲)",
+          "nameKey": "折斷玫瑰"
         },
         {
           "index": 2,
@@ -2853,7 +3115,9 @@
           "plays": 5400,
           "playsText": "5.4K plays",
           "duration": 232,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "折斷玫瑰 (伴奏)",
+          "nameKey": "折斷玫瑰"
         }
       ],
       "releaseDate": null,

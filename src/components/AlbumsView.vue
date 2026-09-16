@@ -98,7 +98,12 @@ const albums = computed(() => {
   grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
   gap: 16px;
 }
+/* 卡片是 <button>，瀏覽器預設把內容垂直置中；同一列高度不同時照片會高低不齊，所以改成從上往下排 */
 .album {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
   padding: 0;
   overflow: hidden;
   text-align: left;

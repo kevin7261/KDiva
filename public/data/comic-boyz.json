@@ -8,7 +8,8 @@
     "name": "Comic Boyz",
     "thumbnail": "https://yt3.googleusercontent.com/dcch4mUS-FME-DmvLZkoOq_qlkMot5wDwHlpIm3GRFdcxxshoBIlxSkJQ2xsElmK2opn8XEX2W5S7YRf1g=w1425-h593-p-l90-rj",
     "subscribers": 263,
-    "monthlyAudience": null
+    "monthlyAudience": null,
+    "avatar": "https://yt3.googleusercontent.com/MsLnzZt3TWdoa_AeDc3LhKmQwvSM_Vr1NZaKOfqSAnmA8wyBBYvWgV9h0_M8LGJKT0ZN3AwSfw=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
     {
@@ -28,7 +29,8 @@
           "plays": 450000,
           "playsText": "450K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "heyhah"
         },
         {
           "index": 2,
@@ -38,7 +40,9 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 257,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "求愛復刻版",
+          "nameKey": "求愛復刻版"
         },
         {
           "index": 3,
@@ -48,7 +52,9 @@
           "plays": 148000,
           "playsText": "148K plays",
           "duration": 258,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "超人心",
+          "nameKey": "超人心"
         },
         {
           "index": 4,
@@ -58,7 +64,8 @@
           "plays": 3800,
           "playsText": "3.8K plays",
           "duration": 314,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "最重要的你"
         },
         {
           "index": 5,
@@ -68,7 +75,9 @@
           "plays": 22000,
           "playsText": "22K plays",
           "duration": 296,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "我忍住哭",
+          "nameKey": "我忍住哭"
         },
         {
           "index": 6,
@@ -78,7 +87,9 @@
           "plays": 80000,
           "playsText": "80K plays",
           "duration": 191,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "喜歡你",
+          "nameKey": "喜歡你"
         },
         {
           "index": 7,
@@ -88,7 +99,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 225,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "bluemiracle"
         },
         {
           "index": 8,
@@ -98,7 +110,8 @@
           "plays": 5800,
           "playsText": "5.8K plays",
           "duration": 245,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "青春無敵"
         },
         {
           "index": 9,
@@ -108,7 +121,8 @@
           "plays": 1600,
           "playsText": "1.6K plays",
           "duration": 241,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "xiangxin"
         },
         {
           "index": 10,
@@ -118,7 +132,9 @@
           "plays": 156000,
           "playsText": "156K plays",
           "duration": 258,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "青春無敵",
+          "nameKey": "青春無敵"
         },
         {
           "index": 11,
@@ -128,7 +144,8 @@
           "plays": 2300,
           "playsText": "2.3K plays",
           "duration": 330,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "heyhah"
         },
         {
           "index": 12,
@@ -138,13 +155,15 @@
           "plays": 3300,
           "playsText": "3.3K plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "heyhah"
         }
       ],
       "releaseDate": "2002-11-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "Hey Hah! 可米小子"
+      "wikiTitle": "Hey Hah! 可米小子",
+      "titleZh": "Hey Hah! 可米小子"
     },
     {
       "browseId": "MPREb_w8JLz7A3iWf",
@@ -163,7 +182,8 @@
           "plays": 58000,
           "playsText": "58K plays",
           "duration": 207,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "number2"
         },
         {
           "index": 2,
@@ -173,7 +193,8 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 311,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "qingchunjiniece"
         },
         {
           "index": 3,
@@ -183,7 +204,9 @@
           "plays": 333000,
           "playsText": "333K plays",
           "duration": 239,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "紅蜻蜓",
+          "nameKey": "紅蜻蜓"
         },
         {
           "index": 4,
@@ -193,7 +216,9 @@
           "plays": 69000,
           "playsText": "69K plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "花季",
+          "nameKey": "花季"
         },
         {
           "index": 5,
@@ -203,7 +228,8 @@
           "plays": 1200,
           "playsText": "1.2K plays",
           "duration": 304,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "ta"
         },
         {
           "index": 6,
@@ -213,7 +239,8 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 217,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "holdmeclose"
         },
         {
           "index": 7,
@@ -223,7 +250,8 @@
           "plays": 1100,
           "playsText": "1.1K plays",
           "duration": 187,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "wotaoyan"
         },
         {
           "index": 8,
@@ -233,7 +261,8 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "wodeyemannuyou"
         },
         {
           "index": 9,
@@ -243,7 +272,8 @@
           "plays": 1500,
           "playsText": "1.5K plays",
           "duration": 250,
-          "byOther": true
+          "byOther": true,
+          "nameKey": "愛的入場券"
         },
         {
           "index": 10,
@@ -253,7 +283,8 @@
           "plays": null,
           "playsText": null,
           "duration": 210,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "aixiangshema"
         }
       ],
       "releaseDate": null,
@@ -278,7 +309,9 @@
           "plays": 70000,
           "playsText": "70K plays",
           "duration": 223,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "愛情不用翻譯",
+          "nameKey": "愛情不用翻譯"
         },
         {
           "index": 2,
@@ -288,7 +321,9 @@
           "plays": 62000,
           "playsText": "62K plays",
           "duration": 226,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "好奇無上限",
+          "nameKey": "好奇無上限"
         },
         {
           "index": 3,
@@ -298,7 +333,8 @@
           "plays": 450000,
           "playsText": "450K plays",
           "duration": 235,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "heyhah"
         },
         {
           "index": 4,
@@ -308,7 +344,9 @@
           "plays": 1300000,
           "playsText": "1.3M plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "求愛復刻版",
+          "nameKey": "求愛復刻版"
         },
         {
           "index": 5,
@@ -318,7 +356,9 @@
           "plays": 333000,
           "playsText": "333K plays",
           "duration": 240,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "紅蜻蜓",
+          "nameKey": "紅蜻蜓"
         },
         {
           "index": 6,
@@ -328,7 +368,9 @@
           "plays": 22000,
           "playsText": "22K plays",
           "duration": 292,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "我忍住哭",
+          "nameKey": "我忍住哭"
         },
         {
           "index": 7,
@@ -338,7 +380,9 @@
           "plays": 69000,
           "playsText": "69K plays",
           "duration": 252,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "花季",
+          "nameKey": "花季"
         },
         {
           "index": 8,
@@ -348,7 +392,9 @@
           "plays": 148000,
           "playsText": "148K plays",
           "duration": 256,
-          "byOther": true
+          "byOther": true,
+          "titleZh": "超人心",
+          "nameKey": "超人心"
         },
         {
           "index": 9,
@@ -358,7 +404,8 @@
           "plays": 58000,
           "playsText": "58K plays",
           "duration": 207,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "number2"
         },
         {
           "index": 10,
@@ -368,7 +415,8 @@
           "plays": 37000,
           "playsText": "37K plays",
           "duration": 216,
-          "byOther": false
+          "byOther": false,
+          "nameKey": "holdmeclose"
         },
         {
           "index": 11,
@@ -378,7 +426,9 @@
           "plays": 156000,
           "playsText": "156K plays",
           "duration": 254,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "青春無敵",
+          "nameKey": "青春無敵"
         },
         {
           "index": 12,
@@ -388,7 +438,9 @@
           "plays": 80000,
           "playsText": "80K plays",
           "duration": 187,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "喜歡你",
+          "nameKey": "喜歡你"
         },
         {
           "index": 13,
@@ -398,7 +450,9 @@
           "plays": 26000,
           "playsText": "26K plays",
           "duration": 230,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "我的野蠻女友",
+          "nameKey": "我的野蠻女友"
         },
         {
           "index": 14,
@@ -408,7 +462,9 @@
           "plays": 2100000,
           "playsText": "2.1M plays",
           "duration": 313,
-          "byOther": false
+          "byOther": false,
+          "titleZh": "青春紀念冊",
+          "nameKey": "青春紀念冊"
         }
       ],
       "releaseDate": "2005-01-21",

@@ -132,7 +132,9 @@ export function buildModel(raw, artistConfig = {}) {
     const group = live ? `live:${key}` : song.nameKey
     const into = merged.get(group)
     if (!into) {
-      merged.set(group, { ...song, id: key, versions: 1 })
+      // 演唱會專輯裡沒標 Live 的曲目，顯示時補上，才分得出和錄音室版本不同
+      const name = live && !LIVE_RE.test(song.name) ? `${song.name} (Live)` : song.name
+      merged.set(group, { ...song, name, id: key, versions: 1 })
     } else {
       into.plays = into.plays == null && song.plays == null ? null : (into.plays ?? 0) + (song.plays ?? 0)
       into.appearsOn = [...new Set([...into.appearsOn, ...song.appearsOn])].sort(byOrigin)
