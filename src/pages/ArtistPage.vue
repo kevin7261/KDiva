@@ -289,6 +289,8 @@ h1 span {
   gap: 4px;
   margin: 28px 0 18px;
   border-bottom: 1px solid var(--grid);
+  overflow-x: auto;
+  scrollbar-width: none;
 }
 .tabs button {
   border: 0;
@@ -298,7 +300,7 @@ h1 span {
   font-size: 15px;
   color: var(--text-secondary);
   border-bottom: 2px solid transparent;
-  margin-bottom: -1px;
+  white-space: nowrap;
 }
 .tabs button.on {
   color: var(--text-primary);

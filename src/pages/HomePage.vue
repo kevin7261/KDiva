@@ -349,11 +349,13 @@ h1 {
   padding: 8px 0 0;
   border-top: 1px solid var(--grid);
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 3px;
   font-size: 13.5px;
 }
 .top li {
   display: flex;
+  min-width: 0;
   justify-content: space-between;
   gap: 8px;
 }

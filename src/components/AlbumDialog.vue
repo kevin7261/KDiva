@@ -102,7 +102,7 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
 }
 .head {
   display: grid;
-  grid-template-columns: 150px 1fr;
+  grid-template-columns: 150px minmax(0, 1fr);
   gap: 20px;
   align-items: end;
   margin-bottom: 18px;
@@ -204,7 +204,7 @@ a.name:hover {
     padding: 18px 14px;
   }
   .head {
-    grid-template-columns: 96px 1fr;
+    grid-template-columns: 96px minmax(0, 1fr);
     gap: 14px;
   }
   .head img {

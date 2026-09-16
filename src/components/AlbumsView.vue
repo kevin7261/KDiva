@@ -118,6 +118,7 @@ const albums = computed(() => {
 .meta {
   padding: 12px 14px 14px;
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 2px;
 }
 .title {
