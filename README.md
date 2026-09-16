@@ -1,8 +1,8 @@
 # KDiva｜華語天后播放數
 
-用 Vue 3 + Vite 做的網頁，比較許茹芸、辛曉琪、張惠妹、蔡健雅、蔡依林在 YouTube Music 上每首歌的播放數，專輯依 Wikipedia 的原始發行日期排序。
+用 Vue 3 + Vite 做的網頁，比較 19 位華語女歌手在 YouTube Music 上每首歌的播放數（依出道日期排列：齊豫、潘越雲、張清芳、林憶蓮、辛曉琪、那英、王菲、萬芳、許茹芸、張惠妹、蔡健雅、陳綺貞、蔡依林、梁靜茹、戴佩妮、田馥甄、A-Lin、徐佳瑩、9m88），專輯依 Wikipedia 的原始發行日期排序。
 
-- 首頁 `#/`：五位歌手累計播放、每月觀眾、合併的熱門 20 首
+- 首頁 `#/`：各歌手累計播放、每月觀眾、合併的熱門 20 首
 - 歌手頁 `#/artist/<slug>`：總覽圖表、專輯牆（點開看曲目）、全部歌曲表（搜尋／排序／匯出 CSV）
 
 ## 使用
@@ -25,7 +25,7 @@ npm run fetch-data -- a-mei jolin-tsai   # 指定歌手（slug 見 src/artists.j
 
 ## 新增歌手
 
-在 `src/artists.js` 加一筆：YouTube Music 藝人頻道 ID（`music.youtube.com/channel/UC…`）與中文 Wikipedia 條目名稱，然後 `npm run fetch-data -- <slug>`。首頁文案「五位天后」在 `src/pages/HomePage.vue`。
+在 `src/artists.js` 依出道日期插入一筆：YouTube Music 藝人頻道 ID（`music.youtube.com/channel/UC…`）、中文 Wikipedia 條目名稱與出道日期（`debut`），然後 `npm run fetch-data -- <slug>`。首頁標題的人數會自動跟著清單變。
 
 ## 資料怎麼來
 

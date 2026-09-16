@@ -195,15 +195,20 @@ const tabs = [
 }
 .topbar {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 12px;
   margin-bottom: 48px;
 }
+/* 歌手多，獨佔一列並換行；手機改成橫向捲動 */
 .switcher {
+  order: 3;
+  width: 100%;
   display: flex;
+  flex-wrap: wrap;
   gap: 2px;
   padding: 3px;
-  border-radius: 999px;
+  border-radius: 20px;
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(6px);
   overflow-x: auto;
@@ -326,12 +331,11 @@ h1 span {
 }
 @media (max-width: 720px) {
   .topbar {
-    flex-wrap: wrap;
     margin-bottom: 32px;
   }
   .switcher {
-    order: 3;
-    width: 100%;
+    flex-wrap: nowrap;
+    border-radius: 999px;
   }
   .hero-inner {
     padding-left: 16px;

@@ -25,6 +25,14 @@ const grandTotal = computed(() => loaded.value.reduce((n, e) => n + e.model.tota
 const songTotal = computed(() => loaded.value.reduce((n, e) => n + e.model.songs.length, 0))
 const latestFetch = computed(() => loaded.value.map((e) => e.model.fetchedAt).sort().at(-1))
 
+// 19 → 十九；首頁標題用
+const zhNumber = (n) => {
+  const d = '零一二三四五六七八九'
+  if (n < 10) return d[n]
+  return `${n >= 20 ? d[Math.floor(n / 10)] : ''}十${n % 10 ? d[n % 10] : ''}`
+}
+const artistCount = zhNumber(ARTISTS.length)
+
 const goArtist = (slug) => router.push(`/artist/${slug}`)
 
 const totalRows = computed(() =>
@@ -68,12 +76,10 @@ const topSongs = computed(() =>
     })),
 )
 
-// 各歌手作品橫跨的年份與代表作
+// 各歌手的錄音室專輯數與代表作
 const cardInfo = ({ model }) => {
-  const years = model.albums.map((a) => a.displayYear).filter(Boolean)
   const studio = model.albums.filter((a) => a.type === 'Album' && !a.isCompilation && !a.isReissue).length
   return {
-    span: years.length ? `${Math.min(...years)}–${Math.max(...years)}` : '',
     studio,
     top: model.songs.slice(0, 3),
   }
@@ -116,8 +122,8 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
             <ThemeToggle />
           </div>
         </div>
-        <p class="eyebrow">華語天后 · YouTube Music 播放數據</p>
-        <h1>五位天后，<br class="br" />{{ songTotal ? `${songTotal} 首歌` : '所有歌曲' }}的播放紀錄</h1>
+        <p class="eyebrow">華語天后 · YouTube Music 播放數據 · 依出道日期排列</p>
+        <h1>{{ artistCount }}位天后，<br class="br" />{{ songTotal ? `${songTotal} 首歌` : '所有歌曲' }}的播放紀錄</h1>
         <div v-if="loaded.length" class="hero-number">
           <span class="figure">{{ formatCount(grandTotal) }}</span>
           <span class="caption">合計播放次數</span>
@@ -141,7 +147,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
           >
             <div class="banner-text">
               <div class="name">{{ entry.artist.name }}</div>
-              <div class="en">{{ entry.artist.en }}</div>
+              <div v-if="entry.artist.en" class="en">{{ entry.artist.en }}</div>
             </div>
           </div>
           <div v-if="entry.model" class="body">
@@ -150,7 +156,9 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
               <span class="muted small">次播放</span>
             </div>
             <div class="muted small">
-              {{ cardInfo(entry).span }} · {{ entry.model.songs.length }} 首 · 錄音室專輯 {{ cardInfo(entry).studio }} 張
+              <span class="nowrap">{{ entry.artist.debut.slice(0, 4) }} 出道</span> ·
+              <span class="nowrap">{{ entry.model.songs.length }} 首</span> ·
+              <span class="nowrap">錄音室專輯 {{ cardInfo(entry).studio }} 張</span>
             </div>
             <ol class="top">
               <li v-for="s in cardInfo(entry).top" :key="s.id">
@@ -187,7 +195,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
 
         <section class="card panel">
           <header>
-            <h2>五位天后最熱門 20 首</h2>
+            <h2>{{ artistCount }}位天后最熱門 20 首</h2>
             <p class="muted">點一下在 YouTube Music 播放。</p>
           </header>
           <BarList :rows="topSongs" label-width="11rem" @select="openSong" />
@@ -215,7 +223,8 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
   position: absolute;
   inset: 0;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(10, 1fr);
+  grid-auto-rows: 1fr;
 }
 .tile {
   background-size: cover;
@@ -343,6 +352,9 @@ h1 {
 .small {
   font-size: 12.5px;
 }
+.nowrap {
+  white-space: nowrap;
+}
 .top {
   list-style: none;
   margin: 10px 0 0;
@@ -419,7 +431,7 @@ h2 {
     gap: 10px;
   }
   .collage {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
   .hero-inner {
     padding-left: 16px;
