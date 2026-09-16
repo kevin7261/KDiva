@@ -47,7 +47,7 @@ export function normalizeTitle(title) {
   let s = toTW(String(title))
   s = s.replace(/\s+-\s+.*$/, '') // YouTube Music「中文 - English」
   s = s.replace(/[（(][^）)]*(專輯|單曲|EP|版|Version|Edition|Remaster|主題曲|插曲|片尾曲|片頭曲|feat)[^）)]*[）)]/gi, '')
-  s = chineseNumbers(s).toLowerCase().replace(/ㄞˋ/g, '愛').replace(/痴/g, '癡')
+  s = chineseNumbers(s).toLowerCase().replace(/ㄞˋ/g, '愛').replace(/痴/g, '癡').replace(/艷/g, '豔').replace(/羣/g, '群')
   return s.replace(/[^\p{L}\p{N}]/gu, '')
 }
 

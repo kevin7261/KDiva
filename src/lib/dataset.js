@@ -54,7 +54,9 @@ function mode(list) {
 }
 
 export function buildModel(raw, artistConfig = {}) {
+  // byOther：其他歌手演唱的曲目（抓取時標記），不算這位歌手的歌
   const albums = raw.albums
+    .map((a) => ({ ...a, tracks: a.tracks.filter((t) => !t.byOther) }))
     .filter((a) => a.tracks.length > 0)
     .map((a) => ({
       ...a,

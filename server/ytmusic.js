@@ -3,7 +3,7 @@
 // 若設定 YOUTUBE_API_KEY，會再用官方 YouTube Data API 補上精確的觀看次數。
 // 發行日期另外從 Wikipedia／Wikidata 比對（見 wiki.js）。
 
-import { fetchReleaseCatalog, matchRelease } from './wiki.js'
+import { fetchReleaseCatalog, matchRelease, normalizeTitle } from './wiki.js'
 import { RELEASE_OVERRIDES } from './release-overrides.js'
 import { releaseSortKey } from '../src/lib/release.js'
 
@@ -216,6 +216,28 @@ async function fetchExactViews(videoIds, apiKey) {
   return result
 }
 
+// ---------- 其他歌手的曲目 ----------
+
+/**
+ * 歌手頻道常掛著別人的專輯（彭佳慧頻道上的劉德華《因為愛》只有一首合唱）或原聲帶、節目合輯。
+ * 曲目的演出者欄有值、且不含這位歌手的任何名字時標 byOther，前端不列入歌曲與播放數。
+ * 合唱（「張國榮 & 梅豔芳」）仍算；名字比對會做簡繁轉換，別名寫在 artists.js 的 aliases。
+ */
+export function markOtherArtists(albums, artistConfig, channelName = '') {
+  const names = [artistConfig.name, artistConfig.en, artistConfig.wiki, ...(artistConfig.aliases ?? []), ...channelName.split(' - ')]
+  const keys = [...new Set(names.filter(Boolean).map((n) => normalizeTitle(n)).filter((k) => k.length >= 2))]
+  let marked = 0
+  for (const album of albums) {
+    for (const t of album.tracks) {
+      // 演出者欄可能是「The Legend of Lion Rock 5CD - Anita Mui」，不能用去掉「 - 」後段的標題正規化
+      const credit = t.artists ? normalizeTitle(t.artists.replace(/\s+-\s+/g, ' ')) : ''
+      t.byOther = !!credit && !keys.some((k) => credit.includes(k))
+      if (t.byOther) marked++
+    }
+  }
+  return marked
+}
+
 // ---------- 發行日期 ----------
 
 /**
@@ -283,6 +305,8 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
     exact = true
   }
 
+  const others = markOtherArtists(albums, artistConfig, artist.name)
+  if (others) log(`其他歌手演唱的曲目：${others} 首（不列入統計）`)
   await applyReleaseDates(albums, artistConfig, log)
   const { releases, ...artistInfo } = artist
 
