@@ -134,9 +134,9 @@
       ],
       "releaseDate": "1995-09-06",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "張信哲",
-      "wikiKind": null,
+      "releaseDateSource": "album-page",
+      "wikiTitle": "宽容 (专辑)",
+      "wikiKind": "studio",
       "nameKey": "寬容"
     },
     {
@@ -295,8 +295,8 @@
           "playsText": "播放次數：193萬",
           "duration": 258,
           "byOther": false,
-          "titleZh": "錯過你錯過愛 (合作演出：於臺煙)",
-          "nameKey": "錯過你錯過愛"
+          "nameKey": "錯過你錯過愛",
+          "titleZh": "錯過你錯過愛 (合作演出：於臺煙)"
         },
         {
           "index": 3,
@@ -389,9 +389,9 @@
       ],
       "releaseDate": "1996-07-31",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "張信哲",
-      "wikiKind": null,
+      "releaseDateSource": "album-page",
+      "wikiTitle": "梦想",
+      "wikiKind": "studio",
       "nameKey": "夢想"
     },
     {
@@ -961,11 +961,11 @@
           "nameKey": "多心"
         }
       ],
-      "releaseDate": "1998-06-29",
+      "releaseDate": "1998-07-21",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "張信哲",
-      "wikiKind": null,
+      "releaseDateSource": "album-page",
+      "wikiTitle": "到处留情",
+      "wikiKind": "studio",
       "nameKey": "到處留情"
     },
     {
@@ -1101,9 +1101,9 @@
       ],
       "releaseDate": "1999-07-13",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "張信哲",
-      "wikiKind": null,
+      "releaseDateSource": "album-page",
+      "wikiTitle": "回来",
+      "wikiKind": "studio",
       "nameKey": "回來"
     },
     {
@@ -1228,9 +1228,9 @@
       ],
       "releaseDate": "2000-06-02",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "張信哲",
-      "wikiKind": null,
+      "releaseDateSource": "album-page",
+      "wikiTitle": "信仰 (张信哲专辑)",
+      "wikiKind": "studio",
       "nameKey": "信仰"
     },
     {
@@ -1752,9 +1752,9 @@
       ],
       "releaseDate": "2004-09-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "張信哲",
-      "wikiKind": null,
+      "releaseDateSource": "album-page",
+      "wikiTitle": "下一个永远",
+      "wikiKind": "studio",
       "nameKey": "下一個永遠"
     },
     {
@@ -1995,12 +1995,12 @@
           "playsText": "播放次數：1.6萬",
           "duration": 223,
           "byOther": false,
+          "nameKey": "有一點動心",
           "credits": {
             "lyrics": "厲曼婷",
             "music": "04",
             "arranger": "周菲比"
-          },
-          "nameKey": "有一點動心"
+          }
         },
         {
           "index": 22,
@@ -2502,12 +2502,12 @@
           "playsText": "播放次數：197萬",
           "duration": 232,
           "byOther": false,
+          "nameKey": "有一點動心",
           "credits": {
             "lyrics": "厲曼婷",
             "music": "04",
             "arranger": "周菲比"
-          },
-          "nameKey": "有一點動心"
+          }
         },
         {
           "index": 19,
@@ -2832,12 +2832,12 @@
           "playsText": "播放次數：197萬",
           "duration": 232,
           "byOther": false,
+          "nameKey": "有一點動心",
           "credits": {
             "lyrics": "厲曼婷",
             "music": "04",
             "arranger": "周菲比"
-          },
-          "nameKey": "有一點動心"
+          }
         },
         {
           "index": 19,
@@ -3218,12 +3218,12 @@
           "playsText": "播放次數：20萬",
           "duration": 291,
           "byOther": false,
+          "nameKey": "當時",
           "credits": {
             "lyrics": "陳韋伶",
             "music": "陳韋伶",
             "arranger": "洪敬堯"
-          },
-          "nameKey": "當時"
+          }
         },
         {
           "index": 2,
@@ -3234,12 +3234,12 @@
           "playsText": "播放次數：20萬",
           "duration": 279,
           "byOther": false,
+          "nameKey": "悲傷的嗜好",
           "credits": {
             "lyrics": "彭學斌",
             "music": "彭學斌",
             "arranger": "Terence Teo"
-          },
-          "nameKey": "悲傷的嗜好"
+          }
         },
         {
           "index": 3,
@@ -3250,12 +3250,12 @@
           "playsText": "播放次數：55萬",
           "duration": 298,
           "byOther": false,
+          "nameKey": "空位",
           "credits": {
             "lyrics": "何啟弘",
             "music": "陳忠義",
             "arranger": "呂紹淳"
-          },
-          "nameKey": "空位"
+          }
         },
         {
           "index": 4,
@@ -3266,12 +3266,12 @@
           "playsText": "播放次數：55萬",
           "duration": 282,
           "byOther": false,
+          "nameKey": "好像愛情",
           "credits": {
             "lyrics": "陳信延",
             "music": "陳忠義",
             "arranger": "金木義則"
-          },
-          "nameKey": "好像愛情"
+          }
         },
         {
           "index": 5,
@@ -3282,12 +3282,12 @@
           "playsText": "播放次數：14萬",
           "duration": 231,
           "byOther": false,
+          "nameKey": "愛不危險",
           "credits": {
             "lyrics": "鄭昭仁",
             "music": "李俊傑",
             "arranger": "李端嫻"
-          },
-          "nameKey": "愛不危險"
+          }
         },
         {
           "index": 6,
@@ -3298,12 +3298,12 @@
           "playsText": "播放次數：5.1萬",
           "duration": 267,
           "byOther": false,
+          "nameKey": "我看見",
           "credits": {
             "lyrics": "陳家麗",
             "music": "彭學斌",
             "arranger": "周國儀"
-          },
-          "nameKey": "我看見"
+          }
         },
         {
           "index": 7,
@@ -3325,12 +3325,12 @@
           "playsText": "播放次數：41萬",
           "duration": 324,
           "byOther": false,
+          "nameKey": "別說",
           "credits": {
             "lyrics": "戴荃",
             "music": "戴荃",
             "arranger": "屠穎"
-          },
-          "nameKey": "別說"
+          }
         },
         {
           "index": 9,
@@ -3341,12 +3341,12 @@
           "playsText": "播放次數：40萬",
           "duration": 268,
           "byOther": false,
+          "nameKey": "最初",
           "credits": {
             "lyrics": "王小苗",
             "music": "伍仲衡",
             "arranger": "伍仲衡"
-          },
-          "nameKey": "最初"
+          }
         },
         {
           "index": 10,
@@ -3357,12 +3357,12 @@
           "playsText": "播放次數：40萬",
           "duration": 275,
           "byOther": false,
+          "nameKey": "冷太陽",
           "credits": {
             "lyrics": "何啟弘",
             "music": "木村充利",
             "arranger": "Ronald Fu"
-          },
-          "nameKey": "冷太陽"
+          }
         },
         {
           "index": 11,
@@ -3373,12 +3373,12 @@
           "playsText": "播放次數：4.2萬",
           "duration": 437,
           "byOther": false,
+          "nameKey": "肩膀",
           "credits": {
             "lyrics": "梁錦興",
             "music": "黃慧雯",
             "arranger": "周國儀"
-          },
-          "nameKey": "肩膀"
+          }
         }
       ],
       "releaseDate": "2010-09-15",
@@ -3406,12 +3406,12 @@
           "playsText": "播放次數：25萬",
           "duration": 358,
           "byOther": false,
+          "nameKey": "花季未了",
           "credits": {
             "lyrics": "許常德",
             "music": "郭子",
             "arranger": "周國儀"
-          },
-          "nameKey": "花季未了"
+          }
         },
         {
           "index": 2,
@@ -3422,12 +3422,12 @@
           "playsText": "播放次數：6.6萬",
           "duration": 289,
           "byOther": false,
+          "nameKey": "陪伴",
           "credits": {
             "lyrics": "何啟弘",
             "music": "蕭煌奇",
             "arranger": "張信哲"
-          },
-          "nameKey": "陪伴"
+          }
         },
         {
           "index": 3,
@@ -3438,10 +3438,10 @@
           "playsText": "播放次數：662",
           "duration": 183,
           "byOther": true,
+          "nameKey": "矮牆上的九重葛",
           "credits": {
             "music": "陳建騏（下面註明例外曲目）"
-          },
-          "nameKey": "矮牆上的九重葛"
+          }
         },
         {
           "index": 4,
@@ -3452,10 +3452,10 @@
           "playsText": "播放次數：552",
           "duration": 229,
           "byOther": true,
+          "nameKey": "風吹的眼淚",
           "credits": {
             "music": "陳建騏（下面註明例外曲目）"
-          },
-          "nameKey": "風吹的眼淚"
+          }
         },
         {
           "index": 5,
@@ -3466,10 +3466,10 @@
           "playsText": "播放次數：797",
           "duration": 242,
           "byOther": true,
+          "nameKey": "空氣裡的茉莉香",
           "credits": {
             "music": "陳建騏（下面註明例外曲目）"
-          },
-          "nameKey": "空氣裡的茉莉香"
+          }
         },
         {
           "index": 6,
@@ -3480,10 +3480,10 @@
           "playsText": "播放次數：596",
           "duration": 252,
           "byOther": true,
+          "nameKey": "你手握緊的溫度",
           "credits": {
             "music": "陳建騏（下面註明例外曲目）"
-          },
-          "nameKey": "你手握緊的溫度"
+          }
         },
         {
           "index": 7,
@@ -3494,10 +3494,10 @@
           "playsText": "播放次數：404",
           "duration": 227,
           "byOther": true,
+          "nameKey": "靜止的一抹微笑",
           "credits": {
             "music": "陳建騏（下面註明例外曲目）"
-          },
-          "nameKey": "靜止的一抹微笑"
+          }
         },
         {
           "index": 8,
@@ -3508,10 +3508,10 @@
           "playsText": "播放次數：899",
           "duration": 197,
           "byOther": true,
+          "nameKey": "聽花又開了",
           "credits": {
             "music": "陳建騏（下面註明例外曲目）"
-          },
-          "nameKey": "聽花又開了"
+          }
         },
         {
           "index": 9,
@@ -3522,12 +3522,12 @@
           "playsText": "播放次數：14萬",
           "duration": 302,
           "byOther": false,
+          "nameKey": "陪伴",
           "credits": {
             "lyrics": "何啟弘",
             "music": "蕭煌奇",
             "arranger": "張信哲"
-          },
-          "nameKey": "陪伴"
+          }
         },
         {
           "index": 10,
@@ -3538,11 +3538,11 @@
           "playsText": "播放次數：560",
           "duration": 359,
           "byOther": false,
+          "nameKey": "情也未了",
           "credits": {
             "music": "郭子",
             "arranger": "周國儀"
-          },
-          "nameKey": "情也未了"
+          }
         },
         {
           "index": 11,
@@ -3553,11 +3553,11 @@
           "playsText": "播放次數：439",
           "duration": 286,
           "byOther": false,
+          "nameKey": "有妳的陪伴",
           "credits": {
             "music": "蕭煌奇",
             "arranger": "林依霖"
-          },
-          "nameKey": "有妳的陪伴"
+          }
         }
       ],
       "releaseDate": null,
@@ -3723,12 +3723,12 @@
           "playsText": "播放次數：4.2萬",
           "duration": 287,
           "byOther": false,
+          "nameKey": "肩膀",
           "credits": {
             "lyrics": "梁錦興",
             "music": "黃慧雯",
             "arranger": "周國儀"
-          },
-          "nameKey": "肩膀"
+          }
         },
         {
           "index": 3,
@@ -3849,12 +3849,12 @@
           "playsText": "播放次數：1546",
           "duration": 200,
           "byOther": false,
+          "nameKey": "肩膀",
           "credits": {
             "lyrics": "梁錦興",
             "music": "黃慧雯",
             "arranger": "周國儀"
-          },
-          "nameKey": "肩膀"
+          }
         }
       ],
       "releaseDate": null,
@@ -3893,12 +3893,12 @@
           "playsText": "播放次數：197萬",
           "duration": 231,
           "byOther": false,
+          "nameKey": "有一點動心",
           "credits": {
             "lyrics": "厲曼婷",
             "music": "04",
             "arranger": "周菲比"
-          },
-          "nameKey": "有一點動心"
+          }
         },
         {
           "index": 3,
@@ -4654,8 +4654,8 @@
           "playsText": "播放次數：201萬",
           "duration": 292,
           "byOther": false,
-          "titleZh": "時間都去哪兒了",
-          "nameKey": "時間都去哪兒了"
+          "nameKey": "時間都去哪兒了",
+          "titleZh": "時間都去哪兒了"
         },
         {
           "index": 2,
@@ -4666,8 +4666,8 @@
           "playsText": "播放次數：5784",
           "duration": 292,
           "byOther": false,
-          "titleZh": "時間都去哪兒了 (伴奏)",
-          "nameKey": "時間都去哪兒了"
+          "nameKey": "時間都去哪兒了",
+          "titleZh": "時間都去哪兒了 (伴奏)"
         }
       ],
       "releaseDate": null,
@@ -4850,12 +4850,12 @@
           "playsText": "播放次數：149萬",
           "duration": 263,
           "byOther": false,
+          "nameKey": "慢慢走",
           "credits": {
             "lyrics": "何啟弘",
             "music": "02",
             "arranger": "Erik Lewander / Gavin Jones / Jim Lee"
-          },
-          "nameKey": "慢慢走"
+          }
         }
       ],
       "releaseDate": null,
@@ -4883,12 +4883,12 @@
           "playsText": "播放次數：49萬",
           "duration": 256,
           "byOther": false,
+          "nameKey": "沒資格難過",
           "credits": {
             "lyrics": "陳懷恩YNot/ Inez/",
             "music": "05",
             "arranger": "Terence Teo"
-          },
-          "nameKey": "沒資格難過"
+          }
         }
       ],
       "releaseDate": null,
@@ -4916,12 +4916,12 @@
           "playsText": "播放次數：216萬",
           "duration": 258,
           "byOther": false,
+          "nameKey": "無別",
           "credits": {
             "lyrics": "何啟弘",
             "music": "08",
             "arranger": "陳啟天"
-          },
-          "nameKey": "無別"
+          }
         }
       ],
       "releaseDate": null,
@@ -4949,12 +4949,12 @@
           "playsText": "播放次數：184萬",
           "duration": 292,
           "byOther": false,
+          "nameKey": "amatteroflove",
           "credits": {
             "lyrics": "Tim Rice",
             "music": "01",
             "arranger": "伍敬彬"
-          },
-          "nameKey": "amatteroflove"
+          }
         },
         {
           "index": 2,
@@ -4965,12 +4965,12 @@
           "playsText": "播放次數：149萬",
           "duration": 254,
           "byOther": false,
+          "nameKey": "慢慢走",
           "credits": {
             "lyrics": "何啟弘",
             "music": "02",
             "arranger": "Erik Lewander / Gavin Jones / Jim Lee"
-          },
-          "nameKey": "慢慢走"
+          }
         },
         {
           "index": 3,
@@ -4981,12 +4981,12 @@
           "playsText": "播放次數：131萬",
           "duration": 261,
           "byOther": false,
+          "nameKey": "在不在",
           "credits": {
             "lyrics": "吳鏑 ADAMS WU",
             "music": "03",
             "arranger": "伍敬彬"
-          },
-          "nameKey": "在不在"
+          }
         },
         {
           "index": 4,
@@ -5008,12 +5008,12 @@
           "playsText": "播放次數：49萬",
           "duration": 253,
           "byOther": false,
+          "nameKey": "沒資格難過",
           "credits": {
             "lyrics": "陳懷恩YNot/ Inez/",
             "music": "05",
             "arranger": "Terence Teo"
-          },
-          "nameKey": "沒資格難過"
+          }
         },
         {
           "index": 6,
@@ -5024,12 +5024,12 @@
           "playsText": "播放次數：6.6萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "夏夜星空海",
           "credits": {
             "lyrics": "尹約",
             "music": "06",
             "arranger": "李元熙"
-          },
-          "nameKey": "夏夜星空海"
+          }
         },
         {
           "index": 7,
@@ -5040,12 +5040,12 @@
           "playsText": "播放次數：8190",
           "duration": 264,
           "byOther": false,
+          "nameKey": "lorelei",
           "credits": {
             "lyrics": "Tim Rice",
             "music": "07",
             "arranger": "伍敬彬"
-          },
-          "nameKey": "lorelei"
+          }
         },
         {
           "index": 8,
@@ -5056,12 +5056,12 @@
           "playsText": "播放次數：216萬",
           "duration": 258,
           "byOther": false,
+          "nameKey": "無別",
           "credits": {
             "lyrics": "何啟弘",
             "music": "08",
             "arranger": "陳啟天"
-          },
-          "nameKey": "無別"
+          }
         },
         {
           "index": 9,
@@ -5072,12 +5072,12 @@
           "playsText": "播放次數：8.6萬",
           "duration": 290,
           "byOther": false,
+          "nameKey": "清風徐來",
           "credits": {
             "lyrics": "趙英俊",
             "music": "09",
             "arranger": "文魁"
-          },
-          "nameKey": "清風徐來"
+          }
         },
         {
           "index": 10,
@@ -5088,12 +5088,12 @@
           "playsText": "播放次數：217萬",
           "duration": 262,
           "byOther": false,
+          "nameKey": "就懂了",
           "credits": {
             "lyrics": "何啟弘",
             "music": "10",
             "arranger": "Eric Lewander、Gavin Jones"
-          },
-          "nameKey": "就懂了"
+          }
         }
       ],
       "releaseDate": "2021-03-05",
@@ -5121,12 +5121,12 @@
           "playsText": "播放次數：217萬",
           "duration": 262,
           "byOther": false,
+          "nameKey": "就懂了",
           "credits": {
             "lyrics": "何啟弘",
             "music": "10",
             "arranger": "Eric Lewander、Gavin Jones"
-          },
-          "nameKey": "就懂了"
+          }
         }
       ],
       "releaseDate": "2021-03-05",
@@ -5154,12 +5154,12 @@
           "playsText": "播放次數：184萬",
           "duration": 297,
           "byOther": false,
+          "nameKey": "amatteroflove",
           "credits": {
             "lyrics": "Tim Rice",
             "music": "01",
             "arranger": "伍敬彬"
-          },
-          "nameKey": "amatteroflove"
+          }
         }
       ],
       "releaseDate": null,
@@ -5187,8 +5187,8 @@
           "playsText": "播放次數：55萬",
           "duration": 611,
           "byOther": false,
-          "titleZh": "有情世間 (故事版)",
-          "nameKey": "有情世間"
+          "nameKey": "有情世間",
+          "titleZh": "有情世間 (故事版)"
         }
       ],
       "releaseDate": null,
@@ -5272,8 +5272,8 @@
           "playsText": "播放次數：15萬",
           "duration": 301,
           "byOther": false,
-          "titleZh": "牽繫 (《倩女幽魂 手遊》六週年紀念曲)",
-          "nameKey": "牽繫"
+          "nameKey": "牽繫",
+          "titleZh": "牽繫 (《倩女幽魂 手遊》六週年紀念曲)"
         }
       ],
       "releaseDate": null,
@@ -5301,8 +5301,8 @@
           "playsText": "播放次數：11萬",
           "duration": 192,
           "byOther": true,
-          "titleZh": "戀曲1980 (Live)",
-          "nameKey": "戀曲1980#live"
+          "nameKey": "戀曲1980#live",
+          "titleZh": "戀曲1980 (Live)"
         },
         {
           "index": 2,
@@ -5313,8 +5313,8 @@
           "playsText": "播放次數：11萬",
           "duration": 181,
           "byOther": true,
-          "titleZh": "鹿港小鎮 (Live)",
-          "nameKey": "鹿港小鎭#live"
+          "nameKey": "鹿港小鎭#live",
+          "titleZh": "鹿港小鎮 (Live)"
         },
         {
           "index": 3,
@@ -5325,8 +5325,8 @@
           "playsText": "播放次數：3.4萬",
           "duration": 158,
           "byOther": true,
-          "titleZh": "娜魯灣情歌 (Live)",
-          "nameKey": "娜魯灣情歌#live"
+          "nameKey": "娜魯灣情歌#live",
+          "titleZh": "娜魯灣情歌 (Live)"
         },
         {
           "index": 4,
@@ -5348,8 +5348,8 @@
           "playsText": "播放次數：26萬",
           "duration": 240,
           "byOther": true,
-          "titleZh": "你的樣子 (Live)",
-          "nameKey": "你的樣子#live"
+          "nameKey": "你的樣子#live",
+          "titleZh": "你的樣子 (Live)"
         },
         {
           "index": 6,
@@ -5360,8 +5360,8 @@
           "playsText": "播放次數：7.4萬",
           "duration": 254,
           "byOther": true,
-          "titleZh": "我是真的愛你 (Live)",
-          "nameKey": "我是眞的愛你#live"
+          "nameKey": "我是眞的愛你#live",
+          "titleZh": "我是真的愛你 (Live)"
         },
         {
           "index": 7,
@@ -5372,8 +5372,8 @@
           "playsText": "播放次數：24萬",
           "duration": 181,
           "byOther": true,
-          "titleZh": "心願便利貼 (Live)",
-          "nameKey": "心願便利貼#live"
+          "nameKey": "心願便利貼#live",
+          "titleZh": "心願便利貼 (Live)"
         },
         {
           "index": 8,
@@ -5384,8 +5384,8 @@
           "playsText": "播放次數：9.5萬",
           "duration": 289,
           "byOther": true,
-          "titleZh": "遺失的美好 (Live)",
-          "nameKey": "遺失的美好#live"
+          "nameKey": "遺失的美好#live",
+          "titleZh": "遺失的美好 (Live)"
         }
       ],
       "releaseDate": null,
@@ -5618,8 +5618,8 @@
           "playsText": "播放次數：1萬",
           "duration": 235,
           "byOther": false,
-          "titleZh": "失溫 (《有歌》第2季第9期) (Live)",
-          "nameKey": "失溫#live"
+          "nameKey": "失溫#live",
+          "titleZh": "失溫 (《有歌》第2季第9期) (Live)"
         },
         {
           "index": 2,
@@ -5630,8 +5630,8 @@
           "playsText": "播放次數：237",
           "duration": 235,
           "byOther": false,
-          "titleZh": "失溫 (Live版伴奏)",
-          "nameKey": "失溫#live"
+          "nameKey": "失溫#live",
+          "titleZh": "失溫 (Live版伴奏)"
         }
       ],
       "releaseDate": null,

@@ -511,6 +511,7 @@ h1 {
   min-width: 0;
 }
 .names button {
+  text-align: left;
   border: 0;
   padding: 0;
   background: none;
@@ -519,11 +520,26 @@ h1 {
   font-size: 13px;
   line-height: 1.5;
 }
+.ranked li {
+  grid-template-columns: 1.6rem minmax(0, 1fr);
+}
 .ranked .names {
   flex-wrap: nowrap;
+  align-items: baseline;
   justify-content: space-between;
+  gap: 8px;
+}
+/* 名字靠左、太長截斷；數字靠右不換行 */
+.ranked .names button {
+  flex: 1;
+  min-width: 0;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .ranked .metric {
+  flex: none;
   font-size: 12px;
   white-space: nowrap;
 }
