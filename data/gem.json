@@ -30,13 +30,14 @@
           "playsText": "播放次數：1342萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "wheredidugo",
           "titleZh": "Where Did U Go (G.E.M.重生版)",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "Skot Suyama 陶山",
             "arranger": "雷頌德"
           },
-          "nameKey": "wheredidugo"
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -47,12 +48,12 @@
           "playsText": "播放次數：395萬",
           "duration": 234,
           "byOther": false,
+          "nameKey": "回憶的沙漏",
           "credits": {
             "lyrics": "庭竹",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "回憶的沙漏"
+          }
         },
         {
           "index": 3,
@@ -63,11 +64,11 @@
           "playsText": "播放次數：13萬",
           "duration": 204,
           "byOther": false,
+          "nameKey": "愛現在的我",
           "credits": {
             "music": "Skot Suyama 陶山",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "愛現在的我"
+          }
         },
         {
           "index": 4,
@@ -78,12 +79,12 @@
           "playsText": "播放次數：924萬",
           "duration": 283,
           "byOther": false,
+          "nameKey": "睡公主",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Johnny Yim"
-          },
-          "nameKey": "睡公主"
+          }
         },
         {
           "index": 5,
@@ -94,11 +95,11 @@
           "playsText": "播放次數：375萬",
           "duration": 185,
           "byOther": false,
+          "nameKey": "等一個他",
           "credits": {
             "lyrics": "鄧紫棋",
             "arranger": "雷頌德"
-          },
-          "nameKey": "等一個他"
+          }
         }
       ],
       "releaseDate": "2008-10-15",
@@ -106,8 +107,8 @@
       "releaseDateSource": "album-page",
       "wikiTitle": "G.E.M. (迷你專輯)",
       "wikiKind": "single",
-      "titleZh": "G.E.M.（Get Everybody Moving）（英語）",
-      "nameKey": "gem"
+      "nameKey": "gem",
+      "titleZh": "G.E.M.（Get Everybody Moving）（英語）"
     },
     {
       "browseId": "MPREb_HGLRvWFnUuO",
@@ -127,12 +128,12 @@
           "playsText": "播放次數：988萬",
           "duration": 242,
           "byOther": false,
+          "nameKey": "寫不完的溫柔",
           "titleZh": "寫不完的溫柔",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "陶山"
-          },
-          "nameKey": "寫不完的溫柔"
+          }
         },
         {
           "index": 2,
@@ -143,11 +144,11 @@
           "playsText": "播放次數：331萬",
           "duration": 191,
           "byOther": false,
+          "nameKey": "gameover",
           "credits": {
             "lyrics": "G.E.M.、Tan Chang、Aaron Wong",
             "music": "Mary-L、Yann Cortella"
-          },
-          "nameKey": "gameover"
+          }
         },
         {
           "index": 3,
@@ -158,11 +159,11 @@
           "playsText": "播放次數：316萬",
           "duration": 173,
           "byOther": false,
+          "nameKey": "想講你知",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Marc Nelkin、Jennifer Karr、Sidh Solanki"
-          },
-          "nameKey": "想講你知"
+          }
         },
         {
           "index": 4,
@@ -173,11 +174,11 @@
           "playsText": "播放次數：4851萬",
           "duration": 225,
           "byOther": false,
+          "nameKey": "ainy",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Lupo Groinig、G.E.M."
-          },
-          "nameKey": "ainy"
+          }
         },
         {
           "index": 5,
@@ -188,11 +189,11 @@
           "playsText": "播放次數：1913萬",
           "duration": 246,
           "byOther": false,
+          "nameKey": "mascara",
           "credits": {
             "lyrics": "G.E.M.、AnieFann",
             "music": "G.E.M."
-          },
-          "nameKey": "mascara"
+          }
         },
         {
           "index": 6,
@@ -203,11 +204,11 @@
           "playsText": "播放次數：119萬",
           "duration": 214,
           "byOther": false,
+          "nameKey": "我不懂愛",
           "credits": {
             "lyrics": "琪子",
             "music": "Peter Roberts"
-          },
-          "nameKey": "我不懂愛"
+          }
         },
         {
           "index": 7,
@@ -218,11 +219,11 @@
           "playsText": "播放次數：208萬",
           "duration": 211,
           "byOther": false,
+          "nameKey": "塞納河",
           "credits": {
             "lyrics": "陳宏宇",
             "music": "G.E.M."
-          },
-          "nameKey": "塞納河"
+          }
         },
         {
           "index": 8,
@@ -233,11 +234,11 @@
           "playsText": "播放次數：14萬",
           "duration": 203,
           "byOther": false,
+          "nameKey": "意式戀愛",
           "credits": {
             "lyrics": "夏至",
             "music": "Skot Suyama 陶山"
-          },
-          "nameKey": "意式戀愛"
+          }
         },
         {
           "index": 9,
@@ -248,12 +249,12 @@
           "playsText": "播放次數：14萬",
           "duration": 208,
           "byOther": false,
+          "nameKey": "gem",
           "titleZh": "G.E.M.（Get Everybody Moving）（英語）",
           "credits": {
             "lyrics": "Lupo Groining、G.E.M.",
             "music": "Lupo Groining、G.E.M."
-          },
-          "nameKey": "gem"
+          }
         },
         {
           "index": 10,
@@ -264,12 +265,12 @@
           "playsText": "播放次數：38萬",
           "duration": 216,
           "byOther": false,
+          "nameKey": "想講你知",
           "titleZh": "想講你知",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Marc Nelkin、Jennifer Karr、Sidh Solanki"
-          },
-          "nameKey": "想講你知"
+          }
         },
         {
           "index": 11,
@@ -291,11 +292,11 @@
           "playsText": "播放次數：19萬",
           "duration": 245,
           "byOther": false,
+          "nameKey": "mascara",
           "credits": {
             "lyrics": "G.E.M.、AnieFann",
             "music": "G.E.M."
-          },
-          "nameKey": "mascara"
+          }
         },
         {
           "index": 13,
@@ -334,12 +335,12 @@
           "playsText": "播放次數：95萬",
           "duration": 226,
           "byOther": false,
+          "nameKey": "onebutton",
           "titleZh": "One Button（國語）",
           "credits": {
             "lyrics": "G.E.M.",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "onebutton"
+          }
         },
         {
           "index": 2,
@@ -350,12 +351,12 @@
           "playsText": "播放次數：585萬",
           "duration": 230,
           "byOther": false,
+          "nameKey": "goodtobebad",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Peter Roberts",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "goodtobebad"
+          }
         },
         {
           "index": 3,
@@ -366,11 +367,11 @@
           "playsText": "播放次數：605萬",
           "duration": 238,
           "byOther": false,
+          "nameKey": "getoveryou",
           "credits": {
             "lyrics": "G.E.M.",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "getoveryou"
+          }
         },
         {
           "index": 4,
@@ -403,12 +404,12 @@
           "playsText": "播放次數：222萬",
           "duration": 208,
           "byOther": false,
+          "nameKey": "thevoicewithin",
           "titleZh": "The Voice Within（國語）",
           "credits": {
             "lyrics": "G.E.M.",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "thevoicewithin"
+          }
         },
         {
           "index": 7,
@@ -441,12 +442,12 @@
           "playsText": "播放次數：15萬",
           "duration": 257,
           "byOther": false,
+          "nameKey": "twinkleii",
           "titleZh": "Twinkle II（英語+國語）",
           "credits": {
             "lyrics": "G.E.M.",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "twinkleii"
+          }
         },
         {
           "index": 10,
@@ -457,11 +458,11 @@
           "playsText": "播放次數：12萬",
           "duration": 249,
           "byOther": false,
+          "nameKey": "sayitloud",
           "credits": {
             "lyrics": "G.E.M.",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "sayitloud"
+          }
         }
       ],
       "releaseDate": "2010-10-28",
@@ -489,10 +490,10 @@
           "playsText": "播放次數：215萬",
           "duration": 217,
           "byOther": false,
+          "nameKey": "whathaveudone",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "whathaveudone"
+          }
         },
         {
           "index": 2,
@@ -503,10 +504,10 @@
           "playsText": "播放次數：143萬",
           "duration": 193,
           "byOther": false,
+          "nameKey": "下一秒",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "下一秒"
+          }
         },
         {
           "index": 3,
@@ -517,10 +518,10 @@
           "playsText": "播放次數：552萬",
           "duration": 232,
           "byOther": false,
+          "nameKey": "somedayillfly",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "somedayillfly"
+          }
         },
         {
           "index": 4,
@@ -531,11 +532,11 @@
           "playsText": "播放次數：2939萬",
           "duration": 259,
           "byOther": false,
+          "nameKey": "泡沫",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "G.E.M."
-          },
-          "nameKey": "泡沫"
+          }
         },
         {
           "index": 5,
@@ -546,10 +547,10 @@
           "playsText": "播放次數：117萬",
           "duration": 239,
           "byOther": false,
+          "nameKey": "潛意式的殘酷",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "潛意式的殘酷"
+          }
         },
         {
           "index": 6,
@@ -560,11 +561,11 @@
           "playsText": "播放次數：271萬",
           "duration": 185,
           "byOther": false,
+          "nameKey": "ohboy",
           "titleZh": "Oh Boy（國語）",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "ohboy"
+          }
         },
         {
           "index": 7,
@@ -575,11 +576,11 @@
           "playsText": "播放次數：13萬",
           "duration": 277,
           "byOther": false,
+          "nameKey": "aftertonight",
           "titleZh": "After Tonight（國語）",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "aftertonight"
+          }
         },
         {
           "index": 8,
@@ -590,11 +591,11 @@
           "playsText": "播放次數：214萬",
           "duration": 238,
           "byOther": false,
+          "nameKey": "失眞",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Cousin Fung"
-          },
-          "nameKey": "失眞"
+          }
         },
         {
           "index": 9,
@@ -605,11 +606,11 @@
           "playsText": "播放次數：671萬",
           "duration": 232,
           "byOther": false,
+          "nameKey": "奇蹟",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "G.E.M."
-          },
-          "nameKey": "奇蹟"
+          }
         },
         {
           "index": 10,
@@ -620,11 +621,11 @@
           "playsText": "播放次數：75萬",
           "duration": 305,
           "byOther": false,
+          "nameKey": "不存在的存在",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "G.E.M."
-          },
-          "nameKey": "不存在的存在"
+          }
         }
       ],
       "releaseDate": "2012-06-27",
@@ -652,10 +653,10 @@
           "playsText": "播放次數：215萬",
           "duration": 217,
           "byOther": false,
+          "nameKey": "whathaveudone",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "whathaveudone"
+          }
         }
       ],
       "releaseDate": null,
@@ -851,11 +852,11 @@
           "playsText": "播放次數：5.7萬",
           "duration": 297,
           "byOther": false,
+          "nameKey": "aftertonight",
           "titleZh": "After Tonight（國語）",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "aftertonight"
+          }
         },
         {
           "index": 2,
@@ -866,12 +867,12 @@
           "playsText": "播放次數：1.6萬",
           "duration": 206,
           "byOther": false,
+          "nameKey": "onebutton",
           "titleZh": "One Button（國語）",
           "credits": {
             "lyrics": "G.E.M.",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "onebutton"
+          }
         },
         {
           "index": 3,
@@ -882,11 +883,11 @@
           "playsText": "播放次數：1.5萬",
           "duration": 197,
           "byOther": false,
+          "nameKey": "ohboy",
           "titleZh": "Oh Boy（國語）",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "ohboy"
+          }
         },
         {
           "index": 4,
@@ -897,10 +898,10 @@
           "playsText": "播放次數：2.9萬",
           "duration": 292,
           "byOther": false,
+          "nameKey": "somedayillfly",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "somedayillfly"
+          }
         },
         {
           "index": 5,
@@ -911,11 +912,11 @@
           "playsText": "播放次數：8.1萬",
           "duration": 383,
           "byOther": false,
+          "nameKey": "泡沫",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "G.E.M."
-          },
-          "nameKey": "泡沫"
+          }
         },
         {
           "index": 6,
@@ -926,11 +927,11 @@
           "playsText": "播放次數：1.7萬",
           "duration": 216,
           "byOther": false,
+          "nameKey": "getoveryou",
           "credits": {
             "lyrics": "G.E.M.",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "getoveryou"
+          }
         },
         {
           "index": 7,
@@ -952,11 +953,11 @@
           "playsText": "播放次數：2.3萬",
           "duration": 287,
           "byOther": false,
+          "nameKey": "allaboutyou",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Marc Nelkin"
-          },
-          "nameKey": "allaboutyou"
+          }
         },
         {
           "index": 9,
@@ -967,11 +968,11 @@
           "playsText": "播放次數：2.3萬",
           "duration": 192,
           "byOther": false,
+          "nameKey": "等一個他",
           "credits": {
             "lyrics": "鄧紫棋",
             "arranger": "雷頌德"
-          },
-          "nameKey": "等一個他"
+          }
         },
         {
           "index": 10,
@@ -993,10 +994,10 @@
           "playsText": "播放次數：1.2萬",
           "duration": 196,
           "byOther": false,
+          "nameKey": "下一秒",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "下一秒"
+          }
         },
         {
           "index": 12,
@@ -1007,12 +1008,12 @@
           "playsText": "播放次數：1.9萬",
           "duration": 349,
           "byOther": false,
+          "nameKey": "goodtobebad",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Peter Roberts",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "goodtobebad"
+          }
         },
         {
           "index": 13,
@@ -1023,12 +1024,12 @@
           "playsText": "播放次數：3.6萬",
           "duration": 243,
           "byOther": false,
+          "nameKey": "ainy",
           "titleZh": "A.I.N.Y. (愛你)",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Lupo Groinig、G.E.M."
-          },
-          "nameKey": "ainy"
+          }
         },
         {
           "index": 14,
@@ -1039,11 +1040,11 @@
           "playsText": "播放次數：4.1萬",
           "duration": 288,
           "byOther": false,
+          "nameKey": "不存在的存在",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "G.E.M."
-          },
-          "nameKey": "不存在的存在"
+          }
         },
         {
           "index": 15,
@@ -1054,10 +1055,10 @@
           "playsText": "播放次數：1.1萬",
           "duration": 369,
           "byOther": false,
+          "nameKey": "潛意式的殘酷",
           "credits": {
             "lyrics": "G.E.M."
-          },
-          "nameKey": "潛意式的殘酷"
+          }
         },
         {
           "index": 16,
@@ -1079,11 +1080,11 @@
           "playsText": "播放次數：2萬",
           "duration": 200,
           "byOther": false,
+          "nameKey": "失眞",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Cousin Fung"
-          },
-          "nameKey": "失眞"
+          }
         },
         {
           "index": 18,
@@ -1127,13 +1128,14 @@
           "playsText": "播放次數：3.2萬",
           "duration": 324,
           "byOther": false,
+          "nameKey": "wheredidugo",
           "titleZh": "Where Did U Go (G.E.M.重生版)",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "Skot Suyama 陶山",
             "arranger": "雷頌德"
           },
-          "nameKey": "wheredidugo"
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -1273,12 +1275,12 @@
           "playsText": "播放次數：1.2億",
           "duration": 217,
           "byOther": false,
+          "nameKey": "多遠都要在一起",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "多遠都要在一起"
+          }
         },
         {
           "index": 2,
@@ -1289,12 +1291,12 @@
           "playsText": "播放次數：1.9億",
           "duration": 207,
           "byOther": false,
+          "nameKey": "再見",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "再見"
+          }
         },
         {
           "index": 3,
@@ -1305,12 +1307,12 @@
           "playsText": "播放次數：5032萬",
           "duration": 218,
           "byOther": false,
+          "nameKey": "新的心跳",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "新的心跳"
+          }
         },
         {
           "index": 4,
@@ -1321,12 +1323,12 @@
           "playsText": "播放次數：1.8億",
           "duration": 246,
           "byOther": false,
+          "nameKey": "來自天堂的魔鬼",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "來自天堂的魔鬼"
+          }
         },
         {
           "index": 5,
@@ -1337,12 +1339,12 @@
           "playsText": "播放次數：2606萬",
           "duration": 227,
           "byOther": false,
+          "nameKey": "盲點",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "盲點"
+          }
         },
         {
           "index": 6,
@@ -1353,12 +1355,12 @@
           "playsText": "播放次數：700萬",
           "duration": 249,
           "byOther": false,
+          "nameKey": "單行的軌道",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "單行的軌道"
+          }
         },
         {
           "index": 7,
@@ -1369,12 +1371,12 @@
           "playsText": "播放次數：2410萬",
           "duration": 230,
           "byOther": false,
+          "nameKey": "一路逆風",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "一路逆風"
+          }
         },
         {
           "index": 8,
@@ -1385,12 +1387,12 @@
           "playsText": "播放次數：2136萬",
           "duration": 230,
           "byOther": false,
+          "nameKey": "於是",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "於是"
+          }
         },
         {
           "index": 9,
@@ -1401,12 +1403,12 @@
           "playsText": "播放次數：2030萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "瞬間",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "瞬間"
+          }
         },
         {
           "index": 10,
@@ -1417,12 +1419,12 @@
           "playsText": "播放次數：307萬",
           "duration": 261,
           "byOther": false,
+          "nameKey": "查克靠近",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "查克靠近"
+          }
         }
       ],
       "releaseDate": "2015-11-06",
@@ -1489,11 +1491,11 @@
           "playsText": "播放次數：105萬",
           "duration": 234,
           "byOther": false,
+          "nameKey": "多遠都要在一起",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "多遠都要在一起"
+          }
         },
         {
           "index": 3,
@@ -1504,11 +1506,11 @@
           "playsText": "播放次數：100萬",
           "duration": 300,
           "byOther": false,
+          "nameKey": "泡沫",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "泡沫"
+          }
         },
         {
           "index": 4,
@@ -1519,11 +1521,11 @@
           "playsText": "播放次數：9.2萬",
           "duration": 221,
           "byOther": false,
+          "nameKey": "瞬間",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "瞬間"
+          }
         }
       ],
       "releaseDate": "2016-09-30",
@@ -1747,8 +1749,9 @@
           "playsText": "播放次數：5200萬",
           "duration": 220,
           "byOther": false,
+          "nameKey": "桃花諾",
           "titleZh": "桃花諾 （電視劇《上古情歌》片尾曲）",
-          "nameKey": "桃花諾"
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2017-01-01",
@@ -1804,8 +1807,9 @@
           "playsText": "播放次數：178萬",
           "duration": 197,
           "byOther": false,
+          "nameKey": "穿越火線穿越火線遊戲主題曲",
           "titleZh": "穿越火線 -《穿越火線》遊戲主題曲",
-          "nameKey": "穿越火線穿越火線遊戲主題曲"
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -1833,12 +1837,12 @@
           "playsText": "播放次數：699萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "回憶的沙漏",
           "credits": {
             "lyrics": "庭竹",
             "music": "鄧紫棋",
             "arranger": "Lupo Groinig"
-          },
-          "nameKey": "回憶的沙漏"
+          }
         }
       ],
       "releaseDate": "2018-01-01",
@@ -1922,11 +1926,11 @@
           "playsText": "播放次數：1.8億",
           "duration": 230,
           "byOther": false,
+          "nameKey": "倒數",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "倒數"
+          }
         },
         {
           "index": 2,
@@ -1937,11 +1941,11 @@
           "playsText": "播放次數：549萬",
           "duration": 239,
           "byOther": false,
+          "nameKey": "錯過不錯",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "錯過不錯"
+          }
         },
         {
           "index": 3,
@@ -1952,11 +1956,11 @@
           "playsText": "播放次數：1297萬",
           "duration": 184,
           "byOther": false,
+          "nameKey": "另一個童話",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "另一個童話"
+          }
         },
         {
           "index": 4,
@@ -1967,11 +1971,11 @@
           "playsText": "播放次數：2613萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "那一夜",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "那一夜"
+          }
         },
         {
           "index": 5,
@@ -1982,11 +1986,11 @@
           "playsText": "播放次數：525萬",
           "duration": 252,
           "byOther": false,
+          "nameKey": "毒蘋果",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "毒蘋果"
+          }
         },
         {
           "index": 6,
@@ -1997,11 +2001,11 @@
           "playsText": "播放次數：572萬",
           "duration": 201,
           "byOther": false,
+          "nameKey": "突然之間",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "突然之間"
+          }
         },
         {
           "index": 7,
@@ -2012,11 +2016,11 @@
           "playsText": "播放次數：5116萬",
           "duration": 295,
           "byOther": false,
+          "nameKey": "岩石裡的花",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "岩石裡的花"
+          }
         },
         {
           "index": 8,
@@ -2027,11 +2031,11 @@
           "playsText": "播放次數：23萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "why",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "why"
+          }
         },
         {
           "index": 9,
@@ -2042,11 +2046,11 @@
           "playsText": "播放次數：326萬",
           "duration": 237,
           "byOther": false,
+          "nameKey": "睡皇后",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "睡皇后"
+          }
         }
       ],
       "releaseDate": "2019-04-29",
@@ -2074,11 +2078,11 @@
           "playsText": "播放次數：1433萬",
           "duration": 212,
           "byOther": false,
+          "nameKey": "walkonwater",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "walkonwater"
+          }
         }
       ],
       "releaseDate": "2019-10-20",
@@ -2106,11 +2110,11 @@
           "playsText": "播放次數：9390萬",
           "duration": 236,
           "byOther": false,
+          "nameKey": "句號",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "句號"
+          }
         }
       ],
       "releaseDate": "2019-11-22",
@@ -2138,11 +2142,11 @@
           "playsText": "播放次數：2762萬",
           "duration": 271,
           "byOther": false,
+          "nameKey": "摩天動物園",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "摩天動物園"
+          }
         },
         {
           "index": 2,
@@ -2153,11 +2157,11 @@
           "playsText": "播放次數：1536萬",
           "duration": 239,
           "byOther": false,
+          "nameKey": "flyaway",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "flyaway"
+          }
         },
         {
           "index": 3,
@@ -2168,11 +2172,11 @@
           "playsText": "播放次數：4556萬",
           "duration": 218,
           "byOther": false,
+          "nameKey": "透明",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "透明"
+          }
         },
         {
           "index": 4,
@@ -2183,11 +2187,11 @@
           "playsText": "播放次數：1億",
           "duration": 291,
           "byOther": false,
+          "nameKey": "很久以後",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "很久以後"
+          }
         },
         {
           "index": 5,
@@ -2198,11 +2202,11 @@
           "playsText": "播放次數：1433萬",
           "duration": 212,
           "byOther": false,
+          "nameKey": "walkonwater",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "walkonwater"
+          }
         },
         {
           "index": 6,
@@ -2213,11 +2217,11 @@
           "playsText": "播放次數：150萬",
           "duration": 231,
           "byOther": false,
+          "nameKey": "螢火",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "螢火"
+          }
         },
         {
           "index": 7,
@@ -2228,11 +2232,11 @@
           "playsText": "播放次數：210萬",
           "duration": 204,
           "byOther": false,
+          "nameKey": "灰狼",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "灰狼"
+          }
         },
         {
           "index": 8,
@@ -2243,11 +2247,11 @@
           "playsText": "播放次數：6539萬",
           "duration": 231,
           "byOther": false,
+          "nameKey": "差不多姑娘",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "差不多姑娘"
+          }
         },
         {
           "index": 9,
@@ -2258,11 +2262,11 @@
           "playsText": "播放次數：1591萬",
           "duration": 205,
           "byOther": false,
+          "nameKey": "好想好想你",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "好想好想你"
+          }
         },
         {
           "index": 10,
@@ -2284,11 +2288,11 @@
           "playsText": "播放次數：711萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "多美麗",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "多美麗"
+          }
         },
         {
           "index": 12,
@@ -2299,11 +2303,11 @@
           "playsText": "播放次數：9390萬",
           "duration": 236,
           "byOther": false,
+          "nameKey": "句號",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "句號"
+          }
         },
         {
           "index": 13,
@@ -2314,11 +2318,11 @@
           "playsText": "播放次數：1184萬",
           "duration": 161,
           "byOther": false,
+          "nameKey": "依然睡公主",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "依然睡公主"
+          }
         }
       ],
       "releaseDate": "2019-12-27",
@@ -2346,11 +2350,11 @@
           "playsText": "播放次數：2762萬",
           "duration": 271,
           "byOther": false,
+          "nameKey": "摩天動物園",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "摩天動物園"
+          }
         }
       ],
       "releaseDate": "2019-12-27",
@@ -2389,8 +2393,9 @@
           "playsText": "播放次數：649",
           "duration": 209,
           "byOther": true,
+          "nameKey": "誰是mvp#live",
           "titleZh": "誰是MVP (Live)",
-          "nameKey": "誰是mvp#live"
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -2429,11 +2434,11 @@
           "playsText": "播放次數：6537萬",
           "duration": 231,
           "byOther": false,
+          "nameKey": "差不多姑娘",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋"
-          },
-          "nameKey": "差不多姑娘"
+          }
         }
       ],
       "releaseDate": null,
@@ -2679,8 +2684,9 @@
           "playsText": "播放次數：459萬",
           "duration": 193,
           "byOther": false,
+          "nameKey": "無雙的王者",
           "titleZh": "無雙的王者 (合作演出：王者榮耀)",
-          "nameKey": "無雙的王者"
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2708,12 +2714,12 @@
           "playsText": "播放次數：248萬",
           "duration": 224,
           "byOther": false,
+          "nameKey": "少年與海",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "少年與海"
+          }
         },
         {
           "index": 2,
@@ -2724,12 +2730,12 @@
           "playsText": "播放次數：1202萬",
           "duration": 249,
           "byOther": false,
+          "nameKey": "hell",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "hell"
+          }
         },
         {
           "index": 3,
@@ -2740,12 +2746,12 @@
           "playsText": "播放次數：465萬",
           "duration": 198,
           "byOther": false,
+          "nameKey": "只有我和你的地方",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "只有我和你的地方"
+          }
         },
         {
           "index": 4,
@@ -2756,12 +2762,12 @@
           "playsText": "播放次數：1508萬",
           "duration": 201,
           "byOther": false,
+          "nameKey": "你不是第一個離開的人",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "你不是第一個離開的人"
+          }
         },
         {
           "index": 5,
@@ -2772,12 +2778,12 @@
           "playsText": "播放次數：433萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "不想回家",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "老道"
-          },
-          "nameKey": "不想回家"
+          }
         },
         {
           "index": 6,
@@ -2788,12 +2794,12 @@
           "playsText": "播放次數：764萬",
           "duration": 211,
           "byOther": false,
+          "nameKey": "冰河時代",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "冰河時代"
+          }
         },
         {
           "index": 7,
@@ -2804,12 +2810,12 @@
           "playsText": "播放次數：360萬",
           "duration": 180,
           "byOther": false,
+          "nameKey": "受難曲",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "太一"
-          },
-          "nameKey": "受難曲"
+          }
         },
         {
           "index": 8,
@@ -2886,10 +2892,10 @@
           "playsText": "播放次數：2849萬",
           "duration": 280,
           "byOther": false,
+          "nameKey": "天空沒有極限",
           "credits": {
             "arranger": "T-Ma 馬敬恆"
-          },
-          "nameKey": "天空沒有極限"
+          }
         }
       ],
       "releaseDate": "2022-09-30",
@@ -3001,12 +3007,12 @@
           "playsText": "播放次數：1202萬",
           "duration": 249,
           "byOther": false,
+          "nameKey": "hell",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "hell"
+          }
         }
       ],
       "releaseDate": null,
@@ -3034,12 +3040,12 @@
           "playsText": "播放次數：433萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "不想回家",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "老道"
-          },
-          "nameKey": "不想回家"
+          }
         }
       ],
       "releaseDate": null,
@@ -3067,12 +3073,12 @@
           "playsText": "播放次數：1508萬",
           "duration": 201,
           "byOther": false,
+          "nameKey": "你不是第一個離開的人",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "你不是第一個離開的人"
+          }
         }
       ],
       "releaseDate": null,
@@ -3100,12 +3106,12 @@
           "playsText": "播放次數：765萬",
           "duration": 211,
           "byOther": false,
+          "nameKey": "冰河時代",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "冰河時代"
+          }
         }
       ],
       "releaseDate": null,
@@ -3133,12 +3139,12 @@
           "playsText": "播放次數：360萬",
           "duration": 180,
           "byOther": false,
+          "nameKey": "受難曲",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "太一"
-          },
-          "nameKey": "受難曲"
+          }
         }
       ],
       "releaseDate": null,
@@ -3166,12 +3172,12 @@
           "playsText": "播放次數：465萬",
           "duration": 198,
           "byOther": false,
+          "nameKey": "只有我和你的地方",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "只有我和你的地方"
+          }
         }
       ],
       "releaseDate": null,
@@ -3227,12 +3233,12 @@
           "playsText": "播放次數：248萬",
           "duration": 224,
           "byOther": false,
+          "nameKey": "少年與海",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "少年與海"
+          }
         }
       ],
       "releaseDate": null,
@@ -3383,12 +3389,12 @@
           "playsText": "播放次數：1202萬",
           "duration": 248,
           "byOther": false,
+          "nameKey": "hell",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "hell"
+          }
         },
         {
           "index": 3,
@@ -3687,12 +3693,12 @@
           "playsText": "播放次數：1202萬",
           "duration": 248,
           "byOther": false,
+          "nameKey": "hell",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "鄧紫棋、宮閣"
-          },
-          "nameKey": "hell"
+          }
         }
       ],
       "releaseDate": null,
@@ -3910,10 +3916,10 @@
           "playsText": "播放次數：258萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "wheredidugo",
           "credits": {
             "music": "陶山"
-          },
-          "nameKey": "wheredidugo"
+          }
         },
         {
           "index": 3,
@@ -3924,11 +3930,11 @@
           "playsText": "播放次數：261萬",
           "duration": 228,
           "byOther": false,
+          "nameKey": "ainy愛你",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "Lupo Groinig、G.E.M."
-          },
-          "nameKey": "ainy愛你"
+          }
         },
         {
           "index": 4,
@@ -3939,11 +3945,11 @@
           "playsText": "播放次數：332萬",
           "duration": 259,
           "byOther": false,
+          "nameKey": "泡沫",
           "credits": {
             "lyrics": "G.E.M.",
             "music": "G.E.M."
-          },
-          "nameKey": "泡沫"
+          }
         },
         {
           "index": 5,
@@ -3954,10 +3960,10 @@
           "playsText": "播放次數：152萬",
           "duration": 233,
           "byOther": false,
+          "nameKey": "回憶的沙漏",
           "credits": {
             "lyrics": "庭竹"
-          },
-          "nameKey": "回憶的沙漏"
+          }
         },
         {
           "index": 6,
@@ -3968,8 +3974,9 @@
           "playsText": "播放次數：452萬",
           "duration": 286,
           "byOther": false,
+          "nameKey": "紅薔薇白玫瑰",
           "titleZh": "紅薔薇白玫瑰 (G.E.M.重生版)",
-          "nameKey": "紅薔薇白玫瑰"
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -4002,12 +4009,12 @@
           "playsText": "播放次數：112萬",
           "duration": 292,
           "byOther": false,
+          "nameKey": "睡公主",
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
             "arranger": "Johnny Yim"
-          },
-          "nameKey": "睡公主"
+          }
         },
         {
           "index": 10,
@@ -4018,8 +4025,9 @@
           "playsText": "播放次數：221萬",
           "duration": 280,
           "byOther": false,
+          "nameKey": "天空沒有極限",
           "titleZh": "天空沒有極限 (粵)",
-          "nameKey": "天空沒有極限"
+          "titleZhVariant": true
         },
         {
           "index": 11,

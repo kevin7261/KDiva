@@ -1,0 +1,51 @@
+{
+  "slug": "where-chou",
+  "fetchedAt": "2026-09-17T18:03:22.668Z",
+  "wiki": "周蕙",
+  "bio": {
+    "born": {
+      "date": "1977-03-26",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "好想好好愛周蕙",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2026-04-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-04-25",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北小巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2026-04-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
+}

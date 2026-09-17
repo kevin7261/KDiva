@@ -235,7 +235,8 @@
             "music": "于文",
             "arranger": "涂惠元"
           },
-          "titleZh": "梨山痴情花"
+          "titleZh": "梨山痴情花",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1469,7 +1470,8 @@
       "wikiTitle": "Man (專輯)",
       "wikiKind": null,
       "nameKey": "man",
-      "titleZh": "MAN (專輯)"
+      "titleZh": "MAN",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_bjhg5bvvvb3",
@@ -2062,7 +2064,8 @@
             "lyrics": "徐世珍",
             "music": "林一峰",
             "arranger": "洪信傑"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -3178,7 +3181,8 @@
           "duration": 254,
           "byOther": false,
           "nameKey": "跳上車子離開傷心的臺北",
-          "titleZh": "跳上車子離開傷心的臺北"
+          "titleZh": "跳上車子離開傷心的臺北",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -3345,7 +3349,8 @@
           "duration": 254,
           "byOther": false,
           "nameKey": "跳上車子離開傷心的臺北",
-          "titleZh": "跳上車子離開傷心的臺北"
+          "titleZh": "跳上車子離開傷心的臺北",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -3509,7 +3514,8 @@
           "duration": 326,
           "byOther": false,
           "nameKey": "我們之間",
-          "titleZh": "我們之間"
+          "titleZh": "我們之間",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,

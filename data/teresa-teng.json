@@ -204,6 +204,133 @@
       "titleZh": "情人的關懷"
     },
     {
+      "browseId": "MPREb_iU63q5ZFLXy",
+      "playlistId": "OLAK5uy_kEYxhCgUQjhSfpaTbKKE6jIKkxi0Z13N0",
+      "title": "海韻 記得你記得我",
+      "albumArtist": "鄧麗君",
+      "type": "Album",
+      "year": 2016,
+      "thumbnail": "https://yt3.googleusercontent.com/9iytXJbEjHSmVEgOI9RNdTsRaGv4ukttlremYCd4kHizsvs94D5IFAyKl1SEdQ_fZYzdUgOhekwidrY=w544-h544-s-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "海韻",
+          "artists": "鄧麗君",
+          "videoId": "j1uMRfiPxdU",
+          "plays": 380000,
+          "playsText": "播放次數：38萬",
+          "duration": 163,
+          "byOther": false,
+          "nameKey": "海韻"
+        },
+        {
+          "index": 2,
+          "title": "記得你記得我",
+          "artists": "鄧麗君",
+          "videoId": "qANW07-VwkM",
+          "plays": 29000,
+          "playsText": "播放次數：2.9萬",
+          "duration": 153,
+          "byOther": false,
+          "nameKey": "記得你記得我"
+        },
+        {
+          "index": 3,
+          "title": "嗨！我告訴你",
+          "artists": "鄧麗君",
+          "videoId": "BLQIReEExuE",
+          "plays": 17000,
+          "playsText": "播放次數：1.7萬",
+          "duration": 135,
+          "byOther": false,
+          "nameKey": "嗨我告訴你"
+        },
+        {
+          "index": 4,
+          "title": "溫暖",
+          "artists": "原野三重唱",
+          "videoId": "Sf0cyOSZzsQ",
+          "plays": 81000,
+          "playsText": "播放次數：8.1萬",
+          "duration": 177,
+          "byOther": true,
+          "nameKey": "溫暖"
+        },
+        {
+          "index": 5,
+          "title": "初戀",
+          "artists": "電子琴演奏",
+          "videoId": "p3ri_2zqHlc",
+          "plays": 6891,
+          "playsText": "播放次數：6891",
+          "duration": 111,
+          "byOther": true,
+          "nameKey": "初戀"
+        },
+        {
+          "index": 6,
+          "title": "嗨！我告訴你",
+          "artists": "萬沙浪",
+          "videoId": "J0bE_NStvGc",
+          "plays": 10000,
+          "playsText": "播放次數：1萬",
+          "duration": 131,
+          "byOther": true,
+          "nameKey": "嗨我告訴你"
+        },
+        {
+          "index": 7,
+          "title": "三個夢",
+          "artists": "鄧麗君",
+          "videoId": "Zmfrzogj-jc",
+          "plays": 18000,
+          "playsText": "播放次數：1.8萬",
+          "duration": 142,
+          "byOther": false,
+          "nameKey": "三個夢"
+        },
+        {
+          "index": 8,
+          "title": "初戀",
+          "artists": "原野三重唱",
+          "videoId": "0Tnwnru-_mM",
+          "plays": 8579,
+          "playsText": "播放次數：8579",
+          "duration": 109,
+          "byOther": true,
+          "nameKey": "初戀"
+        },
+        {
+          "index": 9,
+          "title": "愛惜花",
+          "artists": "鄧麗君",
+          "videoId": "fpPP0iEIVXg",
+          "plays": 22000,
+          "playsText": "播放次數：2.2萬",
+          "duration": 132,
+          "byOther": false,
+          "nameKey": "愛惜花"
+        },
+        {
+          "index": 10,
+          "title": "海韻",
+          "artists": "小提琴獨奏",
+          "videoId": "lSvL0wh6Fuc",
+          "plays": 12000,
+          "playsText": "播放次數：1.2萬",
+          "duration": 170,
+          "byOther": true,
+          "nameKey": "海韻"
+        }
+      ],
+      "releaseDate": "1974-10-01",
+      "releaseDatePrecision": "month",
+      "releaseDateSource": "search-page",
+      "wikiTitle": "海韻 (歌曲)",
+      "wikiKind": null,
+      "nameKey": "海韻記得你記得我"
+    },
+    {
       "browseId": "MPREb_CGsF99E8YLc",
       "playlistId": "OLAK5uy_khyCXIfN21NJ_ED7fjVvTzKuUKjHAqQ9s",
       "title": "風的傳說鄧麗君",
@@ -492,7 +619,8 @@
           "duration": 244,
           "byOther": false,
           "nameKey": "多少黎明多少黃昏裡",
-          "titleZh": "多少黎明多少黃昏裡"
+          "titleZh": "多少黎明多少黃昏裡",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -1260,7 +1388,8 @@
           "duration": 147,
           "byOther": false,
           "nameKey": "有個女孩等著你",
-          "titleZh": "有個女孩等著你 (電影「馬騮過海」插曲)"
+          "titleZh": "有個女孩等著你 (電影「馬騮過海」插曲)",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1388,7 +1517,8 @@
           "duration": 150,
           "byOther": false,
           "nameKey": "有個女孩等著你",
-          "titleZh": "有個女孩等著你 (電影「馬騮過海」插曲)"
+          "titleZh": "有個女孩等著你 (電影「馬騮過海」插曲)",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -1450,7 +1580,8 @@
           "duration": 150,
           "byOther": false,
           "nameKey": "風的傳說",
-          "titleZh": "風的傳說"
+          "titleZh": "風的傳說",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1473,7 +1604,8 @@
           "duration": 212,
           "byOther": true,
           "nameKey": "月兒像檸檬",
-          "titleZh": "月兒像檸檬"
+          "titleZh": "月兒像檸檬",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -1485,7 +1617,8 @@
           "duration": 202,
           "byOther": true,
           "nameKey": "臉兒紅心兒笑",
-          "titleZh": "臉兒紅心兒笑"
+          "titleZh": "臉兒紅心兒笑",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -1497,7 +1630,8 @@
           "duration": 130,
           "byOther": true,
           "nameKey": "心戀",
-          "titleZh": "心戀"
+          "titleZh": "心戀",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -1520,7 +1654,8 @@
           "duration": 151,
           "byOther": true,
           "nameKey": "歡樂今宵",
-          "titleZh": "歡樂今宵"
+          "titleZh": "歡樂今宵",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -1543,7 +1678,8 @@
           "duration": 226,
           "byOther": true,
           "nameKey": "歸來吧懷唸的人",
-          "titleZh": "歸來吧，懷念的人"
+          "titleZh": "歸來吧，懷念的人",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1555,7 +1691,8 @@
           "duration": 188,
           "byOther": true,
           "nameKey": "夕陽是你雲是我",
-          "titleZh": "夕陽是你雲是我"
+          "titleZh": "夕陽是你雲是我",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -1567,7 +1704,8 @@
           "duration": 193,
           "byOther": true,
           "nameKey": "落花淚",
-          "titleZh": "落花淚"
+          "titleZh": "落花淚",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -1579,7 +1717,8 @@
           "duration": 165,
           "byOther": true,
           "nameKey": "梅花夢",
-          "titleZh": "梅花夢"
+          "titleZh": "梅花夢",
+          "titleZhVariant": true
         },
         {
           "index": 13,
@@ -1591,7 +1730,8 @@
           "duration": 173,
           "byOther": true,
           "nameKey": "情人再見",
-          "titleZh": "情人再見"
+          "titleZh": "情人再見",
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -1614,7 +1754,8 @@
           "duration": 180,
           "byOther": true,
           "nameKey": "在銀色的陽光下",
-          "titleZh": "在銀色的陽光下"
+          "titleZh": "在銀色的陽光下",
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -1637,7 +1778,8 @@
           "duration": 190,
           "byOther": true,
           "nameKey": "只要為你活一天",
-          "titleZh": "只要為你活一天"
+          "titleZh": "只要為你活一天",
+          "titleZhVariant": true
         },
         {
           "index": 18,
@@ -1660,7 +1802,8 @@
           "duration": 136,
           "byOther": true,
           "nameKey": "愛人去不會",
-          "titleZh": "愛人去不會"
+          "titleZh": "愛人去不會",
+          "titleZhVariant": true
         },
         {
           "index": 20,
@@ -1672,7 +1815,8 @@
           "duration": 164,
           "byOther": true,
           "nameKey": "黃昏放牛",
-          "titleZh": "黃昏放牛"
+          "titleZh": "黃昏放牛",
+          "titleZhVariant": true
         },
         {
           "index": 21,
@@ -1684,7 +1828,8 @@
           "duration": 180,
           "byOther": true,
           "nameKey": "淚的衣裳",
-          "titleZh": "淚的衣裳"
+          "titleZh": "淚的衣裳",
+          "titleZhVariant": true
         },
         {
           "index": 22,
@@ -1696,7 +1841,8 @@
           "duration": 190,
           "byOther": true,
           "nameKey": "風雪情未了",
-          "titleZh": "風雪情未了"
+          "titleZh": "風雪情未了",
+          "titleZhVariant": true
         },
         {
           "index": 23,
@@ -1719,7 +1865,8 @@
           "duration": 180,
           "byOther": true,
           "nameKey": "老子有錢",
-          "titleZh": "老子有錢"
+          "titleZh": "老子有錢",
+          "titleZhVariant": true
         },
         {
           "index": 25,
@@ -1731,7 +1878,8 @@
           "duration": 119,
           "byOther": true,
           "nameKey": "愛的季節",
-          "titleZh": "愛的季節"
+          "titleZh": "愛的季節",
+          "titleZhVariant": true
         },
         {
           "index": 26,
@@ -1754,7 +1902,8 @@
           "duration": 180,
           "byOther": true,
           "nameKey": "紅睡蓮",
-          "titleZh": "紅睡蓮"
+          "titleZh": "紅睡蓮",
+          "titleZhVariant": true
         },
         {
           "index": 28,
@@ -1777,7 +1926,8 @@
           "duration": 206,
           "byOther": true,
           "nameKey": "浪子的眼淚",
-          "titleZh": "浪子的眼淚"
+          "titleZh": "浪子的眼淚",
+          "titleZhVariant": true
         },
         {
           "index": 30,
@@ -1789,7 +1939,8 @@
           "duration": 158,
           "byOther": true,
           "nameKey": "留戀",
-          "titleZh": "留戀"
+          "titleZh": "留戀",
+          "titleZhVariant": true
         },
         {
           "index": 31,
@@ -1801,7 +1952,8 @@
           "duration": 153,
           "byOther": false,
           "nameKey": "想你想斷腸",
-          "titleZh": "想你想斷腸"
+          "titleZh": "想你想斷腸",
+          "titleZhVariant": true
         },
         {
           "index": 32,
@@ -1813,7 +1965,8 @@
           "duration": 117,
           "byOther": true,
           "nameKey": "情人的陽光",
-          "titleZh": "情人的陽光"
+          "titleZh": "情人的陽光",
+          "titleZhVariant": true
         },
         {
           "index": 33,
@@ -1836,7 +1989,8 @@
           "duration": 189,
           "byOther": true,
           "nameKey": "一路順風",
-          "titleZh": "一路順風"
+          "titleZh": "一路順風",
+          "titleZhVariant": true
         },
         {
           "index": 35,
@@ -1848,7 +2002,8 @@
           "duration": 182,
           "byOther": true,
           "nameKey": "心有千千結",
-          "titleZh": "心有千千結"
+          "titleZh": "心有千千結",
+          "titleZhVariant": true
         },
         {
           "index": 36,
@@ -1860,7 +2015,8 @@
           "duration": 202,
           "byOther": true,
           "nameKey": "教我怎麼不恨你",
-          "titleZh": "教我怎麼不恨你"
+          "titleZh": "教我怎麼不恨你",
+          "titleZhVariant": true
         },
         {
           "index": 37,
@@ -1872,7 +2028,8 @@
           "duration": 205,
           "byOther": true,
           "nameKey": "幾度花落時",
-          "titleZh": "幾度花落時"
+          "titleZh": "幾度花落時",
+          "titleZhVariant": true
         },
         {
           "index": 38,
@@ -1884,7 +2041,8 @@
           "duration": 144,
           "byOther": false,
           "nameKey": "愛你一萬倍",
-          "titleZh": "愛你一萬倍"
+          "titleZh": "愛你一萬倍",
+          "titleZhVariant": true
         },
         {
           "index": 39,
@@ -1896,7 +2054,8 @@
           "duration": 204,
           "byOther": true,
           "nameKey": "情人的眼淚",
-          "titleZh": "情人的眼淚"
+          "titleZh": "情人的眼淚",
+          "titleZhVariant": true
         },
         {
           "index": 40,
@@ -1908,7 +2067,8 @@
           "duration": 133,
           "byOther": true,
           "nameKey": "蜜月花車",
-          "titleZh": "蜜月花車"
+          "titleZh": "蜜月花車",
+          "titleZhVariant": true
         },
         {
           "index": 41,
@@ -1920,7 +2080,8 @@
           "duration": 135,
           "byOther": true,
           "nameKey": "天上人間",
-          "titleZh": "天上人間"
+          "titleZh": "天上人間",
+          "titleZhVariant": true
         },
         {
           "index": 42,
@@ -1932,7 +2093,8 @@
           "duration": 167,
           "byOther": true,
           "nameKey": "一舞難忘",
-          "titleZh": "一舞難忘"
+          "titleZh": "一舞難忘",
+          "titleZhVariant": true
         },
         {
           "index": 43,
@@ -1944,7 +2106,8 @@
           "duration": 230,
           "byOther": true,
           "nameKey": "男人的眼淚",
-          "titleZh": "男人的眼淚"
+          "titleZh": "男人的眼淚",
+          "titleZhVariant": true
         },
         {
           "index": 44,
@@ -1956,7 +2119,8 @@
           "duration": 168,
           "byOther": true,
           "nameKey": "告訴羅娜我愛她",
-          "titleZh": "告訴羅娜我愛她"
+          "titleZh": "告訴羅娜我愛她",
+          "titleZhVariant": true
         },
         {
           "index": 45,
@@ -1968,7 +2132,8 @@
           "duration": 156,
           "byOther": true,
           "nameKey": "給我一個吻",
-          "titleZh": "給我一個吻"
+          "titleZh": "給我一個吻",
+          "titleZhVariant": true
         },
         {
           "index": 46,
@@ -1980,7 +2145,8 @@
           "duration": 200,
           "byOther": true,
           "nameKey": "桃李爭春",
-          "titleZh": "桃李爭春"
+          "titleZh": "桃李爭春",
+          "titleZhVariant": true
         },
         {
           "index": 47,
@@ -2014,7 +2180,8 @@
           "duration": 218,
           "byOther": true,
           "nameKey": "春來人不來",
-          "titleZh": "春來人不來"
+          "titleZh": "春來人不來",
+          "titleZhVariant": true
         },
         {
           "index": 50,
@@ -2026,7 +2193,8 @@
           "duration": 143,
           "byOther": true,
           "nameKey": "愛相思",
-          "titleZh": "愛相思"
+          "titleZh": "愛相思",
+          "titleZhVariant": true
         },
         {
           "index": 51,
@@ -2049,7 +2217,8 @@
           "duration": 184,
           "byOther": true,
           "nameKey": "愛的苦酒",
-          "titleZh": "愛的苦酒"
+          "titleZh": "愛的苦酒",
+          "titleZhVariant": true
         },
         {
           "index": 53,
@@ -2061,7 +2230,8 @@
           "duration": 138,
           "byOther": true,
           "nameKey": "知心話",
-          "titleZh": "知心話"
+          "titleZh": "知心話",
+          "titleZhVariant": true
         },
         {
           "index": 54,
@@ -4495,7 +4665,8 @@
           "duration": 207,
           "byOther": false,
           "nameKey": "津輕海峽冬景色",
-          "titleZh": "津軽海峽・冬景色"
+          "titleZh": "津軽海峽・冬景色",
+          "titleZhVariant": true
         },
         {
           "index": 20,
@@ -4536,7 +4707,8 @@
           "duration": 124,
           "byOther": false,
           "nameKey": "路邊的野花不要採",
-          "titleZh": "路邊的野花不要採"
+          "titleZh": "路邊的野花不要採",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -4559,7 +4731,8 @@
           "duration": 151,
           "byOther": false,
           "nameKey": "江水悠悠淚長流",
-          "titleZh": "江水悠悠淚長流"
+          "titleZh": "江水悠悠淚長流",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -4571,7 +4744,8 @@
           "duration": 164,
           "byOther": false,
           "nameKey": "藍色的姑娘",
-          "titleZh": "藍色的姑娘"
+          "titleZh": "藍色的姑娘",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -4583,7 +4757,8 @@
           "duration": 140,
           "byOther": false,
           "nameKey": "把你印在心窩裡",
-          "titleZh": "把你印在心窩裡"
+          "titleZh": "把你印在心窩裡",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -4639,7 +4814,8 @@
           "duration": 175,
           "byOther": false,
           "nameKey": "永遠是個小娃娃",
-          "titleZh": "永遠是個小娃娃"
+          "titleZh": "永遠是個小娃娃",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -4662,7 +4838,8 @@
           "duration": 163,
           "byOther": false,
           "nameKey": "雨中戀人",
-          "titleZh": "雨中戀人"
+          "titleZh": "雨中戀人",
+          "titleZhVariant": true
         },
         {
           "index": 13,
@@ -4674,7 +4851,8 @@
           "duration": 125,
           "byOther": false,
           "nameKey": "異鄉人",
-          "titleZh": "異鄉人"
+          "titleZh": "異鄉人",
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -4708,7 +4886,8 @@
           "duration": 168,
           "byOther": false,
           "nameKey": "情人再見",
-          "titleZh": "情人再見"
+          "titleZh": "情人再見",
+          "titleZhVariant": true
         },
         {
           "index": 17,
@@ -4731,7 +4910,8 @@
           "duration": 178,
           "byOther": false,
           "nameKey": "溫情滿人間",
-          "titleZh": "溫情滿人間"
+          "titleZh": "溫情滿人間",
+          "titleZhVariant": true
         },
         {
           "index": 19,
@@ -4743,7 +4923,8 @@
           "duration": 141,
           "byOther": false,
           "nameKey": "快樂的恰恰姑娘",
-          "titleZh": "快樂的恰恰姑娘"
+          "titleZh": "快樂的恰恰姑娘",
+          "titleZhVariant": true
         },
         {
           "index": 20,
@@ -4777,7 +4958,8 @@
           "duration": 178,
           "byOther": false,
           "nameKey": "噢琳達",
-          "titleZh": "噢！琳達"
+          "titleZh": "噢！琳達",
+          "titleZhVariant": true
         },
         {
           "index": 23,
@@ -4828,7 +5010,8 @@
           "duration": 166,
           "byOther": false,
           "nameKey": "你不瞭解我",
-          "titleZh": "你不瞭解我"
+          "titleZh": "你不瞭解我",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -5132,7 +5315,8 @@
           "duration": 129,
           "byOther": false,
           "nameKey": "小媳婦回孃家",
-          "titleZh": "小媳婦回孃家"
+          "titleZh": "小媳婦回孃家",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -5944,7 +6128,8 @@
           "duration": 234,
           "byOther": false,
           "nameKey": "北國の春",
-          "titleZh": "北國の春"
+          "titleZh": "北國の春",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -6264,7 +6449,8 @@
           "duration": 242,
           "byOther": false,
           "nameKey": "賣肉粽",
-          "titleZh": "賣肉粽 (臺語)"
+          "titleZh": "賣肉粽 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 31,
@@ -6386,7 +6572,8 @@
           "duration": 198,
           "byOther": false,
           "nameKey": "難忘的愛人",
-          "titleZh": "難忘的愛人 (臺語)"
+          "titleZh": "難忘的愛人 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 42,
@@ -6663,7 +6850,8 @@
           "duration": 168,
           "byOther": false,
           "nameKey": "你不瞭解我",
-          "titleZh": "你不瞭解我"
+          "titleZh": "你不瞭解我",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -6989,7 +7177,8 @@
           "duration": 262,
           "byOther": false,
           "nameKey": "港町ブルース",
-          "titleZh": "港町ブルース"
+          "titleZh": "港町ブルース",
+          "titleZhVariant": true
         },
         {
           "index": 15,
@@ -7260,7 +7449,8 @@
           "duration": 262,
           "byOther": false,
           "nameKey": "港町ブルース",
-          "titleZh": "港町ブルース"
+          "titleZh": "港町ブルース",
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -7410,7 +7600,8 @@
           "duration": 237,
           "byOther": false,
           "nameKey": "黃昏",
-          "titleZh": "黃昏"
+          "titleZh": "黃昏",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -7422,7 +7613,8 @@
           "duration": 264,
           "byOther": false,
           "nameKey": "悲しみが淚と踴ってる",
-          "titleZh": "悲しみが涙と踴ってる"
+          "titleZh": "悲しみが涙と踴ってる",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -7539,7 +7731,8 @@
           "duration": 219,
           "byOther": false,
           "nameKey": "あなたと生きる",
-          "titleZh": "あなたと生きる"
+          "titleZh": "あなたと生きる",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -7810,7 +8003,8 @@
           "duration": 231,
           "byOther": false,
           "nameKey": "北國の春",
-          "titleZh": "北國の春"
+          "titleZh": "北國の春",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -7949,7 +8143,8 @@
           "duration": 227,
           "byOther": false,
           "nameKey": "そんな女のひとりごと",
-          "titleZh": "そんな女のひとりごと"
+          "titleZh": "そんな女のひとりごと",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -7989,7 +8184,8 @@
           "duration": 254,
           "byOther": false,
           "nameKey": "ジェルソミーナの步いた道",
-          "titleZh": "ジェルソミーナの歩いた道"
+          "titleZh": "ジェルソミーナの歩いた道",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -8376,7 +8572,8 @@
           "duration": 185,
           "byOther": false,
           "nameKey": "輓歌",
-          "titleZh": "輓歌 (日文版)"
+          "titleZh": "輓歌 (日文版)",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -8726,7 +8923,8 @@
           "duration": 219,
           "byOther": false,
           "nameKey": "あなたと生きる",
-          "titleZh": "あなたと生きる"
+          "titleZh": "あなたと生きる",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -8782,7 +8980,8 @@
           "duration": 224,
           "byOther": false,
           "nameKey": "愛の終著驛",
-          "titleZh": "愛の終著駅"
+          "titleZh": "愛の終著駅",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -8816,7 +9015,8 @@
           "duration": 262,
           "byOther": false,
           "nameKey": "港町ブルース",
-          "titleZh": "港町ブルース"
+          "titleZh": "港町ブルース",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -8889,7 +9089,8 @@
           "duration": 183,
           "byOther": false,
           "nameKey": "今夜かしら明日かしら",
-          "titleZh": "今夜かしら明日かしら"
+          "titleZh": "今夜かしら明日かしら",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -8934,7 +9135,8 @@
           "duration": 262,
           "byOther": false,
           "nameKey": "港町ブルース",
-          "titleZh": "港町ブルース"
+          "titleZh": "港町ブルース",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -9178,7 +9380,8 @@
           "duration": 185,
           "byOther": false,
           "nameKey": "豫期せぬ出來事",
-          "titleZh": "予期せぬ出來事"
+          "titleZh": "予期せぬ出來事",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -9201,7 +9404,8 @@
           "duration": 196,
           "byOther": false,
           "nameKey": "再會",
-          "titleZh": "再會"
+          "titleZh": "再會",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -9704,7 +9908,8 @@
           "duration": 224,
           "byOther": false,
           "nameKey": "戀は駄目",
-          "titleZh": "戀は駄目"
+          "titleZh": "戀は駄目",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -9744,7 +9949,8 @@
           "duration": 200,
           "byOther": false,
           "nameKey": "ふたたび",
-          "titleZh": "ふたたび（再來）"
+          "titleZh": "ふたたび（再來）",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -10137,7 +10343,8 @@
           "duration": 220,
           "byOther": false,
           "nameKey": "愛の終著驛",
-          "titleZh": "愛の終著駅"
+          "titleZh": "愛の終著駅",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -10160,7 +10367,8 @@
           "duration": 208,
           "byOther": false,
           "nameKey": "津輕海峽冬景色",
-          "titleZh": "津軽海峽・冬景色"
+          "titleZh": "津軽海峽・冬景色",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -10345,7 +10553,8 @@
           "duration": 235,
           "byOther": false,
           "nameKey": "臺北の夜",
-          "titleZh": "臺北の夜"
+          "titleZh": "臺北の夜",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -10462,7 +10671,8 @@
           "duration": 182,
           "byOther": false,
           "nameKey": "輓歌",
-          "titleZh": "輓歌"
+          "titleZh": "輓歌",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -10485,7 +10695,8 @@
           "duration": 202,
           "byOther": false,
           "nameKey": "なみだ戀",
-          "titleZh": "なみだ戀"
+          "titleZh": "なみだ戀",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -10536,7 +10747,8 @@
           "duration": 132,
           "byOther": false,
           "nameKey": "小媳婦回孃家",
-          "titleZh": "小媳婦回孃家"
+          "titleZh": "小媳婦回孃家",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -10824,7 +11036,8 @@
           "duration": 169,
           "byOther": false,
           "nameKey": "海韻",
-          "titleZh": "海韻"
+          "titleZh": "海韻",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -10836,7 +11049,8 @@
           "duration": 256,
           "byOther": false,
           "nameKey": "水漣漪",
-          "titleZh": "水漣漪"
+          "titleZh": "水漣漪",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -10848,7 +11062,8 @@
           "duration": 205,
           "byOther": false,
           "nameKey": "把愛埋藏在心窩",
-          "titleZh": "把愛埋藏在心窩"
+          "titleZh": "把愛埋藏在心窩",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -10860,7 +11075,8 @@
           "duration": 207,
           "byOther": false,
           "nameKey": "千言萬語",
-          "titleZh": "千言萬語"
+          "titleZh": "千言萬語",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -10872,7 +11088,8 @@
           "duration": 116,
           "byOther": false,
           "nameKey": "為什麼你會有煩惱",
-          "titleZh": "為什麼你會有煩惱"
+          "titleZh": "為什麼你會有煩惱",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -10884,7 +11101,8 @@
           "duration": 142,
           "byOther": false,
           "nameKey": "你愛那一朵",
-          "titleZh": "你愛那一朵"
+          "titleZh": "你愛那一朵",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -10896,7 +11114,8 @@
           "duration": 158,
           "byOther": false,
           "nameKey": "記得你記得我",
-          "titleZh": "記得你記得我"
+          "titleZh": "記得你記得我",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -10908,7 +11127,8 @@
           "duration": 187,
           "byOther": false,
           "nameKey": "唯一的心願",
-          "titleZh": "唯一的心願"
+          "titleZh": "唯一的心願",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -10920,7 +11140,8 @@
           "duration": 131,
           "byOther": false,
           "nameKey": "青春樂",
-          "titleZh": "青春樂"
+          "titleZh": "青春樂",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -10932,7 +11153,8 @@
           "duration": 180,
           "byOther": false,
           "nameKey": "我怎能離開你",
-          "titleZh": "我怎能離開你"
+          "titleZh": "我怎能離開你",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -10944,7 +11166,8 @@
           "duration": 170,
           "byOther": false,
           "nameKey": "是否記得我",
-          "titleZh": "是否記得我"
+          "titleZh": "是否記得我",
+          "titleZhVariant": true
         },
         {
           "index": 13,
@@ -10956,7 +11179,8 @@
           "duration": 144,
           "byOther": false,
           "nameKey": "有誰知道我",
-          "titleZh": "有誰知道我"
+          "titleZh": "有誰知道我",
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -10968,7 +11192,8 @@
           "duration": 164,
           "byOther": false,
           "nameKey": "永相愛",
-          "titleZh": "永相愛"
+          "titleZh": "永相愛",
+          "titleZhVariant": true
         },
         {
           "index": 15,
@@ -10980,7 +11205,8 @@
           "duration": 136,
           "byOther": false,
           "nameKey": "嗨我告訴你",
-          "titleZh": "嗨! 我告訴你"
+          "titleZh": "嗨! 我告訴你",
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -10992,7 +11218,8 @@
           "duration": 190,
           "byOther": false,
           "nameKey": "小詩",
-          "titleZh": "小詩"
+          "titleZh": "小詩",
+          "titleZhVariant": true
         },
         {
           "index": 17,
@@ -11004,7 +11231,8 @@
           "duration": 156,
           "byOther": false,
           "nameKey": "紅豆",
-          "titleZh": "紅豆"
+          "titleZh": "紅豆",
+          "titleZhVariant": true
         },
         {
           "index": 18,
@@ -11016,7 +11244,8 @@
           "duration": 233,
           "byOther": false,
           "nameKey": "尋找",
-          "titleZh": "尋找"
+          "titleZh": "尋找",
+          "titleZhVariant": true
         },
         {
           "index": 19,
@@ -11028,7 +11257,8 @@
           "duration": 128,
           "byOther": false,
           "nameKey": "我要問問你",
-          "titleZh": "我要問問你"
+          "titleZh": "我要問問你",
+          "titleZhVariant": true
         },
         {
           "index": 20,
@@ -11040,7 +11270,8 @@
           "duration": 144,
           "byOther": false,
           "nameKey": "三個夢",
-          "titleZh": "三個夢"
+          "titleZh": "三個夢",
+          "titleZhVariant": true
         },
         {
           "index": 21,
@@ -11063,7 +11294,8 @@
           "duration": 131,
           "byOther": false,
           "nameKey": "愛惜花",
-          "titleZh": "愛惜花"
+          "titleZh": "愛惜花",
+          "titleZhVariant": true
         },
         {
           "index": 23,
@@ -11075,7 +11307,8 @@
           "duration": 169,
           "byOther": false,
           "nameKey": "鬼馬俏醫生",
-          "titleZh": "鬼馬俏醫生"
+          "titleZh": "鬼馬俏醫生",
+          "titleZhVariant": true
         },
         {
           "index": 24,
@@ -11087,7 +11320,8 @@
           "duration": 138,
           "byOther": false,
           "nameKey": "愛你永遠不恨你",
-          "titleZh": "愛你永遠不恨你"
+          "titleZh": "愛你永遠不恨你",
+          "titleZhVariant": true
         },
         {
           "index": 25,
@@ -11099,7 +11333,8 @@
           "duration": 208,
           "byOther": false,
           "nameKey": "近水樓臺",
-          "titleZh": "近水樓臺"
+          "titleZh": "近水樓臺",
+          "titleZhVariant": true
         },
         {
           "index": 26,
@@ -11111,7 +11346,8 @@
           "duration": 196,
           "byOther": false,
           "nameKey": "愛的寂寞",
-          "titleZh": "愛的寂寞"
+          "titleZh": "愛的寂寞",
+          "titleZhVariant": true
         },
         {
           "index": 27,
@@ -11123,7 +11359,8 @@
           "duration": 144,
           "byOther": false,
           "nameKey": "愛你一萬倍",
-          "titleZh": "愛你一萬倍"
+          "titleZh": "愛你一萬倍",
+          "titleZhVariant": true
         },
         {
           "index": 28,
@@ -11135,7 +11372,8 @@
           "duration": 138,
           "byOther": false,
           "nameKey": "愛人就是我",
-          "titleZh": "愛人就是我"
+          "titleZh": "愛人就是我",
+          "titleZhVariant": true
         },
         {
           "index": 29,
@@ -11147,7 +11385,8 @@
           "duration": 173,
           "byOther": false,
           "nameKey": "後悔愛上你",
-          "titleZh": "後悔愛上你"
+          "titleZh": "後悔愛上你",
+          "titleZhVariant": true
         },
         {
           "index": 30,
@@ -11159,7 +11398,8 @@
           "duration": 189,
           "byOther": false,
           "nameKey": "你可知道我愛誰",
-          "titleZh": "你可知道我愛誰"
+          "titleZh": "你可知道我愛誰",
+          "titleZhVariant": true
         },
         {
           "index": 31,
@@ -11171,7 +11411,8 @@
           "duration": 168,
           "byOther": false,
           "nameKey": "愛的你呀何處尋",
-          "titleZh": "愛的你呀何處尋"
+          "titleZh": "愛的你呀何處尋",
+          "titleZhVariant": true
         },
         {
           "index": 32,
@@ -11183,7 +11424,8 @@
           "duration": 149,
           "byOther": false,
           "nameKey": "我不該愛你",
-          "titleZh": "我不該愛你"
+          "titleZh": "我不該愛你",
+          "titleZhVariant": true
         },
         {
           "index": 33,
@@ -11195,7 +11437,8 @@
           "duration": 186,
           "byOther": false,
           "nameKey": "愛情與同情",
-          "titleZh": "愛情與同情"
+          "titleZh": "愛情與同情",
+          "titleZhVariant": true
         },
         {
           "index": 34,
@@ -11207,7 +11450,8 @@
           "duration": 149,
           "byOther": false,
           "nameKey": "心中喜歡就說愛",
-          "titleZh": "心中喜歡就說愛"
+          "titleZh": "心中喜歡就說愛",
+          "titleZhVariant": true
         },
         {
           "index": 35,
@@ -11219,7 +11463,8 @@
           "duration": 137,
           "byOther": false,
           "nameKey": "沒有愛怎麼活",
-          "titleZh": "沒有愛怎麼活"
+          "titleZh": "沒有愛怎麼活",
+          "titleZhVariant": true
         },
         {
           "index": 36,
@@ -11231,7 +11476,8 @@
           "duration": 153,
           "byOther": false,
           "nameKey": "不愛你又愛誰",
-          "titleZh": "不愛你又愛誰"
+          "titleZh": "不愛你又愛誰",
+          "titleZhVariant": true
         },
         {
           "index": 37,
@@ -11243,7 +11489,8 @@
           "duration": 138,
           "byOther": false,
           "nameKey": "像輕煙的愛情",
-          "titleZh": "像輕煙的愛情"
+          "titleZh": "像輕煙的愛情",
+          "titleZhVariant": true
         },
         {
           "index": 38,
@@ -11255,7 +11502,8 @@
           "duration": 164,
           "byOther": false,
           "nameKey": "愛你又失去你",
-          "titleZh": "愛你又失去你"
+          "titleZh": "愛你又失去你",
+          "titleZhVariant": true
         },
         {
           "index": 39,
@@ -11267,7 +11515,8 @@
           "duration": 128,
           "byOther": false,
           "nameKey": "一年四季都有愛",
-          "titleZh": "一年四季都有愛"
+          "titleZh": "一年四季都有愛",
+          "titleZhVariant": true
         },
         {
           "index": 40,
@@ -11279,7 +11528,8 @@
           "duration": 159,
           "byOther": false,
           "nameKey": "我愛你",
-          "titleZh": "我愛你"
+          "titleZh": "我愛你",
+          "titleZhVariant": true
         },
         {
           "index": 41,
@@ -11291,7 +11541,8 @@
           "duration": 177,
           "byOther": false,
           "nameKey": "少年愛姑娘",
-          "titleZh": "少年愛姑娘"
+          "titleZh": "少年愛姑娘",
+          "titleZhVariant": true
         },
         {
           "index": 42,
@@ -11303,7 +11554,8 @@
           "duration": 117,
           "byOther": false,
           "nameKey": "愛的世界",
-          "titleZh": "愛的世界"
+          "titleZh": "愛的世界",
+          "titleZhVariant": true
         },
         {
           "index": 43,
@@ -11315,7 +11567,8 @@
           "duration": 195,
           "byOther": false,
           "nameKey": "愛的播種",
-          "titleZh": "愛的播種"
+          "titleZh": "愛的播種",
+          "titleZhVariant": true
         },
         {
           "index": 44,
@@ -11327,7 +11580,8 @@
           "duration": 174,
           "byOther": false,
           "nameKey": "愛情多美好",
-          "titleZh": "愛情多美好"
+          "titleZh": "愛情多美好",
+          "titleZhVariant": true
         },
         {
           "index": 45,
@@ -11339,7 +11593,8 @@
           "duration": 139,
           "byOther": false,
           "nameKey": "你的愛人不是我",
-          "titleZh": "你的愛人不是我"
+          "titleZh": "你的愛人不是我",
+          "titleZhVariant": true
         },
         {
           "index": 46,
@@ -11351,7 +11606,8 @@
           "duration": 170,
           "byOther": false,
           "nameKey": "永恆的愛",
-          "titleZh": "永恆的愛"
+          "titleZh": "永恆的愛",
+          "titleZhVariant": true
         },
         {
           "index": 47,
@@ -11363,7 +11619,8 @@
           "duration": 184,
           "byOther": false,
           "nameKey": "盼望有一份愛",
-          "titleZh": "盼望有一份愛"
+          "titleZh": "盼望有一份愛",
+          "titleZhVariant": true
         },
         {
           "index": 48,
@@ -11375,7 +11632,8 @@
           "duration": 126,
           "byOther": false,
           "nameKey": "當我已經知道愛",
-          "titleZh": "當我已經知道愛"
+          "titleZh": "當我已經知道愛",
+          "titleZhVariant": true
         },
         {
           "index": 49,
@@ -11387,7 +11645,8 @@
           "duration": 135,
           "byOther": false,
           "nameKey": "告訴他我愛他",
-          "titleZh": "告訴他我愛他"
+          "titleZh": "告訴他我愛他",
+          "titleZhVariant": true
         },
         {
           "index": 50,
@@ -11399,7 +11658,8 @@
           "duration": 178,
           "byOther": false,
           "nameKey": "我就是愛你",
-          "titleZh": "我就是愛你"
+          "titleZh": "我就是愛你",
+          "titleZhVariant": true
         },
         {
           "index": 51,
@@ -11411,7 +11671,8 @@
           "duration": 116,
           "byOther": false,
           "nameKey": "有愛才有快樂",
-          "titleZh": "有愛才有快樂"
+          "titleZh": "有愛才有快樂",
+          "titleZhVariant": true
         },
         {
           "index": 52,
@@ -11423,7 +11684,8 @@
           "duration": 122,
           "byOther": false,
           "nameKey": "愛人是個多情人",
-          "titleZh": "愛人是個多情人"
+          "titleZh": "愛人是個多情人",
+          "titleZhVariant": true
         },
         {
           "index": 53,
@@ -11435,7 +11697,8 @@
           "duration": 151,
           "byOther": false,
           "nameKey": "你不愛我我愛你",
-          "titleZh": "你不愛我我愛你"
+          "titleZh": "你不愛我我愛你",
+          "titleZhVariant": true
         },
         {
           "index": 54,
@@ -11447,7 +11710,8 @@
           "duration": 129,
           "byOther": false,
           "nameKey": "愛似輕風情似細雨",
-          "titleZh": "愛似輕風情似細雨"
+          "titleZh": "愛似輕風情似細雨",
+          "titleZhVariant": true
         },
         {
           "index": 55,
@@ -11481,7 +11745,8 @@
           "duration": 151,
           "byOther": false,
           "nameKey": "江水悠悠淚長流",
-          "titleZh": "江水悠悠淚長流"
+          "titleZh": "江水悠悠淚長流",
+          "titleZhVariant": true
         },
         {
           "index": 58,
@@ -11493,7 +11758,8 @@
           "duration": 164,
           "byOther": false,
           "nameKey": "藍色的姑娘",
-          "titleZh": "藍色的姑娘"
+          "titleZh": "藍色的姑娘",
+          "titleZhVariant": true
         },
         {
           "index": 59,
@@ -11505,7 +11771,8 @@
           "duration": 140,
           "byOther": false,
           "nameKey": "把你印在心窩裡",
-          "titleZh": "把你印在心窩裡"
+          "titleZh": "把你印在心窩裡",
+          "titleZhVariant": true
         },
         {
           "index": 60,
@@ -11517,7 +11784,8 @@
           "duration": 124,
           "byOther": false,
           "nameKey": "路邊的野花不要採",
-          "titleZh": "路邊的野花不要採"
+          "titleZh": "路邊的野花不要採",
+          "titleZhVariant": true
         },
         {
           "index": 61,
@@ -11562,7 +11830,8 @@
           "duration": 175,
           "byOther": false,
           "nameKey": "永遠是個小娃娃",
-          "titleZh": "永遠是個小娃娃"
+          "titleZh": "永遠是個小娃娃",
+          "titleZhVariant": true
         },
         {
           "index": 65,
@@ -11585,7 +11854,8 @@
           "duration": 162,
           "byOther": false,
           "nameKey": "雨中戀情",
-          "titleZh": "雨中戀情"
+          "titleZh": "雨中戀情",
+          "titleZhVariant": true
         },
         {
           "index": 67,
@@ -11597,7 +11867,8 @@
           "duration": 125,
           "byOther": false,
           "nameKey": "異鄉人",
-          "titleZh": "異鄉人"
+          "titleZh": "異鄉人",
+          "titleZhVariant": true
         },
         {
           "index": 68,
@@ -11631,7 +11902,8 @@
           "duration": 168,
           "byOther": false,
           "nameKey": "情人再見",
-          "titleZh": "情人再見"
+          "titleZh": "情人再見",
+          "titleZhVariant": true
         },
         {
           "index": 71,
@@ -11654,7 +11926,8 @@
           "duration": 178,
           "byOther": false,
           "nameKey": "溫情滿人間",
-          "titleZh": "溫情滿人間"
+          "titleZh": "溫情滿人間",
+          "titleZhVariant": true
         },
         {
           "index": 73,
@@ -11666,7 +11939,8 @@
           "duration": 141,
           "byOther": false,
           "nameKey": "快樂的恰恰姑娘",
-          "titleZh": "快樂的恰恰姑娘"
+          "titleZh": "快樂的恰恰姑娘",
+          "titleZhVariant": true
         },
         {
           "index": 74,
@@ -11711,7 +11985,8 @@
           "duration": 179,
           "byOther": false,
           "nameKey": "噢琳達",
-          "titleZh": "噢！琳達"
+          "titleZh": "噢！琳達",
+          "titleZhVariant": true
         },
         {
           "index": 78,
@@ -11767,7 +12042,8 @@
           "duration": 168,
           "byOther": false,
           "nameKey": "誰是心上人",
-          "titleZh": "誰是心上人"
+          "titleZh": "誰是心上人",
+          "titleZhVariant": true
         },
         {
           "index": 83,
@@ -11779,7 +12055,8 @@
           "duration": 148,
           "byOther": false,
           "nameKey": "不怕不能再相見",
-          "titleZh": "不怕不能再相見"
+          "titleZh": "不怕不能再相見",
+          "titleZhVariant": true
         },
         {
           "index": 84,
@@ -11791,7 +12068,8 @@
           "duration": 150,
           "byOther": false,
           "nameKey": "風的傳說",
-          "titleZh": "風的傳說"
+          "titleZh": "風的傳說",
+          "titleZhVariant": true
         },
         {
           "index": 85,
@@ -11803,7 +12081,8 @@
           "duration": 241,
           "byOther": false,
           "nameKey": "情人的關懷",
-          "titleZh": "情人的關懷"
+          "titleZh": "情人的關懷",
+          "titleZhVariant": true
         },
         {
           "index": 86,
@@ -11815,7 +12094,8 @@
           "duration": 111,
           "byOther": false,
           "nameKey": "又是一個下雨天",
-          "titleZh": "又是一個下雨天"
+          "titleZh": "又是一個下雨天",
+          "titleZhVariant": true
         },
         {
           "index": 87,
@@ -11827,7 +12107,8 @@
           "duration": 159,
           "byOther": false,
           "nameKey": "小雨多美麗",
-          "titleZh": "小雨多美麗"
+          "titleZh": "小雨多美麗",
+          "titleZhVariant": true
         },
         {
           "index": 88,
@@ -11861,7 +12142,8 @@
           "duration": 152,
           "byOther": false,
           "nameKey": "嘿嘿小可愛",
-          "titleZh": "嘿嘿小可愛"
+          "titleZh": "嘿嘿小可愛",
+          "titleZhVariant": true
         },
         {
           "index": 91,
@@ -11895,7 +12177,8 @@
           "duration": 147,
           "byOther": false,
           "nameKey": "快樂的人",
-          "titleZh": "快樂的人"
+          "titleZh": "快樂的人",
+          "titleZhVariant": true
         },
         {
           "index": 94,
@@ -11907,7 +12190,8 @@
           "duration": 190,
           "byOther": false,
           "nameKey": "初見你一面",
-          "titleZh": "初見你一面"
+          "titleZh": "初見你一面",
+          "titleZhVariant": true
         },
         {
           "index": 95,
@@ -11919,7 +12203,8 @@
           "duration": 154,
           "byOther": false,
           "nameKey": "希望和你再相見",
-          "titleZh": "希望和你再相見"
+          "titleZh": "希望和你再相見",
+          "titleZhVariant": true
         },
         {
           "index": 96,
@@ -11931,7 +12216,8 @@
           "duration": 163,
           "byOther": false,
           "nameKey": "冬天的回憶",
-          "titleZh": "冬天的回憶"
+          "titleZh": "冬天的回憶",
+          "titleZhVariant": true
         },
         {
           "index": 97,
@@ -11954,7 +12240,8 @@
           "duration": 129,
           "byOther": false,
           "nameKey": "我怎捨得你",
-          "titleZh": "我怎捨得你"
+          "titleZh": "我怎捨得你",
+          "titleZhVariant": true
         },
         {
           "index": 99,
@@ -11966,7 +12253,8 @@
           "duration": 159,
           "byOther": false,
           "nameKey": "時光不再來",
-          "titleZh": "時光不再來"
+          "titleZh": "時光不再來",
+          "titleZhVariant": true
         },
         {
           "index": 100,
@@ -12000,7 +12288,8 @@
           "duration": 161,
           "byOther": false,
           "nameKey": "有人呼喚你",
-          "titleZh": "有人呼喚你"
+          "titleZh": "有人呼喚你",
+          "titleZhVariant": true
         },
         {
           "index": 103,
@@ -12012,7 +12301,8 @@
           "duration": 123,
           "byOther": false,
           "nameKey": "誰來同情我",
-          "titleZh": "誰來同情我"
+          "titleZh": "誰來同情我",
+          "titleZhVariant": true
         },
         {
           "index": 104,
@@ -12024,7 +12314,8 @@
           "duration": 136,
           "byOther": false,
           "nameKey": "花前月下獨徘徊",
-          "titleZh": "花前月下獨徘徊"
+          "titleZh": "花前月下獨徘徊",
+          "titleZhVariant": true
         },
         {
           "index": 105,
@@ -12047,7 +12338,8 @@
           "duration": 121,
           "byOther": false,
           "nameKey": "相思在夢裡",
-          "titleZh": "相思在夢裡"
+          "titleZh": "相思在夢裡",
+          "titleZhVariant": true
         },
         {
           "index": 107,
@@ -12059,7 +12351,8 @@
           "duration": 122,
           "byOther": false,
           "nameKey": "好夢太匆匆",
-          "titleZh": "好夢太匆匆"
+          "titleZh": "好夢太匆匆",
+          "titleZhVariant": true
         },
         {
           "index": 108,
@@ -12071,7 +12364,8 @@
           "duration": 135,
           "byOther": false,
           "nameKey": "青山綠水我和你",
-          "titleZh": "青山綠水我和你"
+          "titleZh": "青山綠水我和你",
+          "titleZhVariant": true
         },
         {
           "index": 109,
@@ -12105,7 +12399,8 @@
           "duration": 153,
           "byOther": false,
           "nameKey": "想你想斷腸",
-          "titleZh": "想你想斷腸"
+          "titleZh": "想你想斷腸",
+          "titleZhVariant": true
         },
         {
           "index": 112,
@@ -12117,7 +12412,8 @@
           "duration": 192,
           "byOther": false,
           "nameKey": "舊夢何處尋",
-          "titleZh": "舊夢何處尋"
+          "titleZh": "舊夢何處尋",
+          "titleZhVariant": true
         },
         {
           "index": 113,
@@ -12129,7 +12425,8 @@
           "duration": 118,
           "byOther": false,
           "nameKey": "情人的陽光",
-          "titleZh": "情人的陽光"
+          "titleZh": "情人的陽光",
+          "titleZhVariant": true
         },
         {
           "index": 114,
@@ -12141,7 +12438,8 @@
           "duration": 149,
           "byOther": false,
           "nameKey": "風從那裡來",
-          "titleZh": "風從那裡來"
+          "titleZh": "風從那裡來",
+          "titleZhVariant": true
         },
         {
           "index": 115,
@@ -12153,7 +12451,8 @@
           "duration": 170,
           "byOther": false,
           "nameKey": "說一聲再見",
-          "titleZh": "說一聲再見"
+          "titleZh": "說一聲再見",
+          "titleZhVariant": true
         },
         {
           "index": 116,
@@ -12165,7 +12464,8 @@
           "duration": 163,
           "byOther": false,
           "nameKey": "我到海邊送夕陽",
-          "titleZh": "我到海邊送夕陽"
+          "titleZh": "我到海邊送夕陽",
+          "titleZhVariant": true
         },
         {
           "index": 117,
@@ -12177,7 +12477,8 @@
           "duration": 154,
           "byOther": false,
           "nameKey": "如果你喜歡這首歌",
-          "titleZh": "如果你喜歡這首歌"
+          "titleZh": "如果你喜歡這首歌",
+          "titleZhVariant": true
         },
         {
           "index": 118,
@@ -12189,7 +12490,8 @@
           "duration": 134,
           "byOther": false,
           "nameKey": "小花夕陽下",
-          "titleZh": "小花夕陽下"
+          "titleZh": "小花夕陽下",
+          "titleZhVariant": true
         },
         {
           "index": 119,
@@ -12201,7 +12503,8 @@
           "duration": 131,
           "byOther": false,
           "nameKey": "想起從前",
-          "titleZh": "想起從前"
+          "titleZh": "想起從前",
+          "titleZhVariant": true
         },
         {
           "index": 120,
@@ -12224,7 +12527,8 @@
           "duration": 168,
           "byOther": false,
           "nameKey": "誰有我的情意長",
-          "titleZh": "誰有我的情意長"
+          "titleZh": "誰有我的情意長",
+          "titleZhVariant": true
         },
         {
           "index": 122,
@@ -12236,7 +12540,8 @@
           "duration": 141,
           "byOther": false,
           "nameKey": "一見鍾情",
-          "titleZh": "一見鍾情"
+          "titleZh": "一見鍾情",
+          "titleZhVariant": true
         },
         {
           "index": 123,
@@ -12248,7 +12553,8 @@
           "duration": 118,
           "byOther": false,
           "nameKey": "第一次見到你",
-          "titleZh": "第一次見到你"
+          "titleZh": "第一次見到你",
+          "titleZhVariant": true
         },
         {
           "index": 124,
@@ -12271,7 +12577,8 @@
           "duration": 166,
           "byOther": false,
           "nameKey": "多少相思無從寄",
-          "titleZh": "多少相思無從寄"
+          "titleZh": "多少相思無從寄",
+          "titleZhVariant": true
         },
         {
           "index": 126,
@@ -12283,7 +12590,8 @@
           "duration": 137,
           "byOther": false,
           "nameKey": "春天在車廂裡",
-          "titleZh": "春天在車廂裡"
+          "titleZh": "春天在車廂裡",
+          "titleZhVariant": true
         },
         {
           "index": 127,
@@ -12295,7 +12603,8 @@
           "duration": 115,
           "byOther": false,
           "nameKey": "心愛的小馬車",
-          "titleZh": "心愛的小馬車"
+          "titleZh": "心愛的小馬車",
+          "titleZhVariant": true
         },
         {
           "index": 128,
@@ -12318,7 +12627,8 @@
           "duration": 134,
           "byOther": false,
           "nameKey": "那天晚上遇見你",
-          "titleZh": "那天晚上遇見你"
+          "titleZh": "那天晚上遇見你",
+          "titleZhVariant": true
         },
         {
           "index": 130,
@@ -12330,7 +12640,8 @@
           "duration": 175,
           "byOther": false,
           "nameKey": "昨夜夢魂中",
-          "titleZh": "昨夜夢魂中"
+          "titleZh": "昨夜夢魂中",
+          "titleZhVariant": true
         },
         {
           "index": 131,
@@ -12342,7 +12653,8 @@
           "duration": 201,
           "byOther": false,
           "nameKey": "為君愁",
-          "titleZh": "為君愁"
+          "titleZh": "為君愁",
+          "titleZhVariant": true
         },
         {
           "index": 132,
@@ -12354,7 +12666,8 @@
           "duration": 126,
           "byOther": false,
           "nameKey": "我倆在一起",
-          "titleZh": "我倆在一起"
+          "titleZh": "我倆在一起",
+          "titleZhVariant": true
         },
         {
           "index": 133,
@@ -12377,7 +12690,8 @@
           "duration": 137,
           "byOther": false,
           "nameKey": "不敢告訴你",
-          "titleZh": "不敢告訴你"
+          "titleZh": "不敢告訴你",
+          "titleZhVariant": true
         },
         {
           "index": 135,
@@ -12389,7 +12703,8 @@
           "duration": 215,
           "byOther": false,
           "nameKey": "我沒有騙你",
-          "titleZh": "我沒有騙你"
+          "titleZh": "我沒有騙你",
+          "titleZhVariant": true
         },
         {
           "index": 136,
@@ -12451,7 +12766,8 @@
           "duration": 219,
           "byOther": false,
           "nameKey": "心裡夢裡",
-          "titleZh": "心裡夢裡"
+          "titleZh": "心裡夢裡",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -14350,7 +14666,8 @@
           "duration": 244,
           "byOther": false,
           "nameKey": "賣肉粽",
-          "titleZh": "賣肉粽 (臺語)"
+          "titleZh": "賣肉粽 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 28,
@@ -15344,7 +15661,8 @@
           "duration": 149,
           "byOther": false,
           "nameKey": "風從那裡來",
-          "titleZh": "風從那裡來"
+          "titleZh": "風從那裡來",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -15367,7 +15685,8 @@
           "duration": 186,
           "byOther": false,
           "nameKey": "我要對你說",
-          "titleZh": "我要對你說"
+          "titleZh": "我要對你說",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -15379,7 +15698,8 @@
           "duration": 170,
           "byOther": false,
           "nameKey": "永恆的愛",
-          "titleZh": "永恆的愛"
+          "titleZh": "永恆的愛",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -15391,7 +15711,8 @@
           "duration": 162,
           "byOther": false,
           "nameKey": "寂寞的淚影",
-          "titleZh": "寂寞的淚影"
+          "titleZh": "寂寞的淚影",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -15403,7 +15724,8 @@
           "duration": 189,
           "byOther": false,
           "nameKey": "你可知道我愛誰",
-          "titleZh": "你可知道我愛誰"
+          "titleZh": "你可知道我愛誰",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -15415,7 +15737,8 @@
           "duration": 118,
           "byOther": false,
           "nameKey": "情人的陽光",
-          "titleZh": "情人的陽光"
+          "titleZh": "情人的陽光",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -15427,7 +15750,8 @@
           "duration": 141,
           "byOther": false,
           "nameKey": "一見鍾情",
-          "titleZh": "一見鍾情"
+          "titleZh": "一見鍾情",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -15450,7 +15774,8 @@
           "duration": 122,
           "byOther": false,
           "nameKey": "愛人是個多情人",
-          "titleZh": "愛人是個多情人"
+          "titleZh": "愛人是個多情人",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -15567,7 +15892,8 @@
           "duration": 149,
           "byOther": false,
           "nameKey": "臺北姑娘",
-          "titleZh": "臺北姑娘"
+          "titleZh": "臺北姑娘",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -15651,7 +15977,8 @@
           "duration": 167,
           "byOther": false,
           "nameKey": "你不瞭解我",
-          "titleZh": "你不瞭解我"
+          "titleZh": "你不瞭解我",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -16319,7 +16646,8 @@
           "duration": 145,
           "byOther": false,
           "nameKey": "緣投囝仔",
-          "titleZh": "緣投囝仔"
+          "titleZh": "緣投囝仔",
+          "titleZhVariant": true
         },
         {
           "index": 19,
@@ -16414,7 +16742,8 @@
           "duration": 180,
           "byOther": false,
           "nameKey": "我怎能離開你",
-          "titleZh": "我怎能離開你"
+          "titleZh": "我怎能離開你",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -16426,7 +16755,8 @@
           "duration": 215,
           "byOther": true,
           "nameKey": "為你不為自己",
-          "titleZh": "為你不為自己"
+          "titleZh": "為你不為自己",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -16438,7 +16768,8 @@
           "duration": 169,
           "byOther": false,
           "nameKey": "海韻",
-          "titleZh": "海韻"
+          "titleZh": "海韻",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -16450,7 +16781,8 @@
           "duration": 189,
           "byOther": false,
           "nameKey": "你可知道我愛誰",
-          "titleZh": "你可知道我愛誰"
+          "titleZh": "你可知道我愛誰",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -16462,7 +16794,8 @@
           "duration": 207,
           "byOther": false,
           "nameKey": "千言萬語",
-          "titleZh": "千言萬語"
+          "titleZh": "千言萬語",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -16474,7 +16807,8 @@
           "duration": 208,
           "byOther": false,
           "nameKey": "近水樓臺",
-          "titleZh": "近水樓臺"
+          "titleZh": "近水樓臺",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -16486,7 +16820,8 @@
           "duration": 170,
           "byOther": false,
           "nameKey": "是否記得我",
-          "titleZh": "是否記得我"
+          "titleZh": "是否記得我",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -16498,7 +16833,8 @@
           "duration": 171,
           "byOther": true,
           "nameKey": "心有千千結",
-          "titleZh": "心有千千結"
+          "titleZh": "心有千千結",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -16510,7 +16846,8 @@
           "duration": 256,
           "byOther": false,
           "nameKey": "水漣漪",
-          "titleZh": "水漣漪"
+          "titleZh": "水漣漪",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -16522,7 +16859,8 @@
           "duration": 147,
           "byOther": true,
           "nameKey": "彩雲飛",
-          "titleZh": "彩雲飛"
+          "titleZh": "彩雲飛",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -16534,7 +16872,8 @@
           "duration": 144,
           "byOther": true,
           "nameKey": "海鷗飛處",
-          "titleZh": "海鷗飛處"
+          "titleZh": "海鷗飛處",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -16568,7 +16907,8 @@
           "duration": 149,
           "byOther": false,
           "nameKey": "風從那裡來",
-          "titleZh": "風從那裡來"
+          "titleZh": "風從那裡來",
+          "titleZhVariant": true
         },
         {
           "index": 15,
@@ -16580,7 +16920,8 @@
           "duration": 158,
           "byOther": false,
           "nameKey": "記得你記得我",
-          "titleZh": "記得你記得我"
+          "titleZh": "記得你記得我",
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -16592,7 +16933,8 @@
           "duration": 165,
           "byOther": true,
           "nameKey": "昨夜淚痕",
-          "titleZh": "昨夜淚痕"
+          "titleZh": "昨夜淚痕",
+          "titleZhVariant": true
         },
         {
           "index": 17,
@@ -16604,7 +16946,8 @@
           "duration": 176,
           "byOther": true,
           "nameKey": "溫暖",
-          "titleZh": "溫暖"
+          "titleZh": "溫暖",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -16997,7 +17340,8 @@
           "duration": 146,
           "byOther": false,
           "nameKey": "彩雲飛",
-          "titleZh": "彩雲飛 （一）"
+          "titleZh": "彩雲飛 （一）",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -17009,7 +17353,8 @@
           "duration": 207,
           "byOther": false,
           "nameKey": "千言萬語",
-          "titleZh": "千言萬語"
+          "titleZh": "千言萬語",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -17021,7 +17366,8 @@
           "duration": 196,
           "byOther": false,
           "nameKey": "愛的寂寞",
-          "titleZh": "愛的寂寞"
+          "titleZh": "愛的寂寞",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -17033,7 +17379,8 @@
           "duration": 144,
           "byOther": false,
           "nameKey": "彩雲飛",
-          "titleZh": "彩雲飛 （二）"
+          "titleZh": "彩雲飛 （二）",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -17045,7 +17392,8 @@
           "duration": 142,
           "byOther": false,
           "nameKey": "我愛今宵",
-          "titleZh": "我愛今宵"
+          "titleZh": "我愛今宵",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -17057,7 +17405,8 @@
           "duration": 180,
           "byOther": false,
           "nameKey": "我怎能離開你",
-          "titleZh": "我怎能離開你"
+          "titleZh": "我怎能離開你",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -17069,7 +17418,8 @@
           "duration": 99,
           "byOther": false,
           "nameKey": "彩雲飛",
-          "titleZh": "彩雲飛 （三）"
+          "titleZh": "彩雲飛 （三）",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -17081,7 +17431,8 @@
           "duration": 223,
           "byOther": false,
           "nameKey": "夢難忘",
-          "titleZh": "夢難忘"
+          "titleZh": "夢難忘",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -17093,7 +17444,8 @@
           "duration": 166,
           "byOther": false,
           "nameKey": "何時你再來",
-          "titleZh": "何時你再來"
+          "titleZh": "何時你再來",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -17105,7 +17457,8 @@
           "duration": 119,
           "byOther": false,
           "nameKey": "彩雲飛",
-          "titleZh": "彩雲飛 （音樂）"
+          "titleZh": "彩雲飛 （音樂）",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -17776,133 +18129,6 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "水漣漪有誰知道我"
-    },
-    {
-      "browseId": "MPREb_iU63q5ZFLXy",
-      "playlistId": "OLAK5uy_kEYxhCgUQjhSfpaTbKKE6jIKkxi0Z13N0",
-      "title": "海韻 記得你記得我",
-      "albumArtist": "鄧麗君",
-      "type": "Album",
-      "year": 2016,
-      "thumbnail": "https://yt3.googleusercontent.com/9iytXJbEjHSmVEgOI9RNdTsRaGv4ukttlremYCd4kHizsvs94D5IFAyKl1SEdQ_fZYzdUgOhekwidrY=w544-h544-s-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "海韻",
-          "artists": "鄧麗君",
-          "videoId": "j1uMRfiPxdU",
-          "plays": 380000,
-          "playsText": "播放次數：38萬",
-          "duration": 163,
-          "byOther": false,
-          "nameKey": "海韻"
-        },
-        {
-          "index": 2,
-          "title": "記得你記得我",
-          "artists": "鄧麗君",
-          "videoId": "qANW07-VwkM",
-          "plays": 29000,
-          "playsText": "播放次數：2.9萬",
-          "duration": 153,
-          "byOther": false,
-          "nameKey": "記得你記得我"
-        },
-        {
-          "index": 3,
-          "title": "嗨！我告訴你",
-          "artists": "鄧麗君",
-          "videoId": "BLQIReEExuE",
-          "plays": 17000,
-          "playsText": "播放次數：1.7萬",
-          "duration": 135,
-          "byOther": false,
-          "nameKey": "嗨我告訴你"
-        },
-        {
-          "index": 4,
-          "title": "溫暖",
-          "artists": "原野三重唱",
-          "videoId": "Sf0cyOSZzsQ",
-          "plays": 81000,
-          "playsText": "播放次數：8.1萬",
-          "duration": 177,
-          "byOther": true,
-          "nameKey": "溫暖"
-        },
-        {
-          "index": 5,
-          "title": "初戀",
-          "artists": "電子琴演奏",
-          "videoId": "p3ri_2zqHlc",
-          "plays": 6891,
-          "playsText": "播放次數：6891",
-          "duration": 111,
-          "byOther": true,
-          "nameKey": "初戀"
-        },
-        {
-          "index": 6,
-          "title": "嗨！我告訴你",
-          "artists": "萬沙浪",
-          "videoId": "J0bE_NStvGc",
-          "plays": 10000,
-          "playsText": "播放次數：1萬",
-          "duration": 131,
-          "byOther": true,
-          "nameKey": "嗨我告訴你"
-        },
-        {
-          "index": 7,
-          "title": "三個夢",
-          "artists": "鄧麗君",
-          "videoId": "Zmfrzogj-jc",
-          "plays": 18000,
-          "playsText": "播放次數：1.8萬",
-          "duration": 142,
-          "byOther": false,
-          "nameKey": "三個夢"
-        },
-        {
-          "index": 8,
-          "title": "初戀",
-          "artists": "原野三重唱",
-          "videoId": "0Tnwnru-_mM",
-          "plays": 8579,
-          "playsText": "播放次數：8579",
-          "duration": 109,
-          "byOther": true,
-          "nameKey": "初戀"
-        },
-        {
-          "index": 9,
-          "title": "愛惜花",
-          "artists": "鄧麗君",
-          "videoId": "fpPP0iEIVXg",
-          "plays": 22000,
-          "playsText": "播放次數：2.2萬",
-          "duration": 132,
-          "byOther": false,
-          "nameKey": "愛惜花"
-        },
-        {
-          "index": 10,
-          "title": "海韻",
-          "artists": "小提琴獨奏",
-          "videoId": "lSvL0wh6Fuc",
-          "plays": 12000,
-          "playsText": "播放次數：1.2萬",
-          "duration": 170,
-          "byOther": true,
-          "nameKey": "海韻"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "海韻記得你記得我"
     },
     {
       "browseId": "MPREb_etMmCy32TOa",
@@ -19471,7 +19697,8 @@
           "duration": 166,
           "byOther": false,
           "nameKey": "雨夜花",
-          "titleZh": "雨夜花 (臺語)"
+          "titleZh": "雨夜花 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 40,
@@ -19516,7 +19743,8 @@
           "duration": 175,
           "byOther": false,
           "nameKey": "望春風",
-          "titleZh": "望春風 (臺語)"
+          "titleZh": "望春風 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 44,
@@ -20034,7 +20262,8 @@
           "duration": 234,
           "byOther": false,
           "nameKey": "北國の春",
-          "titleZh": "北國の春"
+          "titleZh": "北國の春",
+          "titleZhVariant": true
         },
         {
           "index": 91,
@@ -20212,7 +20441,8 @@
           "duration": 164,
           "byOther": false,
           "nameKey": "雨夜花",
-          "titleZh": "雨夜花 (臺語)"
+          "titleZh": "雨夜花 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -20224,7 +20454,8 @@
           "duration": 173,
           "byOther": false,
           "nameKey": "望春風",
-          "titleZh": "望春風 (臺語)"
+          "titleZh": "望春風 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -20236,7 +20467,8 @@
           "duration": 217,
           "byOther": false,
           "nameKey": "舊情綿綿",
-          "titleZh": "舊情綿綿 (臺語)"
+          "titleZh": "舊情綿綿 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -20248,7 +20480,8 @@
           "duration": 173,
           "byOther": false,
           "nameKey": "安平追想曲",
-          "titleZh": "安平追想曲 (臺語)"
+          "titleZh": "安平追想曲 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -20260,7 +20493,8 @@
           "duration": 242,
           "byOther": false,
           "nameKey": "賣肉粽",
-          "titleZh": "賣肉粽 (臺語)"
+          "titleZh": "賣肉粽 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -21073,7 +21307,8 @@
           "duration": 285,
           "byOther": false,
           "nameKey": "戀人たちの神話",
-          "titleZh": "戀人たちの神話"
+          "titleZh": "戀人たちの神話",
+          "titleZhVariant": true
         },
         {
           "index": 27,
@@ -21096,7 +21331,8 @@
           "duration": 270,
           "byOther": false,
           "nameKey": "淚の條件",
-          "titleZh": "涙の條件 (Remix)"
+          "titleZh": "涙の條件 (Remix)",
+          "titleZhVariant": true
         },
         {
           "index": 29,
@@ -21108,7 +21344,8 @@
           "duration": 262,
           "byOther": false,
           "nameKey": "悲しみと踴らせて",
-          "titleZh": "悲しみと踴らせて"
+          "titleZh": "悲しみと踴らせて",
+          "titleZhVariant": true
         },
         {
           "index": 30,
@@ -21219,7 +21456,8 @@
           "duration": 203,
           "byOther": false,
           "nameKey": "ふたたび",
-          "titleZh": "ふたたび（再來）"
+          "titleZh": "ふたたび（再來）",
+          "titleZhVariant": true
         },
         {
           "index": 40,
@@ -22833,7 +23071,8 @@
           "duration": 268,
           "byOther": false,
           "nameKey": "淚の條件",
-          "titleZh": "涙の條件 (日本《火曜ミステリー劇場》主題曲)"
+          "titleZh": "涙の條件 (日本《火曜ミステリー劇場》主題曲)",
+          "titleZhVariant": true
         },
         {
           "index": 62,
@@ -22878,7 +23117,8 @@
           "duration": 168,
           "byOther": false,
           "nameKey": "雨夜花",
-          "titleZh": "雨夜花 (臺語)"
+          "titleZh": "雨夜花 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 66,
@@ -22890,7 +23130,8 @@
           "duration": 220,
           "byOther": false,
           "nameKey": "舊情綿綿",
-          "titleZh": "舊情綿綿 (臺語)"
+          "titleZh": "舊情綿綿 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 67,
@@ -22902,7 +23143,8 @@
           "duration": 186,
           "byOther": false,
           "nameKey": "六月茉莉",
-          "titleZh": "六月茉莉 (臺語)"
+          "titleZh": "六月茉莉 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 68,
@@ -22914,7 +23156,8 @@
           "duration": 199,
           "byOther": false,
           "nameKey": "難忘的愛人",
-          "titleZh": "難忘的愛人 (臺語)"
+          "titleZh": "難忘的愛人 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 69,
@@ -23025,7 +23268,8 @@
           "duration": 208,
           "byOther": false,
           "nameKey": "亂されて",
-          "titleZh": "亂されて (日本語)"
+          "titleZh": "亂されて (日本語)",
+          "titleZhVariant": true
         },
         {
           "index": 79,

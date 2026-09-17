@@ -140,8 +140,9 @@
           "playsText": "播放次數：983",
           "duration": 259,
           "byOther": false,
+          "nameKey": "古老的秘密",
           "titleZh": "古老的秘密",
-          "nameKey": "古老的秘密"
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -3481,8 +3482,9 @@
           "playsText": "播放次數：103萬",
           "duration": 257,
           "byOther": false,
+          "nameKey": "無聲",
           "titleZh": "無聲 (臺)",
-          "nameKey": "無聲"
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -3493,8 +3495,9 @@
           "playsText": "播放次數：263萬",
           "duration": 274,
           "byOther": false,
+          "nameKey": "雨傘代表阮心肝",
           "titleZh": "雨傘代表阮心肝 (臺)",
-          "nameKey": "雨傘代表阮心肝"
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2014-02-01",

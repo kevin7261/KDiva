@@ -915,7 +915,7 @@
           "playsText": "播放次數：158",
           "duration": 256,
           "byOther": true,
-          "nameKey": "theplaceilived#live"
+          "nameKey": "theplaceilived"
         },
         {
           "index": 7,
@@ -2682,7 +2682,8 @@
           "duration": 243,
           "byOther": true,
           "nameKey": "遲到#live",
-          "titleZh": "遲到 (Live)"
+          "titleZh": "遲到 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -2694,7 +2695,8 @@
           "duration": 264,
           "byOther": true,
           "nameKey": "給我一個理由忘記#live",
-          "titleZh": "給我一個理由忘記 (Live)"
+          "titleZh": "給我一個理由忘記 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -2706,7 +2708,8 @@
           "duration": 271,
           "byOther": false,
           "nameKey": "閃亮的日子#live",
-          "titleZh": "閃亮的日子 (Live)"
+          "titleZh": "閃亮的日子 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -2718,7 +2721,8 @@
           "duration": 288,
           "byOther": true,
           "nameKey": "愛#live",
-          "titleZh": "愛 (Live)"
+          "titleZh": "愛 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -2780,7 +2784,8 @@
           "duration": 256,
           "byOther": false,
           "nameKey": "寂寞的戀人啊#live",
-          "titleZh": "寂寞的戀人啊 (Live)"
+          "titleZh": "寂寞的戀人啊 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 4,
