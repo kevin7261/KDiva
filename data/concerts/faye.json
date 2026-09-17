@@ -1,0 +1,592 @@
+{
+  "slug": "faye",
+  "fetchedAt": "2026-09-17T16:42:54.065Z",
+  "wiki": "詹雯婷",
+  "bio": {
+    "born": {
+      "date": "1981-08-27",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "小天空Tour",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2012-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2012-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "Faye 全創作 演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2015-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "小太空 Tour",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2017-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2017-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "廈門站：2017年6月9日 Real Live",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-09",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "杭州站：2017年6月11日 MAO livehouse",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-11",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-11",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "成都站：2017年6月17日 正火藝術中心",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-17",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "武漢站：2017年6月23日 音速431",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "西安站：2017年6月24日 1935 livehouse",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-24",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "臺北站：2017年7月23日 Legacy Taipei",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-07-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-07-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "上海站：2018年3月16日 育音堂",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-03-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-16",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "長沙站：2018年3月18日 VOX Live house",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-03-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-18",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "深圳站：2018年3月21日 B10 Live house",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-03-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-21",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "廣州站：2018年3月22日 SD Live house",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-03-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "南寧站：2018年3月24日 侯朋現場",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-03-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-24",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "昆明站：2018年3月25日 MAO Live house",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-03-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-25",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "青島站：2018年4月14日 Downtown Live house",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-04-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-04-14",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "北京站：2018年4月15日 疆進酒 Omni Space",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-04-15",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-04-15",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "蘇州站：2018年4月21日 山丘咖啡 Hillhouse",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-04-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-04-21",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "香港站：2018年4月25日 This Town Needs",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-04-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-04-25",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "在雲彩上跳舞 嘰嘰喳喳Tour",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2022-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "臺中場：2022年2月26日 Legacy Taichung音樂展演空間",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-02-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-02-26",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "臺北場：2022年3月5日 Legacy Taipei 音樂展演空間",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-03-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-03-05",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "南京場：2022年11月19日 稻香大麥 LiveHouse",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-11-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-11-19",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "杭州場：2022年11月27日 大麥·66LiveHouse",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-11-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-11-27",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "成都場：2022年12月1日 麓湖水上劇場",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-12-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-12-01",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "廈門場：2022年12月9日 WOKESHOW星巢沃克秀",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-12-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-12-09",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "福州場：2022年12月17日 MAAQUUxCH8 LiveHouse",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-12-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-12-17",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "廣州場：2023年1月6日 太空間 LiveHouse",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-01-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-01-06",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "西安場：2023年4月22日 星球工廠",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-04-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-04-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "深圳場：2023年5月7日 SoFun Live",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-05-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-05-07",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "上海場：2023年6月2日 萬代南夢宮上海文化中心",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-06-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-06-02",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "北京場：2023年8月27日 北京展覽館劇場",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-08-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-08-27",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "slug": "jia-jia",
+  "fetchedAt": "2026-09-17T16:35:37.551Z",
+  "wiki": "紀家盈",
+  "bio": {
+    "born": {
+      "date": "1983-01-08",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "我相信演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-02-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-02-03",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺北小巨蛋"
+      ],
+      "venues": [
+        "臺北小巨蛋"
+      ],
+      "shows": []
+    },
+    {
+      "name": "淚滴家家",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-07-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-07-20",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "松山文創園區一號倉庫"
+      ],
+      "shows": [
+        {
+          "date": "2013-07-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "松山文創園區一號倉庫",
+          "lat": 25.04361111,
+          "lon": 121.5625,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "犀利女子大趴",
+      "page": "超犀利趴",
+      "kind": "concert",
+      "start": {
+        "date": "2013-08-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-08-24",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺北小巨蛋"
+      ],
+      "venues": [
+        "臺北小巨蛋"
+      ],
+      "shows": []
+    },
+    {
+      "name": "草的力量演唱會－清新浪漫夜",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-11-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-11-02",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺大綜合體育館"
+      ],
+      "venues": [
+        "臺大綜合體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "靈魂家家為寂寞的情人唱歌白色情人節演唱會",
+      "page": "為寂寞的情人唱歌",
+      "kind": "concert",
+      "start": {
+        "date": "2014-03-15",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-03-15",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺北Legacy"
+      ],
+      "venues": [
+        "臺北Legacy"
+      ],
+      "shows": []
+    },
+    {
+      "name": "NEW！再創新高迎新演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-01-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-01-01",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "凱旋三路（高雄氣爆災區）"
+      ],
+      "venues": [
+        "凱旋三路（高雄氣爆災區）"
+      ],
+      "shows": []
+    },
+    {
+      "name": "我相信！醉心龍虎榜街頭爆唱會 LIVE IN SINGAPORE",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-04-12",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-04-12",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "新加坡義安城廣場"
+      ],
+      "venues": [
+        "新加坡義安城廣場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "飛 wind beneath my wings",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-05-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-05-30",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北國際會議中心"
+      ],
+      "shows": [
+        {
+          "date": "2015-05-30",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "還是想念 Still Missing新歌巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2017-04-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-11-19",
+        "precision": "day"
+      },
+      "showCount": 9,
+      "regions": [
+        "臺灣",
+        "香港",
+        "美國"
+      ],
+      "cities": [
+        "臺北",
+        "臺東",
+        "臺中",
+        "高雄",
+        "香港",
+        "洛杉磯",
+        "紐約"
+      ],
+      "venues": [
+        "臺北Legacy",
+        "鐵花村音樂聚落",
+        "臺中Legacy",
+        "LIVE WAREHOUSE",
+        "九龍灣國際展貿中心",
+        "ATT Show Box 文創立方",
+        "The Parish at House of Blues Anaheim",
+        "Gramercy Theatre"
+      ],
+      "shows": [
+        {
+          "date": "2017-04-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2017-05-13",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺東",
+          "venue": "鐵花村音樂聚落",
+          "lat": 22.758333333333,
+          "lon": 121.14444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2017-05-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "臺中Legacy",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2017-07-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2017-07-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2017-08-25",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "九龍灣國際展貿中心",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-09-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "ATT Show Box 文創立方",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2017-11-17",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "The Parish at House of Blues Anaheim",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "2017-11-19",
+          "precision": "day",
+          "region": "美國",
+          "city": "紐約",
+          "venue": "Gramercy Theatre",
+          "lat": 40.71277777777778,
+          "lon": -74.00611111111111,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "在家裡 HOUSE PARTY",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-09-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-09-07",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北國際會議中心"
+      ],
+      "shows": [
+        {
+          "date": "2019-09-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "我想要的 I, ME, MINE新歌巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2019-11-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-11-24",
+        "precision": "day"
+      },
+      "showCount": 6,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [
+        "臺北",
+        "上海",
+        "北京",
+        "廣州",
+        "臺中",
+        "高雄"
+      ],
+      "venues": [
+        "Legacy Taipei",
+        "VAS",
+        "疆進酒",
+        "MAO",
+        "Legacy Taichung",
+        "SPERO 高雄海流館"
+      ],
+      "shows": [
+        {
+          "date": "2019-11-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2019-11-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "VAS",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2019-11-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "疆進酒",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2019-11-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "MAO",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2019-11-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2019-11-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "SPERO 高雄海流館",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "月部落演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2025-09-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-09-27",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "Legacy Taipei 音樂展演空間"
+      ],
+      "shows": [
+        {
+          "date": "2025-09-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
+}

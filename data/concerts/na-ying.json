@@ -1,0 +1,695 @@
+{
+  "slug": "na-ying",
+  "fetchedAt": "2026-09-17T16:35:08.545Z",
+  "wiki": "那英",
+  "bio": {
+    "born": {
+      "date": "1967-11-27",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "我不是天使巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2001-09-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2002-08-02",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "香港",
+        "馬來西亞",
+        "中國大陸"
+      ],
+      "cities": [
+        "香港",
+        "雲頂",
+        "上海",
+        "瀋陽"
+      ],
+      "venues": [
+        "紅磡體育館",
+        "雲星劇場",
+        "上海大舞臺",
+        "五里河體育場"
+      ],
+      "shows": [
+        {
+          "date": "2001-09-25",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2001-10-08",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-01-19",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-08-02",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "瀋陽",
+          "venue": "五里河體育場",
+          "lat": 41.7562,
+          "lon": 123.426,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "“那20年”世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2009-12-31",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-09-08",
+        "precision": "day"
+      },
+      "showCount": 13,
+      "regions": [
+        "中國大陸",
+        "澳門",
+        "臺灣",
+        "奧地利"
+      ],
+      "cities": [
+        "北京",
+        "澳門",
+        "天津",
+        "臺北",
+        "瀋陽",
+        "維也納",
+        "東京",
+        "濟南",
+        "煙臺",
+        "上海",
+        "成都",
+        "哈爾濱",
+        "合肥"
+      ],
+      "venues": [
+        "首都體育館",
+        "金光綜藝館",
+        "天津體育館",
+        "臺北小巨蛋",
+        "瀋陽奧林匹克體育中心體育場",
+        "維也納音樂廳",
+        "中野太陽廣場",
+        "濟南奧體中心體育館",
+        "煙臺體育公園體育場",
+        "上海世博文化中心",
+        "四川省體育館",
+        "哈爾濱國際會展體育中心體育館",
+        "合肥體育中心體育館"
+      ],
+      "shows": [
+        {
+          "date": "2009-12-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-01-16",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-06-19",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "天津",
+          "venue": "天津體育館",
+          "lat": 39.076389,
+          "lon": 117.171667,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-07-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-09-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "瀋陽",
+          "venue": "瀋陽奧林匹克體育中心體育場",
+          "lat": 41.739037,
+          "lon": 123.457484,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-10-26",
+          "precision": "day",
+          "region": "奧地利",
+          "city": "維也納",
+          "venue": "維也納音樂廳",
+          "lat": 48.200875,
+          "lon": 16.377377,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-12-21",
+          "precision": "day",
+          "region": "",
+          "city": "東京",
+          "venue": "中野太陽廣場",
+          "lat": 35.707522,
+          "lon": 139.664684,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-12-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "濟南",
+          "venue": "濟南奧體中心體育館",
+          "lat": 36.656163,
+          "lon": 117.119644,
+          "geo": "venue"
+        },
+        {
+          "date": "2011-08-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "煙臺",
+          "venue": "煙臺體育公園體育場",
+          "lat": 37.464444444444446,
+          "lon": 121.44777777777777,
+          "geo": "city"
+        },
+        {
+          "date": "2011-12-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海世博文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2011-12-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "四川省體育館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2012-06-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "哈爾濱",
+          "venue": "哈爾濱國際會展體育中心體育館",
+          "lat": 45.75,
+          "lon": 126.63333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2012-09-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "合肥",
+          "venue": "合肥體育中心體育館",
+          "lat": 31.86389,
+          "lon": 117.28083,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "那英『那又怎樣MUSIC LIVE』演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2011-09-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2011-09-23",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "北京"
+      ],
+      "venues": [
+        "工人體育館"
+      ],
+      "shows": [
+        {
+          "date": "2011-09-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "招商銀行25週年慈善音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2012-04-08",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-04-08",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "深圳"
+      ],
+      "venues": [
+        "深圳灣體育中心體育館"
+      ],
+      "shows": [
+        {
+          "date": "2012-04-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳灣體育中心體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "“那世界”NA World世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2013-11-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-02-23",
+        "precision": "day"
+      },
+      "showCount": 21,
+      "regions": [
+        "中國大陸",
+        "加拿大",
+        "美國",
+        "澳洲",
+        "馬來西亞",
+        "新加坡"
+      ],
+      "cities": [
+        "南京",
+        "廣州",
+        "深圳",
+        "天津",
+        "鄭州",
+        "青島",
+        "多倫多",
+        "溫哥華",
+        "拉斯維加斯",
+        "奧克蘭",
+        "悉尼",
+        "墨爾本",
+        "珀斯",
+        "黃金海岸",
+        "舊金山",
+        "洛杉磯",
+        "雲頂",
+        "新加坡"
+      ],
+      "venues": [
+        "南京奧體中心體育館",
+        "廣州體育館",
+        "深圳體育場",
+        "天津體育中心",
+        "鄭州會展中心",
+        "青島國信體育館",
+        "加拿大博覽會",
+        "Queen Elizabeth Theatre",
+        "AXIS Theater",
+        "Trusts體育館",
+        "The Star Event Centre",
+        "Melbourne Convention and Exhibition Centre",
+        "Crown Perth",
+        "Jupiters Hotel and Casino",
+        "Reno Event Center",
+        "Pasadena Civic Auditorium",
+        "雲頂雲星劇場",
+        "聖淘沙名勝世界"
+      ],
+      "shows": [
+        {
+          "date": "2013-11-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "南京奧體中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-12-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-01-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳體育場",
+          "lat": 22.562175,
+          "lon": 114.086989,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-04-12",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "天津",
+          "venue": "天津體育中心",
+          "lat": 39.076389,
+          "lon": 117.171667,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-05-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "鄭州",
+          "venue": "鄭州會展中心",
+          "lat": 34.74919,
+          "lon": 113.66051,
+          "geo": "city"
+        },
+        {
+          "date": "2014-11-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "青島",
+          "venue": "青島國信體育館",
+          "lat": 36.104214,
+          "lon": 120.436141,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-05-16",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "加拿大博覽會",
+          "lat": 43.633333333333,
+          "lon": -79.416666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-05-18",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "Queen Elizabeth Theatre",
+          "lat": 49.28031,
+          "lon": -123.11316,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-05-24",
+          "precision": "day",
+          "region": "美國",
+          "city": "拉斯維加斯",
+          "venue": "AXIS Theater",
+          "lat": 36.16722222222222,
+          "lon": -115.14861111111111,
+          "geo": "city"
+        },
+        {
+          "date": "2016-03-24",
+          "precision": "day",
+          "region": "",
+          "city": "奧克蘭",
+          "venue": "Trusts體育館",
+          "lat": -36.86,
+          "lon": 174.6362,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-03-28",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "悉尼",
+          "venue": "The Star Event Centre",
+          "lat": -33.8683,
+          "lon": 151.195,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-04-02",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "墨爾本",
+          "venue": "Melbourne Convention and Exhibition Centre",
+          "lat": -37.814166666666665,
+          "lon": 144.96305555555554,
+          "geo": "city"
+        },
+        {
+          "date": "2017-02-03",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "珀斯",
+          "venue": "Crown Perth",
+          "lat": -31.955833333333334,
+          "lon": 115.85972222222222,
+          "geo": "city"
+        },
+        {
+          "date": "2017-02-05",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "悉尼",
+          "venue": "The Star Event Centre",
+          "lat": -33.8683,
+          "lon": 151.195,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-02-11",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "黃金海岸",
+          "venue": "Jupiters Hotel and Casino",
+          "lat": -28.001111111111,
+          "lon": 153.42833333333,
+          "geo": "city"
+        },
+        {
+          "date": "2018-03-31",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "Reno Event Center",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2018-04-06",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "Pasadena Civic Auditorium",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "2018-04-10",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "Queen Elizabeth Theatre",
+          "lat": 49.28031,
+          "lon": -123.11316,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-02-15",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-02-16",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-02-23",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "聖淘沙名勝世界",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "那英奇美音樂夜",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-12-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-12-29",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "澳門"
+      ],
+      "cities": [
+        "澳門"
+      ],
+      "venues": [
+        "美高梅劇院"
+      ],
+      "shows": [
+        {
+          "date": "2018-12-29",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "美高梅劇院",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "新濠風尚呈獻：【那英2024我在澳門演唱會】",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2024-10-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-10-06",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "澳門"
+      ],
+      "cities": [
+        "澳門"
+      ],
+      "venues": [
+        "新濠影滙綜藝館"
+      ],
+      "shows": [
+        {
+          "date": "2024-10-05",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "新濠影滙綜藝館",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2024-10-06",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "新濠影滙綜藝館",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
+}
