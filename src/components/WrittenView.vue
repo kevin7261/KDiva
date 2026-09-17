@@ -44,7 +44,7 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
     <div class="toolbar">
       <div class="seg" role="radiogroup" aria-label="角色">
         <button
-          v-for="[k, l] in [['all', `全部 ${all.length}`], ['作詞', `作詞 ${count('作詞')}`], ['作曲', `作曲 ${count('作曲')}`], ['編曲', `編曲 ${count('編曲')}`]].filter((x) => x[0] === 'all' || count(x[0]))"
+          v-for="[k, l] in [['all', `全部 ${all.length}`], ['作詞', `作詞 ${count('作詞')}`], ['作曲', `作曲 ${count('作曲')}`], ['編曲', `編曲 ${count('編曲')}`], ['創作', `未註明 ${count('創作')}`]].filter((x) => x[0] === 'all' || count(x[0]))"
           :key="k"
           role="radio"
           :aria-checked="role === k"
@@ -86,7 +86,10 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
               <RouterLink v-if="s.singerSlug" :to="`/artist/${s.singerSlug}`">{{ s.singer }}</RouterLink>
               <span v-else>{{ s.singer }}</span>
             </td>
-            <td class="roles">{{ s.roles.join('、') }}</td>
+            <td class="roles">
+              <span v-if="s.roles.length === 1 && s.roles[0] === '創作'" class="muted" title="Wikipedia 的創作列表只寫了歌名與演唱者，沒有註明是作詞、作曲還是編曲">未註明</span>
+              <template v-else>{{ s.roles.join('、') }}</template>
+            </td>
             <td class="muted">{{ s.album }}</td>
             <td class="num">{{ s.year ?? '—' }}</td>
             <td class="num">{{ s.plays == null ? '—' : formatCount(s.plays) }}</td>
@@ -96,6 +99,7 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
     </div>
     <p class="muted note">
       兩個來源：網站收錄歌手的歌曲詞曲欄（有播放數），以及 Wikipedia 條目的「詞曲創作」列表（沒有播放數，播放數欄顯示「—」）。
+      標示「未註明」的，是 Wikipedia 只列了歌名與演唱者、沒有寫明分工；該曲的演唱者若不在本站收錄範圍，也就無從反查。
     </p>
   </template>
 </template>
