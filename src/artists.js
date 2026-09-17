@@ -9,6 +9,7 @@
 // names：只認這些名字（頻道混了同名的其他歌手時用，例如信的「SHIN」頻道），取代自動產生的名字清單
 // cjkOnly：頻道混了同名的外國歌手時，只收中文標題的專輯（B.A.D.）
 // photo：頻道照片不對時指定，'wikipedia' 用 Wikipedia 條目主圖，或直接填圖片網址
+// releases：頻道混了很多同名歌手時，只收這些專輯（YouTube Music 的 browseId）
 export const ARTISTS = [
   { slug: 'wen-hsia', group: 'male', lang: 'tw', name: '文夏', en: 'Wen Hsia', debut: '1955', channelId: 'UChsYB0DSVRcKPQPTYndWg9A', extraChannelIds: ['UC2pkOKXpD6o5s7HI9Lrkr6g'], wiki: '文夏' },
   { slug: 'judy-ongg', group: 'female', name: '翁倩玉', en: 'Judy Ongg', debut: '1960', channelId: 'UC9NKMcJmtnmXhsq0RwUEYEw', extraChannelIds: ['UCLQJWIKWHdYbAtkIG6tPJZA'], wiki: '翁倩玉', aliases: ['ジュディ・オング'] },
@@ -77,9 +78,13 @@ export const ARTISTS = [
   { slug: 'little-tigers', group: 'group', name: '小虎隊', en: 'The Little Tigers', debut: '1988', channelId: 'UCJVY7dg31Qk35UJKowIVttg', wiki: '小虎隊', aliases: ['The Little Tigers'], members: ['吳奇隆', '蘇有朋', '陳志朋', '林立洋'] },
   { slug: 'na-ying', group: 'female', name: '那英', en: 'Na Ying', debut: '1988', channelId: 'UC7tVAVl0FfQ4ylidGciMJZQ', wiki: '那英' },
   { slug: 'fang-chi-wei', group: 'female', name: '方季惟', en: 'Fang Chi-wei', debut: '1988', channelId: 'UCRH6-9GABaRk4XXaTHTzCmQ', wiki: '方季韋', aliases: ['方季韋'] },
+  { slug: 'huang-shu-chun', group: 'male', name: '黃舒駿', en: 'Huang Shu-chun', debut: '1988', channelId: 'UCqhhS-3zaGhbIwsb0izUNXQ', extraChannelIds: ['UCkZV2RVtSKQ7_pQ_guGfduA'], wiki: '黃舒駿', aliases: ['黄舒骏', 'Shu Jun Huang'] },
+  { slug: 'andy-hui', group: 'male', name: '許志安', en: 'Andy Hui', debut: '1988-05-05', channelId: 'UC3m7HOzdx2VWyvkCT5Ti4pg', wiki: '許志安', aliases: ['许志安'] },
   { slug: 'faye-wong', group: 'female', name: '王菲', en: 'Faye Wong', debut: '1989', channelId: 'UCnAmvOfJxmcMd5q48BEIuPQ', wiki: '王菲', aliases: ['王靖雯', 'Shirley Wong'] },
   { slug: 'kuo-heng-chi', group: 'male', name: '郭子', en: 'Kuo Heng-Chi', debut: '1989', channelId: 'UCAPSacD-z0BrzC4ib6aoq3w', extraChannelIds: ['UCJvKttuOdmo0ribnORxfNwg', 'UC4ZZgiyCT6Bm2ZIYfUqVVnA'], wiki: '郭蘅祈' },
   { slug: 'william-so', group: 'male', name: '蘇永康', en: 'William So', debut: '1989', channelId: 'UC2R81DoE9-OQCb38YpeimZw', wiki: '蘇永康' },
+  { slug: 'steve-chou', group: 'male', name: '周傳雄', en: 'Steve Chou', debut: '1989', channelId: 'UCGh_v5aXDXCanMfU6O31JXw', wiki: '周傳雄', aliases: ['周传雄', '小剛'] },
+  { slug: 'chang-hung-liang', group: 'male', name: '張洪量', en: 'Chang Hung-liang', debut: '1989', channelId: 'UCbps6I6U8foTtJiBFctZxIw', extraChannelIds: ['UCFYK1txYf7kL0JPiur-tQWg'], wiki: '張洪量', aliases: ['张洪量'] },
   { slug: 'wan-fang', group: 'female', name: '萬芳', en: 'Wan Fang', debut: '1990', channelId: 'UC7W9UR7f56ZcmN-fGg4Pvww', wiki: '萬芳' },
   { slug: 'sammi-cheng', group: 'female', name: '鄭秀文', en: 'Sammi Cheng', debut: '1990', channelId: 'UCM8Xiz5yxDCdsP_o6ihVcaA', wiki: '鄭秀文' },
   { slug: 'leon-lai', group: 'male', name: '黎明', en: 'Leon Lai', debut: '1990', channelId: 'UCH5hUc-wpv63XKUOEWziVWQ', wiki: '黎明' },
@@ -89,6 +94,7 @@ export const ARTISTS = [
   { slug: 'vivian-hsu', group: 'female', name: '徐若瑄', en: 'Vivian Hsu', debut: '1990', channelId: 'UCN7jqt1SWF655-nYqQE6QRQ', wiki: '徐若瑄', aliases: ['ビビアン・スー'], groups: ['少女隊', 'Black Biscuits'] },
   { slug: 'mai-meng', group: 'female', name: '孟庭葦', en: 'Mai Meng', debut: '1990', channelId: 'UC0AQ-H8y_EJmJfRPtFxb5GA', wiki: '孟庭葦', aliases: ['孟庭苇'] },
   { slug: 'tarcy-su', group: 'female', name: '蘇慧倫', en: 'Tarcy Su', debut: '1990-03', channelId: 'UCuzREF7riRhr2BWRqEBcjBA', wiki: '蘇慧倫' },
+  { slug: 'huang-pin-yuan', group: 'male', name: '黃品源', en: 'Huang Pin-yuan', debut: '1990-04', channelId: 'UCTiq0eqZOh_zgtfXc10JTxQ', wiki: '黃品源', aliases: ['黄品源'] },
   { slug: 'tiger-huang', group: 'female', name: '黃小琥', en: 'Tiger Huang', debut: '1990-08', channelId: 'UCV6FKRsG3xal52heBj_XWkA', wiki: '黃小琥' },
   { slug: 'nanfang-duo', group: 'group', name: '南方二重唱', en: '', debut: '1991', channelId: 'UCGq2qkDdWVR2WYRBC575MZA', wiki: '南方二重唱', members: ['閻宗玉', '林明樺'] },
   { slug: 'pigheadskin', group: 'male', lang: 'tw', name: '豬頭皮', en: 'Pigheadskin', debut: '1991-05-20', channelId: 'UCRaPTvBgwDSiti-Hfag2qKQ', wiki: '朱約信', aliases: ['朱約信', '朱頭皮', '豬頭皮(朱約信)'] },
@@ -169,6 +175,7 @@ export const ARTISTS = [
   { slug: 'nicky-lee', group: 'male', name: '李玖哲', en: 'Nicky Lee', debut: '2003', channelId: 'UCR4CBIDq5hKp6hsCOLXasDA', wiki: '李玖哲' },
   { slug: 'jj-lin', group: 'male', name: '林俊傑', en: 'JJ Lin', debut: '2003-04', channelId: 'UCUJ3KuIIgvh8eVItvb-EdFQ', wiki: '林俊傑' },
   { slug: 'michelle-vickie', group: 'group', name: '蜜雪薇琪', en: 'Michelle & Vickie', debut: '2004', channelId: 'UCJfidJntxF85k2Zb22VGBLA', wiki: '蜜雪薇琪', aliases: ['Michelle Vickie'] },
+  { slug: 'gogomeme', group: 'group', name: 'GoGoMeMe', en: '哥哥妹妹', debut: '2004', channelId: 'UCP5lSSTJPqIXbnVL2Uug8Ww', extraChannelIds: ['UC1z4pqR7vHybpK6Z4wa654A'], wiki: null, aliases: ['哥哥妹妹', 'GoGo 和 Meme', 'GoGo', 'Meme'], releases: ['MPREb_PKK6il0hGjD'] },
   { slug: 'fir', group: 'group', name: 'F.I.R.', en: '飛兒樂團', debut: '2004-04-23', channelId: 'UCULDopO9sNa9kBs5QnFgmEQ', wiki: 'F.I.R.飛兒樂團', aliases: ['F.I.R', 'FIR', '飛兒樂團', '飞儿乐团'], members: ['詹雯婷', 'Faye', '陳建寧', '黃漢青', '阿沁'] },
   { slug: 'sodagreen', group: 'group', name: '蘇打綠', en: 'sodagreen', debut: '2004-05', channelId: 'UC_hqZWcuNgQnRTulFy6BN7w', extraChannelIds: ['UCUK1GVEFFX9Xv4mJjz8m55g'], wiki: '蘇打綠', aliases: ['魚丁糸', 'Oaeen'], members: ['吳青峰', '謝馨儀', '史俊威', '龔鈺祺', '劉家凱', '何景揚'] },
   { slug: 'ric-jan', group: 'male', lang: 'tw', name: '荒山亮', en: 'Ric Jan', debut: '2005', channelId: 'UCImdJ9Rjmn-xW4cjME94GNg', wiki: '荒山亮' },
@@ -189,6 +196,7 @@ export const ARTISTS = [
   { slug: 'jam-hsiao', group: 'male', name: '蕭敬騰', en: 'Jam Hsiao', debut: '2008', channelId: 'UCvjGf4upqUNaqi524A5AHIw', wiki: '蕭敬騰' },
   { slug: 'crowd-lu', group: 'male', name: '盧廣仲', en: 'Crowd Lu', debut: '2008', channelId: 'UCTPByZ54kHfs6pwoGNAcCzQ', wiki: '盧廣仲' },
   { slug: 'joanna-wang', group: 'female', name: '王若琳', en: 'Joanna Wang', debut: '2008', channelId: 'UCyjLXrYlY-xzieUwYJXIFFg', wiki: '王若琳' },
+  { slug: 'ma-nien-hsien', group: 'male', name: '馬念先', en: 'Ma Nien-hsien', debut: '2008', channelId: 'UCfuLDbI19x13i0pUn9iQqyA', wiki: '馬念先', aliases: ['馬拉桑'], groups: ['糯米糰'] },
   { slug: 'gem', group: 'female', name: '鄧紫棋', en: 'G.E.M.', debut: '2008-07-10', channelId: 'UCBRh2Z_U1Lw9-YJ-XGZ8M2Q', wiki: '鄧紫棋', aliases: ['邓紫棋', 'GEM'] },
   { slug: 'lala-hsu', group: 'female', name: '徐佳瑩', en: 'LaLa Hsu', debut: '2009', channelId: 'UC974iWoR_ZhWT6cNbZSaEdg', wiki: '徐佳瑩' },
   { slug: 'william-wei', group: 'male', name: '韋禮安', en: 'William Wei', debut: '2009-03', channelId: 'UCRRM_02oKgCCZO359HnMUnQ', wiki: '韋禮安', aliases: ['韦礼安'] },
@@ -207,6 +215,7 @@ export const ARTISTS = [
   { slug: 'shi-shi', group: 'female', name: '孫盛希', en: 'Shi Shi', debut: '2014-06', channelId: 'UCY4wdFAd6x2tupBrOAVYMVA', wiki: '孫盛希', aliases: ['孙盛希', 'Shi Shi'] },
   { slug: '9m88', group: 'female', name: '9m88', en: '', debut: '2016', channelId: 'UCpZvDKDJtQUXm1o6LKT2xhA', wiki: '9m88' },
   { slug: 'amazing-show', group: 'group', lang: 'tw', name: '美秀集團', en: 'Amazing Show', debut: '2016', channelId: 'UC9fwTdQyoeDFhOhNN3CQDlg', wiki: '美秀集團' },
+  { slug: 'leo-wang', group: 'male', name: 'Leo王', en: 'Leo Wang', debut: '2016', channelId: 'UCUqJ2PHIPNsgEeoQxf9NqQw', wiki: 'Leo王', aliases: ['Leo 王', '王之佑'], groups: ['夜貓組', '巨大的轟鳴'] },
   { slug: 'eggplantegg', group: 'group', lang: 'tw', name: '茄子蛋', en: 'EggPlantEgg', debut: '2017', channelId: 'UChQoPspEw6hGSwQQDOLpeqg', wiki: '茄子蛋', members: ['黃奇斌', '蔡鎧任', '謝耀德'] },
   { slug: 'accusefive', group: 'group', name: '告五人', en: 'Accusefive', debut: '2017', channelId: 'UC2lbjBep5vvd-Spo0oGn97g', wiki: '告五人', members: ['潘雲安', '犬青'] },
   { slug: 'faye', group: 'female', name: 'Faye 飛', en: '詹雯婷', debut: '2017-06', channelId: 'UCjA1vzKnKAOztVU_XUYAWVg', wiki: '詹雯婷', aliases: ['詹雯婷', 'Faye', 'Faye詹雯婷'], groups: ['F.I.R.', 'F.I.R', '飛兒樂團'] },

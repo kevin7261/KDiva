@@ -612,6 +612,8 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
   }
   // 頻道混了同名的外國歌手（B.A.D.）：只收中文標題的專輯
   if (artistConfig.cjkOnly) artist.releases = artist.releases.filter((r) => hasCJK(r.title))
+  // 頻道混了很多同名歌手、只有少數幾張是這位歌手的（GoGoMeMe）：只收指定的專輯
+  if (artistConfig.releases) artist.releases = artist.releases.filter((r) => artistConfig.releases.includes(r.browseId))
   log(`找到 ${artist.releases.length} 張專輯／單曲，開始讀取曲目…`)
 
   const albums = await mapLimit(artist.releases, 4, async (r) => {
