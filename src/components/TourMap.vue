@@ -1,7 +1,7 @@
 <script setup>
 // 巡演地圖：這位歌手的演唱會畫在同一張圖，每個演唱會一種顏色；圖例可以個別顯示／隱藏。
 // 每個演出地點一個圓點（場次越多越大），同一個演唱會依演出先後以虛線連接；滑過看演唱會、城市、場館、日期。
-// Leaflet 只在打開這個分頁時才載入；底圖用 OpenStreetMap（地名用當地文字：台灣、中國、港澳是中文），深色模式把底圖反轉。
+// Leaflet 只在打開這個分頁時才載入；底圖用 CARTO（地名用當地文字：台灣、中國、港澳是中文），深淺色各一套。
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { isDark } from '../lib/palette.js'
 import { formatDay } from '../lib/format.js'
@@ -37,7 +37,7 @@ const layers = computed(() =>
       stop.dates.push(formatDay(s))
     }
     const stops = [...byPlace.values()].map((s) => ({ ...s, venues: [...s.venues] }))
-    return { tour: t, key: `${t.name}|${t.start.date}`, color: props.colors[i], stops, period: period(t) }
+    return { tour: t, key: `${t.name}|${t.start.date}`, color: props.colors[i], stops, period: period(t), count: t.showCount ?? t.shows.length }
   }).filter((l) => l.stops.length),
 )
 const visible = computed(() => layers.value.filter((l) => !hidden.value.has(l.key)))
@@ -50,6 +50,9 @@ function toggle(key) {
 }
 const showAll = () => (hidden.value = new Set())
 const hideAll = () => (hidden.value = new Set(layers.value.map((l) => l.key)))
+
+// CARTO 的無標記底圖：深色 dark_all、淺色 light_all
+const tileUrl = () => `https://{s}.basemaps.cartocdn.com/${isDark.value ? 'dark_all' : 'light_all'}/{z}/{x}/{y}{r}.png`
 
 const css = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim()
 const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c])
@@ -89,11 +92,8 @@ onMounted(async () => {
   L = (await import('leaflet')).default
   await import('leaflet/dist/leaflet.css')
   if (!el.value) return
-  map = L.map(el.value, { scrollWheelZoom: false, worldCopyJump: true })
-  tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 18,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-  }).addTo(map)
+  map = L.map(el.value, { scrollWheelZoom: false, worldCopyJump: true, attributionControl: false })
+  tiles = L.tileLayer(tileUrl(), { maxZoom: 20, subdomains: 'abcd' }).addTo(map)
   map.setView([25, 120], 3)
   draw()
 })
@@ -107,8 +107,11 @@ watch(
   },
 )
 watch([visible, () => props.colors], draw)
-// 切換深淺色時重畫圓點外框（底圖的深色由 CSS 處理）
-watch(isDark, () => requestAnimationFrame(draw))
+// 切換深淺色時換底圖，並重畫圓點外框（外框色跟著卡片背景）
+watch(isDark, () => {
+  tiles?.setUrl(tileUrl())
+  requestAnimationFrame(draw)
+})
 
 onBeforeUnmount(() => map?.remove())
 </script>
@@ -122,13 +125,14 @@ onBeforeUnmount(() => map?.remove())
         <button type="button" class="link" @click="hideAll">全部隱藏</button>
       </div>
     </header>
-    <div ref="el" class="canvas tour-map-canvas" role="img" :aria-label="`巡演地圖，${visible.length} 個演唱會`" />
+    <div ref="el" class="canvas" role="img" :aria-label="`巡演地圖，${visible.length} 個演唱會`" />
     <ul class="legend" aria-label="演唱會（點一下顯示／隱藏）">
       <li v-for="l in layers" :key="l.key">
         <button type="button" class="chip" :class="{ off: hidden.has(l.key) }" :aria-pressed="!hidden.has(l.key)" @click="toggle(l.key)">
           <span class="dot" :style="{ background: l.color }" />
           <span class="name">{{ l.tour.name }}</span>
           <span class="num muted">{{ l.period }}</span>
+          <span class="num muted">{{ l.count }} 場</span>
         </button>
       </li>
     </ul>
@@ -262,17 +266,5 @@ h2 {
   .canvas {
     height: 320px;
   }
-}
-</style>
-
-<style>
-/* 深色模式：OpenStreetMap 沒有深色底圖，反轉顏色後把色相轉回來（水是深藍、陸地是深灰） */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme='light']) .tour-map-canvas .leaflet-tile-pane {
-    filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9) saturate(0.6);
-  }
-}
-:root[data-theme='dark'] .tour-map-canvas .leaflet-tile-pane {
-  filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9) saturate(0.6);
 }
 </style>

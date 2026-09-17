@@ -1,6 +1,6 @@
 <script setup>
 import { computed, ref } from 'vue'
-import { formatCount, formatFull, formatDuration, watchUrl, songUrl, creditLines } from '../lib/format.js'
+import { formatCount, formatFull, formatDuration, songUrl, creditLines } from '../lib/format.js'
 
 const props = defineProps({
   model: { type: Object, required: true },
@@ -63,33 +63,6 @@ function sortBy(key) {
     sortDir.value = ['plays', 'appears', 'duration', 'year'].includes(key) ? -1 : 1
   }
 }
-
-function exportCsv() {
-  const esc = (v) => `"${String(v ?? '').replace(/"/g, '""')}"`
-  const lines = [
-    ['排名', '歌名', '首發專輯', '發行日期', '長度', '播放數', '收錄專輯', 'YouTube Music'].map(esc).join(','),
-    ...rows.value.map((s) =>
-      [
-        s.rank,
-        s.title,
-        s.origin.title,
-        s.origin.releaseLabel,
-        formatDuration(s.duration),
-        s.plays,
-        s.appearsOn.map((a) => a.name).join(' / '),
-        s.videoId ? watchUrl(s.videoId) : '',
-      ]
-        .map(esc)
-        .join(','),
-    ),
-  ]
-  const blob = new Blob(['﻿' + lines.join('\n')], { type: 'text/csv;charset=utf-8' })
-  const a = document.createElement('a')
-  a.href = URL.createObjectURL(blob)
-  a.download = `${props.model.artist.name}歌曲播放數_${new Date(props.model.fetchedAt).toISOString().slice(0, 10)}.csv`
-  a.click()
-  URL.revokeObjectURL(a.href)
-}
 </script>
 
 <template>
@@ -100,7 +73,6 @@ function exportCsv() {
       <option v-for="d in decades" :key="d" :value="d">{{ d }} 年代</option>
     </select>
     <span class="muted count">{{ rows.length }} 首 · 合計 {{ formatCount(filteredTotal) }}</span>
-    <button class="btn" @click="exportCsv">⬇ 匯出 CSV</button>
   </div>
 
   <div class="card table-wrap">
@@ -115,7 +87,7 @@ function exportCsv() {
           >
             <button @click="sortBy(c.key)">
               {{ c.label }}
-              <span class="arrow">{{ sortKey === c.key ? (sortDir > 0 ? '▲' : '▼') : '' }}</span>
+              <span v-if="sortKey === c.key" class="mi arrow" aria-hidden="true">{{ sortDir > 0 ? 'arrow_upward' : 'arrow_downward' }}</span>
             </button>
           </th>
         </tr>
@@ -203,7 +175,8 @@ th.col-plays {
   min-width: 190px;
 }
 .arrow {
-  font-size: 10px;
+  font-size: 15px;
+  vertical-align: -0.2em;
 }
 td {
   padding: 8px 10px;

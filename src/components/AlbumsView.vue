@@ -63,7 +63,7 @@ const albums = computed(() => {
       <div class="meta">
         <div class="title">{{ a.name }}</div>
         <div class="muted small">{{ a.releaseLabel }} · {{ a.typeLabel }}</div>
-        <div class="muted small">YouTube Music 未上架 · Wikipedia ↗</div>
+        <div class="muted small">YouTube Music 未上架 · Wikipedia <span class="mi tiny" aria-hidden="true">open_in_new</span></div>
       </div>
     </a>
     <button
@@ -88,7 +88,7 @@ const albums = computed(() => {
           </span>
         </div>
         <div v-if="a.topSong" class="muted small ellipsis">
-          ♪ {{ a.topSong.song.name }} · {{ formatCount(a.topSong.plays) }}
+          <span class="mi tiny" aria-hidden="true">music_note</span> {{ a.topSong.song.name }} · {{ formatCount(a.topSong.plays) }}
         </div>
       </div>
     </button>

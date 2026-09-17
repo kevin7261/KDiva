@@ -223,7 +223,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
           </nav>
           <div class="actions">
             <button v-if="canRefresh" class="btn ghost" :disabled="!!refreshing" @click="refreshAll">
-              {{ refreshing ? `抓取 ${refreshing}…` : `↻ 重新抓取${groupInfo.label}` }}
+              <span class="mi" aria-hidden="true">refresh</span>{{ refreshing ? `抓取 ${refreshing}…` : `重新抓取${groupInfo.label}` }}
             </button>
             <ThemeToggle />
           </div>
@@ -270,7 +270,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
         </select>
         <button type="button" class="btn dir" :aria-label="sortAsc ? '目前由小到大，按一下反向' : '目前由大到小，按一下反向'" @click="flipSort">
           {{ sortAsc ? (sortKey === 'debut' ? '早 → 晚' : sortKey === 'name' ? '筆畫少 → 多' : '少 → 多') : sortKey === 'debut' ? '晚 → 早' : sortKey === 'name' ? '筆畫多 → 少' : '多 → 少' }}
-          <span aria-hidden="true">{{ sortAsc ? '↑' : '↓' }}</span>
+          <span class="mi dir-icon" aria-hidden="true">{{ sortAsc ? 'arrow_upward' : 'arrow_downward' }}</span>
         </button>
       </div>
       <section class="artists">

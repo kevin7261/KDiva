@@ -105,6 +105,33 @@ select {
   color: var(--text-muted);
 }
 
+/* 圖示：Google Material Symbols，寫法是 <span class="mi">icon_name</span>；
+   新增圖示要一併加進 index.html 的 icon_names（字型只包含列出的圖示）。 */
+.mi {
+  font-family: 'Material Symbols Rounded';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.2em;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  direction: ltr;
+  vertical-align: -0.22em;
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  -webkit-font-smoothing: antialiased;
+  user-select: none;
+}
+/* 夾在內文裡的小圖示（外連箭頭、音符） */
+.mi.tiny {
+  font-size: 1em;
+  vertical-align: -0.16em;
+}
+.mi.fill {
+  font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
 .btn {
   display: inline-flex;
   align-items: center;

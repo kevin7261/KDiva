@@ -19,7 +19,7 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
 <template>
   <div class="backdrop" @click.self="emit('close')">
     <div class="dialog card" role="dialog" aria-modal="true" :aria-label="album.name">
-      <button class="close btn" aria-label="關閉" @click="emit('close')">✕</button>
+      <button class="close btn" aria-label="關閉" @click="emit('close')"><span class="mi" aria-hidden="true">close</span></button>
       <div class="head">
         <img :src="album.thumbnail" :alt="album.name" />
         <div>
@@ -48,7 +48,7 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
               含重複收錄合計 {{ formatCount(total) }}
             </span>
           </div>
-          <a class="btn listen" :href="albumUrl(album)" target="_blank" rel="noopener">▶ 在 {{ album.manual ? 'YouTube' : 'YouTube Music' }} 開啟</a>
+          <a class="btn listen" :href="albumUrl(album)" target="_blank" rel="noopener"><span class="mi fill" aria-hidden="true">play_arrow</span>在 {{ album.manual ? 'YouTube' : 'YouTube Music' }} 開啟</a>
         </div>
       </div>
 

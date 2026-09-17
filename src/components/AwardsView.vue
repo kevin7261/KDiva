@@ -40,7 +40,7 @@ const nominees = (r) => {
   return [`第 ${r.edition} 屆 ${r.category}（${list.length} 組入圍）`, ...rows.slice(0, 14), ...(rows.length > 14 ? [`…共 ${rows.length} 組`] : [])]
 }
 
-const wikiUrl = (edition) = `https://zh.wikipedia.org/wiki/${encodeURIComponent(`第${edition}屆金曲獎`)}`
+const wikiUrl = (edition) => `https://zh.wikipedia.org/wiki/${encodeURIComponent(`第${edition}屆金曲獎`)}`
 // 入圍者不只這位歌手時（作曲人獎、合唱）才列出；因為作品是他唱的而列入的，標明入圍者是誰
 const others = (r) => {
   if (!r.with || r.with.replace(/\s/g, '') === props.name.replace(/\s/g, '')) return ''

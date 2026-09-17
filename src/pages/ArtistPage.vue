@@ -1,11 +1,12 @@
 <script setup>
 import { computed, ref, shallowRef, watch } from 'vue'
 import { RouterLink } from 'vue-router'
-import { artistsIn, categoryOf, findArtist } from '../artists.js'
+import { categoryOf, findArtist } from '../artists.js'
 import { getModel, loadArtist, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
 import { formatCount, formatFull, formatDate } from '../lib/format.js'
 import ThemeToggle from '../components/ThemeToggle.vue'
+import ArtistSwitcher from '../components/ArtistSwitcher.vue'
 import OverviewView from '../components/OverviewView.vue'
 import AlbumsView from '../components/AlbumsView.vue'
 import SongsView from '../components/SongsView.vue'
@@ -18,18 +19,19 @@ const props = defineProps({ slug: { type: String, required: true } })
 
 const canRefresh = import.meta.env.DEV
 const artist = computed(() => findArtist(props.slug))
-const siblings = computed(() => artistsIn(categoryOf(artist.value)))
 const model = computed(() => getModel(props.slug))
 const error = ref('')
 const refreshing = ref(false)
 const tab = ref(readPref('tab') ?? 'overview')
 const openAlbum = shallowRef(null)
+const switcherOpen = ref(false)
 
 watch(
   () => props.slug,
   (slug) => {
     error.value = ''
     openAlbum.value = null
+    switcherOpen.value = false
     loadArtist(slug).catch((e) => (error.value = e.message))
   },
   { immediate: true },
@@ -101,20 +103,13 @@ const tabs = [
     <header class="hero" :style="photo ? { '--bg': `url(${photo})` } : {}">
       <div class="hero-inner">
         <div class="topbar">
-          <RouterLink :to="`/${categoryOf(artist)}`" class="btn ghost">← KDiva</RouterLink>
-          <nav class="switcher" aria-label="切換歌手">
-            <RouterLink
-              v-for="a in siblings"
-              :key="a.slug"
-              :to="`/artist/${a.slug}`"
-              :class="{ on: a.slug === slug }"
-            >
-              {{ a.name }}
-            </RouterLink>
-          </nav>
+          <RouterLink :to="`/${categoryOf(artist)}`" class="btn ghost"><span class="mi" aria-hidden="true">arrow_back</span>KDiva</RouterLink>
+          <button type="button" class="btn ghost switcher" aria-haspopup="dialog" @click="switcherOpen = true">
+            {{ artist.name }}<span class="mi" aria-hidden="true">expand_more</span>
+          </button>
           <div class="actions">
             <button v-if="canRefresh" class="btn ghost" :disabled="refreshing" @click="refresh">
-              {{ refreshing ? '抓取中…' : '↻ 重新抓取' }}
+              <span class="mi" aria-hidden="true">refresh</span>{{ refreshing ? '抓取中…' : '重新抓取' }}
             </button>
             <ThemeToggle />
           </div>
@@ -122,14 +117,14 @@ const tabs = [
         <h1>{{ artist.name }} <span>{{ artist.en }}</span></h1>
         <p v-if="members" class="members">{{ members }}</p>
         <nav class="sources" aria-label="資料來源">
-          <a v-if="artist.wiki" :href="wikiUrl" target="_blank" rel="noopener">Wikipedia 條目 ↗</a>
+          <a v-if="artist.wiki" :href="wikiUrl" target="_blank" rel="noopener">Wikipedia 條目 <span class="mi tiny" aria-hidden="true">open_in_new</span></a>
           <a
             v-for="(id, i) in channels"
             :key="id"
             :href="`https://music.youtube.com/channel/${id}`"
             target="_blank"
             rel="noopener"
-            >YouTube Music 頻道{{ channels.length > 1 ? ` ${i + 1}` : '' }} ↗</a
+            >YouTube Music 頻道{{ channels.length > 1 ? ` ${i + 1}` : '' }} <span class="mi tiny" aria-hidden="true">open_in_new</span></a
           >
         </nav>
         <div v-if="model" class="hero-number">
@@ -189,6 +184,8 @@ const tabs = [
       <div v-else-if="!error" class="loading muted">載入中…</div>
     </main>
 
+    <ArtistSwitcher v-if="switcherOpen" :slug="slug" @close="switcherOpen = false" />
+
     <AlbumDialog
       v-if="openAlbum"
       :album="openAlbum"
@@ -235,40 +232,13 @@ const tabs = [
   gap: 12px;
   margin-bottom: 48px;
 }
-/* 歌手多，獨佔一列並換行；手機改成橫向捲動 */
-.topbar::after {
-  content: '';
-  order: 2;
-  flex-basis: 100%;
-}
 .switcher {
-  order: 3;
   max-width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2px;
-  padding: 3px;
-  border-radius: 20px;
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(6px);
-  overflow-x: auto;
-  scrollbar-width: none;
-}
-.switcher a {
-  padding: 5px 12px;
-  border-radius: 999px;
-  text-decoration: none;
-  font-size: 14px;
-  color: rgba(255, 255, 255, 0.8);
-  white-space: nowrap;
-}
-.switcher a:hover {
-  color: #fff;
-}
-.switcher a.on {
-  background: #fff;
-  color: #111;
   font-weight: 600;
+}
+.switcher .mi {
+  margin-left: -2px;
+  font-size: 20px;
 }
 .actions {
   display: flex;
@@ -392,10 +362,6 @@ h1 span {
 @media (max-width: 720px) {
   .topbar {
     margin-bottom: 32px;
-  }
-  .switcher {
-    flex-wrap: nowrap;
-    border-radius: 999px;
   }
   .hero-inner {
     padding-left: 16px;
