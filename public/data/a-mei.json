@@ -135,7 +135,9 @@
       "releaseDate": "1996-12-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "姊妹 (專輯)"
+      "wikiTitle": "姊妹 (專輯)",
+      "wikiKind": null,
+      "nameKey": "姊妹"
     },
     {
       "browseId": "MPREb_FaoT5uQ4EHJ",
@@ -260,7 +262,9 @@
       "releaseDate": "1996-12-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "姊妹 (專輯)"
+      "wikiTitle": "姊妹 (專輯)",
+      "wikiKind": null,
+      "nameKey": "姊妹"
     },
     {
       "browseId": "MPREb_vrtuVpn8FKB",
@@ -387,7 +391,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Bad Boy (張惠妹專輯)",
-      "titleZh": "Bad Boy (張惠妹專輯)"
+      "wikiKind": "studio",
+      "titleZh": "Bad Boy (張惠妹專輯)",
+      "nameKey": "badboy"
     },
     {
       "browseId": "MPREb_7q2363c7Fu0",
@@ -436,7 +442,9 @@
       "releaseDate": "1997-10-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "給雨生的歌 聽你·聽我"
+      "wikiTitle": "給雨生的歌 聽你·聽我",
+      "wikiKind": "single",
+      "nameKey": "給雨生的歌"
     },
     {
       "browseId": "MPREb_fr0iD6u9Ic3",
@@ -611,10 +619,12 @@
           "nameKey": "walkingbymyself"
         }
       ],
-      "releaseDate": "1997-12-19",
+      "releaseDate": "1997-12-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "妹力四射 (專輯)"
+      "releaseDateSource": "table",
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "妹力四射"
     },
     {
       "browseId": "MPREb_xN6Fl2Kr52L",
@@ -781,10 +791,12 @@
           "nameKey": "walkingbymyself"
         }
       ],
-      "releaseDate": "1997-12-19",
+      "releaseDate": "1997-12-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "妹力四射 (專輯)"
+      "releaseDateSource": "table",
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "妹力四射"
     },
     {
       "browseId": "MPREb_25vITvbzPMH",
@@ -919,7 +931,9 @@
       "releaseDate": "1998-10-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "牽手 (專輯)"
+      "wikiTitle": "牽手 (專輯)",
+      "wikiKind": null,
+      "nameKey": "牽手"
     },
     {
       "browseId": "MPREb_hWnsAOkuWjb",
@@ -1047,7 +1061,9 @@
       "releaseDate": "1998-10-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "牽手 (專輯)"
+      "wikiTitle": "牽手 (專輯)",
+      "wikiKind": null,
+      "nameKey": "牽手"
     },
     {
       "browseId": "MPREb_53L9rOnGzc7",
@@ -1106,7 +1122,9 @@
       "releaseDate": "1999-04-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "感覺 (EP)"
+      "wikiTitle": "感覺 (EP)",
+      "wikiKind": "single",
+      "nameKey": "感覺"
     },
     {
       "browseId": "MPREb_tr5wpnbFEQ0",
@@ -1165,7 +1183,9 @@
       "releaseDate": "1999-04-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "感覺 (EP)"
+      "wikiTitle": "感覺 (EP)",
+      "wikiKind": "single",
+      "nameKey": "感覺張惠妹"
     },
     {
       "browseId": "MPREb_XXgegHUs7R2",
@@ -1312,7 +1332,9 @@
       "releaseDate": "1999-06-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "我可以抱你嗎？愛人"
+      "wikiTitle": "我可以抱你嗎？愛人",
+      "wikiKind": null,
+      "nameKey": "我可以抱你嗎愛人"
     },
     {
       "browseId": "MPREb_7pwgOmhyoEl",
@@ -1459,7 +1481,9 @@
       "releaseDate": "1999-06-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "我可以抱你嗎？愛人"
+      "wikiTitle": "我可以抱你嗎？愛人",
+      "wikiKind": null,
+      "nameKey": "我可以抱你嗎愛人"
     },
     {
       "browseId": "MPREb_xc0lzNiTg1E",
@@ -1695,7 +1719,9 @@
       "releaseDate": "1999-12-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "妹力新世紀"
+      "wikiTitle": "妹力新世紀",
+      "wikiKind": "compilation",
+      "nameKey": "妹力新世紀"
     },
     {
       "browseId": "MPREb_34PHMg0Oq94",
@@ -1825,7 +1851,9 @@
       "releaseDate": "2000-04-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "歌聲妹影"
+      "wikiTitle": "歌聲妹影",
+      "wikiKind": "live",
+      "nameKey": "歌聲妹影"
     },
     {
       "browseId": "MPREb_nyyosgyBADk",
@@ -1852,7 +1880,9 @@
       "releaseDate": "2000-04-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "歌聲妹影"
+      "wikiTitle": "歌聲妹影",
+      "wikiKind": "live",
+      "nameKey": "歌聲妹影"
     },
     {
       "browseId": "MPREb_H8I6SExaN9L",
@@ -1979,7 +2009,9 @@
       "releaseDate": "2000-04-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "歌聲妹影"
+      "wikiTitle": "歌聲妹影",
+      "wikiKind": "live",
+      "nameKey": "歌聲妹影"
     },
     {
       "browseId": "MPREb_r39yrrM09n3",
@@ -2104,7 +2136,9 @@
       "releaseDate": "2000-12-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "不顧一切 (張惠妹專輯)"
+      "wikiTitle": "不顧一切 (張惠妹專輯)",
+      "wikiKind": null,
+      "nameKey": "不顧一切"
     },
     {
       "browseId": "MPREb_9gI2cINYwGp",
@@ -2229,7 +2263,9 @@
       "releaseDate": "2000-12-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "不顧一切 (張惠妹專輯)"
+      "wikiTitle": "不顧一切 (張惠妹專輯)",
+      "wikiKind": null,
+      "nameKey": "不顧一切"
     },
     {
       "browseId": "MPREb_z1y3uF9ipD1",
@@ -2441,8 +2477,10 @@
       ],
       "releaseDate": "2001-09-07",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "旅程 (專輯)"
+      "releaseDateSource": "table",
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "旅程"
     },
     {
       "browseId": "MPREb_O2aSOyuyyzk",
@@ -2654,8 +2692,10 @@
       ],
       "releaseDate": "2001-09-07",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "旅程 (專輯)"
+      "releaseDateSource": "table",
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "旅程"
     },
     {
       "browseId": "MPREb_3dwGCisGrpv",
@@ -2791,7 +2831,9 @@
       "releaseDate": "2001-10-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "真實 (張惠妹專輯)"
+      "wikiTitle": "真實 (張惠妹專輯)",
+      "wikiKind": null,
+      "nameKey": "眞實"
     },
     {
       "browseId": "MPREb_DZNpa3GO8ys",
@@ -2916,7 +2958,9 @@
       "releaseDate": "2002-08-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "發燒 (張惠妹專輯)"
+      "wikiTitle": "發燒 (張惠妹專輯)",
+      "wikiKind": null,
+      "nameKey": "發燒"
     },
     {
       "browseId": "MPREb_kHcV4KIgCx8",
@@ -3243,7 +3287,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "妹力最精選"
     },
     {
       "browseId": "MPREb_rQaqaspQcJQ",
@@ -3570,7 +3616,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "妹力最精選19962002best"
     },
     {
       "browseId": "MPREb_0zsxyHlnl7t",
@@ -3695,7 +3743,9 @@
       "releaseDate": "2003-06-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "勇敢 (張惠妹專輯)"
+      "wikiTitle": "勇敢 (張惠妹專輯)",
+      "wikiKind": null,
+      "nameKey": "勇敢"
     },
     {
       "browseId": "MPREb_vqgKTzkg040",
@@ -3842,7 +3892,9 @@
       "releaseDate": "2004-09-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "也許明天"
+      "wikiTitle": "也許明天",
+      "wikiKind": null,
+      "nameKey": "也許明天"
     },
     {
       "browseId": "MPREb_4IBEYc5AUon",
@@ -3967,7 +4019,9 @@
       "releaseDate": "2006-02-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "我要快樂？"
+      "wikiTitle": "我要快樂？",
+      "wikiKind": null,
+      "nameKey": "我要快樂"
     },
     {
       "browseId": "MPREb_8taFqbcsu6p",
@@ -4115,7 +4169,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Star (張惠妹專輯)",
-      "titleZh": "Star (張惠妹專輯)"
+      "wikiKind": null,
+      "titleZh": "Star (張惠妹專輯)",
+      "nameKey": "star"
     },
     {
       "browseId": "MPREb_WPGOKFA3yV0",
@@ -4141,7 +4197,9 @@
       "releaseDate": "2007-08-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "張惠妹音樂作品列表"
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "誰愛我"
     },
     {
       "browseId": "MPREb_Y8E3LMTuwFf",
@@ -4387,7 +4445,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "張惠妹2002世界巡迴演唱會"
     },
     {
       "browseId": "MPREb_h6fDP3dqKKO",
@@ -4523,7 +4583,9 @@
       "releaseDate": "2009-06-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "阿密特"
+      "wikiTitle": "阿密特",
+      "wikiKind": "studio",
+      "nameKey": "阿密特意識專輯"
     },
     {
       "browseId": "MPREb_Q1bEgHwTsg7",
@@ -4670,7 +4732,9 @@
       "releaseDate": "2009-06-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "阿密特"
+      "wikiTitle": "阿密特",
+      "wikiKind": "studio",
+      "nameKey": "阿密特意識專輯"
     },
     {
       "browseId": "MPREb_RHVQoYvfMIc",
@@ -4829,7 +4893,9 @@
       "releaseDate": "2011-04-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "你在看我嗎"
+      "wikiTitle": "你在看我嗎",
+      "wikiKind": null,
+      "nameKey": "你在看我嗎"
     },
     {
       "browseId": "MPREb_IClIuurJ3hK",
@@ -5031,7 +5097,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "2her"
     },
     {
       "browseId": "MPREb_LiEqYgPFV4d",
@@ -5156,7 +5224,9 @@
       "releaseDate": "2014-07-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "偏執面"
+      "wikiTitle": "偏執面",
+      "wikiKind": null,
+      "nameKey": "偏執面"
     },
     {
       "browseId": "MPREb_Bg9EVAQq3Om",
@@ -5281,7 +5351,9 @@
       "releaseDate": "2014-07-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "偏執面"
+      "wikiTitle": "偏執面",
+      "wikiKind": null,
+      "nameKey": "偏執面"
     },
     {
       "browseId": "MPREb_gWzlXbchiJ7",
@@ -5406,7 +5478,9 @@
       "releaseDate": "2015-04-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Amit 2"
+      "wikiTitle": "Amit 2",
+      "wikiKind": null,
+      "nameKey": "amit2"
     },
     {
       "browseId": "MPREb_d3fRFcgDfaZ",
@@ -5432,7 +5506,9 @@
       "releaseDate": "2016-12-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "姊妹2016 (平行宇宙版)"
+      "wikiTitle": "姊妹2016 (平行宇宙版)",
+      "wikiKind": null,
+      "nameKey": "姊妹2016"
     },
     {
       "browseId": "MPREb_so5naMyJDam",
@@ -5458,7 +5534,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我期待"
     },
     {
       "browseId": "MPREb_e93BpvuDqYI",
@@ -5484,7 +5562,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "放開你的頭腦play我呸"
     },
     {
       "browseId": "MPREb_GfOU9HtPfRr",
@@ -5510,7 +5590,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "春天裡"
     },
     {
       "browseId": "MPREb_xOXGrA0Oc6h",
@@ -5536,7 +5618,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "默"
     },
     {
       "browseId": "MPREb_w2WxSSlvbfy",
@@ -5661,7 +5745,9 @@
       "releaseDate": "2017-12-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "偷故事的人"
+      "wikiTitle": "偷故事的人",
+      "wikiKind": "studio",
+      "nameKey": "偷故事的人"
     },
     {
       "browseId": "MPREb_iLOwPOMwgRw",
@@ -5687,7 +5773,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "唯一"
     },
     {
       "browseId": "MPREb_DFVD9Q3vp3r",
@@ -5713,7 +5801,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "寂寞寂寞就好"
     },
     {
       "browseId": "MPREb_sHqvyvf22s6",
@@ -5739,7 +5829,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "快讓我在雪地上撒點兒野"
     },
     {
       "browseId": "MPREb_yC5jBa6Us8f",
@@ -5765,7 +5857,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "王妃"
     },
     {
       "browseId": "MPREb_AOAHwT6pgCy",
@@ -5791,7 +5885,9 @@
       "releaseDate": "2018-08-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "張惠妹音樂作品列表"
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "雙影"
     },
     {
       "browseId": "MPREb_YN6MTSzDrDv",
@@ -5817,7 +5913,9 @@
       "releaseDate": "2018-10-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "張惠妹音樂作品列表"
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "ifonly"
     },
     {
       "browseId": "MPREb_OqcGW6Bg7GM",
@@ -6054,7 +6152,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
       "wikiTitle": "張惠妹音樂作品列表",
-      "titleZh": "A MEI ACOUSTIC BEST(黑膠專輯)"
+      "wikiKind": "compilation",
+      "titleZh": "A MEI ACOUSTIC BEST(黑膠專輯)",
+      "nameKey": "ameiacousticbest"
     },
     {
       "browseId": "MPREb_b1l0OpKq5SR",
@@ -6080,7 +6180,9 @@
       "releaseDate": "2020-12-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "張惠妹音樂作品列表"
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "緩緩"
     },
     {
       "browseId": "MPREb_tAyyQYHH9L6",
@@ -6106,7 +6208,9 @@
       "releaseDate": "2023-03-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "張惠妹音樂作品列表"
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "離別總是那麼突然"
     },
     {
       "browseId": "MPREb_j7kYMw0o3HM",
@@ -6132,7 +6236,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "weareone"
     },
     {
       "browseId": "MPREb_0Tg8S5cGQLA",
@@ -6158,7 +6264,9 @@
       "releaseDate": "2025-12-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "張惠妹音樂作品列表"
+      "wikiTitle": "張惠妹音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "我的存在就是愛你"
     }
   ]
 }

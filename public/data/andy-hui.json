@@ -135,7 +135,9 @@
       "releaseDate": "1991-03-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Break and Reform Collection"
+      "wikiTitle": "Break and Reform Collection",
+      "wikiKind": "compilation",
+      "nameKey": "breakandreformcollection"
     },
     {
       "browseId": "MPREb_SoU3Tv6PEJY",
@@ -261,7 +263,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "Alive (許志安專輯)",
-      "titleZh": "Alive (許志安專輯)"
+      "wikiKind": null,
+      "titleZh": "Alive (許志安專輯)",
+      "nameKey": "alive"
     },
     {
       "browseId": "MPREb_JmeKIaUqpCt",
@@ -397,7 +401,9 @@
       "releaseDate": "1993-01-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "喜歡妳是妳"
+      "wikiTitle": "喜歡妳是妳",
+      "wikiKind": null,
+      "nameKey": "喜歡妳是妳"
     },
     {
       "browseId": "MPREb_GiHTBxMzhVh",
@@ -555,7 +561,9 @@
       "releaseDate": "1993-07-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "雨後陽光"
+      "wikiTitle": "雨後陽光",
+      "wikiKind": "compilation",
+      "nameKey": "雨後陽光"
     },
     {
       "browseId": "MPREb_WxQnI4eZakz",
@@ -680,7 +688,9 @@
       "releaseDate": "1994-06-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "Unique"
+      "wikiTitle": "Unique",
+      "wikiKind": null,
+      "nameKey": "unique"
     },
     {
       "browseId": "MPREb_DJiZD8hkwxn",
@@ -806,7 +816,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Heart (許志安專輯)",
-      "titleZh": "Heart (許志安專輯)"
+      "wikiKind": "studio",
+      "titleZh": "Heart (許志安專輯)",
+      "nameKey": "heart"
     },
     {
       "browseId": "MPREb_P5Y7a44YKyr",
@@ -931,7 +943,9 @@
       "releaseDate": "1995-07-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "荒廢的樂園"
+      "wikiTitle": "荒廢的樂園",
+      "wikiKind": null,
+      "nameKey": "荒廢的樂園"
     },
     {
       "browseId": "MPREb_xo2nH1F03bl",
@@ -1056,7 +1070,9 @@
       "releaseDate": "1996-02-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "男人最痛"
+      "wikiTitle": "男人最痛",
+      "wikiKind": null,
+      "nameKey": "男人最痛"
     },
     {
       "browseId": "MPREb_sg3rYuao9ru",
@@ -1181,7 +1197,9 @@
       "releaseDate": "1997-08-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "我的天 我的歌"
+      "wikiTitle": "我的天 我的歌",
+      "wikiKind": null,
+      "nameKey": "我的天我的歌"
     },
     {
       "browseId": "MPREb_3mcR6QrvMvR",
@@ -1306,7 +1324,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "看清楚"
     },
     {
       "browseId": "MPREb_0JLOdnV2CDI",
@@ -1431,7 +1451,9 @@
       "releaseDate": "1998-02-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "飛得起"
+      "wikiTitle": "飛得起",
+      "wikiKind": null,
+      "nameKey": "飛得起"
     },
     {
       "browseId": "MPREb_f4YHyYfabZD",
@@ -1558,7 +1580,9 @@
       "releaseDate": "1998-07-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "甲乙丙丁 (專輯)"
+      "wikiTitle": "甲乙丙丁 (專輯)",
+      "wikiKind": null,
+      "nameKey": "甲乙丙丁"
     },
     {
       "browseId": "MPREb_en12UBQlW5P",
@@ -1628,7 +1652,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "好許志安"
     },
     {
       "browseId": "MPREb_y0X4fPVwkVH",
@@ -1841,7 +1867,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "好許志安98演唱會"
     },
     {
       "browseId": "MPREb_Q8IAyvEaR9Z",
@@ -1999,7 +2027,9 @@
       "releaseDate": "1999-01-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "真心真意"
+      "wikiTitle": "真心真意",
+      "wikiKind": null,
+      "nameKey": "眞心眞意"
     },
     {
       "browseId": "MPREb_n2n2zZRxhEd",
@@ -2146,7 +2176,9 @@
       "releaseDate": "1999-04-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "相信愛情 (許志安專輯)"
+      "wikiTitle": "相信愛情 (許志安專輯)",
+      "wikiKind": null,
+      "nameKey": "相信愛"
     },
     {
       "browseId": "MPREb_lOZpUI4sr7c",
@@ -2282,7 +2314,9 @@
       "releaseDate": "1999-04-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "相信愛情 (許志安專輯)"
+      "wikiTitle": "相信愛情 (許志安專輯)",
+      "wikiKind": null,
+      "nameKey": "相信愛情"
     },
     {
       "browseId": "MPREb_VrU43uXg99t",
@@ -2418,7 +2452,9 @@
       "releaseDate": "1999-12-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "我們都要幸福"
+      "wikiTitle": "我們都要幸福",
+      "wikiKind": "studio",
+      "nameKey": "我們都要幸福"
     },
     {
       "browseId": "MPREb_6sng1mf8jg4",
@@ -2620,7 +2656,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "世紀末精選"
     },
     {
       "browseId": "MPREb_3BGn9ziWFiC",
@@ -2976,7 +3014,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "眞心眞意許志安99演唱會"
     },
     {
       "browseId": "MPREb_kbkc4OzE9fm",
@@ -3123,7 +3163,9 @@
       "releaseDate": "2000-07-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "上次"
+      "wikiTitle": "上次",
+      "wikiKind": null,
+      "nameKey": "上次"
     },
     {
       "browseId": "MPREb_7aHbk7ntp7O",
@@ -3248,7 +3290,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "男人心精選輯"
     },
     {
       "browseId": "MPREb_8dNLWSXj6HY",
@@ -3373,7 +3417,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "男人心精選輯"
     },
     {
       "browseId": "MPREb_lPkckdP4Vao",
@@ -3520,7 +3566,9 @@
       "releaseDate": "2001-01-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "優先擁抱"
+      "wikiTitle": "優先擁抱",
+      "wikiKind": "studio",
+      "nameKey": "優先擁抱"
     },
     {
       "browseId": "MPREb_Mp8rtQn1Up3",
@@ -3645,7 +3693,9 @@
       "releaseDate": "2001-04-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "這一秒，你好不好"
+      "wikiTitle": "這一秒，你好不好",
+      "wikiKind": "studio",
+      "nameKey": "這一秒你好不好"
     },
     {
       "browseId": "MPREb_Kgcq1E1rZFJ",
@@ -3847,7 +3897,9 @@
       "releaseDate": "2001-05-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "借你耳朵聽"
+      "wikiTitle": "借你耳朵聽",
+      "wikiKind": "compilation",
+      "nameKey": "借你耳朵聽許志安"
     },
     {
       "browseId": "MPREb_TV0Xwx5JBiu",
@@ -4039,7 +4091,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "借你耳朵聽許志安演唱會"
     },
     {
       "browseId": "MPREb_AKzAoD2uh7R",
@@ -4450,7 +4504,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "許志安好精選musicbox"
     },
     {
       "browseId": "MPREb_z1UL8JfiqJM",
@@ -4575,7 +4631,9 @@
       "releaseDate": "2002-03-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "我還能愛誰"
+      "wikiTitle": "我還能愛誰",
+      "wikiKind": null,
+      "nameKey": "我還能愛誰"
     },
     {
       "browseId": "MPREb_GSYPFG0oSoy",
@@ -4788,7 +4846,9 @@
       "releaseDate": "2002-11-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "On Hits"
+      "wikiTitle": "On Hits",
+      "wikiKind": "compilation",
+      "nameKey": "onhits"
     },
     {
       "browseId": "MPREb_gCXaa1C8K89",
@@ -4979,7 +5039,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "lovemusic"
     },
     {
       "browseId": "MPREb_AZbasiFOWri",
@@ -5104,7 +5166,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "roma"
     },
     {
       "browseId": "MPREb_AC6EE9CAxuo",
@@ -5240,7 +5304,9 @@
       "releaseDate": "2003-07-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "On My Story"
+      "wikiTitle": "On My Story",
+      "wikiKind": null,
+      "nameKey": "onmystory"
     },
     {
       "browseId": "MPREb_55DszDAastR",
@@ -5442,7 +5508,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "onshow2002"
     },
     {
       "browseId": "MPREb_0VFJ7nfON2z",
@@ -5732,7 +5800,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "香港安康演唱會"
     },
     {
       "browseId": "MPREb_dxo8Ux4Sof6",
@@ -6121,7 +6191,9 @@
       "releaseDate": "2004-01-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "Life In Music"
+      "wikiTitle": "Life In Music",
+      "wikiKind": null,
+      "nameKey": "lifeinmusic"
     },
     {
       "browseId": "MPREb_Kcifv5yXjMP",
@@ -6268,7 +6340,9 @@
       "releaseDate": "2004-02-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "好得很"
+      "wikiTitle": "好得很",
+      "wikiKind": null,
+      "nameKey": "好得很"
     },
     {
       "browseId": "MPREb_zKlCaEfyDQd",
@@ -6459,7 +6533,9 @@
       "releaseDate": "2004-10-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Back Up"
+      "wikiTitle": "Back Up",
+      "wikiKind": null,
+      "nameKey": "backup"
     },
     {
       "browseId": "MPREb_Lx9cpTSbF90",
@@ -6804,7 +6880,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "大風吹"
     },
     {
       "browseId": "MPREb_J9mNwaR1eXH",
@@ -7094,7 +7172,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "安哥對唱音樂會"
     },
     {
       "browseId": "MPREb_AiVh29cyxXl",
@@ -7450,7 +7530,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "許志安第一回合演唱會"
     },
     {
       "browseId": "MPREb_2AsB3SxmQPt",
@@ -7476,7 +7558,9 @@
       "releaseDate": "2006-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "許志安歌曲列表"
+      "wikiTitle": "許志安歌曲列表",
+      "wikiKind": null,
+      "nameKey": "醜得漂亮"
     },
     {
       "browseId": "MPREb_n4SuW3TFiTr",
@@ -7986,7 +8070,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "愛音樂三人行"
     },
     {
       "browseId": "MPREb_0Vp1z9mfKLL",
@@ -8155,7 +8241,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "爛泥"
     },
     {
       "browseId": "MPREb_rwALYomzqCW",
@@ -8246,8 +8334,10 @@
       ],
       "releaseDate": "2007-11-02",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "空前絕後"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "空前絕後",
+      "wikiKind": null,
+      "nameKey": "空前絕後"
     },
     {
       "browseId": "MPREb_z3BJtS2AtB5",
@@ -8624,8 +8714,10 @@
       ],
       "releaseDate": "2009-01-22",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "自導/自傳 新曲+精選"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "自導/自傳 新曲+精選",
+      "wikiKind": null,
+      "nameKey": "自導自傳"
     },
     {
       "browseId": "MPREb_rnvznM257Qd",
@@ -8750,7 +8842,9 @@
       "releaseDate": "2009-06-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "歌人 (許志安專輯)"
+      "wikiTitle": "歌人 (許志安專輯)",
+      "wikiKind": null,
+      "nameKey": "歌人"
     },
     {
       "browseId": "MPREb_a19SxqMNTFb",
@@ -8876,7 +8970,9 @@
       "releaseDate": "2011-05-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "On and On (許志安專輯)"
+      "wikiTitle": "On and On (許志安專輯)",
+      "wikiKind": "studio",
+      "nameKey": "onandon"
     },
     {
       "browseId": "MPREb_dUSeMcyVwWu",
@@ -9002,7 +9098,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "愛情沒理由"
     },
     {
       "browseId": "MPREb_TewcY44VTBv",
@@ -9149,7 +9247,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "戀愛片段"
     },
     {
       "browseId": "MPREb_jEnZbbxidIk",
@@ -9274,7 +9374,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "魔鬼莫探訪"
     },
     {
       "browseId": "MPREb_YCdAM2ezkQr",
@@ -9333,7 +9435,9 @@
       "releaseDate": "2012-07-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "學愛"
+      "wikiTitle": "學愛",
+      "wikiKind": "single",
+      "nameKey": "學愛"
     },
     {
       "browseId": "MPREb_3vE4WxqepNR",
@@ -9403,7 +9507,9 @@
       "releaseDate": "2013-10-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Lover A"
+      "wikiTitle": "Lover A",
+      "wikiKind": "single",
+      "nameKey": "lovera"
     },
     {
       "browseId": "MPREb_QJlj7KmZEge",
@@ -9429,7 +9535,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "冰山一對"
     },
     {
       "browseId": "MPREb_s39KMktWaXt",
@@ -9455,7 +9563,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "試新室"
     },
     {
       "browseId": "MPREb_gRIiTXorQRH",
@@ -9580,7 +9690,9 @@
       "releaseDate": "2014-11-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "新天地"
+      "wikiTitle": "新天地",
+      "wikiKind": null,
+      "nameKey": "新天地"
     },
     {
       "browseId": "MPREb_7aCnkhNQ9wp",
@@ -9606,7 +9718,9 @@
       "releaseDate": "2014-11-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "新天地"
+      "wikiTitle": "新天地",
+      "wikiKind": null,
+      "nameKey": "新天地"
     },
     {
       "browseId": "MPREb_BZ9znGAOeap",
@@ -9753,7 +9867,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "inthenameof"
     },
     {
       "browseId": "MPREb_kGsTbw2FleH",
@@ -10109,7 +10225,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "onandon25週年演唱會"
     },
     {
       "browseId": "MPREb_CWzj2wOrCc5",
@@ -10300,7 +10418,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "安歌16首"
     },
     {
       "browseId": "MPREb_l2FJyj4FHQV",
@@ -10425,7 +10545,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "從沒這麼愛戀過"
     },
     {
       "browseId": "MPREb_8nHicOcVwfj",
@@ -10616,7 +10738,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "心水選擇"
     },
     {
       "browseId": "MPREb_yVorEHN2YqC",
@@ -10642,7 +10766,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "情人甲"
     },
     {
       "browseId": "MPREb_Mb9o6JHqGbj",
@@ -10668,7 +10794,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "情人甲"
     },
     {
       "browseId": "MPREb_osZBrZGSLM4",
@@ -10694,7 +10822,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "流淚行勝利道"
     },
     {
       "browseId": "MPREb_G9gKhw7WT0D",
@@ -11083,7 +11213,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "許志安46首主打全精選"
     },
     {
       "browseId": "MPREb_DyRe4LmwEA3",
@@ -11816,7 +11948,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "comeonenjoythebest"
     },
     {
       "browseId": "MPREb_YdZCOiGYlQI",
@@ -12173,7 +12307,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "comeon許志安2015演唱會"
     },
     {
       "browseId": "MPREb_y9igcmykt0o",
@@ -12199,7 +12335,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "hello你好"
     },
     {
       "browseId": "MPREb_MA7HajwIFsz",
@@ -12225,7 +12363,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "你的男人"
     },
     {
       "browseId": "MPREb_gSXDlSBNGcd",
@@ -12251,7 +12391,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "你的秀"
     },
     {
       "browseId": "MPREb_jno8k5AZiuw",
@@ -12277,7 +12419,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "表情"
     },
     {
       "browseId": "MPREb_Y02qZjLUNOx",
@@ -12303,7 +12447,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "表情"
     },
     {
       "browseId": "MPREb_akAKDHSn96D",
@@ -12329,7 +12475,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "芝士"
     },
     {
       "browseId": "MPREb_oEP7nupLHRX",
@@ -12355,7 +12503,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "靈魂道"
     },
     {
       "browseId": "MPREb_1DbPu1IROaH",
@@ -12381,7 +12531,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "非安全地帶"
     },
     {
       "browseId": "MPREb_7nXZJm4NqnL",
@@ -12407,7 +12559,9 @@
       "releaseDate": "2017-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "許志安歌曲列表"
+      "wikiTitle": "許志安歌曲列表",
+      "wikiKind": null,
+      "nameKey": "狂獸"
     },
     {
       "browseId": "MPREb_J43ZdJvCiYC",
@@ -12467,7 +12621,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "18安士",
-      "titleZh": "18安士"
+      "wikiKind": null,
+      "titleZh": "18安士",
+      "nameKey": "18安士"
     },
     {
       "browseId": "MPREb_2HfqtJPQqQb",
@@ -12493,7 +12649,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "男藍"
     },
     {
       "browseId": "MPREb_SGB2WIx7Fup",
@@ -12520,7 +12678,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "教我這麼愛下去"
     },
     {
       "browseId": "MPREb_jGQZjHD58A3",
@@ -12546,7 +12706,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "教我這麼愛下去"
     },
     {
       "browseId": "MPREb_GUhfjyu02pe",
@@ -12572,7 +12734,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "獅子山上"
     },
     {
       "browseId": "MPREb_998JkXWDG5R",
@@ -12775,7 +12939,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一切安好新舊對照17首"
     },
     {
       "browseId": "MPREb_Yj6yTPnISTc",
@@ -12801,7 +12967,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "人與人之間"
     },
     {
       "browseId": "MPREb_FVnMZsDALZS",
@@ -12827,7 +12995,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "不枉"
     },
     {
       "browseId": "MPREb_cwaDQEmARrZ",
@@ -12853,7 +13023,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "與自己和解"
     },
     {
       "browseId": "MPREb_4ZzmMs0hsLe",
@@ -12879,7 +13051,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "與自己和解"
     },
     {
       "browseId": "MPREb_1MPNVbntjTS",
@@ -13136,7 +13310,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "行雷閃電唔好畀我停我唔係音樂劇原聲大碟"
     },
     {
       "browseId": "MPREb_tcvYLVKzjyF",
@@ -13481,7 +13657,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "許志安"
     },
     {
       "browseId": "MPREb_QYvGvbjjcNz",
@@ -13507,7 +13685,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "男人最痛"
     }
   ]
 }

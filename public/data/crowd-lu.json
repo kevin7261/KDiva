@@ -47,7 +47,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "淵明"
     },
     {
       "browseId": "MPREb_9hbrJHjThgH",
@@ -95,7 +97,9 @@
       "releaseDate": "2007-04-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "早安，晨之美！"
+      "wikiTitle": "早安，晨之美！",
+      "wikiKind": null,
+      "nameKey": "早安晨之美"
     },
     {
       "browseId": "MPREb_DqnTrbgrUsM",
@@ -133,7 +137,9 @@
       "releaseDate": "2007-07-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "盧廣仲"
+      "wikiTitle": "盧廣仲",
+      "wikiKind": "single",
+      "nameKey": "啊大巖壁"
     },
     {
       "browseId": "MPREb_WalzyLjS6XN",
@@ -280,7 +286,9 @@
       "releaseDate": "2008-05-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "100種生活"
+      "wikiTitle": "100種生活",
+      "wikiKind": null,
+      "nameKey": "100種生活"
     },
     {
       "browseId": "MPREb_QAPcM6HQRIA",
@@ -505,7 +513,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "liveinticc現場錄音專輯"
     },
     {
       "browseId": "MPREb_1tFqnNfjZU2",
@@ -652,7 +662,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "七天"
     },
     {
       "browseId": "MPREb_75RaXZfmGdb",
@@ -694,8 +706,8 @@
           "playsText": "1M plays",
           "duration": 283,
           "byOther": false,
-          "titleZh": "Nice to Meet You（演奏版）",
-          "nameKey": "nicetomeetyou"
+          "nameKey": "nicetomeetyou",
+          "titleZh": "Nice to Meet You（演奏版）"
         },
         {
           "index": 4,
@@ -712,7 +724,9 @@
       "releaseDate": "2010-08-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "盧廣仲"
+      "wikiTitle": "盧廣仲",
+      "wikiKind": "single",
+      "nameKey": "四菓冰"
     },
     {
       "browseId": "MPREb_4uDQSggXapb",
@@ -849,7 +863,9 @@
       "releaseDate": "2011-01-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "慢靈魂"
+      "wikiTitle": "慢靈魂",
+      "wikiKind": null,
+      "nameKey": "慢靈魂"
     },
     {
       "browseId": "MPREb_kHQk7mbpcWL",
@@ -1007,7 +1023,9 @@
       "releaseDate": "2012-11-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "有吉他的流行歌曲"
+      "wikiTitle": "有吉他的流行歌曲",
+      "wikiKind": "studio",
+      "nameKey": "有吉他的流行歌曲"
     },
     {
       "browseId": "MPREb_mvHQHt76hkM",
@@ -1044,7 +1062,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "只有夜來香"
     },
     {
       "browseId": "MPREb_HWCryvsrkfg",
@@ -1471,7 +1491,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "盧廣仲goodmorninggoodevening小巨蛋演唱會"
     },
     {
       "browseId": "MPREb_yRJIzRb5K8D",
@@ -1508,7 +1530,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "大人中"
     },
     {
       "browseId": "MPREb_2kUeV8kyxU1",
@@ -1556,7 +1580,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "天然的最好"
     },
     {
       "browseId": "MPREb_DO7D0TeoGTX",
@@ -1692,7 +1718,9 @@
       "releaseDate": "2016-06-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "What a Folk!"
+      "wikiTitle": "What a Folk!",
+      "wikiKind": "studio",
+      "nameKey": "whatafolk"
     },
     {
       "browseId": "MPREb_3Qw3fw8bMW5",
@@ -1731,7 +1759,9 @@
       "releaseDate": "2017-07-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "鱼仔"
+      "wikiTitle": "鱼仔",
+      "wikiKind": null,
+      "nameKey": "魚仔"
     },
     {
       "browseId": "MPREb_xF9Om9zM8DO",
@@ -1900,7 +1930,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "盧廣仲全創作原聲帶"
     },
     {
       "browseId": "MPREb_KIkgeQUQJxT",
@@ -1927,7 +1959,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "いつも信じて"
     },
     {
       "browseId": "MPREb_eoELa6zd95v",
@@ -1953,7 +1987,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "24小時柒天"
     },
     {
       "browseId": "MPREb_Iesme6035V6",
@@ -1980,7 +2016,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "有你不一樣"
     },
     {
       "browseId": "MPREb_iGWczh8rJQS",
@@ -2031,7 +2069,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "幾分之幾"
     },
     {
       "browseId": "MPREb_UCoTJp68evE",
@@ -2058,7 +2098,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "敢傻就是我的本事"
     },
     {
       "browseId": "MPREb_lYty7E0uWYa",
@@ -2095,7 +2137,9 @@
       "releaseDate": "2019-03-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛情怎麼了嗎"
+      "wikiTitle": "愛情怎麼了嗎",
+      "wikiKind": "single",
+      "nameKey": "愛情怎麼了嗎"
     },
     {
       "browseId": "MPREb_ZxixhgFzqek",
@@ -2122,7 +2166,9 @@
       "releaseDate": "2019-07-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "盧廣仲"
+      "wikiTitle": "盧廣仲",
+      "wikiKind": "single",
+      "nameKey": "flynow敢傻就飛"
     },
     {
       "browseId": "MPREb_0YHD4RHn5Jw",
@@ -2424,7 +2470,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "盧廣仲11週年大人中演唱會live"
     },
     {
       "browseId": "MPREb_ymnVRLbXPQd",
@@ -2451,7 +2499,9 @@
       "releaseDate": "2020-08-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "刻在我心底的名字"
+      "wikiTitle": "刻在我心底的名字",
+      "wikiKind": null,
+      "nameKey": "刻在我心底的名字"
     },
     {
       "browseId": "MPREb_LKAxMxq8Koe",
@@ -2477,7 +2527,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "明年"
     },
     {
       "browseId": "MPREb_4Y8kWoGNEY9",
@@ -2503,7 +2555,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "藍寶"
     },
     {
       "browseId": "MPREb_Nmefm5FwzPK",
@@ -2529,7 +2583,9 @@
       "releaseDate": "2021-03-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "盧廣仲"
+      "wikiTitle": "盧廣仲",
+      "wikiKind": "single",
+      "nameKey": "lifebox"
     },
     {
       "browseId": "MPREb_p35Ifjriy6o",
@@ -2555,7 +2611,9 @@
       "releaseDate": "2021-12-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "勵志論"
+      "wikiTitle": "勵志論",
+      "wikiKind": "studio",
+      "nameKey": "勵志論"
     },
     {
       "browseId": "MPREb_6MP9yLBkYse",
@@ -2691,7 +2749,9 @@
       "releaseDate": "2021-12-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "勵志論"
+      "wikiTitle": "勵志論",
+      "wikiKind": "studio",
+      "nameKey": "勵志論"
     },
     {
       "browseId": "MPREb_duHCWYixXaF",
@@ -2717,7 +2777,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "自我的介紹"
     },
     {
       "browseId": "MPREb_7lnZB4vhc5u",
@@ -2744,7 +2806,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "英雄"
     },
     {
       "browseId": "MPREb_TvWBDDYgQRD",
@@ -2770,7 +2834,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "雨時多雲偶陣晴"
     },
     {
       "browseId": "MPREb_pdpkfajxc3h",
@@ -2796,7 +2862,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "dreamlikeme"
     },
     {
       "browseId": "MPREb_N4VYjmBRrCJ",
@@ -2822,7 +2890,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "gofeatchill"
     },
     {
       "browseId": "MPREb_Ts1FcRwroDh",
@@ -2849,7 +2919,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "天黑黑"
     },
     {
       "browseId": "MPREb_ANSKz3eaTDX",
@@ -2886,7 +2958,9 @@
       "releaseDate": "2023-03-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "盧廣仲"
+      "wikiTitle": "盧廣仲",
+      "wikiKind": "single",
+      "nameKey": "livehouse"
     },
     {
       "browseId": "MPREb_hkl1bEFiddK",
@@ -3475,7 +3549,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "他馬克老闆電影原聲帶"
     },
     {
       "browseId": "MPREb_qQnmzPe1avB",
@@ -3501,7 +3577,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "morninggoodgood"
     },
     {
       "browseId": "MPREb_VB3GBYf9aZw",
@@ -3527,7 +3605,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "工作與休息"
     },
     {
       "browseId": "MPREb_X2Wp1b56bsL",
@@ -3553,7 +3633,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我每一天都愛你的西文叫做teamotodoslosdías"
     },
     {
       "browseId": "MPREb_fXJAA2WLbUZ",
@@ -3678,7 +3760,9 @@
       "releaseDate": "2025-09-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "傷心早餐店"
+      "wikiTitle": "傷心早餐店",
+      "wikiKind": "studio",
+      "nameKey": "heartbreakfast傷心早餐店"
     },
     {
       "browseId": "MPREb_zh1HDZRO48Q",
@@ -3704,7 +3788,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一夜一夜一夜"
     },
     {
       "browseId": "MPREb_MlTLXjQchB6",
@@ -3731,7 +3817,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一路順風"
     },
     {
       "browseId": "MPREb_rIVjmJD2gtN",
@@ -3757,7 +3845,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "愚人節快樂"
     }
   ]
 }

@@ -146,7 +146,9 @@
       "releaseDate": "2008-06-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "蕭敬騰同名專輯"
+      "wikiTitle": "蕭敬騰同名專輯",
+      "wikiKind": null,
+      "nameKey": "同名專輯"
     },
     {
       "browseId": "MPREb_ZB4wCgv4lDs",
@@ -304,7 +306,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "蕭敬騰"
     },
     {
       "browseId": "MPREb_ECYj8gneuHj",
@@ -368,8 +372,8 @@
           "playsText": "437K plays",
           "duration": 209,
           "byOther": false,
-          "titleZh": "Say A Lil Something (台南Live巡迴版)",
-          "nameKey": "sayalilsomething"
+          "nameKey": "sayalilsomething",
+          "titleZh": "Say A Lil Something (台南Live巡迴版)"
         },
         {
           "index": 6,
@@ -424,8 +428,8 @@
           "playsText": "2.8K plays",
           "duration": 199,
           "byOther": false,
-          "titleZh": "Green Door (台南Live巡迴版)",
-          "nameKey": "greendoor"
+          "nameKey": "greendoor",
+          "titleZh": "Green Door (台南Live巡迴版)"
         },
         {
           "index": 11,
@@ -453,7 +457,9 @@
       "releaseDate": "2009-07-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "王妃 (專輯)"
+      "wikiTitle": "王妃 (專輯)",
+      "wikiKind": null,
+      "nameKey": "王妃"
     },
     {
       "browseId": "MPREb_9ofSg6c0FTo",
@@ -579,7 +585,9 @@
       "releaseDate": "2009-11-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛的時刻自選輯"
+      "wikiTitle": "愛的時刻自選輯",
+      "wikiKind": null,
+      "nameKey": "愛的時刻自選輯"
     },
     {
       "browseId": "MPREb_JG4vKHaaZAV",
@@ -714,7 +722,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "王妃"
     },
     {
       "browseId": "MPREb_UgCUmzEUKSR",
@@ -878,8 +888,8 @@
           "playsText": "152 plays",
           "duration": 213,
           "byOther": false,
-          "titleZh": "Say A Lil Something (台南Live巡迴版)",
-          "nameKey": "sayalilsomething#live"
+          "nameKey": "sayalilsomething#live",
+          "titleZh": "Say A Lil Something (台南Live巡迴版)"
         },
         {
           "index": 15,
@@ -1071,8 +1081,10 @@
       ],
       "releaseDate": "2010-07-05",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "蕭敬騰"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "Mr. Rock Concert",
+      "wikiKind": null,
+      "nameKey": "洛克先生mrrock演唱會live紀實"
     },
     {
       "browseId": "MPREb_NLif3MTx5O0",
@@ -1241,7 +1253,9 @@
       "releaseDate": "2011-06-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "狂想曲 (蕭敬騰專輯)"
+      "wikiTitle": "狂想曲 (蕭敬騰專輯)",
+      "wikiKind": null,
+      "nameKey": "狂想曲"
     },
     {
       "browseId": "MPREb_Hp5751Wq7TR",
@@ -1542,7 +1556,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "漁人碼頭夏日狂想曲新歌演唱會"
     },
     {
       "browseId": "MPREb_HtO86VqsM68",
@@ -1832,7 +1848,9 @@
       "releaseDate": "2012-02-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "蕭敬騰同名世界巡迴演唱會 香港紅磡站"
+      "wikiTitle": "蕭敬騰同名世界巡迴演唱會 香港紅磡站",
+      "wikiKind": "live",
+      "nameKey": "蕭敬騰同名世界巡迴演唱會香港紅磡站有一種精神叫蕭敬騰"
     },
     {
       "browseId": "MPREb_BP9UzSIC3hg",
@@ -1874,8 +1892,8 @@
           "playsText": "22M plays",
           "duration": 280,
           "byOther": false,
-          "titleZh": "Marry me (詞：蕭敬騰 曲：陳奐仁 林雅慧)",
-          "nameKey": "marryme"
+          "nameKey": "marryme",
+          "titleZh": "Marry me (詞：蕭敬騰 曲：陳奐仁 林雅慧)"
         },
         {
           "index": 4,
@@ -1980,7 +1998,9 @@
       "releaseDate": "2012-11-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "以愛之名"
+      "wikiTitle": "以愛之名",
+      "wikiKind": null,
+      "nameKey": "以愛之名"
     },
     {
       "browseId": "MPREb_k7BdtrC5nVv",
@@ -2138,7 +2158,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "mrjazz"
     },
     {
       "browseId": "MPREb_ONampYb3Ewe",
@@ -2164,7 +2186,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "悲愛"
     },
     {
       "browseId": "MPREb_O6m8AjFqU4l",
@@ -2190,7 +2214,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "約定你"
     },
     {
       "browseId": "MPREb_STrvlsCrMQd",
@@ -2309,8 +2335,8 @@
           "playsText": "227 plays",
           "duration": 257,
           "byOther": false,
-          "titleZh": "Say A Lil Something (台南Live巡迴版)",
-          "nameKey": "sayalilsomething#live"
+          "nameKey": "sayalilsomething#live",
+          "titleZh": "Say A Lil Something (台南Live巡迴版)"
         },
         {
           "index": 11,
@@ -2536,7 +2562,9 @@
       "releaseDate": "2013-03-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "蕭敬騰同名世界巡迴演唱會 2012台北站"
+      "wikiTitle": "蕭敬騰同名世界巡迴演唱會 2012台北站",
+      "wikiKind": "live",
+      "nameKey": "蕭敬騰同名世界巡迴演唱會2012臺北站"
     },
     {
       "browseId": "MPREb_c1nLSi2wezb",
@@ -2562,7 +2590,9 @@
       "releaseDate": "2014-04-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "到不了的地方"
     },
     {
       "browseId": "MPREb_nLo9aOiQWPv",
@@ -2698,7 +2728,9 @@
       "releaseDate": "2014-06-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "The Song"
+      "wikiTitle": "The Song",
+      "wikiKind": null,
+      "nameKey": "thesong"
     },
     {
       "browseId": "MPREb_MKf4praykCQ",
@@ -2725,7 +2757,9 @@
       "releaseDate": "2014-09-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "天敵"
     },
     {
       "browseId": "MPREb_e2HRvQcZS7W",
@@ -2751,7 +2785,9 @@
       "releaseDate": "2015-03-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "rockko"
     },
     {
       "browseId": "MPREb_bQmPf6t5QxX",
@@ -2876,7 +2912,9 @@
       "releaseDate": "2015-12-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "studio",
+      "nameKey": "reminiscence"
     },
     {
       "browseId": "MPREb_Rz86k6qWg0m",
@@ -2902,7 +2940,9 @@
       "releaseDate": "2017-07-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "河"
     },
     {
       "browseId": "MPREb_ManXxb3uz5j",
@@ -2928,7 +2968,9 @@
       "releaseDate": "2017-11-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "請記住我"
     },
     {
       "browseId": "MPREb_m0JxKd7p0Pf",
@@ -2954,7 +2996,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "誰是英雄"
     },
     {
       "browseId": "MPREb_tUDcfh5GkwY",
@@ -2980,7 +3024,9 @@
       "releaseDate": "2018-01-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "皮囊"
     },
     {
       "browseId": "MPREb_KFDIMzyNv3b",
@@ -3006,7 +3052,9 @@
       "releaseDate": "2018-05-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "讓我為你唱情歌"
     },
     {
       "browseId": "MPREb_HMZJkxOAWv3",
@@ -3032,7 +3080,9 @@
       "releaseDate": "2018-05-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "你會在哪呢"
     },
     {
       "browseId": "MPREb_yT3IiATuvTc",
@@ -3058,7 +3108,9 @@
       "releaseDate": "2018-05-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "全是愛"
     },
     {
       "browseId": "MPREb_hvykzlxPNfL",
@@ -3084,7 +3136,9 @@
       "releaseDate": "2018-05-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "王妃20"
     },
     {
       "browseId": "MPREb_ohob37BTpwP",
@@ -3110,7 +3164,9 @@
       "releaseDate": "2018-05-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "我有多麼喜歡你"
     },
     {
       "browseId": "MPREb_hJkytbl4ovf",
@@ -3247,7 +3303,9 @@
       "releaseDate": "2018-06-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "欲望反光"
+      "wikiTitle": "欲望反光",
+      "wikiKind": null,
+      "nameKey": "慾望反光"
     },
     {
       "browseId": "MPREb_hQapRhVLl2P",
@@ -3274,7 +3332,9 @@
       "releaseDate": "2018-06-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "欲望反光"
+      "wikiTitle": "欲望反光",
+      "wikiKind": null,
+      "nameKey": "慾望反光"
     },
     {
       "browseId": "MPREb_eCr54mVZ6SE",
@@ -3301,7 +3361,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "鬥羅大陸"
     },
     {
       "browseId": "MPREb_ROAIwLIri0K",
@@ -3327,7 +3389,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "百里守約"
     },
     {
       "browseId": "MPREb_vQPhRlVLLz7",
@@ -3353,7 +3417,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "耍light"
     },
     {
       "browseId": "MPREb_fZJkyd5R2Mo",
@@ -3379,7 +3445,9 @@
       "releaseDate": "2019-03-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "hauntingme"
     },
     {
       "browseId": "MPREb_cdxZf55q5sP",
@@ -3405,7 +3473,9 @@
       "releaseDate": "2019-06-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "浮生"
     },
     {
       "browseId": "MPREb_fPGhNBvLky1",
@@ -3431,7 +3501,9 @@
       "releaseDate": "2019-12-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "別認慫"
     },
     {
       "browseId": "MPREb_HGEx2nYYGc6",
@@ -3457,7 +3529,9 @@
       "releaseDate": "2019-12-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "亡羊"
     },
     {
       "browseId": "MPREb_jjDUIuNnGBH",
@@ -3483,7 +3557,9 @@
       "releaseDate": "2020-04-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "hello"
     },
     {
       "browseId": "MPREb_SCWCZIu3LEf",
@@ -3509,7 +3585,9 @@
       "releaseDate": "2020-06-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "猴籠"
     },
     {
       "browseId": "MPREb_37rCb3wLLus",
@@ -3535,7 +3613,9 @@
       "releaseDate": "2020-12-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "薩哈星球"
     },
     {
       "browseId": "MPREb_Mm6PK1svhYG",
@@ -3561,7 +3641,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "星期三"
     },
     {
       "browseId": "MPREb_biyTipL1OfH",
@@ -3587,7 +3669,9 @@
       "releaseDate": "2021-06-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "禁愛條款"
     },
     {
       "browseId": "MPREb_xDPhbbcTIYN",
@@ -3690,7 +3774,9 @@
       "releaseDate": "2021-12-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "隔離套房2827"
+      "wikiTitle": "隔離套房2827",
+      "wikiKind": null,
+      "nameKey": "隔離套房2827"
     },
     {
       "browseId": "MPREb_lBcxonRl5aG",
@@ -3716,7 +3802,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "不完美的我"
     },
     {
       "browseId": "MPREb_EONt4iIRLrJ",
@@ -3742,7 +3830,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "已讀不回94我"
     },
     {
       "browseId": "MPREb_BNEKfnNSPbR",
@@ -3768,7 +3858,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "彼得潘"
     },
     {
       "browseId": "MPREb_bOtyOWZwtQR",
@@ -3794,7 +3886,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我"
     },
     {
       "browseId": "MPREb_fkpwpiLQ06l",
@@ -3820,7 +3914,9 @@
       "releaseDate": "2022-04-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "陽光燦爛的日子"
     },
     {
       "browseId": "MPREb_vZHIec7oZtg",
@@ -3846,7 +3942,9 @@
       "releaseDate": "2022-09-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "mytiffany"
     },
     {
       "browseId": "MPREb_eZkgjUmBm8U",
@@ -3872,7 +3970,9 @@
       "releaseDate": "2022-12-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "銀河星艦"
     },
     {
       "browseId": "MPREb_2MdIjGMLKAw",
@@ -3899,7 +3999,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "無畏之路"
     },
     {
       "browseId": "MPREb_lkVnImg4U7b",
@@ -3925,7 +4027,9 @@
       "releaseDate": "2023-02-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "全世界在等你"
     },
     {
       "browseId": "MPREb_kuoYbAspbcQ",
@@ -4006,7 +4110,9 @@
       "releaseDate": "2023-12-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": null,
+      "nameKey": "野生"
     },
     {
       "browseId": "MPREb_XsaN7l19cog",
@@ -4032,7 +4138,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "無目的地找目的地"
     },
     {
       "browseId": "MPREb_LiODqlLHMxb",
@@ -4058,7 +4166,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "登天路"
     },
     {
       "browseId": "MPREb_uH0HUad3gfR",
@@ -4084,7 +4194,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "白夜"
     },
     {
       "browseId": "MPREb_z6RrchNFAba",
@@ -4213,7 +4325,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "赤夢華夏"
     },
     {
       "browseId": "MPREb_aMUuDTmasDJ",
@@ -4250,7 +4364,9 @@
       "releaseDate": "2024-04-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": null,
+      "nameKey": "胭脂扣"
     },
     {
       "browseId": "MPREb_laMtWXfhzIY",
@@ -4299,7 +4415,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "繁星"
     },
     {
       "browseId": "MPREb_VkZGgIPiyyK",
@@ -4325,7 +4443,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "為愛狂歡"
     },
     {
       "browseId": "MPREb_MoAeRyyMUbH",
@@ -4351,7 +4471,9 @@
       "releaseDate": "2026-07-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "流浪流浪就好"
     },
     {
       "browseId": "MPREb_eJvn6ziop9a",
@@ -4377,7 +4499,9 @@
       "releaseDate": "2026-07-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蕭敬騰"
+      "wikiTitle": "蕭敬騰",
+      "wikiKind": "single",
+      "nameKey": "愛上你不是我決定"
     },
     {
       "browseId": "MPREb_HuBGkovVqlf",
@@ -4416,7 +4540,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "賜豫我力量吧"
     }
   ]
 }

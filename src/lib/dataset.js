@@ -20,6 +20,17 @@ export function splitTitle(title = '') {
 // 抓取時補上的中文名（titleZh，例如〈Last Train〉＝〈末班車〉）放前面，原名當副標
 const withChinese = (item) => (item.titleZh ? { ...item, title: `${item.titleZh} - ${item.title}` } : item)
 
+// 發行類型提示：Wikipedia 章節／資訊框（wikiKind，抓取時記錄）優先，其次看名稱
+const REISSUE_RE = /再版|復刻|复刻|remaster|reissue|珍藏系列|華星40系列|capital artists 40th|[（(][^）)]*(?<!普通|標準|标准)版[）)]/i
+const COMPILATION_RE =
+  /精選|精选|選輯|选辑|\bbest\b|greatest|\bhits\b|collection|金曲|典藏|全紀錄|全记录|紀念集|纪念集|名曲|全集|大全|anthology|essential|ultimate|\b101\b/i
+function kindHint(album) {
+  if (album.wikiKind === 'reissue' || REISSUE_RE.test(album.title)) return 'reissue'
+  if (album.wikiKind && album.wikiKind !== 'compilation') return album.wikiKind
+  if (album.wikiKind === 'compilation' || COMPILATION_RE.test(album.title)) return 'compilation'
+  return null
+}
+
 // 演唱會、Live 版本：同名也是不同錄音，不和錄音室版本合併
 const LIVE_RE = /live|演唱會|演唱会|音樂會|音乐会|現場|现场|concert/i
 
@@ -132,7 +143,10 @@ export function buildModel(raw, artistConfig = {}) {
     album.sharedRatio = shared / album.tracks.length
   }
 
-  const byOrigin = (a, b) => a.sortKey.localeCompare(b.sortKey) || a.sharedRatio - b.sharedRatio
+  // 首發專輯：先排除精選輯與再版（它們的日期再早也不是首發），再比發行日期
+  for (const album of albums) album.kindHint = kindHint(album)
+  const secondary = (a) => (a.kindHint === 'compilation' || a.kindHint === 'reissue' ? 1 : 0)
+  const byOrigin = (a, b) => secondary(a) - secondary(b) || a.sortKey.localeCompare(b.sortKey) || a.sharedRatio - b.sharedRatio
   const songs = new Map()
   for (const [key, list] of appearances) {
     list.sort(byOrigin)
@@ -197,11 +211,18 @@ export function buildModel(raw, artistConfig = {}) {
     const sources = album.songs.filter((t) => !t.isOriginal).map((t) => t.song.origin)
     const main = mode(sources)
     // 名稱去掉括號註記（「(2021 Remaster)」「（蘇打綠版）」）後相同，或同一天發行 → 再版
-    const baseName = (n) => normName(n.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ''))
+    const baseName = (a) => a.nameKey ?? normName(a.name.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ''))
+    // 同名、曲目數相近的另一張（重複上架、簡體版、再版）
+    const twin = albums.find(
+      (b) => b !== album && baseName(b) === baseName(album) && Math.abs(b.tracks.length - album.tracks.length) <= 3 && byOrigin(b, album) < 0,
+    )
     album.isReissue =
-      borrowed && !!main && (baseName(main.name) === baseName(album.name) || main.sortKey === album.sortKey)
-    album.reissueOf = album.isReissue ? main : null
-    album.isCompilation = borrowed && !album.isReissue
+      borrowed &&
+      (album.kindHint === 'reissue' || !!twin || (!!main && (baseName(main) === baseName(album) || main.sortKey === album.sortKey)))
+    album.reissueOf = album.isReissue ? twin ?? main ?? null : null
+    // 精選輯：Wikipedia 或名稱標明是精選；或大部分歌首發於別張（Wikipedia 標明是正規專輯的除外）
+    album.isCompilation =
+      !album.isReissue && (album.kindHint === 'compilation' || (borrowed && album.kindHint !== 'studio'))
     album.topSong = [...album.songs].sort((a, b) => (b.song.plays ?? -1) - (a.song.plays ?? -1))[0]
   }
 

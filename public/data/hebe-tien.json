@@ -30,8 +30,8 @@
           "playsText": "7M plays",
           "duration": 88,
           "byOther": false,
-          "titleZh": "Love ! (搖滾版)",
-          "nameKey": "love"
+          "nameKey": "love",
+          "titleZh": "Love ! (搖滾版)"
         },
         {
           "index": 2,
@@ -141,14 +141,16 @@
           "playsText": "7M plays",
           "duration": 197,
           "byOther": false,
-          "titleZh": "Love ! (搖滾版)",
-          "nameKey": "love"
+          "nameKey": "love",
+          "titleZh": "Love ! (搖滾版)"
         }
       ],
       "releaseDate": "2010-09-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "To Hebe"
+      "wikiTitle": "To Hebe",
+      "wikiKind": null,
+      "nameKey": "tohebe"
     },
     {
       "browseId": "MPREb_TVo5dOO52Fd",
@@ -273,7 +275,9 @@
       "releaseDate": "2010-10-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "田馥甄音樂作品列表"
+      "wikiTitle": "田馥甄音樂作品列表",
+      "wikiKind": "live",
+      "nameKey": "tohebelive音樂會"
     },
     {
       "browseId": "MPREb_ktu4sscXW9g",
@@ -315,8 +319,8 @@
           "playsText": "11M plays",
           "duration": 311,
           "byOther": false,
-          "titleZh": "My Love (田馥甄專輯)",
-          "nameKey": "mylove"
+          "nameKey": "mylove",
+          "titleZh": "My Love (田馥甄專輯)"
         },
         {
           "index": 4,
@@ -400,7 +404,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "My Love (田馥甄專輯)",
-      "titleZh": "My Love (田馥甄專輯)"
+      "wikiKind": null,
+      "titleZh": "My Love (田馥甄專輯)",
+      "nameKey": "mylove"
     },
     {
       "browseId": "MPREb_j4Tk4iHQec8",
@@ -420,8 +426,8 @@
           "playsText": "57K plays",
           "duration": 303,
           "byOther": false,
-          "titleZh": "My Love (田馥甄專輯)",
-          "nameKey": "mylove"
+          "nameKey": "mylove",
+          "titleZh": "My Love (田馥甄專輯)"
         },
         {
           "index": 2,
@@ -581,7 +587,9 @@
       "releaseDate": "2011-12-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "田馥甄音樂作品列表"
+      "wikiTitle": "田馥甄音樂作品列表",
+      "wikiKind": null,
+      "nameKey": "田馥甄tomylove影音館"
     },
     {
       "browseId": "MPREb_d5Tpix8bpgO",
@@ -706,7 +714,9 @@
       "releaseDate": "2013-11-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "渺小"
+      "wikiTitle": "渺小",
+      "wikiKind": null,
+      "nameKey": "渺小"
     },
     {
       "browseId": "MPREb_NnaIr90NjUV",
@@ -732,7 +742,9 @@
       "releaseDate": "2015-03-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "田馥甄音樂作品列表"
+      "wikiTitle": "田馥甄音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "10萬嬉皮"
     },
     {
       "browseId": "MPREb_YhAOVnDVdDi",
@@ -758,7 +770,9 @@
       "releaseDate": "2015-07-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "小幸運"
+      "wikiTitle": "小幸運",
+      "wikiKind": "single",
+      "nameKey": "小幸運"
     },
     {
       "browseId": "MPREb_QyLZnifzVLn",
@@ -784,7 +798,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "野子"
     },
     {
       "browseId": "MPREb_50VU9orrBQe",
@@ -909,7 +925,9 @@
       "releaseDate": "2016-07-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "日常 (田馥甄專輯)"
+      "wikiTitle": "日常 (田馥甄專輯)",
+      "wikiKind": null,
+      "nameKey": "日常"
     },
     {
       "browseId": "MPREb_fHmLuA9wccv",
@@ -940,8 +958,8 @@
           "playsText": "67K plays",
           "duration": 220,
           "byOther": false,
-          "titleZh": "Love ! (搖滾版)",
-          "nameKey": "love"
+          "nameKey": "love",
+          "titleZh": "Love ! (搖滾版)"
         },
         {
           "index": 3,
@@ -1172,8 +1190,8 @@
           "playsText": "38K plays",
           "duration": 318,
           "byOther": false,
-          "titleZh": "My Love (田馥甄專輯)",
-          "nameKey": "mylove"
+          "nameKey": "mylove",
+          "titleZh": "My Love (田馥甄專輯)"
         },
         {
           "index": 24,
@@ -1212,7 +1230,9 @@
       "releaseDate": "2016-12-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "If Only如果田馥甄巡迴演唱會"
+      "wikiTitle": "If Only如果田馥甄巡迴演唱會",
+      "wikiKind": "live",
+      "nameKey": "ifonly如果田馥甄巡迴演唱會live專輯"
     },
     {
       "browseId": "MPREb_9IPncK9MDcL",
@@ -1239,7 +1259,9 @@
       "releaseDate": "2017-02-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "田馥甄音樂作品列表"
+      "wikiTitle": "田馥甄音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "美女與野獸"
     },
     {
       "browseId": "MPREb_1JR9suFIY9l",
@@ -1342,7 +1364,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "田馥甄夢想的聲音現場live版"
     },
     {
       "browseId": "MPREb_hYlmCugd0Sg",
@@ -1368,7 +1392,9 @@
       "releaseDate": "2018-03-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "田馥甄"
+      "wikiTitle": "田馥甄",
+      "wikiKind": "single",
+      "nameKey": "愛了很久的朋友"
     },
     {
       "browseId": "MPREb_B9XcOgsuJ38",
@@ -1395,7 +1421,9 @@
       "releaseDate": "2018-04-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "田馥甄"
+      "wikiTitle": "田馥甄",
+      "wikiKind": "single",
+      "nameKey": "最暖的憂傷"
     },
     {
       "browseId": "MPREb_RF2nXA1dRL9",
@@ -1421,7 +1449,9 @@
       "releaseDate": "2018-08-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "田馥甄"
+      "wikiTitle": "田馥甄",
+      "wikiKind": "single",
+      "nameKey": "自己的房間"
     },
     {
       "browseId": "MPREb_8qb5tJWvtu0",
@@ -1447,7 +1477,9 @@
       "releaseDate": "2019-08-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "田馥甄"
+      "wikiTitle": "田馥甄",
+      "wikiKind": "single",
+      "nameKey": "不晚"
     },
     {
       "browseId": "MPREb_75iuZShyMlz",
@@ -1584,7 +1616,9 @@
       "releaseDate": "2020-09-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "無人知曉 (專輯)"
+      "wikiTitle": "無人知曉 (專輯)",
+      "wikiKind": null,
+      "nameKey": "無人知曉"
     },
     {
       "browseId": "MPREb_DySYX0w7E85",
@@ -1610,7 +1644,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "先知"
     },
     {
       "browseId": "MPREb_lMmv4kTJwlj",
@@ -1636,7 +1672,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "懸日"
     },
     {
       "browseId": "MPREb_4NozadFr14n",
@@ -1662,7 +1700,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "或是一首歌"
     },
     {
       "browseId": "MPREb_BvREvIb6O7Q",
@@ -1689,7 +1729,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "皆可"
     },
     {
       "browseId": "MPREb_5eime8jQGG2",
@@ -1715,7 +1757,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "諷刺的情書"
     },
     {
       "browseId": "MPREb_Tp9TZqYvtzu",
@@ -1741,7 +1785,9 @@
       "releaseDate": "2022-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "無人知曉 (專輯)"
+      "wikiTitle": "無人知曉 (專輯)",
+      "wikiKind": null,
+      "nameKey": "一一"
     },
     {
       "browseId": "MPREb_i0htbfHykNc",
@@ -1767,7 +1813,9 @@
       "releaseDate": "2022-02-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "田馥甄"
+      "wikiTitle": "田馥甄",
+      "wikiKind": "single",
+      "nameKey": "現在是什麼時辰了"
     },
     {
       "browseId": "MPREb_5q2i1VFKAIh",
@@ -1794,7 +1842,9 @@
       "releaseDate": "2022-06-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "田馥甄"
+      "wikiTitle": "田馥甄",
+      "wikiKind": "single",
+      "nameKey": "一週的朋友"
     },
     {
       "browseId": "MPREb_IYRYQzkter9",
@@ -1820,7 +1870,9 @@
       "releaseDate": "2023-08-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "田馥甄"
+      "wikiTitle": "田馥甄",
+      "wikiKind": "single",
+      "nameKey": "乘著無人光影的遠行"
     },
     {
       "browseId": "MPREb_Bavcy7T24Yv",
@@ -1846,7 +1898,9 @@
       "releaseDate": "2025-04-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "田馥甄"
+      "wikiTitle": "田馥甄",
+      "wikiKind": "single",
+      "nameKey": "一二三"
     }
   ]
 }

@@ -135,7 +135,9 @@
       "releaseDate": "2000-11-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "杰倫 (專輯)"
+      "wikiTitle": "杰倫 (專輯)",
+      "wikiKind": "studio",
+      "nameKey": "傑倫"
     },
     {
       "browseId": "MPREb_Dy4ZCnb2PtY",
@@ -260,7 +262,9 @@
       "releaseDate": "2001-09-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "范特西"
+      "wikiTitle": "范特西",
+      "wikiKind": null,
+      "nameKey": "范特西"
     },
     {
       "browseId": "MPREb_BfQvVb8SpVt",
@@ -308,7 +312,9 @@
       "releaseDate": "2001-09-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "范特西"
+      "wikiTitle": "范特西",
+      "wikiKind": null,
+      "nameKey": "范特西ep"
     },
     {
       "browseId": "MPREb_Kcmgu3xJAgL",
@@ -433,7 +439,9 @@
       "releaseDate": "2002-07-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "八度空間 (專輯)"
+      "wikiTitle": "八度空間 (專輯)",
+      "wikiKind": null,
+      "nameKey": "八度空間"
     },
     {
       "browseId": "MPREb_UPuY1cLuC4P",
@@ -668,7 +676,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "theone演唱會"
     },
     {
       "browseId": "MPREb_nqKuADavt3c",
@@ -804,7 +814,9 @@
       "releaseDate": "2003-07-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "葉惠美"
+      "wikiTitle": "葉惠美",
+      "wikiKind": "studio",
+      "nameKey": "葉惠美"
     },
     {
       "browseId": "MPREb_jNNIavMXolE",
@@ -863,132 +875,9 @@
       "releaseDate": "2003-11-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
-    },
-    {
-      "browseId": "MPREb_ScDJHCiomAo",
-      "playlistId": "OLAK5uy_llF9VkFj8c_8hgw02TFvGZbZkczomMG_c",
-      "title": "七里香",
-      "albumArtist": "周杰倫",
-      "type": "Album",
-      "year": 2004,
-      "thumbnail": "https://yt3.googleusercontent.com/8HDwUPo2rrcU4FkMya5FXQzat-nxRniRjJTxcSHT9KWSYQo6gwqEvycYPMjIfOuMBsTDq9fcHcmt9vCL=w544-h544-s-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "我的地盤",
-          "artists": "",
-          "videoId": "RJerfq6MqY0",
-          "plays": 4300000,
-          "playsText": "4.3M plays",
-          "duration": 243,
-          "byOther": false,
-          "nameKey": "我的地盤"
-        },
-        {
-          "index": 2,
-          "title": "七里香",
-          "artists": "",
-          "videoId": "Bbp9ZaJD_eA",
-          "plays": 159000000,
-          "playsText": "159M plays",
-          "duration": 298,
-          "byOther": false,
-          "nameKey": "七里香"
-        },
-        {
-          "index": 3,
-          "title": "藉口",
-          "artists": "",
-          "videoId": "KcK8WurGpEQ",
-          "plays": 61000000,
-          "playsText": "61M plays",
-          "duration": 259,
-          "byOther": false,
-          "nameKey": "藉口"
-        },
-        {
-          "index": 4,
-          "title": "外婆",
-          "artists": "",
-          "videoId": "Ur-x4pZT1Rk",
-          "plays": 14000000,
-          "playsText": "14M plays",
-          "duration": 243,
-          "byOther": false,
-          "nameKey": "外婆"
-        },
-        {
-          "index": 5,
-          "title": "將軍",
-          "artists": "",
-          "videoId": "PaJdceSx4JA",
-          "plays": 4900000,
-          "playsText": "4.9M plays",
-          "duration": 203,
-          "byOther": false,
-          "nameKey": "將軍"
-        },
-        {
-          "index": 6,
-          "title": "擱淺",
-          "artists": "",
-          "videoId": "YJfHuATJYsQ",
-          "plays": 175000000,
-          "playsText": "175M plays",
-          "duration": 239,
-          "byOther": false,
-          "nameKey": "擱淺"
-        },
-        {
-          "index": 7,
-          "title": "亂舞春秋",
-          "artists": "",
-          "videoId": "2Tg3uzSAkXk",
-          "plays": 4800000,
-          "playsText": "4.8M plays",
-          "duration": 278,
-          "byOther": false,
-          "nameKey": "亂舞春秋"
-        },
-        {
-          "index": 8,
-          "title": "困獸之鬥",
-          "artists": "",
-          "videoId": "pm91leB_P8c",
-          "plays": 2900000,
-          "playsText": "2.9M plays",
-          "duration": 268,
-          "byOther": false,
-          "nameKey": "困獸之鬥"
-        },
-        {
-          "index": 9,
-          "title": "園遊會",
-          "artists": "",
-          "videoId": "IoCoIxkGkVw",
-          "plays": 28000000,
-          "playsText": "28M plays",
-          "duration": 254,
-          "byOther": false,
-          "nameKey": "園遊會"
-        },
-        {
-          "index": 10,
-          "title": "止戰之殤",
-          "artists": "",
-          "videoId": "qIZ5MAwbeCg",
-          "plays": 26000000,
-          "playsText": "26M plays",
-          "duration": 275,
-          "byOther": false,
-          "nameKey": "止戰之殤"
-        }
-      ],
-      "releaseDate": "2004-08-03",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "七里香 (專輯)"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "尋找周杰倫ep"
     },
     {
       "browseId": "MPREb_XtQTvrFDfoc",
@@ -1275,10 +1164,139 @@
           "nameKey": "軌跡"
         }
       ],
-      "releaseDate": "2005-01-21",
+      "releaseDate": "2004-01-01",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "周杰倫2004無與倫比演唱會",
+      "wikiKind": null,
+      "nameKey": "2004無與倫比演唱會"
+    },
+    {
+      "browseId": "MPREb_ScDJHCiomAo",
+      "playlistId": "OLAK5uy_llF9VkFj8c_8hgw02TFvGZbZkczomMG_c",
+      "title": "七里香",
+      "albumArtist": "周杰倫",
+      "type": "Album",
+      "year": 2004,
+      "thumbnail": "https://yt3.googleusercontent.com/8HDwUPo2rrcU4FkMya5FXQzat-nxRniRjJTxcSHT9KWSYQo6gwqEvycYPMjIfOuMBsTDq9fcHcmt9vCL=w544-h544-s-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "我的地盤",
+          "artists": "",
+          "videoId": "RJerfq6MqY0",
+          "plays": 4300000,
+          "playsText": "4.3M plays",
+          "duration": 243,
+          "byOther": false,
+          "nameKey": "我的地盤"
+        },
+        {
+          "index": 2,
+          "title": "七里香",
+          "artists": "",
+          "videoId": "Bbp9ZaJD_eA",
+          "plays": 159000000,
+          "playsText": "159M plays",
+          "duration": 298,
+          "byOther": false,
+          "nameKey": "七里香"
+        },
+        {
+          "index": 3,
+          "title": "藉口",
+          "artists": "",
+          "videoId": "KcK8WurGpEQ",
+          "plays": 61000000,
+          "playsText": "61M plays",
+          "duration": 259,
+          "byOther": false,
+          "nameKey": "藉口"
+        },
+        {
+          "index": 4,
+          "title": "外婆",
+          "artists": "",
+          "videoId": "Ur-x4pZT1Rk",
+          "plays": 14000000,
+          "playsText": "14M plays",
+          "duration": 243,
+          "byOther": false,
+          "nameKey": "外婆"
+        },
+        {
+          "index": 5,
+          "title": "將軍",
+          "artists": "",
+          "videoId": "PaJdceSx4JA",
+          "plays": 4900000,
+          "playsText": "4.9M plays",
+          "duration": 203,
+          "byOther": false,
+          "nameKey": "將軍"
+        },
+        {
+          "index": 6,
+          "title": "擱淺",
+          "artists": "",
+          "videoId": "YJfHuATJYsQ",
+          "plays": 175000000,
+          "playsText": "175M plays",
+          "duration": 239,
+          "byOther": false,
+          "nameKey": "擱淺"
+        },
+        {
+          "index": 7,
+          "title": "亂舞春秋",
+          "artists": "",
+          "videoId": "2Tg3uzSAkXk",
+          "plays": 4800000,
+          "playsText": "4.8M plays",
+          "duration": 278,
+          "byOther": false,
+          "nameKey": "亂舞春秋"
+        },
+        {
+          "index": 8,
+          "title": "困獸之鬥",
+          "artists": "",
+          "videoId": "pm91leB_P8c",
+          "plays": 2900000,
+          "playsText": "2.9M plays",
+          "duration": 268,
+          "byOther": false,
+          "nameKey": "困獸之鬥"
+        },
+        {
+          "index": 9,
+          "title": "園遊會",
+          "artists": "",
+          "videoId": "IoCoIxkGkVw",
+          "plays": 28000000,
+          "playsText": "28M plays",
+          "duration": 254,
+          "byOther": false,
+          "nameKey": "園遊會"
+        },
+        {
+          "index": 10,
+          "title": "止戰之殤",
+          "artists": "",
+          "videoId": "qIZ5MAwbeCg",
+          "plays": 26000000,
+          "playsText": "26M plays",
+          "duration": 275,
+          "byOther": false,
+          "nameKey": "止戰之殤"
+        }
+      ],
+      "releaseDate": "2004-08-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "無與倫比演唱會"
+      "wikiTitle": "七里香 (專輯)",
+      "wikiKind": "studio",
+      "nameKey": "七里香"
     },
     {
       "browseId": "MPREb_v2CQuqlCY8V",
@@ -1425,7 +1443,9 @@
       "releaseDate": "2005-11-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "11月的蕭邦"
+      "wikiTitle": "11月的蕭邦",
+      "wikiKind": "studio",
+      "nameKey": "11月的蕭邦"
     },
     {
       "browseId": "MPREb_HjwAJBN35kH",
@@ -1462,7 +1482,9 @@
       "releaseDate": "2006-01-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "霍元甲 EP"
+      "wikiTitle": "霍元甲 EP",
+      "wikiKind": "single",
+      "nameKey": "霍元甲ep"
     },
     {
       "browseId": "MPREb_tukYDO04jJ4",
@@ -1588,7 +1610,9 @@
       "releaseDate": "2006-09-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "依然范特西"
+      "wikiTitle": "依然范特西",
+      "wikiKind": "studio",
+      "nameKey": "依然范特西"
     },
     {
       "browseId": "MPREb_AJQKsRS1yD5",
@@ -1714,7 +1738,9 @@
       "releaseDate": "2006-09-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "依然范特西"
+      "wikiTitle": "依然范特西",
+      "wikiKind": "studio",
+      "nameKey": "依然范特西"
     },
     {
       "browseId": "MPREb_vvxO0cCZeX3",
@@ -1752,7 +1778,9 @@
       "releaseDate": "2006-12-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "黃金甲 EP"
+      "wikiTitle": "黃金甲 EP",
+      "wikiKind": "single",
+      "nameKey": "黃金甲ep"
     },
     {
       "browseId": "MPREb_MeIwEjrIvZb",
@@ -2031,7 +2059,9 @@
       "releaseDate": "2007-08-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "soundtrack",
+      "nameKey": "不能說的秘密電影原聲帶"
     },
     {
       "browseId": "MPREb_BO0sjzsakJ6",
@@ -2156,7 +2186,9 @@
       "releaseDate": "2007-11-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "我很忙"
+      "wikiTitle": "我很忙",
+      "wikiKind": "studio",
+      "nameKey": "我很忙"
     },
     {
       "browseId": "MPREb_1YZOxFriynn",
@@ -2403,7 +2435,9 @@
       "releaseDate": "2008-01-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "周杰倫2007世界巡迴演唱會"
+      "wikiTitle": "周杰倫2007世界巡迴演唱會",
+      "wikiKind": "live",
+      "nameKey": "2007世界巡迴演唱會"
     },
     {
       "browseId": "MPREb_mDaCLSSICqN",
@@ -2429,7 +2463,9 @@
       "releaseDate": "2008-04-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "千山萬水"
     },
     {
       "browseId": "MPREb_uCGLYKfIZNj",
@@ -2565,7 +2601,9 @@
       "releaseDate": "2008-10-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "魔杰座"
+      "wikiTitle": "魔杰座",
+      "wikiKind": null,
+      "nameKey": "魔傑座"
     },
     {
       "browseId": "MPREb_QKi2uAt6kUm",
@@ -2701,7 +2739,9 @@
       "releaseDate": "2010-05-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "跨時代"
+      "wikiTitle": "跨時代",
+      "wikiKind": null,
+      "nameKey": "跨時代"
     },
     {
       "browseId": "MPREb_pT98jgBhCL3",
@@ -2727,7 +2767,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "阿爸"
     },
     {
       "browseId": "MPREb_xBbe1kbTwqw",
@@ -3005,8 +3047,10 @@
       ],
       "releaseDate": "2011-01-25",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "releaseDateSource": "album-page",
+      "wikiTitle": "超時代",
+      "wikiKind": "live",
+      "nameKey": "2010超時代演唱會"
     },
     {
       "browseId": "MPREb_9aGWzzpe4bA",
@@ -3032,7 +3076,9 @@
       "releaseDate": "2011-04-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "天地一鬥"
     },
     {
       "browseId": "MPREb_OdH5x3adj8H",
@@ -3074,8 +3120,8 @@
           "playsText": "30M plays",
           "duration": 269,
           "byOther": false,
-          "titleZh": "Mine Mine（第二波主打）",
-          "nameKey": "minemine"
+          "nameKey": "minemine",
+          "titleZh": "Mine Mine（第二波主打）"
         },
         {
           "index": 4,
@@ -3169,7 +3215,9 @@
       "releaseDate": "2011-11-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "驚嘆號 (專輯)"
+      "wikiTitle": "驚嘆號 (專輯)",
+      "wikiKind": null,
+      "nameKey": "驚嘆號"
     },
     {
       "browseId": "MPREb_znCVggpDrt8",
@@ -3316,7 +3364,9 @@
       "releaseDate": "2012-12-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "12新作"
+      "wikiTitle": "12新作",
+      "wikiKind": "studio",
+      "nameKey": "12新作"
     },
     {
       "browseId": "MPREb_r4vpHb1FPeT",
@@ -3468,8 +3518,8 @@
           "playsText": "5.3M plays",
           "duration": 266,
           "byOther": false,
-          "titleZh": "Mine Mine（第二波主打）",
-          "nameKey": "minemine"
+          "nameKey": "minemine",
+          "titleZh": "Mine Mine（第二波主打）"
         },
         {
           "index": 14,
@@ -3574,7 +3624,9 @@
       "releaseDate": "2013-01-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "魔天倫世界巡迴演唱會"
+      "wikiTitle": "魔天倫世界巡迴演唱會",
+      "wikiKind": null,
+      "nameKey": "魔天倫世界巡迴演唱會"
     },
     {
       "browseId": "MPREb_FEIZFGMA5sK",
@@ -3952,7 +4004,9 @@
       "releaseDate": "2013-07-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "soundtrack",
+      "nameKey": "天臺電影原聲帶"
     },
     {
       "browseId": "MPREb_wEOWJnNOHfV",
@@ -4055,7 +4109,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "黃俊郞的黑"
     },
     {
       "browseId": "MPREb_XafarmdGk6g",
@@ -4202,7 +4258,9 @@
       "releaseDate": "2014-12-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "哎呦，不錯哦"
+      "wikiTitle": "哎呦，不錯哦",
+      "wikiKind": "studio",
+      "nameKey": "哎呦不錯哦"
     },
     {
       "browseId": "MPREb_oGKYVnAZDVu",
@@ -4310,8 +4368,8 @@
           "playsText": "8.6M plays",
           "duration": 175,
           "byOther": false,
-          "titleZh": "Now You See Me （第二波主打；電影《出神入化2》國際主題曲）",
-          "nameKey": "nowyouseeme"
+          "nameKey": "nowyouseeme",
+          "titleZh": "Now You See Me （第二波主打；電影《出神入化2》國際主題曲）"
         },
         {
           "index": 10,
@@ -4328,7 +4386,9 @@
       "releaseDate": "2016-06-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "周杰倫的床邊故事"
+      "wikiTitle": "周杰倫的床邊故事",
+      "wikiKind": "studio",
+      "nameKey": "周杰倫的床邊故事"
     },
     {
       "browseId": "MPREb_PnjxGdTBzK4",
@@ -4354,7 +4414,9 @@
       "releaseDate": "2018-01-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "等你下課"
     },
     {
       "browseId": "MPREb_xvvScBUTtbV",
@@ -4380,7 +4442,9 @@
       "releaseDate": "2018-05-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "不愛我就拉倒"
     },
     {
       "browseId": "MPREb_zszDWkwXqIJ",
@@ -4406,7 +4470,9 @@
       "releaseDate": "2019-09-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "說好不哭"
+      "wikiTitle": "說好不哭",
+      "wikiKind": null,
+      "nameKey": "說好不哭"
     },
     {
       "browseId": "MPREb_2e97wRCO355",
@@ -4646,8 +4712,8 @@
           "playsText": "296K plays",
           "duration": 169,
           "byOther": false,
-          "titleZh": "Now You See Me （第二波主打；電影《出神入化2》國際主題曲）",
-          "nameKey": "nowyouseeme"
+          "nameKey": "nowyouseeme",
+          "titleZh": "Now You See Me （第二波主打；電影《出神入化2》國際主題曲）"
         },
         {
           "index": 22,
@@ -4697,7 +4763,9 @@
       "releaseDate": "2019-11-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "地表最強世界巡迴演唱會"
+      "wikiTitle": "地表最強世界巡迴演唱會",
+      "wikiKind": null,
+      "nameKey": "周杰倫地表最強世界巡迴演唱會"
     },
     {
       "browseId": "MPREb_3d3QuIwGFRU",
@@ -4723,7 +4791,9 @@
       "releaseDate": "2019-12-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "我是如此相信"
     },
     {
       "browseId": "MPREb_p7Ut75bNnkv",
@@ -4749,7 +4819,9 @@
       "releaseDate": "2020-06-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Mojito (歌曲)"
+      "wikiTitle": "Mojito (歌曲)",
+      "wikiKind": "single",
+      "nameKey": "mojito"
     },
     {
       "browseId": "MPREb_7IrnhenAUMJ",
@@ -4896,7 +4968,9 @@
       "releaseDate": "2022-07-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "最伟大的作品"
+      "wikiTitle": "最伟大的作品",
+      "wikiKind": "studio",
+      "nameKey": "最偉大的作品"
     },
     {
       "browseId": "MPREb_9lXy1pLGozr",
@@ -4922,7 +4996,9 @@
       "releaseDate": "2022-07-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "最伟大的作品"
+      "wikiTitle": "最伟大的作品",
+      "wikiKind": "studio",
+      "nameKey": "最偉大的作品"
     },
     {
       "browseId": "MPREb_FJ3xpOOCMgA",
@@ -4948,7 +5024,9 @@
       "releaseDate": "2023-12-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "聖誕星"
     },
     {
       "browseId": "MPREb_xgsbWcjrCEi",
@@ -4974,7 +5052,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "稻香"
     },
     {
       "browseId": "MPREb_HmC44a0gIB3",
@@ -5000,7 +5080,9 @@
       "releaseDate": "2025-01-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "sixdegrees"
     },
     {
       "browseId": "MPREb_RHnLOT5NWUF",
@@ -5026,7 +5108,9 @@
       "releaseDate": "2025-06-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "周杰倫音樂作品列表"
+      "wikiTitle": "周杰倫音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "卽興曲"
     },
     {
       "browseId": "MPREb_fSUxiPGUUNK",
@@ -5074,7 +5158,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "sixdegrees"
     },
     {
       "browseId": "MPREb_yBTLlVG2D4V",
@@ -5232,7 +5318,9 @@
       "releaseDate": "2026-03-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "太陽之子 (專輯)"
+      "wikiTitle": "太陽之子 (專輯)",
+      "wikiKind": "studio",
+      "nameKey": "太陽之子"
     }
   ]
 }

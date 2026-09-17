@@ -135,7 +135,9 @@
       "releaseDate": "2003-02-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Begin..."
+      "wikiTitle": "Begin...",
+      "wikiKind": "studio",
+      "nameKey": "begin"
     },
     {
       "browseId": "MPREb_IDgnEa4lyGL",
@@ -260,7 +262,9 @@
       "releaseDate": "2004-03-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛你 (王心凌專輯)"
+      "wikiTitle": "愛你 (王心凌專輯)",
+      "wikiKind": null,
+      "nameKey": "愛你"
     },
     {
       "browseId": "MPREb_6YhFpLnuwid",
@@ -280,8 +284,8 @@
           "playsText": "12M plays",
           "duration": 215,
           "byOther": false,
-          "titleZh": "Honey（MV幕後拍攝花絮）",
-          "nameKey": "honey"
+          "nameKey": "honey",
+          "titleZh": "Honey（MV幕後拍攝花絮）"
         },
         {
           "index": 2,
@@ -387,7 +391,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Honey (王心凌專輯)",
-      "titleZh": "Honey（MV幕後拍攝花絮）"
+      "wikiKind": null,
+      "titleZh": "Honey（MV幕後拍攝花絮）",
+      "nameKey": "honey"
     },
     {
       "browseId": "MPREb_24zKaow9u0m",
@@ -451,8 +457,8 @@
           "playsText": "12M plays",
           "duration": 215,
           "byOther": false,
-          "titleZh": "Honey（MV幕後拍攝花絮）",
-          "nameKey": "honey"
+          "nameKey": "honey",
+          "titleZh": "Honey（MV幕後拍攝花絮）"
         },
         {
           "index": 6,
@@ -623,7 +629,9 @@
       "releaseDate": "2005-07-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "閃耀2005"
+      "wikiTitle": "閃耀2005",
+      "wikiKind": "compilation",
+      "nameKey": "閃耀2005新歌加節奏精選"
     },
     {
       "browseId": "MPREb_Kq7nXowN6eG",
@@ -747,8 +755,10 @@
       ],
       "releaseDate": "2005-12-27",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "Cyndi with U"
+      "releaseDateSource": "table",
+      "wikiTitle": "王心凌音樂作品",
+      "wikiKind": "studio",
+      "nameKey": "cyndiwithu"
     },
     {
       "browseId": "MPREb_SNOwBiwwmEH",
@@ -796,7 +806,9 @@
       "releaseDate": "2006-07-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王心凌音樂作品"
+      "wikiTitle": "王心凌音樂作品",
+      "wikiKind": "soundtrack",
+      "nameKey": "微笑pasta電視原聲帶"
     },
     {
       "browseId": "MPREb_ZJ0ryaQcNtV",
@@ -922,7 +934,9 @@
       "releaseDate": "2007-04-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Magic Cyndi"
+      "wikiTitle": "Magic Cyndi",
+      "wikiKind": "studio",
+      "nameKey": "magiccyndi"
     },
     {
       "browseId": "MPREb_AlERbhCgJFF",
@@ -1047,7 +1061,9 @@
       "releaseDate": "2007-11-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Fly! Cyndi"
+      "wikiTitle": "Fly! Cyndi",
+      "wikiKind": null,
+      "nameKey": "flycyndi"
     },
     {
       "browseId": "MPREb_sI9v7CbmJgp",
@@ -1111,8 +1127,8 @@
           "playsText": "12M plays",
           "duration": 215,
           "byOther": false,
-          "titleZh": "Honey（MV幕後拍攝花絮）",
-          "nameKey": "honey"
+          "nameKey": "honey",
+          "titleZh": "Honey（MV幕後拍攝花絮）"
         },
         {
           "index": 6,
@@ -1241,7 +1257,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Red Cyndi",
-      "titleZh": "Red Cyndi 2008新歌+精選"
+      "wikiKind": "compilation",
+      "titleZh": "Red Cyndi 2008新歌+精選",
+      "nameKey": "redcyndi2008新歌精選"
     },
     {
       "browseId": "MPREb_UJHSsXNUOTl",
@@ -1756,8 +1774,8 @@
           "playsText": "12M plays",
           "duration": 215,
           "byOther": false,
-          "titleZh": "Honey（MV幕後拍攝花絮）",
-          "nameKey": "honey"
+          "nameKey": "honey",
+          "titleZh": "Honey（MV幕後拍攝花絮）"
         },
         {
           "index": 47,
@@ -2050,7 +2068,9 @@
       "releaseDate": "2009-11-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "美麗的日子"
+      "wikiTitle": "美麗的日子",
+      "wikiKind": "compilation",
+      "nameKey": "美麗的日子2009新歌加精選愛的日記"
     },
     {
       "browseId": "MPREb_9febShpv3mR",
@@ -2175,7 +2195,9 @@
       "releaseDate": "2009-12-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "心電心"
+      "wikiTitle": "心電心",
+      "wikiKind": null,
+      "nameKey": "心電心"
     },
     {
       "browseId": "MPREb_gPBP6jzTNKi",
@@ -2300,7 +2322,9 @@
       "releaseDate": "2011-05-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "黏黏²"
+      "wikiTitle": "黏黏²",
+      "wikiKind": "studio",
+      "nameKey": "黏黏²"
     },
     {
       "browseId": "MPREb_6Rqf4Ey8RHl",
@@ -2469,7 +2493,9 @@
       "releaseDate": "2012-11-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛不愛"
+      "wikiTitle": "愛不愛",
+      "wikiKind": "studio",
+      "nameKey": "愛不愛"
     },
     {
       "browseId": "MPREb_4OncyGH7YJq",
@@ -2594,7 +2620,9 @@
       "releaseDate": "2014-07-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王心凌音樂作品"
+      "wikiTitle": "王心凌音樂作品",
+      "wikiKind": "studio",
+      "nameKey": "第10個王心凌"
     },
     {
       "browseId": "MPREb_cVfzhNEPQ7x",
@@ -2719,7 +2747,9 @@
       "releaseDate": "2015-12-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "敢要敢不要"
+      "wikiTitle": "敢要敢不要",
+      "wikiKind": "studio",
+      "nameKey": "敢要敢不要"
     },
     {
       "browseId": "MPREb_mh5PHdppHJ4",
@@ -2844,7 +2874,9 @@
       "releaseDate": "2018-12-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛·心凌"
+      "wikiTitle": "愛·心凌",
+      "wikiKind": "studio",
+      "nameKey": "愛心凌"
     },
     {
       "browseId": "MPREb_7V7tewZgvj8",
@@ -2870,7 +2902,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "境遷"
     },
     {
       "browseId": "MPREb_0ITDMvGBYfG",
@@ -3088,8 +3122,8 @@
           "playsText": "230K plays",
           "duration": 213,
           "byOther": false,
-          "titleZh": "Honey（MV幕後拍攝花絮）",
-          "nameKey": "honey"
+          "nameKey": "honey",
+          "titleZh": "Honey（MV幕後拍攝花絮）"
         },
         {
           "index": 20,
@@ -3105,9 +3139,11 @@
       ],
       "releaseDate": "2020-09-20",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "My! Cyndi!",
-      "titleZh": "My! Cyndi! (組曲: Honey、當你、我會好好的、月光、愛你)"
+      "releaseDateSource": "table",
+      "wikiTitle": "王心凌音樂作品",
+      "wikiKind": "compilation",
+      "titleZh": "My! Cyndi! (組曲: Honey、當你、我會好好的、月光、愛你)",
+      "nameKey": "mycyndi"
     },
     {
       "browseId": "MPREb_q5JQik5ntbW",
@@ -3133,7 +3169,9 @@
       "releaseDate": "2021-03-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "prose",
-      "wikiTitle": "王心凌音樂作品"
+      "wikiTitle": "王心凌音樂作品",
+      "wikiKind": null,
+      "nameKey": "心靈的冒險"
     },
     {
       "browseId": "MPREb_abeufw7m9ls",
@@ -3159,7 +3197,9 @@
       "releaseDate": "2023-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "王心凌影視作品"
+      "wikiTitle": "王心凌影視作品",
+      "wikiKind": null,
+      "nameKey": "sugarhigh"
     },
     {
       "browseId": "MPREb_oHvFoloDxsF",
@@ -3185,7 +3225,9 @@
       "releaseDate": "2023-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "王心凌影視作品"
+      "wikiTitle": "王心凌影視作品",
+      "wikiKind": null,
+      "nameKey": "星願"
     },
     {
       "browseId": "MPREb_kewZ38u7kDJ",
@@ -3310,7 +3352,9 @@
       "releaseDate": "2023-10-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "BITE BACK"
+      "wikiTitle": "BITE BACK",
+      "wikiKind": "studio",
+      "nameKey": "biteback"
     },
     {
       "browseId": "MPREb_Ci0mOLtDIYc",
@@ -3336,7 +3380,9 @@
       "releaseDate": "2023-10-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "BITE BACK"
+      "wikiTitle": "BITE BACK",
+      "wikiKind": "studio",
+      "nameKey": "biteback"
     },
     {
       "browseId": "MPREb_xceDTDMG2wt",
@@ -3373,7 +3419,9 @@
       "releaseDate": "2024-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "王心凌歌曲列表"
+      "wikiTitle": "王心凌歌曲列表",
+      "wikiKind": null,
+      "nameKey": "如果月亮會說話"
     },
     {
       "browseId": "MPREb_tuAJjYrsDbs",
@@ -3399,7 +3447,9 @@
       "releaseDate": "2025-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "王心凌得獎與提名列表"
+      "wikiTitle": "王心凌得獎與提名列表",
+      "wikiKind": null,
+      "nameKey": "如果不是我的"
     }
   ]
 }

@@ -36,7 +36,7 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
             >
             <span v-else>（YouTube Music 年份）</span>
             <span v-if="album.isCompilation" class="tag">精選輯</span>
-            <span v-if="album.isReissue" class="tag">《{{ album.reissueOf.name }}》再版</span>
+            <span v-if="album.isReissue" class="tag">{{ album.reissueOf ? `《${album.reissueOf.name}》再版` : "再版" }}</span>
           </div>
           <h2>{{ album.name }}</h2>
           <div v-if="album.alt" class="muted">{{ album.alt }}</div>

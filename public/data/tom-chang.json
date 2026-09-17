@@ -135,7 +135,9 @@
       "releaseDate": "1988-11-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "天天想你 (張雨生專輯)"
+      "wikiTitle": "天天想你 (張雨生專輯)",
+      "wikiKind": "studio",
+      "nameKey": "天天想你"
     },
     {
       "browseId": "MPREb_DacpxsdJcgX",
@@ -260,7 +262,9 @@
       "releaseDate": "1989-07-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "想念我"
+      "wikiTitle": "想念我",
+      "wikiKind": "studio",
+      "nameKey": "想念我"
     },
     {
       "browseId": "MPREb_IrH4vDBDfHO",
@@ -302,8 +306,8 @@
           "playsText": "18K plays",
           "duration": 304,
           "byOther": false,
-          "titleZh": "無題",
-          "nameKey": "無題"
+          "nameKey": "無題",
+          "titleZh": "無題"
         },
         {
           "index": 4,
@@ -409,7 +413,9 @@
       "releaseDate": "1992-02-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "張雨生創作專輯"
+      "wikiTitle": "張雨生創作專輯",
+      "wikiKind": "studio",
+      "nameKey": "帶我去月球"
     },
     {
       "browseId": "MPREb_rj6psFJxMPa",
@@ -534,7 +540,9 @@
       "releaseDate": "1992-11-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "大海 (專輯)"
+      "wikiTitle": "大海 (專輯)",
+      "wikiKind": "studio",
+      "nameKey": "大海"
     },
     {
       "browseId": "MPREb_y4qiRcVxYLe",
@@ -703,7 +711,9 @@
       "releaseDate": "1993-08-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "一天到晚游泳的魚"
+      "wikiTitle": "一天到晚游泳的魚",
+      "wikiKind": "studio",
+      "nameKey": "一天到晚游泳的魚"
     },
     {
       "browseId": "MPREb_IcDEjerGz5O",
@@ -828,7 +838,9 @@
       "releaseDate": "1995-03-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "还是朋友"
+      "wikiTitle": "还是朋友",
+      "wikiKind": "studio",
+      "nameKey": "還是朋友"
     },
     {
       "browseId": "MPREb_QtKL38Evqv8",
@@ -887,7 +899,9 @@
       "releaseDate": "1996-07-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "兩伊戰爭—紅色熱情"
+      "wikiTitle": "兩伊戰爭—紅色熱情",
+      "wikiKind": "single",
+      "nameKey": "紅色熱情"
     },
     {
       "browseId": "MPREb_ZP6INxmEMnc",
@@ -957,7 +971,9 @@
       "releaseDate": "1996-07-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "兩伊戰爭—白色才情"
+      "wikiTitle": "兩伊戰爭—白色才情",
+      "wikiKind": "single",
+      "nameKey": "白色才情"
     },
     {
       "browseId": "MPREb_xQHB4oi6SYq",
@@ -999,8 +1015,8 @@
           "playsText": "89K plays",
           "duration": 305,
           "byOther": false,
-          "titleZh": "CAPPUCCINO(櫛風沐雨版)",
-          "nameKey": "cappuccino"
+          "nameKey": "cappuccino",
+          "titleZh": "CAPPUCCINO(櫛風沐雨版)"
         },
         {
           "index": 4,
@@ -1094,7 +1110,9 @@
       "releaseDate": "1997-10-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "口是心非"
+      "wikiTitle": "口是心非",
+      "wikiKind": null,
+      "nameKey": "口是心非"
     },
     {
       "browseId": "MPREb_YGCWMR3KckX",
@@ -1307,7 +1325,9 @@
       "releaseDate": "1998-11-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "想念雨生"
+      "wikiTitle": "想念雨生",
+      "wikiKind": null,
+      "nameKey": "想念雨生"
     },
     {
       "browseId": "MPREb_KWVqaYt5Jxm",
@@ -1327,8 +1347,8 @@
           "playsText": "22K plays",
           "duration": 200,
           "byOther": false,
-          "titleZh": "Only Once(由庾澄慶演唱)",
-          "nameKey": "onlyonce"
+          "nameKey": "onlyonce",
+          "titleZh": "Only Once(由庾澄慶演唱)"
         },
         {
           "index": 2,
@@ -1449,8 +1469,8 @@
           "playsText": "781 plays",
           "duration": 220,
           "byOther": false,
-          "titleZh": "O Sole Mio(由林子良、卜學亮、施易男、Dj Johnny、范逸臣等人演唱)",
-          "nameKey": "osolemio"
+          "nameKey": "osolemio",
+          "titleZh": "O Sole Mio(由林子良、卜學亮、施易男、Dj Johnny、范逸臣等人演唱)"
         },
         {
           "index": 13,
@@ -1549,8 +1569,8 @@
           "playsText": "1.5K plays",
           "duration": 227,
           "byOther": true,
-          "titleZh": "O Sole Mio(由林子良、卜學亮、施易男、Dj Johnny、范逸臣等人演唱)",
-          "nameKey": "osolemio"
+          "nameKey": "osolemio",
+          "titleZh": "O Sole Mio(由林子良、卜學亮、施易男、Dj Johnny、范逸臣等人演唱)"
         },
         {
           "index": 22,
@@ -1578,7 +1598,9 @@
       "releaseDate": "2003-10-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "雨生歡禧城"
+      "wikiTitle": "雨生歡禧城",
+      "wikiKind": "compilation",
+      "nameKey": "雨生歡禧城"
     },
     {
       "browseId": "MPREb_4nBIWm9MvPB",
@@ -1736,7 +1758,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "卡拉ok臺北我"
     },
     {
       "browseId": "MPREb_X6OA1JUKKtm",
@@ -1844,8 +1868,8 @@
           "playsText": "6.7M plays",
           "duration": 263,
           "byOther": false,
-          "titleZh": "BAD BOY(友風子雨版)",
-          "nameKey": "badboy"
+          "nameKey": "badboy",
+          "titleZh": "BAD BOY(友風子雨版)"
         },
         {
           "index": 10,
@@ -1911,8 +1935,8 @@
           "playsText": "89K plays",
           "duration": 304,
           "byOther": false,
-          "titleZh": "CAPPUCCINO(櫛風沐雨版)",
-          "nameKey": "cappuccino"
+          "nameKey": "cappuccino",
+          "titleZh": "CAPPUCCINO(櫛風沐雨版)"
         },
         {
           "index": 16,
@@ -2022,8 +2046,8 @@
           "playsText": "541 plays",
           "duration": 244,
           "byOther": false,
-          "titleZh": "Are You Ready(友風子雨版)",
-          "nameKey": "areyouready"
+          "nameKey": "areyouready",
+          "titleZh": "Are You Ready(友風子雨版)"
         },
         {
           "index": 26,
@@ -2078,8 +2102,8 @@
           "playsText": "1.5K plays",
           "duration": 228,
           "byOther": false,
-          "titleZh": "O Sole Mio(由林子良、卜學亮、施易男、Dj Johnny、范逸臣等人演唱)",
-          "nameKey": "osolemio"
+          "nameKey": "osolemio",
+          "titleZh": "O Sole Mio(由林子良、卜學亮、施易男、Dj Johnny、范逸臣等人演唱)"
         },
         {
           "index": 31,
@@ -2675,8 +2699,8 @@
           "playsText": "22K plays",
           "duration": 200,
           "byOther": false,
-          "titleZh": "Only Once(由庾澄慶演唱)",
-          "nameKey": "onlyonce"
+          "nameKey": "onlyonce",
+          "titleZh": "Only Once(由庾澄慶演唱)"
         },
         {
           "index": 85,
@@ -2924,7 +2948,9 @@
       "releaseDate": "2008-02-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "如燕盤旋而來的思念"
+      "wikiTitle": "如燕盤旋而來的思念",
+      "wikiKind": null,
+      "nameKey": "如燕盤旋而來的思念張雨生全創作精選典藏19661997"
     },
     {
       "browseId": "MPREb_h59yrE9N7qV",
@@ -3216,7 +3242,9 @@
       "releaseDate": "2016-06-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "雨後星空"
+      "wikiTitle": "雨後星空",
+      "wikiKind": null,
+      "nameKey": "雨後星空"
     }
   ]
 }

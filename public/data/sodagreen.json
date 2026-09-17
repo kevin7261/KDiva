@@ -69,7 +69,9 @@
       "releaseDate": "2004-07-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "飛魚 (單曲)"
+      "wikiTitle": "飛魚 (單曲)",
+      "wikiKind": null,
+      "nameKey": "飛魚"
     },
     {
       "browseId": "MPREb_A0y2TTsO5Yr",
@@ -120,7 +122,9 @@
       "releaseDatePrecision": null,
       "releaseDateSource": null,
       "wikiTitle": null,
-      "titleZh": "Believe In Music （蘇打綠版）"
+      "wikiKind": null,
+      "titleZh": "Believe In Music （蘇打綠版）",
+      "nameKey": "believeinmusic"
     },
     {
       "browseId": "MPREb_7kXdlO1zPtw",
@@ -258,7 +262,9 @@
       "releaseDate": "2005-09-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "蘇打綠 (專輯)"
+      "wikiTitle": "蘇打綠 (專輯)",
+      "wikiKind": null,
+      "nameKey": "蘇打綠同名專輯"
     },
     {
       "browseId": "MPREb_3JhjonNPUzx",
@@ -306,7 +312,9 @@
       "releaseDate": "2006-09-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "遲到千年"
+      "wikiTitle": "遲到千年",
+      "wikiKind": null,
+      "nameKey": "遲到千年"
     },
     {
       "browseId": "MPREb_vGtsNKUi4Ux",
@@ -443,7 +451,9 @@
       "releaseDate": "2006-10-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "小宇宙"
+      "wikiTitle": "小宇宙",
+      "wikiKind": null,
+      "nameKey": "小宇宙"
     },
     {
       "browseId": "MPREb_FTVPLbSAAm1",
@@ -568,7 +578,9 @@
       "releaseDate": "2007-11-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "無與倫比的美麗"
+      "wikiTitle": "無與倫比的美麗",
+      "wikiKind": null,
+      "nameKey": "無與倫比的美麗"
     },
     {
       "browseId": "MPREb_aKF0CVUy5R3",
@@ -715,7 +727,9 @@
       "releaseDate": "2009-05-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "春·日光"
+      "wikiTitle": "春·日光",
+      "wikiKind": null,
+      "nameKey": "春日光"
     },
     {
       "browseId": "MPREb_4sLzeV1O6yr",
@@ -887,7 +901,9 @@
       "releaseDate": "2009-09-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "夏／狂熱"
+      "wikiTitle": "夏／狂熱",
+      "wikiKind": null,
+      "nameKey": "夏狂熱"
     },
     {
       "browseId": "MPREb_rWJlTLEdnaS",
@@ -1056,7 +1072,9 @@
       "releaseDate": "2010-08-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "十年一刻"
+      "wikiTitle": "十年一刻",
+      "wikiKind": "live",
+      "nameKey": "10年一刻"
     },
     {
       "browseId": "MPREb_dUM5QueyZsl",
@@ -1192,7 +1210,9 @@
       "releaseDate": "2011-11-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "你在烦恼什么"
+      "wikiTitle": "你在烦恼什么",
+      "wikiKind": "studio",
+      "nameKey": "你在煩惱什麼"
     },
     {
       "browseId": "MPREb_Si37N8Cl1Hf",
@@ -1386,7 +1406,9 @@
       "releaseDate": "2013-09-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "秋：故事"
+      "wikiTitle": "秋：故事",
+      "wikiKind": null,
+      "nameKey": "秋故事"
     },
     {
       "browseId": "MPREb_nO4A047Z3XQ",
@@ -1434,7 +1456,9 @@
       "releaseDate": "2014-04-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "一起喔喔"
+      "wikiTitle": "一起喔喔",
+      "wikiKind": null,
+      "nameKey": "一起喔喔"
     },
     {
       "browseId": "MPREb_D3LJphj4QJ7",
@@ -1558,8 +1582,10 @@
       ],
       "releaseDate": "2015-03-20",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "「空氣中的視聽與幻覺」Live"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "AIR WORLD TOUR 10",
+      "wikiKind": null,
+      "nameKey": "空氣中的視聽與幻覺演唱會"
     },
     {
       "browseId": "MPREb_JSAq5TbVvc2",
@@ -1607,7 +1633,9 @@
       "releaseDate": "2016-12-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "我賴你"
+      "wikiTitle": "我賴你",
+      "wikiKind": null,
+      "nameKey": "我賴你"
     },
     {
       "browseId": "MPREb_yenikH85HCl",
@@ -1644,7 +1672,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "小時候"
     },
     {
       "browseId": "MPREb_wqWyZ0cbT1M",
@@ -1670,7 +1700,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我的未來不是夢"
     },
     {
       "browseId": "MPREb_nDWu9japcH6",
@@ -1707,7 +1739,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "當我們一起走過"
     },
     {
       "browseId": "MPREb_kz7Tgocu85k",
@@ -1745,7 +1779,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "空氣中的視聽與幻覺"
     },
     {
       "browseId": "MPREb_Cwtr0yhux4v",
@@ -1937,7 +1973,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "陪我歌唱"
     },
     {
       "browseId": "MPREb_HQ5D6MQuRlI",
@@ -1965,7 +2003,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Tomorrow Will Be Fine",
-      "titleZh": "Tomorrow will be fine. （二十年一刻Live）"
+      "wikiKind": null,
+      "titleZh": "Tomorrow will be fine. （二十年一刻Live）",
+      "nameKey": "tomorrowwillbefine"
     },
     {
       "browseId": "MPREb_ZR2kmwmMVkY",
@@ -1991,7 +2031,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "沙發裡有沙發radio"
     },
     {
       "browseId": "MPREb_Qb7mbhhr3cA",
@@ -2129,7 +2171,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
       "wikiTitle": "蘇打綠",
-      "titleZh": "池堂怪談"
+      "wikiKind": null,
+      "titleZh": "池堂怪談",
+      "nameKey": "池堂怪談"
     },
     {
       "browseId": "MPREb_0KDTvMvMoAO",
@@ -2156,7 +2200,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "fengmirenshen"
     },
     {
       "browseId": "MPREb_EAclMsjaIBZ",
@@ -2183,7 +2229,9 @@
       "releaseDatePrecision": null,
       "releaseDateSource": null,
       "wikiTitle": null,
-      "titleZh": "在世界的盡頭大聲地說我恨你"
+      "wikiKind": null,
+      "titleZh": "在世界的盡頭大聲地說我恨你",
+      "nameKey": "在世界的盡頭大聲地說我恨你"
     },
     {
       "browseId": "MPREb_MH0IM62c99d",
@@ -2210,7 +2258,9 @@
       "releaseDatePrecision": null,
       "releaseDateSource": null,
       "wikiTitle": null,
-      "titleZh": "終點起點"
+      "wikiKind": null,
+      "titleZh": "終點起點",
+      "nameKey": "終點起點"
     },
     {
       "browseId": "MPREb_WcQGthsbWxk",
@@ -2237,7 +2287,9 @@
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
       "wikiTitle": "蘇打綠",
-      "titleZh": "我就奇怪"
+      "wikiKind": null,
+      "titleZh": "我就奇怪",
+      "nameKey": "我就奇怪"
     },
     {
       "browseId": "MPREb_iu3KpXXRksG",
@@ -2483,7 +2535,9 @@
       "releaseDate": "2022-02-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蘇打綠"
+      "wikiTitle": "蘇打綠",
+      "wikiKind": null,
+      "nameKey": "同名專輯"
     },
     {
       "browseId": "MPREb_mfuocGtjE3s",
@@ -2729,7 +2783,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "小宇宙"
     },
     {
       "browseId": "MPREb_5pq0WtiiOol",
@@ -2755,7 +2811,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "控制狂"
     },
     {
       "browseId": "MPREb_SXQrdnHpySE",
@@ -3001,7 +3059,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "無與倫比的美麗"
     },
     {
       "browseId": "MPREb_XE5ZsLWob0Z",
@@ -3027,7 +3087,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "落寞"
     },
     {
       "browseId": "MPREb_7i1fxdKezmq",
@@ -3053,7 +3115,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "這天"
     },
     {
       "browseId": "MPREb_Vm0q4GpUyis",
@@ -3277,7 +3341,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "陪我歌唱"
     },
     {
       "browseId": "MPREb_Oo8wb6hG9n5",
@@ -3503,7 +3569,9 @@
       "releaseDate": "2024-02-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蘇打綠"
+      "wikiTitle": "蘇打綠",
+      "wikiKind": null,
+      "nameKey": "你在煩惱什麼"
     },
     {
       "browseId": "MPREb_Qiu1iO0hMrO",
@@ -3716,7 +3784,9 @@
       "releaseDate": "2024-02-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蘇打綠"
+      "wikiTitle": "蘇打綠",
+      "wikiKind": null,
+      "nameKey": "10年一刻"
     },
     {
       "browseId": "MPREb_f6eowphrFYO",
@@ -3742,7 +3812,9 @@
       "releaseDate": "2024-02-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蘇打綠"
+      "wikiTitle": "蘇打綠",
+      "wikiKind": null,
+      "nameKey": "10年一刻"
     },
     {
       "browseId": "MPREb_NELVQjnjPKO",
@@ -3988,7 +4060,9 @@
       "releaseDate": "2024-05-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蘇打綠"
+      "wikiTitle": "蘇打綠",
+      "wikiKind": null,
+      "nameKey": "春日光"
     },
     {
       "browseId": "MPREb_Kn1jYPA19h3",
@@ -4256,7 +4330,9 @@
       "releaseDate": "2024-08-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蘇打綠"
+      "wikiTitle": "蘇打綠",
+      "wikiKind": null,
+      "nameKey": "夏狂熱"
     },
     {
       "browseId": "MPREb_1Nv9UhUrDpO",
@@ -4535,7 +4611,9 @@
       "releaseDate": "2024-11-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蘇打綠"
+      "wikiTitle": "蘇打綠",
+      "wikiKind": null,
+      "nameKey": "秋故事"
     },
     {
       "browseId": "MPREb_neWgRxqHeiQ",
@@ -4572,7 +4650,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "liveinthepool"
     },
     {
       "browseId": "MPREb_AEMepGjpBvZ",
@@ -4609,7 +4689,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一整天"
     },
     {
       "browseId": "MPREb_e8bpWUjFr3A",
@@ -4635,7 +4717,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "你不需要多完美"
     },
     {
       "browseId": "MPREb_RsZRoEDC1Sp",
@@ -4694,7 +4778,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "原汁原味"
     },
     {
       "browseId": "MPREb_ve0MOEhyFcf",
@@ -4720,7 +4806,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "夢"
     },
     {
       "browseId": "MPREb_KKv3FM7vH8h",
@@ -4746,7 +4834,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "故事"
     },
     {
       "browseId": "MPREb_BpELi7WdOWU",
@@ -4783,7 +4873,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "面面相覷"
     },
     {
       "browseId": "MPREb_KXCwyBc3UWp",
@@ -4809,7 +4901,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "黎明前最暗時候"
     },
     {
       "browseId": "MPREb_P8woxwVg9M1",
@@ -5176,7 +5270,9 @@
       "releaseDate": "2025-02-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "蘇打綠"
+      "wikiTitle": "蘇打綠",
+      "wikiKind": null,
+      "nameKey": "冬未了"
     },
     {
       "browseId": "MPREb_VUcSCj7bj4E",
@@ -5477,7 +5573,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "20年一刻liveattaipeiarena"
     },
     {
       "browseId": "MPREb_fyIwYDQpg4h",
@@ -5712,7 +5810,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "20站一刻"
     },
     {
       "browseId": "MPREb_zKr7WUkddRe",
@@ -5738,7 +5838,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "未了"
     },
     {
       "browseId": "MPREb_cBDWIlPToup",
@@ -5764,7 +5866,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "白日夢繩索"
     },
     {
       "browseId": "MPREb_pA7kzgvE8Vt",
@@ -5790,7 +5894,9 @@
       "releaseDate": "2026-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "蘇打綠"
+      "wikiTitle": "蘇打綠",
+      "wikiKind": null,
+      "nameKey": "silentangel"
     }
   ]
 }

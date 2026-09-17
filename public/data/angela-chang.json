@@ -30,8 +30,8 @@
           "playsText": "364K plays",
           "duration": 212,
           "byOther": false,
-          "titleZh": "Over The Rainbow (張韶涵專輯)",
-          "nameKey": "overtherainbow"
+          "nameKey": "overtherainbow",
+          "titleZh": "Over The Rainbow (張韶涵專輯)"
         },
         {
           "index": 2,
@@ -159,7 +159,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Over the Rainbow (張韶涵專輯)",
-      "titleZh": "Over The Rainbow (張韶涵專輯)"
+      "wikiKind": null,
+      "titleZh": "Over The Rainbow (張韶涵專輯)",
+      "nameKey": "overtherainbow"
     },
     {
       "browseId": "MPREb_RnJWRcq2XaP",
@@ -284,7 +286,9 @@
       "releaseDate": "2004-12-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "歐若拉 (專輯)"
+      "wikiTitle": "歐若拉 (專輯)",
+      "wikiKind": null,
+      "nameKey": "歐若拉"
     },
     {
       "browseId": "MPREb_VJZUFJp2sJH",
@@ -420,7 +424,9 @@
       "releaseDate": "2006-01-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "潘朵拉 (專輯)"
+      "wikiTitle": "潘朵拉 (專輯)",
+      "wikiKind": null,
+      "nameKey": "潘朵拉"
     },
     {
       "browseId": "MPREb_1fbH6NgZqyx",
@@ -556,7 +562,9 @@
       "releaseDate": "2007-01-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "夢裡花"
+      "wikiTitle": "夢裡花",
+      "wikiKind": null,
+      "nameKey": "夢裡花"
     },
     {
       "browseId": "MPREb_pO7kBMgFoB2",
@@ -835,7 +843,9 @@
       "releaseDate": "2007-08-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "百變張韶涵2007世界巡迴演唱會台北場"
+      "wikiTitle": "百變張韶涵2007世界巡迴演唱會台北場",
+      "wikiKind": "live",
+      "nameKey": "百變張韶涵2007世界巡迴演唱會臺北場"
     },
     {
       "browseId": "MPREb_H4lb5I9PnUt",
@@ -861,7 +871,9 @@
       "releaseDate": "2007-08-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "絕不"
     },
     {
       "browseId": "MPREb_L0M44xp4fvw",
@@ -1009,7 +1021,9 @@
       "releaseDate": "2007-12-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Ang 5.0"
+      "wikiTitle": "Ang 5.0",
+      "wikiKind": null,
+      "nameKey": "ang50"
     },
     {
       "browseId": "MPREb_u5JwFgMiXUC",
@@ -1035,7 +1049,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "不可能的mix"
     },
     {
       "browseId": "MPREb_wKxCQlltlES",
@@ -1061,7 +1077,9 @@
       "releaseDate": "2008-06-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "微笑的起點"
     },
     {
       "browseId": "MPREb_Po1puYzWYfx",
@@ -1087,7 +1105,9 @@
       "releaseDate": "2009-09-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "soundtrack",
+      "nameKey": "非常完美"
     },
     {
       "browseId": "MPREb_1xFKzvST4dN",
@@ -1212,7 +1232,9 @@
       "releaseDate": "2009-09-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "第5季 (專輯)"
+      "wikiTitle": "第5季 (專輯)",
+      "wikiKind": null,
+      "nameKey": "第5季"
     },
     {
       "browseId": "MPREb_08UNLlxA50p",
@@ -1238,7 +1260,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "城市之窗"
     },
     {
       "browseId": "MPREb_wGmS8ES6y4V",
@@ -1374,7 +1398,9 @@
       "releaseDate": "2012-10-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "有形的翅膀"
+      "wikiTitle": "有形的翅膀",
+      "wikiKind": null,
+      "nameKey": "有形的翅膀"
     },
     {
       "browseId": "MPREb_TgDGEdFRZCf",
@@ -1511,7 +1537,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "張韶涵",
-      "titleZh": "張韶涵"
+      "wikiKind": null,
+      "titleZh": "張韶涵",
+      "nameKey": "張韶涵"
     },
     {
       "browseId": "MPREb_8HC7zk80Gq1",
@@ -1537,7 +1565,9 @@
       "releaseDate": "2014-05-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "compilation",
+      "nameKey": "完整愛"
     },
     {
       "browseId": "MPREb_AsyE4ln2lxj",
@@ -1563,7 +1593,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "ok蹦"
     },
     {
       "browseId": "MPREb_Jdjv6NMvW6h",
@@ -1589,7 +1621,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "為愛而活"
     },
     {
       "browseId": "MPREb_7oJdYHTrNZ8",
@@ -1744,7 +1778,9 @@
       "releaseDate": "2016-07-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "全面淪陷"
+      "wikiTitle": "全面淪陷",
+      "wikiKind": null,
+      "nameKey": "全面淪陷"
     },
     {
       "browseId": "MPREb_95Pwdt9zwma",
@@ -1880,7 +1916,9 @@
       "releaseDate": "2016-07-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "全面淪陷"
+      "wikiTitle": "全面淪陷",
+      "wikiKind": null,
+      "nameKey": "全面淪陷"
     },
     {
       "browseId": "MPREb_lxXSH0eOZGE",
@@ -1906,7 +1944,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "不害怕"
     },
     {
       "browseId": "MPREb_pFFyAoPKfMB",
@@ -1932,7 +1972,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "再見之前"
     },
     {
       "browseId": "MPREb_i8WnVjJlFDy",
@@ -1958,7 +2000,9 @@
       "releaseDate": "2017-11-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "傳世之愛"
     },
     {
       "browseId": "MPREb_Y56rSWgtnLT",
@@ -2083,7 +2127,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": ""
     },
     {
       "browseId": "MPREb_n5NQQPIjmVV",
@@ -2110,7 +2156,9 @@
       "releaseDate": "2020-05-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "破繭"
     },
     {
       "browseId": "MPREb_tPb4dBQrdfV",
@@ -2137,7 +2185,9 @@
       "releaseDate": "2020-07-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "決鬥場見"
     },
     {
       "browseId": "MPREb_U7GHdoUW05M",
@@ -2163,7 +2213,9 @@
       "releaseDate": "2020-10-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "光芒"
     },
     {
       "browseId": "MPREb_RTZ62pO9QL8",
@@ -2190,7 +2242,9 @@
       "releaseDate": "2021-12-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "魔鏡裡的童話"
     },
     {
       "browseId": "MPREb_AJBtqt5pc8Z",
@@ -2348,7 +2402,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "殘次品放逐星空動畫原聲帶"
     },
     {
       "browseId": "MPREb_0FescfOKLXB",
@@ -2385,7 +2441,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "殘次品放逐星空"
     },
     {
       "browseId": "MPREb_vFsxfRC85si",
@@ -2412,7 +2470,9 @@
       "releaseDate": "2022-04-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "飛火"
     },
     {
       "browseId": "MPREb_a40r1pp3rY1",
@@ -2439,7 +2499,9 @@
       "releaseDate": "2022-07-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "衝破"
     },
     {
       "browseId": "MPREb_TedqM0s7XgL",
@@ -2465,7 +2527,9 @@
       "releaseDate": "2022-10-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "空之要塞"
     },
     {
       "browseId": "MPREb_qrS65A9PqxX",
@@ -2516,7 +2580,9 @@
       "releaseDate": "2023-09-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "獸"
     },
     {
       "browseId": "MPREb_XoyLaKq4mIC",
@@ -2601,7 +2667,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "聲生不息寶島季"
     },
     {
       "browseId": "MPREb_mPnZ8DkpUuQ",
@@ -2711,7 +2779,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "聲生不息寶島季"
     },
     {
       "browseId": "MPREb_l8dmqGqpz3W",
@@ -2750,78 +2820,9 @@
       "releaseDate": "2024-12-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "張韶涵"
-    },
-    {
-      "browseId": "MPREb_3OY7HabG7eu",
-      "playlistId": "OLAK5uy_na6O4IhDfMPBj-duZLR73C2WEqDCUZbnw",
-      "title": "【与世之争】· 上",
-      "albumArtist": "张韶涵",
-      "type": "EP",
-      "year": 2024,
-      "thumbnail": "https://yt3.googleusercontent.com/y2PZwQ_Xsp3x0Hau2Hj25T_9XIs-6W5Z_yAa0m-EzFwFVM-YqWARAIN0Vv4n1-qYbsC5tFCOvPgNcg4=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "十分钟",
-          "artists": "",
-          "videoId": "tzLOLiDpQ4w",
-          "plays": 219000,
-          "playsText": "219K plays",
-          "duration": 194,
-          "byOther": false,
-          "nameKey": "10分鐘",
-          "titleZh": "十分鐘"
-        },
-        {
-          "index": 2,
-          "title": "麻瓜",
-          "artists": "",
-          "videoId": "L4wC0EcG36c",
-          "plays": 166000,
-          "playsText": "166K plays",
-          "duration": 245,
-          "byOther": false,
-          "nameKey": "麻瓜"
-        },
-        {
-          "index": 3,
-          "title": "幽作",
-          "artists": "",
-          "videoId": "IyUlQ3C1LUk",
-          "plays": 51000,
-          "playsText": "51K plays",
-          "duration": 241,
-          "byOther": false,
-          "nameKey": "幽作"
-        },
-        {
-          "index": 4,
-          "title": "一秒回神",
-          "artists": "",
-          "videoId": "nRlx0mn0fLI",
-          "plays": 53000,
-          "playsText": "53K plays",
-          "duration": 191,
-          "byOther": false,
-          "nameKey": "一秒回神"
-        },
-        {
-          "index": 5,
-          "title": "玩具",
-          "artists": "",
-          "videoId": "YwdBZzPf2DY",
-          "plays": 56000,
-          "playsText": "56K plays",
-          "duration": 287,
-          "byOther": false,
-          "nameKey": "玩具"
-        }
-      ],
-      "releaseDate": "2024-12-27",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "與世之爭"
+      "wikiTitle": "張韶涵",
+      "wikiKind": "single",
+      "nameKey": "無名的人"
     },
     {
       "browseId": "MPREb_xgbXp8S5yOw",
@@ -2950,7 +2951,82 @@
       "releaseDate": "2024-12-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "與世之爭"
+      "wikiTitle": "與世之爭",
+      "wikiKind": null,
+      "nameKey": "與世之爭"
+    },
+    {
+      "browseId": "MPREb_3OY7HabG7eu",
+      "playlistId": "OLAK5uy_na6O4IhDfMPBj-duZLR73C2WEqDCUZbnw",
+      "title": "【与世之争】· 上",
+      "albumArtist": "张韶涵",
+      "type": "EP",
+      "year": 2024,
+      "thumbnail": "https://yt3.googleusercontent.com/y2PZwQ_Xsp3x0Hau2Hj25T_9XIs-6W5Z_yAa0m-EzFwFVM-YqWARAIN0Vv4n1-qYbsC5tFCOvPgNcg4=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "十分钟",
+          "artists": "",
+          "videoId": "tzLOLiDpQ4w",
+          "plays": 219000,
+          "playsText": "219K plays",
+          "duration": 194,
+          "byOther": false,
+          "nameKey": "10分鐘",
+          "titleZh": "十分鐘"
+        },
+        {
+          "index": 2,
+          "title": "麻瓜",
+          "artists": "",
+          "videoId": "L4wC0EcG36c",
+          "plays": 166000,
+          "playsText": "166K plays",
+          "duration": 245,
+          "byOther": false,
+          "nameKey": "麻瓜"
+        },
+        {
+          "index": 3,
+          "title": "幽作",
+          "artists": "",
+          "videoId": "IyUlQ3C1LUk",
+          "plays": 51000,
+          "playsText": "51K plays",
+          "duration": 241,
+          "byOther": false,
+          "nameKey": "幽作"
+        },
+        {
+          "index": 4,
+          "title": "一秒回神",
+          "artists": "",
+          "videoId": "nRlx0mn0fLI",
+          "plays": 53000,
+          "playsText": "53K plays",
+          "duration": 191,
+          "byOther": false,
+          "nameKey": "一秒回神"
+        },
+        {
+          "index": 5,
+          "title": "玩具",
+          "artists": "",
+          "videoId": "YwdBZzPf2DY",
+          "plays": 56000,
+          "playsText": "56K plays",
+          "duration": 287,
+          "byOther": false,
+          "nameKey": "玩具"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "上"
     },
     {
       "browseId": "MPREb_X9KHA9NSHCX",
@@ -2977,7 +3053,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "10分鐘"
     },
     {
       "browseId": "MPREb_j8efH0jG6O6",
@@ -3004,7 +3082,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "暮色迴響"
     },
     {
       "browseId": "MPREb_X3LH3iyx9rB",
@@ -3031,7 +3111,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "暮色迴響"
     },
     {
       "browseId": "MPREb_ELDmPzaTKAQ",
@@ -3057,7 +3139,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "有形的翅膀"
     },
     {
       "browseId": "MPREb_GGImageinLa",
@@ -3084,7 +3168,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "覓光"
     },
     {
       "browseId": "MPREb_KNCoSls401W",
@@ -3123,7 +3209,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "折斷玫瑰"
     }
   ]
 }

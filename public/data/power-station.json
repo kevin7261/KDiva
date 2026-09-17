@@ -157,7 +157,9 @@
       "releaseDate": "1997-10-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "無情的情書"
+      "wikiTitle": "無情的情書",
+      "wikiKind": null,
+      "nameKey": "無情的情書"
     },
     {
       "browseId": "MPREb_Po3QKj8wzm9",
@@ -305,7 +307,9 @@
       "releaseDate": "1998-04-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "明天的明天的明天"
+      "wikiTitle": "明天的明天的明天",
+      "wikiKind": null,
+      "nameKey": "明天的明天的明天"
     },
     {
       "browseId": "MPREb_U3yHfnFrTMy",
@@ -441,7 +445,9 @@
       "releaseDate": "1999-01-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "背叛情歌"
+      "wikiTitle": "背叛情歌",
+      "wikiKind": null,
+      "nameKey": "背叛情歌"
     },
     {
       "browseId": "MPREb_m3wHbJ0RVCG",
@@ -577,7 +583,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "goodbyemylove"
     },
     {
       "browseId": "MPREb_qB2b2x49YJR",
@@ -812,7 +820,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "百萬全記錄"
     },
     {
       "browseId": "MPREb_GU8FUVedTVk",
@@ -937,7 +947,9 @@
       "releaseDate": "2001-02-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "忠孝東路走九遍"
+      "wikiTitle": "忠孝東路走九遍",
+      "wikiKind": null,
+      "nameKey": "忠孝東路走九遍"
     },
     {
       "browseId": "MPREb_NoGrpgMAFgg",
@@ -1007,7 +1019,9 @@
       "releaseDate": "2002-01-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "live",
+      "nameKey": "ups不斷電"
     },
     {
       "browseId": "MPREb_vjoEHNwDJq1",
@@ -1133,7 +1147,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Man (專輯)",
-      "titleZh": "MAN (專輯)"
+      "wikiKind": null,
+      "titleZh": "MAN (專輯)",
+      "nameKey": "man"
     },
     {
       "browseId": "MPREb_bjhg5bvvvb3",
@@ -1444,8 +1460,10 @@
       ],
       "releaseDate": "2004-04-02",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "就是紅光輝全紀錄"
+      "releaseDateSource": "table",
+      "wikiTitle": "動力火車",
+      "wikiKind": "compilation",
+      "nameKey": "就是紅光輝全紀錄"
     },
     {
       "browseId": "MPREb_PpxeftuCiST",
@@ -1582,7 +1600,9 @@
       "releaseDate": "2009-03-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "繼續轉動"
+      "wikiTitle": "繼續轉動",
+      "wikiKind": null,
+      "nameKey": "繼續轉動"
     },
     {
       "browseId": "MPREb_UuNHHMU6IW4",
@@ -1707,7 +1727,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "超越顛峰繼續轉動演唱會live數位專輯"
     },
     {
       "browseId": "MPREb_FAydEK5hZui",
@@ -1832,7 +1854,9 @@
       "releaseDate": "2013-03-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "光 (動力火車專輯)"
+      "wikiTitle": "光 (動力火車專輯)",
+      "wikiKind": null,
+      "nameKey": "光"
     },
     {
       "browseId": "MPREb_7MQ2n17kH2X",
@@ -1858,7 +1882,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "熱量"
     },
     {
       "browseId": "MPREb_Gao0nXtPrKN",
@@ -2164,7 +2190,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "20新歌duet精選"
     },
     {
       "browseId": "MPREb_n8ypP8X1vwF",
@@ -2190,7 +2218,9 @@
       "releaseDate": "2017-11-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "live",
+      "nameKey": "下一站"
     },
     {
       "browseId": "MPREb_xVFv3y6Ubos",
@@ -2359,7 +2389,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "動力火車下一站演唱會live精選"
     },
     {
       "browseId": "MPREb_mQ6Z1ccAWLP",
@@ -2385,7 +2417,9 @@
       "releaseDate": "2018-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "single",
+      "nameKey": "愛我所愛"
     },
     {
       "browseId": "MPREb_u3bBy5lNnIB",
@@ -2412,7 +2446,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "有本事"
     },
     {
       "browseId": "MPREb_kQU2MxPUiGE",
@@ -2438,7 +2474,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "neverturnback"
     },
     {
       "browseId": "MPREb_XbiE5Ows6Dm",
@@ -2476,7 +2514,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "跳上車子離開傷心的臺北"
     },
     {
       "browseId": "MPREb_iO4RHDMOeal",
@@ -2502,7 +2542,9 @@
       "releaseDate": "2021-02-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "single",
+      "nameKey": "我陪你面對"
     },
     {
       "browseId": "MPREb_b5ABl4gw6q2",
@@ -2639,7 +2681,9 @@
       "releaseDate": "2021-04-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "studio",
+      "nameKey": "都是因為愛"
     },
     {
       "browseId": "MPREb_GagbWOT7XpB",
@@ -2665,7 +2709,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "如果海能夠"
     },
     {
       "browseId": "MPREb_XJ8FMdaBvo0",
@@ -2691,7 +2737,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我很好騙"
     },
     {
       "browseId": "MPREb_8By92CwcKEH",
@@ -2718,7 +2766,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "相信奇蹟"
     },
     {
       "browseId": "MPREb_4fppsy5chrU",
@@ -2755,7 +2805,9 @@
       "releaseDate": "2023-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "single",
+      "nameKey": "摯友寄"
     },
     {
       "browseId": "MPREb_Zf1xqAvSLB9",
@@ -2782,7 +2834,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我們之間"
     },
     {
       "browseId": "MPREb_SrLk7tCvkJ2",
@@ -2808,7 +2862,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "搖滾區"
     },
     {
       "browseId": "MPREb_bkEvCnUB4q2",
@@ -2835,7 +2891,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "鳥仔"
     },
     {
       "browseId": "MPREb_H0QM9IDdmJI",
@@ -2960,7 +3018,9 @@
       "releaseDate": "2024-08-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "studio",
+      "nameKey": "結伴"
     },
     {
       "browseId": "MPREb_NiD1x6wGIO8",
@@ -3118,7 +3178,9 @@
       "releaseDate": "2024-08-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "studio",
+      "nameKey": "結伴"
     },
     {
       "browseId": "MPREb_F5k1cLP0ten",
@@ -3144,7 +3206,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "俯衝的靈魂"
     },
     {
       "browseId": "MPREb_YNDLd1YVnJP",
@@ -3170,7 +3234,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我不該哭"
     },
     {
       "browseId": "MPREb_iOLBVppVQhL",
@@ -3196,7 +3262,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "趁少年"
     },
     {
       "browseId": "MPREb_cAMoZPDcRD4",
@@ -3233,7 +3301,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "凶宅專賣店影集原聲帶"
     },
     {
       "browseId": "MPREb_R5b3oL2mmOm",
@@ -3259,7 +3329,9 @@
       "releaseDate": "2026-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "single",
+      "nameKey": "ineedyou"
     },
     {
       "browseId": "MPREb_4ezJAZnbr7F",
@@ -3285,7 +3357,9 @@
       "releaseDate": "2026-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "動力火車"
+      "wikiTitle": "動力火車",
+      "wikiKind": "single",
+      "nameKey": "玫瑰玫瑰"
     }
   ]
 }

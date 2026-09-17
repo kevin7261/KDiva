@@ -135,7 +135,9 @@
       "releaseDate": "1999-09-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "梁靜茹"
+      "wikiTitle": "梁靜茹",
+      "wikiKind": "studio",
+      "nameKey": "一夜長大"
     },
     {
       "browseId": "MPREb_QmFvNOcjyZg",
@@ -260,7 +262,9 @@
       "releaseDate": "2000-08-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "勇氣 (梁靜茹專輯)"
+      "wikiTitle": "勇氣 (梁靜茹專輯)",
+      "wikiKind": null,
+      "nameKey": "勇氣"
     },
     {
       "browseId": "MPREb_tobWaNDUlZu",
@@ -396,7 +400,9 @@
       "releaseDate": "2001-06-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "閃亮的星"
+      "wikiTitle": "閃亮的星",
+      "wikiKind": null,
+      "nameKey": "閃亮的星"
     },
     {
       "browseId": "MPREb_o1rLRXBKSsg",
@@ -532,7 +538,9 @@
       "releaseDate": "2002-02-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Sunrise 我喜歡 (梁靜茹專輯)"
+      "wikiTitle": "Sunrise 我喜歡 (梁靜茹專輯)",
+      "wikiKind": null,
+      "nameKey": "sunrise我喜歡"
     },
     {
       "browseId": "MPREb_9jOHgw1RgKg",
@@ -701,7 +709,9 @@
       "releaseDate": "2002-05-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Time & Love 演唱會Live全紀錄"
+      "wikiTitle": "Time & Love 演唱會Live全紀錄",
+      "wikiKind": "live",
+      "nameKey": "timelove"
     },
     {
       "browseId": "MPREb_g5BiIXYLrWL",
@@ -837,7 +847,9 @@
       "releaseDate": "2003-02-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "美麗人生 (梁靜茹專輯)"
+      "wikiTitle": "美麗人生 (梁靜茹專輯)",
+      "wikiKind": null,
+      "nameKey": "美麗人生"
     },
     {
       "browseId": "MPREb_6E5aDBJv9la",
@@ -1071,8 +1083,10 @@
       ],
       "releaseDate": "2003-11-25",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "戀愛的力量"
+      "releaseDateSource": "table",
+      "wikiTitle": "梁靜茹",
+      "wikiKind": "compilation",
+      "nameKey": "戀愛的力量"
     },
     {
       "browseId": "MPREb_FSnHDL8GPIa",
@@ -1208,7 +1222,9 @@
       "releaseDate": "2004-09-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "燕尾蝶 (梁靜茹專輯)"
+      "wikiTitle": "燕尾蝶 (梁靜茹專輯)",
+      "wikiKind": null,
+      "nameKey": "燕尾蝶下定愛的決心"
     },
     {
       "browseId": "MPREb_Sz26NwEHocn",
@@ -1509,7 +1525,9 @@
       "releaseDate": "2005-03-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛的大遊行 Live全記錄"
+      "wikiTitle": "愛的大遊行 Live全記錄",
+      "wikiKind": "live",
+      "nameKey": "愛的大遊行live全紀錄"
     },
     {
       "browseId": "MPREb_nbe6JwBLu5g",
@@ -1634,7 +1652,9 @@
       "releaseDate": "2005-09-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "絲路 (梁靜茹專輯)"
+      "wikiTitle": "絲路 (梁靜茹專輯)",
+      "wikiKind": null,
+      "nameKey": "絲路通往愛的路途"
     },
     {
       "browseId": "MPREb_gy4RmdZ7x1Z",
@@ -1781,7 +1801,9 @@
       "releaseDate": "2006-10-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "親親"
+      "wikiTitle": "親親",
+      "wikiKind": null,
+      "nameKey": "親親"
     },
     {
       "browseId": "MPREb_UXxdxIxB6qP",
@@ -1917,7 +1939,9 @@
       "releaseDate": "2007-11-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "崇拜 (梁靜茹專輯)"
+      "wikiTitle": "崇拜 (梁靜茹專輯)",
+      "wikiKind": null,
+      "nameKey": "崇拜"
     },
     {
       "browseId": "MPREb_ibMD2yIrqOZ",
@@ -2087,7 +2111,9 @@
       "releaseDate": "2008-08-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "今天情人節"
+      "wikiTitle": "今天情人節",
+      "wikiKind": "live",
+      "nameKey": "今天情人節"
     },
     {
       "browseId": "MPREb_dNmhXHOvn5a",
@@ -2146,7 +2172,9 @@
       "releaseDate": "2008-12-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "幸福的抉擇 I do?"
+      "wikiTitle": "幸福的抉擇 I do?",
+      "wikiKind": null,
+      "nameKey": "幸福的抉擇"
     },
     {
       "browseId": "MPREb_FOoB6qR65xw",
@@ -2199,8 +2227,8 @@
           "playsText": "4M plays",
           "duration": 221,
           "byOther": false,
-          "titleZh": "不是我不明白",
-          "nameKey": "不是我不明白"
+          "nameKey": "不是我不明白",
+          "titleZh": "不是我不明白"
         },
         {
           "index": 5,
@@ -2294,7 +2322,9 @@
       "releaseDate": "2009-01-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "靜茹&情歌"
+      "wikiTitle": "靜茹&情歌",
+      "wikiKind": null,
+      "nameKey": "別再為他流淚"
     },
     {
       "browseId": "MPREb_DH6Puyz2a5b",
@@ -2419,7 +2449,9 @@
       "releaseDate": "2010-12-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "情歌沒有告訴你"
+      "wikiTitle": "情歌沒有告訴你",
+      "wikiKind": null,
+      "nameKey": "情歌沒有告訴你"
     },
     {
       "browseId": "MPREb_NLSt3ZOypOR",
@@ -2588,7 +2620,9 @@
       "releaseDate": "2011-02-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "prose",
-      "wikiTitle": "梁靜茹"
+      "wikiTitle": "梁靜茹",
+      "wikiKind": null,
+      "nameKey": "現在開始我愛你新歌精選"
     },
     {
       "browseId": "MPREb_3QrYj3FJLRO",
@@ -2724,7 +2758,9 @@
       "releaseDate": "2012-08-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛久見人心"
+      "wikiTitle": "愛久見人心",
+      "wikiKind": null,
+      "nameKey": "愛久見人心"
     },
     {
       "browseId": "MPREb_BEa3bJ6Vhfb",
@@ -2744,15 +2780,17 @@
           "playsText": "5.5M plays",
           "duration": 260,
           "byOther": false,
-          "titleZh": "可以的話",
-          "nameKey": "可以的話"
+          "nameKey": "可以的話",
+          "titleZh": "可以的話"
         }
       ],
       "releaseDate": "2015-09-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
       "wikiTitle": "梁靜茹",
-      "titleZh": "可以的話"
+      "wikiKind": null,
+      "titleZh": "可以的話",
+      "nameKey": "可以的話"
     },
     {
       "browseId": "MPREb_Uie2VyoAXjB",
@@ -2772,15 +2810,17 @@
           "playsText": "39K plays",
           "duration": 267,
           "byOther": false,
-          "titleZh": "不翼而飛",
-          "nameKey": "不翼而飛"
+          "nameKey": "不翼而飛",
+          "titleZh": "不翼而飛"
         }
       ],
       "releaseDate": "2016-07-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
       "wikiTitle": "梁靜茹",
-      "titleZh": "不翼而飛"
+      "wikiKind": null,
+      "titleZh": "不翼而飛",
+      "nameKey": "不翼而飛"
     },
     {
       "browseId": "MPREb_ZhISHZ3XAZm",
@@ -2800,15 +2840,17 @@
           "playsText": "1.8M plays",
           "duration": 296,
           "byOther": false,
-          "titleZh": "秘果",
-          "nameKey": "秘果"
+          "nameKey": "秘果",
+          "titleZh": "秘果"
         }
       ],
       "releaseDate": "2017-07-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
       "wikiTitle": "梁靜茹",
-      "titleZh": "秘果"
+      "wikiKind": null,
+      "titleZh": "秘果",
+      "nameKey": "秘果"
     },
     {
       "browseId": "MPREb_R8NFzArpZzF",
@@ -2828,15 +2870,17 @@
           "playsText": "1.1M plays",
           "duration": 284,
           "byOther": false,
-          "titleZh": "兩難",
-          "nameKey": "兩難"
+          "nameKey": "兩難",
+          "titleZh": "兩難"
         }
       ],
       "releaseDate": "2017-08-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
       "wikiTitle": "梁靜茹",
-      "titleZh": "兩難"
+      "wikiKind": null,
+      "titleZh": "兩難",
+      "nameKey": "兩難"
     },
     {
       "browseId": "MPREb_0CY9RuOSTcv",
@@ -2863,7 +2907,9 @@
       "releaseDate": "2019-01-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "梁靜茹"
+      "wikiTitle": "梁靜茹",
+      "wikiKind": null,
+      "nameKey": "想都沒想過"
     },
     {
       "browseId": "MPREb_QkIlPnY7op5",
@@ -3032,7 +3078,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "寒單電影原聲音樂"
     },
     {
       "browseId": "MPREb_DUktVzxafXZ",
@@ -3058,7 +3106,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "weiguang"
     },
     {
       "browseId": "MPREb_ZG0GmOhUlXo",
@@ -3084,7 +3134,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "wohaoma"
     },
     {
       "browseId": "MPREb_lFa6OZI2aHc",
@@ -3209,7 +3261,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "wohaoma"
     },
     {
       "browseId": "MPREb_BO0vAhnxW7I",
@@ -3235,7 +3289,9 @@
       "releaseDate": "2020-05-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "梁靜茹"
+      "wikiTitle": "梁靜茹",
+      "wikiKind": null,
+      "nameKey": "飄洋過海來看你"
     },
     {
       "browseId": "MPREb_qwvs9t9JB8k",
@@ -3283,7 +3339,9 @@
       "releaseDate": "2021-09-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "時光隨想·三日思"
+      "wikiTitle": "時光隨想·三日思",
+      "wikiKind": null,
+      "nameKey": "時光隨想三日思"
     },
     {
       "browseId": "MPREb_D1i7ODwGB3X",
@@ -3310,7 +3368,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "再見少年"
     },
     {
       "browseId": "MPREb_yvqSifalwOM",
@@ -3436,7 +3496,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "麋鹿",
-      "titleZh": "麋鹿"
+      "wikiKind": null,
+      "titleZh": "麋鹿",
+      "nameKey": "麋鹿"
     },
     {
       "browseId": "MPREb_1BiiOrNdBkt",
@@ -3475,7 +3537,9 @@
       "releaseDate": "2025-01-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "梁靜茹"
+      "wikiTitle": "梁靜茹",
+      "wikiKind": null,
+      "nameKey": "住在心裡的人"
     }
   ]
 }

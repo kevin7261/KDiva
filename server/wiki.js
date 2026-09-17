@@ -199,6 +199,44 @@ const PERFORMER_HEAD = /演唱|歌手|藝人|艺人|演出者|artist/i
 const SONG_HEAD = /歌曲|曲名|song/i
 const ALBUM_HEAD = /收錄專輯|收录专辑|專輯|专辑|album/i
 
+/**
+ * 從章節標題或資訊框「類型」判斷發行類型：studio 正規專輯、compilation 精選、reissue 再版、
+ * live 現場、soundtrack 原聲帶、single 單曲／EP；看不出來回傳 null
+ */
+export function kindOf(text) {
+  const s = String(text ?? '')
+  if (/再版|復刻|复刻|reissue|remaster/i.test(s)) return 'reissue'
+  if (/精選|精选|選輯|选辑|合輯|合辑|best|greatest|compilation|collection/i.test(s)) return 'compilation'
+  if (/實況|实况|現場|现场|演唱會|演唱会|音樂會|音乐会|\blive\b/i.test(s)) return 'live'
+  if (/原聲|原声|soundtrack|\bost\b/i.test(s)) return 'soundtrack'
+  if (/單曲|单曲|\bsingle|\bep\b|迷你專輯|迷你专辑/i.test(s)) return 'single'
+  if (/正規|正规|錄音室|录音室|studio|個人專輯|个人专辑|翻唱|cover/i.test(s)) return 'studio'
+  return null
+}
+
+/** 依章節切開（「===精選專輯===」），每段帶著章節判斷出的類型 */
+function sections(wikitext) {
+  const out = []
+  let kind = null
+  let parentKind = null
+  let buf = []
+  const flush = () => buf.length && out.push({ kind, text: buf.join('\n') })
+  for (const line of wikitext.split('\n')) {
+    const h = line.match(/^(={2,6})\s*(.*?)\s*\1\s*$/)
+    if (h) {
+      flush()
+      buf = []
+      const k = kindOf(h[2])
+      if (h[1].length === 2) parentKind = k
+      kind = k ?? (h[1].length > 2 ? parentKind : null)
+      continue
+    }
+    buf.push(line)
+  }
+  flush()
+  return out
+}
+
 function parseTables(wikitext, page, artistKeys) {
   const out = []
   for (const table of wikitext.match(/^\{\|[\s\S]*?^\|\}/gm) ?? []) {
@@ -339,7 +377,8 @@ function parseAlbumPage(title, wikitext, artistKeys) {
   const name = toPlain(wikitext.match(INFOBOX_NAME)?.[1] ?? '').trim()
   if (name && name.length <= 60) titles.push(...titleVariants(name))
   const tracks = parseTracklist(wikitext)
-  return { titles, ...date, source: 'album-page', page: title, tracks: tracks.length ? tracks : undefined }
+  const kind = kindOf(toPlain(wikitext.match(/^\s*\|\s*(?:類型|类型|type)\s*=\s*(.*)$/im)?.[1] ?? ''))
+  return { titles, ...date, source: 'album-page', page: title, tracks: tracks.length ? tracks : undefined, kind }
 }
 
 async function fetchPages(titles) {
@@ -383,7 +422,10 @@ async function fromWikipedia(pageTitle, albumKeys, artistKeys, log, albumPinyin 
   const entries = []
   const linkTargets = new Map()
   for (const { title, content } of pages) {
-    entries.push(...parseTables(content, title, artistKeys), ...parseLists(content, title), ...parseProse(content, title))
+    for (const sec of sections(content)) {
+      const found = [...parseTables(sec.text, title, artistKeys), ...parseLists(sec.text, title), ...parseProse(sec.text, title)]
+      entries.push(...found.map((e) => ({ ...e, kind: e.kind ?? sec.kind })))
+    }
     for (const m of content.matchAll(/\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]/g)) {
       const target = m[1].trim()
       if (/^(?:File|Image|Category|Template|檔案|文件|分類|Wikipedia|WP|Help|Portal):/i.test(target)) continue
@@ -462,6 +504,8 @@ export function matchRelease(album, catalog, artistNames = []) {
   let best = null
   for (const entry of catalog) {
     if (isVariant && !entry.titles.some((t) => VARIANT_RE.test(t))) continue
+    // Wikipedia 有曲目表時，曲目數差太多就不是同一張（同名的精選輯不能拿到原專輯的日期）
+    if (entry.tracks?.length && album.tracks?.length >= 5 && Math.abs(entry.tracks.length - album.tracks.length) > 3) continue
     let score = Math.max(0, ...entry.keys.map((k) => similarity(key, k)))
     if (!hasCJK(album.title) && entry.pinyinKeys?.includes(pinyinKey(album.title))) score = 1
     if (score < THRESHOLD[entry.source]) continue
@@ -486,6 +530,7 @@ export function matchRelease(album, catalog, artistNames = []) {
     releaseDatePrecision: best.entry.precision,
     releaseDateSource: best.entry.source,
     wikiTitle: best.entry.page ?? best.entry.titles[0],
+    wikiKind: best.entry.kind ?? null,
     wikiName: best.entry.titles.find(hasCJK) ?? null,
     wikiTracks: best.entry.tracks ?? null,
   }

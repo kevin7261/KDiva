@@ -358,6 +358,9 @@ export function addNameKeys(albums) {
       if (zh.length === 1) known.add(normalizeTitle(toTW(zh[0])))
     }
   for (const album of albums) {
+    // 專輯比對鍵：中文名、簡轉繁、去括號註記；前端用來找「同名的重複上架／再版」
+    const albumName = album.titleZh ?? parts(album.title).find(hasCJK) ?? parts(album.title)[0]
+    album.nameKey = normalizeTitle(jpToTW(toTW(albumName.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ' ').trim() || albumName)))
     const albumPrefix = normalizeTitle(parts(album.title)[0])
     for (const t of album.tracks) {
       const live = LIVE_RE.test(t.title)
@@ -414,7 +417,10 @@ export async function applyReleaseDates(albums, artistConfig, log = () => {}) {
       ? { releaseDate: manual, releaseDatePrecision: 'day', releaseDateSource: 'manual', wikiTitle: null }
       : matchRelease(album, catalog, [artistConfig.name, artistConfig.en, artistConfig.wiki])
     const { wikiName = null, wikiTracks = null, ...dates } = info ?? {}
-    Object.assign(album, info ? dates : { releaseDate: null, releaseDatePrecision: null, releaseDateSource: null, wikiTitle: null })
+    Object.assign(
+      album,
+      info ? dates : { releaseDate: null, releaseDatePrecision: null, releaseDateSource: null, wikiTitle: null, wikiKind: null },
+    )
     album._wiki = { name: wikiName, tracks: wikiTracks }
     if (info) matched++
   }
