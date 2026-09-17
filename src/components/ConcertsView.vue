@@ -3,6 +3,7 @@
 import { computed, ref, shallowRef, watch } from 'vue'
 import { loadConcerts } from '../lib/store.js'
 import { formatDay } from '../lib/format.js'
+import TourMap from './TourMap.vue'
 
 const props = defineProps({ slug: { type: String, required: true } })
 
@@ -11,6 +12,7 @@ const error = ref('')
 const filter = ref('tour')
 const order = ref('asc')
 const open = ref(new Set())
+const maps = ref(new Set())
 
 watch(
   () => props.slug,
@@ -18,6 +20,7 @@ watch(
     data.value = null
     error.value = ''
     open.value = new Set()
+    maps.value = new Set()
     loadConcerts(slug)
       .then((d) => (data.value = d))
       .catch((e) => (error.value = e.message))
@@ -38,11 +41,12 @@ const period = (t) => (t.end && formatDay(t.end) !== formatDay(t.start) ? `${for
 const brief = (items, n = 6) => (items.length > n ? `${items.slice(0, n).join('、')} 等 ${items.length} 個` : items.join('、'))
 const wikiUrl = (page) => `https://zh.wikipedia.org/wiki/${encodeURIComponent(page)}`
 
-function toggle(t) {
-  const next = new Set(open.value)
+function toggle(set, t) {
+  const next = new Set(set.value)
   next.has(t) ? next.delete(t) : next.add(t)
-  open.value = next
+  set.value = next
 }
+const located = (t) => t.shows.some((s) => s.lat != null)
 </script>
 
 <template>
@@ -91,9 +95,15 @@ function toggle(t) {
             <dd>{{ t.venues.length ? brief(t.venues, 4) : '—' }}</dd>
           </div>
         </dl>
-        <button v-if="t.shows.length" class="link more" :aria-expanded="open.has(t)" @click="toggle(t)">
-          {{ open.has(t) ? '收起場次' : `看 ${t.shows.length} 場場次` }}
-        </button>
+        <div v-if="t.shows.length" class="more">
+          <button v-if="located(t)" class="link" :aria-expanded="maps.has(t)" @click="toggle(maps, t)">
+            {{ maps.has(t) ? '收起地圖' : '看巡演地圖' }}
+          </button>
+          <button class="link" :aria-expanded="open.has(t)" @click="toggle(open, t)">
+            {{ open.has(t) ? '收起場次' : `看 ${t.shows.length} 場場次` }}
+          </button>
+        </div>
+        <TourMap v-if="maps.has(t)" :shows="t.shows" />
         <div v-if="open.has(t)" class="table-wrap">
           <table>
             <thead>
@@ -215,6 +225,8 @@ function toggle(t) {
   text-decoration: underline;
 }
 .more {
+  display: flex;
+  gap: 16px;
   margin-top: 10px;
   font-size: 13px;
 }

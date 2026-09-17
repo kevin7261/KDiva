@@ -1,6 +1,6 @@
 {
   "slug": "valen-hsu",
-  "fetchedAt": "2026-09-17T12:29:02.069Z",
+  "fetchedAt": "2026-09-17T13:04:44.408Z",
   "wiki": "許茹芸",
   "bio": {
     "born": {
@@ -40,7 +40,10 @@
           "precision": "month",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海大舞臺"
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
         }
       ]
     },
@@ -74,14 +77,20 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海大舞臺"
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
         },
         {
           "date": "2011-12-17",
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "首都體育館"
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
         }
       ]
     },
@@ -115,14 +124,20 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "工人體育館"
+          "venue": "工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
         },
         {
           "date": "2013-12-30",
           "precision": "day",
           "region": "中國大陸",
           "city": "深圳",
-          "venue": "深圳灣體育中心「春繭」體育館"
+          "venue": "深圳灣體育中心「春繭」體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
         }
       ]
     },
@@ -154,7 +169,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -188,14 +206,20 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2017-10-06",
           "precision": "day",
           "region": "臺灣",
           "city": "臺中",
-          "venue": "Legacy Taichung"
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
         }
       ]
     },
@@ -230,14 +254,20 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "梅賽德斯-奔馳文化中心"
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
         },
         {
           "date": "2019-04-20",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         }
       ]
     },
@@ -284,56 +314,80 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北流行音樂中心"
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
         },
         {
           "date": "2024-04-27",
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "國家體育館"
+          "venue": "國家體育館",
+          "lat": 39.994780555556,
+          "lon": 116.38395833333,
+          "geo": "venue"
         },
         {
           "date": "2024-05-11",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "東安湖體育公園多功能體育館"
+          "venue": "東安湖體育公園多功能體育館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2024-06-08",
           "precision": "day",
           "region": "中國大陸",
           "city": "深圳",
-          "venue": "深圳世界大學生運動會體育中心體育館"
+          "venue": "深圳世界大學生運動會體育中心體育館",
+          "lat": 22.697139,
+          "lon": 114.212194,
+          "geo": "venue"
         },
         {
           "date": "2024-09-14",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "浦發銀行東方體育中心主體育館"
+          "venue": "浦發銀行東方體育中心主體育館",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
         },
         {
           "date": "2025-01-18",
           "precision": "day",
           "region": "中國大陸",
           "city": "寧波",
-          "venue": "寧波奧體中心體育館"
+          "venue": "寧波奧體中心體育館",
+          "lat": 29.933416666666666,
+          "lon": 121.48594444444444,
+          "geo": "venue"
         },
         {
           "date": "2025-10-11",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "寶能廣州國際體育演藝中心"
+          "venue": "寶能廣州國際體育演藝中心",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
         },
         {
           "date": "2025-11-08",
           "precision": "day",
           "region": "中國大陸",
           "city": "福州",
-          "venue": "福州海峽奧林匹克體育中心綜合體育館"
+          "venue": "福州海峽奧林匹克體育中心綜合體育館",
+          "lat": 25.8532,
+          "lon": 119.609,
+          "geo": "venue"
         }
       ]
     }

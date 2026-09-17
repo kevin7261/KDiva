@@ -73,6 +73,10 @@ const stats = computed(() => {
   ]
 })
 
+// 抓資料用的來源：Wikipedia 條目與 YouTube Music 藝人頻道（作品分散時有好幾個）
+const wikiUrl = computed(() => `https://zh.wikipedia.org/wiki/${encodeURIComponent(artist.value.wiki ?? '')}`)
+const channels = computed(() => [artist.value.channelId, ...(artist.value.extraChannelIds ?? [])])
+
 const tabs = [
   ['overview', '總覽'],
   ['albums', '專輯'],
@@ -105,6 +109,17 @@ const tabs = [
           </div>
         </div>
         <h1>{{ artist.name }} <span>{{ artist.en }}</span></h1>
+        <nav class="sources" aria-label="資料來源">
+          <a v-if="artist.wiki" :href="wikiUrl" target="_blank" rel="noopener">Wikipedia 條目 ↗</a>
+          <a
+            v-for="(id, i) in channels"
+            :key="id"
+            :href="`https://music.youtube.com/channel/${id}`"
+            target="_blank"
+            rel="noopener"
+            >YouTube Music 頻道{{ channels.length > 1 ? ` ${i + 1}` : '' }} ↗</a
+          >
+        </nav>
         <div v-if="model" class="hero-number">
           <span class="figure">{{ formatCount(model.totalPlays) }}</span>
           <span class="caption">全部歌曲累計播放（{{ approx ? '約 ' : '' }}{{ formatFull(model.totalPlays) }} 次）</span>
@@ -251,6 +266,21 @@ h1 {
   font-size: clamp(34px, 6vw, 56px);
   line-height: 1.1;
   font-weight: 700;
+}
+.sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+  margin-top: 8px;
+  font-size: 13.5px;
+}
+.sources a {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+}
+.sources a:hover {
+  color: #fff;
+  text-decoration: underline;
 }
 h1 span {
   font-size: 0.45em;

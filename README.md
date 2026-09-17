@@ -3,8 +3,8 @@
 用 Vue 3 + Vite 做的網頁，比較華語與台語的男歌手、女歌手與團體在 YouTube Music 上每首歌的播放數，各自依出道日期排列，專輯依 Wikipedia 的原始發行日期排序。
 
 - 首頁分頁：華語男歌手 `#/male`、華語女歌手 `#/female`、華語團體 `#/group`、台語男歌手 `#/tw-male`、台語女歌手 `#/tw-female`、台語團體 `#/tw-group`，各自的累計播放、每月觀眾、合併的熱門 20 首
-- 歌手頁 `#/artist/<slug>`：總覽圖表、專輯牆（點開看曲目）、全部歌曲表（搜尋／排序／匯出 CSV）、演唱會（巡演名稱、期間、場數、地點、場館，展開看每一場）
-- 年表 `#/timeline`：所有藝人的出生（團體為成立）、出道、專輯發行、演唱會、逝世（解散），橫向時間軸
+- 歌手頁 `#/artist/<slug>`：Wikipedia 條目與 YouTube Music 頻道連結、總覽圖表、專輯牆（點開看曲目）、全部歌曲表（搜尋／排序／匯出 CSV）、演唱會（巡演名稱、期間、場數、地點、場館，展開看每一場與巡演地圖）
+- 年表 `#/timeline`：所有藝人的出生（團體為成立）、出道、專輯發行、演唱會、逝世（解散），橫向時間軸；滑鼠中鍵可四方向自動捲動
 - 歌名滑過時顯示詞／曲／編曲
 
 ## 使用
@@ -48,6 +48,8 @@ npm run build-timeline                   # 只重新產生年表資料 public/da
 | 手動修正發行日期 | 自行填寫 | `server/release-overrides.js` |
 | 詞／曲／編曲 | 專輯條目的 `{{Tracklist}}` 與曲目表、作品列表的歌曲表（YouTube Music 沒有這項資料） | `server/wiki.js`、`server/ytmusic.js` |
 | 演唱會 | 巡演條目（資訊框與場次表）、「○○演唱會列表」、歌手條目的演唱會章節 | `server/concerts.js` |
+| 巡演地圖的座標 | 場館或城市條目的 Wikidata「座標位置」（P625）；底圖 CARTO／OpenStreetMap | `server/concerts.js`、`src/components/TourMap.vue` |
+| 手動補充演唱會場次 | 自行填寫 | `server/concert-overrides.js` |
 | 出生、逝世、團體成立與解散 | Wikidata | `server/concerts.js` |
 | 年表資料（各歌手 JSON 合計十幾 MB，年表頁改讀這份精簡版） | 由上面的資料整理 | `server/timeline.js` |
 | 去重、首發專輯、精選輯／再版判斷 | 前端計算 | `src/lib/dataset.js` |

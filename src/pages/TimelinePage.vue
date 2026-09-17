@@ -1,6 +1,6 @@
 <script setup>
 // 藝人年表：每位藝人一列，橫軸是年份；出生、出道、發行、演唱會、逝世（團體為成立、解散）
-import { computed, ref, shallowRef } from 'vue'
+import { computed, onBeforeUnmount, ref, shallowRef } from 'vue'
 import { RouterLink } from 'vue-router'
 import { GROUPS } from '../artists.js'
 import { loadTimeline } from '../lib/store.js'
@@ -146,6 +146,77 @@ const rows = computed(() =>
   }),
 )
 
+// ---------- 中鍵自動捲動 ----------
+// 按一下中鍵：出現原點標記，游標離原點越遠捲得越快（四個方向），再按任一鍵或 Esc 停止；
+// 按住中鍵移動：放開就停止。Mac 的瀏覽器沒有內建這個功能，所以自己做。
+
+const scroller = ref(null)
+const autoOrigin = ref(null) // 原點（畫面座標）
+let cursor = { x: 0, y: 0 }
+let frame = 0
+let moved = false
+
+function startAuto(e) {
+  autoOrigin.value = { x: e.clientX, y: e.clientY }
+  cursor = { x: e.clientX, y: e.clientY }
+  moved = false
+  document.documentElement.classList.add('autoscrolling')
+  window.addEventListener('mousemove', onAutoMove)
+  window.addEventListener('mouseup', onAutoUp)
+  window.addEventListener('mousedown', onAutoDown, true)
+  window.addEventListener('keydown', onAutoKey)
+  window.addEventListener('wheel', stopAuto, { passive: true })
+  frame = requestAnimationFrame(tick)
+}
+
+function stopAuto() {
+  cancelAnimationFrame(frame)
+  autoOrigin.value = null
+  document.documentElement.classList.remove('autoscrolling')
+  window.removeEventListener('mousemove', onAutoMove)
+  window.removeEventListener('mouseup', onAutoUp)
+  window.removeEventListener('mousedown', onAutoDown, true)
+  window.removeEventListener('keydown', onAutoKey)
+  window.removeEventListener('wheel', stopAuto)
+}
+
+function onMiddleDown(e) {
+  if (e.button !== 1 || autoOrigin.value) return
+  e.preventDefault() // 不要貼上、不要瀏覽器內建的自動捲動
+  startAuto(e)
+}
+
+function onAutoMove(e) {
+  cursor = { x: e.clientX, y: e.clientY }
+  if (Math.hypot(cursor.x - autoOrigin.value.x, cursor.y - autoOrigin.value.y) > 8) moved = true
+}
+
+// 按住拖曳後放開 → 停止；只是點一下 → 繼續捲，等下一次按鍵
+function onAutoUp(e) {
+  if (e.button === 1 && moved) stopAuto()
+}
+
+function onAutoDown(e) {
+  e.preventDefault()
+  e.stopPropagation()
+  stopAuto()
+}
+
+function onAutoKey(e) {
+  if (e.key === 'Escape') stopAuto()
+}
+
+function tick() {
+  const el = scroller.value
+  if (!el || !autoOrigin.value) return
+  // 原點附近留一小塊不動區，之外速度隨距離加快
+  const speed = (d) => (Math.abs(d) < 10 ? 0 : Math.sign(d) * ((Math.abs(d) - 10) / 10) ** 1.2)
+  el.scrollBy(speed(cursor.x - autoOrigin.value.x), speed(cursor.y - autoOrigin.value.y))
+  frame = requestAnimationFrame(tick)
+}
+
+onBeforeUnmount(stopAuto)
+
 const counts = computed(() => {
   const list = artists.value
   return {
@@ -214,7 +285,7 @@ const counts = computed(() => {
         </div>
 
         <div class="card chart">
-          <div class="scroller">
+          <div ref="scroller" class="scroller" @mousedown="onMiddleDown" @auxclick.prevent>
             <div class="inner" :style="{ width: `${LABEL_W + width}px`, '--label-w': `${LABEL_W}px` }">
               <div class="axis">
                 <div class="corner muted">藝人</div>
@@ -264,7 +335,18 @@ const counts = computed(() => {
           </div>
         </div>
 
+        <div v-if="autoOrigin" class="auto-origin" :style="{ left: `${autoOrigin.x}px`, top: `${autoOrigin.y}px` }" aria-hidden="true">
+          <svg viewBox="0 0 28 28" width="28" height="28">
+            <circle cx="14" cy="14" r="13" />
+            <path d="M14 4 l-3 4 h6 z M14 24 l-3 -4 h6 z M4 14 l4 -3 v6 z M24 14 l-4 -3 v6 z" />
+            <circle cx="14" cy="14" r="1.8" />
+          </svg>
+        </div>
+
         <footer class="site-footer">
+          <p>
+            在圖上按一下滑鼠中鍵可以往四個方向自動捲動（游標離起點越遠越快，再按一下停止）；也可以按住中鍵移動。
+          </p>
           <p>
             出生、逝世、團體成立與解散日期取自 Wikidata；演唱會取自 Wikipedia 的演唱會條目與列表（名稱寫明巡迴、或在兩個以上城市演出的算巡迴演唱會）；
             專輯發行日期同歌手頁（以 Wikipedia 為準，沒有時用 YouTube Music 年份，畫在該年年中）。虛線是今天。
@@ -409,6 +491,29 @@ h1 {
 .scroller {
   overflow: auto;
   max-height: calc(100vh - 120px);
+}
+/* 中鍵自動捲動的原點標記 */
+.auto-origin {
+  position: fixed;
+  z-index: 60;
+  width: 28px;
+  height: 28px;
+  margin: -14px 0 0 -14px;
+  pointer-events: none;
+}
+.auto-origin circle:first-child {
+  fill: var(--surface);
+  stroke: var(--text-secondary);
+  stroke-width: 1.5;
+}
+.auto-origin path,
+.auto-origin circle:last-child {
+  fill: var(--text-primary);
+}
+:global(html.autoscrolling),
+:global(html.autoscrolling *) {
+  cursor: all-scroll !important;
+  user-select: none;
 }
 .inner {
   position: relative;

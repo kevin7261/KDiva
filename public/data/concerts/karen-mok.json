@@ -1,6 +1,6 @@
 {
   "slug": "karen-mok",
-  "fetchedAt": "2026-09-17T12:28:51.543Z",
+  "fetchedAt": "2026-09-17T13:04:28.055Z",
   "wiki": "莫文蔚",
   "bio": {
     "born": {
@@ -40,7 +40,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "大安森林公園"
+          "venue": "大安森林公園",
+          "lat": 25.030177777778,
+          "lon": 121.53569166667,
+          "geo": "venue"
         }
       ]
     },
@@ -72,7 +75,10 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "高山劇場"
+          "venue": "高山劇場",
+          "lat": 22.3135895,
+          "lon": 114.185635,
+          "geo": "venue"
         }
       ]
     },
@@ -102,7 +108,10 @@
           "precision": "year",
           "region": "臺灣",
           "city": "臺北",
-          "venue": ""
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -134,7 +143,10 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "香港國際展貿中心"
+          "venue": "香港國際展貿中心",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
         }
       ]
     },
@@ -166,7 +178,10 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "伊利沙伯體育館"
+          "venue": "伊利沙伯體育館",
+          "lat": 22.275,
+          "lon": 114.179,
+          "geo": "venue"
         }
       ]
     },
@@ -198,7 +213,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺南",
-          "venue": "臺南市政府廣場"
+          "venue": "臺南市政府廣場",
+          "lat": 22.99,
+          "lon": 120.185,
+          "geo": "city"
         }
       ]
     },
@@ -230,7 +248,10 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "香港理工大學"
+          "venue": "香港理工大學",
+          "lat": 22.305,
+          "lon": 114.18,
+          "geo": "venue"
         }
       ]
     },
@@ -262,7 +283,10 @@
           "precision": "day",
           "region": "美國",
           "city": "洛杉磯",
-          "venue": "聖殿劇院"
+          "venue": "聖殿劇院",
+          "lat": 34.02333333333333,
+          "lon": -118.28166666666667,
+          "geo": "venue"
         }
       ]
     },
@@ -312,7 +336,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "中影文化城"
+          "venue": "中影文化城",
+          "lat": 25.09697778,
+          "lon": 121.54534722,
+          "geo": "venue"
         }
       ]
     },
@@ -344,7 +371,10 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "虹口足球場"
+          "venue": "虹口足球場",
+          "lat": 31.2733,
+          "lon": 121.4762,
+          "geo": "venue"
         }
       ]
     },
@@ -376,7 +406,10 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "首都體育館"
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
         }
       ]
     },
@@ -419,49 +452,70 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館 （首次四面臺）"
+          "venue": "紅磡體育館 （首次四面臺）",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2005-06-11",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館 （首次四面臺）"
+          "venue": "紅磡體育館 （首次四面臺）",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2005-09-24",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "成都市體育中心體育場"
+          "venue": "成都市體育中心體育場",
+          "lat": 30.66555556,
+          "lon": 104.06472222,
+          "geo": "venue"
         },
         {
           "date": "2005-09-30",
           "precision": "day",
           "region": "中國大陸",
           "city": "杭州",
-          "venue": "黃龍體育中心體育場"
+          "venue": "黃龍體育中心體育場",
+          "lat": 30.2683,
+          "lon": 120.129,
+          "geo": "venue"
         },
         {
           "date": "2005-10-29",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "虹口足球場"
+          "venue": "虹口足球場",
+          "lat": 31.2733,
+          "lon": 121.4762,
+          "geo": "venue"
         },
         {
           "date": "2005-11-05",
           "precision": "day",
           "region": "中國大陸",
           "city": "南京",
-          "venue": "南京奧林匹克體育中心體育場"
+          "venue": "南京奧林匹克體育中心體育場",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
         },
         {
           "date": "2005-11-12",
           "precision": "day",
           "region": "中國大陸",
           "city": "蘇州",
-          "venue": "蘇州體育中心"
+          "venue": "蘇州體育中心",
+          "lat": 31.296538888889,
+          "lon": 120.57308333333,
+          "geo": "venue"
         }
       ]
     },
@@ -493,7 +547,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         }
       ]
     },
@@ -525,7 +582,10 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海大舞臺"
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
         }
       ]
     },
@@ -557,7 +617,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北LUXY"
+          "venue": "臺北LUXY",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -589,7 +652,10 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海音樂廳"
+          "venue": "上海音樂廳",
+          "lat": 31.22888888888889,
+          "lon": 121.47333333333333,
+          "geo": "venue"
         }
       ]
     },
@@ -652,81 +718,70 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "工人體育館"
+          "venue": "工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
         },
         {
           "date": "2009-12-26",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海大舞臺"
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
         },
         {
           "date": "2010-05-29",
           "precision": "day",
           "region": "中國大陸",
           "city": "昆明",
-          "venue": "新亞洲體育館"
+          "venue": "新亞洲體育館",
+          "lat": 25.043333333333,
+          "lon": 102.70611111111,
+          "geo": "city"
         },
         {
           "date": "2010-12-18",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "四川省體育館"
+          "venue": "四川省體育館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2010-12-24",
           "precision": "day",
           "region": "中國大陸",
           "city": "長沙",
-          "venue": "湖南國際會展中心"
+          "venue": "湖南國際會展中心",
+          "lat": 28.237784,
+          "lon": 113.043576,
+          "geo": "venue"
         },
         {
           "date": "2011-07-09",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州體育館"
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
         },
         {
           "date": "2011-08-06",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
-        }
-      ]
-    },
-    {
-      "name": "草莓音樂節",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2010-05-16",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2010-05-16",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "中國大陸"
-      ],
-      "cities": [
-        "西安"
-      ],
-      "venues": [
-        "大唐芙蓉園"
-      ],
-      "shows": [
-        {
-          "date": "2010-05-16",
-          "precision": "day",
-          "region": "中國大陸",
-          "city": "西安",
-          "venue": "大唐芙蓉園"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         }
       ]
     },
@@ -758,7 +813,10 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "九龍灣國際展貿中心"
+          "venue": "九龍灣國際展貿中心",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
         }
       ]
     },
@@ -790,7 +848,10 @@
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "克拉碼頭-Shanghai Dolly"
+          "venue": "克拉碼頭-Shanghai Dolly",
+          "lat": 1.28838,
+          "lon": 103.84653,
+          "geo": "venue"
         }
       ]
     },
@@ -822,103 +883,10 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "北京工人體育場"
-        }
-      ]
-    },
-    {
-      "name": "爵士上海音樂節",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2012-10-20",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-10-20",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "中國大陸"
-      ],
-      "cities": [
-        "上海"
-      ],
-      "venues": [
-        "上海世博公園"
-      ],
-      "shows": [
-        {
-          "date": "2012-10-20",
-          "precision": "day",
-          "region": "中國大陸",
-          "city": "上海",
-          "venue": "上海世博公園"
-        }
-      ]
-    },
-    {
-      "name": "簡單生活節",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2012-12-01",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-12-01",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "臺灣"
-      ],
-      "cities": [
-        "臺北"
-      ],
-      "venues": [
-        "華山藝文特區"
-      ],
-      "shows": [
-        {
-          "date": "2012-12-01",
-          "precision": "day",
-          "region": "臺灣",
-          "city": "臺北",
-          "venue": "華山藝文特區"
-        }
-      ]
-    },
-    {
-      "name": "Karen Mok Showcase",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2013-05-30",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2013-05-30",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "United Kingdom"
-      ],
-      "cities": [
-        "倫敦"
-      ],
-      "venues": [
-        "朗尼史葛爵士樂俱樂部"
-      ],
-      "shows": [
-        {
-          "date": "2013-05-30",
-          "precision": "day",
-          "region": "United Kingdom",
-          "city": "倫敦",
-          "venue": "朗尼史葛爵士樂俱樂部"
+          "venue": "北京工人體育場",
+          "lat": 39.92952777777778,
+          "lon": 116.44113888888889,
+          "geo": "venue"
         }
       ]
     },
@@ -983,196 +951,280 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海文化廣場"
+          "venue": "上海文化廣場",
+          "lat": 31.214,
+          "lon": 121.458,
+          "geo": "venue"
         },
         {
           "date": "2013-11-09",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海文化廣場"
+          "venue": "上海文化廣場",
+          "lat": 31.214,
+          "lon": 121.458,
+          "geo": "venue"
         },
         {
           "date": "2013-11-10",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海文化廣場"
+          "venue": "上海文化廣場",
+          "lat": 31.214,
+          "lon": 121.458,
+          "geo": "venue"
         },
         {
           "date": "2013-12-07",
           "precision": "day",
           "region": "中國大陸",
           "city": "重慶",
-          "venue": "重慶市人民大禮堂"
+          "venue": "重慶市人民大禮堂",
+          "lat": 29.56445888888889,
+          "lon": 106.55029305555556,
+          "geo": "venue"
         },
         {
           "date": "2013-12-20",
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "北京展覽館"
+          "venue": "北京展覽館",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
         },
         {
           "date": "2013-12-21",
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "北京展覽館"
+          "venue": "北京展覽館",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
         },
         {
           "date": "2014-01-04",
           "precision": "day",
           "region": "中國大陸",
           "city": "深圳",
-          "venue": "保利劇院"
+          "venue": "保利劇院",
+          "lat": 39.933219,
+          "lon": 116.429592,
+          "geo": "venue"
         },
         {
           "date": "2014-01-05",
           "precision": "day",
           "region": "中國大陸",
           "city": "深圳",
-          "venue": "保利劇院"
+          "venue": "保利劇院",
+          "lat": 39.933219,
+          "lon": 116.429592,
+          "geo": "venue"
         },
         {
           "date": "2014-01-17",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州中山紀念堂"
+          "venue": "廣州中山紀念堂",
+          "lat": 23.136080555555555,
+          "lon": 113.25935833333334,
+          "geo": "venue"
         },
         {
           "date": "2014-01-18",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州中山紀念堂"
+          "venue": "廣州中山紀念堂",
+          "lat": 23.136080555555555,
+          "lon": 113.25935833333334,
+          "geo": "venue"
         },
         {
           "date": "2014-02-14",
           "precision": "day",
           "region": "中國大陸",
           "city": "寧波",
-          "venue": "寧波大劇院"
+          "venue": "寧波大劇院",
+          "lat": 29.89456388888889,
+          "lon": 121.54391666666666,
+          "geo": "venue"
         },
         {
           "date": "2014-02-15",
           "precision": "day",
           "region": "中國大陸",
           "city": "寧波",
-          "venue": "寧波大劇院"
+          "venue": "寧波大劇院",
+          "lat": 29.89456388888889,
+          "lon": 121.54391666666666,
+          "geo": "venue"
         },
         {
           "date": "2014-02-21",
           "precision": "day",
           "region": "中國大陸",
           "city": "杭州",
-          "venue": "杭州人民大會堂"
+          "venue": "杭州人民大會堂",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "venue"
         },
         {
           "date": "2014-02-22",
           "precision": "day",
           "region": "中國大陸",
           "city": "杭州",
-          "venue": "杭州人民大會堂"
+          "venue": "杭州人民大會堂",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "venue"
         },
         {
           "date": "2014-03-01",
           "precision": "day",
           "region": "中國大陸",
           "city": "南京",
-          "venue": "南京人民大會堂"
+          "venue": "南京人民大會堂",
+          "lat": 32.0458,
+          "lon": 118.788,
+          "geo": "venue"
         },
         {
           "date": "2014-04-25",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "錦城藝術館"
+          "venue": "錦城藝術館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2014-04-26",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "錦城藝術館"
+          "venue": "錦城藝術館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2014-05-24",
           "precision": "day",
           "region": "中國大陸",
           "city": "常州",
-          "venue": "常州大劇院"
+          "venue": "常州大劇院",
+          "lat": 31.812166666666666,
+          "lon": 119.96916666666667,
+          "geo": "city"
         },
         {
           "date": "2014-06-20",
           "precision": "day",
           "region": "中國大陸",
           "city": "長沙",
-          "venue": "湖南大劇院"
+          "venue": "湖南大劇院",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "city"
         },
         {
           "date": "2014-06-21",
           "precision": "day",
           "region": "中國大陸",
           "city": "長沙",
-          "venue": "湖南大劇院"
+          "venue": "湖南大劇院",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "city"
         },
         {
           "date": "2014-06-28",
           "precision": "day",
           "region": "中國大陸",
           "city": "汕頭",
-          "venue": "汕頭林百欣會展中心"
+          "venue": "汕頭林百欣會展中心",
+          "lat": 23.35388888888889,
+          "lon": 116.68222222222222,
+          "geo": "city"
         },
         {
           "date": "2014-07-18",
           "precision": "day",
           "region": "中國大陸",
           "city": "青島",
-          "venue": "青島大劇院"
+          "venue": "青島大劇院",
+          "lat": 36.116666666667,
+          "lon": 120.4,
+          "geo": "city"
         },
         {
           "date": "2014-07-19",
           "precision": "day",
           "region": "中國大陸",
           "city": "青島",
-          "venue": "青島大劇院"
+          "venue": "青島大劇院",
+          "lat": 36.116666666667,
+          "lon": 120.4,
+          "geo": "city"
         },
         {
           "date": "2014-07-26",
           "precision": "day",
           "region": "中國大陸",
           "city": "鄭州",
-          "venue": "鄭州國際會展中心"
+          "venue": "鄭州國際會展中心",
+          "lat": 34.74919,
+          "lon": 113.66051,
+          "geo": "city"
         },
         {
           "date": "2014-09-19",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海大舞臺"
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
         },
         {
           "date": "2014-09-27",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "國父紀念館"
+          "venue": "國父紀念館",
+          "lat": 25.04,
+          "lon": 121.56,
+          "geo": "venue"
         },
         {
           "date": "2015-01-30",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人劇院"
+          "venue": "威尼斯人劇院",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
         },
         {
           "date": "2015-01-31",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人劇院"
+          "venue": "威尼斯人劇院",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
         }
       ]
     },
@@ -1204,7 +1256,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "國立國父紀念館"
+          "venue": "國立國父紀念館",
+          "lat": 25.04,
+          "lon": 121.56,
+          "geo": "venue"
         }
       ]
     },
@@ -1254,7 +1309,10 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "凱迪拉克中心"
+          "venue": "凱迪拉克中心",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
         }
       ]
     },
@@ -1304,7 +1362,10 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "世紀財富中心"
+          "venue": "世紀財富中心",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
         }
       ]
     },
@@ -1389,134 +1450,6 @@
       "cities": [],
       "venues": [],
       "shows": []
-    },
-    {
-      "name": "T次方音樂與藝術節",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2025-05-18",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2025-05-18",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "中國大陸"
-      ],
-      "cities": [
-        "貴陽"
-      ],
-      "venues": [
-        "多彩貴州城3號廣場"
-      ],
-      "shows": [
-        {
-          "date": "2025-05-18",
-          "precision": "day",
-          "region": "中國大陸",
-          "city": "貴陽",
-          "venue": "多彩貴州城3號廣場"
-        }
-      ]
-    },
-    {
-      "name": "蝦米音樂節",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2025-08-30",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2025-08-30",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "中國大陸"
-      ],
-      "cities": [
-        "秦皇島市"
-      ],
-      "venues": [
-        "阿那亞"
-      ],
-      "shows": [
-        {
-          "date": "2025-08-30",
-          "precision": "day",
-          "region": "中國大陸",
-          "city": "秦皇島市",
-          "venue": "阿那亞"
-        }
-      ]
-    },
-    {
-      "name": "汽水音樂嘉年華",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2025-10-26",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2025-10-26",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "中國大陸"
-      ],
-      "cities": [
-        "南京"
-      ],
-      "venues": [
-        "建鄴區江心洲生態科技島"
-      ],
-      "shows": [
-        {
-          "date": "2025-10-26",
-          "precision": "day",
-          "region": "中國大陸",
-          "city": "南京",
-          "venue": "建鄴區江心洲生態科技島"
-        }
-      ]
-    },
-    {
-      "name": "揚州棗林灣音樂節",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2026-05-23",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2026-05-23",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "中國大陸"
-      ],
-      "cities": [
-        "揚州"
-      ],
-      "venues": [
-        "揚州世博園"
-      ],
-      "shows": [
-        {
-          "date": "2026-05-23",
-          "precision": "day",
-          "region": "中國大陸",
-          "city": "揚州",
-          "venue": "揚州世博園"
-        }
-      ]
     }
   ]
 }

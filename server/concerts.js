@@ -5,11 +5,12 @@
 //  1. 巡演條目：資訊框（Infobox concert tour）的起訖日期、場數，與條目裡的場次表
 //  2. 「○○演唱會列表」頁：每個巡演一個章節，章節底下是場次表
 //  3. 歌手條目的演唱會章節：表格（名稱／年份／場數…）或條列（「《妹力四射演唱會》（1998）」）
+import { CONCERT_OVERRIDES } from './concert-overrides.js'
 import { wikiApi, getJson, fetchPages, toPlain, parseDate, readTables, normalizeTitle, toTW, similarity, nameToTW } from './wiki.js'
 
 const CONCERT_RE = /演唱會|演唱会|巡迴|巡回|巡演|音樂會|音乐会|唱談會|唱谈会|\btour\b|concert/i
 // 不是自己的演唱會，或是演唱會的影音、電影
-const NOT_CONCERT_RE = /嘉賓|嘉宾|客串|助陣|助阵|參與演出|参与演出|拼盤|拼盘|影音|專輯|专辑|電影|电影|DVD|藍光|蓝光|獲獎|获奖|得獎|得奖|節目|节目|音樂劇|音乐剧|參考|参考|外部連結|外部链接|註釋|注释|腳註|脚注|相關條目|相关条目|歌單|歌单|曲目|現場表演|现场表演/i
+const NOT_CONCERT_RE = /嘉賓|嘉宾|客串|助陣|助阵|參與演出|参与演出|拼盤|拼盘|影音|專輯|专辑|電影|电影|DVD|藍光|蓝光|獲獎|获奖|得獎|得奖|節目|节目|音樂劇|音乐剧|參考|参考|外部連結|外部链接|註釋|注释|腳註|脚注|相關條目|相关条目|歌單|歌单|曲目|現場表演|现场表演|其他演出|其它演出|演出活動|演出活动|音樂祭|音乐祭|音樂節|音乐节/i
 
 // ---------- 文字 ----------
 
@@ -52,6 +53,7 @@ function cleanName(text) {
     .replace(/[（(]\s*(?:共\s*)?\d+\s*[場场][^）)]*[）)]/g, '')
     .replace(/[（(][^）)]*(?:19|20)\d{2}[^）)]*[）)]/g, '')
     .replace(/^\s*(?:19|20)\d{2}\s*[-/.年]\s*\d{1,2}\s*(?:[-/.月]\s*\d{1,2}\s*日?)?\s*[：:]\s*(?:跟|與|和|在)?/, '')
+    .replace(/^\s*(?:19|20)\d{2}\/\d{1,2}(?:\/\d{1,2})?\s*/, '')
     .replace(/^\s*(?:19|20)\d{2}(?:\s*[-–—－~～至]\s*(?:(?:19|20)?\d{2}|今|至今))?\s*年?\s*/, '')
     .replace(/^\s*第[一二三四五六七八九十\d]+(?:階段|阶段|部分|章)\s*[:：]?\s*/, '')
     .replace(/[《》「」〈〉]/g, '')
@@ -183,8 +185,12 @@ function parseTourTable(header, rows, context) {
     }
     if (context.name) start(context.name, context.page)
     // 城市與場館分開兩欄；只有一欄「地點」時寫法是「臺灣 臺北，台北小巨蛋」
+    // 格子裡連到的條目（查座標用，比純文字準）
+    const link = (row, i) => (i >= 0 && row[i] != null ? String(row[i]).match(/\[\[([^\]|#]+)/)?.[1]?.trim() ?? '' : '')
     const place = (row) => {
-      if (cityCol !== venueCol) return { region: cell(row, regionCol), city: cell(row, cityCol), venue: cell(row, venueCol) }
+      if (cityCol !== venueCol) {
+        return { region: cell(row, regionCol), city: cell(row, cityCol), venue: cell(row, venueCol), cityPage: link(row, cityCol), venuePage: link(row, venueCol) }
+      }
       let text = cell(row, cityCol)
       let region = cell(row, regionCol)
       const lead = Object.values(REGIONS).find((r) => text.startsWith(r))
@@ -193,7 +199,10 @@ function parseTourTable(header, rows, context) {
         text = text.slice(lead.length).trim()
       }
       const [city, ...rest] = text.split(/\s*[，,、]\s*/)
-      return { region, city: rest.length ? city : '', venue: rest.length ? rest.join('，') : city }
+      const links = [...String(row[cityCol] ?? '').matchAll(/\[\[([^\]|#]+)/g)].map((m) => m[1].trim())
+      return rest.length
+        ? { region, city, venue: rest.join('，'), cityPage: links.length > 1 ? links[0] : '', venuePage: links.at(-1) ?? '' }
+        : { region, city: '', venue: city, cityPage: '', venuePage: links.at(-1) ?? '' }
     }
     for (const row of rows) {
       const filled = row.filter((c) => cellText(c))
@@ -360,6 +369,91 @@ function finalize(tour) {
   }
 }
 
+/** 手動補充（concert-overrides.js）：名稱相近的併進同一個演唱會，找不到就新增 */
+function applyOverrides(tours, overrides, artistKeys) {
+  for (const o of overrides) {
+    const shows = (o.shows ?? []).map((s) => ({
+      date: s.date.length === 7 ? `${s.date}-01` : s.date,
+      precision: s.date.length === 7 ? 'month' : 'day',
+      region: s.region ?? '',
+      city: s.city ?? '',
+      venue: s.venue ?? '',
+    }))
+    const key = tourKey(o.tour, artistKeys)
+    const target = tours.find((t) => t.key === key || similarity(t.key, key) >= 0.8)
+    if (target) {
+      target.shows.push(...shows)
+      target.showCount = Math.max(target.showCount ?? 0, target.shows.length) || null
+    } else {
+      tours.push({ name: o.tour, key, page: null, start: null, end: null, showCount: null, shows })
+    }
+  }
+  return tours
+}
+
+// ---------- 座標（地圖用） ----------
+
+const coordCache = new Map() // 條目名稱 → { lat, lon } | null（同一次執行裡各歌手共用）
+
+/**
+ * 查一批 Wikipedia 條目的座標：條目的 Wikidata 項目「座標位置」（P625）；
+ * 中文條目多半把座標放在 Wikidata，不是 {{coord}}。跟著重新導向，繁簡標題自動轉換；消歧義頁、沒有座標的記 null
+ */
+async function lookupCoords(titles) {
+  const todo = [...new Set(titles)].filter((t) => t && t.length <= 80 && !/[[\]{}|#<>]/.test(t) && !coordCache.has(t))
+  const qidOf = new Map() // 查詢的名稱 → Wikidata 項目
+  for (let i = 0; i < todo.length; i += 50) {
+    const batch = todo.slice(i, i + 50)
+    const json = await wikiApi({ action: 'query', prop: 'pageprops', ppprop: 'wikibase_item', redirects: '1', converttitles: '1', titles: batch.join('|') })
+    const alias = new Map()
+    for (const n of [...(json.query?.normalized ?? []), ...(json.query?.converted ?? []), ...(json.query?.redirects ?? [])]) alias.set(n.from, n.to)
+    const items = new Map((json.query?.pages ?? []).map((p) => [p.title, p.pageprops?.wikibase_item ?? null]))
+    for (const t of batch) {
+      let to = t
+      for (let k = 0; k < 4 && alias.has(to); k++) to = alias.get(to)
+      const qid = items.get(to)
+      if (qid) qidOf.set(t, qid)
+      else coordCache.set(t, null)
+    }
+  }
+  const qids = [...new Set(qidOf.values())]
+  const coords = new Map()
+  for (let i = 0; i < qids.length; i += 50) {
+    const ids = qids.slice(i, i + 50).join('|')
+    const json = await getJson(`https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&props=claims&ids=${ids}`)
+    for (const [qid, entity] of Object.entries(json.entities ?? {})) {
+      const v = entity.claims?.P625?.find((c) => c.rank !== 'deprecated')?.mainsnak?.datavalue?.value
+      coords.set(qid, v ? { lat: v.latitude, lon: v.longitude } : null)
+    }
+  }
+  for (const [t, qid] of qidOf) coordCache.set(t, coords.get(qid) ?? null)
+}
+
+/** 替每一場補上座標：優先用場館，找不到用城市（「臺北」是消歧義頁，再試「臺北市」） */
+async function addCoords(tours) {
+  const shows = tours.flatMap((t) => t.shows)
+  const candidates = (s) => [
+    ['venue', s.venuePage],
+    ['venue', s.venue],
+    ['city', s.cityPage],
+    ['city', s.city],
+    ['city', s.city && !/[市縣县州區区]$/.test(s.city) ? `${s.city}市` : ''],
+    ['city', s.city ? toTW(s.city.replace(/^.*?(?:省|自治區|自治区|州)/, '')) : ''],
+  ].filter(([, t]) => t)
+  await lookupCoords(shows.flatMap((s) => candidates(s).map(([, t]) => t)))
+  let located = 0
+  for (const s of shows) {
+    const hit = candidates(s).find(([, t]) => coordCache.get(t))
+    if (hit) {
+      Object.assign(s, coordCache.get(hit[1]), { geo: hit[0] })
+      located++
+    }
+    delete s.cityPage
+    delete s.venuePage
+  }
+  return { located, total: shows.length }
+}
+
 // ---------- Wikidata：出生、逝世、成立、解散 ----------
 
 async function fetchBio(qid) {
@@ -424,7 +518,8 @@ export async function fetchConcerts(artistConfig, log = () => {}) {
       if (!isConcertSection(sec.path, page.list)) continue
       const mainLink = sec.text.match(/\{\{\s*main\s*\|([^}|]+)/i)?.[1]?.trim()
       const context = {
-        name: page.list && sec.path.length ? cleanName(sec.path.at(-1)) : null,
+        // 列表頁的章節標題、歌手條目演唱會章節底下的小節標題（「====想妳的彼暗 巡迴演唱會====」）就是演唱會名稱
+        name: (page.list && sec.path.length) || sec.path.length >= 2 ? cleanName(sec.path.at(-1)) : null,
         page: mainLink ? toTW(mainLink) : null,
       }
       if (context.name && !CONCERT_RE.test(sec.path.at(-1) ?? '') && !/(?:19|20)\d{2}/.test(sec.path.at(-1) ?? '')) context.name = null
@@ -465,11 +560,14 @@ export async function fetchConcerts(artistConfig, log = () => {}) {
   const named = found.filter(
     (t) => !/^(?:其餘|其他|其它|總計|合計|共計|小計)|紀錄保持|記錄保持|最高紀錄/.test(t.name) && tourKey(t.name, artistKeys).length >= 2,
   )
-  result.tours = mergeTours(named, artistKeys)
+  result.tours = applyOverrides(mergeTours(named, artistKeys), CONCERT_OVERRIDES[artistConfig.slug] ?? [], artistKeys)
     .map(finalize)
     .filter(Boolean)
     .sort((a, b) => a.start.date.localeCompare(b.start.date) || a.name.localeCompare(b.name))
-  const shows = result.tours.reduce((n, t) => n + t.shows.length, 0)
-  log(`  演唱會：${result.tours.length} 個（${fromPages} 個有條目、${shows} 場有場次資料），來源 ${pages.length} 頁`)
+  const { located, total } = await addCoords(result.tours).catch((err) => {
+    log(`  座標查詢失敗：${err.message}`)
+    return { located: 0, total: 0 }
+  })
+  log(`  演唱會：${result.tours.length} 個（${fromPages} 個有條目、${total} 場有場次資料、${located} 場有座標），來源 ${pages.length} 頁`)
   return result
 }

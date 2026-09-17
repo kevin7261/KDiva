@@ -1,6 +1,6 @@
 {
   "slug": "stella-chang",
-  "fetchedAt": "2026-09-17T12:27:35.084Z",
+  "fetchedAt": "2026-09-17T13:01:26.362Z",
   "wiki": "張清芳",
   "bio": {
     "born": {
@@ -40,7 +40,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北體專體育館"
+          "venue": "臺北體專體育館",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -74,14 +77,20 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北市立體育場"
+          "venue": "臺北市立體育場",
+          "lat": 25.049444,
+          "lon": 121.551111,
+          "geo": "venue"
         },
         {
           "date": "1993-01-20",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄市立中山體育場"
+          "venue": "高雄市立中山體育場",
+          "lat": 22.62540833,
+          "lon": 120.33483611,
+          "geo": "venue"
         }
       ]
     },
@@ -118,21 +127,30 @@
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄市立中山體育場"
+          "venue": "高雄市立中山體育場",
+          "lat": 22.62540833,
+          "lon": 120.33483611,
+          "geo": "venue"
         },
         {
           "date": "1995-01-21",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北市立體育場"
+          "venue": "臺北市立體育場",
+          "lat": 25.049444,
+          "lon": 121.551111,
+          "geo": "venue"
         },
         {
           "date": "1995-06-24",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "HarbourFront Centre"
+          "venue": "HarbourFront Centre",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
         }
       ]
     },
@@ -164,14 +182,20 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北國際會議中心"
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
         },
         {
           "date": "2003-01-10",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北國際會議中心"
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
         }
       ]
     },
@@ -207,28 +231,40 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2010-12-12",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2010-12-18",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄巨蛋"
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         },
         {
           "date": "2010-12-19",
           "precision": "day",
           "region": "臺灣",
           "city": "臺中",
-          "venue": "圓滿戶外劇場"
+          "venue": "圓滿戶外劇場",
+          "lat": 24.145,
+          "lon": 120.645,
+          "geo": "venue"
         }
       ]
     },
@@ -265,28 +301,40 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2015-12-27",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2016-01-09",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄巨蛋"
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         },
         {
           "date": "2016-01-30",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "新加坡室內體育館"
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
         }
       ]
     },
@@ -327,49 +375,70 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2023-06-11",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2024-03-02",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄巨蛋"
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         },
         {
           "date": "2024-08-10",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "星宇表演藝術中心"
+          "venue": "星宇表演藝術中心",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
         },
         {
           "date": "2024-09-28",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海市",
-          "venue": "交通銀行前灘31演藝中心"
+          "venue": "交通銀行前灘31演藝中心",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
         },
         {
           "date": "2024-10-19",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2026-07-11",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "聖淘沙名勝世界宴會廳"
+          "venue": "聖淘沙名勝世界宴會廳",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
         }
       ]
     },
@@ -401,7 +470,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         }
       ]
     }

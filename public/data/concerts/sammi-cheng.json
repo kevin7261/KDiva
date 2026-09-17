@@ -1,6 +1,6 @@
 {
   "slug": "sammi-cheng",
-  "fetchedAt": "2026-09-17T12:28:40.315Z",
+  "fetchedAt": "2026-09-17T13:04:01.744Z",
   "wiki": "鄭秀文",
   "bio": {
     "born": {
@@ -49,6 +49,194 @@
       "shows": []
     },
     {
+      "name": "大型世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1997-11-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-07-31",
+        "precision": "day"
+      },
+      "showCount": 14,
+      "regions": [],
+      "cities": [
+        "香港",
+        "馬來西亞 莎阿南",
+        "新加坡",
+        "加拿大 溫哥華",
+        "加拿大 多倫多",
+        "美國 大西洋城",
+        "美國 奧克蘭",
+        "美國 洛杉磯",
+        "澳洲 墨爾本",
+        "澳洲 悉尼",
+        "澳洲 布里斯班",
+        "奧克蘭",
+        "美國 拉斯維加斯",
+        "中國大陸 廣州"
+      ],
+      "venues": [
+        "紅磡體育館",
+        "莎阿南體育場",
+        "新加坡室內體育館",
+        "Queen Elizabeth Theatre",
+        "Massey Hall",
+        "印度宮殿豪華大賭場體育館",
+        "凱撒藝術中心",
+        "聖殿劇院",
+        "雪梨娛樂中心",
+        "Brisbane Convention & Exhibition Centre",
+        "Logan Campbell Centre",
+        "Mandalay Bay Resort & Casino",
+        "天河體育場"
+      ],
+      "shows": [
+        {
+          "date": "1997-11-01",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "1998-03-01",
+          "precision": "month",
+          "region": "",
+          "city": "馬來西亞 莎阿南",
+          "venue": "莎阿南體育場",
+          "lat": 3.08225,
+          "lon": 101.544944,
+          "geo": "venue"
+        },
+        {
+          "date": "1998-03-01",
+          "precision": "month",
+          "region": "",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "1998-04-01",
+          "precision": "day",
+          "region": "",
+          "city": "加拿大 溫哥華",
+          "venue": "Queen Elizabeth Theatre",
+          "lat": 49.28031,
+          "lon": -123.11316,
+          "geo": "venue"
+        },
+        {
+          "date": "1998-04-01",
+          "precision": "month",
+          "region": "",
+          "city": "加拿大 多倫多",
+          "venue": "Massey Hall",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1998-04-01",
+          "precision": "month",
+          "region": "",
+          "city": "美國 大西洋城",
+          "venue": "印度宮殿豪華大賭場體育館",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "city"
+        },
+        {
+          "date": "1998-04-17",
+          "precision": "day",
+          "region": "",
+          "city": "美國 奧克蘭",
+          "venue": "凱撒藝術中心",
+          "lat": 37.8,
+          "lon": -122.25,
+          "geo": "city"
+        },
+        {
+          "date": "1998-04-18",
+          "precision": "day",
+          "region": "",
+          "city": "美國 洛杉磯",
+          "venue": "聖殿劇院",
+          "lat": 34.02333333333333,
+          "lon": -118.28166666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "1998-06-19",
+          "precision": "day",
+          "region": "",
+          "city": "澳洲 墨爾本",
+          "venue": "",
+          "lat": -37.814166666666665,
+          "lon": 144.96305555555554,
+          "geo": "city"
+        },
+        {
+          "date": "1998-06-20",
+          "precision": "day",
+          "region": "",
+          "city": "澳洲 悉尼",
+          "venue": "雪梨娛樂中心",
+          "lat": -33.878333,
+          "lon": 151.202778,
+          "geo": "venue"
+        },
+        {
+          "date": "1998-06-22",
+          "precision": "day",
+          "region": "",
+          "city": "澳洲 布里斯班",
+          "venue": "Brisbane Convention & Exhibition Centre",
+          "lat": -27.476389,
+          "lon": 153.018333,
+          "geo": "venue"
+        },
+        {
+          "date": "1998-06-24",
+          "precision": "day",
+          "region": "",
+          "city": "奧克蘭",
+          "venue": "Logan Campbell Centre",
+          "lat": -36.84916666666667,
+          "lon": 174.76527777777778,
+          "geo": "city"
+        },
+        {
+          "date": "1999-05-29",
+          "precision": "day",
+          "region": "",
+          "city": "美國 拉斯維加斯",
+          "venue": "Mandalay Bay Resort & Casino",
+          "lat": 36.16722222222222,
+          "lon": -115.14861111111111,
+          "geo": "city"
+        },
+        {
+          "date": "1999-07-31",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣州",
+          "venue": "天河體育場",
+          "lat": 23.14052,
+          "lon": 113.31934,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
       "name": "Sammi iConcert 99",
       "page": null,
       "kind": "concert",
@@ -67,24 +255,6 @@
       "shows": []
     },
     {
-      "name": "夏日Fiesta劉德華演唱會2001",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2001-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2001-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
       "name": "鄭秀文 Shocking Colors演唱會 2001",
       "page": null,
       "kind": "concert",
@@ -97,78 +267,6 @@
         "precision": "month"
       },
       "showCount": 12,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "Fancl 梁詠琪G For Girl Live 2002",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2002-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2002-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "二人之重唱2002演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2002-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2002-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "汪明荃明荃明曲明星2003演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2003-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2003-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "百事Blue Power慈善演唱會2003",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2003-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2003-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
       "regions": [],
       "cities": [],
       "venues": [],
@@ -205,42 +303,6 @@
         "precision": "month"
       },
       "showCount": 8,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "IFPI香港唱片銷量大獎頒獎禮2008",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2008-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2008-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "何韻詩演唱會2009",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2009-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2009-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
       "regions": [],
       "cities": [],
       "venues": [],
@@ -307,525 +369,312 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2009-12-25",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2009-12-26",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2009-12-27",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2009-12-28",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2009-12-29",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2009-12-31",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2010-01-01",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2010-01-02",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2010-01-03",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2010-03-19",
           "precision": "day",
           "region": "馬來西亞",
           "city": "馬來西亞",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
         },
         {
           "date": "2010-03-20",
           "precision": "day",
           "region": "馬來西亞",
           "city": "馬來西亞",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
         },
         {
           "date": "2010-04-02",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "新加坡室內體育館"
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
         },
         {
           "date": "2010-04-30",
           "precision": "day",
           "region": "澳洲",
           "city": "悉尼",
-          "venue": "雪梨娛樂中心"
+          "venue": "雪梨娛樂中心",
+          "lat": -33.878333,
+          "lon": 151.202778,
+          "geo": "venue"
         },
         {
           "date": "2010-07-03",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2010-07-17",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海大舞臺"
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
         },
         {
           "date": "2010-08-14",
           "precision": "day",
           "region": "中國大陸",
           "city": "佛山",
-          "venue": "嶺南明珠體育館"
+          "venue": "嶺南明珠體育館",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
         },
         {
           "date": "2010-08-21",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州體育館"
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
         },
         {
           "date": "2010-11-06",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "新加坡室內體育館"
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
         },
         {
           "date": "2010-12-20",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "澳門奧林匹克體育運動場"
+          "venue": "澳門奧林匹克體育運動場",
+          "lat": 22.154523,
+          "lon": 113.553266,
+          "geo": "venue"
         },
         {
           "date": "2011-03-18",
           "precision": "day",
           "region": "馬來西亞",
           "city": "馬來西亞",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
         },
         {
           "date": "2011-03-19",
           "precision": "day",
           "region": "馬來西亞",
           "city": "馬來西亞",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
         },
         {
           "date": "2011-07-09",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "澳門威尼斯人金光綜藝館"
+          "venue": "澳門威尼斯人金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2011-07-10",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "澳門威尼斯人金光綜藝館"
+          "venue": "澳門威尼斯人金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2011-10-21",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州體育館"
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
         },
         {
           "date": "2011-10-22",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州體育館"
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
         },
         {
           "date": "2011-11-24",
           "precision": "day",
           "region": "美國",
           "city": "大西洋城",
-          "venue": "Borgata Event Center"
+          "venue": "Borgata Event Center",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "city"
         },
         {
           "date": "2011-11-26",
           "precision": "day",
           "region": "美國",
           "city": "拉斯維加斯",
-          "venue": "Mirage Event Center"
+          "venue": "Mirage Event Center",
+          "lat": 36.16722222222222,
+          "lon": -115.14861111111111,
+          "geo": "city"
         },
         {
           "date": "2011-11-30",
           "precision": "day",
           "region": "加拿大",
           "city": "多倫多",
-          "venue": "華瑪娛樂演奏廳"
+          "venue": "華瑪娛樂演奏廳",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
         },
         {
           "date": "2011-12-03",
           "precision": "day",
           "region": "加拿大",
           "city": "溫哥華",
-          "venue": "Rogers Arena"
+          "venue": "Rogers Arena",
+          "lat": 49.277777777778,
+          "lon": -123.10888888889,
+          "geo": "venue"
         },
         {
           "date": "2011-12-10",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "澳門威尼斯人金光綜藝館"
+          "venue": "澳門威尼斯人金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         }
       ]
-    },
-    {
-      "name": "Johnnie Walker 2010中國之旅上海站",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "劉德華Unforgettable演唱會2010",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "太陽計劃 2010會考放榜打氣大會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "答案就是…孫燕姿世界巡迴演唱會2010",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "舞法舞天3D WORLD LIVE世界巡迴演唱會",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "軒尼詩炫音之樂2010",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2010-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "基會難德世界巡迴演唱會2011",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "湖南衛視給力2011跨年演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "老友記群星演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "青島國際海洋節開幕式",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "非常完美深圳演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2011-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "上海白色時尚音樂節",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2012-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2012-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "梁漢文2012 Big Man演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2012-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2012-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "群星輝璀盛世慈谿香港群星演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2013-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2013-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "金牡丹之夜”-亞洲群星演唱會暨傑力酒行開業慶典演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2013-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2013-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "小鳳姐走過順逆流，依然金光燦爛徐小鳳2014演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2014-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2014-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "衛蘭 Walking to the future 2014紅館演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2014-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2014-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
     },
     {
       "name": "Touch Mi 2 鄭秀文世界巡迴演唱會",
@@ -883,473 +732,392 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2014-12-21",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2014-12-22",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2014-12-24",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2014-12-25",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2014-12-26",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2014-12-27",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2014-12-28",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2014-12-30",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2014-12-31",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2015-01-01",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2015-01-02",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2015-04-24",
           "precision": "day",
           "region": "馬來西亞",
           "city": "雲頂",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
         },
         {
           "date": "2015-04-25",
           "precision": "day",
           "region": "馬來西亞",
           "city": "雲頂",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
         },
         {
           "date": "2015-05-15",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "澳門威尼斯人金光綜藝館"
+          "venue": "澳門威尼斯人金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2015-05-16",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "澳門威尼斯人金光綜藝館"
+          "venue": "澳門威尼斯人金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2015-08-01",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "新加坡室內體育館"
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
         },
         {
           "date": "2015-08-07",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州體育館"
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
         },
         {
           "date": "2015-08-08",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州體育館"
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
         },
         {
           "date": "2015-09-26",
           "precision": "day",
           "region": "中國大陸",
           "city": "佛山",
-          "venue": "嶺南明珠體育館"
+          "venue": "嶺南明珠體育館",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
         },
         {
           "date": "2015-12-20",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "奧林匹克體育中心-運動場"
+          "venue": "奧林匹克體育中心-運動場",
+          "lat": 22.154523,
+          "lon": 113.553266,
+          "geo": "venue"
         },
         {
           "date": "2016-04-20",
           "precision": "day",
           "region": "澳洲",
           "city": "墨爾本",
-          "venue": "Margaret Court Arena"
+          "venue": "Margaret Court Arena",
+          "lat": -37.8211444,
+          "lon": 144.977625,
+          "geo": "venue"
         },
         {
           "date": "2016-04-22",
           "precision": "day",
           "region": "澳洲",
           "city": "悉尼",
-          "venue": "The Star Event Centre"
+          "venue": "The Star Event Centre",
+          "lat": -33.867777777777775,
+          "lon": 151.21,
+          "geo": "city"
         },
         {
           "date": "2016-04-23",
           "precision": "day",
           "region": "澳洲",
           "city": "悉尼",
-          "venue": "The Star Event Centre"
+          "venue": "The Star Event Centre",
+          "lat": -33.867777777777775,
+          "lon": 151.21,
+          "geo": "city"
         },
         {
           "date": "2016-04-30",
           "precision": "day",
           "region": "中國大陸",
           "city": "深圳",
-          "venue": "深圳灣體育中心"
+          "venue": "深圳灣體育中心",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
         },
         {
           "date": "2016-05-27",
           "precision": "day",
           "region": "馬來西亞",
           "city": "雲頂",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
         },
         {
           "date": "2016-05-28",
           "precision": "day",
           "region": "馬來西亞",
           "city": "雲頂",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
         },
         {
           "date": "2016-05-31",
           "precision": "day",
           "region": "英國",
           "city": "倫敦",
-          "venue": "The SSE Arena"
+          "venue": "The SSE Arena",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
         },
         {
           "date": "2016-06-18",
           "precision": "day",
           "region": "",
           "city": "東莞",
-          "venue": "東風日產文體中心"
+          "venue": "東風日產文體中心",
+          "lat": 22.99889,
+          "lon": 113.8349,
+          "geo": "venue"
         },
         {
           "date": "2016-07-09",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "新加坡聖淘沙名勝世界會議中心 名勝世界宴會廳"
+          "venue": "新加坡聖淘沙名勝世界會議中心 名勝世界宴會廳",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
         },
         {
           "date": "2016-07-10",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "新加坡聖淘沙名勝世界會議中心 名勝世界宴會廳"
+          "venue": "新加坡聖淘沙名勝世界會議中心 名勝世界宴會廳",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
         },
         {
           "date": "2016-09-16",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2016-09-17",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2016-09-18",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2016-09-19",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2016-09-21",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2016-09-22",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2016-09-24",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2016-09-25",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         }
       ]
-    },
-    {
-      "name": "IFPI 香港唱片銷量大獎頒奬禮2015",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2015-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2015-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "男人幫演唱會2015",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2015-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2015-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "廣州海心沙跨年演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2016-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2016-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "Bon Bon Land 2017 鼎湖山 音樂節",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2017-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2017-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "伊思多爾聖誕狂歡夜群星演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2017-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2017-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "廣州跨年演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2017-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2017-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "盧巧音\"RE:TURN\" 演唱會2017",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2017-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2017-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "PANDORA 2018 秋季新品發佈會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2018-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2018-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "太陽國際集團 Annual Dinner 2019",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2019-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2019-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "太陽國際集團 x 帝國集團 太陽帝國 Annual Dinner 2019",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2019-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2019-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "東港城CHERRS TO 2019倒數派對",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2019-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2019-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
     },
     {
       "name": "#FOLLOWMi 鄭秀文世界巡迴演唱會",
@@ -1379,165 +1147,132 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-13",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-14",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-15",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-16",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-18",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-19",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-20",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-21",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-23",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-24",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-26",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2019-07-27",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         }
       ]
-    },
-    {
-      "name": "顏如玉十一週年榮耀盛典暨超級明星演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2020-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2020-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "AXA安盛週年頒獎典禮",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2022-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2022-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "新加坡紅星大獎2023",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2023-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2023-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "譚嘉儀 Be with You 演唱會 2024",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2024-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2024-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
     },
     {
       "name": "You & Mi 鄭秀文世界巡迴演唱會",
@@ -1574,203 +1309,290 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-13",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-14",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-16",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-17",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-19",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-20",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-21",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-23",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-24",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-26",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-27",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2024-07-28",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "紅磡香港體育館"
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2025-05-09",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人綜藝館"
+          "venue": "威尼斯人綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2025-05-10",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人綜藝館"
+          "venue": "威尼斯人綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2025-05-11",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人綜藝館"
+          "venue": "威尼斯人綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2025-05-16",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人綜藝館"
+          "venue": "威尼斯人綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2025-05-17",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人綜藝館"
+          "venue": "威尼斯人綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2025-05-18",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人綜藝館"
+          "venue": "威尼斯人綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2025-05-24",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人綜藝館"
+          "venue": "威尼斯人綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2025-05-25",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "威尼斯人綜藝館"
+          "venue": "威尼斯人綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2026-04-17",
           "precision": "day",
           "region": "馬來西亞",
           "city": "吉隆坡",
-          "venue": "亞通體育館"
+          "venue": "亞通體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
         },
         {
           "date": "2026-04-18",
           "precision": "day",
           "region": "馬來西亞",
           "city": "吉隆坡",
-          "venue": "亞通體育館"
+          "venue": "亞通體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
         },
         {
           "date": "2026-07-10",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "啟德主場館"
+          "venue": "啟德主場館",
+          "lat": 22.32214,
+          "lon": 114.19736,
+          "geo": "venue"
         },
         {
           "date": "2026-07-11",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "啟德主場館"
+          "venue": "啟德主場館",
+          "lat": 22.32214,
+          "lon": 114.19736,
+          "geo": "venue"
         },
         {
           "date": "2026-07-12",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "啟德主場館"
+          "venue": "啟德主場館",
+          "lat": 22.32214,
+          "lon": 114.19736,
+          "geo": "venue"
         },
         {
           "date": "2027-05-28",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "啟德主場館"
+          "venue": "啟德主場館",
+          "lat": 22.32214,
+          "lon": 114.19736,
+          "geo": "venue"
         },
         {
           "date": "2027-05-29",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "啟德主場館"
+          "venue": "啟德主場館",
+          "lat": 22.32214,
+          "lon": 114.19736,
+          "geo": "venue"
         },
         {
           "date": "2027-05-30",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "啟德主場館"
+          "venue": "啟德主場館",
+          "lat": 22.32214,
+          "lon": 114.19736,
+          "geo": "venue"
         }
       ]
     }
