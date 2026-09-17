@@ -1,0 +1,759 @@
+{
+  "slug": "mc-hotdog",
+  "fetchedAt": "2026-09-17T21:25:06.178Z",
+  "wiki": "MC HotDog",
+  "bio": {
+    "born": {
+      "date": "1978-04-10",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "MC來了上海狂歡夜派對",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2011-12-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2011-12-24",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [
+        "上海梅賽德斯-奔馳文化中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "MC又來了上海狂歡夜派對 part2",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2012-12-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-12-24",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [
+        "上海梅賽德斯-奔馳文化中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "MC遲來了",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-02-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-02-27",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [
+        "香港紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "聲色犬王",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-08-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-08-03",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [
+        "臺北小巨蛋"
+      ],
+      "shows": []
+    },
+    {
+      "name": "我的時代上海聖誕狂歡派對",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-12-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-12-21",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [
+        "上海梅賽德斯-奔馳文化中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "兄弟本色上海聖誕狂歡派對",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-12-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-12-24",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [
+        "上海梅賽德斯-奔馳文化中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "廢慾清巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2019-06-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2020-04-09",
+        "precision": "day"
+      },
+      "showCount": 30,
+      "regions": [
+        "臺灣",
+        "中國大陸",
+        "法國",
+        "英國",
+        "美國",
+        "加拿大"
+      ],
+      "cities": [
+        "臺北",
+        "臺中",
+        "高雄",
+        "西安",
+        "天津",
+        "杭州",
+        "武漢",
+        "長沙",
+        "成都",
+        "昆明",
+        "深圳",
+        "長春",
+        "青島",
+        "鄭州",
+        "重慶",
+        "寧波",
+        "巴黎",
+        "倫敦",
+        "洛杉磯",
+        "舊金山",
+        "波特蘭",
+        "西雅圖",
+        "溫哥華",
+        "多倫多",
+        "波士頓",
+        "費城",
+        "紐約",
+        "芝加哥",
+        "達拉斯",
+        "休士頓"
+      ],
+      "venues": [
+        "Legacy Taipei",
+        "Legacy Taichung",
+        "LIVE WAREHOUSE",
+        "Mao Livehouse",
+        "66Livehouse",
+        "武漢文化博覽中心",
+        "華熙LIVE·528M空間",
+        "嘿吼小鎮",
+        "Y-LIVE鷹之娛樂現場",
+        "Downtown Bar",
+        "7LIVEHOUSE",
+        "寅派動力空間",
+        "寧波星巢劇場",
+        "Le Trabendo",
+        "The Lighthouse Theatre",
+        "The Fonda Theatre",
+        "August Hall",
+        "Hawthorne Theater",
+        "Neptune",
+        "Vogue Theatre",
+        "Phoenix Concert Theatre",
+        "Paradise Rock Club",
+        "Underground Arts",
+        "Webster Hall",
+        "Lincoln Hall",
+        "Trees",
+        "White Oak Music Hall"
+      ],
+      "shows": [
+        {
+          "date": "2019-06-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2019-06-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2019-07-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2019-08-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "西安",
+          "venue": "Mao Livehouse",
+          "lat": 34.26111111111111,
+          "lon": 108.94222222222223,
+          "geo": "city"
+        },
+        {
+          "date": "2019-08-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "天津",
+          "venue": "66Livehouse",
+          "lat": 39.146666666667,
+          "lon": 117.20555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2019-08-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "Mao Livehouse",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2019-08-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "武漢文化博覽中心",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2019-09-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長沙",
+          "venue": "Mao Livehouse",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "city"
+        },
+        {
+          "date": "2019-09-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "華熙LIVE·528M空間",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2019-09-07",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "昆明",
+          "venue": "Mao Livehouse",
+          "lat": 25.043333333333,
+          "lon": 102.70611111111,
+          "geo": "city"
+        },
+        {
+          "date": "2019-09-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "嘿吼小鎮",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2019-12-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長春",
+          "venue": "Y-LIVE鷹之娛樂現場",
+          "lat": 43.88,
+          "lon": 125.32277777778,
+          "geo": "city"
+        },
+        {
+          "date": "2019-12-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "青島",
+          "venue": "Downtown Bar",
+          "lat": 36.116666666667,
+          "lon": 120.4,
+          "geo": "city"
+        },
+        {
+          "date": "2019-12-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "鄭州",
+          "venue": "7LIVEHOUSE",
+          "lat": 34.74919,
+          "lon": 113.66051,
+          "geo": "city"
+        },
+        {
+          "date": "2019-12-19",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "重慶",
+          "venue": "寅派動力空間",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2019-12-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "寧波",
+          "venue": "寧波星巢劇場",
+          "lat": 29.875,
+          "lon": 121.54916666667,
+          "geo": "city"
+        },
+        {
+          "date": "2020-03-11",
+          "precision": "day",
+          "region": "法國",
+          "city": "巴黎",
+          "venue": "Le Trabendo",
+          "lat": 48.85666666666667,
+          "lon": 2.352222222222222,
+          "geo": "city"
+        },
+        {
+          "date": "2020-03-14",
+          "precision": "day",
+          "region": "英國",
+          "city": "倫敦",
+          "venue": "The Lighthouse Theatre",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
+        },
+        {
+          "date": "2020-03-20",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "The Fonda Theatre",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "2020-03-21",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "August Hall",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2020-03-24",
+          "precision": "day",
+          "region": "美國",
+          "city": "波特蘭",
+          "venue": "Hawthorne Theater",
+          "lat": 45.515,
+          "lon": -122.67916666666666,
+          "geo": "city"
+        },
+        {
+          "date": "2020-03-25",
+          "precision": "day",
+          "region": "美國",
+          "city": "西雅圖",
+          "venue": "Neptune",
+          "lat": 47.605,
+          "lon": -122.33,
+          "geo": "city"
+        },
+        {
+          "date": "2020-03-27",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "Vogue Theatre",
+          "lat": 49.26083333333333,
+          "lon": -123.1138888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2020-03-27",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "Phoenix Concert Theatre",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2020-03-31",
+          "precision": "day",
+          "region": "美國",
+          "city": "波士頓",
+          "venue": "Paradise Rock Club",
+          "lat": 42.360277777777775,
+          "lon": -71.05777777777777,
+          "geo": "city"
+        },
+        {
+          "date": "2020-04-02",
+          "precision": "day",
+          "region": "美國",
+          "city": "費城",
+          "venue": "Underground Arts",
+          "lat": 39.952777777778,
+          "lon": -75.163611111111,
+          "geo": "city"
+        },
+        {
+          "date": "2020-04-03",
+          "precision": "day",
+          "region": "美國",
+          "city": "紐約",
+          "venue": "Webster Hall",
+          "lat": 40.71277777777778,
+          "lon": -74.00611111111111,
+          "geo": "city"
+        },
+        {
+          "date": "2020-04-06",
+          "precision": "day",
+          "region": "美國",
+          "city": "芝加哥",
+          "venue": "Lincoln Hall",
+          "lat": 41.88194444444444,
+          "lon": -87.62777777777778,
+          "geo": "city"
+        },
+        {
+          "date": "2020-04-08",
+          "precision": "day",
+          "region": "美國",
+          "city": "達拉斯",
+          "venue": "Trees",
+          "lat": 32.779166666667,
+          "lon": -96.808888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2020-04-09",
+          "precision": "day",
+          "region": "美國",
+          "city": "休士頓",
+          "venue": "White Oak Music Hall",
+          "lat": 29.762777777778,
+          "lon": -95.383055555556,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "髒藝術家/裝藝術家巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2023-12-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-10-25",
+        "precision": "day"
+      },
+      "showCount": 18,
+      "regions": [
+        "臺灣",
+        "中國大陸",
+        "馬來西亞",
+        "新加坡"
+      ],
+      "cities": [
+        "臺北",
+        "天津",
+        "上海",
+        "成都",
+        "南京",
+        "廣州",
+        "深圳",
+        "長沙",
+        "武漢",
+        "重慶",
+        "吉隆坡",
+        "Capitol Theatre",
+        "北京",
+        "蘇州",
+        "廈門",
+        "杭州"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "天津人民體育館",
+        "國家會展中心 (上海)虹館EH",
+        "華熙LIVE·528 M空間",
+        "稻香演藝中心",
+        "大麥66LIVEHOUSE",
+        "深圳灣體育中心“春繭”體育館",
+        "湖南國際會展中心·芒果館",
+        "武鋼體育中心體育館",
+        "重慶渝北區體育館",
+        "Zepp Kuala Lumpur",
+        "廣州體育館1號館",
+        "國家體育館",
+        "蘇州市體育中心體育館",
+        "廈門集美嘉庚體育館",
+        "黃龍體育中心體育館"
+      ],
+      "shows": [
+        {
+          "date": "2023-12-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-12-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-05-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "天津",
+          "venue": "天津人民體育館",
+          "lat": 39.146666666667,
+          "lon": 117.20555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2024-05-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "國家會展中心 (上海)虹館EH",
+          "lat": 31.1916,
+          "lon": 121.2974,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-05-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "華熙LIVE·528 M空間",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "稻香演藝中心",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "大麥66LIVEHOUSE",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳灣體育中心“春繭”體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-08-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長沙",
+          "venue": "湖南國際會展中心·芒果館",
+          "lat": 28.237784,
+          "lon": 113.043576,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "武鋼體育中心體育館",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2024-11-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "重慶",
+          "venue": "重慶渝北區體育館",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2025-01-03",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "Zepp Kuala Lumpur",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        },
+        {
+          "date": "2025-01-04",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "Capitol Theatre",
+          "venue": "",
+          "lat": 1.2934872,
+          "lon": 103.8513587,
+          "geo": "city"
+        },
+        {
+          "date": "2025-03-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州體育館1號館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-05-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "國家體育館",
+          "lat": 39.994780555556,
+          "lon": 116.38395833333,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-06-28",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "蘇州",
+          "venue": "蘇州市體育中心體育館",
+          "lat": 31.296538888889,
+          "lon": 120.57308333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-07-05",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廈門",
+          "venue": "廈門集美嘉庚體育館",
+          "lat": 24.590654,
+          "lon": 118.102356,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-10-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育館",
+          "lat": 30.2683,
+          "lon": 120.129,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
+}

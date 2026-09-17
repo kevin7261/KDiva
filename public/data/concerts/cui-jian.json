@@ -1,0 +1,986 @@
+{
+  "slug": "cui-jian",
+  "fetchedAt": "2026-09-17T21:24:30.824Z",
+  "wiki": "崔健",
+  "bio": {
+    "born": {
+      "date": "1961-08-02",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "北京中山音樂堂個人演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1988-01-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "1988-01-01",
+        "precision": "month"
+      },
+      "showCount": 1,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [],
+      "venues": [
+        "北京 中山音樂堂"
+      ],
+      "shows": [
+        {
+          "date": "1988-01-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 中山音樂堂"
+        }
+      ]
+    },
+    {
+      "name": "“新長征路上的搖滾”演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1989-03-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "1993-07-01",
+        "precision": "month"
+      },
+      "showCount": 25,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [],
+      "venues": [
+        "北京 北展劇場",
+        "北京 工人體育館（《重頭再來》為亞運集資演唱會）",
+        "鄭州",
+        "武漢",
+        "西安",
+        "成都",
+        "廣州 天河體育館",
+        "瀋陽",
+        "汕頭 汕頭體育館",
+        "廈門",
+        "珠海",
+        "長沙",
+        "蘭州 蘭州體育館",
+        "太原 太鐵體育館",
+        "南京 五臺山體育館",
+        "合肥 合肥體育館",
+        "昆明 拓東體育館",
+        "濟南 山東省體育館",
+        "杭州 浙江省體育館",
+        "貴陽 貴州省體育館",
+        "鞍山",
+        "石家莊",
+        "北京",
+        "上海 上海體育館"
+      ],
+      "shows": [
+        {
+          "date": "1989-03-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 北展劇場"
+        },
+        {
+          "date": "1990-01-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 工人體育館（《重頭再來》為亞運集資演唱會）"
+        },
+        {
+          "date": "1990-03-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "鄭州",
+          "lat": 34.74919,
+          "lon": 113.66051,
+          "geo": "venue"
+        },
+        {
+          "date": "1990-03-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "武漢",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "venue"
+        },
+        {
+          "date": "1990-03-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "西安",
+          "lat": 34.26111111111111,
+          "lon": 108.94222222222223,
+          "geo": "venue"
+        },
+        {
+          "date": "1990-04-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "成都",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "venue"
+        },
+        {
+          "date": "1991-02-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "廣州 天河體育館"
+        },
+        {
+          "date": "1991-05-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "瀋陽",
+          "lat": 41.8025,
+          "lon": 123.42805555555556,
+          "geo": "venue"
+        },
+        {
+          "date": "1991-09-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "汕頭 汕頭體育館"
+        },
+        {
+          "date": "1991-10-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "廈門",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "venue"
+        },
+        {
+          "date": "1991-10-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "珠海",
+          "lat": 22.274166666666666,
+          "lon": 113.57194444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "1991-10-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "長沙",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "venue"
+        },
+        {
+          "date": "1992-02-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "蘭州 蘭州體育館"
+        },
+        {
+          "date": "1992-02-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "太原 太鐵體育館"
+        },
+        {
+          "date": "1992-05-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "南京 五臺山體育館"
+        },
+        {
+          "date": "1992-05-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "合肥 合肥體育館"
+        },
+        {
+          "date": "1992-07-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "昆明 拓東體育館"
+        },
+        {
+          "date": "1992-11-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "濟南 山東省體育館"
+        },
+        {
+          "date": "1992-12-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "杭州 浙江省體育館"
+        },
+        {
+          "date": "1992-12-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "貴陽 貴州省體育館"
+        },
+        {
+          "date": "1992-12-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 北展劇場"
+        },
+        {
+          "date": "1993-01-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "鞍山",
+          "lat": 41.10662,
+          "lon": 122.98945,
+          "geo": "venue"
+        },
+        {
+          "date": "1993-03-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "石家莊",
+          "lat": 38.0425,
+          "lon": 114.51,
+          "geo": "venue"
+        },
+        {
+          "date": "1993-07-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "venue"
+        },
+        {
+          "date": "1993-07-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "上海 上海體育館"
+        }
+      ]
+    },
+    {
+      "name": "北京崔健演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1993-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "1993-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "“紅旗下的蛋”演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1993-10-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "1997-12-01",
+        "precision": "month"
+      },
+      "showCount": 30,
+      "regions": [
+        "中國大陸",
+        "美國",
+        "日本",
+        "香港"
+      ],
+      "cities": [
+        "東京",
+        "舊金山",
+        "大阪"
+      ],
+      "venues": [
+        "青島 青島體育館",
+        "濰坊",
+        "綿陽",
+        "西雅圖 西雅圖中心體育場",
+        "大阪，福岡，京都",
+        "長春",
+        "新疆",
+        "煙臺",
+        "瀋陽",
+        "香港 伊麗莎白體育館",
+        "北京 JJ迪廳",
+        "海南",
+        "瀋陽 \"中國跳\"迪廳",
+        "紐約，波士頓",
+        "深圳 太陽迪斯科廣場",
+        "東京",
+        "長沙 紅番DISCO廣場",
+        "鄭州 河南省體育場",
+        "鄭州 阿波羅迪廳",
+        "大慶 大慶市體育館",
+        "金華 金華市體育館",
+        "西安 陝西省體育館",
+        "哈爾濱 哈爾濱冰球館",
+        "淮南 淮南市澳天迪廳",
+        "大慶",
+        "東營 雪地迪廳",
+        "深圳 HOUSE DISCO",
+        "長沙 神農大酒店"
+      ],
+      "shows": [
+        {
+          "date": "1993-10-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "青島 青島體育館"
+        },
+        {
+          "date": "1994-04-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "濰坊",
+          "lat": 36.716666666667,
+          "lon": 119.1,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-08-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "綿陽",
+          "lat": 31.46688,
+          "lon": 104.73847,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-09-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "",
+          "venue": "西雅圖 西雅圖中心體育場"
+        },
+        {
+          "date": "1994-10-01",
+          "precision": "month",
+          "region": "日本",
+          "city": "東京",
+          "venue": "大阪，福岡，京都",
+          "lat": 35.683889,
+          "lon": 139.774444,
+          "geo": "city"
+        },
+        {
+          "date": "1994-10-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "長春",
+          "lat": 43.88,
+          "lon": 125.32277777778,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-10-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "新疆",
+          "lat": 43.8253,
+          "lon": 87.61379,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-11-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "煙臺",
+          "lat": 37.464444444444446,
+          "lon": 121.44777777777777,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-01-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "瀋陽",
+          "lat": 41.8025,
+          "lon": 123.42805555555556,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-01-01",
+          "precision": "year",
+          "region": "香港",
+          "city": "",
+          "venue": "香港 伊麗莎白體育館"
+        },
+        {
+          "date": "1995-02-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "長春",
+          "lat": 43.88,
+          "lon": 125.32277777778,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-02-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 JJ迪廳"
+        },
+        {
+          "date": "1995-04-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "海南",
+          "lat": 20.03342,
+          "lon": 110.32398,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-06-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "瀋陽 \"中國跳\"迪廳"
+        },
+        {
+          "date": "1995-08-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "紐約，波士頓",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "深圳 太陽迪斯科廣場"
+        },
+        {
+          "date": "1995-09-01",
+          "precision": "month",
+          "region": "日本",
+          "city": "大阪",
+          "venue": "東京",
+          "lat": 35.683889,
+          "lon": 139.774444,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-11-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "長沙 紅番DISCO廣場"
+        },
+        {
+          "date": "1995-11-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "鄭州 河南省體育場"
+        },
+        {
+          "date": "1995-11-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "鄭州 阿波羅迪廳"
+        },
+        {
+          "date": "1996-01-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "大慶 大慶市體育館"
+        },
+        {
+          "date": "1996-03-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "金華 金華市體育館"
+        },
+        {
+          "date": "1996-06-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "西安 陝西省體育館"
+        },
+        {
+          "date": "1996-06-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "哈爾濱 哈爾濱冰球館"
+        },
+        {
+          "date": "1996-09-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "淮南 淮南市澳天迪廳"
+        },
+        {
+          "date": "1996-11-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "鄭州 阿波羅迪廳"
+        },
+        {
+          "date": "1997-01-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "大慶",
+          "lat": 46.59791,
+          "lon": 125.00798,
+          "geo": "venue"
+        },
+        {
+          "date": "1997-06-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "東營 雪地迪廳"
+        },
+        {
+          "date": "1997-12-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "深圳 HOUSE DISCO"
+        },
+        {
+          "date": "1997-12-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "長沙 神農大酒店"
+        }
+      ]
+    },
+    {
+      "name": "崔健演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2002-01-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2006-07-15",
+        "precision": "day"
+      },
+      "showCount": 24,
+      "regions": [
+        "中國大陸",
+        "南韓",
+        "美國",
+        "德國"
+      ],
+      "cities": [],
+      "venues": [
+        "哈爾濱 黑龍江大學體育館",
+        "天津 天津體育中心",
+        "漢城 Triport Hall演藝廳",
+        "重慶 迴歸酒廊",
+        "紐約 大西洋城",
+        "北京 CD CAFE",
+        "青島 金沙灘",
+        "大連 城雕廣場",
+        "青島 夢幻劇院",
+        "煙臺 煙臺體育館",
+        "上海 美琪大戲院",
+        "德國 *",
+        "北京 北展劇場",
+        "中國 北上廣",
+        "舊金山 The Fillmore",
+        "聖地亞哥 4TH & B",
+        "洛杉磯 The Avalon",
+        "芝加哥 Park West",
+        "瀋陽 遼寧省體育館",
+        "長治 淮海體育館",
+        "北京 新豪酒吧",
+        "武漢 洪山體育館",
+        "南京 五臺山體育館",
+        "北京 星光現場"
+      ],
+      "shows": [
+        {
+          "date": "2002-01-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "哈爾濱 黑龍江大學體育館"
+        },
+        {
+          "date": "2002-02-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "天津 天津體育中心"
+        },
+        {
+          "date": "2002-03-01",
+          "precision": "month",
+          "region": "南韓",
+          "city": "",
+          "venue": "漢城 Triport Hall演藝廳"
+        },
+        {
+          "date": "2002-03-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "重慶 迴歸酒廊"
+        },
+        {
+          "date": "2002-03-09",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "紐約 大西洋城"
+        },
+        {
+          "date": "2002-06-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 CD CAFE"
+        },
+        {
+          "date": "2002-08-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "青島 金沙灘"
+        },
+        {
+          "date": "2002-09-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "大連 城雕廣場"
+        },
+        {
+          "date": "2002-09-07",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "青島 夢幻劇院"
+        },
+        {
+          "date": "2002-11-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "煙臺 煙臺體育館"
+        },
+        {
+          "date": "2004-02-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "上海 美琪大戲院"
+        },
+        {
+          "date": "2004-02-05",
+          "precision": "day",
+          "region": "德國",
+          "city": "",
+          "venue": "德國 *"
+        },
+        {
+          "date": "2004-03-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 北展劇場"
+        },
+        {
+          "date": "2004-03-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "中國 北上廣"
+        },
+        {
+          "date": "2004-04-24",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "舊金山 The Fillmore"
+        },
+        {
+          "date": "2004-04-27",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "聖地亞哥 4TH & B"
+        },
+        {
+          "date": "2004-04-28",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "洛杉磯 The Avalon"
+        },
+        {
+          "date": "2004-04-29",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "芝加哥 Park West"
+        },
+        {
+          "date": "2004-05-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "瀋陽 遼寧省體育館"
+        },
+        {
+          "date": "2004-08-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "長治 淮海體育館"
+        },
+        {
+          "date": "2004-12-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 新豪酒吧"
+        },
+        {
+          "date": "2005-06-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "武漢 洪山體育館"
+        },
+        {
+          "date": "2005-12-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "南京 五臺山體育館"
+        },
+        {
+          "date": "2006-07-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 星光現場"
+        }
+      ]
+    },
+    {
+      "name": "“藍色骨頭”巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2012-09-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-01-31",
+        "precision": "day"
+      },
+      "showCount": 8,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [],
+      "venues": [
+        "深圳 深圳灣體育館",
+        "大連 世界博覽廣場",
+        "北京 萬事達中心",
+        "上海 上海大舞臺",
+        "西安 曲江國際會展中心B3館",
+        "南京 五臺山體育館",
+        "大連 大連體育中心",
+        "天津 天津體育館"
+      ],
+      "shows": [
+        {
+          "date": "2012-09-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "深圳 深圳灣體育館"
+        },
+        {
+          "date": "2012-11-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "大連 世界博覽廣場"
+        },
+        {
+          "date": "2012-12-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 萬事達中心"
+        },
+        {
+          "date": "2012-12-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "上海 上海大舞臺"
+        },
+        {
+          "date": "2013-01-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "西安 曲江國際會展中心B3館"
+        },
+        {
+          "date": "2013-04-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "南京 五臺山體育館"
+        },
+        {
+          "date": "2014-10-12",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "大連 大連體育中心"
+        },
+        {
+          "date": "2015-01-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "天津 天津體育館"
+        }
+      ]
+    },
+    {
+      "name": "崔健滾動三十演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2016-09-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-08-11",
+        "precision": "day"
+      },
+      "showCount": 5,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [],
+      "venues": [
+        "北京 工人體育場",
+        "深圳 深圳灣\"春繭\"體育館",
+        "濟南 奧體中心東荷體育館",
+        "廣州 廣州體育館",
+        "武漢 武漢客廳·中國文化博覽中心"
+      ],
+      "shows": [
+        {
+          "date": "2016-09-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "北京 工人體育場"
+        },
+        {
+          "date": "2016-12-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "深圳 深圳灣\"春繭\"體育館"
+        },
+        {
+          "date": "2017-12-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "濟南 奧體中心東荷體育館"
+        },
+        {
+          "date": "2018-06-02",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "廣州 廣州體育館"
+        },
+        {
+          "date": "2018-08-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "武漢 武漢客廳·中國文化博覽中心"
+        }
+      ]
+    }
+  ]
+}

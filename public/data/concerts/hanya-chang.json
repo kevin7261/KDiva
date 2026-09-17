@@ -1,0 +1,44 @@
+{
+  "slug": "hanya-chang",
+  "fetchedAt": "2026-09-17T21:25:41.802Z",
+  "wiki": "張涵雅",
+  "bio": {
+    "born": {
+      "date": "1983-08-16",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2019-01-01",
+        "precision": "year"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [],
+      "venues": [
+        "新竹高鐵站前"
+      ],
+      "shows": [
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "region": "",
+          "city": "",
+          "venue": "新竹高鐵站前"
+        }
+      ]
+    }
+  ]
+}
