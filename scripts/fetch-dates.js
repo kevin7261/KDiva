@@ -4,6 +4,7 @@
 import { readFile, writeFile } from 'node:fs/promises'
 import { applyReleaseDates, markOtherArtists, addNameKeys, artistPhoto, applySongOverrides } from '../server/ytmusic.js'
 import { ARTISTS, dataFile } from '../server/config.js'
+import { fetchWrittenWorks } from '../server/written-wiki.js'
 import { buildTimeline } from '../server/timeline.js'
 
 const wanted = process.argv.slice(2)
@@ -34,6 +35,7 @@ for (const artist of targets) {
     await writeFile(dataFile(artist.slug), JSON.stringify(dataset, null, 2))
     continue
   }
+  dataset.wikiWritten = await fetchWrittenWorks(artist, (m) => console.log(m)).catch(() => dataset.wikiWritten ?? [])
   const extra = {}
   const matched = await applyReleaseDates(dataset.albums, artist, (m) => console.log(m), extra)
   if (extra.wikiOnly) dataset.wikiOnly = extra.wikiOnly

@@ -35,7 +35,7 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
     <div class="toolbar">
       <div class="seg" role="radiogroup" aria-label="角色">
         <button
-          v-for="[k, l] in [['all', `全部 ${all.length}`], ['作詞', `作詞 ${count('作詞')}`], ['作曲', `作曲 ${count('作曲')}`], ['編曲', `編曲 ${count('編曲')}`]]"
+          v-for="[k, l] in [['all', `全部 ${all.length}`], ['作詞', `作詞 ${count('作詞')}`], ['作曲', `作曲 ${count('作曲')}`], ['編曲', `編曲 ${count('編曲')}`]].filter((x) => x[0] === 'all' || count(x[0]))"
           :key="k"
           role="radio"
           :aria-checked="role === k"
@@ -68,17 +68,20 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
               <a v-if="s.videoId" :href="watchUrl(s.videoId)" target="_blank" rel="noopener">{{ s.song }}</a>
               <span v-else>{{ s.song }}</span>
             </td>
-            <td><RouterLink :to="`/artist/${s.singerSlug}`">{{ s.singer }}</RouterLink></td>
+            <td>
+              <RouterLink v-if="s.singerSlug" :to="`/artist/${s.singerSlug}`">{{ s.singer }}</RouterLink>
+              <span v-else>{{ s.singer }}</span>
+            </td>
             <td class="roles">{{ s.roles.join('、') }}</td>
             <td class="muted">{{ s.album }}</td>
             <td class="num">{{ s.year ?? '—' }}</td>
-            <td class="num">{{ formatCount(s.plays) }}</td>
+            <td class="num">{{ s.plays == null ? '—' : formatCount(s.plays) }}</td>
           </tr>
         </tbody>
       </table>
     </div>
     <p class="muted note">
-      從網站收錄的歌手的詞曲資料（取自 Wikipedia）比對而來，只包含有詞曲資料的歌；沒有收錄的歌手唱的歌不會出現。
+      兩個來源：網站收錄歌手的歌曲詞曲欄（有播放數），以及 Wikipedia 條目的「詞曲創作」列表（沒有播放數，播放數欄顯示「—」）。
     </p>
   </template>
 </template>

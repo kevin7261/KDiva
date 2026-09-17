@@ -7,6 +7,7 @@ import * as OpenCC from 'opencc-js'
 import { fetchReleaseCatalog, matchRelease, normalizeTitle, hasCJK, pinyinKey, toTW, searchReleasePages, wikiPhoto, findWikiOnly } from './wiki.js'
 import { RELEASE_OVERRIDES } from './release-overrides.js'
 import { SONG_OVERRIDES } from './song-overrides.js'
+import { fetchWrittenWorks } from './written-wiki.js'
 import { releaseSortKey } from '../src/lib/release.js'
 
 const BROWSE_URL = 'https://music.youtube.com/youtubei/v1/browse?prettyPrint=false'
@@ -648,6 +649,7 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
   if (others) log(`其他歌手演唱的曲目：${others} 首（不列入統計）`)
   const extra = {}
   await applyReleaseDates(albums, artistConfig, log, extra)
+  const wikiWritten = await fetchWrittenWorks(artistConfig, log).catch(() => [])
   addNameKeys(albums)
   const { releases, ...artistInfo } = artist
 
@@ -659,5 +661,6 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
     artist: artistInfo,
     albums,
     wikiOnly: extra.wikiOnly ?? [],
+    wikiWritten,
   }
 }

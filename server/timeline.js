@@ -12,7 +12,7 @@ const readJson = (url) => readFile(url, 'utf8').then(JSON.parse, () => null)
 const nameKey = (s) => String(s).replace(/\s*[（(][^）)]*[）)]\s*/g, '').replace(/\s+/g, '').toLowerCase()
 
 /** 「寫給別人的歌」：{ slug: [{ song, singer, singerSlug, roles, album, year, plays, videoId }] } */
-function buildWritten(models) {
+function buildWritten(models, raws) {
   const bySlug = Object.fromEntries(ARTISTS.map((a) => [a.slug, []]))
   const owner = new Map() // 名字 → slug（名字對到不只一位時不採用）
   for (const a of ARTISTS) {
@@ -23,6 +23,13 @@ function buildWritten(models) {
     }
   }
   const ROLES = { lyrics: '作詞', music: '作曲', arranger: '編曲' }
+  // Wikipedia 條目「詞曲創作」表格列出的作品（沒有播放數，但涵蓋沒收錄的歌手）
+  for (const [slug, raw] of raws) {
+    for (const w of raw?.wikiWritten ?? []) {
+      const singerSlug = ARTISTS.find((a) => [a.name, a.en, ...(a.aliases ?? [])].some((n) => n && nameKey(n) === nameKey(w.singer)))?.slug ?? null
+      bySlug[slug].push({ song: w.song, singer: w.singer, singerSlug, roles: w.roles, album: w.album, year: w.year, plays: null, fromWiki: true })
+    }
+  }
   for (const [singerSlug, model] of models) {
     const singer = ARTISTS.find((a) => a.slug === singerSlug)
     for (const song of model.songs) {
@@ -37,6 +44,9 @@ function buildWritten(models) {
         }
       }
       for (const [slug, list] of roles) {
+        // Wikipedia 已列出的同一首（有播放數的優先）
+        const dup = bySlug[slug].findIndex((x) => x.fromWiki && nameKey(x.song) === nameKey(song.name) && nameKey(x.singer) === nameKey(singer.name))
+        if (dup >= 0) bySlug[slug].splice(dup, 1)
         // 本人所屬的團體唱的歌不算「寫給別人」（吳青峰寫給蘇打綠）
         const writer = ARTISTS.find((a) => a.slug === slug)
         const sameAct =
@@ -56,15 +66,17 @@ function buildWritten(models) {
       }
     }
   }
-  for (const list of Object.values(bySlug)) list.sort((a, b) => (b.plays ?? -1) - (a.plays ?? -1))
+  for (const list of Object.values(bySlug)) list.sort((a, b) => (b.plays ?? -1) - (a.plays ?? -1) || (b.year ?? 0) - (a.year ?? 0))
   return bySlug
 }
 
 export async function buildTimeline() {
   const artists = []
   const models = new Map()
+  const raws = new Map()
   for (const artist of ARTISTS) {
     const raw = await readJson(dataFile(artist.slug))
+    raws.set(artist.slug, raw)
     const concerts = await readJson(concertsFile(artist.slug))
     const model = raw ? buildModel(raw, artist) : null
     if (model) models.set(artist.slug, model)
@@ -97,6 +109,6 @@ export async function buildTimeline() {
     })
   }
   await writeFile(timelineFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists }))
-  await writeFile(writtenFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists: buildWritten(models) }))
+  await writeFile(writtenFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists: buildWritten(models, raws) }))
   return artists.length
 }

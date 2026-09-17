@@ -1,0 +1,335 @@
+{
+  "slug": "chang-chen-yue",
+  "fetchedAt": "2026-09-17T18:27:48.371Z",
+  "wiki": "張震嶽",
+  "bio": {
+    "born": {
+      "date": "1974-05-02",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "n Free 9 Work n Play MTV LIVE 演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2008-08-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2008-08-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北南港101"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Go Go PoloOK上海演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2008-08-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2008-08-30",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "venues": [
+        "上海大舞臺"
+      ],
+      "shows": []
+    },
+    {
+      "name": "出力演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2010-10-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-10-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "北京"
+      ],
+      "venues": [
+        "北展劇場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "豔陽天世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2013-06-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-12-14",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "香港",
+        "中國大陸"
+      ],
+      "cities": [
+        "香港",
+        "上海",
+        "廣州",
+        "北京"
+      ],
+      "venues": [
+        "紅磡香港體育館",
+        "梅賽德斯-奔馳文化中心",
+        "廣州體育館",
+        "首都體育館"
+      ],
+      "shows": [
+        {
+          "date": "2013-06-09",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-06-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-11-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-12-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "我是海雅谷慕Live Tour",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2013-07-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-07-20",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "Legacy Taipei"
+      ],
+      "shows": []
+    },
+    {
+      "name": "破浪 Comes @Live 演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-05-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-05-10",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北小巨蛋"
+      ],
+      "shows": []
+    },
+    {
+      "name": "跟著感覺走巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-10-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-02-07",
+        "precision": "day"
+      },
+      "showCount": 9,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "北京",
+        "上海",
+        "武漢",
+        "成都",
+        "廈門",
+        "深圳",
+        "澳門"
+      ],
+      "venues": [
+        "華熙LIVE·五棵松·場館",
+        "上海體育館",
+        "光谷國際網球中心",
+        "成都金融城演藝中心",
+        "廈門奧林匹克體育中心-鳳凰體育館",
+        "深圳灣體育中心“春繭”體育館",
+        "澳門新濠天地新濠影滙綜藝館"
+      ],
+      "shows": [
+        {
+          "date": "2025-10-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "華熙LIVE·五棵松·場館",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-10-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海體育館",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-10-26",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海體育館",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "光谷國際網球中心",
+          "lat": 30.4756,
+          "lon": 114.45635,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "成都金融城演藝中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2025-12-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廈門",
+          "venue": "廈門奧林匹克體育中心-鳳凰體育館",
+          "lat": 24.5667,
+          "lon": 118.195,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-01-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳灣體育中心“春繭”體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-01-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳灣體育中心“春繭”體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-02-07",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "澳門",
+          "venue": "澳門新濠天地新濠影滙綜藝館",
+          "lat": 22.14972222,
+          "lon": 113.56611111,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
+}
