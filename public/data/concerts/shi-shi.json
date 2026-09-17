@@ -1,6 +1,6 @@
 {
   "slug": "shi-shi",
-  "fetchedAt": "2026-09-17T16:53:59.850Z",
+  "fetchedAt": "2026-09-17T23:12:41.490Z",
   "wiki": "孫盛希",
   "bio": {
     "born": {
@@ -42,7 +42,7 @@
         "date": "2014-08-08",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -50,7 +50,18 @@
       "venues": [
         "Legacy mini @ Amba"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-08-08",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Legacy mini @ Amba",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "孫盛希 Shi Shi myMusic音樂同樂會",
@@ -64,7 +75,7 @@
         "date": "2014-12-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -72,7 +83,18 @@
       "venues": [
         "松菸誠品B2演藝廳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-12-17",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "松菸誠品B2演藝廳",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "孫盛希臺北戀習曲Shi You Again，Taipei",
@@ -86,7 +108,7 @@
         "date": "2015-12-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -94,7 +116,18 @@
       "venues": [
         "河岸留言 音樂藝文咖啡"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-12-04",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "河岸留言 音樂藝文咖啡",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Voice Up Concert 讚聲演唱會",
@@ -108,7 +141,7 @@
         "date": "2016-04-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -116,7 +149,18 @@
       "venues": [
         "Legacy Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-04-17",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "孫盛希 [在路上ON THE WAY]之鐵花村演唱會",
@@ -130,7 +174,7 @@
         "date": "2016-10-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺東"
@@ -138,7 +182,18 @@
       "venues": [
         "鐵花村音樂聚落"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-10-01",
+          "precision": "day",
+          "region": "",
+          "city": "臺東",
+          "venue": "鐵花村音樂聚落",
+          "lat": 22.758333333333,
+          "lon": 121.14444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Shi Shi 孫盛希個人演唱會",
@@ -152,7 +207,7 @@
         "date": "2016-10-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -160,7 +215,18 @@
       "venues": [
         "Brown Sugar"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-10-18",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Brown Sugar",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "在路上BETWEEN巡迴音樂會",
@@ -171,18 +237,53 @@
         "precision": "day"
       },
       "end": {
-        "date": "2017-03-11",
+        "date": "2017-03-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
-        "臺北"
+        "臺北",
+        "上海",
+        "廣州"
       ],
       "venues": [
-        "臺北公館小河岸"
+        "臺北公館小河岸",
+        "上海M64",
+        "廣州後車站"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-03-11",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北公館小河岸",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2017-03-17",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "上海M64",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2017-03-31",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州後車站",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "很晚的晚安巡迴音樂會",
@@ -193,18 +294,53 @@
         "precision": "day"
       },
       "end": {
-        "date": "2017-08-11",
+        "date": "2017-08-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
-        "嘉義"
+        "嘉義",
+        "臺中",
+        "臺北"
       ],
       "venues": [
-        "Light Hostel承億輕旅"
+        "Light Hostel承億輕旅",
+        "Lane62 Hostel-62巷青年旅館",
+        "臺灣青旅膠囊旅店"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-08-11",
+          "precision": "day",
+          "region": "",
+          "city": "嘉義",
+          "venue": "Light Hostel承億輕旅",
+          "lat": 23.48,
+          "lon": 120.44972222222,
+          "geo": "city"
+        },
+        {
+          "date": "2017-08-18",
+          "precision": "day",
+          "region": "",
+          "city": "臺中",
+          "venue": "Lane62 Hostel-62巷青年旅館",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2017-08-26",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺灣青旅膠囊旅店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "我們 漆黑中存在巡迴音樂會",
@@ -215,18 +351,65 @@
         "precision": "day"
       },
       "end": {
-        "date": "2018-08-18",
+        "date": "2018-08-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
-        "臺北"
+        "臺北",
+        "北京",
+        "上海",
+        "廣州"
       ],
       "venues": [
-        "Legacy Taipei"
+        "Legacy Taipei",
+        "疆進酒 OMNI SPACE",
+        "育音堂",
+        "中央車站"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-08-18",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2018-08-21",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "疆進酒 OMNI SPACE",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2018-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "育音堂",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2018-08-25",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "中央車站",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "希遊記SHI's JOURNEY 巡迴音樂會",
@@ -237,18 +420,77 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-06-19",
+        "date": "2019-12-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 5,
       "regions": [],
       "cities": [
-        "上海"
+        "上海",
+        "北京",
+        "臺中",
+        "臺北",
+        "廣州"
       ],
       "venues": [
-        "育音堂"
+        "育音堂",
+        "MAO Livehouse",
+        "Legacy Taichung",
+        "Legacy Taipei",
+        "中央車站"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-06-19",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "育音堂",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2019-06-21",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "MAO Livehouse",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2019-10-25",
+          "precision": "day",
+          "region": "",
+          "city": "臺中",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2019-11-10",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2019-12-07",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "中央車站",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Where is SHI? 出沒地帶演唱會",
@@ -262,7 +504,7 @@
         "date": "2021-04-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -270,21 +512,32 @@
       "venues": [
         "Legacy Max"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-04-24",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Legacy Max",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "jagi",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2022-08-01",
-        "precision": "month"
+        "date": "2022-08-03",
+        "precision": "day"
       },
       "end": {
-        "date": "2022-08-01",
-        "precision": "month"
+        "date": "2022-08-05",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "線上"
@@ -292,29 +545,67 @@
       "venues": [
         "BEATDAY元宇宙"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-08-03",
+          "precision": "day",
+          "region": "",
+          "city": "線上",
+          "venue": "BEATDAY元宇宙"
+        },
+        {
+          "date": "2022-08-05",
+          "precision": "day",
+          "region": "",
+          "city": "線上",
+          "venue": "BEATDAY元宇宙"
+        }
+      ]
     },
     {
       "name": "【Legacy Presents 2022 都市女聲】我們 like a drama",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2022-11-12",
         "precision": "day"
       },
       "end": {
-        "date": "2022-11-12",
+        "date": "2022-12-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
-        "臺北"
+        "臺北",
+        "臺中"
       ],
       "venues": [
-        "Legacy Taipei"
+        "Legacy Taipei",
+        "Legacy Taichung"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-11-12",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2022-12-11",
+          "precision": "day",
+          "region": "",
+          "city": "臺中",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "孫盛希 BOOMERANG巡演",
@@ -325,18 +616,146 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-08-16",
+        "date": "2025-05-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 11,
       "regions": [],
       "cities": [
-        "廣州"
+        "廣州",
+        "成都",
+        "上海",
+        "杭州",
+        "天津",
+        "北京",
+        "深圳",
+        "重慶",
+        "西安"
       ],
       "venues": [
-        "中央車站"
+        "中央車站",
+        "MAOLivehouse 成都 Live廳",
+        "MAOLivehouse 上海",
+        "蛙廠RMMF",
+        "SoulSense LiveHouse",
+        "東三LIVE樂遊園",
+        "HOU LIVE 春筍店",
+        "蜚聲重慶 PHASE LIVEHOUSE",
+        "西演SPACE·塞斯拾陸",
+        "成都高新中演大劇院·X-SPACE"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-08-16",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "中央車站",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-18",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "MAOLivehouse 成都 Live廳",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "MAOLivehouse 上海",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-25",
+          "precision": "day",
+          "region": "",
+          "city": "杭州",
+          "venue": "蛙廠RMMF",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2025-03-14",
+          "precision": "day",
+          "region": "",
+          "city": "天津",
+          "venue": "SoulSense LiveHouse",
+          "lat": 39.146666666667,
+          "lon": 117.20555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2025-03-16",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "東三LIVE樂遊園",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2025-04-11",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "中央車站",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2025-04-13",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "HOU LIVE 春筍店",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2025-04-18",
+          "precision": "day",
+          "region": "",
+          "city": "重慶",
+          "venue": "蜚聲重慶 PHASE LIVEHOUSE",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2025-04-20",
+          "precision": "day",
+          "region": "",
+          "city": "西安",
+          "venue": "西演SPACE·塞斯拾陸",
+          "lat": 34.26111111111111,
+          "lon": 108.94222222222223,
+          "geo": "city"
+        },
+        {
+          "date": "2025-05-01",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "成都高新中演大劇院·X-SPACE",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "孫盛希 I Can't Be Left Alone演唱會",
@@ -350,7 +769,7 @@
         "date": "2024-11-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -358,7 +777,18 @@
       "venues": [
         "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-11-09",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "孫盛希 The Taste Of…巡演",
@@ -369,18 +799,124 @@
         "precision": "day"
       },
       "end": {
-        "date": "2026-07-24",
+        "date": "2026-12-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 9,
       "regions": [],
       "cities": [
-        "廣州"
+        "廣州",
+        "深圳",
+        "武漢",
+        "杭州",
+        "成都",
+        "北京",
+        "首爾",
+        "臺北",
+        "吉隆坡"
       ],
       "venues": [
-        "MAO Livehouse中大店（一號館）"
+        "MAO Livehouse中大店（一號館）",
+        "NUBOND AIR",
+        "不晚InTime Live（漢陽造店）",
+        "SoFun Live",
+        "CH8綠樹演藝中心",
+        "東三LIVE樂遊園",
+        "WANDERLOCH HALL",
+        "Legacy TERA"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-07-24",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "MAO Livehouse中大店（一號館）",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2026-07-26",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "NUBOND AIR",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2026-08-14",
+          "precision": "day",
+          "region": "",
+          "city": "武漢",
+          "venue": "不晚InTime Live（漢陽造店）",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2026-08-16",
+          "precision": "day",
+          "region": "",
+          "city": "杭州",
+          "venue": "SoFun Live",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2026-08-21",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "CH8綠樹演藝中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2026-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "東三LIVE樂遊園",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2026-10-11",
+          "precision": "day",
+          "region": "",
+          "city": "首爾",
+          "venue": "WANDERLOCH HALL",
+          "lat": 37.56,
+          "lon": 126.99,
+          "geo": "city"
+        },
+        {
+          "date": "2026-11-01",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Legacy TERA",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2026-12-06",
+          "precision": "day",
+          "region": "",
+          "city": "吉隆坡",
+          "venue": "",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        }
+      ]
     }
   ]
 }

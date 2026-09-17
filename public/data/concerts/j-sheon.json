@@ -1,6 +1,6 @@
 {
   "slug": "j-sheon",
-  "fetchedAt": "2026-09-17T21:26:14.288Z",
+  "fetchedAt": "2026-09-17T23:12:50.895Z",
   "wiki": "J.Sheon",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2020-08-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北市"
       ],
@@ -32,7 +32,15 @@
       "venues": [
         "Legacy Max"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-08-29",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "Legacy Max"
+        }
+      ]
     },
     {
       "name": "J.SHEON 2022 硬要裝B演唱會",
@@ -46,7 +54,7 @@
         "date": "2022-03-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北市"
       ],
@@ -54,7 +62,18 @@
       "venues": [
         "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-03-05",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

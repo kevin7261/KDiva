@@ -1,6 +1,6 @@
 {
   "slug": "ella-chen",
-  "fetchedAt": "2026-09-17T18:03:37.530Z",
+  "fetchedAt": "2026-09-17T23:12:05.721Z",
   "wiki": "陳嘉樺",
   "bio": {
     "born": {
@@ -15,26 +15,57 @@
     {
       "name": "你正常嗎?",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2015-06-07",
         "precision": "day"
       },
       "end": {
-        "date": "2015-06-07",
+        "date": "2015-12-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
-        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市"
+        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+        "22x20px|border |alt=中國|link=中國 中國 北京",
+        "22x20px|border |alt=中國|link=中國 中國 廣州"
       ],
       "cities": [
-        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市"
+        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+        "22x20px|border |alt=中國|link=中國 中國 北京",
+        "22x20px|border |alt=中國|link=中國 中國 廣州"
       ],
       "venues": [
-        "永豐Legacy Taipei"
+        "永豐Legacy Taipei",
+        "萬事達中心滙源空間",
+        "中央車站RockHouse"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-06-07",
+          "precision": "day",
+          "region": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "city": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "venue": "永豐Legacy Taipei"
+        },
+        {
+          "date": "2015-08-09",
+          "precision": "day",
+          "region": "22x20px|border |alt=中國|link=中國 中國 北京",
+          "city": "22x20px|border |alt=中國|link=中國 中國 北京",
+          "venue": "萬事達中心滙源空間",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-12-25",
+          "precision": "day",
+          "region": "22x20px|border |alt=中國|link=中國 中國 廣州",
+          "city": "22x20px|border |alt=中國|link=中國 中國 廣州",
+          "venue": "中央車站RockHouse"
+        }
+      ]
     },
     {
       "name": "Ella陳嘉樺 艾拉秀生日X快樂X派對",
@@ -45,10 +76,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-06-17",
+        "date": "2019-06-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市"
       ],
@@ -58,55 +89,145 @@
       "venues": [
         "西門紅樓二樓劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-06-17",
+          "precision": "day",
+          "region": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "city": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "venue": "西門紅樓二樓劇場",
+          "lat": 25.0421376,
+          "lon": 121.5062818,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-06-18",
+          "precision": "day",
+          "region": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "city": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "venue": "西門紅樓二樓劇場"
+        }
+      ]
     },
     {
       "name": "Ella陳嘉樺 X艾拉秀•娛樂無限",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2020-11-14",
         "precision": "day"
       },
       "end": {
-        "date": "2020-11-14",
+        "date": "2022-08-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
-        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市"
+        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+        "22x20px|border |alt=臺灣|link=臺灣 臺灣 高雄市"
       ],
       "cities": [
-        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市"
+        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+        "22x20px|border |alt=臺灣|link=臺灣 臺灣 高雄市"
       ],
       "venues": [
-        "臺北流行音樂中心"
+        "臺北流行音樂中心",
+        "高雄流行音樂中心海音館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-11-14",
+          "precision": "day",
+          "region": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "city": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-11-15",
+          "precision": "day",
+          "region": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "city": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-08-20",
+          "precision": "day",
+          "region": "22x20px|border |alt=臺灣|link=臺灣 臺灣 高雄市",
+          "city": "22x20px|border |alt=臺灣|link=臺灣 臺灣 高雄市",
+          "venue": "高雄流行音樂中心海音館",
+          "lat": 22.61777778,
+          "lon": 120.28888889,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Ella陳嘉樺 Bad Habits新專音樂會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2024-04-13",
         "precision": "day"
       },
       "end": {
-        "date": "2024-04-13",
+        "date": "2024-09-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [
-        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市"
+        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+        "中國大陸 中國 深圳",
+        "中國大陸 中國 上海",
+        "中國大陸 中國 武漢"
       ],
       "cities": [
-        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市"
+        "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+        "中國大陸 中國 深圳",
+        "中國大陸 中國 上海",
+        "中國大陸 中國 武漢"
       ],
       "venues": [
-        "臺北華山Legacy"
+        "臺北華山Legacy",
+        "So Fun Live",
+        "蜚聲上海PHASE LIVE HOUSE",
+        "不晚IN TIME LIVE"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-04-13",
+          "precision": "day",
+          "region": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "city": "22x20px|border |alt=臺灣|link=臺灣 臺灣 臺北市",
+          "venue": "臺北華山Legacy"
+        },
+        {
+          "date": "2024-05-17",
+          "precision": "day",
+          "region": "中國大陸 中國 深圳",
+          "city": "中國大陸 中國 深圳",
+          "venue": "So Fun Live"
+        },
+        {
+          "date": "2024-06-09",
+          "precision": "day",
+          "region": "中國大陸 中國 上海",
+          "city": "中國大陸 中國 上海",
+          "venue": "蜚聲上海PHASE LIVE HOUSE"
+        },
+        {
+          "date": "2024-09-07",
+          "precision": "day",
+          "region": "中國大陸 中國 武漢",
+          "city": "中國大陸 中國 武漢",
+          "venue": "不晚IN TIME LIVE"
+        }
+      ]
     },
     {
       "name": "徐若瑄 × 陳嘉樺 音樂超現場",
@@ -120,7 +241,7 @@
         "date": "2024-04-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "澳門"
       ],
@@ -130,7 +251,18 @@
       "venues": [
         "倫敦人綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-04-20",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "倫敦人綜藝館",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "巫啟賢 × 陳嘉樺 Sing Together美高梅音樂會",
@@ -144,7 +276,7 @@
         "date": "2024-07-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "澳門"
       ],
@@ -154,31 +286,66 @@
       "venues": [
         "美獅美高梅–美高梅劇院"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-07-20",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "美獅美高梅–美高梅劇院",
+          "lat": 22.145827,
+          "lon": 113.567974,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "陳嘉樺 × 韋禮安 2⼈世界演唱會",
       "page": "韋禮安",
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2024-08-24",
         "precision": "day"
       },
       "end": {
-        "date": "2024-08-24",
+        "date": "2024-09-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
-        "馬來西亞"
+        "馬來西亞",
+        "新加坡"
       ],
       "cities": [
-        "馬來西亞"
+        "馬來西亞",
+        "新加坡"
       ],
       "venues": [
-        "雲頂 雲星劇場"
+        "雲頂 雲星劇場",
+        "聖淘沙名勝世界"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-08-24",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "馬來西亞",
+          "venue": "雲頂 雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-14",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "聖淘沙名勝世界",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "It's Me 艾拉主意巡演",
@@ -189,20 +356,474 @@
         "precision": "day"
       },
       "end": {
-        "date": "2025-11-15",
+        "date": "2027-01-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 42,
       "regions": [
-        "中國大陸 中國 長沙"
+        "中國大陸 中國 長沙",
+        "中國大陸 中國 杭州",
+        "中國大陸 中國 廣州",
+        "中國大陸 中國 上海",
+        "中國大陸 中國 南寧",
+        "中國大陸 中國 西安",
+        "中國大陸 中國 重慶",
+        "中國大陸 中國 福州",
+        "中國大陸 中國 南京",
+        "中國大陸 蘇州",
+        "中國大陸 青島",
+        "中國大陸 成都",
+        "中國大陸 天津",
+        "中國大陸 廈門",
+        "中國大陸 紹興",
+        "中國大陸 北京",
+        "中國大陸 南昌",
+        "中國大陸 太原",
+        "中國大陸 東莞",
+        "中國大陸 寧波",
+        "中國大陸 烏魯木齊",
+        "中國大陸 鄭州",
+        "中國大陸 泉州"
       ],
       "cities": [
-        "中國大陸 中國 長沙"
+        "中國大陸 中國 長沙",
+        "中國大陸 中國 杭州",
+        "中國大陸 中國 廣州",
+        "中國大陸 中國 上海",
+        "中國大陸 中國 南寧",
+        "中國大陸 中國 西安",
+        "中國大陸 中國 重慶",
+        "中國大陸 中國 福州",
+        "中國大陸 中國 南京",
+        "中國大陸 蘇州",
+        "中國大陸 青島",
+        "中國大陸 成都",
+        "中國大陸 天津",
+        "中國大陸 廈門",
+        "中國大陸 紹興",
+        "中國大陸 北京",
+        "中國大陸 南昌",
+        "中國大陸 太原",
+        "中國大陸 東莞",
+        "中國大陸 寧波",
+        "中國大陸 烏魯木齊",
+        "中國大陸 鄭州",
+        "中國大陸 泉州"
       ],
       "venues": [
-        "賀龍體育館"
+        "賀龍體育館",
+        "杭州奧體中心網球中心（小蓮花）",
+        "廣州亞運城綜合體育館",
+        "浦發銀行東方體育中心",
+        "廣西體育中心體育館",
+        "西安奧林匹克體育中心體育館",
+        "重慶國際博覽中心中央大廳",
+        "福州海峽奧林匹克體育中心綜合體育館",
+        "南京奧林匹克體育中心體育館",
+        "蘇州奧林匹克體育中心體育館",
+        "青島市民健身中心體育館",
+        "五糧液文化體育中心綜合體育館",
+        "天津奧林匹克中心體育館",
+        "廈門奧林匹克體育中心鳳凰體育館",
+        "諸暨西施籃球中心體育館",
+        "華熙生物·潤百顏中心",
+        "南昌國際體育中心體育館",
+        "山西體育中心汾酒體育館",
+        "東莞銀行籃球中心",
+        "寧波奧林匹克體育中心體育館",
+        "烏魯木齊奧體中心綜合體育館",
+        "鄭州奧林匹克體育中心體育館",
+        "晉江市第二體育中心主體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-11-15",
+          "precision": "day",
+          "region": "中國大陸 中國 長沙",
+          "city": "中國大陸 中國 長沙",
+          "venue": "賀龍體育館",
+          "lat": 28.181756,
+          "lon": 112.977303,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-16",
+          "precision": "day",
+          "region": "中國大陸 中國 長沙",
+          "city": "中國大陸 中國 長沙",
+          "venue": "賀龍體育館",
+          "lat": 28.181756,
+          "lon": 112.977303,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-28",
+          "precision": "day",
+          "region": "中國大陸 中國 杭州",
+          "city": "中國大陸 中國 杭州",
+          "venue": "杭州奧體中心網球中心（小蓮花）",
+          "lat": 30.2317,
+          "lon": 120.22443,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-29",
+          "precision": "day",
+          "region": "中國大陸 中國 杭州",
+          "city": "中國大陸 中國 杭州",
+          "venue": "杭州奧體中心網球中心（小蓮花）",
+          "lat": 30.2317,
+          "lon": 120.22443,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-12-20",
+          "precision": "day",
+          "region": "中國大陸 中國 廣州",
+          "city": "中國大陸 中國 廣州",
+          "venue": "廣州亞運城綜合體育館"
+        },
+        {
+          "date": "2025-12-21",
+          "precision": "day",
+          "region": "中國大陸 中國 廣州",
+          "city": "中國大陸 中國 廣州",
+          "venue": "廣州亞運城綜合體育館"
+        },
+        {
+          "date": "2026-01-24",
+          "precision": "day",
+          "region": "中國大陸 中國 上海",
+          "city": "中國大陸 中國 上海",
+          "venue": "浦發銀行東方體育中心",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-01-25",
+          "precision": "day",
+          "region": "中國大陸 中國 上海",
+          "city": "中國大陸 中國 上海",
+          "venue": "浦發銀行東方體育中心",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-02-07",
+          "precision": "day",
+          "region": "中國大陸 中國 南寧",
+          "city": "中國大陸 中國 南寧",
+          "venue": "廣西體育中心體育館",
+          "lat": 22.767,
+          "lon": 108.388,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-02-08",
+          "precision": "day",
+          "region": "中國大陸 中國 南寧",
+          "city": "中國大陸 中國 南寧",
+          "venue": "廣西體育中心體育館",
+          "lat": 22.767,
+          "lon": 108.388,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-03-07",
+          "precision": "day",
+          "region": "中國大陸 中國 西安",
+          "city": "中國大陸 中國 西安",
+          "venue": "西安奧林匹克體育中心體育館",
+          "lat": 34.37821,
+          "lon": 109.01798,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-03-08",
+          "precision": "day",
+          "region": "中國大陸 中國 西安",
+          "city": "中國大陸 中國 西安",
+          "venue": "西安奧林匹克體育中心體育館",
+          "lat": 34.37821,
+          "lon": 109.01798,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-03-21",
+          "precision": "day",
+          "region": "中國大陸 中國 重慶",
+          "city": "中國大陸 中國 重慶",
+          "venue": "重慶國際博覽中心中央大廳"
+        },
+        {
+          "date": "2026-03-22",
+          "precision": "day",
+          "region": "中國大陸 中國 重慶",
+          "city": "中國大陸 中國 重慶",
+          "venue": "重慶國際博覽中心中央大廳"
+        },
+        {
+          "date": "2026-04-04",
+          "precision": "day",
+          "region": "中國大陸 中國 福州",
+          "city": "中國大陸 中國 福州",
+          "venue": "福州海峽奧林匹克體育中心綜合體育館",
+          "lat": 25.8532,
+          "lon": 119.609,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-04-05",
+          "precision": "day",
+          "region": "中國大陸 中國 福州",
+          "city": "中國大陸 中國 福州",
+          "venue": "福州海峽奧林匹克體育中心綜合體育館",
+          "lat": 25.8532,
+          "lon": 119.609,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-04-18",
+          "precision": "day",
+          "region": "中國大陸 中國 南京",
+          "city": "中國大陸 中國 南京",
+          "venue": "南京奧林匹克體育中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-04-19",
+          "precision": "day",
+          "region": "中國大陸 中國 南京",
+          "city": "中國大陸 中國 南京",
+          "venue": "南京奧林匹克體育中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-05-02",
+          "precision": "day",
+          "region": "中國大陸 蘇州",
+          "city": "中國大陸 蘇州",
+          "venue": "蘇州奧林匹克體育中心體育館",
+          "lat": 31.306633,
+          "lon": 120.745299,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-05-03",
+          "precision": "day",
+          "region": "中國大陸 蘇州",
+          "city": "中國大陸 蘇州",
+          "venue": "蘇州奧林匹克體育中心體育館",
+          "lat": 31.306633,
+          "lon": 120.745299,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-05-30",
+          "precision": "day",
+          "region": "中國大陸 青島",
+          "city": "中國大陸 青島",
+          "venue": "青島市民健身中心體育館",
+          "lat": 36.232348,
+          "lon": 120.215149,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-05-31",
+          "precision": "day",
+          "region": "中國大陸 青島",
+          "city": "中國大陸 青島",
+          "venue": "青島市民健身中心體育館",
+          "lat": 36.232348,
+          "lon": 120.215149,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-06-27",
+          "precision": "day",
+          "region": "中國大陸 成都",
+          "city": "中國大陸 成都",
+          "venue": "五糧液文化體育中心綜合體育館",
+          "lat": 30.771,
+          "lon": 104.076,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-06-28",
+          "precision": "day",
+          "region": "中國大陸 成都",
+          "city": "中國大陸 成都",
+          "venue": "五糧液文化體育中心綜合體育館",
+          "lat": 30.771,
+          "lon": 104.076,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-07-04",
+          "precision": "day",
+          "region": "中國大陸 天津",
+          "city": "中國大陸 天津",
+          "venue": "天津奧林匹克中心體育館",
+          "lat": 39.076389,
+          "lon": 117.171667,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-07-05",
+          "precision": "day",
+          "region": "中國大陸 天津",
+          "city": "中國大陸 天津",
+          "venue": "天津奧林匹克中心體育館",
+          "lat": 39.076389,
+          "lon": 117.171667,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-07-18",
+          "precision": "day",
+          "region": "中國大陸 廈門",
+          "city": "中國大陸 廈門",
+          "venue": "廈門奧林匹克體育中心鳳凰體育館",
+          "lat": 24.5667,
+          "lon": 118.195,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-08-01",
+          "precision": "day",
+          "region": "中國大陸 紹興",
+          "city": "中國大陸 紹興",
+          "venue": "諸暨西施籃球中心體育館"
+        },
+        {
+          "date": "2026-08-02",
+          "precision": "day",
+          "region": "中國大陸 紹興",
+          "city": "中國大陸 紹興",
+          "venue": "諸暨西施籃球中心體育館"
+        },
+        {
+          "date": "2026-08-15",
+          "precision": "day",
+          "region": "中國大陸 北京",
+          "city": "中國大陸 北京",
+          "venue": "華熙生物·潤百顏中心",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-08-16",
+          "precision": "day",
+          "region": "中國大陸 北京",
+          "city": "中國大陸 北京",
+          "venue": "華熙生物·潤百顏中心",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-08-29",
+          "precision": "day",
+          "region": "中國大陸 南昌",
+          "city": "中國大陸 南昌",
+          "venue": "南昌國際體育中心體育館"
+        },
+        {
+          "date": "2026-08-30",
+          "precision": "day",
+          "region": "中國大陸 南昌",
+          "city": "中國大陸 南昌",
+          "venue": "南昌國際體育中心體育館"
+        },
+        {
+          "date": "2026-09-12",
+          "precision": "day",
+          "region": "中國大陸 太原",
+          "city": "中國大陸 太原",
+          "venue": "山西體育中心汾酒體育館",
+          "lat": 37.7572,
+          "lon": 112.53,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-09-26",
+          "precision": "day",
+          "region": "中國大陸 東莞",
+          "city": "中國大陸 東莞",
+          "venue": "東莞銀行籃球中心",
+          "lat": 22.99889,
+          "lon": 113.8349,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-09-27",
+          "precision": "day",
+          "region": "中國大陸 東莞",
+          "city": "中國大陸 東莞",
+          "venue": "東莞銀行籃球中心",
+          "lat": 22.99889,
+          "lon": 113.8349,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-10-10",
+          "precision": "day",
+          "region": "中國大陸 寧波",
+          "city": "中國大陸 寧波",
+          "venue": "寧波奧林匹克體育中心體育館",
+          "lat": 29.933416666666666,
+          "lon": 121.48594444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-10-11",
+          "precision": "day",
+          "region": "中國大陸 寧波",
+          "city": "中國大陸 寧波",
+          "venue": "寧波奧林匹克體育中心體育館",
+          "lat": 29.933416666666666,
+          "lon": 121.48594444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-10-24",
+          "precision": "day",
+          "region": "中國大陸 烏魯木齊",
+          "city": "中國大陸 烏魯木齊",
+          "venue": "烏魯木齊奧體中心綜合體育館"
+        },
+        {
+          "date": "2026-11-07",
+          "precision": "day",
+          "region": "中國大陸 鄭州",
+          "city": "中國大陸 鄭州",
+          "venue": "鄭州奧林匹克體育中心體育館",
+          "lat": 34.7426,
+          "lon": 113.5308,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-12-31",
+          "precision": "day",
+          "region": "中國大陸 泉州",
+          "city": "中國大陸 泉州",
+          "venue": "晉江市第二體育中心主體育館"
+        },
+        {
+          "date": "2027-01-01",
+          "precision": "day",
+          "region": "中國大陸 泉州",
+          "city": "中國大陸 泉州",
+          "venue": "晉江市第二體育中心主體育館"
+        }
+      ]
     }
   ]
 }

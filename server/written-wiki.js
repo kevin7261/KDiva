@@ -69,6 +69,32 @@ function splitSongs(cell) {
   return masked.split(/\s*[、，,；;／/]\s*/).map((p) => p.replace(/\u0001/g, '／'))
 }
 
+/**
+ * 條列格式的創作列表：「*歌名-[[歌手]]」（鄭華娟、謝銘祐等詞曲作家的條目多半這樣寫，不是表格）。
+ * 以最後一個連字號切開，右邊是演唱者；右邊太長、像作品類型（電影／專輯）或就是本人時都跳過。
+ */
+function parseWrittenList(text, selfNames) {
+  const out = []
+  for (const raw of text.split('\n')) {
+    if (!/^[*#]+\s*/.test(raw)) continue
+    const line = plain(raw.replace(/^[*#]+\s*/, ''))
+    if (!line || /^\s*$/.test(line)) continue
+    // 自己的唱片那一段是「專輯名（年份，公司）」，沒有「-歌手」結構
+    const cut = Math.max(line.lastIndexOf('-'), line.lastIndexOf('－'), line.lastIndexOf('—'), line.lastIndexOf('–'))
+    if (cut <= 0 || cut === line.length - 1) continue
+    const singer = line.slice(cut + 1).replace(/[（(].*$/, '').trim()
+    const songCell = line.slice(0, cut).trim()
+    if (!singer || singer.length > 20 || NOT_SINGER.test(singer)) continue
+    if (selfNames.some((n) => n && singer === n)) continue
+    for (const part of splitSongs(songCell)) {
+      const { song, roles } = splitRoles(part)
+      if (!song || song.length > 40 || /^\d/.test(song)) continue
+      out.push({ song, singer, roles: roles.length ? roles : ['創作'], album: '', year: null })
+    }
+  }
+  return out
+}
+
 export async function fetchWrittenWorks(artistConfig, log = () => {}) {
   if (!artistConfig.wiki) return []
   const main = await wikiApi({ action: 'parse', page: artistConfig.wiki, prop: 'wikitext', redirects: '1' })
@@ -80,8 +106,19 @@ export async function fetchWrittenWorks(artistConfig, log = () => {}) {
   const out = []
   const seen = new Set()
   for (const { content } of pages) {
-    for (const sec of sections(content)) {
-      if (!SECTION.test(sec.title)) continue
+    for (let sec of sections(content)) {
+      // 章節標題符合，或章節內文有「创作作品：」這種行內小標（鄭華娟的條目就是寫在「音樂」章節裡）
+      const marker = sec.text.match(new RegExp(`^[^\\n]*(?:${SECTION.source})[^\\n]*[：:]\\s*$`, 'm'))
+      if (!SECTION.test(sec.title) && !marker) continue
+      // 有行內小標時只讀它後面那段，避免把上面「自己的唱片」清單也讀進來
+      if (marker) sec = { ...sec, text: sec.text.slice(marker.index + marker[0].length) }
+      // 條列格式（「*歌名-[[歌手]]」）；表格在下面另外處理
+      for (const w of parseWrittenList(sec.text, [artistConfig.name, artistConfig.en, ...(artistConfig.aliases ?? [])])) {
+        const key = `${w.song}|${w.singer}`
+        if (seen.has(key)) continue
+        seen.add(key)
+        out.push(w)
+      }
       for (const table of readTables(sec.text)) {
         const { header, rows } = withHeader(table)
         const head = header ?? []

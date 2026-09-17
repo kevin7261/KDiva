@@ -1,6 +1,6 @@
 {
   "slug": "qingfeng-wu",
-  "fetchedAt": "2026-09-17T15:07:33.428Z",
+  "fetchedAt": "2026-09-17T23:13:23.080Z",
   "wiki": "吳青峰",
   "bio": {
     "born": {
@@ -42,7 +42,7 @@
         "date": "2007-07-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -50,7 +50,15 @@
       "venues": [
         "河岸留言"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-07-19",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "河岸留言"
+        }
+      ]
     },
     {
       "name": "阿密特再，見！私。密？音樂會",
@@ -64,7 +72,7 @@
         "date": "2010-09-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -72,7 +80,15 @@
       "venues": [
         "Legacy Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-09-11",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "Legacy Taipei"
+        }
+      ]
     },
     {
       "name": "Tanya and the Cities亞洲巡迴演唱會",
@@ -86,7 +102,7 @@
         "date": "2011-03-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -94,7 +110,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-03-26",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Green音樂會",
@@ -108,7 +135,7 @@
         "date": "2011-06-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -116,7 +143,15 @@
       "venues": [
         "Legacy Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-06-29",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "Legacy Taipei"
+        }
+      ]
     },
     {
       "name": "Love & FanFan世界巡迴演唱會",
@@ -130,7 +165,7 @@
         "date": "2011-09-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸 北京"
       ],
@@ -138,7 +173,18 @@
       "venues": [
         "工人體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-09-09",
+          "precision": "day",
+          "region": "中國大陸 北京",
+          "city": "",
+          "venue": "工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "為愛啟丞世界巡迴演唱會",
@@ -152,7 +198,7 @@
         "date": "2013-03-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -160,7 +206,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-03-23",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "張懸 & Algae to ebb 潮水箴言演唱會",
@@ -174,7 +231,7 @@
         "date": "2013-05-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "香港"
       ],
@@ -182,7 +239,18 @@
       "venues": [
         "九龍灣國際展貿中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-05-29",
+          "precision": "day",
+          "region": "香港",
+          "city": "",
+          "venue": "九龍灣國際展貿中心",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "純粹世界巡迴演唱會",
@@ -196,7 +264,7 @@
         "date": "2016-07-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -204,7 +272,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-07-23",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "愛最大·其實我們都一樣！婚姻平權公益演唱會",
@@ -218,7 +297,7 @@
         "date": "2016-08-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -226,7 +305,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-08-01",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "像我這樣的人 個人全國巡迴演唱會",
@@ -240,7 +330,7 @@
         "date": "2018-10-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸 北京"
       ],
@@ -248,7 +338,18 @@
       "venues": [
         "工人體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-10-13",
+          "precision": "day",
+          "region": "中國大陸 北京",
+          "city": "",
+          "venue": "工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "旅程世界巡迴演唱會",
@@ -262,7 +363,7 @@
         "date": "2018-12-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -270,7 +371,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-12-14",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Waiting on the day演唱會",
@@ -284,7 +396,7 @@
         "date": "2019-10-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -292,7 +404,15 @@
       "venues": [
         "Legacy Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-10-06",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "Legacy Taipei"
+        }
+      ]
     },
     {
       "name": "蝕日Eclipse演唱會",
@@ -306,7 +426,7 @@
         "date": "2019-10-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -314,7 +434,15 @@
       "venues": [
         "Legacy Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-10-25",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "Legacy Taipei"
+        }
+      ]
     },
     {
       "name": "太空備忘記",
@@ -474,7 +602,7 @@
         "date": "2019-12-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸 上海"
       ],
@@ -482,7 +610,18 @@
       "venues": [
         "梅賽德斯-奔馳文化中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-12-21",
+          "precision": "day",
+          "region": "中國大陸 上海",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "我們一起走Go Together演唱會",
@@ -496,7 +635,7 @@
         "date": "2019-12-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -504,7 +643,15 @@
       "venues": [
         "Legacy Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-12-28",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "Legacy Taipei"
+        }
+      ]
     },
     {
       "name": "Ugly Beauty世界巡迴演唱會",
@@ -518,7 +665,7 @@
         "date": "2020-01-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -526,7 +673,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-01-01",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "16葉",
@@ -725,7 +883,7 @@
         "date": "2020-11-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -733,7 +891,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-11-06",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "上下冊",
@@ -904,7 +1073,7 @@
         "date": "2023-02-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 新北"
       ],
@@ -912,7 +1081,18 @@
       "venues": [
         "Zepp New Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-02-21",
+          "precision": "day",
+          "region": "臺灣 新北",
+          "city": "",
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "一一巡迴演唱會最終場",
@@ -926,7 +1106,7 @@
         "date": "2023-08-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -934,7 +1114,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-08-13",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "週末愉快演唱會",
@@ -948,7 +1139,7 @@
         "date": "2023-08-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸 成都"
       ],
@@ -956,7 +1147,18 @@
       "venues": [
         "鳳凰山體育公園體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-08-25",
+          "precision": "day",
+          "region": "中國大陸 成都",
+          "city": "",
+          "venue": "鳳凰山體育公園體育館",
+          "lat": 30.771,
+          "lon": 104.076,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "牧羊人的星期三",
@@ -1035,7 +1237,7 @@
         "date": "2024-06-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -1043,7 +1245,18 @@
       "venues": [
         "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-06-09",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "SUGAR HIGH 2.0 世界巡迴演唱會",
@@ -1057,7 +1270,7 @@
         "date": "2024-10-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -1065,7 +1278,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-10-13",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "如果在冬夜，一個旅人",
@@ -1164,7 +1388,7 @@
         "date": "2025-01-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸 海口"
       ],
@@ -1172,7 +1396,18 @@
       "venues": [
         "五源河體育中心體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-01-18",
+          "precision": "day",
+          "region": "中國大陸 海口",
+          "city": "",
+          "venue": "五源河體育中心體育場",
+          "lat": 20.02642,
+          "lon": 110.2123,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "變得有些奢侈的事巡迴演唱會",
@@ -1186,7 +1421,7 @@
         "date": "2025-06-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸 上海"
       ],
@@ -1194,7 +1429,18 @@
       "venues": [
         "梅賽德斯-奔馳文化中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-06-14",
+          "precision": "day",
+          "region": "中國大陸 上海",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "風採依舊·在 巡迴演唱會",
@@ -1205,18 +1451,38 @@
         "precision": "day"
       },
       "end": {
-        "date": "2025-09-06",
+        "date": "2025-11-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
-        "中國大陸 成都"
+        "中國大陸 成都",
+        "中國大陸 北京"
       ],
       "cities": [],
       "venues": [
-        "華熙LIVE·528M空間"
+        "華熙LIVE·528M空間",
+        "北京展覽館劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-09-06",
+          "precision": "day",
+          "region": "中國大陸 成都",
+          "city": "",
+          "venue": "華熙LIVE·528M空間"
+        },
+        {
+          "date": "2025-11-22",
+          "precision": "day",
+          "region": "中國大陸 北京",
+          "city": "",
+          "venue": "北京展覽館劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "20週年特別呈現下一站演唱會",
@@ -1230,7 +1496,7 @@
         "date": "2025-09-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸 北京"
       ],
@@ -1238,7 +1504,18 @@
       "venues": [
         "首都體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-09-27",
+          "precision": "day",
+          "region": "中國大陸 北京",
+          "city": "",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "不是因為天氣晴朗才見面",
@@ -1252,7 +1529,7 @@
         "date": "2025-11-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北"
       ],
@@ -1260,7 +1537,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-11-02",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "豫·見 演唱會跨年特別場",
@@ -1274,7 +1562,7 @@
         "date": "2025-12-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸 杭州"
       ],
@@ -1282,7 +1570,15 @@
       "venues": [
         "拱墅運河體育公園體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-12-31",
+          "precision": "day",
+          "region": "中國大陸 杭州",
+          "city": "",
+          "venue": "拱墅運河體育公園體育館"
+        }
+      ]
     },
     {
       "name": "皇后與夢想演唱會",
@@ -1293,10 +1589,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2026-03-14",
+        "date": "2026-03-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "中國大陸 上海"
       ],
@@ -1304,7 +1600,28 @@
       "venues": [
         "梅賽德斯-奔馳文化中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-03-14",
+          "precision": "day",
+          "region": "中國大陸 上海",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-03-15",
+          "precision": "day",
+          "region": "中國大陸 上海",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

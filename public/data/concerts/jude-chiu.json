@@ -1,6 +1,6 @@
 {
   "slug": "jude-chiu",
-  "fetchedAt": "2026-09-17T21:26:23.806Z",
+  "fetchedAt": "2026-09-17T23:13:30.125Z",
   "wiki": "裘德",
   "bio": {
     "born": {
@@ -15,24 +15,59 @@
     {
       "name": "最後的水族館 演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2023-03-18",
         "precision": "day"
       },
       "end": {
-        "date": "2023-03-18",
+        "date": "2023-04-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
-        "北京"
+        "北京",
+        "廣州",
+        "上海"
       ],
       "venues": [
-        "北展劇場"
+        "北展劇場",
+        "中山紀念堂",
+        "上海文化廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-03-18",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "北展劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-04-08",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "中山紀念堂",
+          "lat": 23.136080555555555,
+          "lon": 113.25935833333334,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-04-18",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "上海文化廣場",
+          "lat": 31.214,
+          "lon": 121.458,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

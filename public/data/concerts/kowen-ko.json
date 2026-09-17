@@ -1,0 +1,143 @@
+{
+  "slug": "kowen-ko",
+  "fetchedAt": "2026-09-17T23:12:52.697Z",
+  "wiki": "柯智棠",
+  "bio": {
+    "born": {
+      "date": "1990-04-21",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "唱遍臺灣演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2015-07-15",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-12-25",
+        "precision": "day"
+      },
+      "showCount": 11,
+      "regions": [
+        "臺灣 臺北",
+        "臺灣 高雄",
+        "臺灣 臺東",
+        "臺灣 宜蘭",
+        "臺灣 花蓮",
+        "臺灣 桃園",
+        "臺灣 臺中"
+      ],
+      "cities": [
+        "臺灣 臺北",
+        "臺灣 高雄",
+        "臺灣 臺東",
+        "臺灣 宜蘭",
+        "臺灣 花蓮",
+        "臺灣 桃園",
+        "臺灣 臺中"
+      ],
+      "venues": [
+        "offline 離線咖啡",
+        "In Our Time",
+        "鐵花村 w",
+        "Legacy mini @ amba",
+        "The WALL 賣捌所",
+        "璞石咖啡",
+        "ThERE CAFE & LIVE HOUSE",
+        "風和日麗唱片行",
+        "海邊的卡夫卡",
+        "Forro Cafe",
+        "Legacy"
+      ],
+      "shows": [
+        {
+          "date": "2015-07-15",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "臺灣 臺北",
+          "venue": "offline 離線咖啡"
+        },
+        {
+          "date": "2015-08-07",
+          "precision": "day",
+          "region": "臺灣 高雄",
+          "city": "臺灣 高雄",
+          "venue": "In Our Time",
+          "lat": 22.6199,
+          "lon": 120.282,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-08-08",
+          "precision": "day",
+          "region": "臺灣 臺東",
+          "city": "臺灣 臺東",
+          "venue": "鐵花村 w"
+        },
+        {
+          "date": "2015-08-23",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "臺灣 臺北",
+          "venue": "Legacy mini @ amba"
+        },
+        {
+          "date": "2015-08-29",
+          "precision": "day",
+          "region": "臺灣 宜蘭",
+          "city": "臺灣 宜蘭",
+          "venue": "The WALL 賣捌所"
+        },
+        {
+          "date": "2015-08-30",
+          "precision": "day",
+          "region": "臺灣 花蓮",
+          "city": "臺灣 花蓮",
+          "venue": "璞石咖啡"
+        },
+        {
+          "date": "2015-09-12",
+          "precision": "day",
+          "region": "臺灣 桃園",
+          "city": "臺灣 桃園",
+          "venue": "ThERE CAFE & LIVE HOUSE"
+        },
+        {
+          "date": "2015-09-27",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "臺灣 臺北",
+          "venue": "風和日麗唱片行"
+        },
+        {
+          "date": "2015-10-23",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "臺灣 臺北",
+          "venue": "海邊的卡夫卡"
+        },
+        {
+          "date": "2015-11-14",
+          "precision": "day",
+          "region": "臺灣 臺中",
+          "city": "臺灣 臺中",
+          "venue": "Forro Cafe"
+        },
+        {
+          "date": "2015-12-25",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "臺灣 臺北",
+          "venue": "Legacy"
+        }
+      ]
+    }
+  ]
+}
