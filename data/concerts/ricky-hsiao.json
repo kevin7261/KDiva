@@ -1,6 +1,6 @@
 {
   "slug": "ricky-hsiao",
-  "fetchedAt": "2026-09-17T15:05:01.681Z",
+  "fetchedAt": "2026-09-17T23:06:31.461Z",
   "wiki": "蕭煌奇",
   "bio": {
     "born": {
@@ -15,26 +15,61 @@
     {
       "name": "【蕭煌奇＆楊培安】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2008-05-02",
         "precision": "day"
       },
       "end": {
-        "date": "2008-05-02",
+        "date": "2008-05-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "高雄"
+        "高雄",
+        "臺中",
+        "臺北"
       ],
       "venues": [
-        "文化中心至德堂"
+        "文化中心至德堂",
+        "臺中市中興大學惠蓀堂",
+        "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-05-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "文化中心至德堂",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2008-05-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "臺中市中興大學惠蓀堂",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2008-05-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【愛作夢的人】",
@@ -48,7 +83,7 @@
         "date": "2010-09-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -58,127 +93,287 @@
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-09-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【思念會驚】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2012-02-25",
         "precision": "day"
       },
       "end": {
-        "date": "2012-02-25",
+        "date": "2012-03-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "高雄"
       ],
       "venues": [
-        "Legacy 臺北"
+        "Legacy 臺北",
+        "駁二藝術特區"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-02-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy 臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2012-03-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "駁二藝術特區",
+          "lat": 22.6199,
+          "lon": 120.282,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【幸福在叫我】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2012-08-03",
         "precision": "day"
       },
       "end": {
-        "date": "2012-08-03",
+        "date": "2012-08-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "臺中"
       ],
       "venues": [
-        "臺北國際會議中心"
+        "臺北國際會議中心",
+        "臺中市中興大學惠蓀堂"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-08-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-08-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-08-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "臺中市中興大學惠蓀堂",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "黃小琥 x 蕭煌奇【True Voice】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2012-09-22",
         "precision": "day"
       },
       "end": {
-        "date": "2012-09-22",
+        "date": "2013-05-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
-        "香港"
+        "香港",
+        "澳門"
       ],
       "cities": [
-        "香港"
+        "香港",
+        "澳門"
       ],
       "venues": [
-        "香港體育館"
+        "香港體育館",
+        "金光綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-09-22",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-05-18",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【好好先生】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2013-03-09",
         "precision": "day"
       },
       "end": {
-        "date": "2013-03-09",
+        "date": "2015-11-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
-        "臺灣"
+        "臺灣",
+        "香港"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "香港"
       ],
       "venues": [
-        "Legacy 臺北"
+        "Legacy 臺北",
+        "九龍灣國際展貿中心STAR HALL"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-03-09",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy 臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2015-11-13",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "九龍灣國際展貿中心STAR HALL",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【過我的生活】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2014-06-21",
         "precision": "day"
       },
       "end": {
-        "date": "2014-06-21",
+        "date": "2014-08-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "彰化"
+        "彰化",
+        "高雄",
+        "新北"
       ],
       "venues": [
-        "員林演藝廳"
+        "員林演藝廳",
+        "文化中心至德堂",
+        "新莊文化藝術中心演藝廳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-06-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "彰化",
+          "venue": "員林演藝廳",
+          "lat": 23.94933333,
+          "lon": 120.57877778,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-07-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "文化中心至德堂",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2014-08-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新北",
+          "venue": "新莊文化藝術中心演藝廳",
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "city"
+        },
+        {
+          "date": "2014-08-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新北",
+          "venue": "新莊文化藝術中心演藝廳",
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【感謝你愛我】",
@@ -192,7 +387,7 @@
         "date": "2014-11-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -202,7 +397,18 @@
       "venues": [
         "Legacy 臺中"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-11-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy 臺中",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【Voice Up 讚聲】",
@@ -213,10 +419,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2016-04-16",
+        "date": "2018-05-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
@@ -226,7 +432,28 @@
       "venues": [
         "Legacy 臺北"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-04-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy 臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2018-05-05",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy 臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【神秘世界】",
@@ -240,7 +467,7 @@
         "date": "2016-10-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -250,7 +477,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-10-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【就愛在一起】",
@@ -264,7 +502,7 @@
         "date": "2017-09-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -274,31 +512,77 @@
       "venues": [
         "ATT SHOW BOX"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-09-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "ATT SHOW BOX",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【人生我敬你一杯】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2017-12-17",
         "precision": "day"
       },
       "end": {
-        "date": "2017-12-17",
+        "date": "2017-12-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "臺中",
+        "高雄"
       ],
       "venues": [
-        "河岸留言西門紅樓展演館"
+        "河岸留言西門紅樓展演館",
+        "TADA方舟音樂藝文展演空間",
+        "藍色狂想BLUE FANTACY"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-12-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "河岸留言西門紅樓展演館",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2017-12-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "TADA方舟音樂藝文展演空間",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2017-12-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "藍色狂想BLUE FANTACY",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【有你陪伴】",
@@ -312,7 +596,7 @@
         "date": "2018-09-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -322,7 +606,18 @@
       "venues": [
         "Legacy 臺北"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-09-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy 臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【人生劇場放映中】",
@@ -336,7 +631,7 @@
         "date": "2019-11-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -346,7 +641,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-11-30",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【對愛入座】",
@@ -360,7 +666,7 @@
         "date": "2020-09-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -370,31 +676,77 @@
       "venues": [
         "信義劇場 Legacy Max"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-09-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "信義劇場 Legacy Max",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【舞臺】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2021-04-03",
         "precision": "day"
       },
       "end": {
-        "date": "2021-04-03",
+        "date": "2021-04-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "臺中",
+        "高雄"
       ],
       "venues": [
-        "Legacy 臺北"
+        "Legacy 臺北",
+        "Legacy 臺中",
+        "高雄 LIVE WAREHOUSE"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-04-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy 臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2021-04-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy 臺中",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2021-04-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄 LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "李佳薇 x 蕭煌奇【說故事的歌手】",
@@ -408,7 +760,7 @@
         "date": "2022-09-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "馬來西亞"
       ],
@@ -418,31 +770,86 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-09-03",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "馬來西亞",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【朋友你現在好嗎?】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2022-12-24",
         "precision": "day"
       },
       "end": {
-        "date": "2022-12-24",
+        "date": "2025-05-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "高雄"
       ],
       "venues": [
-        "臺北國際會議中心"
+        "臺北國際會議中心",
+        "高雄流行音樂中心",
+        "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-12-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-12-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄流行音樂中心",
+          "lat": 22.61777778,
+          "lon": 120.28888889,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-05-31",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【天生我奇必有用】",
@@ -453,10 +860,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2023-09-16",
+        "date": "2023-09-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
@@ -466,31 +873,85 @@
       "venues": [
         "臺北市立啟明學校"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-09-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北市立啟明學校",
+          "lat": 25.11691666666667,
+          "lon": 121.5351111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北市立啟明學校",
+          "lat": 25.11691666666667,
+          "lon": 121.5351111111111,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【Good Show】",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2024-05-12",
         "precision": "day"
       },
       "end": {
-        "date": "2024-05-12",
+        "date": "2024-11-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "臺南"
       ],
       "venues": [
-        "Legacy 臺北"
+        "Legacy 臺北",
+        "十鼓文創園區"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-05-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy 臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2024-11-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺南",
+          "venue": "十鼓文創園區",
+          "lat": 22.99,
+          "lon": 120.185,
+          "geo": "city"
+        },
+        {
+          "date": "2024-11-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺南",
+          "venue": "十鼓文創園區",
+          "lat": 22.99,
+          "lon": 120.185,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【18啦 forever】",
@@ -504,7 +965,7 @@
         "date": "2024-09-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -514,7 +975,18 @@
       "venues": [
         "Legacy TERA"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-09-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy TERA",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【你是我的眼】",
@@ -528,7 +1000,7 @@
         "date": "2025-08-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "美國"
       ],
@@ -538,7 +1010,18 @@
       "venues": [
         "Yaamava Resort & Casino at San Manuel（高山賭場渡假村）豪華劇院"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-08-09",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "Yaamava Resort & Casino at San Manuel（高山賭場渡假村）豪華劇院",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【做一個惜情軟心的人】",
@@ -552,7 +1035,7 @@
         "date": "2025-09-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -562,7 +1045,18 @@
       "venues": [
         "Legacy TERA"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-09-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy TERA",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【BRAVO】",
@@ -573,10 +1067,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2026-09-18",
+        "date": "2026-09-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
@@ -586,7 +1080,28 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-09-18",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-09-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

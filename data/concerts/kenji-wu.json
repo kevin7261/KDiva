@@ -1,6 +1,6 @@
 {
   "slug": "kenji-wu",
-  "fetchedAt": "2026-09-17T15:04:56.076Z",
+  "fetchedAt": "2026-09-17T23:07:41.415Z",
   "wiki": "吳克群",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2009-08-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "深圳"
@@ -32,7 +32,18 @@
       "venues": [
         "深圳體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-08-29",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳體育館",
+          "lat": 22.559944444444444,
+          "lon": 114.08855555555554,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "臺北漁人碼頭演唱會",
@@ -46,7 +57,7 @@
         "date": "2010-12-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -54,7 +65,18 @@
       "venues": [
         "臺北市漁人碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-12-11",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北市漁人碼頭",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "真心話大冒險音樂會",
@@ -68,7 +90,7 @@
         "date": "2012-10-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -76,7 +98,18 @@
       "venues": [
         "Legacy"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-10-17",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "數星星的人-新歌演唱會",
@@ -90,7 +123,7 @@
         "date": "2015-05-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北"
@@ -98,29 +131,63 @@
       "venues": [
         "華山劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-05-16",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "華山劇場",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "QQ音樂巔峰尊享會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2015-07-11",
         "precision": "day"
       },
       "end": {
-        "date": "2015-07-11",
+        "date": "2015-08-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
-        "北京"
+        "北京",
+        "寧波"
       ],
       "venues": [
-        "北京展覽館劇場"
+        "北京展覽館劇場",
+        "寧波大劇院"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-07-11",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "北京展覽館劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-08-15",
+          "precision": "day",
+          "region": "",
+          "city": "寧波",
+          "venue": "寧波大劇院",
+          "lat": 29.89456388888889,
+          "lon": 121.54391666666666,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "吳克群YY玩唱會",
@@ -134,7 +201,7 @@
         "date": "2015-08-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "北京"
@@ -142,7 +209,18 @@
       "venues": [
         "糖果TANGO"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-08-21",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "糖果TANGO",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "銀河里擁抱 巡迴演唱會",

@@ -1,6 +1,6 @@
 {
   "slug": "matilda-tao",
-  "fetchedAt": "2026-09-17T15:02:36.739Z",
+  "fetchedAt": "2026-09-17T23:03:00.407Z",
   "wiki": "陶晶瑩",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2000-10-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -34,7 +34,18 @@
       "venues": [
         "南港101文創會館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-10-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "南港101文創會館",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "陶子青春",
@@ -48,7 +59,7 @@
         "date": "2002-05-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -58,7 +69,18 @@
       "venues": [
         "南港101文創會館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2002-05-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "南港101文創會館",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "超犀利啥小趴－太委屈之現在才開",
@@ -72,7 +94,7 @@
         "date": "2015-07-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -82,7 +104,18 @@
       "venues": [
         "松山文創園區一號倉庫"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-07-11",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "松山文創園區一號倉庫",
+          "lat": 25.04361111,
+          "lon": 121.5625,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "陶晶瑩的1999年",
@@ -93,10 +126,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2018-11-03",
+        "date": "2018-11-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
@@ -106,7 +139,28 @@
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-11-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-11-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "MOMAN",
@@ -120,7 +174,7 @@
         "date": "2022-07-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -130,7 +184,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-07-30",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

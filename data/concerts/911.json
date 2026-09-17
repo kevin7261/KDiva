@@ -1,0 +1,232 @@
+{
+  "slug": "911",
+  "fetchedAt": "2026-09-17T23:11:26.152Z",
+  "wiki": "玖壹壹",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": {
+      "date": "2009-09-11",
+      "precision": "day"
+    },
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "明天依然愛你演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2014-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "TADA 方舟音樂藝文展演空間"
+      ],
+      "venues": [
+        "TADA 方舟音樂藝文展演空間"
+      ],
+      "shows": []
+    },
+    {
+      "name": "音樂革命演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2015-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "一中益民商圈"
+      ],
+      "venues": [
+        "一中益民商圈"
+      ],
+      "shows": []
+    },
+    {
+      "name": "臺中秀屋演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2016-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2016-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺中秀屋"
+      ],
+      "venues": [
+        "臺中秀屋"
+      ],
+      "shows": []
+    },
+    {
+      "name": "玖壹壹2018臺玖線 一票玩到底演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2018-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2018-01-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-07-29",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [],
+      "cities": [
+        "廈門",
+        "石獅"
+      ],
+      "venues": [
+        "沙坡尾藝術西區",
+        "石獅服裝城展覽藝術中心",
+        "廈門五緣灣上古文化園"
+      ],
+      "shows": [
+        {
+          "date": "2018-01-20",
+          "precision": "day",
+          "region": "",
+          "city": "廈門",
+          "venue": "沙坡尾藝術西區",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "city"
+        },
+        {
+          "date": "2018-01-21",
+          "precision": "day",
+          "region": "",
+          "city": "廈門",
+          "venue": "沙坡尾藝術西區",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "city"
+        },
+        {
+          "date": "2018-07-28",
+          "precision": "day",
+          "region": "",
+          "city": "石獅",
+          "venue": "石獅服裝城展覽藝術中心",
+          "lat": 24.73548,
+          "lon": 118.6434,
+          "geo": "city"
+        },
+        {
+          "date": "2018-07-29",
+          "precision": "day",
+          "region": "",
+          "city": "廈門",
+          "venue": "廈門五緣灣上古文化園",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "ANK混血兒娛樂5週年派對",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2019-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "ALTA Night Club"
+      ],
+      "venues": [
+        "ALTA Night Club"
+      ],
+      "shows": []
+    },
+    {
+      "name": "玖壹壹 LOCAL 不確定會不會巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2021-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2021-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺北流行音樂中心"
+      ],
+      "venues": [
+        "臺北流行音樂中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "玖壹壹BROMAN",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2023-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "小巨蛋演唱會"
+      ],
+      "venues": [
+        "小巨蛋演唱會"
+      ],
+      "shows": []
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "slug": "ronald-cheng",
-  "fetchedAt": "2026-09-17T18:03:15.951Z",
+  "fetchedAt": "2026-09-17T23:05:13.533Z",
   "wiki": "鄭中基",
   "bio": {
     "born": {
@@ -123,22 +123,64 @@
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2006-04-01",
-        "precision": "month"
+        "date": "2006-04-21",
+        "precision": "day"
       },
       "end": {
-        "date": "2006-04-01",
-        "precision": "month"
+        "date": "2008-10-04",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
         "紅磡香港體育館"
       ],
       "venues": [
-        "紅磡香港體育館"
+        "紅磡香港體育館",
+        "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-04-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-04-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-10-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-10-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "澳門漁人碼頭拉近偶像系列鄭中基演唱會",
@@ -174,7 +216,7 @@
         "date": "2007-02-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "九龍灣國際展貿中心主展覽館B"
@@ -182,7 +224,18 @@
       "venues": [
         "九龍灣國際展貿中心主展覽館B"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-02-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "九龍灣國際展貿中心主展覽館B",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "鄭中基梁漢文雲頂演唱會2007",
@@ -196,7 +249,7 @@
         "date": "2007-04-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "雲頂世界雲星劇場"
@@ -204,7 +257,18 @@
       "venues": [
         "雲頂世界雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-04-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "雲頂世界雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "鄭中基上海演唱會",
@@ -218,7 +282,7 @@
         "date": "2007-06-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "上海大舞臺"
@@ -226,21 +290,32 @@
       "venues": [
         "上海大舞臺"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-06-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "港樂鄭中基梁漢文演唱會",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2008-03-01",
-        "precision": "month"
+        "date": "2008-03-14",
+        "precision": "day"
       },
       "end": {
-        "date": "2008-03-01",
-        "precision": "month"
+        "date": "2008-03-16",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "紅磡香港體育館"
@@ -248,7 +323,28 @@
       "venues": [
         "紅磡香港體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-03-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-03-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "鄭中基 梁詠琪2013大馬演唱會",
@@ -262,7 +358,7 @@
         "date": "2013-08-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "雲頂世界雲星劇場"
@@ -270,98 +366,88 @@
       "venues": [
         "雲頂世界雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-08-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "雲頂世界雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        }
+      ]
     },
     {
-      "name": "鄭中基Play It Again巡迴演唱會澳門站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2016-09-10",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2016-09-10",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "金光綜藝館"
-      ],
-      "venues": [
-        "金光綜藝館"
-      ],
-      "shows": []
-    },
-    {
-      "name": "鄭中基Play It Again巡迴演唱會香港站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2017-01-01",
-        "precision": "month"
-      },
-      "end": {
-        "date": "2017-01-01",
-        "precision": "month"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "紅磡香港體育館"
-      ],
-      "venues": [
-        "紅磡香港體育館"
-      ],
-      "shows": []
-    },
-    {
-      "name": "鄭中基Play It Again巡迴演唱會臺北站",
+      "name": "鄭中基Play It Again巡迴演唱會",
       "page": "鄭東漢",
       "kind": "tour",
       "start": {
-        "date": "2017-12-23",
+        "date": "2016-09-10",
         "precision": "day"
       },
       "end": {
         "date": "2017-12-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
-        "臺北小巨蛋"
+        "澳門",
+        "香港",
+        "臺北"
       ],
       "venues": [
+        "金光綜藝館",
+        "紅磡香港體育館",
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-09-10",
+          "precision": "day",
+          "region": "",
+          "city": "澳門",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-01-27",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-01-30",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-12-23",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
-      "name": "鄭中基One More Time世界巡迴演唱會香港站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2019-02-01",
-        "precision": "month"
-      },
-      "end": {
-        "date": "2019-02-01",
-        "precision": "month"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "紅磡香港體育館"
-      ],
-      "venues": [
-        "紅磡香港體育館"
-      ],
-      "shows": []
-    },
-    {
-      "name": "鄭中基One More Time世界巡迴演唱會LA站",
+      "name": "鄭中基One More Time世界巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
@@ -369,120 +455,83 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-06-29",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "The Show at Agua Caliente Casino"
-      ],
-      "venues": [
-        "The Show at Agua Caliente Casino"
-      ],
-      "shows": []
-    },
-    {
-      "name": "鄭中基One More Time世界巡迴演唱會Reno站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2019-07-06",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2019-07-06",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "Reno Events Center"
-      ],
-      "venues": [
-        "Reno Events Center"
-      ],
-      "shows": []
-    },
-    {
-      "name": "鄭中基One More Time世界巡迴演唱會新加坡站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2019-08-24",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2019-08-24",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "聖淘沙名勝世界宴會廳"
-      ],
-      "venues": [
-        "聖淘沙名勝世界宴會廳"
-      ],
-      "shows": []
-    },
-    {
-      "name": "鄭中基One More Time世界巡迴演唱會雲頂站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2019-08-31",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2019-08-31",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "雲頂世界雲星劇場"
-      ],
-      "venues": [
-        "雲頂世界雲星劇場"
-      ],
-      "shows": []
-    },
-    {
-      "name": "鄭中基One More Time世界巡迴演唱會澳門站",
-      "page": null,
-      "kind": "tour",
-      "start": {
         "date": "2019-11-30",
         "precision": "day"
       },
-      "end": {
-        "date": "2019-11-30",
-        "precision": "day"
-      },
-      "showCount": null,
+      "showCount": 5,
       "regions": [],
       "cities": [
-        "金光綜藝館"
+        "新加坡",
+        "雲頂",
+        "澳門"
       ],
       "venues": [
+        "The Show at Agua Caliente Casino",
+        "Reno Events Center",
+        "聖淘沙名勝世界宴會廳",
+        "雲頂世界雲星劇場",
         "金光綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-06-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "The Show at Agua Caliente Casino"
+        },
+        {
+          "date": "2019-07-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Reno Events Center"
+        },
+        {
+          "date": "2019-08-24",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "聖淘沙名勝世界宴會廳",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-08-31",
+          "precision": "day",
+          "region": "",
+          "city": "雲頂",
+          "venue": "雲頂世界雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-11-30",
+          "precision": "day",
+          "region": "",
+          "city": "澳門",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "鄭中基 Drive In Ultra – WEE are Ronald Cheng",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2021-04-01",
-        "precision": "month"
+        "date": "2021-04-23",
+        "precision": "day"
       },
       "end": {
-        "date": "2021-04-01",
-        "precision": "month"
+        "date": "2021-04-25",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "中環海濱活動空間"
@@ -490,7 +539,22 @@
       "venues": [
         "中環海濱活動空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-04-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中環海濱活動空間"
+        },
+        {
+          "date": "2021-04-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中環海濱活動空間"
+        }
+      ]
     },
     {
       "name": "Fragments of Wonder 鄭中基世界巡迴演唱會",
@@ -658,7 +722,7 @@
         "date": "2024-08-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "澳門上葡京禮堂"
@@ -666,7 +730,18 @@
       "venues": [
         "澳門上葡京禮堂"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-08-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳門上葡京禮堂",
+          "lat": 22.14419,
+          "lon": 113.57406,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "slug": "mavis-fan",
-  "fetchedAt": "2026-09-17T15:03:12.339Z",
+  "fetchedAt": "2026-09-17T23:04:16.323Z",
   "wiki": "范曉萱",
   "bio": {
     "born": {
@@ -17,14 +17,14 @@
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2001-09-01",
-        "precision": "month"
+        "date": "2001-09-11",
+        "precision": "day"
       },
       "end": {
-        "date": "2001-09-01",
-        "precision": "month"
+        "date": "2001-09-12",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "香港"
       ],
@@ -34,7 +34,28 @@
       "venues": [
         "伊利沙伯體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-09-11",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "伊利沙伯體育館",
+          "lat": 22.275,
+          "lon": 114.179,
+          "geo": "venue"
+        },
+        {
+          "date": "2001-09-12",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "伊利沙伯體育館",
+          "lat": 22.275,
+          "lon": 114.179,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "我們就這樣長大了演唱會",
@@ -48,7 +69,7 @@
         "date": "2008-05-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸 上海"
       ],
@@ -58,7 +79,18 @@
       "venues": [
         "上海體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-05-24",
+          "precision": "day",
+          "region": "中國大陸 上海",
+          "city": "中國大陸 上海",
+          "venue": "上海體育館",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "河岸留言演唱會",
@@ -72,7 +104,7 @@
         "date": "2008-09-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北市"
       ],
@@ -82,7 +114,15 @@
       "venues": [
         "西門町紅樓展館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-09-20",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "臺灣 臺北市",
+          "venue": "西門町紅樓展館"
+        }
+      ]
     },
     {
       "name": "赤子新歌演唱會",
@@ -96,7 +136,7 @@
         "date": "2009-09-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北市"
       ],
@@ -106,31 +146,60 @@
       "venues": [
         "西門町紅樓展館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-09-12",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "臺灣 臺北市",
+          "venue": "西門町紅樓展館"
+        }
+      ]
     },
     {
       "name": "一起來一起演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2009-10-16",
         "precision": "day"
       },
       "end": {
-        "date": "2009-10-16",
+        "date": "2010-05-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
-        "中國大陸 北京"
+        "中國大陸 北京",
+        "中國大陸 成都"
       ],
       "cities": [
-        "中國大陸 北京"
+        "中國大陸 北京",
+        "中國大陸 成都"
       ],
       "venues": [
-        "北京展覽館劇場"
+        "北京展覽館劇場",
+        "四川省體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-10-16",
+          "precision": "day",
+          "region": "中國大陸 北京",
+          "city": "中國大陸 北京",
+          "venue": "北京展覽館劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-05-28",
+          "precision": "day",
+          "region": "中國大陸 成都",
+          "city": "中國大陸 成都",
+          "venue": "四川省體育館"
+        }
+      ]
     },
     {
       "name": "超犀利趴4犀利女子大趴演唱會",
@@ -144,7 +213,7 @@
         "date": "2013-08-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北市"
       ],
@@ -154,7 +223,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-08-23",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "臺灣 臺北市",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "東！帶我走 2026 臺東跨年晚會",
@@ -168,7 +248,7 @@
         "date": "2025-12-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺東市"
       ],
@@ -178,7 +258,15 @@
       "venues": [
         "濱海公園"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-12-31",
+          "precision": "day",
+          "region": "臺灣 臺東市",
+          "city": "臺灣 臺東市",
+          "venue": "濱海公園"
+        }
+      ]
     },
     {
       "name": "過客 Passing SoulLet's Party",
@@ -192,7 +280,7 @@
         "date": "2026-04-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺北市"
       ],
@@ -202,7 +290,15 @@
       "venues": [
         "Legacy TERA"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-04-25",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "臺灣 臺北市",
+          "venue": "Legacy TERA"
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "slug": "yvonne-cheng",
-  "fetchedAt": "2026-09-17T15:00:15.581Z",
+  "fetchedAt": "2026-09-17T22:57:00.895Z",
   "wiki": "鄭怡",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2019-11-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北國際會議中心"
@@ -32,7 +32,18 @@
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-11-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

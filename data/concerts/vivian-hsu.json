@@ -1,6 +1,6 @@
 {
   "slug": "vivian-hsu",
-  "fetchedAt": "2026-09-17T15:02:38.840Z",
+  "fetchedAt": "2026-09-17T23:03:03.896Z",
   "wiki": "徐若瑄",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2020-10-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北 NUZONE"
@@ -32,7 +32,15 @@
       "venues": [
         "臺北 NUZONE"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-10-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北 NUZONE"
+        }
+      ]
     },
     {
       "name": "【輝葉追夢大使 徐若瑄 VIVILAND巡迴演唱會】",
@@ -46,7 +54,7 @@
         "date": "2022-09-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北小巨蛋"
@@ -54,7 +62,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-09-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【V’s Talk音樂慶生會】",
@@ -68,7 +87,7 @@
         "date": "2023-03-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北 CORNER MAX"
@@ -76,7 +95,15 @@
       "venues": [
         "臺北 CORNER MAX"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-03-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北 CORNER MAX"
+        }
+      ]
     },
     {
       "name": "【Zepp Premium \"徐若瑄 Vivian Hsu x 玉城千春(Kiroro)\"】",
@@ -90,7 +117,7 @@
         "date": "2023-06-08",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北 Zepp New Taipei"
@@ -98,7 +125,15 @@
       "venues": [
         "臺北 Zepp New Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-06-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北 Zepp New Taipei"
+        }
+      ]
     }
   ]
 }

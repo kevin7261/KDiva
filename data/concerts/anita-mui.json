@@ -1,6 +1,6 @@
 {
   "slug": "anita-mui",
-  "fetchedAt": "2026-09-17T15:00:30.301Z",
+  "fetchedAt": "2026-09-17T22:57:25.167Z",
   "wiki": "梅艷芳",
   "bio": {
     "born": {
@@ -20,12 +20,12 @@
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "1985-06-01",
-        "precision": "month"
+        "date": "1985-06-14",
+        "precision": "day"
       },
       "end": {
-        "date": "1985-06-01",
-        "precision": "month"
+        "date": "1985-06-28",
+        "precision": "day"
       },
       "showCount": 15,
       "regions": [],
@@ -33,7 +33,22 @@
       "venues": [
         "香港海洋皇宮大酒樓夜總會（酒樓已於2005年4月17日結業）"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1985-06-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港海洋皇宮大酒樓夜總會（酒樓已於2005年4月17日結業）"
+        },
+        {
+          "date": "1985-06-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港海洋皇宮大酒樓夜總會（酒樓已於2005年4月17日結業）"
+        }
+      ]
     },
     {
       "name": "梅艷芳盡顯光華 泰林獻給你梅艷芳演唱會",
@@ -53,7 +68,28 @@
       "venues": [
         "香港紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1985-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "1986-01-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "世界巡迴演唱會",
@@ -93,7 +129,18 @@
       "venues": [
         "香港紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1987-12-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "花王百變梅艷芳夏日耀光華",
@@ -133,7 +180,28 @@
       "venues": [
         "香港紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1991-12-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "1992-01-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "情歸何處II梅艷芳感激歌迷演唱會",

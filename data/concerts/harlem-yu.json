@@ -1,6 +1,6 @@
 {
   "slug": "harlem-yu",
-  "fetchedAt": "2026-09-17T15:01:26.646Z",
+  "fetchedAt": "2026-09-17T22:59:27.880Z",
   "wiki": "庾澄慶",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "1987-04-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北中華體育館"
@@ -32,7 +32,15 @@
       "venues": [
         "臺北中華體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1987-04-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北中華體育館"
+        }
+      ]
     },
     {
       "name": "錯過的愛演唱會",
@@ -43,18 +51,42 @@
         "precision": "day"
       },
       "end": {
-        "date": "1988-07-29",
+        "date": "1988-08-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "高雄市立體育館"
       ],
       "venues": [
-        "高雄市立體育館"
+        "高雄市立體育館",
+        "臺中體育館",
+        "臺北中華體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1988-07-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄市立體育館"
+        },
+        {
+          "date": "1988-07-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺中體育館"
+        },
+        {
+          "date": "1988-08-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北中華體育館"
+        }
+      ]
     },
     {
       "name": "熱情召集令演唱會",
@@ -68,7 +100,7 @@
         "date": "1989-09-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北士林廢河道"
@@ -76,7 +108,15 @@
       "venues": [
         "臺北士林廢河道"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1989-09-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北士林廢河道"
+        }
+      ]
     },
     {
       "name": "維他露青春飛馳我愛高雄演唱會",
@@ -90,7 +130,7 @@
         "date": "1989-09-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "高雄中山體育場(現闢為中央公園)"
@@ -98,7 +138,18 @@
       "venues": [
         "高雄中山體育場(現闢為中央公園)"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1989-09-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄中山體育場(現闢為中央公園)",
+          "lat": 22.6249,
+          "lon": 120.299,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "歸我們所有演唱會",
@@ -112,7 +163,7 @@
         "date": "1989-11-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北士林廢河道"
@@ -120,7 +171,15 @@
       "venues": [
         "臺北士林廢河道"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1989-11-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北士林廢河道"
+        }
+      ]
     },
     {
       "name": "亞運前夜",
@@ -131,18 +190,41 @@
         "precision": "day"
       },
       "end": {
-        "date": "1990-05-01",
+        "date": "1990-09-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "中國大陸北京"
       ],
       "venues": [
-        "中國大陸北京"
+        "中國大陸北京",
+        "中國大陸廣州天河體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1990-05-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸北京"
+        },
+        {
+          "date": "1990-09-11",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸廣州天河體育館"
+        },
+        {
+          "date": "1990-09-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸廣州天河體育館"
+        }
+      ]
     },
     {
       "name": "庾澄慶放肆的精靈演唱會",
@@ -153,18 +235,42 @@
         "precision": "day"
       },
       "end": {
-        "date": "1990-07-28",
+        "date": "1990-08-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "臺北士林廢河道"
       ],
       "venues": [
-        "臺北士林廢河道"
+        "臺北士林廢河道",
+        "臺中光復國小",
+        "高雄中山體育場(現闢為中央公園)"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1990-07-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北士林廢河道"
+        },
+        {
+          "date": "1990-08-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺中光復國小"
+        },
+        {
+          "date": "1990-08-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄中山體育場(現闢為中央公園)"
+        }
+      ]
     },
     {
       "name": "愛的連線",
@@ -175,18 +281,50 @@
         "precision": "day"
       },
       "end": {
-        "date": "1990-10-21",
+        "date": "1992-07-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "香港紅磡"
       ],
       "venues": [
-        "香港紅磡"
+        "香港紅磡",
+        "中國大陸北京首都體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1990-10-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港紅磡",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "1992-07-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸北京首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "1992-07-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸北京首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "老實不客氣 澄歌音樂會",
@@ -200,7 +338,7 @@
         "date": "1993-11-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港演藝學院表演廳"
@@ -208,7 +346,15 @@
       "venues": [
         "香港演藝學院表演廳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1993-11-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港演藝學院表演廳"
+        }
+      ]
     },
     {
       "name": "庾澄慶BROVA無所不在",
@@ -219,18 +365,56 @@
         "precision": "day"
       },
       "end": {
-        "date": "1995-08-09",
+        "date": "1997-12-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
         "臺中中山堂"
       ],
       "venues": [
-        "臺中中山堂"
+        "臺中中山堂",
+        "高雄勞工育樂活動中心",
+        "臺北社教館",
+        "馬來西亞"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1995-08-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺中中山堂"
+        },
+        {
+          "date": "1995-08-11",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄勞工育樂活動中心"
+        },
+        {
+          "date": "1995-08-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北社教館",
+          "lat": 25.0483,
+          "lon": 121.552,
+          "geo": "venue"
+        },
+        {
+          "date": "1997-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "好友音樂會",
@@ -255,14 +439,14 @@
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "1999-05-01",
-        "precision": "month"
+        "date": "1999-05-21",
+        "precision": "day"
       },
       "end": {
-        "date": "1999-05-01",
-        "precision": "month"
+        "date": "1999-05-23",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "南港101"
@@ -270,7 +454,22 @@
       "venues": [
         "南港101"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1999-05-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南港101"
+        },
+        {
+          "date": "1999-05-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南港101"
+        }
+      ]
     },
     {
       "name": "哈世紀海外演唱會",
@@ -284,7 +483,7 @@
         "date": "2000-04-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "馬來西亞雲頂雲星劇場"
@@ -292,7 +491,18 @@
       "venues": [
         "馬來西亞雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-04-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "五四音樂運動演唱會",
@@ -306,7 +516,7 @@
         "date": "2001-05-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北美麗華"
@@ -314,7 +524,18 @@
       "venues": [
         "臺北美麗華"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-05-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北美麗華",
+          "lat": 25.08282,
+          "lon": 121.557541,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "原音再現",
@@ -328,7 +549,7 @@
         "date": "2001-06-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北福華國際文教會館卓越堂"
@@ -336,7 +557,15 @@
       "venues": [
         "臺北福華國際文教會館卓越堂"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-06-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北福華國際文教會館卓越堂"
+        }
+      ]
     },
     {
       "name": "Peter Stusy vesant Breakway Tour in Malaysia 庾澄慶萬人露天演唱會",
@@ -347,18 +576,34 @@
         "precision": "day"
       },
       "end": {
-        "date": "2001-08-11",
+        "date": "2001-08-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "吉隆坡海螺餐廳停車場"
       ],
       "venues": [
-        "吉隆坡海螺餐廳停車場"
+        "吉隆坡海螺餐廳停車場",
+        "檳城新關仔角Gurney Walk"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-08-11",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "吉隆坡海螺餐廳停車場"
+        },
+        {
+          "date": "2001-08-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "檳城新關仔角Gurney Walk"
+        }
+      ]
     },
     {
       "name": "林林盡致演唱會",
@@ -372,7 +617,7 @@
         "date": "2003-07-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北中正紀念堂"
@@ -380,7 +625,18 @@
       "venues": [
         "臺北中正紀念堂"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2003-07-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北中正紀念堂",
+          "lat": 25.034444444444443,
+          "lon": 121.52166666666666,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "湖畔星光音樂會月下玻璃鞋",
@@ -394,7 +650,7 @@
         "date": "2006-07-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "高雄縣勞工公園"
@@ -402,7 +658,15 @@
       "venues": [
         "高雄縣勞工公園"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-07-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄縣勞工公園"
+        }
+      ]
     },
     {
       "name": "庾澄慶 2006哈林世界巡迴演唱會",
@@ -416,7 +680,7 @@
         "date": "2006-08-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "馬來西亞雲頂雲星劇場"
@@ -424,7 +688,18 @@
       "venues": [
         "馬來西亞雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-08-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶 Harlem 2007世界巡迴演唱會",
@@ -438,7 +713,7 @@
         "date": "2007-04-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港體育館"
@@ -446,7 +721,18 @@
       "venues": [
         "香港體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-04-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶無底深愛巡迴演唱會-香港站",
@@ -460,7 +746,7 @@
         "date": "2010-01-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港體育館"
@@ -468,7 +754,18 @@
       "venues": [
         "香港體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-01-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶無底深愛巡迴演唱會-臺北站",
@@ -482,7 +779,7 @@
         "date": "2010-04-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北小巨蛋"
@@ -490,7 +787,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-04-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶哈林夜總會－少年奇葩臉演唱會",
@@ -504,7 +812,7 @@
         "date": "2010-07-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北Legacy Taipei傳"
@@ -512,7 +820,15 @@
       "venues": [
         "臺北Legacy Taipei傳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-07-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北Legacy Taipei傳"
+        }
+      ]
     },
     {
       "name": "庾澄慶2011哈林不插電 給力不給電演唱會",
@@ -526,7 +842,7 @@
         "date": "2011-07-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北Legacy Taipei傳"
@@ -534,7 +850,15 @@
       "venues": [
         "臺北Legacy Taipei傳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-07-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北Legacy Taipei傳"
+        }
+      ]
     },
     {
       "name": "哈林夜總會 2011庾澄慶北京演唱會",
@@ -548,7 +872,7 @@
         "date": "2011-12-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "北京展覽館劇場"
@@ -556,7 +880,18 @@
       "venues": [
         "北京展覽館劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-12-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "北京展覽館劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶 2012音樂哈令營",
@@ -570,7 +905,7 @@
         "date": "2012-08-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北Legacy Taipei傳"
@@ -578,7 +913,15 @@
       "venues": [
         "臺北Legacy Taipei傳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-08-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北Legacy Taipei傳"
+        }
+      ]
     },
     {
       "name": "庾澄慶 2013月光哈令營",
@@ -592,7 +935,7 @@
         "date": "2013-05-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北Legacy Taipei傳"
@@ -600,7 +943,15 @@
       "venues": [
         "臺北Legacy Taipei傳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-05-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北Legacy Taipei傳"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-上海站",
@@ -614,7 +965,7 @@
         "date": "2013-07-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "上海大舞臺"
@@ -622,7 +973,18 @@
       "venues": [
         "上海大舞臺"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-07-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-北京站",
@@ -636,7 +998,7 @@
         "date": "2013-09-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "萬事達中心"
@@ -644,7 +1006,18 @@
       "venues": [
         "萬事達中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-09-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "萬事達中心",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-常州站",
@@ -658,7 +1031,7 @@
         "date": "2013-09-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中天鋼鐵體育館"
@@ -666,7 +1039,15 @@
       "venues": [
         "中天鋼鐵體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-09-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中天鋼鐵體育館"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-廣州站",
@@ -680,7 +1061,7 @@
         "date": "2013-10-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "廣州體育館"
@@ -688,7 +1069,18 @@
       "venues": [
         "廣州體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-10-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-澳門站",
@@ -702,7 +1094,7 @@
         "date": "2013-11-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "金光綜藝館"
@@ -710,7 +1102,18 @@
       "venues": [
         "金光綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-11-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-杭州站",
@@ -724,7 +1127,7 @@
         "date": "2013-11-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "黃龍體育中心體育館"
@@ -732,7 +1135,18 @@
       "venues": [
         "黃龍體育中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-11-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "黃龍體育中心體育館",
+          "lat": 30.2683,
+          "lon": 120.129,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-鄭州站",
@@ -746,7 +1160,7 @@
         "date": "2013-12-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "鄭州國際會展中心"
@@ -754,7 +1168,15 @@
       "venues": [
         "鄭州國際會展中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-12-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "鄭州國際會展中心"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-福州站",
@@ -768,7 +1190,7 @@
         "date": "2013-12-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "福建省奧體中心"
@@ -776,7 +1198,18 @@
       "venues": [
         "福建省奧體中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-12-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "福建省奧體中心",
+          "lat": 26.11362,
+          "lon": 119.298883,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-深圳站",
@@ -790,7 +1223,7 @@
         "date": "2014-01-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "深圳灣體育中心體育館"
@@ -798,7 +1231,18 @@
       "venues": [
         "深圳灣體育中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-01-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "深圳灣體育中心體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "我的哈林年代世界巡迴演唱會-臺北站",
@@ -812,7 +1256,7 @@
         "date": "2014-07-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北小巨蛋"
@@ -820,7 +1264,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-07-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶我要給你中國巡迴演唱會-重慶站",
@@ -834,7 +1289,7 @@
         "date": "2014-11-08",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "重慶國博中心"
@@ -842,7 +1297,18 @@
       "venues": [
         "重慶國博中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-11-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "重慶國博中心",
+          "lat": 29.5360175,
+          "lon": 106.55792166666667,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "我的哈林年代世界巡迴演唱會-洛杉磯站",
@@ -856,7 +1322,7 @@
         "date": "2023-02-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "Pechanga Resort Casino"
@@ -864,7 +1330,15 @@
       "venues": [
         "Pechanga Resort Casino"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-02-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Pechanga Resort Casino"
+        }
+      ]
     },
     {
       "name": "我的哈林年代世界巡迴演唱會-雷諾站",
@@ -878,7 +1352,7 @@
         "date": "2023-02-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "雷諾活動中心"
@@ -886,7 +1360,15 @@
       "venues": [
         "雷諾活動中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-02-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "雷諾活動中心"
+        }
+      ]
     },
     {
       "name": "我的哈林年代世界巡迴演唱會-大西洋城站",
@@ -900,7 +1382,7 @@
         "date": "2023-02-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "Caesars Atlantic City Hotel & Casino"
@@ -908,7 +1390,15 @@
       "venues": [
         "Caesars Atlantic City Hotel & Casino"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-02-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Caesars Atlantic City Hotel & Casino"
+        }
+      ]
     },
     {
       "name": "我的哈林年代世界巡迴演唱會-澳門站",
@@ -922,7 +1412,7 @@
         "date": "2023-05-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "美獅美高梅劇院"
@@ -930,7 +1420,18 @@
       "venues": [
         "美獅美高梅劇院"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-05-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "美獅美高梅劇院",
+          "lat": 22.145827,
+          "lon": 113.567974,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "我的哈林年代世界巡迴演唱會-馬來西亞站",
@@ -944,7 +1445,7 @@
         "date": "2023-11-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "雲頂雲星劇場"
@@ -952,7 +1453,18 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-11-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "庾澄慶庾澄慶倫敦人搖滾派對-澳門演唱會",
@@ -966,7 +1478,7 @@
         "date": "2024-04-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "倫敦人綜藝館"
@@ -974,7 +1486,15 @@
       "venues": [
         "倫敦人綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-04-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "倫敦人綜藝館"
+        }
+      ]
     }
   ]
 }

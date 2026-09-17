@@ -1,6 +1,6 @@
 {
   "slug": "waa-wei",
-  "fetchedAt": "2026-09-17T15:06:32.442Z",
+  "fetchedAt": "2026-09-17T23:10:45.489Z",
   "wiki": "魏如萱",
   "bio": {
     "born": {
@@ -15,50 +15,111 @@
     {
       "name": "晚安晚安演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2012-03-04",
         "precision": "day"
       },
       "end": {
-        "date": "2012-03-04",
+        "date": "2012-10-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
-        "臺灣 臺北"
+        "臺灣 臺北",
+        "臺灣 臺中",
+        "香港 香港"
       ],
       "cities": [
-        "臺灣 臺北"
+        "臺灣 臺北",
+        "臺灣 臺中",
+        "香港 香港"
       ],
       "venues": [
-        "臺北國際會議中心"
+        "臺北國際會議中心",
+        "中興大學惠蓀堂",
+        "九龍灣國際展貿中心 展貿廳3"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-03-04",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "臺灣 臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-10-06",
+          "precision": "day",
+          "region": "臺灣 臺中",
+          "city": "臺灣 臺中",
+          "venue": "中興大學惠蓀堂",
+          "lat": 24.123552,
+          "lon": 120.675326,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-10-28",
+          "precision": "day",
+          "region": "香港 香港",
+          "city": "香港 香港",
+          "venue": "九龍灣國際展貿中心 展貿廳3",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "捉迷藏 Hide and Seek 演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2014-05-17",
         "precision": "day"
       },
       "end": {
-        "date": "2014-05-17",
+        "date": "2014-11-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
-        "臺灣 臺北"
+        "臺灣 臺北",
+        "香港 香港"
       ],
       "cities": [
-        "臺灣 臺北"
+        "臺灣 臺北",
+        "香港 香港"
       ],
       "venues": [
-        "臺北小巨蛋"
+        "臺北小巨蛋",
+        "九龍灣國際展貿中心 Star Hall"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-05-17",
+          "precision": "day",
+          "region": "臺灣 臺北",
+          "city": "臺灣 臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-11-12",
+          "precision": "day",
+          "region": "香港 香港",
+          "city": "香港 香港",
+          "venue": "九龍灣國際展貿中心 Star Hall",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

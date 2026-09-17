@@ -1,6 +1,6 @@
 {
   "slug": "winnie-hsin",
-  "fetchedAt": "2026-09-17T22:21:51.419Z",
+  "fetchedAt": "2026-09-17T22:59:13.285Z",
   "wiki": "辛曉琪",
   "bio": {
     "born": {
@@ -458,36 +458,57 @@
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2021-05-01",
-        "precision": "month"
+        "date": "2021-05-08",
+        "precision": "day"
       },
       "end": {
-        "date": "2021-05-01",
-        "precision": "month"
+        "date": "2021-05-09",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
-        "臺北國際會議中心"
+        "臺北"
       ],
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-05-08",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2021-05-09",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "辛曉琪療傷那天後演唱會",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2024-02-01",
-        "precision": "month"
+        "date": "2024-02-02",
+        "precision": "day"
       },
       "end": {
-        "date": "2024-02-01",
-        "precision": "month"
+        "date": "2024-02-03",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "Legacy Taipei 音樂展演空間"
@@ -495,7 +516,22 @@
       "venues": [
         "Legacy Taipei 音樂展演空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-02-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Legacy Taipei 音樂展演空間"
+        },
+        {
+          "date": "2024-02-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Legacy Taipei 音樂展演空間"
+        }
+      ]
     },
     {
       "name": "辛曉琪歌在青春在巡迴演唱會",

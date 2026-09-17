@@ -1,6 +1,6 @@
 {
   "slug": "accusefive",
-  "fetchedAt": "2026-09-17T15:07:29.221Z",
+  "fetchedAt": "2026-09-17T23:13:08.989Z",
   "wiki": "告五人",
   "bio": {
     "born": null,
@@ -24,7 +24,7 @@
         "date": "2013-12-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺北市"
@@ -32,7 +32,15 @@
       "venues": [
         "PIPE Live Music"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-12-06",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北市",
+          "venue": "PIPE Live Music"
+        }
+      ]
     },
     {
       "name": "告五人首場售票演出",
@@ -46,7 +54,7 @@
         "date": "2017-04-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺北市"
@@ -54,7 +62,15 @@
       "venues": [
         "公館河岸留言"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-04-29",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北市",
+          "venue": "公館河岸留言"
+        }
+      ]
     },
     {
       "name": "迷霧之子巡迴演唱會",
@@ -115,7 +131,7 @@
         "date": "2018-04-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺北市"
@@ -123,7 +139,15 @@
       "venues": [
         "海邊的卡夫卡"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-04-15",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北市",
+          "venue": "海邊的卡夫卡"
+        }
+      ]
     },
     {
       "name": "臺南登入",
@@ -137,7 +161,7 @@
         "date": "2018-09-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺南市"
@@ -145,7 +169,15 @@
       "venues": [
         "TCRC Livehouse"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-09-22",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺南市",
+          "venue": "TCRC Livehouse"
+        }
+      ]
     },
     {
       "name": "島嶼雛形巡迴演唱會",
@@ -768,7 +800,7 @@
         "date": "2022-09-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺北市"
@@ -776,7 +808,18 @@
       "venues": [
         "臺北市立兒童新樂園"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-09-17",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北市",
+          "venue": "臺北市立兒童新樂園",
+          "lat": 25.0972,
+          "lon": 121.515,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "宇宙的有趣告五人第一次新世界巡迴演唱會",
@@ -1373,7 +1416,7 @@
         "date": "2025-06-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺北市"
@@ -1381,7 +1424,15 @@
       "venues": [
         "SUB LIVE"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-06-22",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北市",
+          "venue": "SUB LIVE"
+        }
+      ]
     },
     {
       "name": "黑夜狂奔巡迴演唱會",
@@ -1658,9 +1709,9 @@
           "region": "",
           "city": "日本 大阪",
           "venue": "Zepp Osaka Bayside",
-          "lat": 43.049309,
-          "lon": 141.353194,
-          "geo": "venue"
+          "lat": 34.68633333333333,
+          "lon": 135.5198611111111,
+          "geo": "city"
         },
         {
           "date": "2025-11-08",
@@ -1668,9 +1719,9 @@
           "region": "",
           "city": "日本 東京",
           "venue": "Zepp Haneda (TOKYO)",
-          "lat": 43.049309,
-          "lon": 141.353194,
-          "geo": "venue"
+          "lat": 35.68944444444445,
+          "lon": 139.69166666666666,
+          "geo": "city"
         },
         {
           "date": "2026-01-07",
@@ -1678,9 +1729,9 @@
           "region": "",
           "city": "吉隆坡",
           "venue": "Zepp Kuala Lumpur",
-          "lat": 43.049309,
-          "lon": 141.353194,
-          "geo": "venue"
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
         },
         {
           "date": "2026-01-08",
@@ -1688,9 +1739,9 @@
           "region": "",
           "city": "吉隆坡",
           "venue": "Zepp Kuala Lumpur",
-          "lat": 43.049309,
-          "lon": 141.353194,
-          "geo": "venue"
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
         },
         {
           "date": "2026-01-10",
@@ -1798,9 +1849,9 @@
           "region": "",
           "city": "臺灣 新北市",
           "venue": "Zepp New Taipei",
-          "lat": 43.049309,
-          "lon": 141.353194,
-          "geo": "venue"
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "city"
         },
         {
           "date": "2026-05-17",
@@ -1808,9 +1859,9 @@
           "region": "",
           "city": "臺灣 新北市",
           "venue": "Zepp New Taipei",
-          "lat": 43.049309,
-          "lon": 141.353194,
-          "geo": "venue"
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "city"
         }
       ]
     },

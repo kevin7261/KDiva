@@ -1,6 +1,6 @@
 {
   "slug": "elva-hsiao",
-  "fetchedAt": "2026-09-17T15:04:32.945Z",
+  "fetchedAt": "2026-09-17T23:07:10.821Z",
   "wiki": "蕭亞軒",
   "bio": {
     "born": {
@@ -79,7 +79,7 @@
         "date": "2000-10-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
@@ -87,7 +87,18 @@
       "venues": [
         "香港"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-10-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "狂熱份子音樂會",
@@ -101,7 +112,7 @@
         "date": "2000-12-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港灣仔會展中心"
@@ -109,7 +120,15 @@
       "venues": [
         "香港灣仔會展中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-12-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港灣仔會展中心"
+        }
+      ]
     },
     {
       "name": "夏日的精采演唱會",
@@ -211,7 +230,7 @@
         "date": "2002-03-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣臺南"
@@ -219,7 +238,15 @@
       "venues": [
         "臺灣臺南"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2002-03-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺南"
+        }
+      ]
     },
     {
       "name": "閃耀蕭亞軒2002Live演唱會",
@@ -321,7 +348,7 @@
         "date": "2007-05-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣淡水漁人碼頭"
@@ -329,7 +356,18 @@
       "venues": [
         "臺灣淡水漁人碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-05-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "芝華士亞洲舞臺音樂會",
@@ -343,7 +381,7 @@
         "date": "2007-12-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港會議展覽中心"
@@ -351,7 +389,18 @@
       "venues": [
         "香港會議展覽中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-12-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港會議展覽中心",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "3面夏娃 蕭亞軒 感謝演唱會",
@@ -365,7 +414,7 @@
         "date": "2008-08-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣臺中光復國小外操場"
@@ -373,7 +422,15 @@
       "venues": [
         "臺灣臺中光復國小外操場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-08-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺中光復國小外操場"
+        }
+      ]
     },
     {
       "name": "蕭亞軒 3面夏娃 新加坡音樂會",
@@ -387,7 +444,7 @@
         "date": "2008-09-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "新加坡博覽中心Max Pavilion"
@@ -395,7 +452,15 @@
       "venues": [
         "新加坡博覽中心Max Pavilion"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-09-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新加坡博覽中心Max Pavilion"
+        }
+      ]
     },
     {
       "name": "WOW世界巡迴演唱會",
@@ -490,7 +555,7 @@
         "date": "2011-12-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣臺北統一阪急百貨2樓夢廣場"
@@ -498,7 +563,15 @@
       "venues": [
         "臺灣臺北統一阪急百貨2樓夢廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-12-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北統一阪急百貨2樓夢廣場"
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "slug": "fire-ex",
-  "fetchedAt": "2026-09-17T15:04:53.268Z",
+  "fetchedAt": "2026-09-17T23:07:18.667Z",
   "wiki": "滅火器樂團",
   "bio": {
     "born": null,
@@ -15,26 +15,49 @@
     {
       "name": "高雄超犀利趴 趴吐演唱會",
       "page": "超犀利趴",
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2011-10-15",
         "precision": "day"
       },
       "end": {
-        "date": "2011-10-15",
+        "date": "2013-08-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣 臺灣"
       ],
       "cities": [
-        "高雄市"
+        "高雄市",
+        "臺北市"
       ],
       "venues": [
-        "世運主場館"
+        "世運主場館",
+        "松山文創園區一號倉庫"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-10-15",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "高雄市",
+          "venue": "世運主場館",
+          "lat": 22.702778,
+          "lon": 120.295,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-08-23",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "松山文創園區一號倉庫",
+          "lat": 25.04361111,
+          "lon": 121.5625,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "硬地音樂校園巡迴URock The Way to Rock",
@@ -48,7 +71,7 @@
         "date": "2013-11-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺灣"
       ],
@@ -58,7 +81,18 @@
       "venues": [
         "逢甲大學"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-11-03",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺中市",
+          "venue": "逢甲大學",
+          "lat": 24.17944444,
+          "lon": 120.65,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "臺灣樂團潮",
@@ -72,7 +106,7 @@
         "date": "2013-11-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺灣"
       ],
@@ -82,7 +116,18 @@
       "venues": [
         "圓山站花博公園"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-11-03",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "圓山站花博公園",
+          "lat": 25.07146,
+          "lon": 121.520172,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "衝撞未來演唱會",
@@ -96,7 +141,7 @@
         "date": "2013-11-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺灣"
       ],
@@ -106,31 +151,65 @@
       "venues": [
         "臺大體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-11-30",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "臺大體育館",
+          "lat": 25.0216088,
+          "lon": 121.5351757,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "滅火器 On Fire Day 演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2014-12-13",
         "precision": "day"
       },
       "end": {
-        "date": "2014-12-13",
+        "date": "2015-12-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣 臺灣"
       ],
       "cities": [
-        "臺北市"
+        "臺北市",
+        "高雄市"
       ],
       "venues": [
-        "華山大草原 / 華山創意文化（近杭州北路/北平東路口）"
+        "華山大草原 / 華山創意文化（近杭州北路/北平東路口）",
+        "LIVE WAREHOUSE"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-12-13",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "華山大草原 / 華山創意文化（近杭州北路/北平東路口）",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2015-12-18",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "高雄市",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "滅火器－驚蟄：春雷初響",
@@ -144,7 +223,7 @@
         "date": "2015-03-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺灣"
       ],
@@ -154,31 +233,65 @@
       "venues": [
         "The Wall Live House"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-03-06",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "The Wall Live House",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "REBORN發片演唱會",
       "page": "REBORN (滅火器音樂專輯)",
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2016-04-01",
         "precision": "day"
       },
       "end": {
-        "date": "2016-04-01",
+        "date": "2016-04-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "ROC 臺灣"
       ],
       "cities": [
-        "臺北市"
+        "臺北市",
+        "臺中市"
       ],
       "venues": [
-        "永豐 Legacy Taipei"
+        "永豐 Legacy Taipei",
+        "Legacy Taichung"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-04-01",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺北市",
+          "venue": "永豐 Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2016-04-16",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺中市",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "ON FIRE DAY：繼續向前行萬人演唱會",
@@ -192,7 +305,7 @@
         "date": "2016-11-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣 臺灣"
       ],
@@ -202,31 +315,109 @@
       "venues": [
         "桃園國際棒球場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-11-05",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "桃園市",
+          "venue": "桃園國際棒球場",
+          "lat": 25.001389,
+          "lon": 121.201667,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "世界進擊演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2017-09-04",
         "precision": "day"
       },
       "end": {
-        "date": "2017-09-04",
+        "date": "2017-09-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 6,
       "regions": [
-        "日本 日本"
+        "日本 日本",
+        "英國 英國",
+        "荷蘭 荷蘭"
       ],
       "cities": [
-        "東京市澀谷區"
+        "東京市澀谷區",
+        "大阪市",
+        "名古屋市中區",
+        "倫敦",
+        "利物浦",
+        "阿姆斯特丹"
       ],
       "venues": [
-        "渋谷 Club Quattro"
+        "渋谷 Club Quattro",
+        "Umeda Club Quattro 梅田 クラブ クワトロ",
+        "NAGOYA CLUB QUATTRO",
+        "Rich Mix London",
+        "The Magnet Liverpool",
+        "Cinetol"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-09-04",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "東京市澀谷區",
+          "venue": "渋谷 Club Quattro"
+        },
+        {
+          "date": "2017-09-06",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "大阪市",
+          "venue": "Umeda Club Quattro 梅田 クラブ クワトロ",
+          "lat": 34.69375,
+          "lon": 135.5021111111111,
+          "geo": "city"
+        },
+        {
+          "date": "2017-09-07",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "名古屋市中區",
+          "venue": "NAGOYA CLUB QUATTRO"
+        },
+        {
+          "date": "2017-09-16",
+          "precision": "day",
+          "region": "英國 英國",
+          "city": "倫敦",
+          "venue": "Rich Mix London",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
+        },
+        {
+          "date": "2017-09-17",
+          "precision": "day",
+          "region": "英國 英國",
+          "city": "利物浦",
+          "venue": "The Magnet Liverpool",
+          "lat": 53.407222222222224,
+          "lon": -2.9916666666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2017-09-21",
+          "precision": "day",
+          "region": "荷蘭 荷蘭",
+          "city": "阿姆斯特丹",
+          "venue": "Cinetol",
+          "lat": 52.36666666666667,
+          "lon": 4.883333333333333,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "『ON FIRE DATE』TOUR",
@@ -237,44 +428,114 @@
         "precision": "day"
       },
       "end": {
-        "date": "2018-12-21",
+        "date": "2018-12-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "ROC 臺灣"
       ],
       "cities": [
-        "臺中市"
+        "臺中市",
+        "臺北市",
+        "高雄市"
       ],
       "venues": [
-        "Legacy Taichung"
+        "Legacy Taichung",
+        "永豐 Legacy Taipei",
+        "SPERO"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-12-21",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺中市",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2018-12-22",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺北市",
+          "venue": "永豐 Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2018-12-28",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "高雄市",
+          "venue": "SPERO",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "『海上的人』十週年演唱會",
       "page": "海上的人",
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2019-06-14",
         "precision": "day"
       },
       "end": {
-        "date": "2019-06-14",
+        "date": "2019-06-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "ROC 臺灣"
       ],
       "cities": [
-        "臺北市"
+        "臺北市",
+        "臺中市",
+        "高雄市"
       ],
       "venues": [
-        "The Wall Live House"
+        "The Wall Live House",
+        "迴響音樂藝文展演空間",
+        "LIVE WAREHOUSE"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-06-14",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺北市",
+          "venue": "The Wall Live House",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2019-06-15",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺中市",
+          "venue": "迴響音樂藝文展演空間",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2019-06-21",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "高雄市",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "無名英雄Stand Up Like A Taiwanese專輯巡迴",
@@ -285,20 +546,55 @@
         "precision": "day"
       },
       "end": {
-        "date": "2020-02-07",
+        "date": "2020-02-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "ROC 臺灣"
       ],
       "cities": [
-        "臺中市"
+        "臺中市",
+        "臺北市",
+        "高雄市"
       ],
       "venues": [
-        "Legacy Taichung"
+        "Legacy Taichung",
+        "永豐 Legacy Taipei",
+        "LIVE WAREHOUSE"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-02-07",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺中市",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2020-02-08",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺北市",
+          "venue": "永豐 Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-02-14",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "高雄市",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "On Fire Day 2020－Fire NEXT 新篇章：滅火器20週年演唱會",
@@ -312,7 +608,7 @@
         "date": "2020-12-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "ROC 臺灣"
       ],
@@ -322,55 +618,205 @@
       "venues": [
         "高雄港9號碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-12-26",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "高雄市",
+          "venue": "高雄港9號碼頭",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "2O22 滅火器火大啦！∞ LIVEVol.1",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2022-06-11",
         "precision": "day"
       },
       "end": {
-        "date": "2022-06-11",
+        "date": "2022-12-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 8,
       "regions": [
         "ROC 臺灣"
       ],
       "cities": [
-        "新北市"
+        "新北市",
+        "新竹市",
+        "臺南市",
+        "臺中市",
+        "高雄市",
+        "臺北市"
       ],
       "venues": [
-        "Zepp New Taipei"
+        "Zepp New Taipei",
+        "風Livehouse",
+        "茉莉工坊",
+        "Legacy",
+        "LIVE WAREHOUSE",
+        "The Wall"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-06-11",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "新北市",
+          "venue": "Zepp New Taipei",
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-18",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "新竹市",
+          "venue": "風Livehouse",
+          "lat": 24.804722222222,
+          "lon": 120.97138888889,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-09",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺南市",
+          "venue": "茉莉工坊",
+          "lat": 22.99,
+          "lon": 120.185,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-20",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺中市",
+          "venue": "Legacy",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2022-09-09",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "高雄市",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2022-12-25",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺北市",
+          "venue": "The Wall",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2022-12-26",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺北市",
+          "venue": "The Wall",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2022-12-27",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺北市",
+          "venue": "The Wall",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "2O23 滅火器火大啦！∞ LIVEVol.2",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2023-01-05",
         "precision": "day"
       },
       "end": {
-        "date": "2023-01-05",
+        "date": "2024-09-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [
-        "ROC 臺灣"
+        "ROC 臺灣",
+        "臺灣 臺灣"
       ],
       "cities": [
-        "臺中市"
+        "臺中市",
+        "高雄市",
+        "嘉義市",
+        "宜蘭縣"
       ],
       "venues": [
-        "Legacy"
+        "Legacy",
+        "後臺Backstage Live",
+        "嘉義文化創意產業園區",
+        "宜蘭中興創意產業園區"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-01-05",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺中市",
+          "venue": "Legacy",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-01-06",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "高雄市",
+          "venue": "後臺Backstage Live",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-27",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "嘉義市",
+          "venue": "嘉義文化創意產業園區",
+          "lat": 23.47694444,
+          "lon": 120.43972222,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-01",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "宜蘭縣",
+          "venue": "宜蘭中興創意產業園區",
+          "lat": 24.75,
+          "lon": 121.75,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "FIRE EX. LIVE IN SHELTER",
@@ -384,7 +830,7 @@
         "date": "2023-06-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "日本 日本"
       ],
@@ -394,7 +840,18 @@
       "venues": [
         "SHELTER"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-06-21",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "下北澤",
+          "venue": "SHELTER",
+          "lat": 35.661605555556,
+          "lon": 139.66656111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "滅火器一生到底Live House巡迴",
@@ -405,44 +862,151 @@
         "precision": "day"
       },
       "end": {
-        "date": "2023-06-21",
+        "date": "2023-12-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 7,
       "regions": [
-        "日本 日本"
+        "日本 日本",
+        "臺灣 臺灣"
       ],
       "cities": [
-        "大阪市"
+        "大阪市",
+        "名古屋",
+        "新宿",
+        "臺中市",
+        "臺北市",
+        "臺東縣",
+        "屏東縣"
       ],
       "venues": [
-        "Live House Pangea"
+        "Live House Pangea",
+        "Live House R.A.D",
+        "MARZ",
+        "Legacy Taichung",
+        "Legacy Taipei",
+        "鐵花村",
+        "屏菸1936文化基地"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-06-21",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "大阪市",
+          "venue": "Live House Pangea",
+          "lat": 34.69375,
+          "lon": 135.5021111111111,
+          "geo": "city"
+        },
+        {
+          "date": "2023-09-13",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "名古屋",
+          "venue": "Live House R.A.D",
+          "lat": 35.18138888888889,
+          "lon": 136.9063888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2023-09-15",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "新宿",
+          "venue": "MARZ",
+          "lat": 35.69091944444445,
+          "lon": 139.70606388888888,
+          "geo": "city"
+        },
+        {
+          "date": "2023-10-06",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺中市",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-10-20",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2023-10-27",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺東縣",
+          "venue": "鐵花村",
+          "lat": 22.933333333333,
+          "lon": 120.93333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2023-12-15",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "屏東縣",
+          "venue": "屏菸1936文化基地",
+          "lat": 22.66112,
+          "lon": 120.50517,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "滅火器 Fire EX.一生到底 One Life, One Shot演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2023-08-05",
         "precision": "day"
       },
       "end": {
-        "date": "2023-08-05",
+        "date": "2024-06-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "ROC 臺灣"
       ],
       "cities": [
-        "高雄市"
+        "高雄市",
+        "臺北市"
       ],
       "venues": [
-        "高雄流行音樂中心"
+        "高雄流行音樂中心",
+        "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-08-05",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "高雄市",
+          "venue": "高雄流行音樂中心",
+          "lat": 22.61777778,
+          "lon": 120.28888889,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-15",
+          "precision": "day",
+          "region": "ROC 臺灣",
+          "city": "臺北市",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Fire EX. USA Tour",
@@ -453,44 +1017,139 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-03-04",
+        "date": "2024-03-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 8,
       "regions": [
-        "美國 美國"
+        "美國 美國",
+        "加拿大 加拿大"
       ],
       "cities": [
-        "Somerville, MA"
+        "Somerville, MA",
+        "Toronto, ON",
+        "Washington, D.C.",
+        "Brooklyn, NY",
+        "San Francisco, CA",
+        "Los Angeles, CA",
+        "Vancouver, BC",
+        "Seattle, WA"
       ],
       "venues": [
-        "Crystal Ballroom"
+        "Crystal Ballroom",
+        "Horseshoe Tavern",
+        "Black Cat",
+        "Elsewhere",
+        "Cafe du Nord",
+        "Lodge Room",
+        "Fox Cabaret",
+        "Substation"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-03-04",
+          "precision": "day",
+          "region": "美國 美國",
+          "city": "Somerville, MA",
+          "venue": "Crystal Ballroom"
+        },
+        {
+          "date": "2024-03-06",
+          "precision": "day",
+          "region": "加拿大 加拿大",
+          "city": "Toronto, ON",
+          "venue": "Horseshoe Tavern"
+        },
+        {
+          "date": "2024-03-08",
+          "precision": "day",
+          "region": "美國 美國",
+          "city": "Washington, D.C.",
+          "venue": "Black Cat",
+          "lat": 38.895,
+          "lon": -77.036666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2024-03-10",
+          "precision": "day",
+          "region": "美國 美國",
+          "city": "Brooklyn, NY",
+          "venue": "Elsewhere"
+        },
+        {
+          "date": "2024-03-17",
+          "precision": "day",
+          "region": "美國 美國",
+          "city": "San Francisco, CA",
+          "venue": "Cafe du Nord"
+        },
+        {
+          "date": "2024-03-19",
+          "precision": "day",
+          "region": "美國 美國",
+          "city": "Los Angeles, CA",
+          "venue": "Lodge Room"
+        },
+        {
+          "date": "2024-03-22",
+          "precision": "day",
+          "region": "加拿大 加拿大",
+          "city": "Vancouver, BC",
+          "venue": "Fox Cabaret"
+        },
+        {
+          "date": "2024-03-23",
+          "precision": "day",
+          "region": "美國 美國",
+          "city": "Seattle, WA",
+          "venue": "Substation"
+        }
+      ]
     },
     {
       "name": "火大啦！∞ FIRE EX. LIVE IN TOKYO",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2024-09-11",
         "precision": "day"
       },
       "end": {
-        "date": "2024-09-11",
+        "date": "2024-09-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "日本 日本"
       ],
       "cities": [
-        "東京市"
+        "東京市",
+        "巖手"
       ],
       "venues": [
-        "新代田FEVER"
+        "新代田FEVER",
+        "KLUB COUNTER ACTION 宮古"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-09-11",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "東京市",
+          "venue": "新代田FEVER",
+          "lat": 35.67666667,
+          "lon": 139.76472222,
+          "geo": "city"
+        },
+        {
+          "date": "2024-09-14",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "巖手",
+          "venue": "KLUB COUNTER ACTION 宮古"
+        }
+      ]
     },
     {
       "name": "滅火器二十五週年Quarter Century Live House Tour",
@@ -501,20 +1160,77 @@
         "precision": "day"
       },
       "end": {
-        "date": "2025-05-16",
+        "date": "2025-07-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 5,
       "regions": [
         "臺灣 臺灣"
       ],
       "cities": [
-        "臺北市"
+        "臺北市",
+        "臺中市",
+        "高雄市"
       ],
       "venues": [
-        "Zepp New Taipei"
+        "Zepp New Taipei",
+        "Legacy Taichung",
+        "LIVE WAREHOUSE",
+        "SUB",
+        "三民家商"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-05-16",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "Zepp New Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2025-05-31",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺中市",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2025-06-08",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "高雄市",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2025-06-30",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "SUB",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2025-07-11",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "高雄市",
+          "venue": "三民家商",
+          "lat": 22.666946,
+          "lon": 120.3011952,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Fire EX. 25th AnniversaryQuarter CenturyJAPAN TOUR",
@@ -525,20 +1241,43 @@
         "precision": "day"
       },
       "end": {
-        "date": "2025-09-16",
+        "date": "2025-09-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "日本 日本"
       ],
       "cities": [
-        "大阪市"
+        "大阪市",
+        "東京市"
       ],
       "venues": [
-        "Yogibo HOLY MOUNTAIN"
+        "Yogibo HOLY MOUNTAIN",
+        "新代田Fever"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-09-16",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "大阪市",
+          "venue": "Yogibo HOLY MOUNTAIN",
+          "lat": 34.69375,
+          "lon": 135.5021111111111,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-19",
+          "precision": "day",
+          "region": "日本 日本",
+          "city": "東京市",
+          "venue": "新代田Fever",
+          "lat": 35.67666667,
+          "lon": 139.76472222,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "FIRE EX. – Quarter Century S.E.A Tour 2026",
@@ -549,20 +1288,92 @@
         "precision": "day"
       },
       "end": {
-        "date": "2026-01-22",
+        "date": "2026-02-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 6,
       "regions": [
-        "泰國 泰國"
+        "泰國 泰國",
+        "馬來西亞 馬來西亞",
+        "新加坡 新加坡"
       ],
       "cities": [
-        "曼谷"
+        "曼谷",
+        "檳城",
+        "怡保",
+        "吉隆坡",
+        "馬六甲"
       ],
       "venues": [
-        "Artspace @ Bantadthong"
+        "Artspace @ Bantadthong",
+        "Ruas Store",
+        "Ladyboss Studio",
+        "Live Fact",
+        "Ting Live House",
+        "SCAPE Ground Theatre"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-01-22",
+          "precision": "day",
+          "region": "泰國 泰國",
+          "city": "曼谷",
+          "venue": "Artspace @ Bantadthong",
+          "lat": 13.75,
+          "lon": 100.51666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2026-01-23",
+          "precision": "day",
+          "region": "馬來西亞 馬來西亞",
+          "city": "檳城",
+          "venue": "Ruas Store",
+          "lat": 5.4025,
+          "lon": 100.365,
+          "geo": "city"
+        },
+        {
+          "date": "2026-01-24",
+          "precision": "day",
+          "region": "馬來西亞 馬來西亞",
+          "city": "怡保",
+          "venue": "Ladyboss Studio",
+          "lat": 4.6,
+          "lon": 101.07,
+          "geo": "city"
+        },
+        {
+          "date": "2026-01-25",
+          "precision": "day",
+          "region": "馬來西亞 馬來西亞",
+          "city": "吉隆坡",
+          "venue": "Live Fact",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        },
+        {
+          "date": "2026-01-30",
+          "precision": "day",
+          "region": "馬來西亞 馬來西亞",
+          "city": "馬六甲",
+          "venue": "Ting Live House",
+          "lat": 2.2,
+          "lon": 102.251,
+          "geo": "city"
+        },
+        {
+          "date": "2026-02-01",
+          "precision": "day",
+          "region": "新加坡 新加坡",
+          "city": "檳城",
+          "venue": "SCAPE Ground Theatre",
+          "lat": 5.4025,
+          "lon": 100.365,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "ON FIRE DAY 2026 滅火器臺北小巨蛋演唱會",
@@ -573,10 +1384,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2026-07-18",
+        "date": "2026-07-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣 臺灣"
       ],
@@ -586,7 +1397,28 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-07-18",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-07-19",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

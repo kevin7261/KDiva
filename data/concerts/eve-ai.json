@@ -1,6 +1,6 @@
 {
   "slug": "eve-ai",
-  "fetchedAt": "2026-09-17T15:07:07.488Z",
+  "fetchedAt": "2026-09-17T23:11:36.952Z",
   "wiki": "艾怡良",
   "bio": {
     "born": {
@@ -21,18 +21,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2016-08-06",
+        "date": "2016-08-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺北市：Legacy Taipei"
       ],
       "venues": [
-        "臺北市：Legacy Taipei"
+        "臺北市：Legacy Taipei",
+        "臺中市：Legacy Taichung"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-08-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市：Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-08-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺中市：Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "今夜三等車廂燈火通明",
@@ -46,7 +68,7 @@
         "date": "2017-10-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北市：後臺 Backstage Café"
@@ -54,7 +76,18 @@
       "venues": [
         "臺北市：後臺 Backstage Café"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-10-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市：後臺 Backstage Café",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "三等車廂·乘客敬請喧譁",
@@ -65,18 +98,62 @@
         "precision": "day"
       },
       "end": {
-        "date": "2017-12-08",
+        "date": "2018-01-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
         "上海市：Mao Live house"
       ],
       "venues": [
-        "上海市：Mao Live house"
+        "上海市：Mao Live house",
+        "北京市：糖果雍和店三層",
+        "深圳市：A8 Live",
+        "成都市：正火藝術中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-12-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海市：Mao Live house",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-12-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "北京市：糖果雍和店三層",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-01-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "深圳市：A8 Live",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-01-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "成都市：正火藝術中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "不想忘記的名字們",
@@ -87,18 +164,172 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-01-18",
+        "date": "2025-01-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 14,
       "regions": [],
       "cities": [
         "臺北市：Legacy Taipei"
       ],
       "venues": [
-        "臺北市：Legacy Taipei"
+        "臺北市：Legacy Taipei",
+        "高雄市：SPERO 高雄海流館",
+        "杭州市：SoFun Live",
+        "成都市：福館 Full house",
+        "深圳市：HOU LIVE X Mixc cube",
+        "廣州市：聲音共和 Live house",
+        "北京市：EAST LIVE",
+        "重慶市：重演 LIVE",
+        "廈門市：WOKESHOW 星巢沃克秀",
+        "上海市：蜚聲上海PHASE LIVE HOUSE SHANGHAI",
+        "武漢市：不晚IN TIME LIVE",
+        "長沙市：達豐空間",
+        "廣州市：廣州媒棚 LIVE",
+        "上海市：瓦肆 VAS est"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-01-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市：Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-03-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄市：SPERO 高雄海流館",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-05-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "杭州市：SoFun Live",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "成都市：福館 Full house",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "深圳市：HOU LIVE X Mixc cube",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廣州市：聲音共和 Live house",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "北京市：EAST LIVE",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-07-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "重慶市：重演 LIVE",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-07-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廈門市：WOKESHOW 星巢沃克秀",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-07-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海市：蜚聲上海PHASE LIVE HOUSE SHANGHAI",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-07-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "武漢市：不晚IN TIME LIVE",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-08-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "長沙市：達豐空間",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-12-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廣州市：廣州媒棚 LIVE",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-01-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海市：瓦肆 VAS est",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "都市女聲系列－自私與無私",
@@ -109,18 +340,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-11-15",
+        "date": "2019-11-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺北市：Legacy Taipei"
       ],
       "venues": [
-        "臺北市：Legacy Taipei"
+        "臺北市：Legacy Taipei",
+        "臺中市：Legacy Taichung"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-11-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市：Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-11-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺中市：Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "從夜晚出生的我們",
@@ -131,18 +384,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2022-01-22",
+        "date": "2022-08-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺北市：臺北流行音樂中心"
       ],
       "venues": [
-        "臺北市：臺北流行音樂中心"
+        "臺北市：臺北流行音樂中心",
+        "高雄市：高雄流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-01-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市：臺北流行音樂中心",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-08-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄市：高雄流行音樂中心",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "都市女聲系列－橫行 Run Amok!",
@@ -153,18 +428,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2023-02-18",
+        "date": "2023-02-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺中市：Legacy Taichung"
       ],
       "venues": [
-        "臺中市：Legacy Taichung"
+        "臺中市：Legacy Taichung",
+        "臺北市：Legacy Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-02-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺中市：Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-02-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市：Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "slug": "lo-ta-yu",
-  "fetchedAt": "2026-09-17T21:24:22.160Z",
+  "fetchedAt": "2026-09-17T22:57:32.974Z",
   "wiki": "羅大佑",
   "bio": {
     "born": {
@@ -103,7 +103,7 @@
       "shows": []
     },
     {
-      "name": "安可曲演唱會羅大佑北美巡演第一站",
+      "name": "安可曲演唱會羅大佑北美巡演",
       "page": null,
       "kind": "tour",
       "start": {
@@ -111,50 +111,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2022-05-29",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "安可曲演唱會羅大佑北美巡演第二站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2022-06-04",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2022-06-04",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "安可曲演唱會羅大佑北美巡演第三站",
-      "page": null,
-      "kind": "tour",
-      "start": {
         "date": "2022-06-11",
         "precision": "day"
       },
-      "end": {
-        "date": "2022-06-11",
-        "precision": "day"
-      },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
-      "cities": [],
+      "cities": [
+        "第一",
+        "第二",
+        "第三"
+      ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-05-29",
+          "precision": "day",
+          "region": "",
+          "city": "第一",
+          "venue": ""
+        },
+        {
+          "date": "2022-06-04",
+          "precision": "day",
+          "region": "",
+          "city": "第二",
+          "venue": ""
+        },
+        {
+          "date": "2022-06-11",
+          "precision": "day",
+          "region": "",
+          "city": "第三",
+          "venue": ""
+        }
+      ]
     },
     {
       "name": "港都新年音樂會",
@@ -179,11 +169,11 @@
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2026-04-18",
+        "date": "2026-03-07",
         "precision": "day"
       },
       "end": {
-        "date": "2026-04-18",
+        "date": "2026-03-08",
         "precision": "day"
       },
       "showCount": null,
@@ -197,12 +187,12 @@
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2026-08-01",
-        "precision": "month"
+        "date": "2026-08-15",
+        "precision": "day"
       },
       "end": {
-        "date": "2026-08-01",
-        "precision": "month"
+        "date": "2026-08-16",
+        "precision": "day"
       },
       "showCount": null,
       "regions": [],

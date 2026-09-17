@@ -2,13 +2,14 @@
   "slug": "a-mei",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T22:28:16.921Z",
+  "fetchedAt": "2026-09-17T23:02:55.243Z",
   "artist": {
     "channelId": "UC5M7vIbPTCOMVF3lTtbeO6g",
     "name": "張惠妹",
     "thumbnail": "https://yt3.googleusercontent.com/e63J-ehz3ts8kyVKEMx44_NoIxjNyl5IL2kd-NOSy7xSS99BJGgV1FhiF1Jzu25w4MI5apyN8eLv78uETw=w1400-h583-p-l90-rj",
     "subscribers": 183000,
     "monthlyAudience": 1930000,
+    "videos": [],
     "avatar": "https://yt3.googleusercontent.com/yUMzqtXUpqrpLztD9ci1ChqMonNUJRWucVqA6o6HOi-AmY1WIi16fdnB7LJ0AQFTSidV6hV9tgU=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -814,7 +815,7 @@
             "arranger": "Martin Tang"
           },
           "titleZhVariant": true,
-          "nameKey": "whatsup"
+          "nameKey": "whatsup#live"
         },
         {
           "index": 13,
@@ -1057,7 +1058,7 @@
             "arranger": "Martin Tang"
           },
           "titleZhVariant": true,
-          "nameKey": "whatsup"
+          "nameKey": "whatsup#live"
         },
         {
           "index": 13,
@@ -1123,7 +1124,7 @@
             "music": "張雨生",
             "arranger": "Martin Tang"
           },
-          "nameKey": "areyouready"
+          "nameKey": "areyouready#live"
         },
         {
           "index": 2,
@@ -1212,7 +1213,7 @@
             "music": "陶喆",
             "arranger": "陶喆"
           },
-          "nameKey": "highhighhigh"
+          "nameKey": "highhighhigh#live"
         },
         {
           "index": 7,
@@ -1265,7 +1266,7 @@
             "music": "阿怪",
             "arranger": "吳慶隆"
           },
-          "nameKey": "openyoureyes"
+          "nameKey": "openyoureyes#live"
         },
         {
           "index": 10,
@@ -1317,7 +1318,7 @@
             "music": "張雨生",
             "arranger": "Martin Tang"
           },
-          "nameKey": "areyouready"
+          "nameKey": "areyouready#live"
         },
         {
           "index": 2,
@@ -1398,7 +1399,7 @@
             "music": "陶喆",
             "arranger": "陶喆"
           },
-          "nameKey": "highhighhigh"
+          "nameKey": "highhighhigh#live"
         },
         {
           "index": 7,
@@ -1447,7 +1448,7 @@
             "music": "阿怪",
             "arranger": "吳慶隆"
           },
-          "nameKey": "openyoureyes"
+          "nameKey": "openyoureyes#live"
         },
         {
           "index": 10,
@@ -1523,7 +1524,12 @@
           "playsText": "播放次數：609",
           "duration": 351,
           "byOther": false,
-          "nameKey": "給我感覺"
+          "nameKey": "給我感覺",
+          "credits": {
+            "lyrics": "鄔裕康、阿怪",
+            "music": "陳志遠",
+            "arranger": "Martin Tang"
+          }
         },
         {
           "index": 4,
@@ -1599,7 +1605,12 @@
           "playsText": "播放次數：609",
           "duration": 351,
           "byOther": false,
-          "nameKey": "給我感覺"
+          "nameKey": "給我感覺",
+          "credits": {
+            "lyrics": "鄔裕康、阿怪",
+            "music": "陳志遠",
+            "arranger": "Martin Tang"
+          }
         },
         {
           "index": 4,
@@ -2145,7 +2156,7 @@
             "arranger": "Martin Tang"
           },
           "titleZhVariant": true,
-          "nameKey": "whatsup"
+          "nameKey": "whatsup#live"
         },
         {
           "index": 14,
@@ -2407,7 +2418,11 @@
           "byOther": false,
           "titleZh": "鳳凰于飛",
           "titleZhVariant": true,
-          "nameKey": "鳳凰於飛"
+          "nameKey": "鳳凰於飛",
+          "credits": {
+            "music": "陳歌辛",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 10,
@@ -3919,7 +3934,7 @@
             "music": "陶喆",
             "arranger": "陶喆"
           },
-          "nameKey": "highhighhigh"
+          "nameKey": "highhighhigh#live"
         },
         {
           "index": 4,
@@ -4099,7 +4114,7 @@
             "music": "張雨生",
             "arranger": "Martin Tang"
           },
-          "nameKey": "areyouready"
+          "nameKey": "areyouready#live"
         },
         {
           "index": 16,
@@ -4132,7 +4147,7 @@
             "music": "阿怪",
             "arranger": "吳慶隆"
           },
-          "nameKey": "openyoureyes"
+          "nameKey": "openyoureyes#live"
         },
         {
           "index": 18,
@@ -4339,7 +4354,7 @@
             "music": "陶喆",
             "arranger": "陶喆"
           },
-          "nameKey": "highhighhigh"
+          "nameKey": "highhighhigh#live"
         },
         {
           "index": 4,
@@ -4519,7 +4534,7 @@
             "music": "張雨生",
             "arranger": "Martin Tang"
           },
-          "nameKey": "areyouready"
+          "nameKey": "areyouready#live"
         },
         {
           "index": 16,
@@ -4552,7 +4567,7 @@
             "music": "阿怪",
             "arranger": "吳慶隆"
           },
-          "nameKey": "openyoureyes"
+          "nameKey": "openyoureyes#live"
         },
         {
           "index": 18,
@@ -6387,7 +6402,12 @@
           "playsText": "播放次數：6059",
           "duration": 285,
           "byOther": false,
-          "nameKey": "渴了"
+          "nameKey": "渴了",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "八三夭阿璞",
+            "arranger": "梁伯君"
+          }
         },
         {
           "index": 13,
@@ -6903,7 +6923,10 @@
           "playsText": "播放次數：48萬",
           "duration": 255,
           "byOther": false,
-          "nameKey": "偏執面"
+          "nameKey": "偏執面",
+          "credits": {
+            "lyrics": "蛋堡"
+          }
         },
         {
           "index": 6,
@@ -7208,7 +7231,7 @@
           "playsText": "播放次數：1.5萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "我期待#live"
+          "nameKey": "我期待"
         }
       ],
       "releaseDate": null,
@@ -7232,11 +7255,11 @@
           "title": "放開你的頭腦 + PLAY我呸 - Sound Of My Dream (Live)",
           "artists": "",
           "videoId": "O9ymE5tIYWE",
-          "plays": 2234,
-          "playsText": "播放次數：2234",
+          "plays": 2235,
+          "playsText": "播放次數：2235",
           "duration": 230,
           "byOther": false,
-          "nameKey": "放開你的頭腦play我呸#live"
+          "nameKey": "放開你的頭腦play我呸"
         }
       ],
       "releaseDate": null,
@@ -7264,7 +7287,7 @@
           "playsText": "播放次數：7683",
           "duration": 260,
           "byOther": false,
-          "nameKey": "春天裡#live"
+          "nameKey": "春天裡"
         }
       ],
       "releaseDate": null,
@@ -7292,7 +7315,7 @@
           "playsText": "播放次數：13萬",
           "duration": 284,
           "byOther": false,
-          "nameKey": "默#live"
+          "nameKey": "默"
         }
       ],
       "releaseDate": null,
@@ -7482,7 +7505,7 @@
           "playsText": "播放次數：1.2萬",
           "duration": 236,
           "byOther": false,
-          "nameKey": "唯一#live"
+          "nameKey": "唯一"
         }
       ],
       "releaseDate": null,
@@ -7510,7 +7533,7 @@
           "playsText": "播放次數：969",
           "duration": 248,
           "byOther": false,
-          "nameKey": "寂寞寂寞就好#live"
+          "nameKey": "寂寞寂寞就好"
         }
       ],
       "releaseDate": null,
@@ -7538,7 +7561,7 @@
           "playsText": "播放次數：1333",
           "duration": 230,
           "byOther": false,
-          "nameKey": "快讓我在雪地上撒點兒野#live"
+          "nameKey": "快讓我在雪地上撒點兒野"
         }
       ],
       "releaseDate": null,
@@ -7566,7 +7589,7 @@
           "playsText": "播放次數：1768",
           "duration": 185,
           "byOther": false,
-          "nameKey": "王妃#live"
+          "nameKey": "王妃"
         }
       ],
       "releaseDate": null,
@@ -7704,7 +7727,7 @@
             "music": "阿怪",
             "arranger": "吳慶隆"
           },
-          "nameKey": "openyoureyes"
+          "nameKey": "openyoureyes#live"
         },
         {
           "index": 5,
@@ -7811,7 +7834,12 @@
           "playsText": "播放次數：3664",
           "duration": 240,
           "byOther": false,
-          "nameKey": "給我感覺"
+          "nameKey": "給我感覺",
+          "credits": {
+            "lyrics": "鄔裕康、阿怪",
+            "music": "陳志遠",
+            "arranger": "Martin Tang"
+          }
         },
         {
           "index": 12,

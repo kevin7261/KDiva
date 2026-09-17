@@ -1,6 +1,6 @@
 {
   "slug": "ozi",
-  "fetchedAt": "2026-09-17T21:30:04.633Z",
+  "fetchedAt": "2026-09-17T23:13:13.357Z",
   "wiki": "ØZI",
   "bio": {
     "born": {
@@ -21,18 +21,37 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-01-23",
+        "date": "2019-05-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "華山Legacy"
       ],
       "venues": [
-        "華山Legacy"
+        "華山Legacy",
+        "USA"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-01-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "華山Legacy"
+        },
+        {
+          "date": "2019-05-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "USA",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "ADICA",
@@ -46,7 +65,7 @@
         "date": "2023-03-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北流行音樂中心"
@@ -54,7 +73,18 @@
       "venues": [
         "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-03-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "SWIRL",
@@ -68,7 +98,7 @@
         "date": "2025-03-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北流行音樂中心"
@@ -76,7 +106,18 @@
       "venues": [
         "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-03-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

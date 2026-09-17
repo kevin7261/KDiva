@@ -1,6 +1,6 @@
 {
   "slug": "kelly-chen",
-  "fetchedAt": "2026-09-17T16:42:01.057Z",
+  "fetchedAt": "2026-09-17T23:04:43.359Z",
   "wiki": "陳慧琳",
   "bio": {
     "born": {
@@ -334,7 +334,15 @@
         "臺灣 臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1998-12-24",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北",
+          "venue": ""
+        }
+      ]
     },
     {
       "name": "許志安x陳慧琳903id club拉闊音樂會",
@@ -1428,13 +1436,24 @@
         "date": "2006-03-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-03-30",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "七夕紅豆．東方情人節",
@@ -2870,7 +2889,7 @@
         "precision": "day"
       },
       "end": {
-        "date": "2013-03-04",
+        "date": "2018-07-25",
         "precision": "day"
       },
       "showCount": 1,
@@ -2879,7 +2898,28 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-03-04",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        },
+        {
+          "date": "2018-07-25",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "張國榮繼續寵愛．十年．音樂會",
@@ -2893,13 +2933,24 @@
         "date": "2013-04-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-04-01",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Kelly Let's Celebrate!世界巡迴演唱會",
@@ -3067,13 +3118,24 @@
         "date": "2022-10-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "新加坡"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-10-22",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "想張國榮20週年致敬音樂會",
@@ -3087,13 +3149,24 @@
         "date": "2023-04-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-04-01",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "富衛保險冠軍賽馬日",
@@ -3107,13 +3180,24 @@
         "date": "2023-04-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-04-30",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "陳慧琳Season 2世界巡迴演唱會",
@@ -3541,13 +3625,24 @@
         "date": "2024-06-08",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-06-08",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "陳慧琳新濠尊場十月漫天飛花音樂會",
@@ -3567,7 +3662,18 @@
         "澳門"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-10-26",
+          "precision": "day",
+          "region": "",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "陳慧琳澳門倫敦人VIP專場",
@@ -3587,7 +3693,18 @@
         "澳門"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-03-01",
+          "precision": "day",
+          "region": "",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        }
+      ]
     }
   ]
 }

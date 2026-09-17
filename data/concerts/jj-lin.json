@@ -1,6 +1,6 @@
 {
   "slug": "jj-lin",
-  "fetchedAt": "2026-09-17T15:05:54.594Z",
+  "fetchedAt": "2026-09-17T23:09:30.851Z",
   "wiki": "林俊傑",
   "bio": {
     "born": {
@@ -132,7 +132,7 @@
         "date": "2008-08-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "印尼"
       ],
@@ -142,7 +142,18 @@
       "venues": [
         "Mikie Star Theater"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-08-17",
+          "precision": "day",
+          "region": "印尼",
+          "city": "棉蘭",
+          "venue": "Mikie Star Theater",
+          "lat": 3.589444444444444,
+          "lon": 98.67388888888888,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "二王一後聖誕演唱會",
@@ -156,7 +167,7 @@
         "date": "2008-12-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "美國"
       ],
@@ -166,7 +177,18 @@
       "venues": [
         "凱撒皇宮酒店羅馬大劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-12-25",
+          "precision": "day",
+          "region": "美國",
+          "city": "拉斯維加斯",
+          "venue": "凱撒皇宮酒店羅馬大劇場",
+          "lat": 36.16722222222222,
+          "lon": -115.14861111111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "新城唱好極品男聲音樂會",
@@ -180,7 +202,7 @@
         "date": "2009-03-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "香港"
       ],
@@ -190,7 +212,18 @@
       "venues": [
         "香港會議展覽中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-03-15",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "香港會議展覽中心",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "傑伴2009世界巡迴演唱會 JJ Lin World Tour 2009",
@@ -276,7 +309,7 @@
         "date": "2009-12-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -286,7 +319,18 @@
       "venues": [
         "動漫劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-12-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "動漫劇場",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "JJ Party音樂會",
@@ -300,7 +344,7 @@
         "date": "2010-03-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -310,7 +354,18 @@
       "venues": [
         "傳音樂展演空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-03-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "傳音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "林俊傑墨爾本演唱會 （JJ Lin Melbourne Concert）",
@@ -324,7 +379,7 @@
         "date": "2010-04-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "澳洲"
       ],
@@ -334,7 +389,18 @@
       "venues": [
         "墨爾本會展中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-04-24",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "墨爾本",
+          "venue": "墨爾本會展中心",
+          "lat": -37.814166666666665,
+          "lon": 144.96305555555554,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "APAHM巡迴演唱會",
@@ -345,20 +411,55 @@
         "precision": "day"
       },
       "end": {
-        "date": "2010-05-26",
+        "date": "2010-05-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "美國"
       ],
       "cities": [
-        "華盛頓"
+        "華盛頓",
+        "舊金山",
+        "洛杉磯"
       ],
       "venues": [
-        "GW Lisner Auditorium"
+        "GW Lisner Auditorium",
+        "Palace of Fine Arts Theatre",
+        "The Novo"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-05-26",
+          "precision": "day",
+          "region": "美國",
+          "city": "華盛頓",
+          "venue": "GW Lisner Auditorium",
+          "lat": 38.895,
+          "lon": -77.036666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2010-05-27",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "Palace of Fine Arts Theatre",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2010-05-29",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "The Novo",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "I AM世界巡迴演唱會 JJ Lin I AM World Tour",
@@ -527,7 +628,7 @@
         "date": "2010-12-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "美國"
       ],
@@ -537,7 +638,18 @@
       "venues": [
         "Circus Maximus Theater"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-12-25",
+          "precision": "day",
+          "region": "美國",
+          "city": "大西洋城",
+          "venue": "Circus Maximus Theater",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "溫哥華閃耀之星演唱會",
@@ -551,7 +663,7 @@
         "date": "2011-05-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "加拿大"
       ],
@@ -561,7 +673,18 @@
       "venues": [
         "The Centre For Performing Arts"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-05-06",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "The Centre For Performing Arts",
+          "lat": 49.26083333333333,
+          "lon": -123.1138888888889,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "We Together新歌演唱會",
@@ -575,7 +698,7 @@
         "date": "2012-02-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -585,7 +708,18 @@
       "venues": [
         "新北市政府前廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-02-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新北",
+          "venue": "新北市政府前廣場",
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "因你而在",
@@ -599,7 +733,7 @@
         "date": "2013-04-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -609,7 +743,18 @@
       "venues": [
         "淺水灣文化中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-04-07",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "淺水灣文化中心",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "時線世界巡迴演唱會 JJ Lin Timeline World Tour",
@@ -1142,50 +1287,107 @@
     {
       "name": "和自己對話微距音樂會",
       "page": "和自己對話",
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2016-01-02",
         "precision": "day"
       },
       "end": {
-        "date": "2016-01-02",
+        "date": "2016-01-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
-        "臺灣"
+        "臺灣",
+        "中國大陸"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "北京"
       ],
       "venues": [
-        "臺北國際會議中心"
+        "臺北國際會議中心",
+        "光華路五號國際會展中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-01-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-01-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "光華路五號國際會展中心",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "By Your Side演唱會 （By Your Side Live Concert）",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2016-02-14",
         "precision": "day"
       },
       "end": {
-        "date": "2016-02-14",
+        "date": "2016-02-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
-        "美國"
+        "美國",
+        "加拿大"
       ],
       "cities": [
-        "雷諾"
+        "雷諾",
+        "溫哥華",
+        "洛杉磯"
       ],
       "venues": [
-        "雷諾活動中心"
+        "雷諾活動中心",
+        "伊麗莎白女王劇院;zh-sg:伊麗莎白女王劇院;zh-hans:伊利沙伯女皇劇院;zh-mo:伊利沙伯女皇劇院;zh-hk:伊利沙伯女皇劇院;zh-hans:伊利沙伯女皇劇院;zh-tw:伊莉莎白女王劇院",
+        "聖殿劇院"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-02-14",
+          "precision": "day",
+          "region": "美國",
+          "city": "雷諾",
+          "venue": "雷諾活動中心"
+        },
+        {
+          "date": "2016-02-18",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "伊麗莎白女王劇院;zh-sg:伊麗莎白女王劇院;zh-hans:伊利沙伯女皇劇院;zh-mo:伊利沙伯女皇劇院;zh-hk:伊利沙伯女皇劇院;zh-hans:伊利沙伯女皇劇院;zh-tw:伊莉莎白女王劇院",
+          "lat": 49.28031,
+          "lon": -123.11316,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-02-22",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "聖殿劇院",
+          "lat": 34.02333333333333,
+          "lon": -118.28166666666667,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "偉大的渺小線上新歌演唱會",
@@ -1655,9 +1857,9 @@
           "region": "2020年3月7日",
           "city": "澳洲",
           "venue": "悉尼",
-          "lat": -33.867777777777775,
-          "lon": 151.21,
-          "geo": "venue"
+          "lat": -25,
+          "lon": 133,
+          "geo": "city"
         },
         {
           "date": "2019-01-01",
@@ -1665,9 +1867,9 @@
           "region": "2020年3月29日",
           "city": "中國大陸",
           "venue": "上海",
-          "lat": 31.2325,
-          "lon": 121.46916666666667,
-          "geo": "venue"
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
         },
         {
           "date": "2019-01-01",
@@ -1675,9 +1877,9 @@
           "region": "2020年4月26日",
           "city": "中國大陸",
           "venue": "南寧",
-          "lat": 22.81918,
-          "lon": 108.31501,
-          "geo": "venue"
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
         },
         {
           "date": "2019-01-01",
@@ -1685,9 +1887,9 @@
           "region": "2020年5月10日",
           "city": "中國大陸",
           "venue": "廣州",
-          "lat": 23.13,
-          "lon": 113.26,
-          "geo": "venue"
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
         },
         {
           "date": "2019-01-01",
@@ -1695,9 +1897,9 @@
           "region": "2020年5月24日",
           "city": "中國大陸",
           "venue": "咸陽",
-          "lat": 34.32972222222222,
-          "lon": 108.70916666666666,
-          "geo": "venue"
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
         },
         {
           "date": "2019-01-01",
@@ -1705,9 +1907,9 @@
           "region": "2020年5月31日",
           "city": "中國大陸",
           "venue": "南京",
-          "lat": 32.060833333333335,
-          "lon": 118.77888888888889,
-          "geo": "venue"
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
         },
         {
           "date": "2019-02-14",
@@ -2155,10 +2357,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2021-11-27",
+        "date": "2021-11-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "新加坡"
       ],
@@ -2168,7 +2370,22 @@
       "venues": [
         "嘉賓：陳卓義 28日由新浪微博、抖音、YouTube同步直播"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-11-27",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "濱海灣金沙劇院",
+          "venue": "嘉賓：陳卓義 28日由新浪微博、抖音、YouTube同步直播"
+        },
+        {
+          "date": "2021-11-28",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "濱海灣金沙劇院",
+          "venue": "嘉賓：陳卓義 28日由新浪微博、抖音、YouTube同步直播"
+        }
+      ]
     },
     {
       "name": "JJ20 FINAL LAP世界巡迴演唱會",
@@ -3752,7 +3969,7 @@
         "date": "2023-05-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -3762,7 +3979,18 @@
       "venues": [
         "臺北表演藝術中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-05-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北表演藝術中心",
+          "lat": 25.08511111,
+          "lon": 121.52419444,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }
