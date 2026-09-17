@@ -4,8 +4,8 @@ import { writeFile } from 'node:fs/promises'
 import { fetchAwards } from '../server/awards.js'
 import { ARTISTS, awardsFile } from '../server/config.js'
 
-const byArtist = await fetchAwards(ARTISTS, (m) => console.log(m))
-await writeFile(awardsFile, JSON.stringify({ fetchedAt: new Date().toISOString(), artists: byArtist }))
+const { byArtist, categories } = await fetchAwards(ARTISTS, (m) => console.log(m))
+await writeFile(awardsFile, JSON.stringify({ fetchedAt: new Date().toISOString(), artists: byArtist, categories }))
 const withAny = Object.values(byArtist).filter((l) => l.length).length
 const wins = Object.values(byArtist).reduce((n, l) => n + l.filter((x) => x.won).length, 0)
 console.log(`${withAny}/${ARTISTS.length} 位有紀錄，合計得獎 ${wins} 次`)

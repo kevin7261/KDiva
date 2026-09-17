@@ -895,7 +895,12 @@
           "playsText": "播放次數：17萬",
           "duration": 223,
           "byOther": false,
-          "nameKey": "大激想"
+          "nameKey": "大激想",
+          "credits": {
+            "lyrics": "林夕",
+            "music": "林慕德",
+            "arranger": "林慕德、杜自持"
+          }
         },
         {
           "index": 2,
@@ -1226,7 +1231,7 @@
           "byOther": false,
           "nameKey": "超人的主題曲",
           "credits": {
-            "lyrics": "田中小百合 (黃偉文化名)",
+            "lyrics": "田中小百合",
             "music": "山本洋太",
             "arranger": "山本洋太、C.Y. Kong"
           }
@@ -2004,7 +2009,8 @@
           "nameKey": "時代曲",
           "credits": {
             "lyrics": "黃偉文",
-            "music": "江港生、陳奕迅"
+            "music": "江港生、陳奕迅",
+            "arranger": "楊雲驃"
           }
         },
         {
@@ -2262,7 +2268,8 @@
           "nameKey": "時代曲",
           "credits": {
             "lyrics": "黃偉文",
-            "music": "江港生、陳奕迅"
+            "music": "江港生、陳奕迅",
+            "arranger": "楊雲驃"
           }
         },
         {
@@ -2276,7 +2283,7 @@
           "byOther": false,
           "nameKey": "超人的主題曲",
           "credits": {
-            "lyrics": "田中小百合 (黃偉文化名)",
+            "lyrics": "田中小百合",
             "music": "山本洋太",
             "arranger": "山本洋太、C.Y. Kong"
           }
@@ -6329,7 +6336,8 @@
           "nameKey": "時代曲",
           "credits": {
             "lyrics": "黃偉文",
-            "music": "江港生、陳奕迅"
+            "music": "江港生、陳奕迅",
+            "arranger": "楊雲驃"
           }
         },
         {
@@ -9118,7 +9126,12 @@
           "playsText": "播放次數：10萬",
           "duration": 264,
           "byOther": false,
-          "nameKey": "細路"
+          "nameKey": "細路",
+          "credits": {
+            "lyrics": "黃偉文",
+            "music": "謝霆鋒",
+            "arranger": "胡波、藝琛"
+          }
         },
         {
           "index": 54,
@@ -11659,9 +11672,9 @@
           "byOther": false,
           "nameKey": "漂亮小姐",
           "credits": {
-            "lyrics": "倪子罔(NESE)、卓伸穎",
-            "music": "倪子罔(NESE)",
-            "arranger": "劉志遠、倪子罔(NESE)"
+            "lyrics": "倪子罔、卓伸穎",
+            "music": "倪子罔",
+            "arranger": "劉志遠、倪子罔"
           }
         },
         {
@@ -13046,7 +13059,7 @@
           "byOther": false,
           "nameKey": "lifegoeson",
           "credits": {
-            "lyrics": "譚健文（DASH）@ Mr.",
+            "lyrics": "譚健文@ Mr.",
             "music": "孫偉明",
             "arranger": "Gary Tong"
           }
@@ -13299,7 +13312,12 @@
           "playsText": "播放次數：12萬",
           "duration": 171,
           "byOther": false,
-          "nameKey": "青春無晦"
+          "nameKey": "青春無晦",
+          "credits": {
+            "lyrics": "林若寧",
+            "music": "吳節",
+            "arranger": "吳節"
+          }
         }
       ],
       "releaseDate": null,
@@ -13575,7 +13593,12 @@
           "playsText": "播放次數：961",
           "duration": 186,
           "byOther": false,
-          "nameKey": "cityofhope"
+          "nameKey": "cityofhope",
+          "credits": {
+            "lyrics": "陳少琪、莊冬昕",
+            "music": "孫耀威",
+            "arranger": "孫耀威"
+          }
         }
       ],
       "releaseDate": null,
@@ -14131,7 +14154,12 @@
           "playsText": "播放次數：1.4萬",
           "duration": 186,
           "byOther": false,
-          "nameKey": "無限之城"
+          "nameKey": "無限之城",
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "孫耀威",
+            "arranger": "孫耀威"
+          }
         }
       ],
       "releaseDate": null,
@@ -14426,7 +14454,8 @@
           "nameKey": "時代曲",
           "credits": {
             "lyrics": "黃偉文",
-            "music": "江港生、陳奕迅"
+            "music": "江港生、陳奕迅",
+            "arranger": "楊雲驃"
           }
         },
         {
@@ -15022,6 +15051,11 @@
           "duration": 183,
           "byOther": false,
           "nameKey": "相信自己無限極",
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "莊冬昕",
+            "arranger": "莊冬昕"
+          },
           "titleZh": "相信自己無限極",
           "titleZhVariant": true
         }
@@ -15275,7 +15309,7 @@
           "byOther": false,
           "nameKey": "lifegoeson",
           "credits": {
-            "lyrics": "譚健文（DASH）@ Mr.",
+            "lyrics": "譚健文@ Mr.",
             "music": "孫偉明",
             "arranger": "Gary Tong"
           }
@@ -16218,7 +16252,7 @@
           "credits": {
             "lyrics": "林夕",
             "music": "陳輝陽",
-            "arranger": "金培達"
+            "arranger": "陳輝陽"
           }
         },
         {
@@ -17064,7 +17098,7 @@
           "byOther": false,
           "nameKey": "老細我撇先",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "Russell Harris",
             "arranger": "劉志遠"
           }
@@ -17080,7 +17114,7 @@
           "byOther": false,
           "nameKey": "無條件",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "Eric Kwok",
             "arranger": "張子堅"
           }
@@ -17096,7 +17130,7 @@
           "byOther": false,
           "nameKey": "人生馬拉松",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "曲世聰",
             "arranger": "劉志遠"
           },
@@ -17114,7 +17148,7 @@
           "byOther": false,
           "nameKey": "黑洞",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "曲世聰",
             "arranger": "劉志遠"
           }
@@ -17130,7 +17164,7 @@
           "byOther": false,
           "nameKey": "心燒",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "Eric Kwok",
             "arranger": "張子堅"
           }
@@ -17146,7 +17180,7 @@
           "byOther": false,
           "nameKey": "喜歡一個人",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "Eric Kwok",
             "arranger": "林知秋"
           }
@@ -17162,7 +17196,7 @@
           "byOther": false,
           "nameKey": "萬聖節的一個傳說",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "曲世聰",
             "arranger": "劉志遠"
           }
@@ -17178,7 +17212,7 @@
           "byOther": false,
           "nameKey": "起點終站",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "謝霆鋒",
             "arranger": "王雙駿"
           }
@@ -17194,7 +17228,7 @@
           "byOther": false,
           "nameKey": "一個靈魂的獨白",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "江海迦",
             "arranger": "C. Y. Kong"
           }
@@ -17210,7 +17244,7 @@
           "byOther": false,
           "nameKey": "夢的可能",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "Russell Harris",
             "arranger": "劉志遠"
           }
@@ -17243,8 +17277,9 @@
           "byOther": false,
           "nameKey": "sleepalone",
           "credits": {
-            "lyrics": "Stephen Mok @per se",
-            "music": "黎曉陽、謝國維"
+            "lyrics": "Stephen Mok",
+            "music": "黎曉陽、謝國維",
+            "arranger": "C.Y. Kong"
           }
         }
       ],
@@ -17273,7 +17308,12 @@
           "playsText": "播放次數：2萬",
           "duration": 192,
           "byOther": false,
-          "nameKey": "恐龍進化論"
+          "nameKey": "恐龍進化論",
+          "credits": {
+            "lyrics": "潘源良",
+            "music": "Eric Kwok",
+            "arranger": "Kevin Boy、Adam Diaz、陳兆基"
+          }
         }
       ],
       "releaseDate": null,
@@ -17301,7 +17341,12 @@
           "playsText": "播放次數：3.8萬",
           "duration": 239,
           "byOther": false,
-          "nameKey": "暴風雨"
+          "nameKey": "暴風雨",
+          "credits": {
+            "lyrics": "岑偉宗",
+            "music": "高世章",
+            "arranger": "高世章"
+          }
         }
       ],
       "releaseDate": null,
@@ -17331,7 +17376,7 @@
           "byOther": false,
           "nameKey": "起點終站",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "謝霆鋒",
             "arranger": "王雙駿"
           }
@@ -17365,7 +17410,8 @@
           "nameKey": "陪你度過漫長歲月",
           "credits": {
             "lyrics": "葛大為",
-            "music": "黎曉陽、謝國維"
+            "music": "黎曉陽、謝國維",
+            "arranger": "C.Y. Kong"
           }
         }
       ],
@@ -17394,7 +17440,12 @@
           "playsText": "播放次數：1458萬",
           "duration": 245,
           "byOther": false,
-          "nameKey": "四季"
+          "nameKey": "四季",
+          "credits": {
+            "lyrics": "小克",
+            "music": "周國賢",
+            "arranger": "C.Y. Kong"
+          }
         }
       ],
       "releaseDate": "2016-09-01",
@@ -17422,7 +17473,12 @@
           "playsText": "播放次數：122萬",
           "duration": 250,
           "byOther": false,
-          "nameKey": "ido"
+          "nameKey": "ido",
+          "credits": {
+            "lyrics": "鄭光志、陳奕迅",
+            "music": "周國賢",
+            "arranger": "C.Y. Kong"
+          }
         }
       ],
       "releaseDate": null,
@@ -17450,7 +17506,12 @@
           "playsText": "播放次數：4156萬",
           "duration": 186,
           "byOther": false,
-          "nameKey": "讓我留在你身邊"
+          "nameKey": "讓我留在你身邊",
+          "credits": {
+            "lyrics": "唐漢霄",
+            "music": "唐漢霄",
+            "arranger": "阿亂"
+          }
         }
       ],
       "releaseDate": null,
@@ -17650,7 +17711,12 @@
           "playsText": "播放次數：4.3萬",
           "duration": 310,
           "byOther": false,
-          "nameKey": "在這個世界相遇"
+          "nameKey": "在這個世界相遇",
+          "credits": {
+            "lyrics": "田曉鵬",
+            "music": "竇鵬",
+            "arranger": "竇鵬"
+          }
         }
       ],
       "releaseDate": null,
@@ -17953,7 +18019,7 @@
           "nameKey": "龍舌蘭",
           "credits": {
             "lyrics": "陳詠謙",
-            "music": "Chris Polanco（陳傑）",
+            "music": "Chris Polanco",
             "arranger": "the duo band"
           }
         },
@@ -18080,7 +18146,12 @@
           "playsText": "播放次數：4425萬",
           "duration": 261,
           "byOther": false,
-          "nameKey": "我們"
+          "nameKey": "我們",
+          "credits": {
+            "lyrics": "葛大為",
+            "music": "陳建騏",
+            "arranger": "陳建騏"
+          }
         }
       ],
       "releaseDate": null,
@@ -18386,7 +18457,7 @@
           "nameKey": "龍舌蘭",
           "credits": {
             "lyrics": "陳詠謙",
-            "music": "Chris Polanco（陳傑）",
+            "music": "Chris Polanco",
             "arranger": "the duo band"
           }
         }
@@ -18525,7 +18596,7 @@
           "byOther": false,
           "nameKey": "黑洞",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "曲世聰",
             "arranger": "劉志遠"
           }
@@ -18542,7 +18613,7 @@
           "nameKey": "龍舌蘭",
           "credits": {
             "lyrics": "陳詠謙",
-            "music": "Chris Polanco（陳傑）",
+            "music": "Chris Polanco",
             "arranger": "the duo band"
           }
         },
@@ -18557,7 +18628,7 @@
           "byOther": false,
           "nameKey": "異夢",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "Eric Kwok",
             "arranger": "張子堅"
           }
@@ -18664,7 +18735,7 @@
           "byOther": false,
           "nameKey": "夢的可能",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "Russell Harris",
             "arranger": "劉志遠"
           }
@@ -18680,7 +18751,7 @@
           "byOther": false,
           "nameKey": "一個靈魂的獨白",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "江海迦",
             "arranger": "C. Y. Kong"
           }
@@ -18723,7 +18794,7 @@
           "byOther": false,
           "nameKey": "人生馬拉松",
           "credits": {
-            "lyrics": "袁兩半 (即潘源良)",
+            "lyrics": "袁兩半",
             "music": "曲世聰",
             "arranger": "劉志遠"
           }
@@ -18753,7 +18824,12 @@
           "playsText": "播放次數：25萬",
           "duration": 220,
           "byOther": false,
-          "nameKey": "四季"
+          "nameKey": "四季",
+          "credits": {
+            "lyrics": "小克",
+            "music": "周國賢",
+            "arranger": "C.Y. Kong"
+          }
         },
         {
           "index": 24,
@@ -18777,7 +18853,7 @@
           "byOther": false,
           "nameKey": "lifegoeson",
           "credits": {
-            "lyrics": "譚健文（DASH）@ Mr.",
+            "lyrics": "譚健文@ Mr.",
             "music": "孫偉明",
             "arranger": "Gary Tong"
           }
@@ -18894,7 +18970,12 @@
           "playsText": "播放次數：9.6萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "相信你的人"
+          "nameKey": "相信你的人",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "陳小霞",
+            "arranger": "陳輝陽、倫偉傑"
+          }
         }
       ],
       "releaseDate": null,
@@ -19051,7 +19132,12 @@
           "playsText": "播放次數：282萬",
           "duration": 224,
           "byOther": false,
-          "nameKey": "穩穩的幸福"
+          "nameKey": "穩穩的幸福",
+          "credits": {
+            "lyrics": "小柯",
+            "music": "小柯",
+            "arranger": "小柯"
+          }
         }
       ],
       "releaseDate": null,
@@ -19079,7 +19165,12 @@
           "playsText": "播放次數：28萬",
           "duration": 210,
           "byOther": false,
-          "nameKey": "不期而遇的夏天"
+          "nameKey": "不期而遇的夏天",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "梁翹柏",
+            "arranger": "梁翹柏"
+          }
         }
       ],
       "releaseDate": "2021-08-17",
@@ -19107,7 +19198,12 @@
           "playsText": "播放次數：64萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "iwant"
+          "nameKey": "iwant",
+          "credits": {
+            "lyrics": "Jon Hendricks、司徒明、林振強",
+            "music": "Jon Hendricks",
+            "arranger": "高世章"
+          }
         }
       ],
       "releaseDate": "2021-09-10",
@@ -19135,7 +19231,12 @@
           "playsText": "播放次數：1.4億",
           "duration": 256,
           "byOther": false,
-          "nameKey": "孤勇者"
+          "nameKey": "孤勇者",
+          "credits": {
+            "lyrics": "唐恬",
+            "music": "錢雷",
+            "arranger": "錢雷"
+          }
         }
       ],
       "releaseDate": "2021-11-08",
@@ -19307,7 +19408,12 @@
           "playsText": "播放次數：152萬",
           "duration": 283,
           "byOther": false,
-          "nameKey": "孤勇者#live"
+          "nameKey": "孤勇者#live",
+          "credits": {
+            "lyrics": "唐恬",
+            "music": "錢雷",
+            "arranger": "錢雷"
+          }
         }
       ],
       "releaseDate": null,
@@ -19637,7 +19743,12 @@
           "playsText": "播放次數：1004萬",
           "duration": 222,
           "byOther": false,
-          "nameKey": "k歌之王air"
+          "nameKey": "k歌之王air",
+          "credits": {
+            "lyrics": "林夕",
+            "music": "陳輝陽",
+            "arranger": "Callum Au"
+          }
         },
         {
           "index": 2,
@@ -19648,7 +19759,12 @@
           "playsText": "播放次數：239萬",
           "duration": 220,
           "byOther": false,
-          "nameKey": "k歌之王air"
+          "nameKey": "k歌之王air",
+          "credits": {
+            "lyrics": "林夕",
+            "music": "陳輝陽",
+            "arranger": "Callum Au"
+          }
         }
       ],
       "releaseDate": null,
@@ -19679,7 +19795,8 @@
           "nameKey": "時代曲",
           "credits": {
             "lyrics": "黃偉文",
-            "music": "江港生、陳奕迅"
+            "music": "江港生、陳奕迅",
+            "arranger": "楊雲驃"
           }
         }
       ],

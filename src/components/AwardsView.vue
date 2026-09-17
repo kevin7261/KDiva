@@ -32,7 +32,15 @@ const editions = computed(() => {
   }
   return [...map.values()]
 })
-const wikiUrl = (edition) => `https://zh.wikipedia.org/wiki/${encodeURIComponent(`第${edition}屆金曲獎`)}`
+// 同一個獎項的完整入圍名單（滑過時顯示）
+const nominees = (r) => {
+  const list = all.value?.categories?.[`${r.edition}|${r.category}`] ?? []
+  if (!list.length) return []
+  const rows = list.map((x) => `${x.won ? '★ ' : '　'}${x.who}${x.work ? `《${x.work.replace(/[《》]/g, '')}》` : ''}`)
+  return [`第 ${r.edition} 屆 ${r.category}（${list.length} 組入圍）`, ...rows.slice(0, 14), ...(rows.length > 14 ? [`…共 ${rows.length} 組`] : [])]
+}
+
+const wikiUrl = (edition) = `https://zh.wikipedia.org/wiki/${encodeURIComponent(`第${edition}屆金曲獎`)}`
 // 入圍者不只這位歌手時（作曲人獎、合唱）才列出；因為作品是他唱的而列入的，標明入圍者是誰
 const others = (r) => {
   if (!r.with || r.with.replace(/\s/g, '') === props.name.replace(/\s/g, '')) return ''
@@ -67,7 +75,7 @@ const others = (r) => {
           <span class="muted">第 {{ e.edition }} 屆</span>
         </a>
         <ul>
-          <li v-for="(r, i) in e.items" :key="i" :class="{ won: r.won }">
+          <li v-for="(r, i) in e.items" :key="i" v-tip="nominees(r)" :class="{ won: r.won }">
             <span class="badge" :class="r.won ? 'win' : 'nom'">{{ r.won ? '得獎' : '入圍' }}</span>
             <div class="what">
               <div class="cat">{{ r.category }}</div>
@@ -80,7 +88,7 @@ const others = (r) => {
         </ul>
       </li>
     </ol>
-    <p class="muted note">資料來源：Wikipedia 歷屆金曲獎（流行音樂類）條目的入圍名單；名稱沿用當屆獎項名稱。</p>
+    <p class="muted note">滑過每一列可以看到該獎項的完整入圍名單（★ 為得獎）。資料來源：Wikipedia 歷屆金曲獎（流行音樂類）條目的入圍名單；名稱沿用當屆獎項名稱。</p>
   </template>
 </template>
 

@@ -47,7 +47,8 @@ export function parseCeremony(wikitext) {
   const entries = []
   for (const sec of sections(wikitext)) {
     // 「多項入圍得獎紀錄」「票選獎項」是統計表或非正式獎項，不是獎項本身
-    if (!/獎/.test(sec.title) || /異動|典禮|評審|統計|資格|爭議|表演|收視|參考|註|多項|紀錄|記錄|票選/.test(sec.title)) continue
+    // 「評審團獎」是獎項，「評選概況」「評審名單」不是
+    if (!/獎/.test(sec.title) || /異動|典禮|評審(?!團獎)|統計|資格|爭議|表演|收視|參考|註|多項|紀錄|記錄|票選/.test(sec.title)) continue
     for (const { header, rows } of readTables(sec.text)) {
       if (!header) continue
       const personCol = header.findIndex((h) => PERSON_HEAD.test(h) && !/報名|頒獎|單位|公司/.test(h))
@@ -122,6 +123,7 @@ export async function fetchAwards(artists, log = () => {}) {
   const titles = Array.from({ length: 40 }, (_, i) => `第${i + 1}屆金曲獎`)
   const pages = await fetchPages(titles)
   const byArtist = Object.fromEntries(artists.map((a) => [a.slug, []]))
+  const categories = {} // 「屆次|獎項」→ 該獎項的完整入圍名單
   const keysOf = (a) =>
     [a.name, a.en, a.wiki, ...(a.aliases ?? []), ...(a.names ?? [])]
       .filter(Boolean)
@@ -147,6 +149,12 @@ export async function fetchAwards(artists, log = () => {}) {
     const entries = parseCeremony(content)
     total += entries.length
     for (const e of entries) {
+      // 同一個獎項的完整入圍名單（前端滑過時顯示）
+      const catKey = `${edition}|${e.category}`
+      const list = (categories[catKey] ??= [])
+      const who = plain(e.people)
+      const work = e.album && !e.work.includes(e.album) ? `${e.work}${e.album}` : e.work
+      if (!list.some((x) => x.who === who && x.work === work)) list.push({ who, work, won: e.won })
       const names = e.people ? namesIn(e.people) : []
       const refs = workRefs(e.work, e.album)
       for (const { slug, keys: k, catalog } of keys) {
@@ -163,6 +171,6 @@ export async function fetchAwards(artists, log = () => {}) {
     }
   }
   for (const list of Object.values(byArtist)) list.sort((a, b) => a.edition - b.edition || b.won - a.won || a.category.localeCompare(b.category))
-  log(`金曲獎：${pages.length} 屆、${total} 筆入圍`)
-  return byArtist
+  log(`金曲獎：${pages.length} 屆、${total} 筆入圍、${Object.keys(categories).length} 個獎項`)
+  return { byArtist, categories }
 }
