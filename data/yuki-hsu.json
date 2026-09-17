@@ -30,7 +30,12 @@
           "playsText": "播放次數：338萬",
           "duration": 213,
           "byOther": false,
-          "nameKey": "飛起來"
+          "nameKey": "飛起來",
+          "credits": {
+            "lyrics": "于光中",
+            "music": "Kim Chang Hwan",
+            "arranger": "陳柔錚"
+          }
         },
         {
           "index": 2,
@@ -41,7 +46,12 @@
           "playsText": null,
           "duration": 263,
           "byOther": false,
-          "nameKey": "amigo"
+          "nameKey": "amigo",
+          "credits": {
+            "lyrics": "何啟弘",
+            "music": "Rawee Kangsanarak",
+            "arranger": "王繼康"
+          }
         }
       ],
       "releaseDate": "1998-01-15",
@@ -313,7 +323,12 @@
           "playsText": "播放次數：338萬",
           "duration": 214,
           "byOther": false,
-          "nameKey": "飛起來"
+          "nameKey": "飛起來",
+          "credits": {
+            "lyrics": "于光中",
+            "music": "Kim Chang Hwan",
+            "arranger": "陳柔錚"
+          }
         },
         {
           "index": 2,
@@ -358,7 +373,7 @@
           "nameKey": "愛像一場重感冒",
           "credits": {
             "lyrics": "姚若龍",
-            "music": "Eric LEE",
+            "music": "Eric Lee",
             "arranger": "梁伯君"
           }
         },
@@ -403,7 +418,12 @@
           "playsText": "播放次數：31萬",
           "duration": 260,
           "byOther": false,
-          "nameKey": "你約我在夏天見面"
+          "nameKey": "你約我在夏天見面",
+          "credits": {
+            "lyrics": "林寶琴",
+            "music": "李正帆",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 8,
@@ -414,7 +434,11 @@
           "playsText": "播放次數：3.6萬",
           "duration": 199,
           "byOther": false,
-          "nameKey": "愛是easygame"
+          "nameKey": "愛是easygame",
+          "credits": {
+            "lyrics": "余致明",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 9,
@@ -441,7 +465,12 @@
           "playsText": null,
           "duration": 259,
           "byOther": false,
-          "nameKey": "amigo"
+          "nameKey": "amigo",
+          "credits": {
+            "lyrics": "何啟弘",
+            "music": "Rawee Kangsanarak",
+            "arranger": "王繼康"
+          }
         }
       ],
       "releaseDate": null,
@@ -593,7 +622,7 @@
           "nameKey": "冒險汽球",
           "credits": {
             "lyrics": "于光中",
-            "music": "申因秀 (Shin In Soo)",
+            "music": "申因秀",
             "arranger": "Lee Jong Phil"
           }
         },
@@ -1015,7 +1044,7 @@
           "nameKey": "愛像一場重感冒",
           "credits": {
             "lyrics": "姚若龍",
-            "music": "Eric LEE",
+            "music": "Eric Lee",
             "arranger": "梁伯君"
           }
         },
@@ -1563,7 +1592,7 @@
           "nameKey": "愛像一場重感冒",
           "credits": {
             "lyrics": "姚若龍",
-            "music": "Eric LEE",
+            "music": "Eric Lee",
             "arranger": "梁伯君"
           }
         }

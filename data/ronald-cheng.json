@@ -467,7 +467,12 @@
           "playsText": "播放次數：2.8萬",
           "duration": 230,
           "byOther": false,
-          "nameKey": "緣份無邊界"
+          "nameKey": "緣份無邊界",
+          "credits": {
+            "lyrics": "鄭鳴",
+            "music": "鄭中基、恭碩良",
+            "arranger": "恭碩良"
+          }
         },
         {
           "index": 15,
@@ -678,7 +683,12 @@
           "playsText": "播放次數：65萬",
           "duration": 324,
           "byOther": false,
-          "nameKey": "onemoretime"
+          "nameKey": "onemoretime",
+          "credits": {
+            "lyrics": "劉卓輝",
+            "music": "山崎將義",
+            "arranger": "蘇德華"
+          }
         },
         {
           "index": 31,
@@ -3215,7 +3225,10 @@
           "playsText": "播放次數：311萬",
           "duration": 202,
           "byOther": false,
-          "nameKey": "myonlyone"
+          "nameKey": "myonlyone",
+          "credits": {
+            "music": "賽巴斯汀・亞德拉"
+          }
         },
         {
           "index": 3,
@@ -3430,7 +3443,10 @@
           "playsText": "播放次數：311萬",
           "duration": 202,
           "byOther": false,
-          "nameKey": "myonlyone"
+          "nameKey": "myonlyone",
+          "credits": {
+            "music": "賽巴斯汀・亞德拉"
+          }
         },
         {
           "index": 2,

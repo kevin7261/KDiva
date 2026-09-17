@@ -684,7 +684,12 @@
           "playsText": "播放次數：9.7萬",
           "duration": 283,
           "byOther": true,
-          "nameKey": "傳說"
+          "nameKey": "傳說",
+          "credits": {
+            "lyrics": "余光中",
+            "music": "李泰祥",
+            "arranger": "李泰祥"
+          }
         }
       ],
       "releaseDate": "1989-11-01",
@@ -1577,7 +1582,7 @@
           "byOther": false,
           "nameKey": "追逐與重逢",
           "credits": {
-            "lyrics": "NONE (Instrumental)",
+            "lyrics": "NONE",
             "music": "李泰祥"
           }
         },
@@ -1592,7 +1597,7 @@
           "byOther": false,
           "nameKey": "歡顏",
           "credits": {
-            "lyrics": "NONE (Instrumental)",
+            "lyrics": "NONE",
             "music": "李泰祥"
           }
         }

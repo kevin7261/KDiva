@@ -52,7 +52,12 @@
           "playsText": "播放次數：1.2萬",
           "duration": 269,
           "byOther": false,
-          "nameKey": "mycolourtvset"
+          "nameKey": "mycolourtvset",
+          "credits": {
+            "lyrics": "蔡健雅",
+            "music": "蔡健雅",
+            "arranger": "Adam Lee"
+          }
         },
         {
           "index": 4,
@@ -343,7 +348,12 @@
           "playsText": "播放次數：5萬",
           "duration": 224,
           "byOther": false,
-          "nameKey": "好無聊"
+          "nameKey": "好無聊",
+          "credits": {
+            "lyrics": "娃娃",
+            "music": "蔡健雅",
+            "arranger": "Bernhard 'Lupo' Groinig、Bernhard Locker"
+          }
         },
         {
           "index": 2,
@@ -354,7 +364,11 @@
           "playsText": "播放次數：107萬",
           "duration": 296,
           "byOther": false,
-          "nameKey": "呼吸"
+          "nameKey": "呼吸",
+          "credits": {
+            "lyrics": "徐世珍",
+            "music": "陳偉"
+          }
         },
         {
           "index": 3,
@@ -365,7 +379,12 @@
           "playsText": "播放次數：3.9萬",
           "duration": 305,
           "byOther": false,
-          "nameKey": "你快走開"
+          "nameKey": "你快走開",
+          "credits": {
+            "lyrics": "嚴德民",
+            "music": "蔡健雅",
+            "arranger": "Adam Lee"
+          }
         },
         {
           "index": 4,
@@ -376,7 +395,12 @@
           "playsText": "播放次數：1.4萬",
           "duration": 188,
           "byOther": false,
-          "nameKey": "與你無關"
+          "nameKey": "與你無關",
+          "credits": {
+            "lyrics": "林夕",
+            "music": "蔡健雅",
+            "arranger": "Adam Lee"
+          }
         },
         {
           "index": 5,
@@ -387,7 +411,12 @@
           "playsText": "播放次數：11萬",
           "duration": 300,
           "byOther": false,
-          "nameKey": "無所謂"
+          "nameKey": "無所謂",
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "遊鴻明",
+            "arranger": "江建民"
+          }
         },
         {
           "index": 6,
@@ -398,7 +427,12 @@
           "playsText": "播放次數：1.2萬",
           "duration": 265,
           "byOther": false,
-          "nameKey": "餘興節目"
+          "nameKey": "餘興節目",
+          "credits": {
+            "lyrics": "許常德",
+            "music": "蔡健雅",
+            "arranger": "Adam Lee"
+          }
         },
         {
           "index": 7,
@@ -409,7 +443,12 @@
           "playsText": "播放次數：8490",
           "duration": 331,
           "byOther": false,
-          "nameKey": "最後一個煩惱"
+          "nameKey": "最後一個煩惱",
+          "credits": {
+            "lyrics": "于光中",
+            "music": "陳偉",
+            "arranger": "陳偉"
+          }
         },
         {
           "index": 8,
@@ -420,7 +459,12 @@
           "playsText": "播放次數：1萬",
           "duration": 257,
           "byOther": false,
-          "nameKey": "想你"
+          "nameKey": "想你",
+          "credits": {
+            "lyrics": "陳靜楠",
+            "music": "蔡健雅",
+            "arranger": "Adam Lee"
+          }
         },
         {
           "index": 9,
@@ -431,7 +475,12 @@
           "playsText": "播放次數：5327",
           "duration": 245,
           "byOther": false,
-          "nameKey": "影子"
+          "nameKey": "影子",
+          "credits": {
+            "lyrics": "林夕",
+            "music": "蔡健雅",
+            "arranger": "Joshua Wan"
+          }
         },
         {
           "index": 10,
@@ -442,7 +491,12 @@
           "playsText": "播放次數：6722",
           "duration": 215,
           "byOther": false,
-          "nameKey": "靠邊停"
+          "nameKey": "靠邊停",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "蔡健雅",
+            "arranger": "Bernhard 'Lupo' Groinig"
+          }
         }
       ],
       "releaseDate": "1999-01-08",
@@ -863,7 +917,11 @@
           "playsText": "播放次數：107萬",
           "duration": 296,
           "byOther": false,
-          "nameKey": "呼吸"
+          "nameKey": "呼吸",
+          "credits": {
+            "lyrics": "徐世珍",
+            "music": "陳偉"
+          }
         },
         {
           "index": 4,
@@ -890,7 +948,12 @@
           "playsText": "播放次數：11萬",
           "duration": 301,
           "byOther": false,
-          "nameKey": "無所謂"
+          "nameKey": "無所謂",
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "遊鴻明",
+            "arranger": "江建民"
+          }
         },
         {
           "index": 6,
@@ -960,7 +1023,12 @@
           "playsText": "播放次數：3.9萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "你快走開"
+          "nameKey": "你快走開",
+          "credits": {
+            "lyrics": "嚴德民",
+            "music": "蔡健雅",
+            "arranger": "Adam Lee"
+          }
         },
         {
           "index": 11,
@@ -971,7 +1039,12 @@
           "playsText": "播放次數：5萬",
           "duration": 227,
           "byOther": false,
-          "nameKey": "好無聊"
+          "nameKey": "好無聊",
+          "credits": {
+            "lyrics": "娃娃",
+            "music": "蔡健雅",
+            "arranger": "Bernhard 'Lupo' Groinig、Bernhard Locker"
+          }
         },
         {
           "index": 12,
@@ -985,8 +1058,7 @@
           "nameKey": "記念",
           "credits": {
             "lyrics": "姚謙",
-            "music": "蔡健雅",
-            "arranger": "Adam Lee"
+            "music": "蔡健雅"
           }
         },
         {
@@ -2008,8 +2080,7 @@
           "nameKey": "越來越不懂",
           "credits": {
             "lyrics": "蔡健雅",
-            "music": "蔡健雅",
-            "arranger": "Leo Lee"
+            "music": "蔡健雅"
           }
         },
         {
@@ -2024,8 +2095,7 @@
           "nameKey": "達爾文",
           "credits": {
             "lyrics": "小寒",
-            "music": "蔡健雅",
-            "arranger": "黃中嶽"
+            "music": "蔡健雅"
           }
         },
         {
@@ -2048,7 +2118,11 @@
           "playsText": "播放次數：1.3萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "changetheworld"
+          "nameKey": "changetheworld",
+          "credits": {
+            "lyrics": "Tommy Sims、Gordon Kennedy、Wayne Kirkpatrick",
+            "music": "Tommy Sims、Gordon Kennedy、Wayne Kirkpatrick"
+          }
         },
         {
           "index": 5,
@@ -2062,8 +2136,7 @@
           "nameKey": "空白格",
           "credits": {
             "lyrics": "蔡健雅",
-            "music": "蔡健雅",
-            "arranger": "Adam Lee、蔡健雅"
+            "music": "蔡健雅"
           }
         },
         {
@@ -2078,8 +2151,7 @@
           "nameKey": "記念",
           "credits": {
             "lyrics": "姚謙",
-            "music": "蔡健雅",
-            "arranger": "Adam Lee"
+            "music": "蔡健雅"
           }
         },
         {
@@ -2091,7 +2163,11 @@
           "playsText": "播放次數：131萬",
           "duration": 237,
           "byOther": false,
-          "nameKey": "思念"
+          "nameKey": "思念",
+          "credits": {
+            "lyrics": "蔡健雅",
+            "music": "蔡健雅"
+          }
         },
         {
           "index": 8,
@@ -2102,7 +2178,11 @@
           "playsText": "播放次數：2.9萬",
           "duration": 293,
           "byOther": false,
-          "nameKey": "呼吸"
+          "nameKey": "呼吸",
+          "credits": {
+            "lyrics": "徐世珍",
+            "music": "陳偉"
+          }
         },
         {
           "index": 9,
@@ -3337,12 +3417,7 @@
           "playsText": "播放次數：60萬",
           "duration": 264,
           "byOther": false,
-          "nameKey": "那些小事情",
-          "credits": {
-            "lyrics": "蔡健雅",
-            "music": "蔡健雅",
-            "arranger": "蔡健雅"
-          }
+          "nameKey": "那些小事情"
         },
         {
           "index": 6,
