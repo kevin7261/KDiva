@@ -51,6 +51,7 @@ npm run fetch-awards                     # 金曲獎入圍與得獎紀錄（全�
 | 演唱會 | 巡演條目（資訊框與場次表）、「○○演唱會列表」、歌手條目的演唱會章節 | `server/concerts.js` |
 | 巡演地圖的座標 | 場館或城市條目的 Wikidata「座標位置」（P625）；底圖 CARTO／OpenStreetMap | `server/concerts.js`、`src/components/TourMap.vue` |
 | 手動補充演唱會場次 | 自行填寫 | `server/concert-overrides.js` |
+| 手動補歌曲（YouTube Music 沒上架、只有 YouTube 影片的歌） | 自行填寫影片 ID，抓資料時查觀看次數 | `server/song-overrides.js` |
 | 出生、逝世、團體成立與解散 | Wikidata | `server/concerts.js` |
 | 金曲獎入圍與得獎 | Wikipedia「第 N 屆金曲獎」條目的入圍名單表格 | `server/awards.js` |
 | 年表資料（各歌手 JSON 合計十幾 MB，年表頁改讀這份精簡版） | 由上面的資料整理 | `server/timeline.js` |

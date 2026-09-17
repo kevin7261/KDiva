@@ -34,6 +34,12 @@ export async function getJson(url, attempt = 1) {
 export const wikiApi = (params) =>
   getJson(`https://zh.wikipedia.org/w/api.php?${new URLSearchParams({ format: 'json', formatversion: '2', ...params })}`)
 
+/** Wikipedia 條目的主圖（800px 縮圖） */
+export async function wikiPhoto(title) {
+  const json = await wikiApi({ action: 'query', prop: 'pageimages', piprop: 'thumbnail', pithumbsize: '800', redirects: '1', titles: title })
+  return json.query?.pages?.[0]?.thumbnail?.source ?? null
+}
+
 // ---------- 名稱正規化與比對 ----------
 
 const CN_DIGITS = { 零: 0, 一: 1, 二: 2, 三: 3, 四: 4, 五: 5, 六: 6, 七: 7, 八: 8, 九: 9 }
@@ -554,7 +560,9 @@ async function fromWikipedia(pageTitle, albumKeys, artistKeys, log, albumPinyin 
     /* 搜尋失敗就只用慣用名稱 */
   }
   const pages = [{ title: realTitle, content: main.parse.wikitext }]
-  pages.push(...(await fetchPages([...listPages].filter((t) => t !== realTitle))))
+  // 猜的頁名可能重新導向到獲獎列表、影視列表：用實際標題再過濾一次（獲獎列表的年份是頒獎年份）
+  const fetched = await fetchPages([...listPages].filter((t) => t !== realTitle))
+  pages.push(...fetched.filter((p) => p.title !== realTitle && !/獲獎|获奖|得獎|得奖|提名|影視|影视|演唱會|演唱会|派台|榜/.test(p.title)))
 
   const entries = []
   const linkTargets = new Map()
@@ -693,7 +701,8 @@ export function matchRelease(album, catalog, artistNames = []) {
     if (!hasCJK(album.title) && entry.pinyinKeys?.includes(pinyinKey(album.title))) score = 1
     if (score < THRESHOLD[entry.source]) continue
     const year = Number(entry.date.slice(0, 4))
-    if (album.year && year > album.year + (score >= 0.99 ? 2 : 0)) continue
+    // Wikipedia 日期不應晚於 YouTube Music 年份（那多半是重新上架年份，只會更晚）；名稱完全相同時容許差一年
+    if (album.year && year > album.year + (score >= 0.99 ? 1 : 0)) continue
     if (isNewVersion && album.year && album.year - year >= 2 && !entry.titles.some((t) => NEW_VERSION_RE.test(t))) continue
     // 一兩首歌的單曲比 Wikipedia 日期晚 3 年以上，多半是同名新歌或重新錄音（專輯重新上架通常是整張、曲目多）
     if (album.type !== 'Album' && album.year && album.year - year >= 3 && (album.tracks?.length ?? 0) <= 2) continue

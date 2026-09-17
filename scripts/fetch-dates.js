@@ -2,7 +2,7 @@
 // 用法：npm run fetch-dates                 全部歌手
 //       npm run fetch-dates -- a-mei mayday  指定歌手
 import { readFile, writeFile } from 'node:fs/promises'
-import { applyReleaseDates, markOtherArtists, addNameKeys, fetchAvatar } from '../server/ytmusic.js'
+import { applyReleaseDates, markOtherArtists, addNameKeys, artistPhoto, applySongOverrides } from '../server/ytmusic.js'
 import { ARTISTS, dataFile } from '../server/config.js'
 import { buildTimeline } from '../server/timeline.js'
 
@@ -24,7 +24,9 @@ for (const artist of targets) {
     console.error(`✗ 沒有 ${artist.slug}.json，請先執行 npm run fetch-data -- ${artist.slug}`)
     continue
   }
-  dataset.artist.avatar = (await fetchAvatar(artist.channelId).catch(() => null)) ?? dataset.artist.avatar ?? null
+  dataset.artist.avatar = (await artistPhoto(artist)) ?? dataset.artist.avatar ?? null
+  if (artist.photo) dataset.artist.thumbnail = dataset.artist.avatar
+  await applySongOverrides(dataset.albums, artist, (m) => console.log(m))
   const others = markOtherArtists(dataset.albums, artist, dataset.artist.name)
   if (others) console.log(`其他歌手演唱的曲目：${others} 首（不列入統計）`)
   if (process.env.SKIP_DATES) {

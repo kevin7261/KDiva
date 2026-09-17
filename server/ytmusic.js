@@ -4,8 +4,9 @@
 // 發行日期另外從 Wikipedia／Wikidata 比對（見 wiki.js）。
 
 import * as OpenCC from 'opencc-js'
-import { fetchReleaseCatalog, matchRelease, normalizeTitle, hasCJK, pinyinKey, toTW, searchReleasePages } from './wiki.js'
+import { fetchReleaseCatalog, matchRelease, normalizeTitle, hasCJK, pinyinKey, toTW, searchReleasePages, wikiPhoto } from './wiki.js'
 import { RELEASE_OVERRIDES } from './release-overrides.js'
+import { SONG_OVERRIDES } from './song-overrides.js'
 import { releaseSortKey } from '../src/lib/release.js'
 
 const BROWSE_URL = 'https://music.youtube.com/youtubei/v1/browse?prettyPrint=false'
@@ -165,6 +166,16 @@ async function fetchArtist(channelId) {
 
 // ---------- YouTube 頻道大頭照 ----------
 
+/**
+ * 歌手照片：artists.js 的 photo 可以指定圖片網址，或寫 'wikipedia' 用條目主圖
+ * （YouTube Music 偶爾把別人的照片掛在藝人頻道上，例如張艾嘉）；沒指定就用頻道大頭照
+ */
+export async function artistPhoto(artistConfig) {
+  if (artistConfig.photo === 'wikipedia' && artistConfig.wiki) return wikiPhoto(artistConfig.wiki).catch(() => null)
+  if (artistConfig.photo) return artistConfig.photo
+  return fetchAvatar(artistConfig.channelId).catch(() => null)
+}
+
 /** 歌手 YouTube 頻道的大頭照（YouTube Music 藝人頁的圖是橫幅，裁切後常看不到臉），放大成 800px */
 export async function fetchAvatar(channelId) {
   const res = await fetch('https://www.youtube.com/youtubei/v1/browse?prettyPrint=false', {
@@ -180,6 +191,79 @@ export async function fetchAvatar(channelId) {
   const sources = [...findAll(page.header, 'avatar')].flatMap((a) => [...findAll(a, 'sources')]).flat()
   const url = sources.sort((a, b) => (b.width ?? 0) - (a.width ?? 0))[0]?.url ?? page.metadata?.channelMetadataRenderer?.avatar?.thumbnails?.at(-1)?.url
   return url ? url.replace(/=s\d+(-[^/]*)?$/, '=s800-c-k-c0x00ffffff-no-rj') : null
+}
+
+// ---------- 手動補歌曲（YouTube 影片） ----------
+
+/** 一支 YouTube 影片的觀看次數、長度、上傳日期 */
+async function fetchVideo(videoId) {
+  const res = await fetch('https://www.youtube.com/youtubei/v1/player?prettyPrint=false', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json', 'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/140.0' },
+    body: JSON.stringify({
+      context: { client: { clientName: 'WEB', clientVersion: clientVersion().replace(/^1\./, '2.'), hl: 'zh-TW', gl: 'TW' } },
+      videoId,
+    }),
+  })
+  if (!res.ok) throw new Error(`YouTube 影片 ${videoId} 回應 ${res.status}`)
+  const json = await res.json()
+  const details = json.videoDetails ?? {}
+  const micro = json.microformat?.playerMicroformatRenderer ?? {}
+  return {
+    views: Number(details.viewCount) || 0,
+    duration: Number(details.lengthSeconds) || null,
+    date: (micro.publishDate ?? micro.uploadDate ?? '').slice(0, 10) || null,
+    title: details.title ?? '',
+  }
+}
+
+/**
+ * 把 song-overrides.js 列的歌當成單曲加進專輯清單（先移除上次加的，再以最新觀看次數重建）。
+ * 發行日期用第一支影片的上傳日期，releaseDateSource 標 'youtube'，比對 Wikipedia 日期時會保留。
+ */
+export async function applySongOverrides(albums, artistConfig, log = () => {}) {
+  for (let i = albums.length - 1; i >= 0; i--) if (albums[i].manual) albums.splice(i, 1)
+  for (const song of SONG_OVERRIDES[artistConfig.slug] ?? []) {
+    const videos = []
+    for (const id of song.videoIds) {
+      try {
+        videos.push({ id, ...(await fetchVideo(id)) })
+      } catch (err) {
+        log(`  手動歌曲〈${song.title}〉影片 ${id} 讀取失敗：${err.message}`)
+      }
+    }
+    if (!videos.length) continue
+    const [main] = videos
+    const plays = videos.reduce((n, v) => n + v.views, 0)
+    albums.push({
+      browseId: `manual:${main.id}`,
+      manual: true,
+      note: song.note ?? '',
+      playlistId: null,
+      videoUrl: `https://www.youtube.com/watch?v=${main.id}`,
+      title: song.title,
+      albumArtist: artistConfig.name,
+      type: 'Single',
+      year: main.date ? Number(main.date.slice(0, 4)) : null,
+      releaseDate: main.date,
+      releaseDatePrecision: main.date ? 'day' : null,
+      releaseDateSource: main.date ? 'youtube' : null,
+      thumbnail: `https://i.ytimg.com/vi/${main.id}/hqdefault.jpg`,
+      tracks: [
+        {
+          index: 1,
+          title: song.title,
+          artists: '',
+          videoId: main.id,
+          plays,
+          // 每支影片的觀看數都不同，用獨特的文字避免和其他歌合併
+          playsText: `YouTube 影片觀看次數：${plays}`,
+          duration: main.duration,
+        },
+      ],
+    })
+    log(`  手動歌曲〈${song.title}〉：${videos.length} 支影片，合計 ${plays} 次觀看`)
+  }
 }
 
 // ---------- 專輯頁 ----------
@@ -384,7 +468,7 @@ export function addCredits(albums, catalog = []) {
 
 // ---------- 歌名比對鍵 ----------
 
-const LIVE_RE = /live|演唱會|演唱会|音樂會|音乐会|現場|现场|concert/i
+const LIVE_RE = /\blive\b|演唱會|演唱会|音樂會|音乐会|現場|现场|\bconcert\b/i
 // 日文新字體寫法（「晩安曲」）轉成繁體，才會和「晚安曲」視為同名
 const jpToTW = OpenCC.Converter({ from: 'jp', to: 'tw' })
 
@@ -454,7 +538,7 @@ export async function applyReleaseDates(albums, artistConfig, log = () => {}) {
   // 第一輪對不到的，用站內搜尋找專輯／歌曲條目補上
   if (catalog) {
     const names = [artistConfig.name, artistConfig.en, artistConfig.wiki]
-    const unmatched = albums.filter((a) => !(overrides[a.browseId] ?? overrides[a.title]) && !matchRelease(a, catalog, names))
+    const unmatched = albums.filter((a) => !a.manual && !(overrides[a.browseId] ?? overrides[a.title]) && !matchRelease(a, catalog, names))
     if (unmatched.length) {
       try {
         catalog.push(...(await searchReleasePages(artistConfig, unmatched, log)))
@@ -465,6 +549,8 @@ export async function applyReleaseDates(albums, artistConfig, log = () => {}) {
   }
   let matched = 0
   for (const album of albums) {
+    // 手動補的 YouTube 影片歌曲：日期就是影片上傳日期，不再比對
+    if (album.manual) continue
     const manual = overrides[album.browseId] ?? overrides[album.title]
     if (!manual && !catalog) {
       if (album.releaseDate) matched++
@@ -526,7 +612,10 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
     exact = true
   }
 
-  artist.avatar = await fetchAvatar(channelId).catch(() => null)
+  await applySongOverrides(albums, artistConfig, log)
+  artist.avatar = await artistPhoto(artistConfig)
+  // 指定了照片時，藝人頁橫幅也不要用頻道的圖
+  if (artistConfig.photo) artist.thumbnail = artist.avatar
   const others = markOtherArtists(albums, artistConfig, artist.name)
   if (others) log(`其他歌手演唱的曲目：${others} 首（不列入統計）`)
   await applyReleaseDates(albums, artistConfig, log)

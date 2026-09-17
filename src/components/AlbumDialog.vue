@@ -26,6 +26,7 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
           <div class="muted small">
             {{ album.typeLabel }} · {{ album.releaseLabel }}
             <span v-if="album.releaseDateSource === 'manual'">（手動指定）</span>
+            <span v-else-if="album.releaseDateSource === 'youtube'">（YouTube 影片上傳日期）</span>
             <a
               v-else-if="album.releaseDateSource"
               :href="`https://zh.wikipedia.org/wiki/${encodeURIComponent(album.wikiTitle)}`"
@@ -40,13 +41,14 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
           </div>
           <h2>{{ album.name }}</h2>
           <div v-if="album.alt" class="muted">{{ album.alt }}</div>
+          <p v-if="album.note" class="muted small note-yt">{{ album.note }}</p>
           <div class="summary">
             <span><b class="num">{{ formatCount(album.originalPlays) }}</b> 首發歌曲播放</span>
             <span v-if="album.originalCount < album.tracks.length" class="muted">
               含重複收錄合計 {{ formatCount(total) }}
             </span>
           </div>
-          <a class="btn listen" :href="albumUrl(album)" target="_blank" rel="noopener">▶ 在 YouTube Music 開啟</a>
+          <a class="btn listen" :href="albumUrl(album)" target="_blank" rel="noopener">▶ 在 {{ album.manual ? 'YouTube' : 'YouTube Music' }} 開啟</a>
         </div>
       </div>
 
@@ -54,7 +56,7 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
         <li v-for="t in album.songs" :key="t.index + t.title" :class="{ reissue: !t.isOriginal }">
           <span class="idx num muted">{{ t.index }}</span>
           <div class="info" v-tip="[t.song.name, ...creditLines(t.song.credits)]">
-            <a v-if="t.videoId" :href="watchUrl(t.videoId)" target="_blank" rel="noopener" class="name">{{ t.song.name }}</a>
+            <a v-if="t.videoId" :href="album.manual ? albumUrl(album) : watchUrl(t.videoId)" target="_blank" rel="noopener" class="name">{{ t.song.name }}</a>
             <span v-else class="name">{{ t.song.name }}</span>
             <span v-if="!t.isOriginal" class="muted small">
               首發於
@@ -194,6 +196,9 @@ a.name:hover {
 }
 .note {
   margin: 12px 0 0;
+}
+.note-yt {
+  margin: 4px 0 0;
 }
 .src {
   color: var(--accent-ink);

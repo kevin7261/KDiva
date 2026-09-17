@@ -8,6 +8,7 @@
 //   members（團體）：演出者只寫團員名、沒有團名的曲目是個人作品，不列入團體
 // names：只認這些名字（頻道混了同名的其他歌手時用，例如信的「SHIN」頻道），取代自動產生的名字清單
 // cjkOnly：頻道混了同名的外國歌手時，只收中文標題的專輯（B.A.D.）
+// photo：頻道照片不對時指定，'wikipedia' 用 Wikipedia 條目主圖，或直接填圖片網址
 export const ARTISTS = [
   { slug: 'wen-hsia', group: 'male', lang: 'tw', name: '文夏', en: 'Wen Hsia', debut: '1955', channelId: 'UChsYB0DSVRcKPQPTYndWg9A', extraChannelIds: ['UC2pkOKXpD6o5s7HI9Lrkr6g'], wiki: '文夏' },
   { slug: 'judy-ongg', group: 'female', name: '翁倩玉', en: 'Judy Ongg', debut: '1960', channelId: 'UC9NKMcJmtnmXhsq0RwUEYEw', extraChannelIds: ['UCLQJWIKWHdYbAtkIG6tPJZA'], wiki: '翁倩玉', aliases: ['ジュディ・オング'] },
@@ -19,7 +20,7 @@ export const ARTISTS = [
   { slug: 'chen-ying-git', group: 'female', lang: 'tw', name: '陳盈潔', en: 'Chen Ying-git', debut: '1972', channelId: 'UCjeq0XOaAcqYt5IZ3w1oMCA', wiki: '陳盈潔' },
   { slug: 'sarah-chen', group: 'female', name: '陳淑樺', en: 'Sarah Chen', debut: '1973', channelId: 'UCCmIJng9-OXs9Ax5P4-m8UA', wiki: '陳淑樺' },
   { slug: 'pai-ping-ping', group: 'female', lang: 'tw', name: '白冰冰', en: 'Pai Ping-ping', debut: '1973', channelId: 'UCtr4s78e4kL_oC93UTm8n0Q', wiki: '白冰冰' },
-  { slug: 'sylvia-chang', group: 'female', name: '張艾嘉', en: 'Sylvia Chang', debut: '1973', channelId: 'UCzPfHHyh46cCfyyzpR9b2Jg', wiki: '張艾嘉', aliases: ['张艾嘉'] },
+  { slug: 'sylvia-chang', group: 'female', name: '張艾嘉', en: 'Sylvia Chang', debut: '1973', channelId: 'UCzPfHHyh46cCfyyzpR9b2Jg', wiki: '張艾嘉', aliases: ['张艾嘉'], photo: 'wikipedia' },
   { slug: 'tracy-huang', group: 'female', name: '黃鶯鶯', en: 'Tracy Huang', debut: '1974', channelId: 'UCmQWBgcJyjLBdoF428F6y1A', wiki: '黃鶯鶯' },
   { slug: 'eric-hung', group: 'male', lang: 'tw', name: '洪榮宏', en: 'Eric Hung', debut: '1977', channelId: 'UCdLRI11OrDEqaAszBH9VytQ', wiki: '洪榮宏' },
   { slug: 'wang-chih-lei', group: 'female', name: '王芷蕾', en: 'Wang Chih-lei', debut: '1977', channelId: 'UCl1XB7-00b9cTp2VWt3KKOw', extraChannelIds: ['UC8ZCHCLsjA5kYtoecilJMPg'], wiki: '王芷蕾' },
@@ -54,7 +55,6 @@ export const ARTISTS = [
   { slug: 'johnny-yin', group: 'male', name: '殷正洋', en: 'Johnny Yin', debut: '1986', channelId: 'UCKZDmHQN0SDozH0uBbBNWuA', wiki: '殷正洋', extraChannelIds: ['UCxYVZk894dNAXQ8KZHhI1lw'] },
   { slug: 'fan-ren-duo', group: 'group', name: '凡人二重唱', en: '', debut: '1986', channelId: 'UCsm3f9M2t2EaYF_CNeIny0Q', extraChannelIds: ['UCb5pr2NuvpNs78q60sMbPJw'], wiki: '凡人二重唱', aliases: ['凡人'], members: ['莫凡', '袁惟仁'] },
   { slug: 'tang-na', group: 'female', name: '坣娜', en: 'Tang Na', debut: '1986', channelId: 'UC3BOwUHqnArt1dpYRrdEMJg', wiki: '坣娜', aliases: ['唐娜', 'Na Na Tang'] },
-  { slug: 'yu-tai-yan', group: 'female', name: '于台煙', en: 'Yu Tai-yan', debut: '1986', channelId: 'UC_x5Jzq_cgW4uWGeFJeADeA', wiki: '于台煙', aliases: ['于台烟'] },
   { slug: 'linda-lee', group: 'female', name: '李翊君', en: 'Linda Lee', debut: '1986', channelId: 'UCzozJTzoyp5PJjN3er7P7OQ', wiki: '李翊君', aliases: ['李華苓'] },
   { slug: 'sky-wu', group: 'male', name: '伍思凱', en: 'Sky Wu', debut: '1986-09', channelId: 'UCJ5SvoAXx-eyoAX-g1imSjg', wiki: '伍思凱' },
   { slug: 'huang-yee-ling', group: 'female', lang: 'tw', name: '黃乙玲', en: 'Huang Yee-ling', debut: '1987', channelId: 'UCvAECH-laxIYOFxLmeRjcjA', wiki: '黃乙玲' },
@@ -122,6 +122,7 @@ export const ARTISTS = [
   { slug: 'ricky-hsiao', group: 'male', name: '蕭煌奇', en: 'Ricky Hsiao', debut: '1999-03', channelId: 'UCQw7Oil9u3xnFTm3SOI4eeg', wiki: '蕭煌奇' },
   { slug: 'maggie-chiang', group: 'female', name: '江美琪', en: 'Maggie Chiang', debut: '1999-06', channelId: 'UC-Rq0RvCNBwFSW6GThPSNCg', wiki: '江美琪' },
   { slug: 'mayday', group: 'group', name: '五月天', en: 'Mayday', debut: '1999-07', channelId: 'UCQyweuVOAh3NHGKDDadRSbg', wiki: '五月天', members: ['五月天阿信', '阿信', '瑪莎', '石頭', '怪獸', '冠佑'] },
+  { slug: 'angela-hou', group: 'female', name: '侯湘婷', en: 'Angela Hou', debut: '1999-08-28', channelId: 'UCBDKy7bVvfFvewBv4ZMjOKg', wiki: '侯湘婷' },
   { slug: 'jolin-tsai', group: 'female', name: '蔡依林', en: 'Jolin Tsai', debut: '1999-09-10', channelId: 'UC9dLsF7Ss7Wg0kR6TiIWiXg', wiki: '蔡依林' },
   { slug: 'fish-leong', group: 'female', name: '梁靜茹', en: 'Fish Leong', debut: '1999-09-17', channelId: 'UC8viexI7VBM6p632pCfTWRg', wiki: '梁靜茹' },
   { slug: 'elva-hsiao', group: 'female', name: '蕭亞軒', en: 'Elva Hsiao', debut: '1999-11', channelId: 'UCChWNfpWW8dUMmkgSWgOHKw', wiki: '蕭亞軒' },

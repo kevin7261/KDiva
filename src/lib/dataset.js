@@ -32,7 +32,8 @@ function kindHint(album) {
 }
 
 // 演唱會、Live 版本：同名也是不同錄音，不和錄音室版本合併
-const LIVE_RE = /live|演唱會|演唱会|音樂會|音乐会|現場|现场|concert/i
+// 英文要整個字相符（「Concerto」「Oliver」不算）
+const LIVE_RE = /\blive\b|演唱會|演唱会|音樂會|音乐会|現場|现场|\bconcert\b/i
 
 const TYPE_LABEL = { Album: '專輯', Single: '單曲', EP: 'EP' }
 
@@ -168,19 +169,22 @@ export function buildModel(raw, artistConfig = {}) {
       // 詞／曲／編曲（取自 Wikipedia）：任一版本有就用
       credits: versions.find((t) => t.credits)?.credits ?? null,
       year: origin.displayYear,
+      // 手動補的 YouTube 影片歌曲（song-overrides.js）
+      manual: !!origin.manual,
       origin,
       appearsOn: list,
     })
   }
 
   // 同名歌曲（不同錄音、YouTube Music 分開計數）合併成一首、播放數相加，排行才不會重複出現；
-  // 演唱會專輯或標 Live 的版本另計
+  // 演唱會專輯或標 Live 的版本和錄音室版本分開，但不同場演唱會的同名 Live 版本合併成一首
   const merged = new Map() // 群組名 → 合併後的歌
   const mergedOf = new Map() // 原歌曲鍵 → 合併後的歌
   for (const [key, song] of songs) {
     // 標題標 Live，或只收在演唱會專輯裡才算 Live；錄音室版本也收進演唱會精選時仍是錄音室版本
     const live = LIVE_RE.test(song.title) || song.appearsOn.every((a) => LIVE_RE.test(a.title))
-    const group = live ? `live:${key}` : song.nameKey
+    const base = String(song.nameKey).replace(/#live$/, '')
+    const group = live ? `live:${base}` : base
     const into = merged.get(group)
     if (!into) {
       // 演唱會專輯裡沒標 Live 的曲目，顯示時補上，才分得出和錄音室版本不同

@@ -41,6 +41,9 @@ export function formatDay(d) {
 
 export const watchUrl = (videoId) => `https://music.youtube.com/watch?v=${videoId}`
 export const albumUrl = (album) =>
-  album.playlistId
+  album.videoUrl ??
+  (album.playlistId
     ? `https://music.youtube.com/playlist?list=${album.playlistId}`
-    : `https://music.youtube.com/browse/${album.browseId}`
+    : `https://music.youtube.com/browse/${album.browseId}`)
+// 歌曲連結：手動補的 YouTube 影片歌曲連到 YouTube，其餘連到 YouTube Music
+export const songUrl = (song) => (song.manual ? `https://www.youtube.com/watch?v=${song.videoId}` : watchUrl(song.videoId))
