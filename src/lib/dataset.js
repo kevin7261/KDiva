@@ -40,10 +40,11 @@ const normName = (title) => splitTitle(title).name.replace(/\s+/g, '').toLowerCa
 // 抓取時算好的 nameKey（簡繁、括號註記都已統一）；舊資料退回用顯示名稱
 const trackKey = (t) => t.nameKey ?? normName(t.title)
 
+// 「播放次數：2057萬」「27M plays」→ 數字
 function parseApprox(text) {
-  const m = String(text).replace(/,/g, '').match(/([\d.]+)\s*([KMB])?/i)
+  const m = String(text).replace(/,/g, '').match(/([\d.]+)\s*([KMB萬万億亿])?/i)
   if (!m) return 0
-  return parseFloat(m[1]) * ({ K: 1e3, M: 1e6, B: 1e9 }[m[2]?.toUpperCase()] ?? 1)
+  return parseFloat(m[1]) * ({ K: 1e3, M: 1e6, B: 1e9, 萬: 1e4, 万: 1e4, 億: 1e8, 亿: 1e8 }[m[2]?.toUpperCase()] ?? 1)
 }
 
 /**

@@ -171,9 +171,10 @@ const others = (r) => (r.with && r.with.replace(/\s/g, '') !== props.name.replac
   line-height: 20px;
 }
 .badge.win {
-  background: var(--series-2);
-  color: #fff;
+  background: linear-gradient(135deg, #f7d774, #d9a21b);
+  color: #3a2a00;
   font-weight: 600;
+  box-shadow: 0 0 0 1px rgba(217, 162, 27, 0.5);
 }
 .badge.nom {
   background: var(--surface-2);

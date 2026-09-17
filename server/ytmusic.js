@@ -27,8 +27,9 @@ async function browse(body, attempt = 1) {
         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36',
     },
     body: JSON.stringify({
-      // hl=en 讓播放數文字固定為「27M plays」格式，方便解析；歌名仍是原文
-      context: { client: { clientName: 'WEB_REMIX', clientVersion: clientVersion(), hl: 'en', gl: 'TW' } },
+      // hl=zh-TW：唱片公司有提供中文歌名時會回傳中文（英文介面是「Man Leng」、中文介面是「慢冷」），
+      // 播放數也比較精確（「播放次數：2057萬」而不是「20M plays」）
+      context: { client: { clientName: 'WEB_REMIX', clientVersion: clientVersion(), hl: 'zh-TW', gl: 'TW' } },
       ...body,
     }),
   })
@@ -64,14 +65,21 @@ const lastThumb = (node) => {
   return list?.length ? list[list.length - 1].url : null
 }
 
-/** "27M plays" → 27000000；"1,234 plays" → 1234；無法解析回傳 null */
+/** "播放次數：2057萬" → 20570000；"14.6萬位訂閱者" → 146000；"27M plays" → 27000000；無法解析回傳 null */
 export function parseCount(str) {
   if (!str) return null
-  const m = String(str).replace(/,/g, '').match(/([\d.]+)\s*([KMB])?/i)
+  const m = String(str).replace(/,/g, '').match(/([\d.]+)\s*([KMB萬万億亿])?/i)
   if (!m) return null
-  const mult = { K: 1e3, M: 1e6, B: 1e9 }[m[2]?.toUpperCase()] ?? 1
+  const mult = { K: 1e3, M: 1e6, B: 1e9, 萬: 1e4, 万: 1e4, 億: 1e8, 亿: 1e8 }[m[2]?.toUpperCase()] ?? 1
   return Math.round(parseFloat(m[1]) * mult)
 }
+
+// 播放數文字（中文介面「播放次數：2057萬」，英文介面「27M plays」）
+const PLAYS_RE = /plays?$|播放次數|次播放/i
+const YEAR_RE = /^(\d{4})\s*年?$/
+// 發行類型統一成英文代號（前端依此判斷專輯／單曲）
+const TYPE = { 專輯: 'Album', 單曲: 'Single', EP: 'EP', 迷你專輯: 'EP', Album: 'Album', Single: 'Single' }
+const releaseType = (s) => TYPE[s?.trim()] ?? null
 
 function parseDuration(str) {
   if (!str || !/^\d+(:\d+)+$/.test(str)) return null
@@ -94,12 +102,12 @@ async function mapLimit(items, limit, fn) {
 // ---------- 歌手頁 ----------
 
 function parseTwoRowItem(item) {
-  const subtitle = item.subtitle?.runs?.map((r) => r.text) ?? []
-  const year = subtitle.map((s) => s.trim()).find((s) => /^\d{4}$/.test(s))
+  const subtitle = item.subtitle?.runs?.map((r) => r.text.trim()) ?? []
+  const year = subtitle.map((s) => s.match(YEAR_RE)?.[1]).find(Boolean)
   return {
     browseId: item.navigationEndpoint?.browseEndpoint?.browseId,
     title: text(item.title),
-    type: subtitle[0]?.trim() || 'Album',
+    type: releaseType(subtitle[0]) ?? 'Album',
     year: year ? Number(year) : null,
     thumbnail: lastThumb(item.thumbnailRenderer),
   }
@@ -137,7 +145,7 @@ async function fetchArtist(channelId) {
     const shelf = section.musicCarouselShelfRenderer
     if (!shelf) continue
     const title = text(shelf.header?.musicCarouselShelfBasicHeaderRenderer?.title)
-    if (title === 'Albums' || title === 'Singles & EPs' || title === 'Singles') {
+    if (['Albums', 'Singles & EPs', 'Singles', '專輯', '單曲與迷你專輯', '單曲'].includes(title)) {
       releases.push(...(await collectShelfItems(shelf)))
     }
   }
@@ -180,7 +188,7 @@ async function fetchAlbum(release) {
   const page = await browse({ browseId: release.browseId })
   const header = findFirst(page, 'musicResponsiveHeaderRenderer') ?? {}
   const subtitle = header.subtitle?.runs?.map((r) => r.text.trim()) ?? []
-  const year = subtitle.find((s) => /^\d{4}$/.test(s))
+  const year = subtitle.map((s) => s.match(YEAR_RE)?.[1]).find(Boolean)
   // 專輯的演出者（「Andy Lau & Julia Peng」）；曲目演出者欄空白時就是這位
   const albumArtist = text(header.straplineTextOne) || null
   const playlistUrl = page.microformat?.microformatDataRenderer?.urlCanonical ?? ''
@@ -192,7 +200,7 @@ async function fetchAlbum(release) {
     .filter(Boolean)
     .map((item, i) => {
       const cols = (item.flexColumns ?? []).map((c) => text(c.musicResponsiveListItemFlexColumnRenderer?.text))
-      const playsText = cols.find((c) => /plays?$/i.test(c)) ?? null
+      const playsText = cols.find((c) => PLAYS_RE.test(c)) ?? null
       const videoId =
         item.playlistItemData?.videoId ??
         findFirst(item.flexColumns?.[0], 'watchEndpoint')?.videoId ??
@@ -201,7 +209,7 @@ async function fetchAlbum(release) {
       return {
         index: Number(text(item.index)) || i + 1,
         title: cols[0] ?? '',
-        artists: cols[1] && !/plays?$/i.test(cols[1]) ? cols[1] : '',
+        artists: cols[1] && !PLAYS_RE.test(cols[1]) ? cols[1] : '',
         videoId,
         plays: parseCount(playsText),
         playsText,
@@ -214,7 +222,7 @@ async function fetchAlbum(release) {
     playlistId,
     title: text(header.title) || release.title,
     albumArtist,
-    type: subtitle[0] || release.type,
+    type: releaseType(subtitle[0]) ?? release.type,
     year: year ? Number(year) : release.year,
     thumbnail: lastThumb(header.thumbnail) ?? release.thumbnail,
     tracks,

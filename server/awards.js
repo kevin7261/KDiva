@@ -44,7 +44,8 @@ function ceremonyYear(wikitext) {
 export function parseCeremony(wikitext) {
   const entries = []
   for (const sec of sections(wikitext)) {
-    if (!/獎/.test(sec.title) || /異動|典禮|評審|統計|資格|爭議|表演|收視|參考|註/.test(sec.title)) continue
+    // 「多項入圍得獎紀錄」「票選獎項」是統計表或非正式獎項，不是獎項本身
+    if (!/獎/.test(sec.title) || /異動|典禮|評審|統計|資格|爭議|表演|收視|參考|註|多項|紀錄|記錄|票選/.test(sec.title)) continue
     for (const { header, rows } of readTables(sec.text)) {
       if (!header) continue
       const personCol = header.findIndex((h) => PERSON_HEAD.test(h) && !/報名|頒獎|單位|公司/.test(h))
@@ -57,7 +58,8 @@ export function parseCeremony(wikitext) {
           category: sec.title.replace(/\s*[（(]金曲獎[）)]\s*/, ''),
           people,
           work: workCol >= 0 && row[workCol] != null ? plain(row[workCol]) : '',
-          won: row.some((c) => WIN_RE.test(String(c))),
+          // 特別貢獻獎直接頒發，沒有入圍階段
+          won: /特別貢獻獎|^特別獎/.test(sec.title) || row.some((c) => WIN_RE.test(String(c))),
         })
       }
     }
