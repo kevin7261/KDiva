@@ -1,0 +1,1850 @@
+{
+  "slug": "della-ding",
+  "fetchedAt": "2026-09-17T16:53:39.787Z",
+  "wiki": "丁噹",
+  "bio": {
+    "born": {
+      "date": "1982-04-17",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "臺北",
+      "page": "臺北",
+      "kind": "concert",
+      "start": {
+        "date": "2008-08-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2008-08-03",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺灣"
+      ],
+      "venues": [
+        "第一場小型個人演唱會【我愛上的】"
+      ],
+      "shows": []
+    },
+    {
+      "name": "相信音樂相親相愛上海演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2009-12-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "2009-12-01",
+        "precision": "month"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "北京",
+      "page": "北京",
+      "kind": "concert",
+      "start": {
+        "date": "2009-12-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-12-25",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "北京星光現場夜貓演唱會"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Dream Girl 下一站天后演唱會 Della's 1st Live Concert",
+      "page": "下一站天后演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2010-07-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-10-24",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺大綜合體育館"
+      ],
+      "shows": [
+        {
+          "date": "2010-07-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺大綜合體育館",
+          "lat": 25.0216088,
+          "lon": 121.5351757,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "成名在望校園巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2011-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2011-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "歌舞線上世界巡迴演唱會 The Diva in Della World Tour",
+      "page": "歌舞線上世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2011-12-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-08-01",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "臺灣",
+        "馬來西亞",
+        "中國大陸",
+        "香港"
+      ],
+      "cities": [
+        "臺北",
+        "雲頂高原",
+        "上海",
+        "香港"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "雲頂雲星劇場",
+        "梅賽德斯奔馳文化中心",
+        "香港會議展覽中心5BC"
+      ],
+      "shows": [
+        {
+          "date": "2011-12-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-04-28",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂高原",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-05-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-08-01",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "香港會議展覽中心5BC",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "馬來西亞 2011十分紅演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2011-12-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2011-12-17",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "真愛好難得世界巡迴演唱會 One in a Thousand World Tour",
+      "page": "真愛好難得世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2012-07-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-12-20",
+        "precision": "day"
+      },
+      "showCount": 17,
+      "regions": [
+        "臺灣",
+        "中國大陸",
+        "新加坡",
+        "馬來西亞",
+        "香港",
+        "美國",
+        "加拿大"
+      ],
+      "cities": [
+        "臺北",
+        "北京",
+        "杭州",
+        "新加坡",
+        "雲頂高原",
+        "上海",
+        "香港",
+        "高雄",
+        "洛杉磯",
+        "聖荷西",
+        "大西洋城",
+        "多倫多",
+        "溫哥華",
+        "武漢"
+      ],
+      "venues": [
+        "臺大綜合體育館",
+        "工人體育館",
+        "杭州體育館",
+        "新加坡室內體育館",
+        "雲頂雲星劇場",
+        "梅賽德斯奔馳文化中心",
+        "臺北小巨蛋",
+        "紅磡體育館",
+        "高雄巨蛋",
+        "首都體育館",
+        "Pasadena Conference Center",
+        "聖荷西州立活動中心",
+        "Casino AC – Circus Maximus Theater",
+        "Sony Centre for the Performing Arts",
+        "Queen Elizabeth Theatre",
+        "洪山體育館"
+      ],
+      "shows": [
+        {
+          "date": "2012-07-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺大綜合體育館",
+          "lat": 25.0216088,
+          "lon": 121.5351757,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-11-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-12-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "杭州體育館",
+          "lat": 30.270419921331328,
+          "lon": 120.17280544141072,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-01-05",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-05-31",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂高原",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-06-01",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂高原",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-02-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-03-08",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-06-01",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-07-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-10-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-11-22",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "Pasadena Conference Center",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "2014-11-23",
+          "precision": "day",
+          "region": "美國",
+          "city": "聖荷西",
+          "venue": "聖荷西州立活動中心",
+          "lat": 37.3354,
+          "lon": -121.88,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-11-27",
+          "precision": "day",
+          "region": "美國",
+          "city": "大西洋城",
+          "venue": "Casino AC – Circus Maximus Theater",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "city"
+        },
+        {
+          "date": "2014-11-30",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "Sony Centre for the Performing Arts",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2014-12-03",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "Queen Elizabeth Theatre",
+          "lat": 49.28031,
+          "lon": -123.11316,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-12-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "洪山體育館",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "我相信校園巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2014-11-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "2014-11-01",
+        "precision": "month"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "Della丁噹敢愛敢當全民情歌演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-12-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-12-07",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "NEW！再創新高迎新演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-01-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-01-01",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "我愛你戀習曲演唱會 The First Day To Say I Love You Tour",
+      "page": "我愛你戀習曲演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2015-02-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-01-22",
+        "precision": "day"
+      },
+      "showCount": 10,
+      "regions": [
+        "中國大陸",
+        "臺灣",
+        "馬來西亞",
+        "新加坡",
+        "澳門",
+        "香港"
+      ],
+      "cities": [
+        "上海",
+        "廣州",
+        "臺北",
+        "雲頂高原",
+        "新加坡",
+        "澳門",
+        "高雄",
+        "北京",
+        "香港"
+      ],
+      "venues": [
+        "梅賽德斯奔馳文化中心",
+        "廣州國際體育演藝中心",
+        "臺北小巨蛋",
+        "雲頂雲星劇場",
+        "新加坡室內體育館",
+        "新濠影滙綜藝館",
+        "高雄巨蛋",
+        "北京展覽館劇場",
+        "紅磡體育館"
+      ],
+      "shows": [
+        {
+          "date": "2015-02-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-05-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州國際體育演藝中心",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-11-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-12-19",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂高原",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-02-27",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-03-05",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "新濠影滙綜藝館",
+          "lat": 22.141143,
+          "lon": 113.560696,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-03-19",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-05-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-09-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "北京展覽館劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-01-22",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "墾丁音樂春浪節",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-04-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-04-04",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "我相信！醉心龍虎榜街頭爆唱會 LIVE IN SINGAPORE",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-04-12",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-04-12",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "奇蹟上海演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-06-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-06-06",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "超犀利趴6 - 世界好大趴演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-08-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-08-10",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "美國大西洋城真愛遇見你演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-10-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-10-25",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "上海真愛好朋友MINI LIVE演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2015-12-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-12-26",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "廣州",
+      "page": "廣州",
+      "kind": "concert",
+      "start": {
+        "date": "2016-08-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2016-08-13",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "《想戀一個愛》夏日情歌演唱會"
+      ],
+      "shows": []
+    },
+    {
+      "name": "第12屆KKBOX風雲榜記者會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-01-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-01-09",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "納跨界2017年文明“潮”我看群星演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-01-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-01-13",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "MusicRadio全球流行音樂金榜年度盛典記者會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-02-28",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-02-28",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "三商美邦333榮譽會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-03-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-03-02",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "costco 春酒",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-03-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-03-03",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "為愛發聲-318世界唐氏症日公益演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-03-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-03-18",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "大甲媽祖文化節-媽祖之光演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-03-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-03-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "MusicRadio拉票會-西安站",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-03-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-03-25",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "員林高中80週年校慶演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-04-08",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-04-08",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "我想你一起星耀贛州萬人演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-05-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-05-30",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "校園演唱-文化大學",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-01",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "校園演唱-逢甲大學",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-03",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "hito流行音樂頒獎典禮",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-04",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "校園演唱-海洋大學",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-07",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "MTV全球華語音樂盛典記者會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-12",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-12",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "中國TOP排行榜頒獎盛典",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-06-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-06-21",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "一起哈啤音樂嘉年華-鄭州站",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-07-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-07-01",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "決戰好聲錄影-馬來西亞",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-07-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-07-05",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "夏戀嘉年華-夏戀K歌趴",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-07-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-07-13",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "一起哈啤音樂嘉年華-遼寧站",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-07-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-07-29",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "一起哈啤音樂嘉年華-茂名站",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-08-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-08-13",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "全球中文音樂榜上榜錄影",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-08-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-08-19",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "進擊吧閃電發佈會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-08-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-08-21",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "一起哈啤音樂嘉年華-中山",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-09-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-09-02",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "Queen Shop代言記者會站",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-09-08",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-09-08",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "跨月極限-工研院中秋演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-09-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-09-21",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "國臺客語流行金曲演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-09-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-09-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "金牡丹之夜演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-09-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-09-29",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "高雄",
+      "page": "高雄",
+      "kind": "concert",
+      "start": {
+        "date": "2017-11-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-11-04",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺灣"
+      ],
+      "venues": [
+        "《想戀一個愛》一戀十年演唱會"
+      ],
+      "shows": []
+    },
+    {
+      "name": "想戀一個愛一戀十年演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-04-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-04-21",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "新加坡"
+      ],
+      "venues": [
+        "星宇表演藝術中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "吉隆坡",
+      "page": "吉隆坡",
+      "kind": "concert",
+      "start": {
+        "date": "2018-05-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-05-19",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "馬來西亞"
+      ],
+      "venues": [
+        "《想戀一個愛》一戀十年演唱會"
+      ],
+      "shows": []
+    },
+    {
+      "name": "杭州",
+      "page": "杭州",
+      "kind": "concert",
+      "start": {
+        "date": "2019-06-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-06-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁噹2019愛到不要命巡迴演唱會"
+      ],
+      "shows": []
+    },
+    {
+      "name": "重慶",
+      "page": "重慶",
+      "kind": "concert",
+      "start": {
+        "date": "2019-06-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-06-29",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁噹2019愛到不要命巡迴演唱會"
+      ],
+      "shows": []
+    },
+    {
+      "name": "武漢",
+      "page": "武漢",
+      "kind": "concert",
+      "start": {
+        "date": "2019-07-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-07-26",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁噹2019愛到不要命巡迴演唱會"
+      ],
+      "shows": []
+    },
+    {
+      "name": "上海",
+      "page": "上海",
+      "kind": "concert",
+      "start": {
+        "date": "2019-08-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-08-09",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁噹2019愛到不要命巡迴演唱會"
+      ],
+      "shows": []
+    },
+    {
+      "name": "丁噹2019愛到不要命巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2019-08-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-08-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "香港"
+      ],
+      "venues": [
+        "旺角麥花臣場館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "南京",
+      "page": "南京",
+      "kind": "concert",
+      "start": {
+        "date": "2021-05-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-05-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "廈門",
+      "page": "廈門",
+      "kind": "concert",
+      "start": {
+        "date": "2021-06-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-06-04",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "深圳",
+      "page": "深圳",
+      "kind": "concert",
+      "start": {
+        "date": "2021-06-12",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-06-12",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "成都",
+      "page": "成都",
+      "kind": "concert",
+      "start": {
+        "date": "2021-09-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-09-17",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "長沙",
+      "page": "長沙",
+      "kind": "concert",
+      "start": {
+        "date": "2021-09-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-09-25",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "西安",
+      "page": "西安",
+      "kind": "concert",
+      "start": {
+        "date": "2021-09-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-09-26",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "濟南",
+      "page": "濟南",
+      "kind": "concert",
+      "start": {
+        "date": "2021-10-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-10-06",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "青島",
+      "page": "青島",
+      "kind": "concert",
+      "start": {
+        "date": "2021-10-15",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-10-15",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "天津",
+      "page": "天津",
+      "kind": "concert",
+      "start": {
+        "date": "2021-10-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-10-17",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "貴陽",
+      "page": "貴陽",
+      "kind": "concert",
+      "start": {
+        "date": "2021-10-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-10-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "昆明",
+      "page": "昆明",
+      "kind": "concert",
+      "start": {
+        "date": "2021-10-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-10-24",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2021livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "蘇州",
+      "page": "蘇州",
+      "kind": "concert",
+      "start": {
+        "date": "2022-04-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-04-02",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "中國大陸"
+      ],
+      "venues": [
+        "丁當2022livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "丁當2022livehouse巡演當我們再一起",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-05-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-05-20",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "新加坡"
+      ],
+      "venues": [
+        "星宇表演藝術中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "夜遊巡迴演唱會",
+      "page": "夜遊巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2023-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2023-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "紐約",
+      "page": "紐約",
+      "kind": "concert",
+      "start": {
+        "date": "2024-05-11",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-05-11",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "美國"
+      ],
+      "venues": [
+        "丁當2024livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "衛蘭 OUT OF FRAME 世界巡迴演唱會南寧站",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-09-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-09-06",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "古晉",
+      "page": "古晉",
+      "kind": "concert",
+      "start": {
+        "date": "2025-10-11",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-10-11",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "馬來西亞"
+      ],
+      "venues": [
+        "丁當2025livehouse巡演《當我們再一起》"
+      ],
+      "shows": []
+    },
+    {
+      "name": "丁當愛了一百萬次的我演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2026-09-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-09-18",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "新加坡"
+      ],
+      "venues": [
+        "Sands Theatre"
+      ],
+      "shows": []
+    }
+  ]
+}
