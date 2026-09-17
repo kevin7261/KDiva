@@ -333,8 +333,8 @@
       ],
       "releaseDate": "2002-11-08",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "光良",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "光芒 (專輯)",
       "wikiKind": null,
       "nameKey": "光芒"
     },
@@ -1438,8 +1438,8 @@
           "playsText": "播放次數：97萬",
           "duration": 253,
           "byOther": false,
-          "titleZh": "臺北下著雨的星期天",
-          "nameKey": "臺北下著雨的星期天"
+          "nameKey": "臺北下著雨的星期天",
+          "titleZh": "臺北下著雨的星期天"
         },
         {
           "index": 2,
@@ -2333,6 +2333,34 @@
       "nameKey": "是不是還少了什麼"
     },
     {
+      "browseId": "MPREb_TtkzFSckN9C",
+      "playlistId": "OLAK5uy_n9Oz31uyPcSrMP0xNHoD2dDLxMz7eLrwM",
+      "title": "最近的永遠",
+      "albumArtist": "光良",
+      "type": "Single",
+      "year": 2019,
+      "thumbnail": "https://yt3.googleusercontent.com/I_YjxXYSUALjivNGifmkadkO6s5-WVKJrmrKQa952G0IXYM20eQPVLNPi0BTpPKF6HZXgiucZkBp-Wj0=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "最近的永遠",
+          "artists": "",
+          "videoId": "xKWd55vVKSY",
+          "plays": 100000,
+          "playsText": "播放次數：10萬",
+          "duration": 258,
+          "byOther": false,
+          "nameKey": "最近的永遠"
+        }
+      ],
+      "releaseDate": "2019-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "光良",
+      "wikiKind": "single",
+      "nameKey": "最近的永遠"
+    },
+    {
       "browseId": "MPREb_6YLfnQKn1sO",
       "playlistId": "OLAK5uy_mQOOcDRJ6R66Mt8Zpy1TOVUBHz_EvzR_I",
       "title": "7 Minutes",
@@ -2361,32 +2389,60 @@
       "nameKey": "7minutes"
     },
     {
-      "browseId": "MPREb_TtkzFSckN9C",
-      "playlistId": "OLAK5uy_n9Oz31uyPcSrMP0xNHoD2dDLxMz7eLrwM",
-      "title": "最近的永遠",
-      "albumArtist": "光良",
+      "browseId": "MPREb_PC2HsyOjsnv",
+      "playlistId": "OLAK5uy_m-OWZlAm9holDz6b-SX10HrFgz_q6kQf4",
+      "title": "大寶貝小寶貝",
+      "albumArtist": "光良和台灣原聲童聲合唱團",
       "type": "Single",
-      "year": 2019,
-      "thumbnail": "https://yt3.googleusercontent.com/I_YjxXYSUALjivNGifmkadkO6s5-WVKJrmrKQa952G0IXYM20eQPVLNPi0BTpPKF6HZXgiucZkBp-Wj0=w544-h544-l90-rj",
+      "year": 2021,
+      "thumbnail": "https://yt3.googleusercontent.com/VypSbdFutMWne5ZQ6AA2jNn18VUlfhqRVvR7yRl7iq1B1ajUKhzp2hDn6WzT1Vx_NyjCMINWcYaH1SFg1A=w544-h544-l90-rj",
       "tracks": [
         {
           "index": 1,
-          "title": "最近的永遠",
+          "title": "大寶貝小寶貝",
           "artists": "",
-          "videoId": "xKWd55vVKSY",
-          "plays": 100000,
-          "playsText": "播放次數：10萬",
-          "duration": 258,
+          "videoId": "sZzmPWLXCo4",
+          "plays": 35000,
+          "playsText": "播放次數：3.5萬",
+          "duration": 289,
           "byOther": false,
-          "nameKey": "最近的永遠"
+          "nameKey": "大寶貝小寶貝"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "最近的永遠"
+      "releaseDate": "2020-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "光良",
+      "wikiKind": "single",
+      "nameKey": "大寶貝小寶貝"
+    },
+    {
+      "browseId": "MPREb_GX3fkUCk4eX",
+      "playlistId": "OLAK5uy_n8d7sa0jUt7YZ5s5EwN3JGoHLPj4WAlVI",
+      "title": "童話",
+      "albumArtist": "光良",
+      "type": "Single",
+      "year": 2021,
+      "thumbnail": "https://yt3.googleusercontent.com/YQ0fBwgH38Uibrqi7Wfll1BUhsP5_eciUaCI9ibCIh7l2Qu8BuP6_bn3CruVADdlvsXcjc3VKZeDtFwNSQ=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "童話",
+          "artists": "",
+          "videoId": "bSfJMChy7TE",
+          "plays": 4090000,
+          "playsText": "播放次數：409萬",
+          "duration": 242,
+          "byOther": false,
+          "nameKey": "童話"
+        }
+      ],
+      "releaseDate": "2020-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "光良",
+      "wikiKind": "single",
+      "nameKey": "童話"
     },
     {
       "browseId": "MPREb_YliiOdrBQKZ",
@@ -2572,62 +2628,6 @@
       "nameKey": "里程旅程"
     },
     {
-      "browseId": "MPREb_PC2HsyOjsnv",
-      "playlistId": "OLAK5uy_m-OWZlAm9holDz6b-SX10HrFgz_q6kQf4",
-      "title": "大寶貝小寶貝",
-      "albumArtist": "光良和台灣原聲童聲合唱團",
-      "type": "Single",
-      "year": 2021,
-      "thumbnail": "https://yt3.googleusercontent.com/VypSbdFutMWne5ZQ6AA2jNn18VUlfhqRVvR7yRl7iq1B1ajUKhzp2hDn6WzT1Vx_NyjCMINWcYaH1SFg1A=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "大寶貝小寶貝",
-          "artists": "",
-          "videoId": "sZzmPWLXCo4",
-          "plays": 35000,
-          "playsText": "播放次數：3.5萬",
-          "duration": 289,
-          "byOther": false,
-          "nameKey": "大寶貝小寶貝"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "大寶貝小寶貝"
-    },
-    {
-      "browseId": "MPREb_GX3fkUCk4eX",
-      "playlistId": "OLAK5uy_n8d7sa0jUt7YZ5s5EwN3JGoHLPj4WAlVI",
-      "title": "童話",
-      "albumArtist": "光良",
-      "type": "Single",
-      "year": 2021,
-      "thumbnail": "https://yt3.googleusercontent.com/YQ0fBwgH38Uibrqi7Wfll1BUhsP5_eciUaCI9ibCIh7l2Qu8BuP6_bn3CruVADdlvsXcjc3VKZeDtFwNSQ=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "童話",
-          "artists": "",
-          "videoId": "bSfJMChy7TE",
-          "plays": 4090000,
-          "playsText": "播放次數：409萬",
-          "duration": 242,
-          "byOther": false,
-          "nameKey": "童話"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "童話"
-    },
-    {
       "browseId": "MPREb_mQLFx4zfkOr",
       "playlistId": "OLAK5uy_n16sljY1xn9_pqLjC3s_jySEiwa68rbbY",
       "title": "天地吾乡 (合作演出：天涯明月刀)",
@@ -2645,8 +2645,8 @@
           "playsText": "播放次數：2.2萬",
           "duration": 220,
           "byOther": false,
-          "titleZh": "天地吾鄉 (普通話版) (合作演出：天涯明月刀)",
-          "nameKey": "天地吾鄉"
+          "nameKey": "天地吾鄉",
+          "titleZh": "天地吾鄉 (普通話版) (合作演出：天涯明月刀)"
         },
         {
           "index": 2,
@@ -2657,8 +2657,8 @@
           "playsText": "播放次數：2.2萬",
           "duration": 220,
           "byOther": false,
-          "titleZh": "天地吾鄉 (客家話版) (合作演出：天涯明月刀)",
-          "nameKey": "天地吾鄉"
+          "nameKey": "天地吾鄉",
+          "titleZh": "天地吾鄉 (客家話版) (合作演出：天涯明月刀)"
         }
       ],
       "releaseDate": null,
@@ -2667,6 +2667,47 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "天地吾鄉"
+    },
+    {
+      "browseId": "MPREb_nBavEnDS7h0",
+      "playlistId": "OLAK5uy_ld2o1dblxECTFMPb0Fg-J7d5drtbmJWWw",
+      "title": "冒险吧（《冒险岛：枫之传说》新春版本主题曲）",
+      "albumArtist": "光良",
+      "type": "Single",
+      "year": 2024,
+      "thumbnail": "https://yt3.googleusercontent.com/olX01mPu6--Feh42lK1XHXzHHPFojFDKC2k8Go0Wv-_iG685wLPo6uHGKN9VE1pPlaQTMejMWNDsk3K5=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "冒险吧（《冒险岛：枫之传说》新春版本主题曲）",
+          "artists": "",
+          "videoId": "w1fn0G00UGM",
+          "plays": 19000,
+          "playsText": "播放次數：1.9萬",
+          "duration": 207,
+          "byOther": false,
+          "nameKey": "冒險吧",
+          "titleZh": "冒險吧（《冒險島：楓之傳說》新春版本主題曲）"
+        },
+        {
+          "index": 2,
+          "title": "冒险吧（《冒险岛：枫之传说》新春版本主题曲） (伴奏版)",
+          "artists": "",
+          "videoId": "Ns_OXab-35w",
+          "plays": 631,
+          "playsText": "播放次數：631",
+          "duration": 208,
+          "byOther": false,
+          "nameKey": "冒險吧",
+          "titleZh": "冒險吧（《冒險島：楓之傳說》新春版本主題曲） (伴奏版)"
+        }
+      ],
+      "releaseDate": "2024-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "光良",
+      "wikiKind": "single",
+      "nameKey": "冒險吧"
     },
     {
       "browseId": "MPREb_HjYZmzYHqwz",
@@ -2818,47 +2859,6 @@
       "nameKey": "光良第二主打情歌live"
     },
     {
-      "browseId": "MPREb_nBavEnDS7h0",
-      "playlistId": "OLAK5uy_ld2o1dblxECTFMPb0Fg-J7d5drtbmJWWw",
-      "title": "冒险吧（《冒险岛：枫之传说》新春版本主题曲）",
-      "albumArtist": "光良",
-      "type": "Single",
-      "year": 2024,
-      "thumbnail": "https://yt3.googleusercontent.com/olX01mPu6--Feh42lK1XHXzHHPFojFDKC2k8Go0Wv-_iG685wLPo6uHGKN9VE1pPlaQTMejMWNDsk3K5=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "冒险吧（《冒险岛：枫之传说》新春版本主题曲）",
-          "artists": "",
-          "videoId": "w1fn0G00UGM",
-          "plays": 19000,
-          "playsText": "播放次數：1.9萬",
-          "duration": 207,
-          "byOther": false,
-          "titleZh": "冒險吧（《冒險島：楓之傳說》新春版本主題曲）",
-          "nameKey": "冒險吧"
-        },
-        {
-          "index": 2,
-          "title": "冒险吧（《冒险岛：枫之传说》新春版本主题曲） (伴奏版)",
-          "artists": "",
-          "videoId": "Ns_OXab-35w",
-          "plays": 631,
-          "playsText": "播放次數：631",
-          "duration": 208,
-          "byOther": false,
-          "titleZh": "冒險吧（《冒險島：楓之傳說》新春版本主題曲） (伴奏版)",
-          "nameKey": "冒險吧"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "冒險吧"
-    },
-    {
       "browseId": "MPREb_QSS8TxvBo8w",
       "playlistId": "OLAK5uy_lYJlTFRwZq5IKDXL7qGFxedoE3juZ2_b8",
       "title": "類情人",
@@ -2909,7 +2909,7 @@
       ],
       "releaseDate": "2026-05-20",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "song-table",
       "wikiTitle": "光良",
       "wikiKind": "single",
       "nameKey": "天使"

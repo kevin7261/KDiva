@@ -102,11 +102,11 @@
           "playsText": "播放次數：15萬",
           "duration": 105,
           "byOther": false,
+          "nameKey": "intro",
           "credits": {
             "music": "美秀集團",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "intro"
+          }
         },
         {
           "index": 2,
@@ -117,12 +117,12 @@
           "playsText": "播放次數：137萬",
           "duration": 304,
           "byOther": false,
+          "nameKey": "電火王",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "電火王"
+          }
         },
         {
           "index": 3,
@@ -133,12 +133,12 @@
           "playsText": "播放次數：31萬",
           "duration": 148,
           "byOther": false,
+          "nameKey": "總裁水鴛鴦",
           "credits": {
             "lyrics": "修齊",
             "music": "修齊",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "總裁水鴛鴦"
+          }
         },
         {
           "index": 4,
@@ -149,12 +149,12 @@
           "playsText": "播放次數：249萬",
           "duration": 271,
           "byOther": false,
+          "nameKey": "這幾年",
           "credits": {
             "lyrics": "修齊",
             "music": "修齊",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "這幾年"
+          }
         },
         {
           "index": 5,
@@ -165,12 +165,12 @@
           "playsText": "播放次數：48萬",
           "duration": 325,
           "byOther": false,
+          "nameKey": "昨暝阿爸無轉來",
           "credits": {
             "lyrics": "冠佑",
             "music": "冠佑",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "昨暝阿爸無轉來"
+          }
         },
         {
           "index": 6,
@@ -181,12 +181,12 @@
           "playsText": "播放次數：958萬",
           "duration": 277,
           "byOther": false,
+          "nameKey": "做事人",
           "credits": {
             "lyrics": "冠佑",
             "music": "冠佑",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "做事人"
+          }
         },
         {
           "index": 7,
@@ -197,12 +197,12 @@
           "playsText": "播放次數：167萬",
           "duration": 319,
           "byOther": false,
+          "nameKey": "生活袂曉過",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "生活袂曉過"
+          }
         },
         {
           "index": 8,
@@ -213,12 +213,12 @@
           "playsText": "播放次數：1000萬",
           "duration": 305,
           "byOther": false,
+          "nameKey": "米兒",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "米兒"
+          }
         },
         {
           "index": 9,
@@ -229,12 +229,12 @@
           "playsText": "播放次數：958萬",
           "duration": 316,
           "byOther": false,
+          "nameKey": "小老婆",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "小老婆"
+          }
         },
         {
           "index": 10,
@@ -256,12 +256,12 @@
           "playsText": "播放次數：32萬",
           "duration": 253,
           "byOther": false,
+          "nameKey": "魯之歌",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "魯之歌"
+          }
         }
       ],
       "releaseDate": "2018-08-22",
@@ -289,12 +289,12 @@
           "playsText": "播放次數：1851萬",
           "duration": 224,
           "byOther": false,
+          "nameKey": "我要你愛",
           "credits": {
             "lyrics": "修齊、狗柏",
             "music": "修齊、狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "我要你愛"
+          }
         }
       ],
       "releaseDate": null,
@@ -322,12 +322,12 @@
           "playsText": "播放次數：48萬",
           "duration": 279,
           "byOther": false,
+          "nameKey": "殭屍王",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "殭屍王"
+          }
         }
       ],
       "releaseDate": null,
@@ -355,12 +355,12 @@
           "playsText": "播放次數：1849萬",
           "duration": 221,
           "byOther": false,
+          "nameKey": "我要你愛",
           "credits": {
             "lyrics": "修齊、狗柏",
             "music": "修齊、狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "我要你愛"
+          }
         },
         {
           "index": 2,
@@ -371,8 +371,8 @@
           "playsText": "播放次數：133萬",
           "duration": 194,
           "byOther": false,
-          "titleZh": "金光閃閃 (中華奧會/臺灣啤酒2020東京奧運中華隊應援曲)",
-          "nameKey": "金光閃閃"
+          "nameKey": "金光閃閃",
+          "titleZh": "金光閃閃 (中華奧會/臺灣啤酒2020東京奧運中華隊應援曲)"
         },
         {
           "index": 3,
@@ -383,12 +383,12 @@
           "playsText": "播放次數：115萬",
           "duration": 207,
           "byOther": false,
+          "nameKey": "花光月影",
           "credits": {
             "lyrics": "冠佑",
             "music": "冠佑",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "花光月影"
+          }
         },
         {
           "index": 4,
@@ -399,12 +399,12 @@
           "playsText": "播放次數：91萬",
           "duration": 305,
           "byOther": false,
+          "nameKey": "馬克吐溫",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "馬克吐溫"
+          }
         },
         {
           "index": 5,
@@ -415,12 +415,12 @@
           "playsText": "播放次數：21萬",
           "duration": 279,
           "byOther": false,
+          "nameKey": "戰鬥菸",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "戰鬥菸"
+          }
         },
         {
           "index": 6,
@@ -431,12 +431,12 @@
           "playsText": "播放次數：48萬",
           "duration": 280,
           "byOther": false,
+          "nameKey": "殭屍王",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "殭屍王"
+          }
         },
         {
           "index": 7,
@@ -447,12 +447,12 @@
           "playsText": "播放次數：2922萬",
           "duration": 244,
           "byOther": false,
+          "nameKey": "心悶",
           "credits": {
             "lyrics": "冠佑",
             "music": "冠佑",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "心悶"
+          }
         },
         {
           "index": 8,
@@ -463,12 +463,12 @@
           "playsText": "播放次數：361萬",
           "duration": 282,
           "byOther": false,
+          "nameKey": "白鯨",
           "credits": {
             "lyrics": "冠佑",
             "music": "冠佑",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "白鯨"
+          }
         },
         {
           "index": 9,
@@ -479,12 +479,12 @@
           "playsText": "播放次數：347萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "哥哥呀哥哥",
           "credits": {
             "lyrics": "修齊",
             "music": "修齊、百祥",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "哥哥呀哥哥"
+          }
         },
         {
           "index": 10,
@@ -495,12 +495,12 @@
           "playsText": "播放次數：207萬",
           "duration": 241,
           "byOther": false,
+          "nameKey": "做夢的人",
           "credits": {
             "lyrics": "李威",
             "music": "李威",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "做夢的人"
+          }
         }
       ],
       "releaseDate": "2021-10-08",
@@ -528,12 +528,12 @@
           "playsText": "播放次數：91萬",
           "duration": 309,
           "byOther": false,
+          "nameKey": "馬克吐溫",
           "credits": {
             "lyrics": "狗柏",
             "music": "狗柏",
             "arranger": "美秀集團、張皓棠 (Dennis)"
-          },
-          "nameKey": "馬克吐溫"
+          }
         }
       ],
       "releaseDate": null,
@@ -661,8 +661,8 @@
           "playsText": "播放次數：4.2萬",
           "duration": 210,
           "byOther": false,
-          "titleZh": "理化兄弟 P.C.B. Remix",
-          "nameKey": "理化兄弟pcbremix"
+          "nameKey": "理化兄弟pcbremix",
+          "titleZh": "理化兄弟 P.C.B. Remix"
         },
         {
           "index": 4,
@@ -673,8 +673,8 @@
           "playsText": "播放次數：18萬",
           "duration": 310,
           "byOther": false,
-          "titleZh": "DJ小庭 burgerlin Remix",
-          "nameKey": "dj小庭burgerlinremix"
+          "nameKey": "dj小庭burgerlinremix",
+          "titleZh": "DJ小庭 burgerlin Remix"
         },
         {
           "index": 5,
@@ -696,8 +696,8 @@
           "playsText": "播放次數：4.9萬",
           "duration": 313,
           "byOther": false,
-          "titleZh": "Ap娛樂音樂團隊 Ap Entertainment Remix",
-          "nameKey": "ap娛樂音樂團隊apentertainmentremix"
+          "nameKey": "ap娛樂音樂團隊apentertainmentremix",
+          "titleZh": "Ap娛樂音樂團隊 Ap Entertainment Remix"
         },
         {
           "index": 7,
@@ -708,8 +708,8 @@
           "playsText": "播放次數：38萬",
           "duration": 297,
           "byOther": false,
-          "titleZh": "DJ小庭 burgerlin Remix",
-          "nameKey": "dj小庭burgerlinremix"
+          "nameKey": "dj小庭burgerlinremix",
+          "titleZh": "DJ小庭 burgerlin Remix"
         },
         {
           "index": 8,
@@ -720,8 +720,8 @@
           "playsText": "播放次數：2.6萬",
           "duration": 249,
           "byOther": false,
-          "titleZh": "理化兄弟 P.C.B. Remix",
-          "nameKey": "理化兄弟pcbremix"
+          "nameKey": "理化兄弟pcbremix",
+          "titleZh": "理化兄弟 P.C.B. Remix"
         }
       ],
       "releaseDate": "2024-01-14",
@@ -915,8 +915,8 @@
           "playsText": "播放次數：62萬",
           "duration": 152,
           "byOther": false,
-          "titleZh": "電影【還錢】主題曲",
-          "nameKey": "電影主題曲"
+          "nameKey": "電影主題曲",
+          "titleZh": "電影【還錢】主題曲"
         }
       ],
       "releaseDate": null,
@@ -944,8 +944,8 @@
           "playsText": "播放次數：3.6萬",
           "duration": 60,
           "byOther": false,
-          "titleZh": "傳說對決2024新年主題曲",
-          "nameKey": "傳說對決2024新年主題曲"
+          "nameKey": "傳說對決2024新年主題曲",
+          "titleZh": "傳說對決2024新年主題曲"
         }
       ],
       "releaseDate": null,

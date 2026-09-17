@@ -240,12 +240,12 @@
           "playsText": "播放次數：3.6萬",
           "duration": 268,
           "byOther": false,
+          "nameKey": "麋人",
           "credits": {
             "lyrics": "魏如萱",
             "music": "韓立康",
             "arranger": "韓立康"
-          },
-          "nameKey": "麋人"
+          }
         },
         {
           "index": 2,
@@ -256,12 +256,12 @@
           "playsText": "播放次數：21萬",
           "duration": 268,
           "byOther": false,
+          "nameKey": "困在",
           "credits": {
             "lyrics": "吳青峰",
             "music": "Maximilian Hecker",
             "arranger": "徐千秀、陳建騏"
-          },
-          "nameKey": "困在"
+          }
         },
         {
           "index": 3,
@@ -272,12 +272,12 @@
           "playsText": "播放次數：3.3萬",
           "duration": 179,
           "byOther": false,
+          "nameKey": "我不是數學家",
           "credits": {
             "lyrics": "陳珊妮",
             "music": "陳珊妮",
             "arranger": "陳珊妮"
-          },
-          "nameKey": "我不是數學家"
+          }
         },
         {
           "index": 4,
@@ -288,12 +288,12 @@
           "playsText": "播放次數：64萬",
           "duration": 217,
           "byOther": false,
+          "nameKey": "沒有關係",
           "credits": {
             "lyrics": "魏如萱",
             "music": "Fly(卡奇社)",
             "arranger": "Fly(卡奇社)"
-          },
-          "nameKey": "沒有關係"
+          }
         },
         {
           "index": 5,
@@ -304,12 +304,12 @@
           "playsText": "播放次數：8421",
           "duration": 186,
           "byOther": false,
+          "nameKey": "外星人愛我",
           "credits": {
             "lyrics": "魏如萱",
             "music": "陳建騏",
             "arranger": "陳建騏"
-          },
-          "nameKey": "外星人愛我"
+          }
         },
         {
           "index": 6,
@@ -320,12 +320,12 @@
           "playsText": "播放次數：11萬",
           "duration": 265,
           "byOther": false,
+          "nameKey": "一刀兩刃",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱、韓立康",
             "arranger": "陳建騏"
-          },
-          "nameKey": "一刀兩刃"
+          }
         },
         {
           "index": 7,
@@ -336,12 +336,12 @@
           "playsText": "播放次數：4.9萬",
           "duration": 207,
           "byOther": false,
+          "nameKey": "問號",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "陳建騏、張瀚中、程傑、Peter"
-          },
-          "nameKey": "問號"
+          }
         },
         {
           "index": 8,
@@ -352,12 +352,12 @@
           "playsText": "播放次數：44萬",
           "duration": 317,
           "byOther": false,
+          "nameKey": "你是不會當樹嗎",
           "credits": {
             "lyrics": "王小苗",
             "music": "魏如萱",
             "arranger": "韓立康、張瀚中、陳建騏"
-          },
-          "nameKey": "你是不會當樹嗎"
+          }
         },
         {
           "index": 9,
@@ -368,12 +368,12 @@
           "playsText": "播放次數：43萬",
           "duration": 282,
           "byOther": false,
+          "nameKey": "局部的人",
           "credits": {
             "lyrics": "魏如萱",
             "music": "陳建騏",
             "arranger": "陳建騏"
-          },
-          "nameKey": "局部的人"
+          }
         },
         {
           "index": 10,
@@ -384,11 +384,11 @@
           "playsText": "播放次數：1.4萬",
           "duration": 75,
           "byOther": false,
+          "nameKey": "優雅的刺蝟",
           "credits": {
             "music": "陳建騏",
             "arranger": "陳建騏"
-          },
-          "nameKey": "優雅的刺蝟"
+          }
         },
         {
           "index": 11,
@@ -399,12 +399,12 @@
           "playsText": "播放次數：65萬",
           "duration": 300,
           "byOther": false,
+          "nameKey": "一顆灰塵",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "Oliver"
-          },
-          "nameKey": "一顆灰塵"
+          }
         }
       ],
       "releaseDate": "2010-05-27",
@@ -432,18 +432,18 @@
           "playsText": "播放次數：234萬",
           "duration": 233,
           "byOther": false,
+          "nameKey": "我爸的筆",
           "credits": {
             "lyrics": "魏如萱、陳怡萱、曾大衛、簡瑞松、羅文裕",
             "music": "魏如萱"
-          },
-          "nameKey": "我爸的筆"
+          }
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
+      "releaseDate": "2010-05-27",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "魏如萱",
+      "wikiKind": "single",
       "nameKey": "我爸的筆"
     },
     {
@@ -513,7 +513,7 @@
       ],
       "releaseDate": "2011-01-23",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "table",
       "wikiTitle": "魏如萱",
       "wikiKind": "single",
       "nameKey": "在哪裡"
@@ -536,12 +536,12 @@
           "playsText": "播放次數：2.4萬",
           "duration": 310,
           "byOther": false,
+          "nameKey": "溶話",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱、張瀚中",
             "arranger": "羅恩妮"
-          },
-          "nameKey": "溶話"
+          }
         },
         {
           "index": 2,
@@ -552,12 +552,12 @@
           "playsText": "播放次數：90萬",
           "duration": 224,
           "byOther": false,
+          "nameKey": "三個字",
           "credits": {
             "lyrics": "魏如萱",
             "music": "韓立康",
             "arranger": "韓立康"
-          },
-          "nameKey": "三個字"
+          }
         },
         {
           "index": 3,
@@ -568,12 +568,12 @@
           "playsText": "播放次數：3.1萬",
           "duration": 195,
           "byOther": false,
+          "nameKey": "一時",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "Peter@the marshmallow kisses"
-          },
-          "nameKey": "一時"
+          }
         },
         {
           "index": 4,
@@ -584,12 +584,12 @@
           "playsText": "播放次數：2.1萬",
           "duration": 271,
           "byOther": false,
+          "nameKey": "脫光光",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "Oliver"
-          },
-          "nameKey": "脫光光"
+          }
         },
         {
           "index": 5,
@@ -600,10 +600,10 @@
           "playsText": "播放次數：8076",
           "duration": 127,
           "byOther": false,
+          "nameKey": "抽屜",
           "credits": {
             "music": "張瀚中"
-          },
-          "nameKey": "抽屜"
+          }
         },
         {
           "index": 6,
@@ -614,12 +614,12 @@
           "playsText": "播放次數：51萬",
           "duration": 282,
           "byOther": false,
+          "nameKey": "隕石",
           "credits": {
             "lyrics": "魏如萱",
             "music": "陳建騏",
             "arranger": "徐千秀"
-          },
-          "nameKey": "隕石"
+          }
         },
         {
           "index": 7,
@@ -630,12 +630,12 @@
           "playsText": "播放次數：1.7萬",
           "duration": 488,
           "byOther": false,
+          "nameKey": "勾引",
           "credits": {
             "lyrics": "李格弟",
             "music": "陳建騏",
             "arranger": "陳建騏"
-          },
-          "nameKey": "勾引"
+          }
         },
         {
           "index": 8,
@@ -646,12 +646,12 @@
           "playsText": "播放次數：441萬",
           "duration": 237,
           "byOther": false,
+          "nameKey": "晚安晚安",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "陳建騏"
-          },
-          "nameKey": "晚安晚安"
+          }
         },
         {
           "index": 9,
@@ -662,12 +662,12 @@
           "playsText": "播放次數：57萬",
           "duration": 242,
           "byOther": false,
+          "nameKey": "我們",
           "credits": {
             "lyrics": "雷光夏",
             "music": "雷光夏",
             "arranger": "韓立康"
-          },
-          "nameKey": "我們"
+          }
         },
         {
           "index": 10,
@@ -678,12 +678,12 @@
           "playsText": "播放次數：303萬",
           "duration": 319,
           "byOther": false,
+          "nameKey": "飛鳥",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱、韓立康",
             "arranger": "JackieYu@WhiteMusic"
-          },
-          "nameKey": "飛鳥"
+          }
         },
         {
           "index": 11,
@@ -1058,7 +1058,7 @@
       ],
       "releaseDate": "2012-10-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "table",
       "wikiTitle": "魏如萱",
       "wikiKind": "single",
       "nameKey": "沒有星期五的無人島"
@@ -1442,11 +1442,11 @@
           "nameKey": "織花"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
+      "releaseDate": "2013-10-01",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "魏如萱",
+      "wikiKind": "single",
       "nameKey": "織花"
     },
     {
@@ -1522,12 +1522,12 @@
           "playsText": "播放次數：13萬",
           "duration": 314,
           "byOther": false,
+          "nameKey": "睡蓮",
           "credits": {
             "lyrics": "魏如萱、、Vito Antonio Indolfo",
             "music": "魏如萱、、Andrea Manghisi",
             "arranger": "AcomeandromedA /、魏如萱"
-          },
-          "nameKey": "睡蓮"
+          }
         },
         {
           "index": 7,
@@ -1610,12 +1610,12 @@
           "playsText": "播放次數：193萬",
           "duration": 278,
           "byOther": false,
+          "nameKey": "一萬個不回頭的方法",
           "credits": {
             "lyrics": "李焯雄",
             "music": "魏如萱、韓立康",
             "arranger": "韓立康"
-          },
-          "nameKey": "一萬個不回頭的方法"
+          }
         },
         {
           "index": 2,
@@ -1626,12 +1626,12 @@
           "playsText": "播放次數：66萬",
           "duration": 191,
           "byOther": false,
+          "nameKey": "末路狂花",
           "credits": {
             "lyrics": "李焯雄",
             "music": "魏如萱、韓立康、蕭賀碩",
             "arranger": "韓立康"
-          },
-          "nameKey": "末路狂花"
+          }
         },
         {
           "index": 3,
@@ -1642,12 +1642,12 @@
           "playsText": "播放次數：131萬",
           "duration": 224,
           "byOther": false,
+          "nameKey": "iwillbefine",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "黃少雍"
-          },
-          "nameKey": "iwillbefine"
+          }
         },
         {
           "index": 4,
@@ -1658,12 +1658,12 @@
           "playsText": "播放次數：5.9萬",
           "duration": 270,
           "byOther": false,
+          "nameKey": "無聲電影",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "Marko Nyberg、Ilari Heinilä"
-          },
-          "nameKey": "無聲電影"
+          }
         },
         {
           "index": 5,
@@ -1674,12 +1674,12 @@
           "playsText": "播放次數：3萬",
           "duration": 275,
           "byOther": false,
+          "nameKey": "賈科梅蒂",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "Marko Nyberg"
-          },
-          "nameKey": "賈科梅蒂"
+          }
         },
         {
           "index": 6,
@@ -1690,12 +1690,12 @@
           "playsText": "播放次數：39萬",
           "duration": 254,
           "byOther": false,
+          "nameKey": "雪女",
           "credits": {
             "lyrics": "魏如萱、李焯雄",
             "music": "魏如萱",
             "arranger": "馮翰銘、Kiri T"
-          },
-          "nameKey": "雪女"
+          }
         },
         {
           "index": 7,
@@ -1706,12 +1706,12 @@
           "playsText": "播放次數：8.7萬",
           "duration": 264,
           "byOther": false,
+          "nameKey": "小魚",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "陳珊妮"
-          },
-          "nameKey": "小魚"
+          }
         },
         {
           "index": 8,
@@ -1722,12 +1722,12 @@
           "playsText": "播放次數：5614萬",
           "duration": 327,
           "byOther": false,
+          "nameKey": "你啊你啊",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "董運昌、羅恩妮"
-          },
-          "nameKey": "你啊你啊"
+          }
         },
         {
           "index": 9,
@@ -1749,12 +1749,12 @@
           "playsText": "播放次數：3.7萬",
           "duration": 245,
           "byOther": false,
+          "nameKey": "夢露",
           "credits": {
             "lyrics": "李焯雄",
             "music": "魏如萱",
             "arranger": "周嶽澄、黃少雍"
-          },
-          "nameKey": "夢露"
+          }
         }
       ],
       "releaseDate": "2016-11-11",
@@ -1782,12 +1782,12 @@
           "playsText": "播放次數：5614萬",
           "duration": 327,
           "byOther": false,
+          "nameKey": "你啊你啊",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "董運昌、羅恩妮"
-          },
-          "nameKey": "你啊你啊"
+          }
         }
       ],
       "releaseDate": null,
@@ -1871,19 +1871,19 @@
           "playsText": "播放次數：400萬",
           "duration": 305,
           "byOther": false,
+          "nameKey": "dontcrydontcry",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "韓立康"
-          },
-          "nameKey": "dontcrydontcry"
+          }
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
+      "releaseDate": "2018-03-23",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "魏如萱",
+      "wikiKind": "single",
       "nameKey": "dontcrydontcry"
     },
     {
@@ -1907,11 +1907,11 @@
           "nameKey": "friday超展開"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
+      "releaseDate": "2018-04-30",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "魏如萱",
+      "wikiKind": "single",
       "nameKey": "friday超展開"
     },
     {
@@ -1935,11 +1935,11 @@
           "nameKey": "曬傷"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
+      "releaseDate": "2018-08-13",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "魏如萱",
+      "wikiKind": "single",
       "nameKey": "曬傷"
     },
     {
@@ -1960,12 +1960,12 @@
           "playsText": "播放次數：517萬",
           "duration": 311,
           "byOther": false,
+          "nameKey": "陪著你",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "韓立康、張瀚中"
-          },
-          "nameKey": "陪著你"
+          }
         },
         {
           "index": 2,
@@ -1976,12 +1976,12 @@
           "playsText": "播放次數：400萬",
           "duration": 305,
           "byOther": false,
+          "nameKey": "dontcrydontcry",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "韓立康"
-          },
-          "nameKey": "dontcrydontcry"
+          }
         },
         {
           "index": 3,
@@ -1992,12 +1992,12 @@
           "playsText": "播放次數：334萬",
           "duration": 316,
           "byOther": false,
+          "nameKey": "ophelia",
           "credits": {
             "lyrics": "李格弟",
             "music": "陳建騏",
             "arranger": "陳建騏、羅恩妮"
-          },
-          "nameKey": "ophelia"
+          }
         },
         {
           "index": 4,
@@ -2008,12 +2008,12 @@
           "playsText": "播放次數：91萬",
           "duration": 254,
           "byOther": false,
+          "nameKey": "恐慌症",
           "credits": {
             "lyrics": "呂康惟、魏如萱",
             "music": "呂康惟",
             "arranger": "黃少雍、韓立康"
-          },
-          "nameKey": "恐慌症"
+          }
         },
         {
           "index": 5,
@@ -2024,12 +2024,12 @@
           "playsText": "播放次數：44萬",
           "duration": 231,
           "byOther": false,
+          "nameKey": "既然不再假裝自己不是多愁善感的詩人",
           "credits": {
             "lyrics": "李睿哲",
             "music": "韓立康、魏如萱",
             "arranger": "韓立康"
-          },
-          "nameKey": "既然不再假裝自己不是多愁善感的詩人"
+          }
         },
         {
           "index": 6,
@@ -2051,12 +2051,12 @@
           "playsText": "播放次數：207萬",
           "duration": 223,
           "byOther": false,
+          "nameKey": "竊笑",
           "credits": {
             "lyrics": "葛大為",
             "music": "伍家輝",
             "arranger": "王雙駿"
-          },
-          "nameKey": "竊笑"
+          }
         },
         {
           "index": 8,
@@ -2067,12 +2067,12 @@
           "playsText": "播放次數：85萬",
           "duration": 255,
           "byOther": false,
+          "nameKey": "海鷗先生我愛你",
           "credits": {
             "lyrics": "林以樂",
             "music": "林以樂",
             "arranger": "徐平、葉賀璞、王希文"
-          },
-          "nameKey": "海鷗先生我愛你"
+          }
         },
         {
           "index": 9,
@@ -2083,12 +2083,12 @@
           "playsText": "播放次數：19萬",
           "duration": 215,
           "byOther": false,
+          "nameKey": "兒歌",
           "credits": {
             "lyrics": "李格弟",
             "music": "黃韻玲",
             "arranger": "金木義則"
-          },
-          "nameKey": "兒歌"
+          }
         },
         {
           "index": 10,
@@ -2099,12 +2099,12 @@
           "playsText": "播放次數：1843萬",
           "duration": 308,
           "byOther": false,
+          "nameKey": "彼個所在",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "韓立康"
-          },
-          "nameKey": "彼個所在"
+          }
         },
         {
           "index": 11,
@@ -2143,12 +2143,12 @@
           "playsText": "播放次數：91萬",
           "duration": 252,
           "byOther": false,
+          "nameKey": "恐慌症",
           "credits": {
             "lyrics": "呂康惟、魏如萱",
             "music": "呂康惟",
             "arranger": "黃少雍、韓立康"
-          },
-          "nameKey": "恐慌症"
+          }
         }
       ],
       "releaseDate": null,
@@ -2187,6 +2187,39 @@
       "nameKey": "你啊你啊金曲主持人特別版"
     },
     {
+      "browseId": "MPREb_P1HLjQmkNr5",
+      "playlistId": "OLAK5uy_lo2xFeJptJNSDVjRM172mri26HdzVMS4g",
+      "title": "奶奶",
+      "albumArtist": "魏如萱",
+      "type": "Single",
+      "year": 2021,
+      "thumbnail": "https://yt3.googleusercontent.com/72rytfIbCGi7XjHP8vC8MFtSCQ8zxlNrw6YO8rh5lj3SfElGY0W9UtKGOIPmCkDlMJdEV_SI2_Vk7H0=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "奶奶",
+          "artists": "",
+          "videoId": "EEagk7Xs3i4",
+          "plays": 2280000,
+          "playsText": "播放次數：228萬",
+          "duration": 307,
+          "byOther": false,
+          "nameKey": "奶奶",
+          "credits": {
+            "lyrics": "魏如萱、莊奴",
+            "music": "魏如萱、林以樂",
+            "arranger": "韓立康、錢威良"
+          }
+        }
+      ],
+      "releaseDate": "2021-05-06",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "search-page",
+      "wikiTitle": "奶奶 (歌曲)",
+      "wikiKind": "single",
+      "nameKey": "奶奶"
+    },
+    {
       "browseId": "MPREb_vqiEselPkbu",
       "playlistId": "OLAK5uy_noQZZiKK3-i48fsHz2temX9Au5KnfL2lo",
       "title": "HAVE A NICE DAY",
@@ -2204,12 +2237,12 @@
           "playsText": "播放次數：228萬",
           "duration": 310,
           "byOther": false,
+          "nameKey": "奶奶",
           "credits": {
             "lyrics": "魏如萱、莊奴",
             "music": "魏如萱、林以樂",
             "arranger": "韓立康、錢威良"
-          },
-          "nameKey": "奶奶"
+          }
         },
         {
           "index": 2,
@@ -2220,12 +2253,12 @@
           "playsText": "播放次數：79萬",
           "duration": 261,
           "byOther": false,
+          "nameKey": "賣花的人",
           "credits": {
             "lyrics": "魏如萱、鮮于貞娥",
             "music": "鮮于貞娥",
             "arranger": "鮮于貞娥"
-          },
-          "nameKey": "賣花的人"
+          }
         },
         {
           "index": 3,
@@ -2236,12 +2269,12 @@
           "playsText": "播放次數：675萬",
           "duration": 264,
           "byOther": false,
+          "nameKey": "haveaniceday",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "韓立康"
-          },
-          "nameKey": "haveaniceday"
+          }
         },
         {
           "index": 4,
@@ -2252,12 +2285,12 @@
           "playsText": "播放次數：9.4萬",
           "duration": 217,
           "byOther": false,
+          "nameKey": "沒事不哭",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "黃少雍"
-          },
-          "nameKey": "沒事不哭"
+          }
         },
         {
           "index": 5,
@@ -2268,12 +2301,12 @@
           "playsText": "播放次數：202萬",
           "duration": 241,
           "byOther": false,
+          "nameKey": "我的菜",
           "credits": {
             "lyrics": "影子計劃",
             "music": "影子計劃",
             "arranger": "黃少雍"
-          },
-          "nameKey": "我的菜"
+          }
         },
         {
           "index": 6,
@@ -2284,12 +2317,12 @@
           "playsText": "播放次數：6.7萬",
           "duration": 213,
           "byOther": false,
+          "nameKey": "美人",
           "credits": {
             "lyrics": "李焯雄",
             "music": "陳建騏",
             "arranger": "黃少雍、韓立康"
-          },
-          "nameKey": "美人"
+          }
         },
         {
           "index": 7,
@@ -2300,12 +2333,12 @@
           "playsText": "播放次數：71萬",
           "duration": 259,
           "byOther": false,
+          "nameKey": "變形金剛",
           "credits": {
             "lyrics": "葛大為",
             "music": "魏如萱、韓立康",
             "arranger": "韓立康、魯綱宇"
-          },
-          "nameKey": "變形金剛"
+          }
         },
         {
           "index": 8,
@@ -2316,12 +2349,12 @@
           "playsText": "播放次數：13萬",
           "duration": 276,
           "byOther": false,
+          "nameKey": "大賞",
           "credits": {
             "lyrics": "葛大為",
             "music": "魏如萱",
             "arranger": "韓立康、葉賀璞、張瀚中、賴聖文、陳弘禮"
-          },
-          "nameKey": "大賞"
+          }
         },
         {
           "index": 9,
@@ -2332,12 +2365,12 @@
           "playsText": "播放次數：43萬",
           "duration": 320,
           "byOther": false,
+          "nameKey": "四月是適合說謊的日子",
           "credits": {
             "lyrics": "李睿哲",
             "music": "裘德",
             "arranger": "張峰棣"
-          },
-          "nameKey": "四月是適合說謊的日子"
+          }
         },
         {
           "index": 10,
@@ -2348,12 +2381,12 @@
           "playsText": "播放次數：150萬",
           "duration": 314,
           "byOther": false,
+          "nameKey": "很小很小",
           "credits": {
             "lyrics": "魏如萱",
             "music": "陳建騏",
             "arranger": "韓立康、張晁毓"
-          },
-          "nameKey": "很小很小"
+          }
         }
       ],
       "releaseDate": "2021-06-23",
@@ -2381,12 +2414,12 @@
           "playsText": "播放次數：674萬",
           "duration": 261,
           "byOther": false,
+          "nameKey": "haveaniceday",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "韓立康"
-          },
-          "nameKey": "haveaniceday"
+          }
         }
       ],
       "releaseDate": "2021-06-23",
@@ -2395,72 +2428,6 @@
       "wikiTitle": "Have a Nice Day (魏如萱專輯)",
       "wikiKind": null,
       "nameKey": "haveaniceday"
-    },
-    {
-      "browseId": "MPREb_HglTHgvH3vR",
-      "playlistId": "OLAK5uy_n6O3BK5Xgi4ECskOH8KMCkMlMP6xJcpOw",
-      "title": "四月是適合說謊的日子",
-      "albumArtist": "魏如萱",
-      "type": "Single",
-      "year": 2021,
-      "thumbnail": "https://yt3.googleusercontent.com/KwOB7AByE-04DchrMiusgoNvxN3LizytDMigzjz8hw0tifmr2CDYmc3vYs31BYPomRL9q3SfUnMR7yqY=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "四月是適合說謊的日子",
-          "artists": "",
-          "videoId": "t_6YjeiBbrA",
-          "plays": 430000,
-          "playsText": "播放次數：43萬",
-          "duration": 317,
-          "byOther": false,
-          "credits": {
-            "lyrics": "李睿哲",
-            "music": "裘德",
-            "arranger": "張峰棣"
-          },
-          "nameKey": "四月是適合說謊的日子"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "四月是適合說謊的日子"
-    },
-    {
-      "browseId": "MPREb_P1HLjQmkNr5",
-      "playlistId": "OLAK5uy_lo2xFeJptJNSDVjRM172mri26HdzVMS4g",
-      "title": "奶奶",
-      "albumArtist": "魏如萱",
-      "type": "Single",
-      "year": 2021,
-      "thumbnail": "https://yt3.googleusercontent.com/72rytfIbCGi7XjHP8vC8MFtSCQ8zxlNrw6YO8rh5lj3SfElGY0W9UtKGOIPmCkDlMJdEV_SI2_Vk7H0=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "奶奶",
-          "artists": "",
-          "videoId": "EEagk7Xs3i4",
-          "plays": 2280000,
-          "playsText": "播放次數：228萬",
-          "duration": 307,
-          "byOther": false,
-          "credits": {
-            "lyrics": "魏如萱、莊奴",
-            "music": "魏如萱、林以樂",
-            "arranger": "韓立康、錢威良"
-          },
-          "nameKey": "奶奶"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "奶奶"
     },
     {
       "browseId": "MPREb_qLKXrJiGWUb",
@@ -2483,11 +2450,11 @@
           "nameKey": "查有此人"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
+      "releaseDate": "2021-11-08",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "魏如萱",
+      "wikiKind": "single",
       "nameKey": "查有此人"
     },
     {
@@ -2511,12 +2478,45 @@
           "nameKey": "查有此人"
         }
       ],
+      "releaseDate": "2021-11-08",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "魏如萱",
+      "wikiKind": "single",
+      "nameKey": "查有此人"
+    },
+    {
+      "browseId": "MPREb_HglTHgvH3vR",
+      "playlistId": "OLAK5uy_n6O3BK5Xgi4ECskOH8KMCkMlMP6xJcpOw",
+      "title": "四月是適合說謊的日子",
+      "albumArtist": "魏如萱",
+      "type": "Single",
+      "year": 2021,
+      "thumbnail": "https://yt3.googleusercontent.com/KwOB7AByE-04DchrMiusgoNvxN3LizytDMigzjz8hw0tifmr2CDYmc3vYs31BYPomRL9q3SfUnMR7yqY=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "四月是適合說謊的日子",
+          "artists": "",
+          "videoId": "t_6YjeiBbrA",
+          "plays": 430000,
+          "playsText": "播放次數：43萬",
+          "duration": 317,
+          "byOther": false,
+          "nameKey": "四月是適合說謊的日子",
+          "credits": {
+            "lyrics": "李睿哲",
+            "music": "裘德",
+            "arranger": "張峰棣"
+          }
+        }
+      ],
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
       "wikiTitle": null,
       "wikiKind": null,
-      "nameKey": "查有此人"
+      "nameKey": "四月是適合說謊的日子"
     },
     {
       "browseId": "MPREb_EkveiiLvJ9h",
@@ -2539,11 +2539,11 @@
           "nameKey": "loveistheanswer"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
+      "releaseDate": "2022-12-22",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "魏如萱",
+      "wikiKind": "single",
       "nameKey": "loveistheanswer"
     },
     {
@@ -2603,6 +2603,39 @@
       "nameKey": "抉擇haveaniceday巡迴演唱會"
     },
     {
+      "browseId": "MPREb_w60XB7kPuMj",
+      "playlistId": "OLAK5uy_lOj91fyteYdyopSc7Bkj_4jN7JhcPuzJ8",
+      "title": "我在紐約打電話給你",
+      "albumArtist": "魏如萱",
+      "type": "Single",
+      "year": 2023,
+      "thumbnail": "https://yt3.googleusercontent.com/y6P4BpFmLbQQeGVLQMYqmKWxkoJQHj5LGPTsl5KI5qmgR_-xWvEqygz5ovIIIugiwCUj-g_g99qIeuY=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "我在紐約打電話給你",
+          "artists": "",
+          "videoId": "CUTlxi5DFBo",
+          "plays": 10770000,
+          "playsText": "播放次數：1077萬",
+          "duration": 237,
+          "byOther": false,
+          "nameKey": "我在紐約打電話給你",
+          "credits": {
+            "lyrics": "魏如萱",
+            "music": "魏如萱",
+            "arranger": "徐研培"
+          }
+        }
+      ],
+      "releaseDate": "2023-11-11",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "魏如萱",
+      "wikiKind": "single",
+      "nameKey": "我在紐約打電話給你"
+    },
+    {
       "browseId": "MPREb_Ct8ScTibTTN",
       "playlistId": "OLAK5uy_lRqYdiUFMsS36C8f1OKjnorvi1M324P-0",
       "title": "吼喲 -HAVE A NICE :DAY 巡迴演唱會 (Live)",
@@ -2648,8 +2681,8 @@
           "playsText": "播放次數：2.3萬",
           "duration": 243,
           "byOther": true,
-          "titleZh": "遲到 (Live)",
-          "nameKey": "遲到#live"
+          "nameKey": "遲到#live",
+          "titleZh": "遲到 (Live)"
         },
         {
           "index": 2,
@@ -2660,8 +2693,8 @@
           "playsText": "播放次數：76萬",
           "duration": 264,
           "byOther": true,
-          "titleZh": "給我一個理由忘記 (Live)",
-          "nameKey": "給我一個理由忘記#live"
+          "nameKey": "給我一個理由忘記#live",
+          "titleZh": "給我一個理由忘記 (Live)"
         },
         {
           "index": 3,
@@ -2672,8 +2705,8 @@
           "playsText": "播放次數：9.1萬",
           "duration": 271,
           "byOther": false,
-          "titleZh": "閃亮的日子 (Live)",
-          "nameKey": "閃亮的日子#live"
+          "nameKey": "閃亮的日子#live",
+          "titleZh": "閃亮的日子 (Live)"
         },
         {
           "index": 4,
@@ -2684,8 +2717,8 @@
           "playsText": "播放次數：10萬",
           "duration": 288,
           "byOther": true,
-          "titleZh": "愛 (Live)",
-          "nameKey": "愛#live"
+          "nameKey": "愛#live",
+          "titleZh": "愛 (Live)"
         },
         {
           "index": 5,
@@ -2746,8 +2779,8 @@
           "playsText": "播放次數：78萬",
           "duration": 256,
           "byOther": false,
-          "titleZh": "寂寞的戀人啊 (Live)",
-          "nameKey": "寂寞的戀人啊#live"
+          "nameKey": "寂寞的戀人啊#live",
+          "titleZh": "寂寞的戀人啊 (Live)"
         },
         {
           "index": 4,
@@ -2767,39 +2800,6 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "聲生不息寶島季"
-    },
-    {
-      "browseId": "MPREb_w60XB7kPuMj",
-      "playlistId": "OLAK5uy_lOj91fyteYdyopSc7Bkj_4jN7JhcPuzJ8",
-      "title": "我在紐約打電話給你",
-      "albumArtist": "魏如萱",
-      "type": "Single",
-      "year": 2023,
-      "thumbnail": "https://yt3.googleusercontent.com/y6P4BpFmLbQQeGVLQMYqmKWxkoJQHj5LGPTsl5KI5qmgR_-xWvEqygz5ovIIIugiwCUj-g_g99qIeuY=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "我在紐約打電話給你",
-          "artists": "",
-          "videoId": "CUTlxi5DFBo",
-          "plays": 10770000,
-          "playsText": "播放次數：1077萬",
-          "duration": 237,
-          "byOther": false,
-          "credits": {
-            "lyrics": "魏如萱",
-            "music": "魏如萱",
-            "arranger": "徐研培"
-          },
-          "nameKey": "我在紐約打電話給你"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "我在紐約打電話給你"
     },
     {
       "browseId": "MPREb_ygOZBxCwtMv",
@@ -2875,12 +2875,12 @@
           "playsText": "播放次數：9.7萬",
           "duration": 260,
           "byOther": false,
+          "nameKey": "怪奇的珍珠",
           "credits": {
             "lyrics": "李焯雄",
             "music": "魏如萱",
             "arranger": "韓立康、魯綱宇、陳建騏、魏如萱、黃少雍"
-          },
-          "nameKey": "怪奇的珍珠"
+          }
         },
         {
           "index": 2,
@@ -2902,12 +2902,12 @@
           "playsText": "播放次數：10萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "劣根",
           "credits": {
             "lyrics": "葛大為",
             "music": "魏如萱、陳建騏",
             "arranger": "Jackie Yu、@White Music、Joe@HEY JOE TRIO"
-          },
-          "nameKey": "劣根"
+          }
         },
         {
           "index": 4,
@@ -2918,12 +2918,12 @@
           "playsText": "播放次數：11萬",
           "duration": 227,
           "byOther": false,
+          "nameKey": "惡口",
           "credits": {
             "lyrics": "葛大為",
             "music": "魏如萱、黃少雍、吳獻",
             "arranger": "黃少雍"
-          },
-          "nameKey": "惡口"
+          }
         },
         {
           "index": 5,
@@ -2934,12 +2934,12 @@
           "playsText": "播放次數：5.5萬",
           "duration": 236,
           "byOther": false,
+          "nameKey": "例如離開",
           "credits": {
             "lyrics": "葛大為",
             "music": "魏如萱",
             "arranger": "黃少雍"
-          },
-          "nameKey": "例如離開"
+          }
         },
         {
           "index": 6,
@@ -2961,12 +2961,12 @@
           "playsText": "播放次數：37萬",
           "duration": 256,
           "byOther": false,
+          "nameKey": "紙黏土",
           "credits": {
             "lyrics": "葛大為",
             "music": "吳獻、黃國晏",
             "arranger": "黃國晏、吳獻"
-          },
-          "nameKey": "紙黏土"
+          }
         },
         {
           "index": 8,
@@ -2977,12 +2977,12 @@
           "playsText": "播放次數：22萬",
           "duration": 329,
           "byOther": false,
+          "nameKey": "好像好像",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "吳加恩、彭昱凱、@以恩音樂工作室"
-          },
-          "nameKey": "好像好像"
+          }
         },
         {
           "index": 9,
@@ -2993,12 +2993,12 @@
           "playsText": "播放次數：140萬",
           "duration": 337,
           "byOther": false,
+          "nameKey": "你還是你嗎",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "于京延（阿滾）"
-          },
-          "nameKey": "你還是你嗎"
+          }
         },
         {
           "index": 10,
@@ -3009,12 +3009,12 @@
           "playsText": "播放次數：6.2萬",
           "duration": 213,
           "byOther": false,
+          "nameKey": "哎呀哎呀",
           "credits": {
             "lyrics": "魏如萱",
             "music": "魏如萱",
             "arranger": "韓立康、蔣希夷"
-          },
-          "nameKey": "哎呀哎呀"
+          }
         }
       ],
       "releaseDate": "2024-12-24",
@@ -3081,12 +3081,12 @@
           "playsText": "播放次數：11萬",
           "duration": 227,
           "byOther": false,
+          "nameKey": "惡口",
           "credits": {
             "lyrics": "葛大為",
             "music": "魏如萱、黃少雍、吳獻",
             "arranger": "黃少雍"
-          },
-          "nameKey": "惡口"
+          }
         }
       ],
       "releaseDate": null,

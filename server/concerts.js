@@ -229,6 +229,26 @@ function withHeader({ header, rows }) {
   return looksLikeHeader ? { header: first, rows: rows.slice(1) } : { header, rows }
 }
 
+/**
+ * 依折疊區塊標題切段（「{{hideH|2002 單身日誌（2場）}}」後面接場次表，標題就是演唱會名稱）。
+ * 只看表格外面的標題；表格裡面「{{HideH|歌單}}」這種是收合歌單，不能切，否則表格會斷掉。
+ */
+function collapsedChunks(text) {
+  const chunks = [{ title: null, lines: [] }]
+  let depth = 0
+  for (const line of text.split('\n')) {
+    const m = depth === 0 && line.match(/^\s*\{\{\s*(?:hideH|hidden begin|collapse top|cot)\s*\|\s*(?:title\s*=\s*)?([^|{}]+?)\s*(?:\|[^{}]*)?\}\}/i)
+    if (m && !/歌單|歌单|曲目|setlist|嘉賓|嘉宾/i.test(m[1])) {
+      chunks.push({ title: m[1], lines: [] })
+      continue
+    }
+    if (/^\s*\{\|/.test(line)) depth++
+    if (/^\s*\|\}/.test(line)) depth = Math.max(0, depth - 1)
+    chunks.at(-1).lines.push(line)
+  }
+  return chunks.map((c) => ({ title: c.title, text: c.lines.join('\n') }))
+}
+
 function parseTourList(text) {
   const tours = []
   for (const line of text.split('\n')) {
@@ -525,12 +545,9 @@ export async function fetchConcerts(artistConfig, log = () => {}) {
         page: mainLink ? toTW(mainLink) : null,
       }
       if (context.name && !CONCERT_RE.test(sec.path.at(-1) ?? '') && !/(?:19|20)\d{2}/.test(sec.path.at(-1) ?? '')) context.name = null
-      // 折疊區塊的標題也是演唱會名稱（「{{hideH|2002 單身日誌（2場）}}」後面接場次表）
-      const chunks = sec.text.split(/\{\{\s*(?:hideH|hidden begin|collapse top|cot)\s*\|\s*(?:title\s*=\s*)?([^|{}]+?)\s*(?:\|[^{}]*)?\}\}/i)
-      for (let c = 0; c < chunks.length; c += 2) {
-        const title = c > 0 ? cleanName(chunks[c - 1]) : null
-        const ctx = title ? { name: title, page: null } : context
-        for (const table of readTables(chunks[c])) {
+      for (const chunk of collapsedChunks(sec.text)) {
+        const ctx = chunk.title ? { name: cleanName(chunk.title), page: null } : context
+        for (const table of readTables(chunk.text)) {
           const { header, rows } = withHeader(table)
           if (header) found.push(...parseTourTable(header, rows, ctx))
         }

@@ -13,45 +13,6 @@
   },
   "albums": [
     {
-      "browseId": "MPREb_dcOViHWdpMw",
-      "playlistId": "OLAK5uy_kquO32uATOZzzll1Uz_Byl9HBADn25coM",
-      "title": "WE CAN MAKE IT!",
-      "albumArtist": "錦繡二重唱",
-      "type": "Single",
-      "year": 1998,
-      "thumbnail": "https://yt3.googleusercontent.com/lzGHjhV53Labr3AJ-P7YxEmU0b3iDw7I2o5M4o26MxF7_MQU0RG57CHnphPHz-CptGKqNecoylxNVLa_=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "星期天不要見面",
-          "artists": "",
-          "videoId": "XooWOawzudY",
-          "plays": 120000,
-          "playsText": "播放次數：12萬",
-          "duration": 268,
-          "byOther": false,
-          "nameKey": "星期天不要見面"
-        },
-        {
-          "index": 2,
-          "title": "單飛",
-          "artists": "",
-          "videoId": "-vLrPjNsyN0",
-          "plays": 160000,
-          "playsText": "播放次數：16萬",
-          "duration": 272,
-          "byOther": false,
-          "nameKey": "單飛"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "wecanmakeit"
-    },
-    {
       "browseId": "MPREb_zRA7J4flvDM",
       "playlistId": "OLAK5uy_nWsjb6R63nRhUHegRRXaOC2H4HD5pEEWY",
       "title": "情比姐妹深",
@@ -171,12 +132,51 @@
           "nameKey": "錦繡前程"
         }
       ],
+      "releaseDate": "1998-06-25",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "錦繡二重唱",
+      "wikiKind": null,
+      "nameKey": "情比姐妹深"
+    },
+    {
+      "browseId": "MPREb_dcOViHWdpMw",
+      "playlistId": "OLAK5uy_kquO32uATOZzzll1Uz_Byl9HBADn25coM",
+      "title": "WE CAN MAKE IT!",
+      "albumArtist": "錦繡二重唱",
+      "type": "Single",
+      "year": 1998,
+      "thumbnail": "https://yt3.googleusercontent.com/lzGHjhV53Labr3AJ-P7YxEmU0b3iDw7I2o5M4o26MxF7_MQU0RG57CHnphPHz-CptGKqNecoylxNVLa_=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "星期天不要見面",
+          "artists": "",
+          "videoId": "XooWOawzudY",
+          "plays": 120000,
+          "playsText": "播放次數：12萬",
+          "duration": 268,
+          "byOther": false,
+          "nameKey": "星期天不要見面"
+        },
+        {
+          "index": 2,
+          "title": "單飛",
+          "artists": "",
+          "videoId": "-vLrPjNsyN0",
+          "plays": 160000,
+          "playsText": "播放次數：16萬",
+          "duration": 272,
+          "byOther": false,
+          "nameKey": "單飛"
+        }
+      ],
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
       "wikiTitle": null,
       "wikiKind": null,
-      "nameKey": "情比姐妹深"
+      "nameKey": "wecanmakeit"
     },
     {
       "browseId": "MPREb_UgzXWIJ7OgT",
@@ -298,10 +298,10 @@
           "nameKey": "灰色的雲"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
+      "releaseDate": "1999-03-26",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "錦繡二重唱",
       "wikiKind": null,
       "nameKey": "我的superlife"
     },
@@ -808,8 +808,8 @@
           "playsText": "播放次數：3751",
           "duration": 216,
           "byOther": false,
-          "titleZh": "早安臺北",
-          "nameKey": "早安臺北"
+          "nameKey": "早安臺北",
+          "titleZh": "早安臺北"
         },
         {
           "index": 14,
@@ -1148,10 +1148,10 @@
           "nameKey": "我們的幸福"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
+      "releaseDate": "2007-05-07",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "錦繡二重唱",
       "wikiKind": null,
       "nameKey": "20年後的幸福"
     },

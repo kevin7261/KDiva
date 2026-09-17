@@ -1,7 +1,9 @@
 // 金曲獎（流行音樂類）入圍與得獎紀錄：從中文 Wikipedia「第 N 屆金曲獎」條目的入圍名單表格整理。
 // 每個獎項一個章節，表格裡有「入圍者／演唱」欄；得獎那一列有金色圓點圖示（Yellow Dots Golden、Gold circle）。
 // 沒有演唱者欄的獎項（早期的年度歌曲獎只列歌名與專輯）比對不到歌手，不收。
-import { fetchPages, readTables, toPlain, normalizeTitle, nameToTW } from './wiki.js'
+import { readFile } from 'node:fs/promises'
+import { fetchPages, readTables, toPlain, normalizeTitle, nameToTW, hasCJK } from './wiki.js'
+import { dataFile } from './config.js'
 
 const WIN_RE = /Yellow[ _]Dots[ _]Golden|Gold[ _]circle|Golden[ _]dot|金色圓點|★/i
 const PERSON_HEAD = /入圍者|入圍人|入圍團體|入圍樂團|演唱者|演唱歌手|演唱|歌手|演出者|得獎者|樂團|團體|作曲|作詞|編曲|製作人/
@@ -40,7 +42,7 @@ function ceremonyYear(wikitext) {
   return Number(box ?? lead) || null
 }
 
-/** 解析一屆：[{ category, people: 原始格子, work, won }] */
+/** 解析一屆：[{ category, people: 原始格子（可能沒有）, work, album, won }] */
 export function parseCeremony(wikitext) {
   const entries = []
   for (const sec of sections(wikitext)) {
@@ -49,15 +51,19 @@ export function parseCeremony(wikitext) {
     for (const { header, rows } of readTables(sec.text)) {
       if (!header) continue
       const personCol = header.findIndex((h) => PERSON_HEAD.test(h) && !/報名|頒獎|單位|公司/.test(h))
-      if (personCol < 0) continue
-      const workCol = header.findIndex((h, i) => i !== personCol && WORK_HEAD.test(h) && !/報名|頒獎|單位|公司/.test(h))
+      const workCol = header.findIndex((h, i) => i !== personCol && WORK_HEAD.test(h) && !/報名|頒獎|單位|公司|收錄/.test(h))
+      // 「收錄專輯」欄（年度歌曲獎）：比對作品是哪位歌手唱的時一起用
+      const albumCol = header.findIndex((h, i) => i !== workCol && /收錄專輯|收录专辑/.test(h))
+      if (personCol < 0 && workCol < 0) continue
       for (const row of rows) {
-        const people = row[personCol]
-        if (people == null || !plain(people)) continue
+        const people = personCol >= 0 ? row[personCol] : null
+        const work = workCol >= 0 && row[workCol] != null ? plain(row[workCol]) : ''
+        if (!plain(people ?? '') && !work) continue
         entries.push({
           category: sec.title.replace(/\s*[（(]金曲獎[）)]\s*/, ''),
-          people,
-          work: workCol >= 0 && row[workCol] != null ? plain(row[workCol]) : '',
+          people: people ?? '',
+          work,
+          album: albumCol >= 0 && row[albumCol] != null ? plain(row[albumCol]) : '',
           // 特別貢獻獎直接頒發，沒有入圍階段
           won: /特別貢獻獎|^特別獎/.test(sec.title) || row.some((c) => WIN_RE.test(String(c))),
         })
@@ -79,6 +85,39 @@ function namesIn(raw) {
   return [...names].filter(Boolean).map((n) => normalizeTitle(n.replace(/\s*[（(][^）)]*[）)]\s*$/, ''))).filter(Boolean)
 }
 
+/** 作品名稱比對鍵：去掉括號註記與書名號 */
+const workKey = (t) => normalizeTitle(String(t).replace(/[（(【\[][^）)】\]]*[）)】\]]/g, '').replace(/[《》〈〉「」]/g, ''))
+
+/** 作品格子 → { songs, albums }：〈〉是歌、《》是專輯；沒有書名號時兩種都試 */
+function workRefs(work, album) {
+  const songs = [...work.matchAll(/〈([^〉]+)〉/g)].map((m) => workKey(m[1]))
+  const albums = [...`${work} ${album}`.matchAll(/《([^》]+)》/g)].map((m) => workKey(m[1]))
+  if (!songs.length && !albums.length && work) {
+    const k = workKey(work)
+    return { songs: [k], albums: [k], loose: true }
+  }
+  return { songs, albums, loose: false }
+}
+
+/** 某位歌手唱過的歌與專輯：比對鍵 → 發行年份（取最早） */
+async function catalogOf(artist) {
+  const raw = await readFile(dataFile(artist.slug), 'utf8').then(JSON.parse, () => null)
+  const songs = new Map()
+  const albums = new Map()
+  const put = (map, key, year) => key.length >= 2 && year && (!map.has(key) || year < map.get(key)) && map.set(key, year)
+  for (const a of raw?.albums ?? []) {
+    const year = Number(a.releaseDate?.slice(0, 4)) || a.year
+    for (const part of String(a.titleZh ?? a.title).split(/\s+-\s+/)) put(albums, workKey(part), year)
+    for (const t of a.tracks) {
+      if (t.byOther) continue
+      for (const part of [t.titleZh, ...String(t.title).split(/\s+-\s+/)].filter(Boolean)) {
+        if (hasCJK(part) || /^[\x00-\x7f]+$/.test(part)) put(songs, workKey(part), year)
+      }
+    }
+  }
+  return { songs, albums }
+}
+
 export async function fetchAwards(artists, log = () => {}) {
   const titles = Array.from({ length: 40 }, (_, i) => `第${i + 1}屆金曲獎`)
   const pages = await fetchPages(titles)
@@ -88,7 +127,18 @@ export async function fetchAwards(artists, log = () => {}) {
       .filter(Boolean)
       .map((n) => normalizeTitle(n.replace(/\s*[（(][^）)]*[）)]\s*$/, '')))
       .filter(Boolean)
-  const keys = artists.map((a) => ({ slug: a.slug, keys: new Set(keysOf(a)) }))
+  const keys = []
+  for (const a of artists) keys.push({ slug: a.slug, keys: new Set(keysOf(a)), catalog: await catalogOf(a) })
+  // 作品是這位歌手唱的：頒獎年份在發行後 3 年內（金曲獎評的是前一年的作品）
+  const sang = (catalog, refs, year) => {
+    const recent = (map, k) => map.has(k) && (!year || (year >= map.get(k) && year - map.get(k) <= 3))
+    const songHit = refs.songs.some((k) => recent(catalog.songs, k))
+    const albumHit = refs.albums.some((k) => recent(catalog.albums, k))
+    if (refs.loose) return songHit || albumHit
+    // 同時寫了歌與專輯：專輯也要是他的
+    if (refs.songs.length && refs.albums.length) return albumHit && (songHit || !catalog.songs.size)
+    return refs.songs.length ? songHit : albumHit
+  }
   let total = 0
   for (const { title, content } of pages) {
     const edition = Number(title.match(/第(\d+)屆/)?.[1])
@@ -97,13 +147,18 @@ export async function fetchAwards(artists, log = () => {}) {
     const entries = parseCeremony(content)
     total += entries.length
     for (const e of entries) {
-      const names = namesIn(e.people)
-      for (const { slug, keys: k } of keys) {
-        if (!names.some((n) => k.has(n))) continue
+      const names = e.people ? namesIn(e.people) : []
+      const refs = workRefs(e.work, e.album)
+      for (const { slug, keys: k, catalog } of keys) {
+        const byName = names.some((n) => k.has(n))
+        // 入圍者不是他（作詞、作曲、編曲人，或沒有演唱者欄的年度歌曲獎），但作品是他唱的，也算
+        const byWork = !byName && (e.work || e.album) && sang(catalog, refs, year)
+        if (!byName && !byWork) continue
         const list = byArtist[slug]
         // 同一屆同一獎項同一作品只記一次
         if (list.some((x) => x.edition === edition && x.category === e.category && x.work === e.work)) continue
-        list.push({ edition, year, category: e.category, work: e.work, won: e.won, with: plain(e.people) })
+        const work = e.album && !e.work.includes(e.album) ? `${e.work}${e.album}` : e.work
+        list.push({ edition, year, category: e.category, work, won: e.won, with: plain(e.people), byWork: !!byWork || undefined })
       }
     }
   }

@@ -134,7 +134,7 @@
       ],
       "releaseDate": "1995-08-01",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "table",
       "wikiTitle": "無印良品 (樂團)",
       "wikiKind": null,
       "nameKey": "掌心"
@@ -261,7 +261,7 @@
       ],
       "releaseDate": "1995-08-01",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "table",
       "wikiTitle": "無印良品 (樂團)",
       "wikiKind": null,
       "nameKey": "掌心"
@@ -399,7 +399,7 @@
       ],
       "releaseDate": "1996-05-01",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "table",
       "wikiTitle": "無印良品 (樂團)",
       "wikiKind": null,
       "nameKey": "多心"
@@ -537,7 +537,7 @@
       ],
       "releaseDate": "1997-05-01",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "table",
       "wikiTitle": "無印良品 (樂團)",
       "wikiKind": null,
       "nameKey": "有你在身旁"
@@ -686,7 +686,7 @@
       ],
       "releaseDate": "1997-08-01",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "table",
       "wikiTitle": "無印良品 (樂團)",
       "wikiKind": "compilation",
       "nameKey": "胡思亂想"
@@ -996,11 +996,11 @@
           "playsText": "播放次數：2.4萬",
           "duration": 246,
           "byOther": true,
+          "nameKey": "雨過天晴",
           "credits": {
             "lyrics": "李宗盛",
             "music": "潘協慶"
-          },
-          "nameKey": "雨過天晴"
+          }
         },
         {
           "index": 3,
@@ -1022,11 +1022,11 @@
           "playsText": "播放次數：210萬",
           "duration": 236,
           "byOther": false,
+          "nameKey": "想見你",
           "credits": {
             "lyrics": "瑞業/于光中",
             "music": "光良"
-          },
-          "nameKey": "想見你"
+          }
         },
         {
           "index": 5,
@@ -1037,11 +1037,11 @@
           "playsText": "播放次數：75萬",
           "duration": 252,
           "byOther": true,
+          "nameKey": "傷心地鐵",
           "credits": {
             "lyrics": "李宗盛",
             "music": "光良"
-          },
-          "nameKey": "傷心地鐵"
+          }
         },
         {
           "index": 6,
@@ -1052,11 +1052,11 @@
           "playsText": "播放次數：69萬",
           "duration": 259,
           "byOther": true,
+          "nameKey": "雨過天晴",
           "credits": {
             "lyrics": "李宗盛",
             "music": "潘協慶"
-          },
-          "nameKey": "雨過天晴"
+          }
         },
         {
           "index": 7,
@@ -1067,11 +1067,11 @@
           "playsText": "播放次數：12萬",
           "duration": 264,
           "byOther": true,
+          "nameKey": "沒你的日子",
           "credits": {
             "lyrics": "瑞業",
             "music": "光良"
-          },
-          "nameKey": "沒你的日子"
+          }
         },
         {
           "index": 8,
@@ -1082,11 +1082,11 @@
           "playsText": "播放次數：30萬",
           "duration": 252,
           "byOther": true,
+          "nameKey": "起床",
           "credits": {
             "lyrics": "王裕宗",
             "music": "品冠"
-          },
-          "nameKey": "起床"
+          }
         },
         {
           "index": 9,
@@ -1097,11 +1097,11 @@
           "playsText": "播放次數：175萬",
           "duration": 274,
           "byOther": false,
+          "nameKey": "身邊",
           "credits": {
             "lyrics": "于光中/李宗盛",
             "music": "品冠"
-          },
-          "nameKey": "身邊"
+          }
         },
         {
           "index": 10,
@@ -1112,11 +1112,11 @@
           "playsText": "播放次數：24萬",
           "duration": 289,
           "byOther": true,
+          "nameKey": "恍然大悟",
           "credits": {
             "lyrics": "陳沒/李宗盛",
             "music": "品冠"
-          },
-          "nameKey": "恍然大悟"
+          }
         },
         {
           "index": 11,
@@ -1127,11 +1127,11 @@
           "playsText": "播放次數：1.1萬",
           "duration": 224,
           "byOther": true,
+          "nameKey": "illletherknow",
           "credits": {
             "lyrics": "Wink",
             "music": "陳建寧"
-          },
-          "nameKey": "illletherknow"
+          }
         },
         {
           "index": 12,
@@ -1142,11 +1142,11 @@
           "playsText": "播放次數：1.8萬",
           "duration": 253,
           "byOther": true,
+          "nameKey": "說個明白",
           "credits": {
             "lyrics": "毛毛",
             "music": "品冠"
-          },
-          "nameKey": "說個明白"
+          }
         },
         {
           "index": 13,
@@ -1157,11 +1157,11 @@
           "playsText": "播放次數：2.7萬",
           "duration": 248,
           "byOther": true,
+          "nameKey": "想飛越",
           "credits": {
             "lyrics": "瑞業",
             "music": "光良"
-          },
-          "nameKey": "想飛越"
+          }
         }
       ],
       "releaseDate": "1999-02-04",
@@ -1211,11 +1211,11 @@
           "playsText": "播放次數：209萬",
           "duration": 237,
           "byOther": false,
+          "nameKey": "想見你",
           "credits": {
             "lyrics": "瑞業/于光中",
             "music": "光良"
-          },
-          "nameKey": "想見你"
+          }
         },
         {
           "index": 4,
@@ -1237,11 +1237,11 @@
           "playsText": "播放次數：75萬",
           "duration": 253,
           "byOther": false,
+          "nameKey": "傷心地鐵",
           "credits": {
             "lyrics": "李宗盛",
             "music": "光良"
-          },
-          "nameKey": "傷心地鐵"
+          }
         },
         {
           "index": 6,
@@ -1252,11 +1252,11 @@
           "playsText": "播放次數：175萬",
           "duration": 275,
           "byOther": false,
+          "nameKey": "身邊",
           "credits": {
             "lyrics": "于光中/李宗盛",
             "music": "品冠"
-          },
-          "nameKey": "身邊"
+          }
         },
         {
           "index": 7,
@@ -1471,11 +1471,11 @@
           "playsText": "播放次數：9375",
           "duration": 237,
           "byOther": false,
+          "nameKey": "身邊",
           "credits": {
             "lyrics": "于光中/李宗盛",
             "music": "品冠"
-          },
-          "nameKey": "身邊"
+          }
         },
         {
           "index": 9,
@@ -1497,11 +1497,11 @@
           "playsText": "播放次數：7117",
           "duration": 112,
           "byOther": false,
+          "nameKey": "恍然大悟",
           "credits": {
             "lyrics": "陳沒/李宗盛",
             "music": "品冠"
-          },
-          "nameKey": "恍然大悟"
+          }
         },
         {
           "index": 11,
@@ -1523,11 +1523,11 @@
           "playsText": "播放次數：6247",
           "duration": 134,
           "byOther": false,
+          "nameKey": "說個明白",
           "credits": {
             "lyrics": "毛毛",
             "music": "品冠"
-          },
-          "nameKey": "說個明白"
+          }
         },
         {
           "index": 13,
@@ -1571,11 +1571,11 @@
           "playsText": "播放次數：1.3萬",
           "duration": 250,
           "byOther": false,
+          "nameKey": "傷心地鐵",
           "credits": {
             "lyrics": "李宗盛",
             "music": "光良"
-          },
-          "nameKey": "傷心地鐵"
+          }
         },
         {
           "index": 17,
@@ -1630,11 +1630,11 @@
           "playsText": "播放次數：8294",
           "duration": 243,
           "byOther": false,
+          "nameKey": "雨過天晴",
           "credits": {
             "lyrics": "李宗盛",
             "music": "潘協慶"
-          },
-          "nameKey": "雨過天晴"
+          }
         },
         {
           "index": 22,
@@ -1678,11 +1678,11 @@
           "playsText": "播放次數：5091",
           "duration": 240,
           "byOther": false,
+          "nameKey": "起床",
           "credits": {
             "lyrics": "王裕宗",
             "music": "品冠"
-          },
-          "nameKey": "起床"
+          }
         },
         {
           "index": 26,
@@ -1781,11 +1781,11 @@
           "playsText": "播放次數：8098",
           "duration": 223,
           "byOther": false,
+          "nameKey": "想見你",
           "credits": {
             "lyrics": "瑞業/于光中",
             "music": "光良"
-          },
-          "nameKey": "想見你"
+          }
         },
         {
           "index": 35,
