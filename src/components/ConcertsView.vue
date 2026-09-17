@@ -41,10 +41,12 @@ const period = (t) => (t.end && formatDay(t.end) !== formatDay(t.start) ? `${for
 const brief = (items, n = 6) => (items.length > n ? `${items.slice(0, n).join('、')} 等 ${items.length} 個` : items.join('、'))
 const wikiUrl = (page) => `https://zh.wikipedia.org/wiki/${encodeURIComponent(page)}`
 
-function toggle(set, t) {
-  const next = new Set(set.value)
+// 展開場次表／地圖（模板裡的 ref 會被自動解開，所以用名稱指定）
+const panels = { open, maps }
+function toggle(name, t) {
+  const next = new Set(panels[name].value)
   next.has(t) ? next.delete(t) : next.add(t)
-  set.value = next
+  panels[name].value = next
 }
 const located = (t) => t.shows.some((s) => s.lat != null)
 </script>
@@ -96,10 +98,10 @@ const located = (t) => t.shows.some((s) => s.lat != null)
           </div>
         </dl>
         <div v-if="t.shows.length" class="more">
-          <button v-if="located(t)" class="link" :aria-expanded="maps.has(t)" @click="toggle(maps, t)">
+          <button v-if="located(t)" class="link" :aria-expanded="maps.has(t)" @click="toggle('maps', t)">
             {{ maps.has(t) ? '收起地圖' : '看巡演地圖' }}
           </button>
-          <button class="link" :aria-expanded="open.has(t)" @click="toggle(open, t)">
+          <button class="link" :aria-expanded="open.has(t)" @click="toggle('open', t)">
             {{ open.has(t) ? '收起場次' : `看 ${t.shows.length} 場場次` }}
           </button>
         </div>

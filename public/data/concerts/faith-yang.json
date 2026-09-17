@@ -1,6 +1,6 @@
 {
   "slug": "faith-yang",
-  "fetchedAt": "2026-09-17T12:29:29.438Z",
+  "fetchedAt": "2026-09-17T13:05:53.392Z",
   "wiki": "楊乃文",
   "bio": {
     "born": {
@@ -38,7 +38,10 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "Champagne 3（松德路171號B1）"
+          "venue": "Champagne 3（松德路171號B1）",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -68,14 +71,20 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北The Wall"
+          "venue": "臺北The Wall",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2008-12-20",
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北The Wall"
+          "venue": "臺北The Wall",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -105,7 +114,10 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         }
       ]
     },
@@ -135,14 +147,20 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "Legacy Taipei 傳 音樂展演空間"
+          "venue": "Legacy Taipei 傳 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2013-08-31",
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "Legacy Taipei 傳 音樂展演空間"
+          "venue": "Legacy Taipei 傳 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -178,28 +196,40 @@
           "precision": "day",
           "region": "",
           "city": "上海",
-          "venue": "MAO Live House"
+          "venue": "MAO Live House",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
         },
         {
           "date": "2014-08-09",
           "precision": "day",
           "region": "",
           "city": "北京",
-          "venue": "糖果TANGO"
+          "venue": "糖果TANGO",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
         },
         {
           "date": "2014-09-20",
           "precision": "day",
           "region": "",
           "city": "長沙",
-          "venue": "紅咖俱樂部"
+          "venue": "紅咖俱樂部",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "city"
         },
         {
           "date": "2014-10-12",
           "precision": "day",
           "region": "",
           "city": "成都",
-          "venue": "AMC Live House"
+          "venue": "AMC Live House",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         }
       ]
     },
@@ -229,7 +259,10 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "南港展覽館"
+          "venue": "南港展覽館",
+          "lat": 25.0557,
+          "lon": 121.617,
+          "geo": "venue"
         }
       ]
     },
@@ -259,7 +292,10 @@
           "precision": "day",
           "region": "",
           "city": "北京",
-          "venue": "國圖藝術中心"
+          "venue": "國圖藝術中心",
+          "lat": 39.94283,
+          "lon": 116.31742,
+          "geo": "venue"
         }
       ]
     },
@@ -291,14 +327,20 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2015-10-08",
           "precision": "day",
           "region": "",
           "city": "臺中",
-          "venue": "Legacy Taichung"
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
         }
       ]
     },
@@ -336,35 +378,50 @@
           "precision": "day",
           "region": "",
           "city": "天津",
-          "venue": "天津人民體育館"
+          "venue": "天津人民體育館",
+          "lat": 39.146666666667,
+          "lon": 117.20555555556,
+          "geo": "city"
         },
         {
           "date": "2018-10-13",
           "precision": "day",
           "region": "",
           "city": "福州",
-          "venue": "福州市體育館"
+          "venue": "福州市體育館",
+          "lat": 26.076944444444,
+          "lon": 119.29166666667,
+          "geo": "city"
         },
         {
           "date": "2018-10-17",
           "precision": "day",
           "region": "",
           "city": "重慶",
-          "venue": "江南體育館"
+          "venue": "江南體育館",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
         },
         {
           "date": "2018-10-19",
           "precision": "day",
           "region": "",
           "city": "武漢",
-          "venue": "中國文化博覽中心"
+          "venue": "中國文化博覽中心",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
         },
         {
           "date": "2018-10-21",
           "precision": "day",
           "region": "",
           "city": "南京",
-          "venue": "奧體中心體育館副館"
+          "venue": "奧體中心體育館副館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
         }
       ]
     },
@@ -394,12 +451,15 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
     {
-      "name": "繆斯Muse演唱會",
+      "name": "繆斯Muse巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
@@ -432,35 +492,50 @@
           "precision": "day",
           "region": "",
           "city": "廣州",
-          "venue": "廣州體育館2號館"
+          "venue": "廣州體育館2號館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
         },
         {
           "date": "2023-12-16",
           "precision": "day",
           "region": "",
           "city": "上海",
-          "venue": "上海國家會展中心 虹館EH"
+          "venue": "上海國家會展中心 虹館EH",
+          "lat": 31.1916,
+          "lon": 121.2974,
+          "geo": "venue"
         },
         {
           "date": "2024-01-05",
           "precision": "day",
           "region": "",
           "city": "成都",
-          "venue": "成都金融城演藝中心"
+          "venue": "成都金融城演藝中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2024-03-23",
           "precision": "day",
           "region": "",
           "city": "武漢",
-          "venue": "洪山體育館"
+          "venue": "洪山體育館",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
         },
         {
           "date": "2024-05-01",
           "precision": "day",
           "region": "",
           "city": "北京",
-          "venue": "北京展覽館劇場"
+          "venue": "北京展覽館劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
         }
       ]
     },
@@ -490,7 +565,10 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北流行音樂中心"
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
         }
       ]
     }

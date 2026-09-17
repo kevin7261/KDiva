@@ -1,0 +1,1871 @@
+{
+  "slug": "accusefive",
+  "fetchedAt": "2026-09-17T13:09:50.912Z",
+  "wiki": "告五人",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": {
+      "date": "2017-01-01",
+      "precision": "year"
+    },
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "告五人樂團，溫水煮青蛙－Friday_Night_Live",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-12-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-12-06",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺灣 臺北市"
+      ],
+      "venues": [
+        "PIPE Live Music"
+      ],
+      "shows": []
+    },
+    {
+      "name": "告五人首場售票演出",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-04-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-04-29",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺灣 臺北市"
+      ],
+      "venues": [
+        "公館河岸留言"
+      ],
+      "shows": []
+    },
+    {
+      "name": "迷霧之子巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2017-10-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-12-22",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "臺灣 臺北市",
+        "臺灣 高雄市"
+      ],
+      "cities": [],
+      "venues": [
+        "小地方展演空間",
+        "高雄水星酒館",
+        "西門河岸留言"
+      ],
+      "shows": [
+        {
+          "date": "2017-10-14",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "小地方展演空間"
+        },
+        {
+          "date": "2017-11-18",
+          "precision": "day",
+          "region": "臺灣 高雄市",
+          "city": "",
+          "venue": "高雄水星酒館"
+        },
+        {
+          "date": "2017-12-22",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "西門河岸留言"
+        }
+      ]
+    },
+    {
+      "name": "中場休息",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-04-15",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-04-15",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺灣 臺北市"
+      ],
+      "venues": [
+        "海邊的卡夫卡"
+      ],
+      "shows": []
+    },
+    {
+      "name": "臺南登入",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-09-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-09-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺灣 臺南市"
+      ],
+      "venues": [
+        "TCRC Livehouse"
+      ],
+      "shows": []
+    },
+    {
+      "name": "島嶼雛形巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2018-12-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-09-15",
+        "precision": "day"
+      },
+      "showCount": 13,
+      "regions": [
+        "臺灣 臺北市",
+        "臺灣 宜蘭縣",
+        "臺灣 高雄市",
+        "臺灣 臺中市",
+        "中國大陸 浙江省杭州市",
+        "中國大陸 江蘇省南京市",
+        "中國大陸 上海市",
+        "中國大陸 廣東省廣州市",
+        "中國大陸 廣東省深圳市",
+        "中國大陸 四川省成都市",
+        "中國大陸 湖北省武漢市",
+        "中國大陸 北京市"
+      ],
+      "cities": [],
+      "venues": [
+        "Legacy Max Taipei",
+        "宜蘭童話公園",
+        "SPERO高雄海流館",
+        "Legacy Taichung",
+        "Legacy 傳 音樂展演空間",
+        "酒球會",
+        "稻香音樂空間",
+        "VasLive瓦肆現場",
+        "MAOLivehouse廣州",
+        "深圳 HOULIVE深圳",
+        "成都 CH8冇獨空間（完美店）",
+        "武漢 L7音樂現場",
+        "北京 疆進酒OMNISPACE"
+      ],
+      "shows": [
+        {
+          "date": "2018-12-09",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "Legacy Max Taipei"
+        },
+        {
+          "date": "2019-06-08",
+          "precision": "day",
+          "region": "臺灣 宜蘭縣",
+          "city": "",
+          "venue": "宜蘭童話公園"
+        },
+        {
+          "date": "2019-07-13",
+          "precision": "day",
+          "region": "臺灣 高雄市",
+          "city": "",
+          "venue": "SPERO高雄海流館"
+        },
+        {
+          "date": "2019-07-27",
+          "precision": "day",
+          "region": "臺灣 臺中市",
+          "city": "",
+          "venue": "Legacy Taichung"
+        },
+        {
+          "date": "2019-08-30",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "Legacy 傳 音樂展演空間"
+        },
+        {
+          "date": "2019-09-05",
+          "precision": "day",
+          "region": "中國大陸 浙江省杭州市",
+          "city": "",
+          "venue": "酒球會"
+        },
+        {
+          "date": "2019-09-06",
+          "precision": "day",
+          "region": "中國大陸 江蘇省南京市",
+          "city": "",
+          "venue": "稻香音樂空間"
+        },
+        {
+          "date": "2019-09-07",
+          "precision": "day",
+          "region": "中國大陸 上海市",
+          "city": "",
+          "venue": "VasLive瓦肆現場"
+        },
+        {
+          "date": "2019-09-08",
+          "precision": "day",
+          "region": "中國大陸 廣東省廣州市",
+          "city": "",
+          "venue": "MAOLivehouse廣州"
+        },
+        {
+          "date": "2019-09-11",
+          "precision": "day",
+          "region": "中國大陸 廣東省深圳市",
+          "city": "",
+          "venue": "深圳 HOULIVE深圳"
+        },
+        {
+          "date": "2019-09-13",
+          "precision": "day",
+          "region": "中國大陸 四川省成都市",
+          "city": "",
+          "venue": "成都 CH8冇獨空間（完美店）"
+        },
+        {
+          "date": "2019-09-14",
+          "precision": "day",
+          "region": "中國大陸 湖北省武漢市",
+          "city": "",
+          "venue": "武漢 L7音樂現場"
+        },
+        {
+          "date": "2019-09-15",
+          "precision": "day",
+          "region": "中國大陸 北京市",
+          "city": "",
+          "venue": "北京 疆進酒OMNISPACE"
+        }
+      ]
+    },
+    {
+      "name": "在這座城市遇見了你巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2021-05-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-02-06",
+        "precision": "day"
+      },
+      "showCount": 41,
+      "regions": [],
+      "cities": [
+        "臺灣 臺中市",
+        "臺灣 臺北市",
+        "臺灣 高雄市",
+        "臺灣 宜蘭縣",
+        "中國大陸 浙江省杭州市",
+        "中國大陸 陝西省西安市",
+        "中國大陸 江蘇省南京市",
+        "中國大陸 廣東省廣州市",
+        "中國大陸 重慶市",
+        "中國大陸 福建省廈門市",
+        "中國大陸 湖北省武漢市",
+        "中國大陸 湖南省長沙市",
+        "中國大陸 山東省濟南市",
+        "中國大陸 福建省福州市",
+        "中國大陸 廣東省珠海市",
+        "中國大陸 黑龍江省哈爾濱市",
+        "中國大陸 遼寧省瀋陽市",
+        "中國大陸 四川省成都市",
+        "新加坡",
+        "馬來西亞 吉隆坡"
+      ],
+      "venues": [
+        "臺中Legacy",
+        "臺北Legacy",
+        "高雄LIVE WAREHOUSE",
+        "國立宜蘭高級中學",
+        "杭州 大麥66 LIVEHOUSE",
+        "西安西演SPACE",
+        "南京稻香大麥LIVEHOUSE",
+        "廣州聲音共和LIVEHOUSE",
+        "寅派動力",
+        "廈門 WOKESHOW 星巢沃克秀",
+        "武漢 不晚InTime Live",
+        "長沙 46 LIVEHOUSE",
+        "濟南 99Live",
+        "福州 MAAQUU x CH8 Livehouse",
+        "廣州 太空間Live House",
+        "珠海 對白SPACE",
+        "哈爾濱 Le大麥livehouse",
+        "瀋陽 原料庫Livehouse",
+        "成都 大麥 66LIVEHOUSE",
+        "濱海藝術中心音樂廳",
+        "Zepp Kuala Lumpur"
+      ],
+      "shows": [
+        {
+          "date": "2021-05-01",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺中市",
+          "venue": "臺中Legacy",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2021-05-15",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北市",
+          "venue": "臺北Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2021-05-29",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 高雄市",
+          "venue": "高雄LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2021-06-05",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 宜蘭縣",
+          "venue": "國立宜蘭高級中學",
+          "lat": 24.750806,
+          "lon": 121.741944,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-06-09",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 浙江省杭州市",
+          "venue": "杭州 大麥66 LIVEHOUSE",
+          "lat": 30.266666666667,
+          "lon": 120.15,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-10",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 浙江省杭州市",
+          "venue": "杭州 大麥66 LIVEHOUSE",
+          "lat": 30.266666666667,
+          "lon": 120.15,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-14",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 陝西省西安市",
+          "venue": "西安西演SPACE",
+          "lat": 35.6,
+          "lon": 109.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-15",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 陝西省西安市",
+          "venue": "西安西演SPACE",
+          "lat": 35.6,
+          "lon": 109.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-18",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 陝西省西安市",
+          "venue": "西安西演SPACE",
+          "lat": 35.6,
+          "lon": 109.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-19",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 江蘇省南京市",
+          "venue": "南京稻香大麥LIVEHOUSE",
+          "lat": 33,
+          "lon": 120,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-20",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 江蘇省南京市",
+          "venue": "南京稻香大麥LIVEHOUSE",
+          "lat": 33,
+          "lon": 120,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-24",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 江蘇省南京市",
+          "venue": "南京稻香大麥LIVEHOUSE",
+          "lat": 33,
+          "lon": 120,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-25",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 江蘇省南京市",
+          "venue": "南京稻香大麥LIVEHOUSE",
+          "lat": 33,
+          "lon": 120,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-26",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣東省廣州市",
+          "venue": "廣州聲音共和LIVEHOUSE",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-27",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣東省廣州市",
+          "venue": "廣州聲音共和LIVEHOUSE",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-29",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 重慶市",
+          "venue": "寅派動力",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2022-06-30",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 重慶市",
+          "venue": "寅派動力",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-05",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 福建省廈門市",
+          "venue": "廈門 WOKESHOW 星巢沃克秀",
+          "lat": 25.9,
+          "lon": 118.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-06",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 福建省廈門市",
+          "venue": "廈門 WOKESHOW 星巢沃克秀",
+          "lat": 25.9,
+          "lon": 118.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-08",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 福建省廈門市",
+          "venue": "廈門 WOKESHOW 星巢沃克秀",
+          "lat": 25.9,
+          "lon": 118.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-12",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 湖北省武漢市",
+          "venue": "武漢 不晚InTime Live",
+          "lat": 31.2,
+          "lon": 112.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-13",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 湖北省武漢市",
+          "venue": "武漢 不晚InTime Live",
+          "lat": 31.2,
+          "lon": 112.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-19",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 湖南省長沙市",
+          "venue": "長沙 46 LIVEHOUSE",
+          "lat": 27.6,
+          "lon": 111.8,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-20",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 湖南省長沙市",
+          "venue": "長沙 46 LIVEHOUSE",
+          "lat": 27.6,
+          "lon": 111.8,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-22",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 山東省濟南市",
+          "venue": "濟南 99Live",
+          "lat": 36.4,
+          "lon": 118.4,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-23",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 山東省濟南市",
+          "venue": "濟南 99Live",
+          "lat": 36.4,
+          "lon": 118.4,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-26",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 福建省福州市",
+          "venue": "福州 MAAQUU x CH8 Livehouse",
+          "lat": 25.9,
+          "lon": 118.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-27",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 福建省福州市",
+          "venue": "福州 MAAQUU x CH8 Livehouse",
+          "lat": 25.9,
+          "lon": 118.3,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-30",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣東省廣州市",
+          "venue": "廣州 太空間Live House",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "2022-07-31",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣東省廣州市",
+          "venue": "廣州 太空間Live House",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-01",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣東省廣州市",
+          "venue": "廣州 太空間Live House",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-08",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣東省珠海市",
+          "venue": "珠海 對白SPACE",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-09",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣東省珠海市",
+          "venue": "珠海 對白SPACE",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-11",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 黑龍江省哈爾濱市",
+          "venue": "哈爾濱 Le大麥livehouse",
+          "lat": 48,
+          "lon": 129,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-12",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 遼寧省瀋陽市",
+          "venue": "瀋陽 原料庫Livehouse",
+          "lat": 41.803888888889,
+          "lon": 123.42583333333,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-17",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 四川省成都市",
+          "venue": "成都 大麥 66LIVEHOUSE",
+          "lat": 30,
+          "lon": 103,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-18",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 四川省成都市",
+          "venue": "成都 大麥 66LIVEHOUSE",
+          "lat": 30,
+          "lon": 103,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 浙江省杭州市",
+          "venue": "杭州 大麥66 LIVEHOUSE",
+          "lat": 30.266666666667,
+          "lon": 120.15,
+          "geo": "city"
+        },
+        {
+          "date": "2022-08-24",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 浙江省杭州市",
+          "venue": "杭州 大麥66 LIVEHOUSE",
+          "lat": 30.266666666667,
+          "lon": 120.15,
+          "geo": "city"
+        },
+        {
+          "date": "2023-02-04",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "濱海藝術中心音樂廳",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2023-02-06",
+          "precision": "day",
+          "region": "",
+          "city": "馬來西亞 吉隆坡",
+          "venue": "Zepp Kuala Lumpur",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "告五人【新樂園】2022愛在夏天演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-09-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-09-17",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺灣 臺北市"
+      ],
+      "venues": [
+        "臺北市立兒童新樂園"
+      ],
+      "shows": []
+    },
+    {
+      "name": "宇宙的有趣告五人第一次新世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2023-04-08",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-12-21",
+        "precision": "day"
+      },
+      "showCount": 45,
+      "regions": [
+        "臺灣 臺北市",
+        "臺灣 高雄市",
+        "中國大陸 上海市",
+        "中國大陸 武漢市",
+        "中國大陸 深圳市",
+        "中國大陸 長沙市",
+        "中國大陸 成都市",
+        "中國大陸 泉州市",
+        "中國大陸 廣州市",
+        "中國大陸 南京市",
+        "中國大陸 北京市",
+        "中國大陸 蘇州市",
+        "美國 紐約市",
+        "美國 聖荷西市",
+        "美國 拉斯維加斯市",
+        "中國大陸 杭州市",
+        "中國大陸 合肥市",
+        "中國大陸 鄭州市",
+        "中國大陸 重慶市",
+        "中國大陸 天津市",
+        "中國大陸 廈門市",
+        "中國大陸 西安市",
+        "紐西蘭 奧克蘭",
+        "澳洲 墨爾本",
+        "澳洲 雪梨",
+        "澳洲 伯斯",
+        "吉隆坡",
+        "新加坡",
+        "英國 倫敦",
+        "西班牙 巴賽隆納",
+        "巴黎",
+        "日本 東京",
+        "香港"
+      ],
+      "cities": [],
+      "venues": [
+        "臺北小巨蛋",
+        "高雄巨蛋",
+        "梅賽德斯-奔馳文化中心",
+        "武漢五環體育中心體育館",
+        "深圳灣體育中心“春繭”體育館",
+        "湖南國際會展中心·芒果館",
+        "成都金融城演藝中心",
+        "晉江第二體育中心體育館",
+        "廣州體育館1號館",
+        "南京奧體中心體育館",
+        "北京凱迪拉克中心",
+        "蘇州奧林匹克體育中心體育館",
+        "林肯中心",
+        "San Jose Civic",
+        "The Cosmopolitan of Las Vegas -The Chelsea",
+        "杭州奧體中心體育館",
+        "合肥少荃體育中心體育館",
+        "鄭州奧林匹克體育中心體育館",
+        "華熙LIVE·魚洞文體中心",
+        "天津奧林匹克中心體育館",
+        "廈門市奧林匹克體育中心－鳳凰體育館",
+        "西安奧體中心體育館",
+        "The Civic",
+        "瑪格麗特·考特體育館",
+        "ICC Aware Super Theatre",
+        "Crown Theatre",
+        "亞通體育館",
+        "室內體育館",
+        "INDIGO AT THE O2",
+        "SALA APOLO",
+        "FOLIES BERGERE",
+        "KT Zepp Yokohama",
+        "亞洲國際博覽館"
+      ],
+      "shows": [
+        {
+          "date": "2023-04-08",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-04-09",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-07-29",
+          "precision": "day",
+          "region": "臺灣 高雄市",
+          "city": "",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-07-30",
+          "precision": "day",
+          "region": "臺灣 高雄市",
+          "city": "",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-08-04",
+          "precision": "day",
+          "region": "中國大陸 上海市",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-08-05",
+          "precision": "day",
+          "region": "中國大陸 上海市",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-08-12",
+          "precision": "day",
+          "region": "中國大陸 武漢市",
+          "city": "",
+          "venue": "武漢五環體育中心體育館",
+          "lat": 30.63674,
+          "lon": 114.133882,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-08-13",
+          "precision": "day",
+          "region": "中國大陸 武漢市",
+          "city": "",
+          "venue": "武漢五環體育中心體育館",
+          "lat": 30.63674,
+          "lon": 114.133882,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-08-19",
+          "precision": "day",
+          "region": "中國大陸 深圳市",
+          "city": "",
+          "venue": "深圳灣體育中心“春繭”體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-08-20",
+          "precision": "day",
+          "region": "中國大陸 深圳市",
+          "city": "",
+          "venue": "深圳灣體育中心“春繭”體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-08-26",
+          "precision": "day",
+          "region": "中國大陸 長沙市",
+          "city": "",
+          "venue": "湖南國際會展中心·芒果館",
+          "lat": 28.237784,
+          "lon": 113.043576,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-08-27",
+          "precision": "day",
+          "region": "中國大陸 長沙市",
+          "city": "",
+          "venue": "湖南國際會展中心·芒果館",
+          "lat": 28.237784,
+          "lon": 113.043576,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-02",
+          "precision": "day",
+          "region": "中國大陸 成都市",
+          "city": "",
+          "venue": "成都金融城演藝中心"
+        },
+        {
+          "date": "2023-09-09",
+          "precision": "day",
+          "region": "中國大陸 泉州市",
+          "city": "",
+          "venue": "晉江第二體育中心體育館"
+        },
+        {
+          "date": "2023-09-16",
+          "precision": "day",
+          "region": "中國大陸 廣州市",
+          "city": "",
+          "venue": "廣州體育館1號館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-17",
+          "precision": "day",
+          "region": "中國大陸 廣州市",
+          "city": "",
+          "venue": "廣州體育館1號館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-23",
+          "precision": "day",
+          "region": "中國大陸 南京市",
+          "city": "",
+          "venue": "南京奧體中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-24",
+          "precision": "day",
+          "region": "中國大陸 南京市",
+          "city": "",
+          "venue": "南京奧體中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-29",
+          "precision": "day",
+          "region": "中國大陸 北京市",
+          "city": "",
+          "venue": "北京凱迪拉克中心",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-30",
+          "precision": "day",
+          "region": "中國大陸 北京市",
+          "city": "",
+          "venue": "北京凱迪拉克中心",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-10-04",
+          "precision": "day",
+          "region": "中國大陸 蘇州市",
+          "city": "",
+          "venue": "蘇州奧林匹克體育中心體育館",
+          "lat": 31.306633,
+          "lon": 120.745299,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-10-05",
+          "precision": "day",
+          "region": "中國大陸 蘇州市",
+          "city": "",
+          "venue": "蘇州奧林匹克體育中心體育館",
+          "lat": 31.306633,
+          "lon": 120.745299,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-10-28",
+          "precision": "day",
+          "region": "美國 紐約市",
+          "city": "",
+          "venue": "林肯中心",
+          "lat": 40.7725,
+          "lon": -73.98388888888888,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-11-01",
+          "precision": "day",
+          "region": "美國 聖荷西市",
+          "city": "",
+          "venue": "San Jose Civic"
+        },
+        {
+          "date": "2023-11-04",
+          "precision": "day",
+          "region": "美國 拉斯維加斯市",
+          "city": "",
+          "venue": "The Cosmopolitan of Las Vegas -The Chelsea"
+        },
+        {
+          "date": "2024-04-05",
+          "precision": "day",
+          "region": "中國大陸 杭州市",
+          "city": "",
+          "venue": "杭州奧體中心體育館",
+          "lat": 30.2317,
+          "lon": 120.22443,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-04-06",
+          "precision": "day",
+          "region": "中國大陸 杭州市",
+          "city": "",
+          "venue": "杭州奧體中心體育館",
+          "lat": 30.2317,
+          "lon": 120.22443,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-04-13",
+          "precision": "day",
+          "region": "中國大陸 合肥市",
+          "city": "",
+          "venue": "合肥少荃體育中心體育館"
+        },
+        {
+          "date": "2024-04-20",
+          "precision": "day",
+          "region": "中國大陸 鄭州市",
+          "city": "",
+          "venue": "鄭州奧林匹克體育中心體育館",
+          "lat": 34.7426,
+          "lon": 113.5308,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-04-27",
+          "precision": "day",
+          "region": "中國大陸 重慶市",
+          "city": "",
+          "venue": "華熙LIVE·魚洞文體中心"
+        },
+        {
+          "date": "2024-05-11",
+          "precision": "day",
+          "region": "中國大陸 天津市",
+          "city": "",
+          "venue": "天津奧林匹克中心體育館",
+          "lat": 39.076389,
+          "lon": 117.171667,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-05-18",
+          "precision": "day",
+          "region": "中國大陸 廈門市",
+          "city": "",
+          "venue": "廈門市奧林匹克體育中心－鳳凰體育館"
+        },
+        {
+          "date": "2024-05-25",
+          "precision": "day",
+          "region": "中國大陸 西安市",
+          "city": "",
+          "venue": "西安奧體中心體育館",
+          "lat": 34.37821,
+          "lon": 109.01798,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-04",
+          "precision": "day",
+          "region": "紐西蘭 奧克蘭",
+          "city": "",
+          "venue": "The Civic"
+        },
+        {
+          "date": "2024-06-07",
+          "precision": "day",
+          "region": "澳洲 墨爾本",
+          "city": "",
+          "venue": "瑪格麗特·考特體育館",
+          "lat": -37.8211444,
+          "lon": 144.977625,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-09",
+          "precision": "day",
+          "region": "澳洲 雪梨",
+          "city": "",
+          "venue": "ICC Aware Super Theatre"
+        },
+        {
+          "date": "2024-06-12",
+          "precision": "day",
+          "region": "澳洲 伯斯",
+          "city": "",
+          "venue": "Crown Theatre"
+        },
+        {
+          "date": "2024-06-15",
+          "precision": "day",
+          "region": "吉隆坡",
+          "city": "",
+          "venue": "亞通體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-16",
+          "precision": "day",
+          "region": "吉隆坡",
+          "city": "",
+          "venue": "亞通體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-22",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-10-20",
+          "precision": "day",
+          "region": "英國 倫敦",
+          "city": "",
+          "venue": "INDIGO AT THE O2"
+        },
+        {
+          "date": "2024-10-23",
+          "precision": "day",
+          "region": "西班牙 巴賽隆納",
+          "city": "",
+          "venue": "SALA APOLO"
+        },
+        {
+          "date": "2024-10-26",
+          "precision": "day",
+          "region": "巴黎",
+          "city": "",
+          "venue": "FOLIES BERGERE"
+        },
+        {
+          "date": "2024-11-22",
+          "precision": "day",
+          "region": "日本 東京",
+          "city": "",
+          "venue": "KT Zepp Yokohama",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-12-21",
+          "precision": "day",
+          "region": "香港",
+          "city": "",
+          "venue": "亞洲國際博覽館",
+          "lat": 22.32136446128948,
+          "lon": 113.94375298172237,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "宇宙超有趣新世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-03-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-04-12",
+        "precision": "day"
+      },
+      "showCount": 6,
+      "regions": [
+        "臺灣 宜蘭縣",
+        "中國大陸 深圳市",
+        "中國大陸 北京市",
+        "中國大陸 上海市",
+        "臺灣 高雄市"
+      ],
+      "cities": [],
+      "venues": [
+        "宜蘭縣立體育場",
+        "深圳灣體育中心“春繭”體育場",
+        "北京工人體育場",
+        "虹口足球場",
+        "高雄世運主場館"
+      ],
+      "shows": [
+        {
+          "date": "2024-03-16",
+          "precision": "day",
+          "region": "臺灣 宜蘭縣",
+          "city": "",
+          "venue": "宜蘭縣立體育場"
+        },
+        {
+          "date": "2024-03-17",
+          "precision": "day",
+          "region": "臺灣 宜蘭縣",
+          "city": "",
+          "venue": "宜蘭縣立體育場"
+        },
+        {
+          "date": "2024-07-20",
+          "precision": "day",
+          "region": "中國大陸 深圳市",
+          "city": "",
+          "venue": "深圳灣體育中心“春繭”體育場",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-08-31",
+          "precision": "day",
+          "region": "中國大陸 北京市",
+          "city": "",
+          "venue": "北京工人體育場",
+          "lat": 39.92952777777778,
+          "lon": 116.44113888888889,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-07",
+          "precision": "day",
+          "region": "中國大陸 上海市",
+          "city": "",
+          "venue": "虹口足球場",
+          "lat": 31.2733,
+          "lon": 121.4762,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-04-12",
+          "precision": "day",
+          "region": "臺灣 高雄市",
+          "city": "",
+          "venue": "高雄世運主場館",
+          "lat": 22.702778,
+          "lon": 120.295,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "有畫面之旅・傻瓜四專Mastering秘密搶聽會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2025-06-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-06-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺灣 臺北市"
+      ],
+      "venues": [
+        "SUB LIVE"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黑夜狂奔巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-08-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-05-17",
+        "precision": "day"
+      },
+      "showCount": 36,
+      "regions": [],
+      "cities": [
+        "臺灣 宜蘭縣",
+        "臺灣 臺北市",
+        "臺灣 臺中市",
+        "臺灣 高雄市",
+        "中國大陸 廣州市",
+        "中國大陸 瀋陽市",
+        "中國大陸 北京市",
+        "中國大陸 西安市",
+        "中國大陸 上海市",
+        "香港",
+        "中國大陸 成都市",
+        "中國大陸 武漢市",
+        "日本 大阪",
+        "日本 東京",
+        "吉隆坡",
+        "新加坡",
+        "澳洲 墨爾本",
+        "澳洲 悉尼",
+        "美國 紐約",
+        "美國 波士頓",
+        "美國 聖荷西",
+        "美國 洛杉磯",
+        "巴黎",
+        "英國 倫敦",
+        "臺灣 新北市"
+      ],
+      "venues": [
+        "宜蘭高中活動中心",
+        "臺北Legacy TERA",
+        "臺中Legacy Taichung",
+        "高雄LIVE WAREHOUSE",
+        "MAO Livehouse廣州（中大店）1號館",
+        "原料庫VAST FACTORY（紅梅店）",
+        "東三 LIVE 樂遊園",
+        "西演SPACE·塞斯拾陸",
+        "瓦肆 est（徐匯西岸店）",
+        "TIDES",
+        "CH8 綠樹演藝中心",
+        "不晚InTime Live",
+        "Zepp Osaka Bayside",
+        "Zepp Haneda (TOKYO)",
+        "Zepp Kuala Lumpur",
+        "Marina Bay Sands, Expo & Convention, Level B2, Hall F",
+        "Festival Hall",
+        "Darling Harbour Theatre",
+        "Colden Auditorium Queens College",
+        "Roadrunner",
+        "San Jose Civic",
+        "Saban Theatre",
+        "Salle Pleyel",
+        "TROXY",
+        "Zepp New Taipei"
+      ],
+      "shows": [
+        {
+          "date": "2025-08-02",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 宜蘭縣",
+          "venue": "宜蘭高中活動中心",
+          "lat": 24.750806,
+          "lon": 121.741944,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-08-16",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北市",
+          "venue": "臺北Legacy TERA",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2025-08-17",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北市",
+          "venue": "臺北Legacy TERA",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2025-08-30",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺中市",
+          "venue": "臺中Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2025-08-31",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺中市",
+          "venue": "臺中Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-06",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 高雄市",
+          "venue": "高雄LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-07",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 高雄市",
+          "venue": "高雄LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-12",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣州市",
+          "venue": "MAO Livehouse廣州（中大店）1號館",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-13",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣州市",
+          "venue": "MAO Livehouse廣州（中大店）1號館",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-17",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 瀋陽市",
+          "venue": "原料庫VAST FACTORY（紅梅店）",
+          "lat": 41.8025,
+          "lon": 123.42805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-19",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 北京市",
+          "venue": "東三 LIVE 樂遊園",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-20",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 北京市",
+          "venue": "東三 LIVE 樂遊園",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-24",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 西安市",
+          "venue": "西演SPACE·塞斯拾陸",
+          "lat": 34.26111111111111,
+          "lon": 108.94222222222223,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-26",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 上海市",
+          "venue": "瓦肆 est（徐匯西岸店）",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-27",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 上海市",
+          "venue": "瓦肆 est（徐匯西岸店）",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-11",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "TIDES",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-12",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "TIDES",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-15",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 成都市",
+          "venue": "CH8 綠樹演藝中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-17",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 武漢市",
+          "venue": "不晚InTime Live",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-18",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 武漢市",
+          "venue": "不晚InTime Live",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-26",
+          "precision": "day",
+          "region": "",
+          "city": "日本 大阪",
+          "venue": "Zepp Osaka Bayside",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-08",
+          "precision": "day",
+          "region": "",
+          "city": "日本 東京",
+          "venue": "Zepp Haneda (TOKYO)",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-01-07",
+          "precision": "day",
+          "region": "",
+          "city": "吉隆坡",
+          "venue": "Zepp Kuala Lumpur",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-01-08",
+          "precision": "day",
+          "region": "",
+          "city": "吉隆坡",
+          "venue": "Zepp Kuala Lumpur",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-01-10",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "Marina Bay Sands, Expo & Convention, Level B2, Hall F",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2026-01-11",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "Marina Bay Sands, Expo & Convention, Level B2, Hall F",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2026-03-13",
+          "precision": "day",
+          "region": "",
+          "city": "澳洲 墨爾本",
+          "venue": "Festival Hall",
+          "lat": -37.814166666666665,
+          "lon": 144.96305555555554,
+          "geo": "city"
+        },
+        {
+          "date": "2026-03-15",
+          "precision": "day",
+          "region": "",
+          "city": "澳洲 悉尼",
+          "venue": "Darling Harbour Theatre",
+          "lat": -33.867777777777775,
+          "lon": 151.21,
+          "geo": "city"
+        },
+        {
+          "date": "2026-04-04",
+          "precision": "day",
+          "region": "",
+          "city": "美國 紐約",
+          "venue": "Colden Auditorium Queens College",
+          "lat": 40.71277777777778,
+          "lon": -74.00611111111111,
+          "geo": "city"
+        },
+        {
+          "date": "2026-04-08",
+          "precision": "day",
+          "region": "",
+          "city": "美國 波士頓",
+          "venue": "Roadrunner",
+          "lat": 42.360277777777775,
+          "lon": -71.05777777777777,
+          "geo": "city"
+        },
+        {
+          "date": "2026-04-11",
+          "precision": "day",
+          "region": "",
+          "city": "美國 聖荷西",
+          "venue": "San Jose Civic",
+          "lat": 37.304166666667,
+          "lon": -121.87277777778,
+          "geo": "city"
+        },
+        {
+          "date": "2026-04-15",
+          "precision": "day",
+          "region": "",
+          "city": "美國 洛杉磯",
+          "venue": "Saban Theatre",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "2026-04-24",
+          "precision": "day",
+          "region": "",
+          "city": "巴黎",
+          "venue": "Salle Pleyel",
+          "lat": 48.85666666666667,
+          "lon": 2.352222222222222,
+          "geo": "city"
+        },
+        {
+          "date": "2026-04-26",
+          "precision": "day",
+          "region": "",
+          "city": "英國 倫敦",
+          "venue": "TROXY",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
+        },
+        {
+          "date": "2026-05-16",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 新北市",
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-05-17",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 新北市",
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "在這裡@century世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2026-11-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-11-08",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "臺灣 臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "臺北小巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2026-11-06",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-11-07",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-11-08",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "slug": "christine-fan",
-  "fetchedAt": "2026-09-17T12:30:01.708Z",
+  "fetchedAt": "2026-09-17T13:07:05.561Z",
   "wiki": "范瑋琪",
   "bio": {
     "born": {
@@ -11,5 +11,667 @@
     "formed": null,
     "disbanded": null
   },
-  "tours": []
+  "tours": [
+    {
+      "name": "范瑋琪我們是朋友巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2008-11-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-08-21",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [],
+      "cities": [
+        "臺北",
+        "臺中",
+        "香港",
+        "北京"
+      ],
+      "venues": [
+        "臺大綜合體育館",
+        "中興大學蕙蓀堂",
+        "香港國際展貿中心",
+        "北京展覽館劇場"
+      ],
+      "shows": [
+        {
+          "date": "2008-11-01",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺大綜合體育館",
+          "lat": 25.0216088,
+          "lon": 121.5351757,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-11-22",
+          "precision": "day",
+          "region": "",
+          "city": "臺中",
+          "venue": "中興大學蕙蓀堂",
+          "lat": 24.123552,
+          "lon": 120.675326,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-08-19",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "香港國際展貿中心",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-08-21",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "北京展覽館劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "范瑋琪Love & FanFan世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2011-08-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-10-12",
+        "precision": "day"
+      },
+      "showCount": 12,
+      "regions": [],
+      "cities": [
+        "上海",
+        "北京",
+        "蘇州",
+        "廣州",
+        "成都",
+        "南京",
+        "香港",
+        "臺北",
+        "倫敦",
+        "康州",
+        "溫哥華"
+      ],
+      "venues": [
+        "梅賽德斯-賓士文化中心",
+        "工人體育館",
+        "蘇州體育中心體育館",
+        "廣州體育館",
+        "四川省體育館",
+        "南京奧林匹克體育中心體育館",
+        "紅磡香港體育館",
+        "臺北小巨蛋",
+        "O2體育館",
+        "康州金神體育館",
+        "伊利沙伯女皇劇院"
+      ],
+      "shows": [
+        {
+          "date": "2011-08-27",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "梅賽德斯-賓士文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2011-09-09",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
+        },
+        {
+          "date": "2011-12-25",
+          "precision": "day",
+          "region": "",
+          "city": "蘇州",
+          "venue": "蘇州體育中心體育館",
+          "lat": 31.296538888889,
+          "lon": 120.57308333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-05-12",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-06-30",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "四川省體育館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2012-08-18",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "梅賽德斯-賓士文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-10-27",
+          "precision": "day",
+          "region": "",
+          "city": "南京",
+          "venue": "南京奧林匹克體育中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-01-13",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-02-02",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-03-25",
+          "precision": "day",
+          "region": "",
+          "city": "倫敦",
+          "venue": "O2體育館",
+          "lat": 51.502944444444,
+          "lon": 0.0031944444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-06-16",
+          "precision": "day",
+          "region": "",
+          "city": "康州",
+          "venue": "康州金神體育館",
+          "lat": 41.4911,
+          "lon": -72.0897,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-10-12",
+          "precision": "day",
+          "region": "",
+          "city": "溫哥華",
+          "venue": "伊利沙伯女皇劇院",
+          "lat": 49.28031,
+          "lon": -123.11316,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "范瑋琪My Dear Life我親愛的人生演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-03-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-03-18",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "Legacy Taipei"
+      ],
+      "shows": [
+        {
+          "date": "2014-03-18",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "范瑋琪在幸福的路上世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2017-03-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-11-16",
+        "precision": "day"
+      },
+      "showCount": 21,
+      "regions": [],
+      "cities": [
+        "深圳",
+        "北京",
+        "濟南",
+        "上海",
+        "波士頓",
+        "溫哥華",
+        "臺北",
+        "武漢",
+        "鄭州",
+        "洛杉磯",
+        "聖荷西",
+        "多倫多",
+        "成都",
+        "雪梨",
+        "福州",
+        "杭州",
+        "廣州",
+        "天津",
+        "吉隆坡",
+        "新加坡"
+      ],
+      "venues": [
+        "深圳灣體育中心「春繭」體育館",
+        "首都體育館",
+        "濟南奧林匹克體育中心體育館",
+        "梅賽德斯-奔馳文化中心",
+        "Orpheum Theatre (Boston)",
+        "伊利沙伯女皇劇院",
+        "臺北小巨蛋",
+        "武漢體育中心體育館",
+        "鄭州國際會展中心",
+        "帕薩迪納會議中心",
+        "聖荷西表演藝術中心",
+        "梅西劇院",
+        "四川省體育館",
+        "The Star Event Centre",
+        "福州海峽國際會展中心6號館",
+        "黃龍體育中心體育館",
+        "廣州體育館二號館",
+        "天津市人民體育館",
+        "吉隆坡會展中心",
+        "新加坡室內體育館"
+      ],
+      "shows": [
+        {
+          "date": "2017-03-18",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳灣體育中心「春繭」體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-05-20",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-07-15",
+          "precision": "day",
+          "region": "",
+          "city": "濟南",
+          "venue": "濟南奧林匹克體育中心體育館",
+          "lat": 36.656163,
+          "lon": 117.119644,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-09-02",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-10-20",
+          "precision": "day",
+          "region": "",
+          "city": "波士頓",
+          "venue": "Orpheum Theatre (Boston)",
+          "lat": 42.360277777777775,
+          "lon": -71.05777777777777,
+          "geo": "city"
+        },
+        {
+          "date": "2017-10-23",
+          "precision": "day",
+          "region": "",
+          "city": "溫哥華",
+          "venue": "伊利沙伯女皇劇院",
+          "lat": 49.28031,
+          "lon": -123.11316,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-11-04",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-12-09",
+          "precision": "day",
+          "region": "",
+          "city": "武漢",
+          "venue": "武漢體育中心體育館",
+          "lat": 30.502313,
+          "lon": 114.166253,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-12-23",
+          "precision": "day",
+          "region": "",
+          "city": "鄭州",
+          "venue": "鄭州國際會展中心",
+          "lat": 34.74919,
+          "lon": 113.66051,
+          "geo": "city"
+        },
+        {
+          "date": "2018-01-26",
+          "precision": "day",
+          "region": "",
+          "city": "洛杉磯",
+          "venue": "帕薩迪納會議中心",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "2018-01-28",
+          "precision": "day",
+          "region": "",
+          "city": "聖荷西",
+          "venue": "聖荷西表演藝術中心"
+        },
+        {
+          "date": "2018-01-30",
+          "precision": "day",
+          "region": "",
+          "city": "多倫多",
+          "venue": "梅西劇院",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2018-08-25",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "四川省體育館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2018-10-21",
+          "precision": "day",
+          "region": "",
+          "city": "雪梨",
+          "venue": "The Star Event Centre",
+          "lat": -33.8683,
+          "lon": 151.195,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "福州",
+          "venue": "福州海峽國際會展中心6號館",
+          "lat": 26.03058,
+          "lon": 119.360384,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-02-14",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-04-27",
+          "precision": "day",
+          "region": "",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育館",
+          "lat": 30.2683,
+          "lon": 120.129,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-05-12",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州體育館二號館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-05-18",
+          "precision": "day",
+          "region": "",
+          "city": "天津",
+          "venue": "天津市人民體育館",
+          "lat": 39.146666666667,
+          "lon": 117.20555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2019-07-07",
+          "precision": "day",
+          "region": "",
+          "city": "吉隆坡",
+          "venue": "吉隆坡會展中心",
+          "lat": 3.1538888888889,
+          "lon": 101.71333333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-11-16",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "我們之間的事巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-03-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-08-08",
+        "precision": "day"
+      },
+      "showCount": 9,
+      "regions": [],
+      "cities": [
+        "上海",
+        "成都",
+        "廣州",
+        "北京",
+        "佛山",
+        "深圳",
+        "長沙",
+        "雲頂"
+      ],
+      "venues": [
+        "梅賽德斯-奔馳文化中心",
+        "五糧液文化體育中心·綜合體育館",
+        "寶能廣州國際體育演藝中心",
+        "國家體育館",
+        "佛山國際體育文化演藝中心",
+        "深圳灣體育中心「春繭」體育館",
+        "浦發銀行東方體育中心主體育館",
+        "長沙國際會展中心E4館",
+        "雲頂雲星劇場"
+      ],
+      "shows": [
+        {
+          "date": "2025-03-29",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-04-19",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "五糧液文化體育中心·綜合體育館",
+          "lat": 30.771,
+          "lon": 104.076,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-04-26",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "寶能廣州國際體育演藝中心",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-05-10",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "國家體育館",
+          "lat": 39.994780555556,
+          "lon": 116.38395833333,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-06-21",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "佛山國際體育文化演藝中心",
+          "lat": 22.959949,
+          "lon": 113.140953,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-04-04",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳灣體育中心「春繭」體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-06-06",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "浦發銀行東方體育中心主體育館",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-07-11",
+          "precision": "day",
+          "region": "",
+          "city": "長沙",
+          "venue": "長沙國際會展中心E4館",
+          "lat": 28.15,
+          "lon": 113.09,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-08-08",
+          "precision": "day",
+          "region": "",
+          "city": "雲頂",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
 }

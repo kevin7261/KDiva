@@ -1,6 +1,6 @@
 {
   "slug": "qingfeng-wu",
-  "fetchedAt": "2026-09-17T12:31:26.660Z",
+  "fetchedAt": "2026-09-17T13:09:55.734Z",
   "wiki": "吳青峰",
   "bio": {
     "born": {
@@ -317,6 +317,152 @@
       "shows": []
     },
     {
+      "name": "太空備忘記",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2019-11-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2020-02-23",
+        "precision": "day"
+      },
+      "showCount": 11,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [
+        "高雄",
+        "上海",
+        "合肥",
+        "杭州",
+        "深圳",
+        "臺北"
+      ],
+      "venues": [
+        "高雄巨蛋",
+        "梅賽德斯-奔馳文化中心",
+        "合肥濱湖國際會展中心",
+        "黃龍體育中心",
+        "深圳灣體育中心",
+        "臺北小巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2019-11-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-11-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-12-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-12-07",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-12-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "合肥",
+          "venue": "合肥濱湖國際會展中心",
+          "lat": 31.86389,
+          "lon": 117.28083,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-01-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "黃龍體育中心",
+          "lat": 30.2683,
+          "lon": 120.129,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-01-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "黃龍體育中心",
+          "lat": 30.2683,
+          "lon": 120.129,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-01-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳灣體育中心",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-01-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳灣體育中心",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-02-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-02-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
       "name": "絕色25週年世界巡迴演唱會",
       "page": "絕色25週年世界巡迴演唱會",
       "kind": "tour",
@@ -383,6 +529,191 @@
       "shows": []
     },
     {
+      "name": "16葉",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2020-10-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2020-11-08",
+        "precision": "day"
+      },
+      "showCount": 16,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "Legacy Taipei"
+      ],
+      "shows": [
+        {
+          "date": "2020-10-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-30",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-10-31",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-11-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-11-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-11-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-11-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2020-11-08",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
+    },
+    {
       "name": "LIKE A STAR世界巡迴演唱會",
       "page": null,
       "kind": "tour",
@@ -403,6 +734,163 @@
         "臺北小巨蛋"
       ],
       "shows": []
+    },
+    {
+      "name": "上下冊",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2020-11-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2020-11-15",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "新北"
+      ],
+      "venues": [
+        "雲門劇場"
+      ],
+      "shows": [
+        {
+          "date": "2020-11-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新北",
+          "venue": "雲門劇場",
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-11-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新北",
+          "venue": "雲門劇場",
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "馬拉美的沙龍",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-08-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-08-21",
+        "precision": "day"
+      },
+      "showCount": 5,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "高雄",
+        "臺北"
+      ],
+      "venues": [
+        "衛武營國家藝術文化中心三樓展覽廳",
+        "花博公園流行館"
+      ],
+      "shows": [
+        {
+          "date": "2022-08-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "衛武營國家藝術文化中心三樓展覽廳",
+          "lat": 22.62111111,
+          "lon": 120.3394444,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-08-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "衛武營國家藝術文化中心三樓展覽廳",
+          "lat": 22.62111111,
+          "lon": 120.3394444,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-08-13",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "衛武營國家藝術文化中心三樓展覽廳",
+          "lat": 22.62111111,
+          "lon": 120.3394444,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-08-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "衛武營國家藝術文化中心三樓展覽廳",
+          "lat": 22.62111111,
+          "lon": 120.3394444,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-08-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "花博公園流行館",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "馬拉美的戶外沙龍",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-12-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-12-04",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "微風南山一樓戶外廣場"
+      ],
+      "shows": [
+        {
+          "date": "2022-12-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "微風南山一樓戶外廣場",
+          "lat": 25.0344,
+          "lon": 121.5669,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "The Gods We Can Touch Asia Tour",
@@ -471,6 +959,71 @@
       "shows": []
     },
     {
+      "name": "牧羊人的星期三",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-11-15",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-12-06",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "女巫店"
+      ],
+      "shows": [
+        {
+          "date": "2023-11-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2023-12-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
+    },
+    {
       "name": "35週年世界巡迴演唱會",
       "page": null,
       "kind": "tour",
@@ -513,6 +1066,91 @@
         "臺北小巨蛋"
       ],
       "shows": []
+    },
+    {
+      "name": "如果在冬夜，一個旅人",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2024-12-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-01-06",
+        "precision": "day"
+      },
+      "showCount": 6,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "女巫店"
+      ],
+      "shows": [
+        {
+          "date": "2024-12-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2024-12-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2024-12-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2024-12-31",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2025-01-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2025-01-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "女巫店",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "張韶涵世界巡迴演唱會",

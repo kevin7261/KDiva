@@ -30,6 +30,8 @@ function cellText(raw) {
   s = s.replace(/\{\{\s*flag(?:icon|country)?\s*\|\s*([^|{}]+?)\s*(?:\|[^{}]*)?\}\}/gi, ' $1 ')
   s = s.replace(/\{\{\s*(?:le|ill|link-\w+|internal link helper\/\w+)\s*\|\s*([^|{}]+)(?:\|[^{}]*)?\}\}/gi, '$1')
   s = s.replace(/\{\{\s*tsl\s*\|[^|{}]*\|[^|{}]*\|\s*([^|{}]+)(?:\|[^{}]*)?\}\}/gi, '$1')
+  // {{tsl|語言|外文名}}（沒有中文名），或表格用「||」切格時被切斷的 {{tsl|en|外文名
+  s = s.replace(/\{\{\s*tsl\s*\|[^|{}]*\|\s*([^|{}]+?)\s*(?:\|\s*)*(?:\}\}|$)/gim, '$1')
   // 只有屬性、沒有內容的格子（「rowspan=24」）
   if (/^\s*(?:rowspan|colspan|style|align|width|bgcolor|class)\s*=[^|]*$/i.test(s)) return ''
   return nameToTW(toPlain(s))

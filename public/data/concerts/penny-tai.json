@@ -1,6 +1,6 @@
 {
   "slug": "penny-tai",
-  "fetchedAt": "2026-09-17T12:29:59.600Z",
+  "fetchedAt": "2026-09-17T13:06:57.948Z",
   "wiki": "戴佩妮",
   "bio": {
     "born": {
@@ -40,7 +40,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺灣大學綜合體育館"
+          "venue": "臺灣大學綜合體育館",
+          "lat": 25.0216088,
+          "lon": 121.5351757,
+          "geo": "venue"
         }
       ]
     },
@@ -75,14 +78,20 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北國際會議中心"
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
         },
         {
           "date": "2008-12-14",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "東方藝術中心音樂廳"
+          "venue": "東方藝術中心音樂廳",
+          "lat": 31.22495,
+          "lon": 121.536899,
+          "geo": "venue"
         }
       ]
     },
@@ -117,14 +126,20 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北國際會議中心"
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
         },
         {
           "date": "2010-01-16",
           "precision": "day",
           "region": "馬來西亞",
           "city": "雲頂",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
         }
       ]
     },
@@ -185,105 +200,150 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Zepp New Taipei"
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
         },
         {
           "date": "2023-08-26",
           "precision": "day",
           "region": "中國大陸",
           "city": "南京",
-          "venue": "南京太陽宮"
+          "venue": "南京太陽宮",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "city"
         },
         {
           "date": "2023-09-16",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "交通銀行前灘31演藝中心·大劇場"
+          "venue": "交通銀行前灘31演藝中心·大劇場",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
         },
         {
           "date": "2023-09-17",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "交通銀行前灘31演藝中心·大劇場"
+          "venue": "交通銀行前灘31演藝中心·大劇場",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
         },
         {
           "date": "2023-09-23",
           "precision": "day",
           "region": "中國大陸",
           "city": "天津",
-          "venue": "天津大劇院歌劇廳"
+          "venue": "天津大劇院歌劇廳",
+          "lat": 39.146666666667,
+          "lon": 117.20555555556,
+          "geo": "city"
         },
         {
           "date": "2023-10-15",
           "precision": "day",
           "region": "中國大陸",
           "city": "杭州",
-          "venue": "杭州劇院"
+          "venue": "杭州劇院",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
         },
         {
           "date": "2023-10-21",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "中山紀念堂"
+          "venue": "中山紀念堂",
+          "lat": 23.136080555555555,
+          "lon": 113.25935833333334,
+          "geo": "venue"
         },
         {
           "date": "2023-10-28",
           "precision": "day",
           "region": "中國大陸",
           "city": "武漢",
-          "venue": "洪山禮堂"
+          "venue": "洪山禮堂",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
         },
         {
           "date": "2023-11-04",
           "precision": "day",
           "region": "中國大陸",
           "city": "長沙",
-          "venue": "湖南國際會展中心F廳"
+          "venue": "湖南國際會展中心F廳",
+          "lat": 28.237784,
+          "lon": 113.043576,
+          "geo": "venue"
         },
         {
           "date": "2023-11-11",
           "precision": "day",
           "region": "中國大陸",
           "city": "瀋陽",
-          "venue": "遼寧中華劇院"
+          "venue": "遼寧中華劇院",
+          "lat": 41.8025,
+          "lon": 123.42805555555556,
+          "geo": "city"
         },
         {
           "date": "2023-11-18",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "華熙M空間"
+          "venue": "華熙M空間",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2023-11-25",
           "precision": "day",
           "region": "中國大陸",
           "city": "深圳",
-          "venue": "濱海藝術中心"
+          "venue": "濱海藝術中心",
+          "lat": 1.2897222222222222,
+          "lon": 103.85527777777777,
+          "geo": "venue"
         },
         {
           "date": "2023-12-09",
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "華熙LIVE·五棵松M空間"
+          "venue": "華熙LIVE·五棵松M空間",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
         },
         {
           "date": "2024-01-26",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "The Star Theatre"
+          "venue": "The Star Theatre",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
         },
         {
           "date": "2024-02-03",
           "precision": "day",
           "region": "馬來西亞",
           "city": "雲頂",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
         }
       ]
     },
@@ -324,35 +384,50 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "東方體育中心(feat. 梁靜茹)"
+          "venue": "東方體育中心(feat. 梁靜茹)",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
         },
         {
           "date": "2025-03-22",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋(feat. 江美琪、周蕙)"
+          "venue": "臺北小巨蛋(feat. 江美琪、周蕙)",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2025-12-27",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "成都金融城演藝中心"
+          "venue": "成都金融城演藝中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2026-01-17",
           "precision": "day",
           "region": "中國大陸",
           "city": "杭州",
-          "venue": "杭州奧體中心網球中心"
+          "venue": "杭州奧體中心網球中心",
+          "lat": 30.2317,
+          "lon": 120.22443,
+          "geo": "venue"
         },
         {
           "date": "2026-03-21",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄巨蛋"
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         }
       ]
     }

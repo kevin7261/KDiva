@@ -1,6 +1,6 @@
 {
   "slug": "nick-chou",
-  "fetchedAt": "2026-09-17T12:31:20.341Z",
+  "fetchedAt": "2026-09-17T13:09:36.079Z",
   "wiki": "周湯豪",
   "bio": {
     "born": {
@@ -11,5 +11,139 @@
     "formed": null,
     "disbanded": null
   },
-  "tours": []
+  "tours": [
+    {
+      "name": "帥到分手NICKTHEREAL Party Tour",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2017-09-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-05-06",
+        "precision": "day"
+      },
+      "showCount": 9,
+      "regions": [
+        "中國大陸",
+        "新加坡",
+        "美國"
+      ],
+      "cities": [
+        "臺北",
+        "北京",
+        "上海",
+        "吉隆坡",
+        "克拉碼頭",
+        "成都",
+        "廣州",
+        "舊金山",
+        "洛杉磯"
+      ],
+      "venues": [
+        "A Station",
+        "北京M空間",
+        "萬代南夢宮上海文化中心",
+        "KL Live Life Centre",
+        "Shanghai Dolly",
+        "成都梵木創藝區正火藝術中心1號館",
+        "廣州中央車站展演中心",
+        "The Regency Ballroom",
+        "Mayan Theater"
+      ],
+      "shows": [
+        {
+          "date": "2017-09-02",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "A Station",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2017-11-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "北京M空間",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2017-11-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "萬代南夢宮上海文化中心",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2017-12-02",
+          "precision": "day",
+          "region": "",
+          "city": "吉隆坡",
+          "venue": "KL Live Life Centre",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        },
+        {
+          "date": "2017-12-03",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "克拉碼頭",
+          "venue": "Shanghai Dolly",
+          "lat": 1.29002,
+          "lon": 103.846,
+          "geo": "city"
+        },
+        {
+          "date": "2017-12-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "成都梵木創藝區正火藝術中心1號館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2018-04-28",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州中央車站展演中心",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2018-05-04",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "The Regency Ballroom",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2018-05-06",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "Mayan Theater",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "slug": "tanya-chua",
-  "fetchedAt": "2026-09-17T12:29:27.359Z",
+  "fetchedAt": "2026-09-17T13:05:48.679Z",
   "wiki": "蔡健雅",
   "bio": {
     "born": {
@@ -40,7 +40,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "南港101"
+          "venue": "南港101",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -72,7 +75,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "二二八和平公園"
+          "venue": "二二八和平公園",
+          "lat": 25.042222222222,
+          "lon": 121.515,
+          "geo": "venue"
         }
       ]
     },
@@ -104,7 +110,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "新北",
-          "venue": "淡水漁人碼頭"
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
         }
       ]
     },
@@ -136,7 +145,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北新舞臺"
+          "venue": "臺北新舞臺",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -178,42 +190,60 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "九龍灣國際展貿中心 Star Hall"
+          "venue": "九龍灣國際展貿中心 Star Hall",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
         },
         {
           "date": "2008-07-25",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北國際會議中心"
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
         },
         {
           "date": "2008-07-26",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北國際會議中心"
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
         },
         {
           "date": "2008-08-09",
           "precision": "day",
           "region": "臺灣",
           "city": "臺中",
-          "venue": "中興大學惠蓀堂"
+          "venue": "中興大學惠蓀堂",
+          "lat": 24.123552,
+          "lon": 120.675326,
+          "geo": "venue"
         },
         {
           "date": "2008-12-24",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "長寧國際體操中心"
+          "venue": "長寧國際體操中心",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
         },
         {
           "date": "2009-03-14",
           "precision": "day",
           "region": "中國大陸",
           "city": "南京",
-          "venue": "人民大會堂"
+          "venue": "人民大會堂",
+          "lat": 39.903333333333,
+          "lon": 116.3875,
+          "geo": "venue"
         }
       ]
     },
@@ -245,7 +275,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北市西門町河岸留言"
+          "venue": "臺北市西門町河岸留言",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
         }
       ]
     },
@@ -277,7 +310,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei 傳 音樂展演空間"
+          "venue": "Legacy Taipei 傳 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -316,28 +352,40 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2011-04-09",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "新加坡室內體育館"
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
         },
         {
           "date": "2011-04-23",
           "precision": "day",
           "region": "臺灣",
           "city": "臺中",
-          "venue": "圓滿戶外劇場"
+          "venue": "圓滿戶外劇場",
+          "lat": 24.145,
+          "lon": 120.645,
+          "geo": "venue"
         },
         {
           "date": "2011-09-03",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄巨蛋"
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         }
       ]
     },
@@ -369,14 +417,20 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2011-12-02",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -408,14 +462,20 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2012-06-03",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -450,14 +510,20 @@
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "九龍灣國際展貿中心 ROTUNDA 3"
+          "venue": "九龍灣國際展貿中心 ROTUNDA 3",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
         },
         {
           "date": "2012-12-07",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "濱海藝術中心"
+          "venue": "濱海藝術中心",
+          "lat": 1.2897222222222222,
+          "lon": 103.85527777777777,
+          "geo": "venue"
         }
       ]
     },
@@ -496,28 +562,40 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海體育館"
+          "venue": "上海體育館",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
         },
         {
           "date": "2013-08-31",
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "工人體育館"
+          "venue": "工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
         },
         {
           "date": "2013-11-23",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2014-08-09",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄巨蛋"
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         }
       ]
     },
@@ -552,14 +630,20 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2014-09-03",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "亞洲國際博覽館"
+          "venue": "亞洲國際博覽館",
+          "lat": 22.32136446128948,
+          "lon": 113.94375298172237,
+          "geo": "venue"
         }
       ]
     },
@@ -591,14 +675,20 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei 傳 音樂展演空間"
+          "venue": "Legacy Taipei 傳 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2015-05-17",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei 傳 音樂展演空間"
+          "venue": "Legacy Taipei 傳 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -649,70 +739,100 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2016-09-10",
           "precision": "day",
           "region": "中國大陸",
           "city": "深圳",
-          "venue": "深圳灣體育中心“春蠶”體育館"
+          "venue": "深圳灣體育中心“春蠶”體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
         },
         {
           "date": "2016-10-29",
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "首都體育館"
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
         },
         {
           "date": "2016-12-03",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海大舞臺"
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
         },
         {
           "date": "2016-12-10",
           "precision": "day",
           "region": "新加坡",
           "city": "新加坡",
-          "venue": "星宇表演藝術中心"
+          "venue": "星宇表演藝術中心",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
         },
         {
           "date": "2017-04-15",
           "precision": "day",
           "region": "中國大陸",
           "city": "洛陽",
-          "venue": "洛陽新區體育館"
+          "venue": "洛陽新區體育館",
+          "lat": 34.65867,
+          "lon": 112.42447,
+          "geo": "city"
         },
         {
           "date": "2017-05-06",
           "precision": "day",
           "region": "中國大陸",
           "city": "武漢",
-          "venue": "湖北洪山體育館"
+          "venue": "湖北洪山體育館",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
         },
         {
           "date": "2017-06-23",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "九龍灣國際展貿中心匯星 Star Hall"
+          "venue": "九龍灣國際展貿中心匯星 Star Hall",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
         },
         {
           "date": "2017-06-24",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "九龍灣國際展貿中心匯星 Star Hall"
+          "venue": "九龍灣國際展貿中心匯星 Star Hall",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
         },
         {
           "date": "2017-07-08",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "四川省體育館"
+          "venue": "四川省體育館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         }
       ]
     },
@@ -759,56 +879,80 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2019-10-20",
           "precision": "day",
           "region": "臺灣",
           "city": "臺中",
-          "venue": "Legacy Taichung"
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
         },
         {
           "date": "2019-11-02",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "LIVE WAREHOUSE"
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
         },
         {
           "date": "2019-11-16",
           "precision": "day",
           "region": "中國大陸",
           "city": "昆明",
-          "venue": "雲南海埂會堂"
+          "venue": "雲南海埂會堂",
+          "lat": 25.043333333333,
+          "lon": 102.70611111111,
+          "geo": "city"
         },
         {
           "date": "2019-11-23",
           "precision": "day",
           "region": "中國大陸",
           "city": "南京",
-          "venue": "南京奧林匹克體育中心體育館"
+          "venue": "南京奧林匹克體育中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
         },
         {
           "date": "2019-11-30",
           "precision": "day",
           "region": "中國大陸",
           "city": "西安",
-          "venue": "曲江大禮堂(西安曲江國際會議中心三樓)"
+          "venue": "曲江大禮堂(西安曲江國際會議中心三樓)",
+          "lat": 34.26111111111111,
+          "lon": 108.94222222222223,
+          "geo": "city"
         },
         {
           "date": "2020-01-04",
           "precision": "day",
           "region": "中國大陸",
           "city": "濟南",
-          "venue": "山東省會大劇院"
+          "venue": "山東省會大劇院",
+          "lat": 36.668,
+          "lon": 116.9028,
+          "geo": "venue"
         },
         {
           "date": "2020-01-11",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州中山紀念堂"
+          "venue": "廣州中山紀念堂",
+          "lat": 23.136080555555555,
+          "lon": 113.25935833333334,
+          "geo": "venue"
         }
       ]
     },
@@ -844,28 +988,40 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2022-09-24",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "LIVE WAREHOUSE"
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
         },
         {
           "date": "2022-09-25",
           "precision": "day",
           "region": "臺灣",
           "city": "臺中",
-          "venue": "Legacy Taichung"
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
         },
         {
           "date": "2022-10-01",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -924,105 +1080,150 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2023-05-07",
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2023-06-25",
           "precision": "day",
           "region": "香港",
           "city": "香港",
-          "venue": "香港體育館"
+          "venue": "香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2023-07-29",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州體育館"
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
         },
         {
           "date": "2023-10-28",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "成都金融城演藝中心"
+          "venue": "成都金融城演藝中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2023-11-11",
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "首都體育館"
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
         },
         {
           "date": "2023-11-18",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海東方體育中心"
+          "venue": "上海東方體育中心",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
         },
         {
           "date": "2023-12-23",
           "precision": "day",
           "region": "中國大陸",
           "city": "深圳",
-          "venue": "深圳灣體育中心“春蠶”體育館"
+          "venue": "深圳灣體育中心“春蠶”體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
         },
         {
           "date": "2024-06-15",
           "precision": "day",
           "region": "中國大陸",
           "city": "杭州",
-          "venue": "杭州奧體中心體育館"
+          "venue": "杭州奧體中心體育館",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
         },
         {
           "date": "2024-06-29",
           "precision": "day",
           "region": "中國大陸",
           "city": "廈門",
-          "venue": "廈門奧林匹克中心鳳凰體育館"
+          "venue": "廈門奧林匹克中心鳳凰體育館",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "city"
         },
         {
           "date": "2024-07-06",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "上海東方體育中心（返場）"
+          "venue": "上海東方體育中心（返場）",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
         },
         {
           "date": "2024-07-20",
           "precision": "day",
           "region": "中國大陸",
           "city": "重慶",
-          "venue": "重慶華熙LIVE 魚洞文體中心"
+          "venue": "重慶華熙LIVE 魚洞文體中心",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
         },
         {
           "date": "2024-07-27",
           "precision": "day",
           "region": "中國大陸",
           "city": "武漢",
-          "venue": "武漢光谷國際網球中心"
+          "venue": "武漢光谷國際網球中心",
+          "lat": 30.4756,
+          "lon": 114.45635,
+          "geo": "venue"
         },
         {
           "date": "2024-08-03",
           "precision": "day",
           "region": "中國大陸",
           "city": "蘇州",
-          "venue": "蘇州奧林匹克體育中心體育館"
+          "venue": "蘇州奧林匹克體育中心體育館",
+          "lat": 31.3,
+          "lon": 120.61944444444444,
+          "geo": "city"
         },
         {
           "date": "2024-09-14",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄巨蛋（終站）"
+          "venue": "高雄巨蛋（終站）",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         }
       ]
     },
@@ -1063,35 +1264,50 @@
           "precision": "day",
           "region": "臺灣",
           "city": "新北",
-          "venue": "Zepp New Taipei"
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
         },
         {
           "date": "2026-04-18",
           "precision": "day",
           "region": "中國大陸",
           "city": "上海",
-          "venue": "靜安體育中心"
+          "venue": "靜安體育中心",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
         },
         {
           "date": "2026-05-16",
           "precision": "day",
           "region": "中國大陸",
           "city": "廣州",
-          "venue": "廣州亞運城綜合體育館體操館"
+          "venue": "廣州亞運城綜合體育館體操館",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
         },
         {
           "date": "2026-05-23",
           "precision": "day",
           "region": "中國大陸",
           "city": "成都",
-          "venue": "成都金融城演藝中心"
+          "venue": "成都金融城演藝中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2026-10-17",
           "precision": "day",
           "region": "臺灣",
           "city": "高雄",
-          "venue": "高雄流行音樂中心"
+          "venue": "高雄流行音樂中心",
+          "lat": 22.61777778,
+          "lon": 120.28888889,
+          "geo": "venue"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "slug": "julia-peng",
-  "fetchedAt": "2026-09-17T12:29:17.503Z",
+  "fetchedAt": "2026-09-17T13:05:24.217Z",
   "wiki": "彭佳慧",
   "bio": {
     "born": {
@@ -38,7 +38,10 @@
           "precision": "year",
           "region": "",
           "city": "臺北",
-          "venue": "臺北國際會議中心"
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
         }
       ]
     },
@@ -68,7 +71,10 @@
           "precision": "day",
           "region": "",
           "city": "高雄",
-          "venue": "高雄巨蛋"
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         }
       ]
     },
@@ -98,7 +104,10 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         }
       ]
     },
@@ -128,7 +137,10 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         }
       ]
     },
@@ -162,21 +174,30 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北Legacy音樂展演空間"
+          "venue": "臺北Legacy音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2019-11-02",
           "precision": "day",
           "region": "",
           "city": "臺中",
-          "venue": "臺中Legacy音樂展演空間"
+          "venue": "臺中Legacy音樂展演空間",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
         },
         {
           "date": "2019-11-03",
           "precision": "day",
           "region": "",
           "city": "高雄",
-          "venue": "LiveWarehouse"
+          "venue": "LiveWarehouse",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
         }
       ]
     },
@@ -208,14 +229,20 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2023-07-22",
           "precision": "day",
           "region": "",
           "city": "高雄",
-          "venue": "高雄巨蛋"
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         }
       ]
     },
@@ -255,42 +282,60 @@
           "precision": "day",
           "region": "",
           "city": "新加坡",
-          "venue": "濱海藝術中心劇院"
+          "venue": "濱海藝術中心劇院",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
         },
         {
           "date": "2024-09-01",
           "precision": "month",
           "region": "",
           "city": "屏東",
-          "venue": "屏東演藝廳-音樂廳"
+          "venue": "屏東演藝廳-音樂廳",
+          "lat": 22.676111111111,
+          "lon": 120.49416666667,
+          "geo": "city"
         },
         {
           "date": "2024-11-22",
           "precision": "day",
           "region": "",
           "city": "廣州",
-          "venue": "廣州媒棚LIVE"
+          "venue": "廣州媒棚LIVE",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
         },
         {
           "date": "2024-11-30",
           "precision": "day",
           "region": "",
           "city": "上海",
-          "venue": "迴響之地 Music Park"
+          "venue": "迴響之地 Music Park",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
         },
         {
           "date": "2024-12-14",
           "precision": "day",
           "region": "",
           "city": "成都",
-          "venue": "東區超現場"
+          "venue": "東區超現場",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
         },
         {
           "date": "2025-01-04",
           "precision": "day",
           "region": "",
           "city": "長沙",
-          "venue": "長沙達豐空間"
+          "venue": "長沙達豐空間",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "city"
         }
       ]
     },
@@ -330,42 +375,60 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2025-09-06",
           "precision": "day",
           "region": "",
           "city": "佛山",
-          "venue": "佛山南海體育館"
+          "venue": "佛山南海體育館",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
         },
         {
           "date": "2025-09-13",
           "precision": "day",
           "region": "",
           "city": "蘇州",
-          "venue": "蘇州獨墅湖文體中心體育館"
+          "venue": "蘇州獨墅湖文體中心體育館",
+          "lat": 31.3,
+          "lon": 120.61944444444444,
+          "geo": "city"
         },
         {
           "date": "2025-11-08",
           "precision": "day",
           "region": "",
           "city": "上海",
-          "venue": "上海回響之地"
+          "venue": "上海回響之地",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
         },
         {
           "date": "2026-03-28",
           "precision": "day",
           "region": "",
           "city": "馬來西亞",
-          "venue": "雲頂雲星劇場"
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
         },
         {
           "date": "2026-04-25",
           "precision": "day",
           "region": "",
           "city": "福清",
-          "venue": "福清體育館"
+          "venue": "福清體育館",
+          "lat": 25.72316,
+          "lon": 119.37347,
+          "geo": "city"
         }
       ]
     },
@@ -397,14 +460,20 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2026-11-21",
           "precision": "day",
           "region": "",
           "city": "高雄",
-          "venue": "高雄巨蛋"
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
         }
       ]
     }

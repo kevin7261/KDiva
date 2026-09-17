@@ -1,6 +1,6 @@
 <script setup>
 // 巡演地圖：每個演出地點一個圓點（場次越多越大），依第一次演出的順序以虛線連成路線；滑過看城市、場館與日期。
-// Leaflet 只在打開地圖時才載入；底圖用 CARTO（淺色／深色跟著網站主題）。
+// Leaflet 只在打開地圖時才載入；底圖用 OpenStreetMap（地名用當地文字：台灣、中國、港澳是中文），深色模式把底圖反轉。
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { theme } from '../lib/prefs.js'
 import { formatDay } from '../lib/format.js'
@@ -27,10 +27,6 @@ const stops = computed(() => {
 })
 const missing = computed(() => props.shows.filter((s) => s.lat == null).length)
 
-const isDark = () =>
-  theme.value ? theme.value === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches
-const tileUrl = () =>
-  `https://{s}.basemaps.cartocdn.com/${isDark() ? 'dark_all' : 'light_all'}/{z}/{x}/{y}{r}.png`
 const css = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim()
 
 const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c])
@@ -71,27 +67,23 @@ onMounted(async () => {
   await import('leaflet/dist/leaflet.css')
   if (!el.value) return
   map = L.map(el.value, { scrollWheelZoom: false, worldCopyJump: true })
-  tiles = L.tileLayer(tileUrl(), {
-    subdomains: 'abcd',
+  tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   }).addTo(map)
   draw()
 })
 
 watch(stops, draw)
-// 切換深淺色時換底圖與顏色
-watch(theme, () => {
-  tiles?.setUrl(tileUrl())
-  requestAnimationFrame(draw)
-})
+// 切換深淺色時重畫圓點顏色（底圖的深色由 CSS 處理）
+watch(theme, () => requestAnimationFrame(draw))
 
 onBeforeUnmount(() => map?.remove())
 </script>
 
 <template>
   <div class="tour-map">
-    <div ref="el" class="canvas" role="img" :aria-label="`巡演地圖，${stops.length} 個地點`" />
+    <div ref="el" class="canvas tour-map-canvas" role="img" :aria-label="`巡演地圖，${stops.length} 個地點`" />
     <p class="muted note">
       {{ stops.length }} 個地點，虛線依演出先後連接；圓點越大場次越多，滑過看城市、場館、日期。<template v-if="missing">另有 {{ missing }} 場找不到地點座標，沒有畫在圖上。</template>
       按住拖曳移動、用 + − 縮放。
@@ -139,5 +131,17 @@ onBeforeUnmount(() => map?.remove())
 }
 :global(.leaflet-container) {
   font-family: var(--font);
+}
+</style>
+
+<style>
+/* 深色模式：OpenStreetMap 沒有深色底圖，反轉顏色後把色相轉回來（水是深藍、陸地是深灰） */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .tour-map-canvas .leaflet-tile-pane {
+    filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9) saturate(0.6);
+  }
+}
+:root[data-theme='dark'] .tour-map-canvas .leaflet-tile-pane {
+  filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9) saturate(0.6);
 }
 </style>
