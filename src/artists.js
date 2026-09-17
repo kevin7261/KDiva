@@ -153,7 +153,7 @@ export const ARTISTS = [
   { slug: 'daniel-chan', group: 'male', name: '陳曉東', en: 'Daniel Chan', debut: '1996', channelId: 'UC0MsG_EpoTYroJTVQKFRJEw', wiki: '陳曉東', aliases: ['陈晓东'] },
   { slug: 'ronald-cheng', group: 'male', name: '鄭中基', en: 'Ronald Cheng', debut: '1996', channelId: 'UCDwUaazcemLB7FLqGRESgFA', wiki: '鄭中基', aliases: ['郑中基'] },
   { slug: 'shunza', group: 'female', name: '順子', en: 'Shunza', debut: '1996-11', channelId: 'UC-Cgo2VEj08oCVpbA2ME_IQ', wiki: '順子' },
-  { slug: 'a-mei', group: 'female', name: '張惠妹', en: 'A-Mei', debut: '1996-12', channelId: 'UC5M7vIbPTCOMVF3lTtbeO6g', wiki: '張惠妹', aliases: ['Chang Hui Mei', 'aMEI', '阿密特'] },
+  { slug: 'a-mei', group: 'female', name: '張惠妹', en: 'A-Mei', debut: '1996-12', channelId: 'UC5M7vIbPTCOMVF3lTtbeO6g', wiki: '張惠妹', aliases: ['Chang Hui Mei', 'aMEI', '阿密特', 'AMIT'] },
   { slug: 'tanya-chua', group: 'female', name: '蔡健雅', en: 'Tanya Chua', debut: '1997', channelId: 'UCKbk-Nog0Sac_NHWntf3RHQ', wiki: '蔡健雅' },
   { slug: 'panda-hsiung', group: 'male', name: '熊天平', en: 'Panda Hsiung', debut: '1997', channelId: 'UC7_HyHd-8qMYqUQ3r5TJA7w', wiki: '熊天平' },
   { slug: 'luantan-ascent', group: 'male', name: '乱彈阿翔', en: 'Ascent Chen', debut: '1997', channelId: 'UCMjgvKNBlQdvdf6n3IuRyEA', wiki: '乱彈阿翔', aliases: ['亂彈阿翔', '陳泰翔'] },

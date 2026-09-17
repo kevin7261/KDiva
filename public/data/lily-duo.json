@@ -2,13 +2,31 @@
   "slug": "lily-duo",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T16:27:07.116Z",
+  "fetchedAt": "2026-09-17T23:45:31.906Z",
   "artist": {
     "channelId": "UCForA53W3XrX3HaW-C7Ws4w",
     "name": "大小百合",
     "thumbnail": "https://yt3.googleusercontent.com/EBMK7n-ZKy1UNMKWXSO_xhiJEMTMHCZX9M3joFVPj7nOJhydJXynBWGCQ0d-P_ua8Xx7ERPcMQ=w1004-h418-l90-rj-dcjVGa1SjooYcC",
     "subscribers": 431,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "光陰的故事 (Official Video)",
+        "videoId": "Dw7L_92QYKM"
+      },
+      {
+        "title": "無水的彩筆 (Official Video)",
+        "videoId": "u92CIO_CxvA"
+      },
+      {
+        "title": "紅蜻蜓 (Official Video)",
+        "videoId": "VFk38tprFos"
+      },
+      {
+        "title": "罪人 (Official Video)",
+        "videoId": "-_NMeExFwJ0"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/3Kr08DWXmmmMIblFq9fstWRS-Vm2WsyoJ_rV6SlFrSA1zRuo4da-81-bBtbaxJVWYi0YCt0qDw=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -16,7 +34,7 @@
       "browseId": "MPREb_eK3rnCbwpt1",
       "playlistId": "OLAK5uy_nvjzlveJ45GNt8J5BJFI1OS4B5WX9eEXo",
       "title": "8點檔連續劇主題曲 第八輯 (才子佳人乾隆皇 主題曲片尾插曲)",
-      "albumArtist": "大小百合、黃維德和韓瑜",
+      "albumArtist": "大小百合、黃維德 和 韓瑜",
       "type": "Album",
       "year": 1990,
       "thumbnail": "https://yt3.googleusercontent.com/YiSHyGU86P7IwkBcW9-2KTaR8FVuAXLIWAGO6IWDqfKltp-rv-V6a3rLN_7cqKy8p_7riCTFjQA8AhtZ=w544-h544-l90-rj",
@@ -24,7 +42,7 @@
         {
           "index": 1,
           "title": "金石盟 (才子佳人乾隆皇 片尾曲)",
-          "artists": "大小百合、黃維德、韓瑜、王皓和蔡安蕎",
+          "artists": "大小百合、黃維德、韓瑜 和 王皓",
           "videoId": "bITgKaAKMJw",
           "plays": 17000,
           "playsText": "播放次數：1.7萬",
@@ -35,7 +53,7 @@
         {
           "index": 2,
           "title": "才子佳人 (才子佳人乾隆皇 片頭曲)",
-          "artists": "大小百合、黃維德、韓瑜、王皓和蔡安蕎",
+          "artists": "大小百合、黃維德、韓瑜 和 王皓",
           "videoId": "67NyQIvg5x8",
           "plays": 7935,
           "playsText": "播放次數：7935",
@@ -107,9 +125,9 @@
           "playsText": "播放次數：2.2萬",
           "duration": 312,
           "byOther": false,
-          "nameKey": "心肝寶貝",
           "titleZh": "心肝寶貝 (臺語版)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "心肝寶貝"
         },
         {
           "index": 9,
@@ -159,9 +177,9 @@
           "playsText": "播放次數：837",
           "duration": 223,
           "byOther": false,
-          "nameKey": "匆匆的走過",
           "titleZh": "匆匆的走過",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "匆匆的走過"
         },
         {
           "index": 2,
@@ -172,9 +190,9 @@
           "playsText": "播放次數：698",
           "duration": 243,
           "byOther": false,
-          "nameKey": "緣",
           "titleZh": "緣",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "緣"
         },
         {
           "index": 3,
@@ -185,9 +203,9 @@
           "playsText": "播放次數：1769",
           "duration": 251,
           "byOther": false,
-          "nameKey": "風中的早晨",
           "titleZh": "風中的早晨",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "風中的早晨"
         },
         {
           "index": 4,
@@ -198,9 +216,9 @@
           "playsText": "播放次數：671",
           "duration": 208,
           "byOther": false,
-          "nameKey": "舞衣淚痕",
           "titleZh": "舞衣淚痕",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "舞衣淚痕"
         },
         {
           "index": 5,
@@ -222,9 +240,9 @@
           "playsText": "播放次數：367",
           "duration": 256,
           "byOther": false,
-          "nameKey": "女人心的對話",
           "titleZh": "女人心的對話",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "女人心的對話"
         },
         {
           "index": 7,
@@ -246,9 +264,9 @@
           "playsText": "播放次數：1755",
           "duration": 247,
           "byOther": false,
-          "nameKey": "動不動就說愛我",
           "titleZh": "動不動就說愛我",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "動不動就說愛我"
         },
         {
           "index": 9,
@@ -259,9 +277,9 @@
           "playsText": "播放次數：445",
           "duration": 177,
           "byOther": false,
-          "nameKey": "夢鄉",
           "titleZh": "夢鄉",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "夢鄉"
         },
         {
           "index": 10,
@@ -272,9 +290,9 @@
           "playsText": "播放次數：505",
           "duration": 244,
           "byOther": false,
-          "nameKey": "滄海桑田",
           "titleZh": "滄海桑田",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "滄海桑田"
         }
       ],
       "releaseDate": null,
@@ -364,8 +382,8 @@
           "title": "一支小雨傘",
           "artists": "",
           "videoId": "1f0esZjgG5c",
-          "plays": 966,
-          "playsText": "播放次數：966",
+          "plays": 968,
+          "playsText": "播放次數：968",
           "duration": 222,
           "byOther": false,
           "nameKey": "一支小雨傘"
@@ -375,8 +393,8 @@
           "title": "海海人生",
           "artists": "",
           "videoId": "_HYBENDwrFk",
-          "plays": 1219,
-          "playsText": "播放次數：1219",
+          "plays": 1220,
+          "playsText": "播放次數：1220",
           "duration": 288,
           "byOther": false,
           "nameKey": "海海人生"
@@ -524,8 +542,8 @@
           "title": "激情過後",
           "artists": "",
           "videoId": "YOzgoLHlyGY",
-          "plays": 416,
-          "playsText": "播放次數：416",
+          "plays": 418,
+          "playsText": "播放次數：418",
           "duration": 244,
           "byOther": false,
           "nameKey": "激情過後"
@@ -585,8 +603,8 @@
           "title": "分送寂寞和愛",
           "artists": "",
           "videoId": "u8AkidE6E-0",
-          "plays": 1090,
-          "playsText": "播放次數：1090",
+          "plays": 1091,
+          "playsText": "播放次數：1091",
           "duration": 194,
           "byOther": false,
           "nameKey": "分送寂寞和愛"
@@ -783,24 +801,6 @@
       "wikiTitle": "百合二重唱",
       "source": "table",
       "year": 1993
-    },
-    {
-      "title": "10大冠軍曲1969-1994(國語)",
-      "releaseDate": "1994-01-01",
-      "releaseDatePrecision": "year",
-      "kind": null,
-      "wikiTitle": "百合二重唱",
-      "source": "table",
-      "year": 1994
-    },
-    {
-      "title": "10大冠軍曲1982-1994(台語)",
-      "releaseDate": "1994-01-01",
-      "releaseDatePrecision": "year",
-      "kind": null,
-      "wikiTitle": "百合二重唱",
-      "source": "table",
-      "year": 1994
     }
   ],
   "wikiWritten": []

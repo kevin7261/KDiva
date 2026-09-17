@@ -2,13 +2,23 @@
   "slug": "johnnybug-chen",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T21:16:51.957Z",
+  "fetchedAt": "2026-09-17T23:40:47.436Z",
   "artist": {
     "channelId": "UCfDH7toJB8KCuM4GOWhXsWg",
     "name": "小虫",
     "thumbnail": "https://yt3.googleusercontent.com/pWtgU_MCdzssv8sSaHKm2iPC4r5lfVssZp2B3zsk0yVyzmOm8QaFqyLMVGXYDrohSHxlOXeK=w1144-h476-l90-rj-dcpRWizZUK",
     "subscribers": 1510,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "有你真好",
+        "videoId": "N1FyIsstRxk"
+      },
+      {
+        "title": "《常來》2025年央视跨年",
+        "videoId": "-G7zWviBDzY"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/xh0GYozjgPcPFRViMOClLSq0Z0wZlDaggIN_IfEGR9apDtg9h0NCEwsLx5ogXILQCUo-rGDsKw=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -175,8 +185,8 @@
           "title": "不想你也难",
           "artists": "",
           "videoId": "QW8uYveeNDA",
-          "plays": 3240,
-          "playsText": "播放次數：3240",
+          "plays": 3239,
+          "playsText": "播放次數：3239",
           "duration": 279,
           "byOther": false,
           "titleZh": "不想你也難",
@@ -1225,8 +1235,8 @@
           "title": "钟爱一生",
           "artists": "",
           "videoId": "RfgG2cCDIXM",
-          "plays": 5732,
-          "playsText": "播放次數：5732",
+          "plays": 5733,
+          "playsText": "播放次數：5733",
           "duration": 301,
           "byOther": false,
           "titleZh": "鍾愛一生",
@@ -1238,8 +1248,8 @@
           "title": "我和我自己的影子",
           "artists": "",
           "videoId": "jiVPTTf84Uw",
-          "plays": 3988,
-          "playsText": "播放次數：3988",
+          "plays": 3989,
+          "playsText": "播放次數：3989",
           "duration": 311,
           "byOther": false,
           "nameKey": "我和我自己的影子"
@@ -1461,24 +1471,6 @@
       "wikiTitle": "陳煥昌",
       "source": "table",
       "year": 1986
-    },
-    {
-      "title": "神鵰俠侶",
-      "releaseDate": "2006-05-13",
-      "releaseDatePrecision": "day",
-      "kind": null,
-      "wikiTitle": "神鵰俠侶 (2006年電視劇)",
-      "source": "album-page",
-      "year": 2006
-    },
-    {
-      "title": "有你真好",
-      "releaseDate": "2013-03-01",
-      "releaseDatePrecision": "month",
-      "kind": "studio",
-      "wikiTitle": "陳煥昌",
-      "source": "table",
-      "year": 2013
     }
   ],
   "wikiWritten": []
