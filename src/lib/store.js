@@ -32,6 +32,28 @@ export function loadArtist(slug) {
   return pending.get(slug)
 }
 
+// 演唱會與生平（public/data/concerts/<slug>.json）、年表（public/data/timeline.json）：只在需要的頁面載入
+const extras = shallowReactive(new Map())
+
+function loadExtra(key, path) {
+  if (!extras.has(key)) {
+    extras.set(
+      key,
+      fetch(`${import.meta.env.BASE_URL}data/${path}`, { cache: 'no-cache' }).then((res) => {
+        if (!res.ok) {
+          extras.delete(key)
+          throw new Error(`讀不到 ${path}（HTTP ${res.status}），請先執行 npm run fetch-concerts`)
+        }
+        return res.json()
+      }),
+    )
+  }
+  return extras.get(key)
+}
+
+export const loadConcerts = (slug) => loadExtra(`concerts:${slug}`, `concerts/${slug}.json`)
+export const loadTimeline = () => loadExtra('timeline', 'timeline.json')
+
 export const loadAll = (list = ARTISTS) => Promise.allSettled(list.map((a) => loadArtist(a.slug)))
 
 /** 開發模式：請 Vite 伺服器重新抓取並回傳新資料 */

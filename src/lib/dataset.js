@@ -164,6 +164,8 @@ export function buildModel(raw, artistConfig = {}) {
       title: versions[0].title,
       plays: plays < 0 ? null : plays,
       duration: versions[0].duration,
+      // 詞／曲／編曲（取自 Wikipedia）：任一版本有就用
+      credits: versions.find((t) => t.credits)?.credits ?? null,
       year: origin.displayYear,
       origin,
       appearsOn: list,
@@ -187,6 +189,7 @@ export function buildModel(raw, artistConfig = {}) {
       into.plays = into.plays == null && song.plays == null ? null : (into.plays ?? 0) + (song.plays ?? 0)
       into.appearsOn = [...new Set([...into.appearsOn, ...song.appearsOn])].sort(byOrigin)
       if (byOrigin(song.origin, into.origin) < 0) Object.assign(into, { origin: song.origin, year: song.year })
+      into.credits ??= song.credits
       into.versions++
     }
     mergedOf.set(key, merged.get(group))

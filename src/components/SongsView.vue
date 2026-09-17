@@ -1,6 +1,6 @@
 <script setup>
 import { computed, ref } from 'vue'
-import { formatCount, formatFull, formatDuration, watchUrl } from '../lib/format.js'
+import { formatCount, formatFull, formatDuration, watchUrl, creditLines } from '../lib/format.js'
 
 const props = defineProps({
   model: { type: Object, required: true },
@@ -123,7 +123,7 @@ function exportCsv() {
       <tbody>
         <tr v-for="s in rows" :key="s.id">
           <td class="num col-rank muted">{{ s.rank }}</td>
-          <td class="col-name">
+          <td class="col-name" v-tip="[s.name, ...creditLines(s.credits)]">
             <a v-if="s.videoId" :href="watchUrl(s.videoId)" target="_blank" rel="noopener">{{ s.name }}</a>
             <span v-else>{{ s.name }}</span>
             <div v-if="s.alt" class="muted small">{{ s.alt }}</div>

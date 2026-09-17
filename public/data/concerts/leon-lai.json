@@ -1,0 +1,1834 @@
+{
+  "slug": "leon-lai",
+  "fetchedAt": "2026-09-17T12:28:43.140Z",
+  "wiki": "黎明",
+  "bio": {
+    "born": {
+      "date": "1966-12-11",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "黎明愛你演唱會",
+      "page": "黎明愛你演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "1991-06-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1991-06-21",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "大學會堂"
+      ],
+      "venues": [
+        "大學會堂"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明·我的感覺演唱會",
+      "page": "黎明·我的感覺演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "1991-12-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1991-12-18",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "香港文化中心"
+      ],
+      "venues": [
+        "香港文化中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明浪漫Party",
+      "page": "黎明浪漫Party",
+      "kind": "concert",
+      "start": {
+        "date": "1991-12-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1992-01-02",
+        "precision": "day"
+      },
+      "showCount": 6,
+      "regions": [],
+      "cities": [
+        "海城大酒樓夜總會"
+      ],
+      "venues": [
+        "海城大酒樓夜總會"
+      ],
+      "shows": []
+    },
+    {
+      "name": "親近您黎明演唱會",
+      "page": "親近您黎明演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "1992-02-11",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1992-02-20",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "新加坡",
+        "馬來西亞吉隆坡",
+        "馬來西亞怡保市",
+        "馬來西亞檳城永久展覽館"
+      ],
+      "cities": [
+        "新加坡室內體育館"
+      ],
+      "venues": [
+        "新加坡室內體育館",
+        "國家體育館",
+        "霹靂體育場",
+        "檳城永久展覽館"
+      ],
+      "shows": [
+        {
+          "date": "1992-02-11",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "新加坡室內體育館"
+        },
+        {
+          "date": "1992-02-14",
+          "precision": "day",
+          "region": "馬來西亞吉隆坡",
+          "city": "",
+          "venue": "國家體育館"
+        },
+        {
+          "date": "1992-02-18",
+          "precision": "day",
+          "region": "馬來西亞怡保市",
+          "city": "",
+          "venue": "霹靂體育場"
+        },
+        {
+          "date": "1992-02-20",
+          "precision": "day",
+          "region": "馬來西亞檳城永久展覽館",
+          "city": "",
+          "venue": "檳城永久展覽館"
+        }
+      ]
+    },
+    {
+      "name": "黎明美加巡迴演唱會九二",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1992-04-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1992-04-03",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "美國"
+      ],
+      "cities": [
+        "三藩市"
+      ],
+      "venues": [
+        "三藩市"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明一夜傾情演唱會92",
+      "page": "黎明一夜傾情演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "1992-10-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1992-10-14",
+        "precision": "day"
+      },
+      "showCount": 10,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "北京黎明演唱會",
+      "page": "北京黎明演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "1992-10-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1992-11-01",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [],
+      "cities": [
+        "北京"
+      ],
+      "venues": [
+        "北京首都體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明為您傾情廣東巡迴演唱會",
+      "page": "黎明為您傾情廣東巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "1992-11-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1992-12-09",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "深圳市",
+        "中山市",
+        "廣州市"
+      ],
+      "cities": [
+        "深圳"
+      ],
+      "venues": [
+        "深圳體育館",
+        "中山體育館",
+        "廣州天河體育館"
+      ],
+      "shows": [
+        {
+          "date": "1992-11-21",
+          "precision": "day",
+          "region": "深圳市",
+          "city": "",
+          "venue": "深圳體育館"
+        },
+        {
+          "date": "1992-11-27",
+          "precision": "day",
+          "region": "中山市",
+          "city": "",
+          "venue": "中山體育館"
+        },
+        {
+          "date": "1992-12-05",
+          "precision": "day",
+          "region": "廣州市",
+          "city": "",
+          "venue": "廣州天河體育館"
+        }
+      ]
+    },
+    {
+      "name": "黎明我的親愛音樂會ICHIBAN",
+      "page": "黎明我的親愛音樂會ICHIBAN",
+      "kind": "concert",
+      "start": {
+        "date": "1992-12-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1992-12-18",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "香港演藝學院"
+      ],
+      "venues": [
+        "香港演藝學院"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明夏日傾情演唱會",
+      "page": "黎明夏日傾情演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "1993-08-08",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1993-08-25",
+        "precision": "day"
+      },
+      "showCount": 20,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明中國巡迴演唱會",
+      "page": "黎明中國巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "1993-09-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1993-11-21",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "上海市",
+        "南京市",
+        "武漢市",
+        "珠海市"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "venues": [
+        "上海體育館",
+        "南京奧林匹克體育中心",
+        "洪山體育館"
+      ],
+      "shows": [
+        {
+          "date": "1993-09-18",
+          "precision": "day",
+          "region": "上海市",
+          "city": "",
+          "venue": "上海體育館"
+        },
+        {
+          "date": "1993-09-24",
+          "precision": "day",
+          "region": "南京市",
+          "city": "",
+          "venue": "南京奧林匹克體育中心"
+        },
+        {
+          "date": "1993-11-20",
+          "precision": "day",
+          "region": "武漢市",
+          "city": "",
+          "venue": "洪山體育館"
+        },
+        {
+          "date": "1993-12-01",
+          "precision": "month",
+          "region": "珠海市",
+          "city": "",
+          "venue": ""
+        }
+      ]
+    },
+    {
+      "name": "不可推搪的黎明生日約會",
+      "page": "不可推搪的黎明生日約會",
+      "kind": "concert",
+      "start": {
+        "date": "1993-12-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1993-12-16",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "香港文化中心音樂廳及露天廣場"
+      ],
+      "venues": [
+        "香港文化中心音樂廳及露天廣場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "多一點心愛黎明音樂會",
+      "page": "多一點心愛黎明音樂會",
+      "kind": "concert",
+      "start": {
+        "date": "1994-01-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1994-01-30",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "維多利亞公園中央草坪"
+      ],
+      "venues": [
+        "維多利亞公園中央草坪"
+      ],
+      "shows": []
+    },
+    {
+      "name": "東南亞巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1994-04-08",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1994-04-08",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "新加坡"
+      ],
+      "cities": [
+        "新加坡室內體育館"
+      ],
+      "venues": [
+        "新加坡室內體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "美加巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1994-10-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "1994-10-01",
+        "precision": "month"
+      },
+      "showCount": 11,
+      "regions": [
+        "美國、加拿大"
+      ],
+      "cities": [
+        "大西洋城、三藩市、洛杉磯、加拿大等"
+      ],
+      "venues": [
+        "大西洋城、三藩市、洛杉磯、加拿大等"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明新年音樂會",
+      "page": "黎明新年音樂會",
+      "kind": "concert",
+      "start": {
+        "date": "1995-01-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-01-03",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "旺角大球場"
+      ],
+      "venues": [
+        "旺角大球場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "陽光之家黎明慈善夜",
+      "page": "陽光之家黎明慈善夜",
+      "kind": "concert",
+      "start": {
+        "date": "1995-03-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-03-16",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明情深澳洲巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1995-05-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-05-01",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "澳洲"
+      ],
+      "cities": [
+        "悉尼"
+      ],
+      "venues": [
+        "悉尼"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明傾情接觸廣東巡迴演唱會",
+      "page": "黎明傾情接觸廣東巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "1995-07-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-08-06",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "南海區",
+        "肇慶市",
+        "廣州市",
+        "中山市",
+        "順德市"
+      ],
+      "cities": [
+        "南海"
+      ],
+      "venues": [
+        "桂城體育館",
+        "肇慶體育中心體育場",
+        "廣州體育館",
+        "中山市體育館",
+        "順德體育中心體育場"
+      ],
+      "shows": [
+        {
+          "date": "1995-07-14",
+          "precision": "day",
+          "region": "南海區",
+          "city": "",
+          "venue": "桂城體育館"
+        },
+        {
+          "date": "1995-07-19",
+          "precision": "day",
+          "region": "肇慶市",
+          "city": "",
+          "venue": "肇慶體育中心體育場"
+        },
+        {
+          "date": "1995-07-22",
+          "precision": "day",
+          "region": "廣州市",
+          "city": "",
+          "venue": "廣州體育館"
+        },
+        {
+          "date": "1995-08-01",
+          "precision": "day",
+          "region": "中山市",
+          "city": "",
+          "venue": "中山市體育館"
+        },
+        {
+          "date": "1995-08-01",
+          "precision": "month",
+          "region": "順德市",
+          "city": "",
+          "venue": "順德體育中心體育場"
+        }
+      ]
+    },
+    {
+      "name": "At The Hard Rock",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1995-08-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-08-25",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "Hard Rock Cafe"
+      ],
+      "venues": [
+        "Hard Rock Cafe"
+      ],
+      "shows": []
+    },
+    {
+      "name": "那一夜我們在霓虹下起舞Neon Leon Live 95",
+      "page": "那一夜我們在霓虹下起舞Neon Leon Live 95",
+      "kind": "concert",
+      "start": {
+        "date": "1995-11-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-11-02",
+        "precision": "day"
+      },
+      "showCount": 26,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "聖誕愛心夢成真音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1995-12-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-12-25",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "香港文化中心"
+      ],
+      "venues": [
+        "香港文化中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明好友同聚慈善音樂會",
+      "page": "黎明好友同聚慈善音樂會",
+      "kind": "concert",
+      "start": {
+        "date": "1995-12-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-12-30",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "香港仔運動場"
+      ],
+      "venues": [
+        "香港仔運動場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明越南演唱會96",
+      "page": "黎明越南演唱會96",
+      "kind": "concert",
+      "start": {
+        "date": "1996-05-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1996-05-10",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "越南"
+      ],
+      "cities": [
+        "胡志明市富壽馬場"
+      ],
+      "venues": [
+        "胡志明市富壽馬場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "救救戰火中兒童音樂會",
+      "page": "救救戰火中兒童音樂會",
+      "kind": "concert",
+      "start": {
+        "date": "1996-07-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1996-07-06",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "維多利亞公園足球場"
+      ],
+      "venues": [
+        "維多利亞公園足球場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明傾情迴響音樂會",
+      "page": "黎明傾情迴響音樂會",
+      "kind": "concert",
+      "start": {
+        "date": "1996-10-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1996-10-05",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明96歐洲巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1996-11-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1996-11-03",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "法國、荷蘭、英國"
+      ],
+      "cities": [
+        "巴黎、鹿特丹、倫敦、曼徹斯特"
+      ],
+      "venues": [
+        "巴黎、鹿特丹、倫敦、曼徹斯特"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明的Live Version",
+      "page": "黎明的Live Version",
+      "kind": "concert",
+      "start": {
+        "date": "1997-12-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1998-01-08",
+        "precision": "day"
+      },
+      "showCount": 20,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明與我——歌影夢工場",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1998-03-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1998-03-19",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "伊利沙伯體育館"
+      ],
+      "venues": [
+        "伊利沙伯體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明這樣愛你萬人歌友會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1998-06-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1998-06-21",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "馬來西亞"
+      ],
+      "cities": [
+        "美拉華蒂體育館"
+      ],
+      "venues": [
+        "美拉華蒂體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明這樣愛你澳洲演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1998-10-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1998-10-03",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "澳洲"
+      ],
+      "cities": [
+        "悉尼"
+      ],
+      "venues": [
+        "悉尼"
+      ],
+      "shows": []
+    },
+    {
+      "name": "童心靜待黎明音樂會",
+      "page": "童心靜待黎明音樂會",
+      "kind": "concert",
+      "start": {
+        "date": "1999-01-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-01-30",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "香港大球場"
+      ],
+      "venues": [
+        "香港大球場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Happy 2000中國之旅巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1999-10-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-10-16",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "重慶"
+      ],
+      "venues": [
+        "大田灣體育場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Go Ahead Leon Live 99",
+      "page": "Go Ahead Leon Live 99",
+      "kind": "concert",
+      "start": {
+        "date": "1999-11-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-11-20",
+        "precision": "day"
+      },
+      "showCount": 23,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "至酷千禧年黎明大馬演唱會",
+      "page": "至酷千禧年黎明大馬演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2000-03-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2000-03-04",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "馬來西亞"
+      ],
+      "cities": [
+        "亞通體育館"
+      ],
+      "venues": [
+        "亞通體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明豪爵江門之夜演唱會",
+      "page": "黎明豪爵江門之夜演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2000-10-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2000-10-21",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "江門"
+      ],
+      "venues": [
+        "江門體育場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Happy 2000黎明廣州演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2000-11-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2000-11-25",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "廣州"
+      ],
+      "venues": [
+        "廣州天河體育場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "活力唱載跳Leon 2000演唱會",
+      "page": "活力唱載跳Leon 2000演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2000-12-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2000-12-09",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "舊啟德機場停機坪"
+      ],
+      "venues": [
+        "舊啟德機場停機坪"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明與好友雲頂演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2001-07-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2001-07-20",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "馬來西亞"
+      ],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "馬來西亞夏日黎明演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2001-07-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2001-07-21",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "馬來西亞"
+      ],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "Leon Live is Live演唱會",
+      "page": "Leon Live is Live演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2001-12-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2001-12-31",
+        "precision": "day"
+      },
+      "showCount": 12,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "多倫多演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2002-11-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "2002-11-01",
+        "precision": "month"
+      },
+      "showCount": 2,
+      "regions": [
+        "加拿大"
+      ],
+      "cities": [
+        "華瑪賭場"
+      ],
+      "venues": [
+        "華瑪賭場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "大西洋城感恩節演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2002-11-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "2002-11-01",
+        "precision": "month"
+      },
+      "showCount": 2,
+      "regions": [
+        "美國"
+      ],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "903 LEON什麼音樂會",
+      "page": "903 LEON什麼音樂會",
+      "kind": "concert",
+      "start": {
+        "date": "2004-09-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2004-09-30",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "九龍灣國際展貿中心"
+      ],
+      "venues": [
+        "九龍灣國際展貿中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Leon演唱會Crazy Classic?",
+      "page": "Leon演唱會Crazy Classic?",
+      "kind": "concert",
+      "start": {
+        "date": "2005-10-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2005-10-15",
+        "precision": "day"
+      },
+      "showCount": 6,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Happy 2006黎明北京演唱會",
+      "page": "Happy 2006黎明北京演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2005-12-31",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2005-12-31",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "北京"
+      ],
+      "venues": [
+        "北京工人體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "優越之夜黎明上海演唱會",
+      "page": "優越之夜黎明上海演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2006-01-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2006-01-21",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "上海"
+      ],
+      "venues": [
+        "上海大舞臺"
+      ],
+      "shows": []
+    },
+    {
+      "name": "美國康洲賭場聖誕節演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2006-12-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2006-12-23",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "美國"
+      ],
+      "cities": [
+        "金神大賭場"
+      ],
+      "venues": [
+        "金神大賭場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "4 In Love",
+      "page": "4 in Love演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2007-04-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2007-04-13",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Magic Live Concert",
+      "page": "Magic Live Concert",
+      "kind": "concert",
+      "start": {
+        "date": "2008-11-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2008-11-09",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "九龍灣國際展貿中心匯星"
+      ],
+      "venues": [
+        "九龍灣國際展貿中心匯星"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Happy 2008黎明杭州演唱會",
+      "page": "Happy 2008黎明杭州演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2008-12-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2008-12-27",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "杭州"
+      ],
+      "venues": [
+        "黃龍體育中心體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Dream Wedding Leon Live Summer 09",
+      "page": "Dream Wedding Leon Live Summer 09",
+      "kind": "concert",
+      "start": {
+        "date": "2009-07-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-07-16",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明Dream Wedding世界巡迴演唱會（佛山站）",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2009-11-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-11-21",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "佛山"
+      ],
+      "venues": [
+        "佛山嶺南明珠體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Leon X U 紅館演唱會2011",
+      "page": "Leon X U 紅館演唱會2011",
+      "kind": "concert",
+      "start": {
+        "date": "2011-12-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2011-12-11",
+        "precision": "day"
+      },
+      "showCount": 7,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明Leon 30th Anniversary Random Love Songs 4D in Live 2016",
+      "page": "黎明Leon 30th Anniversary Random Love Songs 4D in Live 2016",
+      "kind": "concert",
+      "start": {
+        "date": "2016-04-28",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2016-04-28",
+        "precision": "day"
+      },
+      "showCount": 8,
+      "regions": [],
+      "cities": [
+        "中環海濱活動空間"
+      ],
+      "venues": [
+        "中環海濱活動空間"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明Leon Random Love Songs Live in Studio City",
+      "page": "黎明Leon Random Love Songs Live in Studio City",
+      "kind": "concert",
+      "start": {
+        "date": "2016-07-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2016-07-23",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "新濠影滙綜藝館"
+      ],
+      "venues": [
+        "新濠影滙綜藝館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明Leon's Penguins in Live 2017",
+      "page": "黎明Leon's Penguins in Live 2017",
+      "kind": "concert",
+      "start": {
+        "date": "2017-02-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-02-24",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "中環海濱活動空間"
+      ],
+      "venues": [
+        "中環海濱活動空間"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明 Leon Random Run（澳門站）",
+      "page": "黎明 Leon Random Run",
+      "kind": "concert",
+      "start": {
+        "date": "2017-12-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-12-16",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "金光綜藝館"
+      ],
+      "venues": [
+        "金光綜藝館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Leon Lai Metro Live（澳門站）",
+      "page": "Leon Lai Metro Live",
+      "kind": "concert",
+      "start": {
+        "date": "2018-10-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-10-27",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "金光綜藝館"
+      ],
+      "venues": [
+        "金光綜藝館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明 Leon Metro Live 2.0",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-07-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-07-13",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "佛山"
+      ],
+      "venues": [
+        "佛山國際體育文化演藝中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "我們的萬聖節派對！",
+      "page": "我們的萬聖節派對！",
+      "kind": "concert",
+      "start": {
+        "date": "2019-10-31",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-10-31",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "麥花臣場館"
+      ],
+      "venues": [
+        "麥花臣場館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Leon 黎明 Talk & Sing 2021紅館演唱會",
+      "page": "Leon 黎明 Talk & Sing 2021紅館演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2021-07-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-07-18",
+        "precision": "day"
+      },
+      "showCount": 9,
+      "regions": [],
+      "cities": [
+        "紅磡體育館"
+      ],
+      "venues": [
+        "紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Drive In Ultra: LOVFINITY Vivienne Tam x Leon Lai Fashion Concert",
+      "page": "Drive In Ultra: LOVFINITY Vivienne Tam x Leon Lai Fashion Concert",
+      "kind": "concert",
+      "start": {
+        "date": "2022-12-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-12-18",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "中環海濱活動空間"
+      ],
+      "venues": [
+        "中環海濱活動空間"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明STAGE ON 8演唱會",
+      "page": "黎明STAGE ON 8演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2023-05-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-06-29",
+        "precision": "day"
+      },
+      "showCount": 34,
+      "regions": [],
+      "cities": [
+        "新濠影滙綜藝館"
+      ],
+      "venues": [
+        "新濠影滙綜藝館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "Leon黎明紅館演唱會2023",
+      "page": "Leon黎明紅館演唱會2023",
+      "kind": "tour",
+      "start": {
+        "date": "2023-11-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-12-12",
+        "precision": "day"
+      },
+      "showCount": 10,
+      "regions": [
+        "中國廣州市",
+        "中國北京市",
+        "中國成都市",
+        "中國上海市",
+        "中國佛山市",
+        "中國杭州市",
+        "中國深圳市",
+        "中國蘇州市",
+        "中國南京市",
+        "馬來西亞吉隆坡市",
+        "中國寧波市"
+      ],
+      "cities": [
+        "中國廣州市",
+        "中國北京市",
+        "中國成都市",
+        "中國上海市",
+        "中國佛山市",
+        "中國杭州市",
+        "中國深圳市",
+        "中國蘇州市",
+        "中國南京市",
+        "馬來西亞吉隆坡市",
+        "中國寧波市"
+      ],
+      "venues": [
+        "寶能國際體育演藝中心",
+        "華熙LIVE·五棵松",
+        "成都鳳凰山體育公園綜合體育館",
+        "梅賽德斯-奔馳文化中心",
+        "佛山國際體育文化演藝中心",
+        "杭州奧體中心體育館",
+        "深圳市大運體育中心體育館",
+        "蘇州奧林匹克體育中心體育館",
+        "夢之藍青奧體育公園體育館",
+        "亞通體育館",
+        "寧波奧體中心體育館"
+      ],
+      "shows": [
+        {
+          "date": "2024-10-26",
+          "precision": "day",
+          "region": "中國廣州市",
+          "city": "中國廣州市",
+          "venue": "寶能國際體育演藝中心"
+        },
+        {
+          "date": "2024-11-09",
+          "precision": "day",
+          "region": "中國北京市",
+          "city": "中國北京市",
+          "venue": "華熙LIVE·五棵松"
+        },
+        {
+          "date": "2024-11-23",
+          "precision": "day",
+          "region": "中國成都市",
+          "city": "中國成都市",
+          "venue": "成都鳳凰山體育公園綜合體育館"
+        },
+        {
+          "date": "2025-01-18",
+          "precision": "day",
+          "region": "中國上海市",
+          "city": "中國上海市",
+          "venue": "梅賽德斯-奔馳文化中心"
+        },
+        {
+          "date": "2025-08-23",
+          "precision": "day",
+          "region": "中國佛山市",
+          "city": "中國佛山市",
+          "venue": "佛山國際體育文化演藝中心"
+        },
+        {
+          "date": "2025-09-13",
+          "precision": "day",
+          "region": "中國杭州市",
+          "city": "中國杭州市",
+          "venue": "杭州奧體中心體育館"
+        },
+        {
+          "date": "2025-10-11",
+          "precision": "day",
+          "region": "中國深圳市",
+          "city": "中國深圳市",
+          "venue": "深圳市大運體育中心體育館"
+        },
+        {
+          "date": "2025-11-01",
+          "precision": "day",
+          "region": "中國蘇州市",
+          "city": "中國蘇州市",
+          "venue": "蘇州奧林匹克體育中心體育館"
+        },
+        {
+          "date": "2025-11-15",
+          "precision": "day",
+          "region": "中國南京市",
+          "city": "中國南京市",
+          "venue": "夢之藍青奧體育公園體育館"
+        },
+        {
+          "date": "2025-12-06",
+          "precision": "day",
+          "region": "馬來西亞吉隆坡市",
+          "city": "馬來西亞吉隆坡市",
+          "venue": "亞通體育館"
+        },
+        {
+          "date": "2025-12-12",
+          "precision": "day",
+          "region": "中國寧波市",
+          "city": "中國寧波市",
+          "venue": "寧波奧體中心體育館"
+        }
+      ]
+    },
+    {
+      "name": "黎明巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-11-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-11-09",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "北京"
+      ],
+      "venues": [
+        "華熙LIVE·五棵松"
+      ],
+      "shows": []
+    },
+    {
+      "name": "黎明 LEON LAI ROBBABA紅館演唱會2026",
+      "page": "黎明 LEON LAI ROBBABA紅館演唱會2026",
+      "kind": "tour",
+      "start": {
+        "date": "2026-03-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-11-14",
+        "precision": "day"
+      },
+      "showCount": 10,
+      "regions": [],
+      "cities": [
+        "佛山市",
+        "諸暨市",
+        "廣州市",
+        "成都市",
+        "貴陽市",
+        "東莞市",
+        "北京市",
+        "常州市"
+      ],
+      "venues": [
+        "佛山國際體育文化演藝中心",
+        "西施籃球中心體育館",
+        "寶能國際體育演藝中心",
+        "東安湖體育公園多功能體育館",
+        "貴陽體育館",
+        "東莞銀行籃球中心",
+        "國家體育館",
+        "新龍湖演藝中心"
+      ],
+      "shows": [
+        {
+          "date": "2026-05-16",
+          "precision": "day",
+          "region": "",
+          "city": "佛山市",
+          "venue": "佛山國際體育文化演藝中心"
+        },
+        {
+          "date": "2026-05-30",
+          "precision": "day",
+          "region": "",
+          "city": "諸暨市",
+          "venue": "西施籃球中心體育館"
+        },
+        {
+          "date": "2026-07-11",
+          "precision": "day",
+          "region": "",
+          "city": "廣州市",
+          "venue": "寶能國際體育演藝中心"
+        },
+        {
+          "date": "2026-07-25",
+          "precision": "day",
+          "region": "",
+          "city": "成都市",
+          "venue": "東安湖體育公園多功能體育館"
+        },
+        {
+          "date": "2026-08-01",
+          "precision": "day",
+          "region": "",
+          "city": "貴陽市",
+          "venue": "貴陽體育館"
+        },
+        {
+          "date": "2026-08-22",
+          "precision": "day",
+          "region": "",
+          "city": "東莞市",
+          "venue": "東莞銀行籃球中心"
+        },
+        {
+          "date": "2026-09-12",
+          "precision": "day",
+          "region": "",
+          "city": "北京市",
+          "venue": "國家體育館"
+        },
+        {
+          "date": "2026-11-14",
+          "precision": "day",
+          "region": "",
+          "city": "常州市",
+          "venue": "新龍湖演藝中心"
+        }
+      ]
+    }
+  ]
+}

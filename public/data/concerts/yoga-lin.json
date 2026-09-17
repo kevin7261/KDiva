@@ -1,0 +1,1612 @@
+{
+  "slug": "yoga-lin",
+  "fetchedAt": "2026-09-17T12:30:59.240Z",
+  "wiki": "林宥嘉",
+  "bio": {
+    "born": {
+      "date": "1987-07-01",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "林宥嘉邂逅爵士慈善音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2012-02-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-02-26",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北國際會議中心（TICC）"
+      ],
+      "shows": [
+        {
+          "date": "2012-02-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心（TICC）"
+        }
+      ]
+    },
+    {
+      "name": "紅牛不插電音樂會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2012-10-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-11-22",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "瀋陽",
+        "蘇州"
+      ],
+      "venues": [
+        "遼寧大劇院",
+        "獨墅湖體育館"
+      ],
+      "shows": [
+        {
+          "date": "2012-10-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "瀋陽",
+          "venue": "遼寧大劇院"
+        },
+        {
+          "date": "2013-11-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "蘇州",
+          "venue": "獨墅湖體育館"
+        }
+      ]
+    },
+    {
+      "name": "沉睡的野獸Relive",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-02-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-02-27",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "Love in Music 演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2014-05-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-05-05",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "澳洲"
+      ],
+      "cities": [
+        "墨爾本",
+        "悉尼"
+      ],
+      "venues": [
+        "Melbourne Convention and Exhibition Centre",
+        "Hordern Pavilion"
+      ],
+      "shows": [
+        {
+          "date": "2014-05-02",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "墨爾本",
+          "venue": "Melbourne Convention and Exhibition Centre"
+        },
+        {
+          "date": "2014-05-05",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "悉尼",
+          "venue": "Hordern Pavilion"
+        }
+      ]
+    },
+    {
+      "name": "如果巡迴演唱會",
+      "page": "如果巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2015-09-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-09-19",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "高雄"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "如同悲傷被下載了兩次 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2015-09-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-09-27",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "THE GREAT YOGA 世界巡迴演唱會",
+      "page": "THE GREAT YOGA 世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2016-06-11",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-04-28",
+        "precision": "day"
+      },
+      "showCount": 31,
+      "regions": [
+        "臺灣",
+        "中國大陸",
+        "香港",
+        "馬來西亞",
+        "澳門",
+        "美國"
+      ],
+      "cities": [
+        "高雄",
+        "北京",
+        "深圳",
+        "上海",
+        "廣州",
+        "廈門",
+        "武漢",
+        "重慶",
+        "南京",
+        "臺北",
+        "杭州",
+        "瀋陽",
+        "大連",
+        "香港",
+        "成都",
+        "濟南",
+        "雲頂",
+        "西安",
+        "福州",
+        "澳門",
+        "聖荷西",
+        "洛杉磯",
+        "紐約"
+      ],
+      "venues": [
+        "高雄巨蛋",
+        "凱迪拉克中心",
+        "深圳灣體育中心體育館",
+        "梅賽德斯奔馳文化中心",
+        "廣州體育館",
+        "廈門工人體育館",
+        "武漢客廳中國文化博覽中心A館",
+        "重慶國際博覽中心中央大廳",
+        "五臺山體育中心體育館",
+        "臺北小巨蛋",
+        "黃龍體育中心體育館",
+        "遼寧體育館",
+        "大麥體育文化中心",
+        "紅磡體育館",
+        "四川省體育館",
+        "廣州國際體育演藝中心",
+        "濟南奧林匹克體育中心體育館",
+        "雲頂雲星劇場",
+        "西安城市運動公園體育館",
+        "福州海峽奧林匹克體育中心綜合館",
+        "虹口體育場",
+        "金光綜藝館",
+        "Center for the Performing Arts",
+        "Pasadena Civic Auditorium",
+        "Colden Auditorium"
+      ],
+      "shows": [
+        {
+          "date": "2016-06-11",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2016-06-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "凱迪拉克中心"
+        },
+        {
+          "date": "2016-07-02",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳灣體育中心體育館"
+        },
+        {
+          "date": "2016-08-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯奔馳文化中心"
+        },
+        {
+          "date": "2016-08-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州體育館"
+        },
+        {
+          "date": "2016-09-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廈門",
+          "venue": "廈門工人體育館"
+        },
+        {
+          "date": "2016-10-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "武漢客廳中國文化博覽中心A館"
+        },
+        {
+          "date": "2016-12-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "重慶",
+          "venue": "重慶國際博覽中心中央大廳"
+        },
+        {
+          "date": "2016-12-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "五臺山體育中心體育館"
+        },
+        {
+          "date": "2017-04-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2017-04-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2017-05-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育館"
+        },
+        {
+          "date": "2017-05-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育館"
+        },
+        {
+          "date": "2017-06-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "瀋陽",
+          "venue": "遼寧體育館"
+        },
+        {
+          "date": "2017-06-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "大連",
+          "venue": "大麥體育文化中心"
+        },
+        {
+          "date": "2017-06-16",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館"
+        },
+        {
+          "date": "2017-06-17",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館"
+        },
+        {
+          "date": "2017-07-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "四川省體育館"
+        },
+        {
+          "date": "2017-08-19",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州國際體育演藝中心"
+        },
+        {
+          "date": "2017-08-26",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "濟南",
+          "venue": "濟南奧林匹克體育中心體育館"
+        },
+        {
+          "date": "2017-09-09",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲頂雲星劇場"
+        },
+        {
+          "date": "2017-10-28",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "西安",
+          "venue": "西安城市運動公園體育館"
+        },
+        {
+          "date": "2017-11-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "福州",
+          "venue": "福州海峽奧林匹克體育中心綜合館"
+        },
+        {
+          "date": "2017-11-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "虹口體育場"
+        },
+        {
+          "date": "2017-11-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "凱迪拉克中心"
+        },
+        {
+          "date": "2017-11-26",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "凱迪拉克中心"
+        },
+        {
+          "date": "2017-12-02",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "金光綜藝館"
+        },
+        {
+          "date": "2018-04-15",
+          "precision": "day",
+          "region": "美國",
+          "city": "聖荷西",
+          "venue": "Center for the Performing Arts"
+        },
+        {
+          "date": "2018-04-17",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "Pasadena Civic Auditorium"
+        },
+        {
+          "date": "2018-04-20",
+          "precision": "day",
+          "region": "美國",
+          "city": "紐約",
+          "venue": "Colden Auditorium"
+        },
+        {
+          "date": "2018-04-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        }
+      ]
+    },
+    {
+      "name": "18 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2017-11-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-11-18",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "南京"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "青春住了誰 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2017-12-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-12-16",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "娛樂世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2018-05-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-05-27",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "林宥嘉 idol 世界巡迴演唱會",
+      "page": "林宥嘉 idol 世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2018-12-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-12-14",
+        "precision": "day"
+      },
+      "showCount": 80,
+      "regions": [
+        "臺灣",
+        "中國大陸",
+        "香港",
+        "澳洲",
+        "加拿大",
+        "美國",
+        "法國",
+        "英國",
+        "澳門",
+        "新加坡",
+        "日本",
+        "馬來西亞"
+      ],
+      "cities": [
+        "臺北",
+        "成都",
+        "西安",
+        "上海",
+        "香港",
+        "福州",
+        "蘇州",
+        "濟南",
+        "合肥",
+        "北京",
+        "瀋陽",
+        "青島",
+        "南京",
+        "長沙",
+        "奧克蘭",
+        "墨爾本",
+        "悉尼",
+        "高雄",
+        "佛山",
+        "杭州",
+        "武漢",
+        "寧波",
+        "無錫",
+        "溫哥華",
+        "多倫多",
+        "紐約",
+        "洛杉磯",
+        "聖荷西",
+        "巴黎",
+        "倫敦",
+        "廣州",
+        "澳門",
+        "鄭州",
+        "重慶",
+        "深圳",
+        "海口",
+        "廈門",
+        "天津",
+        "新加坡",
+        "東京",
+        "大阪",
+        "吉隆坡"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "五糧液成都金融城演藝中心",
+        "大明宮國家遺址公園御道廣場",
+        "虹口足球場",
+        "紅磡體育館",
+        "福州海峽奧林匹克體育中心",
+        "蘇州奧林匹克體育中心體育館",
+        "濟南奧林匹克體育中心體育館",
+        "合肥濱湖國際會展中心",
+        "凱迪拉克中心",
+        "遼寧體育館",
+        "青島體育中心國信體育館",
+        "南京奧體中心體育館",
+        "湖南國際會展中心",
+        "The Trusts Arena",
+        "Margaret Court Arena",
+        "The Star Event Centre",
+        "高雄巨蛋",
+        "佛山國際體育文化演藝中心",
+        "黃龍體育中心體育館",
+        "武漢體育中心沌口體育館",
+        "寧波奧體中心體育館",
+        "無錫市體育中心體育館",
+        "Queen Elizabeth Theatre",
+        "Meridian Hall",
+        "Colden Auditorium",
+        "Pasadena Civic Auditorium",
+        "Center for the Performing Arts",
+        "Palais des Congrès de Paris",
+        "Eventim Apollo",
+        "廣州寶能觀致文化中心",
+        "武漢體育中心體育館",
+        "金光綜藝館",
+        "鄭州奧林匹克體育中心體育館",
+        "重慶國際博覽中心中央大廳",
+        "深圳大運中心體育館",
+        "海南國際會議會展中心五號館",
+        "海峽大劇院",
+        "浦發銀行東方體育中心",
+        "合肥少荃體育中心",
+        "天津奧林匹克中心體育館",
+        "西安奧體中心體育館",
+        "新加坡室內體育館",
+        "杭州奧體中心體育館",
+        "東京巨蛋城",
+        "大阪國際會議中心",
+        "Mega Star Arena"
+      ],
+      "shows": [
+        {
+          "date": "2018-12-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2018-12-30",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2019-04-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "五糧液成都金融城演藝中心"
+        },
+        {
+          "date": "2019-04-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "西安",
+          "venue": "大明宮國家遺址公園御道廣場"
+        },
+        {
+          "date": "2019-05-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "虹口足球場"
+        },
+        {
+          "date": "2019-05-24",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館"
+        },
+        {
+          "date": "2019-05-25",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館"
+        },
+        {
+          "date": "2019-05-26",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館"
+        },
+        {
+          "date": "2019-06-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "福州",
+          "venue": "福州海峽奧林匹克體育中心"
+        },
+        {
+          "date": "2019-06-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "蘇州",
+          "venue": "蘇州奧林匹克體育中心體育館"
+        },
+        {
+          "date": "2019-06-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "濟南",
+          "venue": "濟南奧林匹克體育中心體育館"
+        },
+        {
+          "date": "2019-07-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "合肥",
+          "venue": "合肥濱湖國際會展中心"
+        },
+        {
+          "date": "2019-07-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "凱迪拉克中心"
+        },
+        {
+          "date": "2019-07-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "瀋陽",
+          "venue": "遼寧體育館"
+        },
+        {
+          "date": "2019-08-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "青島",
+          "venue": "青島體育中心國信體育館"
+        },
+        {
+          "date": "2019-08-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "南京奧體中心體育館"
+        },
+        {
+          "date": "2019-08-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長沙",
+          "venue": "湖南國際會展中心"
+        },
+        {
+          "date": "2019-09-07",
+          "precision": "day",
+          "region": "",
+          "city": "奧克蘭",
+          "venue": "The Trusts Arena"
+        },
+        {
+          "date": "2019-09-13",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "墨爾本",
+          "venue": "Margaret Court Arena"
+        },
+        {
+          "date": "2019-09-15",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "悉尼",
+          "venue": "The Star Event Centre"
+        },
+        {
+          "date": "2019-10-05",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2019-10-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2019-11-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "佛山",
+          "venue": "佛山國際體育文化演藝中心"
+        },
+        {
+          "date": "2019-11-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育館"
+        },
+        {
+          "date": "2019-12-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育館"
+        },
+        {
+          "date": "2019-12-07",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "武漢體育中心沌口體育館"
+        },
+        {
+          "date": "2019-12-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "寧波",
+          "venue": "寧波奧體中心體育館"
+        },
+        {
+          "date": "2020-01-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "無錫",
+          "venue": "無錫市體育中心體育館"
+        },
+        {
+          "date": "2023-02-20",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "Queen Elizabeth Theatre"
+        },
+        {
+          "date": "2023-02-23",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "Meridian Hall"
+        },
+        {
+          "date": "2023-02-25",
+          "precision": "day",
+          "region": "美國",
+          "city": "紐約",
+          "venue": "Colden Auditorium"
+        },
+        {
+          "date": "2023-02-26",
+          "precision": "day",
+          "region": "美國",
+          "city": "紐約",
+          "venue": "Colden Auditorium"
+        },
+        {
+          "date": "2023-02-28",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "Pasadena Civic Auditorium"
+        },
+        {
+          "date": "2023-03-02",
+          "precision": "day",
+          "region": "美國",
+          "city": "聖荷西",
+          "venue": "Center for the Performing Arts"
+        },
+        {
+          "date": "2023-03-05",
+          "precision": "day",
+          "region": "法國",
+          "city": "巴黎",
+          "venue": "Palais des Congrès de Paris"
+        },
+        {
+          "date": "2023-03-09",
+          "precision": "day",
+          "region": "英國",
+          "city": "倫敦",
+          "venue": "Eventim Apollo"
+        },
+        {
+          "date": "2023-04-28",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館"
+        },
+        {
+          "date": "2023-04-29",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館"
+        },
+        {
+          "date": "2023-04-30",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館"
+        },
+        {
+          "date": "2023-07-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州寶能觀致文化中心"
+        },
+        {
+          "date": "2023-08-05",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "武漢體育中心體育館"
+        },
+        {
+          "date": "2023-08-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "武漢體育中心體育館"
+        },
+        {
+          "date": "2023-08-25",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "金光綜藝館"
+        },
+        {
+          "date": "2023-08-26",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "金光綜藝館"
+        },
+        {
+          "date": "2023-11-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "鄭州",
+          "venue": "鄭州奧林匹克體育中心體育館"
+        },
+        {
+          "date": "2023-11-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "重慶",
+          "venue": "重慶國際博覽中心中央大廳"
+        },
+        {
+          "date": "2023-11-12",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "重慶",
+          "venue": "重慶國際博覽中心中央大廳"
+        },
+        {
+          "date": "2023-11-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳大運中心體育館"
+        },
+        {
+          "date": "2023-11-19",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳大運中心體育館"
+        },
+        {
+          "date": "2023-11-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長沙",
+          "venue": "湖南國際會展中心"
+        },
+        {
+          "date": "2023-11-26",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長沙",
+          "venue": "湖南國際會展中心"
+        },
+        {
+          "date": "2023-12-02",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "濟南",
+          "venue": "濟南奧林匹克體育中心體育館"
+        },
+        {
+          "date": "2023-12-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2023-12-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2023-12-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2023-12-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "凱迪拉克中心"
+        },
+        {
+          "date": "2023-12-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "凱迪拉克中心"
+        },
+        {
+          "date": "2024-01-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "凱迪拉克中心"
+        },
+        {
+          "date": "2024-01-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "海口",
+          "venue": "海南國際會議會展中心五號館"
+        },
+        {
+          "date": "2024-04-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廈門",
+          "venue": "海峽大劇院"
+        },
+        {
+          "date": "2024-04-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廈門",
+          "venue": "海峽大劇院"
+        },
+        {
+          "date": "2024-05-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "浦發銀行東方體育中心"
+        },
+        {
+          "date": "2024-05-19",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "浦發銀行東方體育中心"
+        },
+        {
+          "date": "2024-06-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "蘇州",
+          "venue": "蘇州奧林匹克體育中心體育館"
+        },
+        {
+          "date": "2024-06-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "蘇州",
+          "venue": "蘇州奧林匹克體育中心體育館"
+        },
+        {
+          "date": "2024-07-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "合肥",
+          "venue": "合肥少荃體育中心"
+        },
+        {
+          "date": "2024-07-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "天津",
+          "venue": "天津奧林匹克中心體育館"
+        },
+        {
+          "date": "2024-07-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "天津",
+          "venue": "天津奧林匹克中心體育館"
+        },
+        {
+          "date": "2024-07-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "寧波",
+          "venue": "寧波奧體中心體育館"
+        },
+        {
+          "date": "2024-07-28",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "寧波",
+          "venue": "寧波奧體中心體育館"
+        },
+        {
+          "date": "2024-08-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "西安",
+          "venue": "西安奧體中心體育館"
+        },
+        {
+          "date": "2024-08-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "青島",
+          "venue": "青島體育中心國信體育館"
+        },
+        {
+          "date": "2024-08-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "南京奧體中心體育館"
+        },
+        {
+          "date": "2024-08-30",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館"
+        },
+        {
+          "date": "2024-09-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "佛山",
+          "venue": "佛山國際體育文化演藝中心"
+        },
+        {
+          "date": "2024-10-26",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "杭州奧體中心體育館"
+        },
+        {
+          "date": "2024-10-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "杭州奧體中心體育館"
+        },
+        {
+          "date": "2024-10-29",
+          "precision": "day",
+          "region": "日本",
+          "city": "東京",
+          "venue": "東京巨蛋城"
+        },
+        {
+          "date": "2024-11-05",
+          "precision": "day",
+          "region": "日本",
+          "city": "大阪",
+          "venue": "大阪國際會議中心"
+        },
+        {
+          "date": "2024-12-14",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "Mega Star Arena"
+        }
+      ]
+    },
+    {
+      "name": "絕色25週年世界巡迴演唱會",
+      "page": "絕色25週年世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2019-12-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-12-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "XIANG YU YI YANG 線上演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-02-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-02-13",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2022-02-13",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": ""
+        }
+      ]
+    },
+    {
+      "name": "HAVE A NICE :DAY 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-07-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-07-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "高雄"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "顛倒世界 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-08-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-08-20",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "SUMMER BLUES 林家謙演唱會",
+      "page": "SUMMER BLUES 林家謙演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2022-08-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-08-27",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "原子少年2022飛向滿天星球演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-10-08",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-10-08",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "高雄"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "JER LAU “ACROSS THE UNIVERSE” IN MY SIGHT SOLO CONCERT 2023",
+      "page": "JER LAU \"ACROSS THE UNIVERSE\" IN MY SIGHT SOLO CONCERT 2023",
+      "kind": "concert",
+      "start": {
+        "date": "2023-07-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-07-09",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "MDRT with Yoga Fly My Way",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2024-06-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "2024-06-01",
+        "precision": "month"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港"
+      ],
+      "venues": [
+        "亞洲國際博覽館"
+      ],
+      "shows": [
+        {
+          "date": "2024-06-01",
+          "precision": "month",
+          "region": "香港",
+          "city": "香港",
+          "venue": "亞洲國際博覽館"
+        }
+      ]
+    },
+    {
+      "name": "月亮撒野巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-09-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-09-16",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "I Can’t Be Left Alone演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2024-11-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-11-09",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "Chace & The Aces演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2025-11-28",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-11-28",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "Katch the Moment - TheMomentApart",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2026-03-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "2026-03-01",
+        "precision": "month"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港"
+      ],
+      "venues": [
+        "啟德體藝館"
+      ],
+      "shows": [
+        {
+          "date": "2026-03-01",
+          "precision": "month",
+          "region": "香港",
+          "city": "香港",
+          "venue": "啟德體藝館"
+        }
+      ]
+    },
+    {
+      "name": "超級管家世界巡迴演唱會",
+      "page": "超級管家世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2026-06-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-10-31",
+        "precision": "day"
+      },
+      "showCount": 7,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "廣州",
+        "上海",
+        "武漢",
+        "蘇州",
+        "深圳"
+      ],
+      "venues": [
+        "廣州大學城體育中心體育場",
+        "虹口足球場",
+        "武漢體育中心主體育場",
+        "蘇州奧林匹克體育中心體育場",
+        "深圳市體育中心體育場"
+      ],
+      "shows": [
+        {
+          "date": "2026-06-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州大學城體育中心體育場"
+        },
+        {
+          "date": "2026-08-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "虹口足球場"
+        },
+        {
+          "date": "2026-08-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "虹口足球場"
+        },
+        {
+          "date": "2026-09-12",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "武漢體育中心主體育場"
+        },
+        {
+          "date": "2026-10-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "蘇州",
+          "venue": "蘇州奧林匹克體育中心體育場"
+        },
+        {
+          "date": "2026-10-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳市體育中心體育場"
+        },
+        {
+          "date": "2026-10-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳市體育中心體育場"
+        }
+      ]
+    }
+  ]
+}

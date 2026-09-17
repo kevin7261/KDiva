@@ -695,7 +695,11 @@
           "playsText": "20K plays",
           "duration": 270,
           "byOther": false,
-          "nameKey": "蚊子"
+          "nameKey": "蚊子",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          }
         },
         {
           "index": 3,
@@ -746,7 +750,11 @@
           "playsText": "1.1M plays",
           "duration": 173,
           "byOther": false,
-          "nameKey": "別在我睡著的時候打電話給我"
+          "nameKey": "別在我睡著的時候打電話給我",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          }
         },
         {
           "index": 2,
@@ -835,7 +843,11 @@
           "playsText": "551K plays",
           "duration": 258,
           "byOther": false,
-          "nameKey": "afterdinner"
+          "nameKey": "afterdinner",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          }
         },
         {
           "index": 10,
@@ -1085,6 +1097,10 @@
           "duration": 175,
           "byOther": false,
           "nameKey": "別在我睡著的時候打電話給我#live",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          },
           "titleZh": "別在我睡著的時候打電話給我 (Live)"
         },
         {
@@ -1143,6 +1159,10 @@
           "duration": 299,
           "byOther": false,
           "nameKey": "goodmorninggoodevening演唱會live#live",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          },
           "titleZh": "Good Morning & Good Evening 演唱會 Live"
         },
         {
@@ -1285,6 +1305,10 @@
           "duration": 252,
           "byOther": false,
           "nameKey": "goodmorninggoodevening演唱會live#live",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          },
           "titleZh": "Good Morning & Good Evening 演唱會 Live"
         },
         {
@@ -1309,6 +1333,10 @@
           "duration": 305,
           "byOther": false,
           "nameKey": "蚊子#live",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          },
           "titleZh": "蚊子 (Live)"
         },
         {
@@ -1321,6 +1349,10 @@
           "duration": 325,
           "byOther": false,
           "nameKey": "慢靈魂#live",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          },
           "titleZh": "慢靈魂 (Live)"
         },
         {
@@ -1367,6 +1399,10 @@
           "duration": 256,
           "byOther": false,
           "nameKey": "goodmorninggoodevening演唱會live#live",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          },
           "titleZh": "Good Morning & Good Evening 演唱會 Live"
         },
         {
@@ -1379,6 +1415,10 @@
           "duration": 231,
           "byOther": false,
           "nameKey": "goodmorninggoodevening演唱會live#live",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          },
           "titleZh": "Good Morning & Good Evening 演唱會 Live"
         },
         {
@@ -1657,7 +1697,10 @@
           "playsText": "998K plays",
           "duration": 295,
           "byOther": false,
-          "nameKey": "今天睡在這裡"
+          "nameKey": "今天睡在這裡",
+          "credits": {
+            "music": "6"
+          }
         },
         {
           "index": 7,
@@ -1891,7 +1934,11 @@
           "playsText": "25K plays",
           "duration": 282,
           "byOther": false,
-          "nameKey": "慢靈魂"
+          "nameKey": "慢靈魂",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          }
         },
         {
           "index": 12,
@@ -2345,6 +2392,10 @@
           "duration": 285,
           "byOther": false,
           "nameKey": "別在我睡著的時候打電話給我#live",
+          "credits": {
+            "lyrics": "盧廣仲（除了特別註明的）",
+            "music": "盧廣仲（除了特別註明的）"
+          },
           "titleZh": "別在我睡著的時候打電話給我 (Don't Call Me When Sleeping) (Live)"
         },
         {
@@ -3699,7 +3750,12 @@
           "playsText": "1.5M plays",
           "duration": 259,
           "byOther": false,
-          "nameKey": "lostyoutwice"
+          "nameKey": "lostyoutwice",
+          "credits": {
+            "lyrics": "關浩德",
+            "music": "關浩德",
+            "arranger": "溫奕哲"
+          }
         },
         {
           "index": 6,

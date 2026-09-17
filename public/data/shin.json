@@ -411,7 +411,10 @@
           "playsText": "566K plays",
           "duration": 217,
           "byOther": false,
-          "nameKey": "淪陷"
+          "nameKey": "淪陷",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 2,
@@ -422,7 +425,10 @@
           "playsText": "205K plays",
           "duration": 222,
           "byOther": false,
-          "nameKey": "假裝陽光的蠟燭"
+          "nameKey": "假裝陽光的蠟燭",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 3,
@@ -433,7 +439,10 @@
           "playsText": "935K plays",
           "duration": 263,
           "byOther": false,
-          "nameKey": "黎明之前"
+          "nameKey": "黎明之前",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 4,
@@ -444,7 +453,10 @@
           "playsText": "14K plays",
           "duration": 174,
           "byOther": false,
-          "nameKey": "頑強"
+          "nameKey": "頑強",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 5,
@@ -455,7 +467,10 @@
           "playsText": "24K plays",
           "duration": 193,
           "byOther": false,
-          "nameKey": "三秒"
+          "nameKey": "三秒",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 6,
@@ -466,7 +481,10 @@
           "playsText": "141K plays",
           "duration": 214,
           "byOther": false,
-          "nameKey": "再見"
+          "nameKey": "再見",
+          "credits": {
+            "music": "06"
+          }
         },
         {
           "index": 7,
@@ -477,7 +495,10 @@
           "playsText": "119K plays",
           "duration": 280,
           "byOther": false,
-          "nameKey": "浪子"
+          "nameKey": "浪子",
+          "credits": {
+            "music": "07"
+          }
         },
         {
           "index": 8,
@@ -488,7 +509,10 @@
           "playsText": "2.3M plays",
           "duration": 261,
           "byOther": false,
-          "nameKey": "遠得要命的愛情"
+          "nameKey": "遠得要命的愛情",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 9,
@@ -499,7 +523,10 @@
           "playsText": "434K plays",
           "duration": 298,
           "byOther": false,
-          "nameKey": "桃花開搖搖擺擺"
+          "nameKey": "桃花開搖搖擺擺",
+          "credits": {
+            "music": "09"
+          }
         },
         {
           "index": 10,
@@ -510,7 +537,10 @@
           "playsText": "9.6K plays",
           "duration": 335,
           "byOther": false,
-          "nameKey": "莎呦哪啦"
+          "nameKey": "莎呦哪啦",
+          "credits": {
+            "music": "10"
+          }
         },
         {
           "index": 11,
@@ -521,7 +551,10 @@
           "playsText": "45K plays",
           "duration": 201,
           "byOther": false,
-          "nameKey": "降龍樂章"
+          "nameKey": "降龍樂章",
+          "credits": {
+            "music": "11"
+          }
         },
         {
           "index": 12,
@@ -532,7 +565,10 @@
           "playsText": "261K plays",
           "duration": 314,
           "byOther": false,
-          "nameKey": "莎呦哪啦"
+          "nameKey": "莎呦哪啦",
+          "credits": {
+            "music": "10"
+          }
         }
       ],
       "releaseDate": "2011-07-22",
@@ -1701,8 +1737,8 @@
       "releaseDateSource": null,
       "wikiTitle": null,
       "wikiKind": null,
-      "titleZh": "Discorder (綺音-Aÿane- ver.)",
-      "nameKey": "discorder"
+      "nameKey": "discorder",
+      "titleZh": "Discorder (綺音-Aÿane- ver.)"
     },
     {
       "browseId": "MPREb_A7I46jnsovH",

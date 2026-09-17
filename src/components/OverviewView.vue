@@ -1,7 +1,7 @@
 <script setup>
 import { computed } from 'vue'
 import BarList from './BarList.vue'
-import { formatCount, watchUrl } from '../lib/format.js'
+import { formatCount, watchUrl, creditLines } from '../lib/format.js'
 
 const props = defineProps({ model: { type: Object, required: true } })
 const emit = defineEmits(['open-album'])
@@ -27,6 +27,7 @@ const topRows = computed(() =>
     sub: `${s.origin.name} · ${s.year}`,
     value: s.plays,
     tip: s.appearsOn.length > 1 ? `收錄於 ${s.appearsOn.length} 張專輯` : '',
+    lines: creditLines(s.credits),
     song: s,
   })),
 )

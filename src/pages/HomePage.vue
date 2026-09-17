@@ -3,7 +3,7 @@ import { computed, ref, watch } from 'vue'
 import { RouterLink, useRouter } from 'vue-router'
 import { GROUPS, artistsIn } from '../artists.js'
 import { getModel, loadAll, refreshArtist } from '../lib/store.js'
-import { formatCount, formatDate, watchUrl } from '../lib/format.js'
+import { formatCount, formatDate, watchUrl, creditLines } from '../lib/format.js'
 import BarList from '../components/BarList.vue'
 import ThemeToggle from '../components/ThemeToggle.vue'
 
@@ -38,15 +38,16 @@ const latestFetch = computed(() => loaded.value.map((e) => e.model.fetchedAt).so
 // 19 → 十九；首頁標題用
 const zhNumber = (n) => {
   const d = '零一二三四五六七八九'
+  if (n >= 100) return String(n)
   if (n < 10) return d[n]
   return `${n >= 20 ? d[Math.floor(n / 10)] : ''}十${n % 10 ? d[n % 10] : ''}`
 }
-// 「五十位天后」「三位天王」「兩組團體」
+// 「五十位天后」「三位天王」「兩組團體」「一組台語團體」
 const heading = computed(() => {
   const n = artists.value.length
   return `${n === 2 ? '兩' : zhNumber(n)}${groupInfo.value.unit}${groupInfo.value.title}`
 })
-const noun = computed(() => (groupInfo.value.key === 'group' ? '團體' : '歌手'))
+const noun = computed(() => (groupInfo.value.key.endsWith('group') ? '團體' : '歌手'))
 // 主視覺拼貼：人數少時不要留空欄
 const collageCols = computed(() => Math.min(10, Math.max(1, artists.value.length)))
 
@@ -121,6 +122,7 @@ const topSongs = computed(() =>
       label: `${i + 1}. ${s.name}`,
       sub: `${artist.name} · ${s.origin.name} · ${s.year}`,
       value: s.plays,
+      lines: creditLines(s.credits),
       song: s,
     })),
 )
@@ -168,6 +170,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
             <RouterLink v-for="g in GROUPS" :key="g.key" :to="`/${g.key}`" :class="{ on: g.key === groupInfo.key }">
               {{ g.label }}
             </RouterLink>
+            <RouterLink to="/timeline">年表</RouterLink>
           </nav>
           <div class="actions">
             <button v-if="canRefresh" class="btn ghost" :disabled="!!refreshing" @click="refreshAll">
@@ -176,7 +179,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
             <ThemeToggle />
           </div>
         </div>
-        <p class="eyebrow">華語{{ groupInfo.label }} · YouTube Music 播放數據 · 依出道日期排列</p>
+        <p class="eyebrow">{{ groupInfo.label }} · YouTube Music 播放數據 · 依出道日期排列</p>
         <h1>{{ heading }}，<br class="br" />{{ songTotal ? `${songTotal} 首歌` : '所有歌曲' }}的播放紀錄</h1>
         <div v-if="loaded.length" class="hero-number">
           <span class="figure">{{ formatCount(grandTotal) }}</span>
@@ -229,7 +232,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
               <span class="nowrap">錄音室專輯 {{ cardInfo(entry).studio }} 張</span>
             </div>
             <ol class="top">
-              <li v-for="s in cardInfo(entry).top" :key="s.id">
+              <li v-for="s in cardInfo(entry).top" :key="s.id" v-tip="[s.name, ...creditLines(s.credits)]">
                 <span class="song">{{ s.name }}</span>
                 <span class="num muted">{{ formatCount(s.plays) }}</span>
               </li>
@@ -341,10 +344,14 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
 .groups {
   display: flex;
   gap: 2px;
+  max-width: 100%;
   padding: 3px;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(6px);
+  /* 分頁多，窄螢幕橫向捲動 */
+  overflow-x: auto;
+  scrollbar-width: none;
 }
 .groups a {
   padding: 5px 14px;

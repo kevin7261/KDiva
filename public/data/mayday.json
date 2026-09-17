@@ -30,7 +30,10 @@
           "playsText": "681K plays",
           "duration": 214,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 2,
@@ -41,7 +44,10 @@
           "playsText": "18M plays",
           "duration": 255,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 3,
@@ -52,7 +58,10 @@
           "playsText": "1.6M plays",
           "duration": 217,
           "byOther": false,
-          "nameKey": "透露"
+          "nameKey": "透露",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 4,
@@ -63,7 +72,10 @@
           "playsText": "812K plays",
           "duration": 241,
           "byOther": false,
-          "nameKey": "生活"
+          "nameKey": "生活",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 5,
@@ -74,7 +86,10 @@
           "playsText": "5.6M plays",
           "duration": 308,
           "byOther": false,
-          "nameKey": "愛情的模樣"
+          "nameKey": "愛情的模樣",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 6,
@@ -85,7 +100,10 @@
           "playsText": "287K plays",
           "duration": 248,
           "byOther": false,
-          "nameKey": "嘿我要走了"
+          "nameKey": "嘿我要走了",
+          "credits": {
+            "music": "06"
+          }
         },
         {
           "index": 7,
@@ -96,7 +114,10 @@
           "playsText": "5.1M plays",
           "duration": 158,
           "byOther": false,
-          "nameKey": "軋車"
+          "nameKey": "軋車",
+          "credits": {
+            "music": "07"
+          }
         },
         {
           "index": 8,
@@ -107,7 +128,10 @@
           "playsText": "24M plays",
           "duration": 282,
           "byOther": false,
-          "nameKey": "志明與春嬌"
+          "nameKey": "志明與春嬌",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 9,
@@ -118,7 +142,12 @@
           "playsText": "595K plays",
           "duration": 160,
           "byOther": false,
-          "nameKey": "hosee"
+          "nameKey": "hosee",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -129,7 +158,10 @@
           "playsText": "721K plays",
           "duration": 236,
           "byOther": false,
-          "nameKey": "黑白講"
+          "nameKey": "黑白講",
+          "credits": {
+            "music": "10"
+          }
         },
         {
           "index": 11,
@@ -140,7 +172,10 @@
           "playsText": "2.9M plays",
           "duration": 288,
           "byOther": false,
-          "nameKey": "iloveyou無望"
+          "nameKey": "iloveyou無望",
+          "credits": {
+            "music": "11"
+          }
         },
         {
           "index": 12,
@@ -151,7 +186,10 @@
           "playsText": "525K plays",
           "duration": 236,
           "byOther": false,
-          "nameKey": "風若吹"
+          "nameKey": "風若吹",
+          "credits": {
+            "music": "12"
+          }
         }
       ],
       "releaseDate": "1999-07-07",
@@ -179,7 +217,10 @@
           "playsText": "47K plays",
           "duration": 350,
           "byOther": false,
-          "nameKey": "黑白講"
+          "nameKey": "黑白講",
+          "credits": {
+            "music": "10"
+          }
         },
         {
           "index": 2,
@@ -190,7 +231,12 @@
           "playsText": "18K plays",
           "duration": 156,
           "byOther": false,
-          "nameKey": "軋車"
+          "nameKey": "軋車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -201,7 +247,12 @@
           "playsText": "13K plays",
           "duration": 163,
           "byOther": false,
-          "nameKey": "hosee"
+          "nameKey": "hosee",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -212,7 +263,11 @@
           "playsText": "3.2K plays",
           "duration": 66,
           "byOther": false,
-          "nameKey": "talk"
+          "nameKey": "talk",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 5,
@@ -223,7 +278,12 @@
           "playsText": "34K plays",
           "duration": 309,
           "byOther": false,
-          "nameKey": "iloveyou無望"
+          "nameKey": "iloveyou無望",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 6,
@@ -234,7 +294,10 @@
           "playsText": "3.6K plays",
           "duration": 243,
           "byOther": false,
-          "nameKey": "風若吹"
+          "nameKey": "風若吹",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 7,
@@ -245,7 +308,10 @@
           "playsText": "16K plays",
           "duration": 230,
           "byOther": false,
-          "nameKey": "生活"
+          "nameKey": "生活",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 8,
@@ -256,7 +322,11 @@
           "playsText": "61K plays",
           "duration": 197,
           "byOther": false,
-          "nameKey": "就在今夜"
+          "nameKey": "就在今夜",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 9,
@@ -267,7 +337,11 @@
           "playsText": "80K plays",
           "duration": 253,
           "byOther": false,
-          "nameKey": "愛情釀的酒"
+          "nameKey": "愛情釀的酒",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 10,
@@ -278,7 +352,12 @@
           "playsText": "52K plays",
           "duration": 277,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 11,
@@ -289,7 +368,12 @@
           "playsText": "30K plays",
           "duration": 227,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -311,7 +395,12 @@
           "playsText": "31K plays",
           "duration": 241,
           "byOther": false,
-          "nameKey": "志明與春嬌"
+          "nameKey": "志明與春嬌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 14,
@@ -322,7 +411,10 @@
           "playsText": "60K plays",
           "duration": 313,
           "byOther": false,
-          "nameKey": "愛情的模樣"
+          "nameKey": "愛情的模樣",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 15,
@@ -333,7 +425,10 @@
           "playsText": "22K plays",
           "duration": 276,
           "byOther": false,
-          "nameKey": "透露"
+          "nameKey": "透露",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 16,
@@ -344,7 +439,12 @@
           "playsText": "10K plays",
           "duration": 389,
           "byOther": false,
-          "nameKey": "志明與春嬌"
+          "nameKey": "志明與春嬌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         }
       ],
       "releaseDate": "1999-11-30",
@@ -372,7 +472,10 @@
           "playsText": "739K plays",
           "duration": 114,
           "byOther": false,
-          "nameKey": "為什麼"
+          "nameKey": "為什麼",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 2,
@@ -383,7 +486,10 @@
           "playsText": "4.5M plays",
           "duration": 190,
           "byOther": false,
-          "nameKey": "終結孤單"
+          "nameKey": "終結孤單",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 3,
@@ -394,7 +500,10 @@
           "playsText": "2.5M plays",
           "duration": 281,
           "byOther": false,
-          "nameKey": "明白"
+          "nameKey": "明白",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 4,
@@ -405,7 +514,10 @@
           "playsText": "7.6M plays",
           "duration": 252,
           "byOther": false,
-          "nameKey": "心中無別人"
+          "nameKey": "心中無別人",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 5,
@@ -416,7 +528,10 @@
           "playsText": "4.1M plays",
           "duration": 338,
           "byOther": false,
-          "nameKey": "有你的將來"
+          "nameKey": "有你的將來",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 6,
@@ -427,7 +542,10 @@
           "playsText": "17M plays",
           "duration": 251,
           "byOther": false,
-          "nameKey": "憨人"
+          "nameKey": "憨人",
+          "credits": {
+            "music": "06"
+          }
         },
         {
           "index": 7,
@@ -438,7 +556,10 @@
           "playsText": "1M plays",
           "duration": 152,
           "byOther": false,
-          "nameKey": "叫我第一名"
+          "nameKey": "叫我第一名",
+          "credits": {
+            "music": "07"
+          }
         },
         {
           "index": 8,
@@ -449,7 +570,10 @@
           "playsText": "3.3M plays",
           "duration": 223,
           "byOther": false,
-          "nameKey": "雨眠"
+          "nameKey": "雨眠",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 9,
@@ -460,7 +584,10 @@
           "playsText": "746K plays",
           "duration": 201,
           "byOther": false,
-          "nameKey": "羅密歐與茱麗葉"
+          "nameKey": "羅密歐與茱麗葉",
+          "credits": {
+            "music": "09"
+          }
         },
         {
           "index": 10,
@@ -471,7 +598,10 @@
           "playsText": "36M plays",
           "duration": 270,
           "byOther": false,
-          "nameKey": "溫柔"
+          "nameKey": "溫柔",
+          "credits": {
+            "music": "10"
+          }
         },
         {
           "index": 11,
@@ -482,7 +612,10 @@
           "playsText": "3.6M plays",
           "duration": 363,
           "byOther": false,
-          "nameKey": "愛情萬歲"
+          "nameKey": "愛情萬歲",
+          "credits": {
+            "music": "11"
+          }
         },
         {
           "index": 12,
@@ -493,7 +626,10 @@
           "playsText": "1.2M plays",
           "duration": 376,
           "byOther": false,
-          "nameKey": "反而"
+          "nameKey": "反而",
+          "credits": {
+            "music": "12"
+          }
         }
       ],
       "releaseDate": "2000-07-07",
@@ -521,7 +657,12 @@
           "playsText": "42K plays",
           "duration": 185,
           "byOther": false,
-          "nameKey": "叫我第一名"
+          "nameKey": "叫我第一名",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -532,7 +673,12 @@
           "playsText": "27K plays",
           "duration": 174,
           "byOther": false,
-          "nameKey": "軋車"
+          "nameKey": "軋車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -543,7 +689,12 @@
           "playsText": "13K plays",
           "duration": 170,
           "byOther": false,
-          "nameKey": "hosee"
+          "nameKey": "hosee",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -554,7 +705,10 @@
           "playsText": "38K plays",
           "duration": 224,
           "byOther": false,
-          "nameKey": "黑白講"
+          "nameKey": "黑白講",
+          "credits": {
+            "music": "10"
+          }
         },
         {
           "index": 5,
@@ -565,7 +719,10 @@
           "playsText": "5.8K plays",
           "duration": 241,
           "byOther": false,
-          "nameKey": "風若吹"
+          "nameKey": "風若吹",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 6,
@@ -576,7 +733,10 @@
           "playsText": "18K plays",
           "duration": 131,
           "byOther": false,
-          "nameKey": "為什麼"
+          "nameKey": "為什麼",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 7,
@@ -587,7 +747,12 @@
           "playsText": "23K plays",
           "duration": 307,
           "byOther": false,
-          "nameKey": "iloveyou無望"
+          "nameKey": "iloveyou無望",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -598,7 +763,12 @@
           "playsText": "31K plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -609,7 +779,10 @@
           "playsText": "69K plays",
           "duration": 129,
           "byOther": false,
-          "nameKey": "明白"
+          "nameKey": "明白",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 10,
@@ -620,7 +793,10 @@
           "playsText": "69K plays",
           "duration": 204,
           "byOther": false,
-          "nameKey": "明白"
+          "nameKey": "明白",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 11,
@@ -631,7 +807,10 @@
           "playsText": "114K plays",
           "duration": 342,
           "byOther": false,
-          "nameKey": "有你的將來"
+          "nameKey": "有你的將來",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 12,
@@ -642,7 +821,10 @@
           "playsText": "76K plays",
           "duration": 243,
           "byOther": false,
-          "nameKey": "雨眠"
+          "nameKey": "雨眠",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 13,
@@ -653,7 +835,10 @@
           "playsText": "7.4K plays",
           "duration": 222,
           "byOther": false,
-          "nameKey": "羅密歐與茱麗葉"
+          "nameKey": "羅密歐與茱麗葉",
+          "credits": {
+            "music": "09"
+          }
         },
         {
           "index": 14,
@@ -664,7 +849,12 @@
           "playsText": "92K plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "溫柔"
+          "nameKey": "溫柔",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 15,
@@ -675,7 +865,12 @@
           "playsText": "7.8K plays",
           "duration": 399,
           "byOther": false,
-          "nameKey": "愛情萬歲"
+          "nameKey": "愛情萬歲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 16,
@@ -686,7 +881,10 @@
           "playsText": "38K plays",
           "duration": 325,
           "byOther": false,
-          "nameKey": "愛情的模樣"
+          "nameKey": "愛情的模樣",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 17,
@@ -709,7 +907,12 @@
           "playsText": "23K plays",
           "duration": 183,
           "byOther": false,
-          "nameKey": "終結孤單"
+          "nameKey": "終結孤單",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 19,
@@ -720,7 +923,10 @@
           "playsText": "1M plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "嘿我要走了"
+          "nameKey": "嘿我要走了",
+          "credits": {
+            "music": "06"
+          }
         },
         {
           "index": 20,
@@ -731,7 +937,10 @@
           "playsText": "17K plays",
           "duration": 212,
           "byOther": false,
-          "nameKey": "透露"
+          "nameKey": "透露",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 21,
@@ -742,7 +951,10 @@
           "playsText": "3.9K plays",
           "duration": 214,
           "byOther": false,
-          "nameKey": "生活"
+          "nameKey": "生活",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 22,
@@ -753,7 +965,10 @@
           "playsText": "47K plays",
           "duration": 375,
           "byOther": false,
-          "nameKey": "反而"
+          "nameKey": "反而",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 23,
@@ -764,7 +979,12 @@
           "playsText": "44K plays",
           "duration": 251,
           "byOther": false,
-          "nameKey": "心中無別人"
+          "nameKey": "心中無別人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 24,
@@ -775,7 +995,12 @@
           "playsText": "52K plays",
           "duration": 325,
           "byOther": false,
-          "nameKey": "憨人"
+          "nameKey": "憨人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 25,
@@ -786,7 +1011,12 @@
           "playsText": "48K plays",
           "duration": 298,
           "byOther": false,
-          "nameKey": "志明與春嬌"
+          "nameKey": "志明與春嬌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 26,
@@ -797,7 +1027,12 @@
           "playsText": "8.5K plays",
           "duration": 221,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         }
       ],
       "releaseDate": "2000-12-21",
@@ -825,7 +1060,10 @@
           "playsText": "3.6M plays",
           "duration": 171,
           "byOther": false,
-          "nameKey": "一顆蘋果"
+          "nameKey": "一顆蘋果",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 2,
@@ -836,7 +1074,10 @@
           "playsText": "792K plays",
           "duration": 246,
           "byOther": false,
-          "nameKey": "能不能不要說"
+          "nameKey": "能不能不要說",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 3,
@@ -847,7 +1088,10 @@
           "playsText": "8.3M plays",
           "duration": 260,
           "byOther": false,
-          "nameKey": "好不好"
+          "nameKey": "好不好",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 4,
@@ -858,7 +1102,10 @@
           "playsText": "4.3M plays",
           "duration": 302,
           "byOther": false,
-          "nameKey": "相信"
+          "nameKey": "相信",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 5,
@@ -869,7 +1116,10 @@
           "playsText": "1.2M plays",
           "duration": 171,
           "byOther": false,
-          "nameKey": "ok啦"
+          "nameKey": "ok啦",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 6,
@@ -880,7 +1130,10 @@
           "playsText": "1.5M plays",
           "duration": 201,
           "byOther": false,
-          "nameKey": "借問眾神明"
+          "nameKey": "借問眾神明",
+          "credits": {
+            "music": "06"
+          }
         },
         {
           "index": 7,
@@ -891,7 +1144,10 @@
           "playsText": "2.3M plays",
           "duration": 257,
           "byOther": false,
-          "nameKey": "永遠的永遠"
+          "nameKey": "永遠的永遠",
+          "credits": {
+            "music": "07"
+          }
         },
         {
           "index": 8,
@@ -902,7 +1158,10 @@
           "playsText": "5.3M plays",
           "duration": 293,
           "byOther": false,
-          "nameKey": "彩虹"
+          "nameKey": "彩虹",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 9,
@@ -913,7 +1172,10 @@
           "playsText": "505K plays",
           "duration": 230,
           "byOther": false,
-          "nameKey": "啾啾啾"
+          "nameKey": "啾啾啾",
+          "credits": {
+            "music": "09"
+          }
         },
         {
           "index": 10,
@@ -924,7 +1186,10 @@
           "playsText": "5.8M plays",
           "duration": 256,
           "byOther": false,
-          "nameKey": "純眞"
+          "nameKey": "純眞",
+          "credits": {
+            "music": "10"
+          }
         },
         {
           "index": 11,
@@ -946,7 +1211,10 @@
           "playsText": "9.4M plays",
           "duration": 283,
           "byOther": false,
-          "nameKey": "人生海海"
+          "nameKey": "人生海海",
+          "credits": {
+            "music": "12"
+          }
         }
       ],
       "releaseDate": "2001-07-06",
@@ -974,7 +1242,11 @@
           "playsText": "78K plays",
           "duration": 187,
           "byOther": false,
-          "nameKey": "intro"
+          "nameKey": "intro",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 2,
@@ -985,7 +1257,11 @@
           "playsText": "78K plays",
           "duration": 164,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 3,
@@ -996,7 +1272,11 @@
           "playsText": "16K plays",
           "duration": 280,
           "byOther": false,
-          "nameKey": "終結孤單"
+          "nameKey": "終結孤單",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 4,
@@ -1007,7 +1287,11 @@
           "playsText": "34K plays",
           "duration": 232,
           "byOther": false,
-          "nameKey": "透露"
+          "nameKey": "透露",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 5,
@@ -1018,7 +1302,11 @@
           "playsText": "25K plays",
           "duration": 244,
           "byOther": false,
-          "nameKey": "能不能不要說"
+          "nameKey": "能不能不要說",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 6,
@@ -1029,7 +1317,11 @@
           "playsText": "65K plays",
           "duration": 193,
           "byOther": false,
-          "nameKey": "軋車"
+          "nameKey": "軋車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 7,
@@ -1040,7 +1332,11 @@
           "playsText": "14K plays",
           "duration": 270,
           "byOther": false,
-          "nameKey": "風若吹"
+          "nameKey": "風若吹",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 8,
@@ -1051,7 +1347,11 @@
           "playsText": "64K plays",
           "duration": 300,
           "byOther": false,
-          "nameKey": "純眞"
+          "nameKey": "純眞",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 9,
@@ -1062,7 +1362,11 @@
           "playsText": "161K plays",
           "duration": 291,
           "byOther": false,
-          "nameKey": "彩虹"
+          "nameKey": "彩虹",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 10,
@@ -1073,7 +1377,11 @@
           "playsText": "100K plays",
           "duration": 329,
           "byOther": false,
-          "nameKey": "好不好"
+          "nameKey": "好不好",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 11,
@@ -1084,7 +1392,11 @@
           "playsText": "239K plays",
           "duration": 302,
           "byOther": false,
-          "nameKey": "志明與春嬌"
+          "nameKey": "志明與春嬌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 12,
@@ -1095,7 +1407,11 @@
           "playsText": "32K plays",
           "duration": 237,
           "byOther": false,
-          "nameKey": "啾啾啾"
+          "nameKey": "啾啾啾",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 13,
@@ -1106,7 +1422,11 @@
           "playsText": "24K plays",
           "duration": 297,
           "byOther": false,
-          "nameKey": "愛情萬歲"
+          "nameKey": "愛情萬歲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 14,
@@ -1117,7 +1437,11 @@
           "playsText": "4.3K plays",
           "duration": 172,
           "byOther": false,
-          "nameKey": "hosee"
+          "nameKey": "hosee",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 15,
@@ -1128,7 +1452,11 @@
           "playsText": "12K plays",
           "duration": 160,
           "byOther": false,
-          "nameKey": "叫我第一名"
+          "nameKey": "叫我第一名",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 16,
@@ -1139,7 +1467,10 @@
           "playsText": "11K plays",
           "duration": 174,
           "byOther": false,
-          "nameKey": "為什麼"
+          "nameKey": "為什麼",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 17,
@@ -1150,7 +1481,11 @@
           "playsText": "25K plays",
           "duration": 190,
           "byOther": false,
-          "nameKey": "借問眾神明"
+          "nameKey": "借問眾神明",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 18,
@@ -1161,7 +1496,11 @@
           "playsText": "39K plays",
           "duration": 186,
           "byOther": false,
-          "nameKey": "一顆蘋果"
+          "nameKey": "一顆蘋果",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 19,
@@ -1172,7 +1511,11 @@
           "playsText": "31K plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 20,
@@ -1183,7 +1526,11 @@
           "playsText": "80K plays",
           "duration": 316,
           "byOther": false,
-          "nameKey": "愛情的模樣"
+          "nameKey": "愛情的模樣",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 21,
@@ -1194,7 +1541,11 @@
           "playsText": "54K plays",
           "duration": 292,
           "byOther": false,
-          "nameKey": "溫柔"
+          "nameKey": "溫柔",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 22,
@@ -1216,7 +1567,11 @@
           "playsText": "74K plays",
           "duration": 338,
           "byOther": false,
-          "nameKey": "永遠的永遠"
+          "nameKey": "永遠的永遠",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 24,
@@ -1227,7 +1582,11 @@
           "playsText": "38K plays",
           "duration": 355,
           "byOther": false,
-          "nameKey": "iloveyou無望"
+          "nameKey": "iloveyou無望",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 25,
@@ -1238,7 +1597,11 @@
           "playsText": "57K plays",
           "duration": 300,
           "byOther": false,
-          "nameKey": "心中無別人"
+          "nameKey": "心中無別人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 26,
@@ -1249,7 +1612,11 @@
           "playsText": "748K plays",
           "duration": 383,
           "byOther": false,
-          "nameKey": "iminlove"
+          "nameKey": "iminlove",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 27,
@@ -1260,7 +1627,11 @@
           "playsText": "216K plays",
           "duration": 402,
           "byOther": false,
-          "nameKey": "我愛夏天"
+          "nameKey": "我愛夏天",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 28,
@@ -1271,7 +1642,11 @@
           "playsText": "7.2K plays",
           "duration": 180,
           "byOther": false,
-          "nameKey": "ok啦"
+          "nameKey": "ok啦",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 29,
@@ -1293,7 +1668,11 @@
           "playsText": "23K plays",
           "duration": 354,
           "byOther": false,
-          "nameKey": "人生海海"
+          "nameKey": "人生海海",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 31,
@@ -1304,7 +1683,11 @@
           "playsText": "18K plays",
           "duration": 315,
           "byOther": false,
-          "nameKey": "明白"
+          "nameKey": "明白",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 32,
@@ -1315,7 +1698,11 @@
           "playsText": "28K plays",
           "duration": 256,
           "byOther": false,
-          "nameKey": "憨人"
+          "nameKey": "憨人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 33,
@@ -1326,7 +1713,11 @@
           "playsText": "62K plays",
           "duration": 421,
           "byOther": false,
-          "nameKey": "相信"
+          "nameKey": "相信",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 34,
@@ -1337,7 +1728,11 @@
           "playsText": "65K plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 35,
@@ -1348,7 +1743,11 @@
           "playsText": "5.3K plays",
           "duration": 313,
           "byOther": false,
-          "nameKey": "嘿我要走了"
+          "nameKey": "嘿我要走了",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         }
       ],
       "releaseDate": "2001-12-25",
@@ -1387,7 +1786,10 @@
           "playsText": "5.1K plays",
           "duration": 181,
           "byOther": false,
-          "nameKey": "羅密歐與茱麗葉"
+          "nameKey": "羅密歐與茱麗葉",
+          "credits": {
+            "music": "09"
+          }
         },
         {
           "index": 3,
@@ -1409,7 +1811,10 @@
           "playsText": "98K plays",
           "duration": 214,
           "byOther": true,
-          "nameKey": "候鳥"
+          "nameKey": "候鳥",
+          "credits": {
+            "music": "11"
+          }
         },
         {
           "index": 5,
@@ -1431,7 +1836,11 @@
           "playsText": "257K plays",
           "duration": 169,
           "byOther": false,
-          "nameKey": "左鍵"
+          "nameKey": "左鍵",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 7,
@@ -1536,7 +1945,10 @@
           "playsText": "547K plays",
           "duration": 257,
           "byOther": false,
-          "nameKey": "輕功"
+          "nameKey": "輕功",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 2,
@@ -1547,7 +1959,10 @@
           "playsText": "4.5M plays",
           "duration": 255,
           "byOther": false,
-          "nameKey": "恆星的恆心"
+          "nameKey": "恆星的恆心",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 3,
@@ -1558,7 +1973,12 @@
           "playsText": "2.3M plays",
           "duration": 312,
           "byOther": false,
-          "nameKey": "雌雄同體"
+          "nameKey": "雌雄同體",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -1569,7 +1989,10 @@
           "playsText": "792K plays",
           "duration": 179,
           "byOther": false,
-          "nameKey": "阿姆斯壯"
+          "nameKey": "阿姆斯壯",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 5,
@@ -1580,7 +2003,10 @@
           "playsText": "8.5M plays",
           "duration": 252,
           "byOther": false,
-          "nameKey": "而我知道"
+          "nameKey": "而我知道",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 6,
@@ -1591,7 +2017,10 @@
           "playsText": "815K plays",
           "duration": 215,
           "byOther": false,
-          "nameKey": "賭神"
+          "nameKey": "賭神",
+          "credits": {
+            "music": "06"
+          }
         },
         {
           "index": 7,
@@ -1602,7 +2031,10 @@
           "playsText": "581K plays",
           "duration": 187,
           "byOther": false,
-          "nameKey": "別惹我"
+          "nameKey": "別惹我",
+          "credits": {
+            "music": "07"
+          }
         },
         {
           "index": 8,
@@ -1613,7 +2045,10 @@
           "playsText": "4.6M plays",
           "duration": 278,
           "byOther": false,
-          "nameKey": "九號球"
+          "nameKey": "九號球",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 9,
@@ -1624,7 +2059,10 @@
           "playsText": "67K plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "武裝"
+          "nameKey": "武裝",
+          "credits": {
+            "music": "09"
+          }
         },
         {
           "index": 10,
@@ -1635,7 +2073,10 @@
           "playsText": "3.9M plays",
           "duration": 221,
           "byOther": false,
-          "nameKey": "時光機"
+          "nameKey": "時光機",
+          "credits": {
+            "music": "10"
+          }
         },
         {
           "index": 11,
@@ -1646,7 +2087,10 @@
           "playsText": "1.3M plays",
           "duration": 266,
           "byOther": false,
-          "nameKey": "我們"
+          "nameKey": "我們",
+          "credits": {
+            "music": "11"
+          }
         },
         {
           "index": 12,
@@ -1657,7 +2101,10 @@
           "playsText": "188K plays",
           "duration": 155,
           "byOther": false,
-          "nameKey": "在這一秒"
+          "nameKey": "在這一秒",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 13,
@@ -1668,7 +2115,10 @@
           "playsText": "5.1M plays",
           "duration": 264,
           "byOther": false,
-          "nameKey": "生命有一種絕對"
+          "nameKey": "生命有一種絕對",
+          "credits": {
+            "music": "13"
+          }
         },
         {
           "index": 14,
@@ -1679,7 +2129,10 @@
           "playsText": "1.1M plays",
           "duration": 255,
           "byOther": false,
-          "nameKey": "王子麵"
+          "nameKey": "王子麵",
+          "credits": {
+            "music": "14"
+          }
         },
         {
           "index": 15,
@@ -1690,7 +2143,10 @@
           "playsText": "360K plays",
           "duration": 307,
           "byOther": false,
-          "nameKey": "小時候"
+          "nameKey": "小時候",
+          "credits": {
+            "music": "15"
+          }
         }
       ],
       "releaseDate": "2003-01-01",
@@ -1718,7 +2174,12 @@
           "playsText": "4.5M plays",
           "duration": 190,
           "byOther": false,
-          "nameKey": "終結孤單"
+          "nameKey": "終結孤單",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -1729,7 +2190,12 @@
           "playsText": "36M plays",
           "duration": 270,
           "byOther": false,
-          "nameKey": "溫柔"
+          "nameKey": "溫柔",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -1740,7 +2206,12 @@
           "playsText": "5.4M plays",
           "duration": 212,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -1751,7 +2222,12 @@
           "playsText": "18M plays",
           "duration": 253,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -1762,7 +2238,10 @@
           "playsText": "5.3M plays",
           "duration": 297,
           "byOther": false,
-          "nameKey": "彩虹"
+          "nameKey": "彩虹",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 6,
@@ -1773,7 +2252,10 @@
           "playsText": "5.6M plays",
           "duration": 306,
           "byOther": false,
-          "nameKey": "愛情的模樣"
+          "nameKey": "愛情的模樣",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 7,
@@ -1784,7 +2266,10 @@
           "playsText": "188K plays",
           "duration": 154,
           "byOther": false,
-          "nameKey": "在這一秒"
+          "nameKey": "在這一秒",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 8,
@@ -1795,7 +2280,11 @@
           "playsText": "258K plays",
           "duration": 187,
           "byOther": false,
-          "nameKey": "搖滾本事"
+          "nameKey": "搖滾本事",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 9,
@@ -1806,7 +2295,10 @@
           "playsText": "9.4M plays",
           "duration": 280,
           "byOther": false,
-          "nameKey": "人生海海"
+          "nameKey": "人生海海",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 10,
@@ -1817,7 +2309,10 @@
           "playsText": "5.1M plays",
           "duration": 239,
           "byOther": false,
-          "nameKey": "生命有一種絕對"
+          "nameKey": "生命有一種絕對",
+          "credits": {
+            "music": "13"
+          }
         },
         {
           "index": 11,
@@ -1828,7 +2323,12 @@
           "playsText": "3.6M plays",
           "duration": 363,
           "byOther": false,
-          "nameKey": "愛情萬歲"
+          "nameKey": "愛情萬歲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -1839,7 +2339,10 @@
           "playsText": "1.6M plays",
           "duration": 214,
           "byOther": false,
-          "nameKey": "透露"
+          "nameKey": "透露",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 13,
@@ -1889,7 +2392,11 @@
           "playsText": "9.9K plays",
           "duration": 107,
           "byOther": false,
-          "nameKey": "intro"
+          "nameKey": "intro",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 2,
@@ -1900,7 +2407,11 @@
           "playsText": "7.1K plays",
           "duration": 235,
           "byOther": false,
-          "nameKey": "武裝"
+          "nameKey": "武裝",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 3,
@@ -1911,7 +2422,11 @@
           "playsText": "14K plays",
           "duration": 195,
           "byOther": false,
-          "nameKey": "搖滾本事"
+          "nameKey": "搖滾本事",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 4,
@@ -1922,7 +2437,11 @@
           "playsText": "27K plays",
           "duration": 236,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 5,
@@ -1933,7 +2452,11 @@
           "playsText": "15K plays",
           "duration": 251,
           "byOther": false,
-          "nameKey": "終結孤單"
+          "nameKey": "終結孤單",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 6,
@@ -1944,7 +2467,11 @@
           "playsText": "52K plays",
           "duration": 229,
           "byOther": false,
-          "nameKey": "透露"
+          "nameKey": "透露",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 7,
@@ -1955,7 +2482,11 @@
           "playsText": "78K plays",
           "duration": 341,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 8,
@@ -1966,7 +2497,11 @@
           "playsText": "31K plays",
           "duration": 344,
           "byOther": false,
-          "nameKey": "talking"
+          "nameKey": "talking",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 9,
@@ -1977,7 +2512,11 @@
           "playsText": "43K plays",
           "duration": 280,
           "byOther": false,
-          "nameKey": "相信"
+          "nameKey": "相信",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 10,
@@ -1988,7 +2527,11 @@
           "playsText": "24K plays",
           "duration": 260,
           "byOther": false,
-          "nameKey": "輕功"
+          "nameKey": "輕功",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 11,
@@ -1999,7 +2542,11 @@
           "playsText": "961K plays",
           "duration": 361,
           "byOther": false,
-          "nameKey": "向前走"
+          "nameKey": "向前走",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 12,
@@ -2010,7 +2557,11 @@
           "playsText": "62K plays",
           "duration": 255,
           "byOther": false,
-          "nameKey": "好不好"
+          "nameKey": "好不好",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 13,
@@ -2021,7 +2572,11 @@
           "playsText": "105K plays",
           "duration": 330,
           "byOther": false,
-          "nameKey": "iloveyou無望"
+          "nameKey": "iloveyou無望",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 14,
@@ -2043,7 +2598,11 @@
           "playsText": "20K plays",
           "duration": 288,
           "byOther": false,
-          "nameKey": "人生海海"
+          "nameKey": "人生海海",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 16,
@@ -2054,7 +2613,10 @@
           "playsText": "46K plays",
           "duration": 174,
           "byOther": false,
-          "nameKey": "ok啦"
+          "nameKey": "ok啦",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 17,
@@ -2065,7 +2627,11 @@
           "playsText": "15K plays",
           "duration": 211,
           "byOther": false,
-          "nameKey": "叫我第一名"
+          "nameKey": "叫我第一名",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 18,
@@ -2076,7 +2642,11 @@
           "playsText": "40K plays",
           "duration": 278,
           "byOther": false,
-          "nameKey": "王子麵"
+          "nameKey": "王子麵",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 19,
@@ -2087,7 +2657,11 @@
           "playsText": "13K plays",
           "duration": 372,
           "byOther": false,
-          "nameKey": "雌雄同體"
+          "nameKey": "雌雄同體",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 20,
@@ -2098,7 +2672,11 @@
           "playsText": "16K plays",
           "duration": 445,
           "byOther": false,
-          "nameKey": "愛情萬歲"
+          "nameKey": "愛情萬歲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 21,
@@ -2109,7 +2687,11 @@
           "playsText": "64K plays",
           "duration": 280,
           "byOther": false,
-          "nameKey": "生命有一種絕對"
+          "nameKey": "生命有一種絕對",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 22,
@@ -2120,7 +2702,11 @@
           "playsText": "463K plays",
           "duration": 281,
           "byOther": false,
-          "nameKey": "溫柔"
+          "nameKey": "溫柔",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 23,
@@ -2131,7 +2717,11 @@
           "playsText": "65K plays",
           "duration": 261,
           "byOther": false,
-          "nameKey": "心中無別人"
+          "nameKey": "心中無別人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 24,
@@ -2142,7 +2732,11 @@
           "playsText": "22K plays",
           "duration": 362,
           "byOther": false,
-          "nameKey": "軋車"
+          "nameKey": "軋車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 25,
@@ -2153,7 +2747,11 @@
           "playsText": "163K plays",
           "duration": 286,
           "byOther": false,
-          "nameKey": "志明與春嬌"
+          "nameKey": "志明與春嬌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 26,
@@ -2164,7 +2762,11 @@
           "playsText": "20K plays",
           "duration": 354,
           "byOther": false,
-          "nameKey": "talking"
+          "nameKey": "talking",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 27,
@@ -2175,7 +2777,11 @@
           "playsText": "12K plays",
           "duration": 656,
           "byOther": false,
-          "nameKey": "憨人"
+          "nameKey": "憨人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         }
       ],
       "releaseDate": "2004-03-30",
@@ -2203,7 +2809,12 @@
           "playsText": "7.5M plays",
           "duration": 253,
           "byOther": false,
-          "nameKey": "孫悟空"
+          "nameKey": "孫悟空",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -2214,7 +2825,12 @@
           "playsText": "36M plays",
           "duration": 262,
           "byOther": false,
-          "nameKey": "倔強"
+          "nameKey": "倔強",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -2225,7 +2841,12 @@
           "playsText": "9.8M plays",
           "duration": 257,
           "byOther": false,
-          "nameKey": "垃圾車"
+          "nameKey": "垃圾車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -2236,7 +2857,12 @@
           "playsText": "981K plays",
           "duration": 164,
           "byOther": false,
-          "nameKey": "小護士"
+          "nameKey": "小護士",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -2247,7 +2873,12 @@
           "playsText": "4M plays",
           "duration": 240,
           "byOther": false,
-          "nameKey": "讓我照顧你"
+          "nameKey": "讓我照顧你",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 6,
@@ -2258,7 +2889,12 @@
           "playsText": "3.5M plays",
           "duration": 206,
           "byOther": false,
-          "nameKey": "約翰藍儂"
+          "nameKey": "約翰藍儂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 7,
@@ -2269,7 +2905,12 @@
           "playsText": "1.7M plays",
           "duration": 271,
           "byOther": false,
-          "nameKey": "回來吧"
+          "nameKey": "回來吧",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -2280,7 +2921,12 @@
           "playsText": "1M plays",
           "duration": 225,
           "byOther": false,
-          "nameKey": "錯錯錯"
+          "nameKey": "錯錯錯",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -2291,7 +2937,12 @@
           "playsText": "698K plays",
           "duration": 249,
           "byOther": false,
-          "nameKey": "晚安地球人"
+          "nameKey": "晚安地球人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -2302,7 +2953,12 @@
           "playsText": "6.1M plays",
           "duration": 269,
           "byOther": false,
-          "nameKey": "超人"
+          "nameKey": "超人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信、冠佑",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 11,
@@ -2313,7 +2969,12 @@
           "playsText": "41K plays",
           "duration": 39,
           "byOther": false,
-          "nameKey": "神的孩子都在跳舞"
+          "nameKey": "神的孩子都在跳舞",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -2324,7 +2985,12 @@
           "playsText": "1.5M plays",
           "duration": 164,
           "byOther": false,
-          "nameKey": "聖誕夜驚魂"
+          "nameKey": "聖誕夜驚魂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 13,
@@ -2363,7 +3029,12 @@
           "playsText": "49M plays",
           "duration": 257,
           "byOther": false,
-          "nameKey": "知足"
+          "nameKey": "知足",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -2374,7 +3045,12 @@
           "playsText": "5.9M plays",
           "duration": 305,
           "byOther": false,
-          "nameKey": "牙關"
+          "nameKey": "牙關",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -2385,7 +3061,12 @@
           "playsText": "2M plays",
           "duration": 183,
           "byOther": false,
-          "nameKey": "亂世浮生"
+          "nameKey": "亂世浮生",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -2396,7 +3077,12 @@
           "playsText": "17M plays",
           "duration": 170,
           "byOther": false,
-          "nameKey": "戀愛ing"
+          "nameKey": "戀愛ing",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -2407,7 +3093,12 @@
           "playsText": "10M plays",
           "duration": 300,
           "byOther": false,
-          "nameKey": "聽不到"
+          "nameKey": "聽不到",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 6,
@@ -2418,7 +3109,12 @@
           "playsText": "18M plays",
           "duration": 262,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 7,
@@ -2429,7 +3125,12 @@
           "playsText": "4.5M plays",
           "duration": 190,
           "byOther": false,
-          "nameKey": "終結孤單"
+          "nameKey": "終結孤單",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -2440,7 +3141,10 @@
           "playsText": "8.5M plays",
           "duration": 252,
           "byOther": false,
-          "nameKey": "而我知道"
+          "nameKey": "而我知道",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 9,
@@ -2451,7 +3155,12 @@
           "playsText": "7.5M plays",
           "duration": 261,
           "byOther": false,
-          "nameKey": "孫悟空"
+          "nameKey": "孫悟空",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -2462,7 +3171,10 @@
           "playsText": "9.4M plays",
           "duration": 283,
           "byOther": false,
-          "nameKey": "人生海海"
+          "nameKey": "人生海海",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 11,
@@ -2473,7 +3185,12 @@
           "playsText": "682K plays",
           "duration": 205,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -2484,7 +3201,12 @@
           "playsText": "3.6M plays",
           "duration": 356,
           "byOther": false,
-          "nameKey": "愛情萬歲"
+          "nameKey": "愛情萬歲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 13,
@@ -2495,7 +3217,10 @@
           "playsText": "4.5M plays",
           "duration": 256,
           "byOther": false,
-          "nameKey": "恆星的恆心"
+          "nameKey": "恆星的恆心",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 14,
@@ -2517,7 +3242,12 @@
           "playsText": "36M plays",
           "duration": 262,
           "byOther": false,
-          "nameKey": "倔強"
+          "nameKey": "倔強",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 16,
@@ -2528,7 +3258,12 @@
           "playsText": "712K plays",
           "duration": 119,
           "byOther": false,
-          "nameKey": "金多蝦"
+          "nameKey": "金多蝦",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 17,
@@ -2539,7 +3274,12 @@
           "playsText": "2.1M plays",
           "duration": 258,
           "byOther": false,
-          "nameKey": "麥來亂"
+          "nameKey": "麥來亂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 18,
@@ -2550,7 +3290,12 @@
           "playsText": "24M plays",
           "duration": 280,
           "byOther": false,
-          "nameKey": "志明與春嬌"
+          "nameKey": "志明與春嬌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 19,
@@ -2561,7 +3306,12 @@
           "playsText": "7.6M plays",
           "duration": 251,
           "byOther": false,
-          "nameKey": "心中無別人"
+          "nameKey": "心中無別人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 20,
@@ -2572,7 +3322,10 @@
           "playsText": "8.3M plays",
           "duration": 257,
           "byOther": false,
-          "nameKey": "好不好"
+          "nameKey": "好不好",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 21,
@@ -2583,7 +3336,12 @@
           "playsText": "17M plays",
           "duration": 248,
           "byOther": false,
-          "nameKey": "憨人"
+          "nameKey": "憨人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 22,
@@ -2594,7 +3352,10 @@
           "playsText": "1.2M plays",
           "duration": 169,
           "byOther": false,
-          "nameKey": "ok啦"
+          "nameKey": "ok啦",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 23,
@@ -2605,7 +3366,12 @@
           "playsText": "1.1M plays",
           "duration": 245,
           "byOther": false,
-          "nameKey": "垃圾車"
+          "nameKey": "垃圾車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 24,
@@ -2616,7 +3382,12 @@
           "playsText": "1M plays",
           "duration": 150,
           "byOther": false,
-          "nameKey": "叫我第一名"
+          "nameKey": "叫我第一名",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 25,
@@ -2627,7 +3398,12 @@
           "playsText": "5.1M plays",
           "duration": 157,
           "byOther": false,
-          "nameKey": "軋車"
+          "nameKey": "軋車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 26,
@@ -2638,7 +3414,12 @@
           "playsText": "2.9M plays",
           "duration": 285,
           "byOther": false,
-          "nameKey": "iloveyou無望"
+          "nameKey": "iloveyou無望",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 27,
@@ -2649,7 +3430,10 @@
           "playsText": "2.3M plays",
           "duration": 268,
           "byOther": false,
-          "nameKey": "永遠的永遠"
+          "nameKey": "永遠的永遠",
+          "credits": {
+            "music": "07"
+          }
         },
         {
           "index": 28,
@@ -2660,7 +3444,10 @@
           "playsText": "1.5M plays",
           "duration": 194,
           "byOther": false,
-          "nameKey": "借問眾神明"
+          "nameKey": "借問眾神明",
+          "credits": {
+            "music": "06"
+          }
         },
         {
           "index": 29,
@@ -2671,7 +3458,12 @@
           "playsText": "11K plays",
           "duration": 80,
           "byOther": false,
-          "nameKey": "未來"
+          "nameKey": "未來",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信、怪獸、周恆毅",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 30,
@@ -2682,7 +3474,11 @@
           "playsText": "1.3M plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "鹹魚"
+          "nameKey": "鹹魚",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         }
       ],
       "releaseDate": "2005-01-01",
@@ -2732,7 +3528,12 @@
           "playsText": "44K plays",
           "duration": 255,
           "byOther": false,
-          "nameKey": "終結孤單"
+          "nameKey": "終結孤單",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -2743,7 +3544,12 @@
           "playsText": "68K plays",
           "duration": 187,
           "byOther": false,
-          "nameKey": "聖誕夜驚魂"
+          "nameKey": "聖誕夜驚魂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -2754,7 +3560,10 @@
           "playsText": "22K plays",
           "duration": 169,
           "byOther": false,
-          "nameKey": "ok啦"
+          "nameKey": "ok啦",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 6,
@@ -2765,7 +3574,12 @@
           "playsText": "21K plays",
           "duration": 157,
           "byOther": false,
-          "nameKey": "叫我第一名"
+          "nameKey": "叫我第一名",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 7,
@@ -2809,7 +3623,10 @@
           "playsText": "34K plays",
           "duration": 136,
           "byOther": false,
-          "nameKey": "時光機"
+          "nameKey": "時光機",
+          "credits": {
+            "music": "10"
+          }
         },
         {
           "index": 11,
@@ -2820,7 +3637,10 @@
           "playsText": "12K plays",
           "duration": 322,
           "byOther": false,
-          "nameKey": "輕功"
+          "nameKey": "輕功",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 12,
@@ -2831,7 +3651,10 @@
           "playsText": "8K plays",
           "duration": 191,
           "byOther": false,
-          "nameKey": "賭神"
+          "nameKey": "賭神",
+          "credits": {
+            "music": "06"
+          }
         },
         {
           "index": 13,
@@ -2842,7 +3665,10 @@
           "playsText": "116K plays",
           "duration": 261,
           "byOther": false,
-          "nameKey": "恆星的恆心"
+          "nameKey": "恆星的恆心",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 14,
@@ -2853,7 +3679,12 @@
           "playsText": "53K plays",
           "duration": 330,
           "byOther": false,
-          "nameKey": "iloveyou無望"
+          "nameKey": "iloveyou無望",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 15,
@@ -2864,7 +3695,10 @@
           "playsText": "4.6K plays",
           "duration": 164,
           "byOther": false,
-          "nameKey": "武裝"
+          "nameKey": "武裝",
+          "credits": {
+            "music": "09"
+          }
         },
         {
           "index": 16,
@@ -2875,7 +3709,10 @@
           "playsText": "18K plays",
           "duration": 296,
           "byOther": false,
-          "nameKey": "一顆蘋果"
+          "nameKey": "一顆蘋果",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 17,
@@ -2886,7 +3723,10 @@
           "playsText": "15K plays",
           "duration": 134,
           "byOther": false,
-          "nameKey": "而我知道"
+          "nameKey": "而我知道",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 18,
@@ -2897,7 +3737,12 @@
           "playsText": "40K plays",
           "duration": 288,
           "byOther": false,
-          "nameKey": "回來吧"
+          "nameKey": "回來吧",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 19,
@@ -2908,7 +3753,12 @@
           "playsText": "42K plays",
           "duration": 270,
           "byOther": false,
-          "nameKey": "超人"
+          "nameKey": "超人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信、冠佑",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 20,
@@ -2919,7 +3769,12 @@
           "playsText": "41K plays",
           "duration": 193,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 21,
@@ -2930,7 +3785,12 @@
           "playsText": "16K plays",
           "duration": 191,
           "byOther": false,
-          "nameKey": "hosee"
+          "nameKey": "hosee",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 22,
@@ -2963,7 +3823,12 @@
           "playsText": "13K plays",
           "duration": 269,
           "byOther": false,
-          "nameKey": "晚安地球人"
+          "nameKey": "晚安地球人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 25,
@@ -3007,7 +3872,12 @@
           "playsText": "32K plays",
           "duration": 296,
           "byOther": false,
-          "nameKey": "小護士"
+          "nameKey": "小護士",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 29,
@@ -3018,7 +3888,10 @@
           "playsText": "75K plays",
           "duration": 331,
           "byOther": false,
-          "nameKey": "人生海海"
+          "nameKey": "人生海海",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 30,
@@ -3040,7 +3913,12 @@
           "playsText": "7.4K plays",
           "duration": 249,
           "byOther": false,
-          "nameKey": "心中無別人"
+          "nameKey": "心中無別人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 32,
@@ -3051,7 +3929,12 @@
           "playsText": "56K plays",
           "duration": 311,
           "byOther": false,
-          "nameKey": "約翰藍儂"
+          "nameKey": "約翰藍儂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 33,
@@ -3073,7 +3956,12 @@
           "playsText": "114K plays",
           "duration": 444,
           "byOther": false,
-          "nameKey": "憨人"
+          "nameKey": "憨人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 35,
@@ -3084,7 +3972,12 @@
           "playsText": "31K plays",
           "duration": 442,
           "byOther": false,
-          "nameKey": "軋車"
+          "nameKey": "軋車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 36,
@@ -3095,7 +3988,12 @@
           "playsText": "121K plays",
           "duration": 286,
           "byOther": false,
-          "nameKey": "志明與春嬌"
+          "nameKey": "志明與春嬌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 37,
@@ -3106,7 +4004,12 @@
           "playsText": "195K plays",
           "duration": 514,
           "byOther": false,
-          "nameKey": "溫柔"
+          "nameKey": "溫柔",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 38,
@@ -3117,7 +4020,12 @@
           "playsText": "81K plays",
           "duration": 285,
           "byOther": false,
-          "nameKey": "倔強"
+          "nameKey": "倔強",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 39,
@@ -3128,7 +4036,11 @@
           "playsText": "685K plays",
           "duration": 165,
           "byOther": false,
-          "nameKey": "花"
+          "nameKey": "花",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         }
       ],
       "releaseDate": null,
@@ -3156,7 +4068,12 @@
           "playsText": "52K plays",
           "duration": 45,
           "byOther": false,
-          "nameKey": "前傳"
+          "nameKey": "前傳",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "鍾興民（Room 19）",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -3167,7 +4084,12 @@
           "playsText": "705K plays",
           "duration": 256,
           "byOther": false,
-          "nameKey": "為愛而生"
+          "nameKey": "為愛而生",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -3178,7 +4100,12 @@
           "playsText": "13M plays",
           "duration": 251,
           "byOther": false,
-          "nameKey": "天使"
+          "nameKey": "天使",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -3189,7 +4116,12 @@
           "playsText": "3.3M plays",
           "duration": 234,
           "byOther": false,
-          "nameKey": "我又初戀了"
+          "nameKey": "我又初戀了",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -3200,7 +4132,12 @@
           "playsText": "842K plays",
           "duration": 278,
           "byOther": false,
-          "nameKey": "香水"
+          "nameKey": "香水",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信、冠佑",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 6,
@@ -3211,7 +4148,12 @@
           "playsText": "453K plays",
           "duration": 289,
           "byOther": false,
-          "nameKey": "摩托車日記"
+          "nameKey": "摩托車日記",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 7,
@@ -3222,7 +4164,12 @@
           "playsText": "1.8M plays",
           "duration": 291,
           "byOther": false,
-          "nameKey": "最重要的小事"
+          "nameKey": "最重要的小事",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -3233,7 +4180,12 @@
           "playsText": "164K plays",
           "duration": 186,
           "byOther": false,
-          "nameKey": "快樂很偉大"
+          "nameKey": "快樂很偉大",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信、石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -3244,7 +4196,12 @@
           "playsText": "2.3M plays",
           "duration": 253,
           "byOther": false,
-          "nameKey": "忘詞"
+          "nameKey": "忘詞",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -3255,7 +4212,12 @@
           "playsText": "448K plays",
           "duration": 271,
           "byOther": false,
-          "nameKey": "寵上天"
+          "nameKey": "寵上天",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 11,
@@ -3266,7 +4228,12 @@
           "playsText": "1.5M plays",
           "duration": 198,
           "byOther": false,
-          "nameKey": "米老鼠"
+          "nameKey": "米老鼠",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -3277,7 +4244,12 @@
           "playsText": "699K plays",
           "duration": 303,
           "byOther": false,
-          "nameKey": "一千個世紀"
+          "nameKey": "一千個世紀",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 13,
@@ -3288,7 +4260,12 @@
           "playsText": "84K plays",
           "duration": 149,
           "byOther": false,
-          "nameKey": "胎音"
+          "nameKey": "胎音",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         }
       ],
       "releaseDate": "2006-12-29",
@@ -3316,7 +4293,12 @@
           "playsText": "7.1M plays",
           "duration": 227,
           "byOther": false,
-          "nameKey": "私奔到月球"
+          "nameKey": "私奔到月球",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -3327,7 +4309,12 @@
           "playsText": "10M plays",
           "duration": 276,
           "byOther": false,
-          "nameKey": "離開地球表面"
+          "nameKey": "離開地球表面",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -3339,7 +4326,12 @@
           "duration": 92,
           "byOther": false,
           "nameKey": "jump離開地球表面mv完整版",
-          "titleZh": "JUMP！離開地球表面MV完整版"
+          "titleZh": "JUMP！離開地球表面MV完整版",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -3350,7 +4342,12 @@
           "playsText": "521K plays",
           "duration": 242,
           "byOther": false,
-          "nameKey": "抓狂"
+          "nameKey": "抓狂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -3361,7 +4358,12 @@
           "playsText": "3.7M plays",
           "duration": 314,
           "byOther": false,
-          "nameKey": "知足"
+          "nameKey": "知足",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 6,
@@ -3372,7 +4374,12 @@
           "playsText": "186K plays",
           "duration": 186,
           "byOther": false,
-          "nameKey": "垃圾車"
+          "nameKey": "垃圾車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 7,
@@ -3383,7 +4390,12 @@
           "playsText": "406K plays",
           "duration": 290,
           "byOther": false,
-          "nameKey": "天使"
+          "nameKey": "天使",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -3394,7 +4406,12 @@
           "playsText": "27K plays",
           "duration": 188,
           "byOther": false,
-          "nameKey": "摩托車日記"
+          "nameKey": "摩托車日記",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -3405,7 +4422,11 @@
           "playsText": "25K plays",
           "duration": 144,
           "byOther": false,
-          "nameKey": "孫悟空verallcrewout"
+          "nameKey": "孫悟空verallcrewout",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         },
         {
           "index": 10,
@@ -3416,7 +4437,10 @@
           "playsText": "26K plays",
           "duration": 123,
           "byOther": false,
-          "nameKey": "阿姆斯壯"
+          "nameKey": "阿姆斯壯",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 11,
@@ -3427,7 +4451,12 @@
           "playsText": "61K plays",
           "duration": 230,
           "byOther": false,
-          "nameKey": "約翰藍儂"
+          "nameKey": "約翰藍儂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -3460,7 +4489,12 @@
           "playsText": "77K plays",
           "duration": 272,
           "byOther": false,
-          "nameKey": "最重要的小事"
+          "nameKey": "最重要的小事",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 15,
@@ -3493,7 +4527,12 @@
           "playsText": "82K plays",
           "duration": 293,
           "byOther": false,
-          "nameKey": "離開地球表面remixbydjrock"
+          "nameKey": "離開地球表面remixbydjrock",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         }
       ],
       "releaseDate": "2007-07-20",
@@ -3521,7 +4560,11 @@
           "playsText": "1.4M plays",
           "duration": 260,
           "byOther": false,
-          "nameKey": "小太陽"
+          "nameKey": "小太陽",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         }
       ],
       "releaseDate": "2008-03-01",
@@ -3549,7 +4592,12 @@
           "playsText": "66M plays",
           "duration": 266,
           "byOther": false,
-          "nameKey": "突然好想你"
+          "nameKey": "突然好想你",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -3560,7 +4608,12 @@
           "playsText": "2.1M plays",
           "duration": 278,
           "byOther": false,
-          "nameKey": "生存以上生活以下"
+          "nameKey": "生存以上生活以下",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -3571,7 +4624,12 @@
           "playsText": "38M plays",
           "duration": 300,
           "byOther": false,
-          "nameKey": "你不是眞正的快樂"
+          "nameKey": "你不是眞正的快樂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -3582,7 +4640,12 @@
           "playsText": "1.3M plays",
           "duration": 181,
           "byOther": false,
-          "nameKey": "爆肝"
+          "nameKey": "爆肝",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -3593,7 +4656,12 @@
           "playsText": "1.7M plays",
           "duration": 177,
           "byOther": false,
-          "nameKey": "噢買尬"
+          "nameKey": "噢買尬",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 6,
@@ -3604,7 +4672,12 @@
           "playsText": "3M plays",
           "duration": 253,
           "byOther": false,
-          "nameKey": "出頭天"
+          "nameKey": "出頭天",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 7,
@@ -3615,7 +4688,12 @@
           "playsText": "9.9M plays",
           "duration": 325,
           "byOther": false,
-          "nameKey": "我心中尚未崩壞的地方"
+          "nameKey": "我心中尚未崩壞的地方",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -3626,7 +4704,12 @@
           "playsText": "1.6M plays",
           "duration": 224,
           "byOther": false,
-          "nameKey": "春天的吶喊"
+          "nameKey": "春天的吶喊",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -3637,7 +4720,12 @@
           "playsText": "12M plays",
           "duration": 251,
           "byOther": false,
-          "nameKey": "夜訪吸血鬼"
+          "nameKey": "夜訪吸血鬼",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "冠佑",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -3648,7 +4736,12 @@
           "playsText": "15M plays",
           "duration": 315,
           "byOther": false,
-          "nameKey": "如煙"
+          "nameKey": "如煙",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 11,
@@ -3659,7 +4752,12 @@
           "playsText": "1.8M plays",
           "duration": 140,
           "byOther": false,
-          "nameKey": "後青春期的詩"
+          "nameKey": "後青春期的詩",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -3670,7 +4768,12 @@
           "playsText": "9.6M plays",
           "duration": 254,
           "byOther": false,
-          "nameKey": "笑忘歌"
+          "nameKey": "笑忘歌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         }
       ],
       "releaseDate": "2008-10-23",
@@ -3881,7 +4984,11 @@
           "duration": 168,
           "byOther": false,
           "nameKey": "dna",
-          "titleZh": "DNA(3DNA LIVE 版)"
+          "titleZh": "DNA(3DNA LIVE 版)",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 2,
@@ -3892,7 +4999,11 @@
           "playsText": "1.9M plays",
           "duration": 193,
           "byOther": false,
-          "nameKey": "放肆"
+          "nameKey": "放肆",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         }
       ],
       "releaseDate": "2009-08-10",
@@ -3900,8 +5011,8 @@
       "releaseDateSource": "song-table",
       "wikiTitle": "五月天音樂作品列表",
       "wikiKind": "single",
-      "titleZh": "DNA(3DNA LIVE 版)",
-      "nameKey": "dna"
+      "nameKey": "dna",
+      "titleZh": "DNA(3DNA LIVE 版)"
     },
     {
       "browseId": "MPREb_s9Ooc4eMcvo",
@@ -3921,7 +5032,11 @@
           "playsText": "693K plays",
           "duration": 154,
           "byOther": false,
-          "nameKey": "軋車"
+          "nameKey": "軋車",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 2,
@@ -3932,7 +5047,11 @@
           "playsText": "102K plays",
           "duration": 125,
           "byOther": false,
-          "nameKey": "爆肝"
+          "nameKey": "爆肝",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 3,
@@ -3943,7 +5062,11 @@
           "playsText": "146K plays",
           "duration": 184,
           "byOther": false,
-          "nameKey": "賭神"
+          "nameKey": "賭神",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 4,
@@ -3954,7 +5077,11 @@
           "playsText": "131K plays",
           "duration": 190,
           "byOther": false,
-          "nameKey": "hosee"
+          "nameKey": "hosee",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 5,
@@ -3965,7 +5092,11 @@
           "playsText": "213K plays",
           "duration": 322,
           "byOther": false,
-          "nameKey": "你不是眞正的快樂"
+          "nameKey": "你不是眞正的快樂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 6,
@@ -3976,7 +5107,11 @@
           "playsText": "131K plays",
           "duration": 258,
           "byOther": false,
-          "nameKey": "生存以上生活以下"
+          "nameKey": "生存以上生活以下",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎"
+          }
         },
         {
           "index": 7,
@@ -3998,7 +5133,11 @@
           "playsText": "661K plays",
           "duration": 294,
           "byOther": false,
-          "nameKey": "一顆蘋果"
+          "nameKey": "一顆蘋果",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 9,
@@ -4009,7 +5148,11 @@
           "playsText": "730K plays",
           "duration": 365,
           "byOther": false,
-          "nameKey": "我心中尚未崩壞的地方"
+          "nameKey": "我心中尚未崩壞的地方",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         },
         {
           "index": 10,
@@ -4020,7 +5163,11 @@
           "playsText": "2.5M plays",
           "duration": 341,
           "byOther": false,
-          "nameKey": "知足"
+          "nameKey": "知足",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 11,
@@ -4031,7 +5178,11 @@
           "playsText": "566K plays",
           "duration": 325,
           "byOther": false,
-          "nameKey": "人生海海"
+          "nameKey": "人生海海",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 12,
@@ -4042,7 +5193,11 @@
           "playsText": "177K plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "春天的吶喊"
+          "nameKey": "春天的吶喊",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         },
         {
           "index": 13,
@@ -4053,7 +5208,11 @@
           "playsText": "641K plays",
           "duration": 296,
           "byOther": false,
-          "nameKey": "離開地球表面"
+          "nameKey": "離開地球表面",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 14,
@@ -4065,7 +5224,11 @@
           "duration": 170,
           "byOther": false,
           "nameKey": "dna",
-          "titleZh": "DNA(3DNA LIVE 版)"
+          "titleZh": "DNA(3DNA LIVE 版)",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 15,
@@ -4076,7 +5239,11 @@
           "playsText": "574K plays",
           "duration": 316,
           "byOther": false,
-          "nameKey": "笑忘歌"
+          "nameKey": "笑忘歌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         },
         {
           "index": 16,
@@ -4087,7 +5254,11 @@
           "playsText": "892K plays",
           "duration": 373,
           "byOther": false,
-          "nameKey": "如煙"
+          "nameKey": "如煙",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭"
+          }
         },
         {
           "index": 17,
@@ -4098,7 +5269,11 @@
           "playsText": "479K plays",
           "duration": 670,
           "byOther": false,
-          "nameKey": "孫悟空verallcrewout"
+          "nameKey": "孫悟空verallcrewout",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         },
         {
           "index": 18,
@@ -4120,7 +5295,11 @@
           "playsText": "3.7M plays",
           "duration": 262,
           "byOther": false,
-          "nameKey": "最重要的小事"
+          "nameKey": "最重要的小事",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎"
+          }
         },
         {
           "index": 20,
@@ -4131,7 +5310,11 @@
           "playsText": "1M plays",
           "duration": 243,
           "byOther": false,
-          "nameKey": "天使"
+          "nameKey": "天使",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         },
         {
           "index": 21,
@@ -4142,7 +5325,11 @@
           "playsText": "44K plays",
           "duration": 388,
           "byOther": false,
-          "nameKey": "起來"
+          "nameKey": "起來",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "陳如山"
+          }
         },
         {
           "index": 22,
@@ -4153,7 +5340,11 @@
           "playsText": "175K plays",
           "duration": 196,
           "byOther": false,
-          "nameKey": "放肆"
+          "nameKey": "放肆",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         },
         {
           "index": 23,
@@ -4164,7 +5355,11 @@
           "playsText": "999K plays",
           "duration": 269,
           "byOther": false,
-          "nameKey": "突然好想你"
+          "nameKey": "突然好想你",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 24,
@@ -4175,7 +5370,11 @@
           "playsText": "3.2M plays",
           "duration": 526,
           "byOther": false,
-          "nameKey": "溫柔"
+          "nameKey": "溫柔",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 25,
@@ -4186,7 +5385,11 @@
           "playsText": "229K plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "志明與春嬌"
+          "nameKey": "志明與春嬌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 26,
@@ -4225,7 +5428,12 @@
           "playsText": "7.7M plays",
           "duration": 289,
           "byOther": false,
-          "nameKey": "2012"
+          "nameKey": "2012",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -4236,7 +5444,12 @@
           "playsText": "28M plays",
           "duration": 302,
           "byOther": false,
-          "nameKey": "倉頡"
+          "nameKey": "倉頡",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天、張勝凱"
+          }
         },
         {
           "index": 3,
@@ -4247,7 +5460,12 @@
           "playsText": "14M plays",
           "duration": 244,
           "byOther": false,
-          "nameKey": "洗衣機"
+          "nameKey": "洗衣機",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天、張勝凱"
+          }
         },
         {
           "index": 4,
@@ -4258,7 +5476,10 @@
           "playsText": "3M plays",
           "duration": 190,
           "byOther": false,
-          "nameKey": "歪腰"
+          "nameKey": "歪腰",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 5,
@@ -4269,7 +5490,10 @@
           "playsText": "73M plays",
           "duration": 290,
           "byOther": false,
-          "nameKey": "乾杯"
+          "nameKey": "乾杯",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 6,
@@ -4280,7 +5504,10 @@
           "playsText": "154M plays",
           "duration": 266,
           "byOther": false,
-          "nameKey": "我不願讓你一個人"
+          "nameKey": "我不願讓你一個人",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 7,
@@ -4291,7 +5518,12 @@
           "playsText": "60M plays",
           "duration": 284,
           "byOther": false,
-          "nameKey": "星空"
+          "nameKey": "星空",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -4302,7 +5534,10 @@
           "playsText": "4.4M plays",
           "duration": 256,
           "byOther": false,
-          "nameKey": "三個傻瓜"
+          "nameKey": "三個傻瓜",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 9,
@@ -4313,7 +5548,11 @@
           "playsText": "24K plays",
           "duration": 4,
           "byOther": false,
-          "nameKey": "末日"
+          "nameKey": "末日",
+          "credits": {
+            "lyrics": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -4324,7 +5563,12 @@
           "playsText": "27M plays",
           "duration": 283,
           "byOther": false,
-          "nameKey": "oaoa"
+          "nameKey": "oaoa",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 11,
@@ -4335,7 +5579,12 @@
           "playsText": "14M plays",
           "duration": 270,
           "byOther": false,
-          "nameKey": "第二人生"
+          "nameKey": "第二人生",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天、張勝凱"
+          }
         },
         {
           "index": 12,
@@ -4346,7 +5595,12 @@
           "playsText": "12M plays",
           "duration": 345,
           "byOther": false,
-          "nameKey": "諾亞方舟"
+          "nameKey": "諾亞方舟",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天、陳建騏"
+          }
         },
         {
           "index": 13,
@@ -4357,7 +5611,12 @@
           "playsText": "10M plays",
           "duration": 229,
           "byOther": false,
-          "nameKey": "有些事現在不做一輩子都不會做了"
+          "nameKey": "有些事現在不做一輩子都不會做了",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 14,
@@ -4368,7 +5627,10 @@
           "playsText": "571K plays",
           "duration": 130,
           "byOther": false,
-          "nameKey": "t1213121"
+          "nameKey": "t1213121",
+          "credits": {
+            "lyrics": "阿信"
+          }
         }
       ],
       "releaseDate": "2011-12-16",
@@ -4396,7 +5658,12 @@
           "playsText": "10M plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "有些事現在不做一輩子都不會做了"
+          "nameKey": "有些事現在不做一輩子都不會做了",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -4407,7 +5674,10 @@
           "playsText": "154M plays",
           "duration": 266,
           "byOther": false,
-          "nameKey": "我不願讓你一個人"
+          "nameKey": "我不願讓你一個人",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 3,
@@ -4418,7 +5688,12 @@
           "playsText": "60M plays",
           "duration": 283,
           "byOther": false,
-          "nameKey": "星空"
+          "nameKey": "星空",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -4429,7 +5704,12 @@
           "playsText": "14M plays",
           "duration": 244,
           "byOther": false,
-          "nameKey": "洗衣機"
+          "nameKey": "洗衣機",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天、張勝凱"
+          }
         },
         {
           "index": 5,
@@ -4440,7 +5720,10 @@
           "playsText": "4.4M plays",
           "duration": 257,
           "byOther": false,
-          "nameKey": "三個傻瓜"
+          "nameKey": "三個傻瓜",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 6,
@@ -4451,7 +5734,10 @@
           "playsText": "3M plays",
           "duration": 190,
           "byOther": false,
-          "nameKey": "歪腰"
+          "nameKey": "歪腰",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 7,
@@ -4462,7 +5748,10 @@
           "playsText": "73M plays",
           "duration": 290,
           "byOther": false,
-          "nameKey": "乾杯"
+          "nameKey": "乾杯",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 8,
@@ -4473,7 +5762,12 @@
           "playsText": "28M plays",
           "duration": 301,
           "byOther": false,
-          "nameKey": "倉頡"
+          "nameKey": "倉頡",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天、張勝凱"
+          }
         },
         {
           "index": 9,
@@ -4484,7 +5778,12 @@
           "playsText": "7.7M plays",
           "duration": 288,
           "byOther": false,
-          "nameKey": "2012"
+          "nameKey": "2012",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -4495,7 +5794,12 @@
           "playsText": "14M plays",
           "duration": 269,
           "byOther": false,
-          "nameKey": "第二人生"
+          "nameKey": "第二人生",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天、張勝凱"
+          }
         },
         {
           "index": 11,
@@ -4506,7 +5810,12 @@
           "playsText": "12M plays",
           "duration": 340,
           "byOther": false,
-          "nameKey": "諾亞方舟"
+          "nameKey": "諾亞方舟",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天、陳建騏"
+          }
         },
         {
           "index": 12,
@@ -4528,7 +5837,10 @@
           "playsText": "27M plays",
           "duration": 283,
           "byOther": false,
-          "nameKey": "oaoa"
+          "nameKey": "oaoa",
+          "credits": {
+            "music": "13"
+          }
         },
         {
           "index": 14,
@@ -4539,7 +5851,10 @@
           "playsText": "571K plays",
           "duration": 130,
           "byOther": false,
-          "nameKey": "t1213121"
+          "nameKey": "t1213121",
+          "credits": {
+            "lyrics": "阿信"
+          }
         }
       ],
       "releaseDate": "2011-12-16",
@@ -4578,7 +5893,12 @@
           "playsText": "37K plays",
           "duration": 174,
           "byOther": false,
-          "nameKey": "戀愛ing"
+          "nameKey": "戀愛ing",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -4589,7 +5909,12 @@
           "playsText": "539K plays",
           "duration": 169,
           "byOther": false,
-          "nameKey": "知足"
+          "nameKey": "知足",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -4600,7 +5925,12 @@
           "playsText": "8.4K plays",
           "duration": 110,
           "byOther": false,
-          "nameKey": "倔強"
+          "nameKey": "倔強",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -4611,7 +5941,12 @@
           "playsText": "46K plays",
           "duration": 124,
           "byOther": false,
-          "nameKey": "oaoa"
+          "nameKey": "oaoa",
+          "credits": {
+            "lyrics": "山村隆太",
+            "music": "阿信",
+            "arranger": "玉井健二、釣俊輔"
+          }
         },
         {
           "index": 6,
@@ -4622,7 +5957,11 @@
           "playsText": "12K plays",
           "duration": 178,
           "byOther": false,
-          "nameKey": "dna#live"
+          "nameKey": "dna#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 7,
@@ -4633,7 +5972,12 @@
           "playsText": "17K plays",
           "duration": 304,
           "byOther": false,
-          "nameKey": "離開地球表面#live"
+          "nameKey": "離開地球表面#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -4644,7 +5988,12 @@
           "playsText": "28K plays",
           "duration": 184,
           "byOther": false,
-          "nameKey": "最重要的小事#live"
+          "nameKey": "最重要的小事#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -4655,7 +6004,12 @@
           "playsText": "149K plays",
           "duration": 224,
           "byOther": false,
-          "nameKey": "戀愛ing#live"
+          "nameKey": "戀愛ing#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -4666,7 +6020,12 @@
           "playsText": "57K plays",
           "duration": 258,
           "byOther": false,
-          "nameKey": "你不是眞正的快樂#live"
+          "nameKey": "你不是眞正的快樂#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 11,
@@ -4677,7 +6036,12 @@
           "playsText": "54K plays",
           "duration": 268,
           "byOther": false,
-          "nameKey": "突然好想你#live"
+          "nameKey": "突然好想你#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -4688,7 +6052,12 @@
           "playsText": "10K plays",
           "duration": 419,
           "byOther": false,
-          "nameKey": "溫柔#live"
+          "nameKey": "溫柔#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 13,
@@ -4699,7 +6068,12 @@
           "playsText": "28K plays",
           "duration": 369,
           "byOther": false,
-          "nameKey": "知足#live"
+          "nameKey": "知足#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 14,
@@ -4710,7 +6084,12 @@
           "playsText": "15K plays",
           "duration": 236,
           "byOther": false,
-          "nameKey": "天使#live"
+          "nameKey": "天使#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 15,
@@ -4721,7 +6100,12 @@
           "playsText": "39K plays",
           "duration": 307,
           "byOther": false,
-          "nameKey": "倔強#live"
+          "nameKey": "倔強#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 16,
@@ -4732,7 +6116,12 @@
           "playsText": "15K plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "我心中尚未崩壞的地方#live"
+          "nameKey": "我心中尚未崩壞的地方#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         }
       ],
       "releaseDate": null,
@@ -4760,7 +6149,11 @@
           "playsText": "65M plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "步步"
+          "nameKey": "步步",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信、Cola Kai"
+          }
         },
         {
           "index": 2,
@@ -4771,7 +6164,12 @@
           "playsText": "9M plays",
           "duration": 287,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -4793,7 +6191,11 @@
           "playsText": "46M plays",
           "duration": 276,
           "byOther": false,
-          "nameKey": "洋蔥"
+          "nameKey": "洋蔥",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 5,
@@ -4804,7 +6206,10 @@
           "playsText": "73M plays",
           "duration": 286,
           "byOther": false,
-          "nameKey": "乾杯"
+          "nameKey": "乾杯",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 6,
@@ -4815,7 +6220,11 @@
           "playsText": "84M plays",
           "duration": 208,
           "byOther": false,
-          "nameKey": "入陣曲"
+          "nameKey": "入陣曲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         },
         {
           "index": 7,
@@ -4826,7 +6235,12 @@
           "playsText": "66M plays",
           "duration": 263,
           "byOther": false,
-          "nameKey": "突然好想你"
+          "nameKey": "突然好想你",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -4837,7 +6251,12 @@
           "playsText": "10M plays",
           "duration": 272,
           "byOther": false,
-          "nameKey": "離開地球表面"
+          "nameKey": "離開地球表面",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -4848,7 +6267,12 @@
           "playsText": "60M plays",
           "duration": 279,
           "byOther": false,
-          "nameKey": "星空"
+          "nameKey": "星空",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -4859,7 +6283,10 @@
           "playsText": "154M plays",
           "duration": 266,
           "byOther": false,
-          "nameKey": "我不願讓你一個人"
+          "nameKey": "我不願讓你一個人",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 11,
@@ -4870,7 +6297,12 @@
           "playsText": "3.7M plays",
           "duration": 314,
           "byOther": false,
-          "nameKey": "知足"
+          "nameKey": "知足",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -4881,7 +6313,11 @@
           "playsText": "9.6M plays",
           "duration": 216,
           "byOther": false,
-          "nameKey": "你是唯一"
+          "nameKey": "你是唯一",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭"
+          }
         },
         {
           "index": 13,
@@ -4892,7 +6328,12 @@
           "playsText": "12M plays",
           "duration": 251,
           "byOther": false,
-          "nameKey": "夜訪吸血鬼"
+          "nameKey": "夜訪吸血鬼",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "冠佑",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 14,
@@ -4903,7 +6344,12 @@
           "playsText": "15M plays",
           "duration": 314,
           "byOther": false,
-          "nameKey": "如煙"
+          "nameKey": "如煙",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 15,
@@ -4914,7 +6360,12 @@
           "playsText": "32M plays",
           "duration": 283,
           "byOther": false,
-          "nameKey": "盛夏光年"
+          "nameKey": "盛夏光年",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 16,
@@ -4925,7 +6376,10 @@
           "playsText": "4.4M plays",
           "duration": 255,
           "byOther": false,
-          "nameKey": "三個傻瓜"
+          "nameKey": "三個傻瓜",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 17,
@@ -4947,7 +6401,12 @@
           "playsText": "1.8M plays",
           "duration": 289,
           "byOther": false,
-          "nameKey": "最重要的小事"
+          "nameKey": "最重要的小事",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 19,
@@ -4958,7 +6417,12 @@
           "playsText": "12M plays",
           "duration": 345,
           "byOther": false,
-          "nameKey": "諾亞方舟"
+          "nameKey": "諾亞方舟",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天、陳建騏"
+          }
         },
         {
           "index": 20,
@@ -4969,7 +6433,12 @@
           "playsText": "9.9M plays",
           "duration": 326,
           "byOther": false,
-          "nameKey": "我心中尚未崩壞的地方"
+          "nameKey": "我心中尚未崩壞的地方",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         }
       ],
       "releaseDate": "2013-01-01",
@@ -5025,7 +6494,12 @@
           "playsText": "134K plays",
           "duration": 116,
           "byOther": false,
-          "nameKey": "有些事現在不做一輩子都不會做了"
+          "nameKey": "有些事現在不做一輩子都不會做了",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -5036,7 +6510,12 @@
           "playsText": "113K plays",
           "duration": 185,
           "byOther": false,
-          "nameKey": "2012"
+          "nameKey": "2012",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -5047,7 +6526,12 @@
           "playsText": "104K plays",
           "duration": 179,
           "byOther": false,
-          "nameKey": "叫我第一名"
+          "nameKey": "叫我第一名",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -5058,7 +6542,12 @@
           "playsText": "115K plays",
           "duration": 273,
           "byOther": false,
-          "nameKey": "愛情萬歲"
+          "nameKey": "愛情萬歲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -5069,7 +6558,12 @@
           "playsText": "276K plays",
           "duration": 191,
           "byOther": false,
-          "nameKey": "星空"
+          "nameKey": "星空",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 6,
@@ -5080,7 +6574,10 @@
           "playsText": "271K plays",
           "duration": 268,
           "byOther": false,
-          "nameKey": "我不願讓你一個人"
+          "nameKey": "我不願讓你一個人",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 7,
@@ -5091,7 +6588,12 @@
           "playsText": "274K plays",
           "duration": 210,
           "byOther": false,
-          "nameKey": "倉頡"
+          "nameKey": "倉頡",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天、張勝凱"
+          }
         },
         {
           "index": 8,
@@ -5102,7 +6604,12 @@
           "playsText": "165K plays",
           "duration": 260,
           "byOther": false,
-          "nameKey": "你不是眞正的快樂"
+          "nameKey": "你不是眞正的快樂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -5113,7 +6620,12 @@
           "playsText": "365K plays",
           "duration": 212,
           "byOther": false,
-          "nameKey": "盛夏光年"
+          "nameKey": "盛夏光年",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -5124,7 +6636,12 @@
           "playsText": "93K plays",
           "duration": 342,
           "byOther": false,
-          "nameKey": "諾亞方舟"
+          "nameKey": "諾亞方舟",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天、陳建騏"
+          }
         },
         {
           "index": 11,
@@ -5135,7 +6652,12 @@
           "playsText": "144K plays",
           "duration": 173,
           "byOther": false,
-          "nameKey": "一千個世紀"
+          "nameKey": "一千個世紀",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 12,
@@ -5146,7 +6668,12 @@
           "playsText": "10M plays",
           "duration": 379,
           "byOther": false,
-          "nameKey": "如煙如果還有明天"
+          "nameKey": "如煙如果還有明天",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭／劉偉仁",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 13,
@@ -5157,7 +6684,12 @@
           "playsText": "40K plays",
           "duration": 110,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 14,
@@ -5168,7 +6700,12 @@
           "playsText": "150K plays",
           "duration": 201,
           "byOther": false,
-          "nameKey": "第二人生"
+          "nameKey": "第二人生",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天、張勝凱"
+          }
         },
         {
           "index": 15,
@@ -5179,7 +6716,10 @@
           "playsText": "319K plays",
           "duration": 251,
           "byOther": false,
-          "nameKey": "乾杯"
+          "nameKey": "乾杯",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 16,
@@ -5190,7 +6730,12 @@
           "playsText": "55K plays",
           "duration": 170,
           "byOther": false,
-          "nameKey": "瘋狂世界"
+          "nameKey": "瘋狂世界",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 17,
@@ -5201,7 +6746,10 @@
           "playsText": "80K plays",
           "duration": 256,
           "byOther": false,
-          "nameKey": "三個傻瓜"
+          "nameKey": "三個傻瓜",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 18,
@@ -5212,7 +6760,10 @@
           "playsText": "34K plays",
           "duration": 111,
           "byOther": false,
-          "nameKey": "ok啦"
+          "nameKey": "ok啦",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 19,
@@ -5223,7 +6774,12 @@
           "playsText": "197K plays",
           "duration": 396,
           "byOther": false,
-          "nameKey": "溫柔"
+          "nameKey": "溫柔",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 20,
@@ -5234,7 +6790,10 @@
           "playsText": "203K plays",
           "duration": 223,
           "byOther": false,
-          "nameKey": "oaoa"
+          "nameKey": "oaoa",
+          "credits": {
+            "music": "13"
+          }
         },
         {
           "index": 21,
@@ -5245,7 +6804,12 @@
           "playsText": "51K plays",
           "duration": 174,
           "byOther": false,
-          "nameKey": "有些事現在不做一輩子都不會做了"
+          "nameKey": "有些事現在不做一輩子都不會做了",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 22,
@@ -5256,7 +6820,12 @@
           "playsText": "55K plays",
           "duration": 314,
           "byOther": false,
-          "nameKey": "倔強"
+          "nameKey": "倔強",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 23,
@@ -5278,7 +6847,12 @@
           "playsText": "7.3M plays",
           "duration": 280,
           "byOther": false,
-          "nameKey": "突然好想你"
+          "nameKey": "突然好想你",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 25,
@@ -5289,7 +6863,12 @@
           "playsText": "90K plays",
           "duration": 496,
           "byOther": false,
-          "nameKey": "憨人"
+          "nameKey": "憨人",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 26,
@@ -5300,7 +6879,12 @@
           "playsText": "80M plays",
           "duration": 221,
           "byOther": false,
-          "nameKey": "傷心的人別聽慢歌"
+          "nameKey": "傷心的人別聽慢歌",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         }
       ],
       "releaseDate": null,
@@ -5329,7 +6913,12 @@
           "duration": 270,
           "byOther": false,
           "nameKey": "doyouevershine",
-          "titleZh": "Do You Ever Shine?（中文版）"
+          "titleZh": "Do You Ever Shine?（中文版）",
+          "credits": {
+            "lyrics": "小林武史",
+            "music": "阿信",
+            "arranger": "五月天、阿璞（八三夭）"
+          }
         },
         {
           "index": 2,
@@ -5340,7 +6929,12 @@
           "playsText": "795K plays",
           "duration": 289,
           "byOther": false,
-          "nameKey": "擁抱"
+          "nameKey": "擁抱",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -5351,7 +6945,12 @@
           "playsText": "68K plays",
           "duration": 284,
           "byOther": false,
-          "nameKey": "oaoa"
+          "nameKey": "oaoa",
+          "credits": {
+            "lyrics": "山村隆太",
+            "music": "阿信",
+            "arranger": "玉井健二、釣俊輔"
+          }
         },
         {
           "index": 4,
@@ -5363,7 +6962,12 @@
           "duration": 165,
           "byOther": false,
           "nameKey": "dna",
-          "titleZh": "DNA(3DNA LIVE 版)"
+          "titleZh": "DNA(3DNA LIVE 版)",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -5374,7 +6978,12 @@
           "playsText": "12M plays",
           "duration": 345,
           "byOther": false,
-          "nameKey": "諾亞方舟"
+          "nameKey": "諾亞方舟",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天、陳建騏"
+          }
         },
         {
           "index": 6,
@@ -5386,7 +6995,12 @@
           "duration": 260,
           "byOther": false,
           "nameKey": "doyouevershine",
-          "titleZh": "Do You Ever Shine?（中文版）"
+          "titleZh": "Do You Ever Shine?（中文版）",
+          "credits": {
+            "lyrics": "小林武史",
+            "music": "阿信",
+            "arranger": "五月天、阿璞（八三夭）"
+          }
         }
       ],
       "releaseDate": "2014-06-04",
@@ -5394,8 +7008,8 @@
       "releaseDateSource": "album-page",
       "wikiTitle": "Do You Ever Shine?",
       "wikiKind": "single",
-      "titleZh": "Do You Ever Shine?（中文版）",
-      "nameKey": "doyouevershine"
+      "nameKey": "doyouevershine",
+      "titleZh": "Do You Ever Shine?（中文版）"
     },
     {
       "browseId": "MPREb_jdlmScP9ECS",
@@ -5415,7 +7029,11 @@
           "playsText": "1.5M plays",
           "duration": 156,
           "byOther": false,
-          "nameKey": "由我們主宰"
+          "nameKey": "由我們主宰",
+          "credits": {
+            "lyrics": "阿信、陳沒、（改編詞）",
+            "music": "Andrew Lawrence Bloch、Edmond Thomas Dunne、Joseph Lawrence Altruda、Antonina Armato、Tim James"
+          }
         }
       ],
       "releaseDate": "2014-06-13",
@@ -5443,7 +7061,11 @@
           "playsText": "64M plays",
           "duration": 219,
           "byOther": false,
-          "nameKey": "將軍令"
+          "nameKey": "將軍令",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         }
       ],
       "releaseDate": "2014-11-04",
@@ -5504,7 +7126,12 @@
           "playsText": "60M plays",
           "duration": 286,
           "byOther": false,
-          "nameKey": "星空"
+          "nameKey": "星空",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -5515,7 +7142,11 @@
           "playsText": "64M plays",
           "duration": 221,
           "byOther": false,
-          "nameKey": "將軍令"
+          "nameKey": "將軍令",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         },
         {
           "index": 6,
@@ -5526,7 +7157,10 @@
           "playsText": "4.5M plays",
           "duration": 313,
           "byOther": false,
-          "nameKey": "九號球"
+          "nameKey": "九號球",
+          "credits": {
+            "music": "08"
+          }
         }
       ],
       "releaseDate": "2015-06-17",
@@ -5554,7 +7188,11 @@
           "playsText": "21M plays",
           "duration": 279,
           "byOther": false,
-          "nameKey": "勇敢"
+          "nameKey": "勇敢",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸"
+          }
         }
       ],
       "releaseDate": "2015-12-31",
@@ -5582,7 +7220,10 @@
           "playsText": "56M plays",
           "duration": 203,
           "byOther": false,
-          "nameKey": "如果我們不曾相遇"
+          "nameKey": "如果我們不曾相遇",
+          "credits": {
+            "music": "01"
+          }
         },
         {
           "index": 2,
@@ -5593,7 +7234,10 @@
           "playsText": "25M plays",
           "duration": 308,
           "byOther": false,
-          "nameKey": "成名在望"
+          "nameKey": "成名在望",
+          "credits": {
+            "music": "02"
+          }
         },
         {
           "index": 3,
@@ -5604,7 +7248,10 @@
           "playsText": "31M plays",
           "duration": 199,
           "byOther": false,
-          "nameKey": "好好"
+          "nameKey": "好好",
+          "credits": {
+            "music": "03"
+          }
         },
         {
           "index": 4,
@@ -5615,7 +7262,10 @@
           "playsText": "4.6M plays",
           "duration": 249,
           "byOther": false,
-          "nameKey": "兄弟"
+          "nameKey": "兄弟",
+          "credits": {
+            "music": "04"
+          }
         },
         {
           "index": 5,
@@ -5626,7 +7276,10 @@
           "playsText": "239K plays",
           "duration": 218,
           "byOther": false,
-          "nameKey": "人生有限公司"
+          "nameKey": "人生有限公司",
+          "credits": {
+            "music": "05"
+          }
         },
         {
           "index": 6,
@@ -5637,7 +7290,10 @@
           "playsText": "205M plays",
           "duration": 347,
           "byOther": false,
-          "nameKey": "後來的我們"
+          "nameKey": "後來的我們",
+          "credits": {
+            "music": "06"
+          }
         },
         {
           "index": 7,
@@ -5648,7 +7304,10 @@
           "playsText": "37M plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "頑固"
+          "nameKey": "頑固",
+          "credits": {
+            "music": "07"
+          }
         },
         {
           "index": 8,
@@ -5659,7 +7318,10 @@
           "playsText": "101M plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "派對動物"
+          "nameKey": "派對動物",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 9,
@@ -5670,7 +7332,10 @@
           "playsText": "693K plays",
           "duration": 243,
           "byOther": false,
-          "nameKey": "最好的一天"
+          "nameKey": "最好的一天",
+          "credits": {
+            "music": "09"
+          }
         },
         {
           "index": 10,
@@ -5681,7 +7346,10 @@
           "playsText": "11M plays",
           "duration": 276,
           "byOther": false,
-          "nameKey": "少年他的奇幻漂流"
+          "nameKey": "少年他的奇幻漂流",
+          "credits": {
+            "music": "10"
+          }
         },
         {
           "index": 11,
@@ -5692,7 +7360,10 @@
           "playsText": "49M plays",
           "duration": 307,
           "byOther": false,
-          "nameKey": "終於結束的起點"
+          "nameKey": "終於結束的起點",
+          "credits": {
+            "music": "11"
+          }
         },
         {
           "index": 12,
@@ -5703,7 +7374,10 @@
           "playsText": "1.1M plays",
           "duration": 273,
           "byOther": false,
-          "nameKey": "任意門"
+          "nameKey": "任意門",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 13,
@@ -5714,7 +7388,10 @@
           "playsText": "30M plays",
           "duration": 367,
           "byOther": false,
-          "nameKey": "轉眼"
+          "nameKey": "轉眼",
+          "credits": {
+            "music": "13"
+          }
         }
       ],
       "releaseDate": "2016-07-21",
@@ -5742,7 +7419,11 @@
           "playsText": "32M plays",
           "duration": 292,
           "byOther": false,
-          "nameKey": "凡人歌"
+          "nameKey": "凡人歌",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "李宗盛"
+          }
         }
       ],
       "releaseDate": "2017-03-20",
@@ -5770,7 +7451,11 @@
           "playsText": "9.2M plays",
           "duration": 237,
           "byOther": false,
-          "nameKey": "什麼歌主題曲"
+          "nameKey": "什麼歌主題曲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         }
       ],
       "releaseDate": "2018-01-30",
@@ -5798,7 +7483,10 @@
           "playsText": "4.5M plays",
           "duration": 286,
           "byOther": false,
-          "nameKey": "後來的我們"
+          "nameKey": "後來的我們",
+          "credits": {
+            "music": "06"
+          }
         }
       ],
       "releaseDate": "2018-04-21",
@@ -5826,7 +7514,11 @@
           "playsText": "2.6M plays",
           "duration": 222,
           "byOther": false,
-          "nameKey": "iwillcarryyou"
+          "nameKey": "iwillcarryyou",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信"
+          }
         }
       ],
       "releaseDate": "2018-05-05",
@@ -5854,7 +7546,10 @@
           "playsText": "30M plays",
           "duration": 361,
           "byOther": false,
-          "nameKey": "轉眼"
+          "nameKey": "轉眼",
+          "credits": {
+            "music": "13"
+          }
         }
       ],
       "releaseDate": null,
@@ -6424,7 +8119,10 @@
           "playsText": "33M plays",
           "duration": 282,
           "byOther": false,
-          "nameKey": "因為你所以我"
+          "nameKey": "因為你所以我",
+          "credits": {
+            "lyrics": "阿信"
+          }
         }
       ],
       "releaseDate": "2020-12-24",
@@ -6629,7 +8327,11 @@
           "playsText": "7.9M plays",
           "duration": 211,
           "byOther": false,
-          "nameKey": "你的神曲"
+          "nameKey": "你的神曲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "手機遊戲《王者榮耀》7週年主題曲"
+          }
         }
       ],
       "releaseDate": "2022-11-01",
@@ -6657,7 +8359,10 @@
           "playsText": "17M plays",
           "duration": 241,
           "byOther": false,
-          "nameKey": "為你寫下這首情歌"
+          "nameKey": "為你寫下這首情歌",
+          "credits": {
+            "lyrics": "阿信"
+          }
         }
       ],
       "releaseDate": "2022-12-14",
@@ -6685,7 +8390,12 @@
           "playsText": "578K plays",
           "duration": 227,
           "byOther": false,
-          "nameKey": "離開地球表面"
+          "nameKey": "離開地球表面",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -6696,7 +8406,10 @@
           "playsText": "856K plays",
           "duration": 221,
           "byOther": false,
-          "nameKey": "派對動物"
+          "nameKey": "派對動物",
+          "credits": {
+            "music": "08"
+          }
         },
         {
           "index": 3,
@@ -6707,7 +8420,10 @@
           "playsText": "564K plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "人生海海"
+          "nameKey": "人生海海",
+          "credits": {
+            "music": "12"
+          }
         },
         {
           "index": 4,
@@ -6718,7 +8434,12 @@
           "playsText": "732K plays",
           "duration": 299,
           "byOther": false,
-          "nameKey": "愛情萬歲"
+          "nameKey": "愛情萬歲",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 5,
@@ -6740,7 +8461,12 @@
           "playsText": "2.9M plays",
           "duration": 272,
           "byOther": false,
-          "nameKey": "終結孤單"
+          "nameKey": "終結孤單",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 7,
@@ -6751,7 +8477,12 @@
           "playsText": "8.6M plays",
           "duration": 213,
           "byOther": false,
-          "nameKey": "香水"
+          "nameKey": "香水",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信、冠佑",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -6762,7 +8493,12 @@
           "playsText": "479K plays",
           "duration": 340,
           "byOther": false,
-          "nameKey": "溫柔"
+          "nameKey": "溫柔",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -6773,7 +8509,10 @@
           "playsText": "826K plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "因為你所以我"
+          "nameKey": "因為你所以我",
+          "credits": {
+            "lyrics": "阿信"
+          }
         },
         {
           "index": 10,
@@ -6784,7 +8523,10 @@
           "playsText": "578K plays",
           "duration": 303,
           "byOther": false,
-          "nameKey": "頑固"
+          "nameKey": "頑固",
+          "credits": {
+            "music": "07"
+          }
         }
       ],
       "releaseDate": null,
@@ -6812,7 +8554,12 @@
           "playsText": "225K plays",
           "duration": 260,
           "byOther": false,
-          "nameKey": "2012"
+          "nameKey": "2012",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 2,
@@ -6823,7 +8570,12 @@
           "playsText": "363K plays",
           "duration": 277,
           "byOther": false,
-          "nameKey": "夜訪吸血鬼"
+          "nameKey": "夜訪吸血鬼",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "冠佑",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 3,
@@ -6834,7 +8586,12 @@
           "playsText": "1.2M plays",
           "duration": 218,
           "byOther": false,
-          "nameKey": "你不是眞正的快樂"
+          "nameKey": "你不是眞正的快樂",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 4,
@@ -6845,7 +8602,12 @@
           "playsText": "661K plays",
           "duration": 275,
           "byOther": false,
-          "nameKey": "第二人生"
+          "nameKey": "第二人生",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天、張勝凱"
+          }
         },
         {
           "index": 5,
@@ -6856,7 +8618,12 @@
           "playsText": "623K plays",
           "duration": 238,
           "byOther": false,
-          "nameKey": "突然好想你"
+          "nameKey": "突然好想你",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 6,
@@ -6867,7 +8634,12 @@
           "playsText": "1.3M plays",
           "duration": 235,
           "byOther": false,
-          "nameKey": "讓我照顧你"
+          "nameKey": "讓我照顧你",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "怪獸",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 7,
@@ -6878,7 +8650,12 @@
           "playsText": "676K plays",
           "duration": 249,
           "byOther": false,
-          "nameKey": "最重要的小事"
+          "nameKey": "最重要的小事",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 8,
@@ -6889,7 +8666,12 @@
           "playsText": "2.1M plays",
           "duration": 198,
           "byOther": false,
-          "nameKey": "戀愛ing"
+          "nameKey": "戀愛ing",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 9,
@@ -6900,7 +8682,12 @@
           "playsText": "1M plays",
           "duration": 270,
           "byOther": false,
-          "nameKey": "倔強"
+          "nameKey": "倔強",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "五月天"
+          }
         },
         {
           "index": 10,
@@ -6911,7 +8698,12 @@
           "playsText": "4.8M plays",
           "duration": 339,
           "byOther": false,
-          "nameKey": "諾亞方舟"
+          "nameKey": "諾亞方舟",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "瑪莎",
+            "arranger": "五月天、陳建騏"
+          }
         }
       ],
       "releaseDate": null,
@@ -6995,7 +8787,11 @@
           "playsText": "33M plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "任性"
+          "nameKey": "任性",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "電視劇《難哄》主題曲"
+          }
         }
       ],
       "releaseDate": "2024-12-30",
@@ -7051,7 +8847,12 @@
           "playsText": "3.8M plays",
           "duration": 342,
           "byOther": false,
-          "nameKey": "如煙#live"
+          "nameKey": "如煙#live",
+          "credits": {
+            "lyrics": "阿信",
+            "music": "石頭",
+            "arranger": "五月天"
+          }
         }
       ],
       "releaseDate": null,

@@ -1,0 +1,148 @@
+{
+  "slug": "9m88",
+  "fetchedAt": "2026-09-17T12:31:24.556Z",
+  "wiki": "9m88",
+  "bio": {
+    "born": {
+      "date": "1990-11-20",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "Legacy Presents【2020都市女聲】：9m88與她的時間",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2020-11-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2020-11-29",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "臺北",
+        "高雄"
+      ],
+      "venues": [
+        "永豐 Legacy Taipei 音樂展演空間",
+        "LIVE WAREHOUSE"
+      ],
+      "shows": [
+        {
+          "date": "2020-11-14",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "永豐 Legacy Taipei 音樂展演空間"
+        },
+        {
+          "date": "2020-11-27",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "永豐 Legacy Taipei 音樂展演空間"
+        },
+        {
+          "date": "2020-11-29",
+          "precision": "day",
+          "region": "",
+          "city": "高雄",
+          "venue": "LIVE WAREHOUSE"
+        }
+      ]
+    },
+    {
+      "name": "我的頭髮長長了Long Time No See",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-09-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-09-23",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "Zepp New Taipei"
+      ],
+      "shows": [
+        {
+          "date": "2023-09-23",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Zepp New Taipei"
+        }
+      ]
+    },
+    {
+      "name": "我只想唱歌給你聽",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-01-11",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-06-10",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [],
+      "cities": [
+        "臺中",
+        "臺北",
+        "高雄",
+        "Esplanade Annexe Studio"
+      ],
+      "venues": [
+        "Legacy Taichung",
+        "Zepp New Taipei",
+        "後臺 BackStage Live"
+      ],
+      "shows": [
+        {
+          "date": "2025-01-11",
+          "precision": "day",
+          "region": "",
+          "city": "臺中",
+          "venue": "Legacy Taichung"
+        },
+        {
+          "date": "2025-01-12",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "Zepp New Taipei"
+        },
+        {
+          "date": "2025-01-19",
+          "precision": "day",
+          "region": "",
+          "city": "高雄",
+          "venue": "後臺 BackStage Live"
+        },
+        {
+          "date": "2025-06-10",
+          "precision": "day",
+          "region": "",
+          "city": "Esplanade Annexe Studio",
+          "venue": ""
+        }
+      ]
+    }
+  ]
+}

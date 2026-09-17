@@ -1,6 +1,6 @@
 <script setup>
 import { computed, onMounted, onBeforeUnmount } from 'vue'
-import { formatCount, formatFull, formatDuration, watchUrl, albumUrl } from '../lib/format.js'
+import { formatCount, formatFull, formatDuration, watchUrl, albumUrl, creditLines } from '../lib/format.js'
 
 const props = defineProps({
   album: { type: Object, required: true },
@@ -53,7 +53,7 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
       <ol class="tracks">
         <li v-for="t in album.songs" :key="t.index + t.title" :class="{ reissue: !t.isOriginal }">
           <span class="idx num muted">{{ t.index }}</span>
-          <div class="info">
+          <div class="info" v-tip="[t.song.name, ...creditLines(t.song.credits)]">
             <a v-if="t.videoId" :href="watchUrl(t.videoId)" target="_blank" rel="noopener" class="name">{{ t.song.name }}</a>
             <span v-else class="name">{{ t.song.name }}</span>
             <span v-if="!t.isOriginal" class="muted small">

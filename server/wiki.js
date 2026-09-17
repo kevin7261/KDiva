@@ -17,7 +17,7 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
 // Wikipedia 對短時間大量請求會回「You are making too many requests」（非 JSON），所以限速並重試
 let lastRequest = 0
-async function getJson(url, attempt = 1) {
+export async function getJson(url, attempt = 1) {
   const wait = lastRequest + 700 - Date.now()
   if (wait > 0) await sleep(wait)
   lastRequest = Date.now()
@@ -31,7 +31,7 @@ async function getJson(url, attempt = 1) {
   throw new Error(`${new URL(url).host} 回應 ${res.status}`)
 }
 
-const wikiApi = (params) =>
+export const wikiApi = (params) =>
   getJson(`https://zh.wikipedia.org/w/api.php?${new URLSearchParams({ format: 'json', formatversion: '2', ...params })}`)
 
 // ---------- 名稱正規化與比對 ----------
@@ -67,7 +67,7 @@ function bigrams(s) {
   return out
 }
 
-function similarity(a, b) {
+export function similarity(a, b) {
   if (!a || !b) return 0
   if (a === b) return 1
   if (a.length >= 2 && b.length >= 2 && (a.includes(b) || b.includes(a))) {
@@ -154,7 +154,7 @@ function expandDateTemplates(text) {
 }
 
 /** wikitext → 純文字（保留換行），連結取顯示文字、移除模板與 HTML */
-function toPlain(text) {
+export function toPlain(text) {
   let s = expandDateTemplates(text)
   s = s.replace(/<ref[^>]*\/>/gi, '').replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '').replace(/<!--[\s\S]*?-->/g, '')
   s = s.replace(/<br\s*\/?>/gi, '\n').replace(/<[^>]+>/g, '')
@@ -237,10 +237,15 @@ function sections(wikitext) {
   return out
 }
 
-function parseTables(wikitext, page, artistKeys) {
-  const out = []
+/**
+ * wikitext 裡的每個表格 → { header, rows }：header 是第一個表頭列（每格都是短文字）的純文字，
+ * rows 是資料列的原始格子內容，rowspan 佔用的欄位已補齊
+ */
+export function readTables(wikitext) {
+  const tables = []
   for (const table of wikitext.match(/^\{\|[\s\S]*?^\|\}/gm) ?? []) {
     let header = null
+    const rows = []
     const spans = [] // 欄位 → { content, left }
     for (const rowText of table.split(/^\|-.*$/m)) {
       // 收集這一列的格子（! 表頭、| 資料；同一行可用 !! 或 || 分隔；非 | 開頭的行接到上一格）
@@ -260,6 +265,8 @@ function parseTables(wikitext, page, artistKeys) {
       const parsed = cells.map(splitCell)
       if (isHeader && parsed.every((c) => toPlain(c.content).trim().length < 20) && !header) {
         header = parsed.map((c) => toPlain(c.content).trim())
+        // 表頭之前的資料列不套用這個表頭
+        if (rows.length) tables.push({ header: null, rows: rows.splice(0) })
         continue
       }
       // 依 rowspan 補齊被上一列佔用的欄位
@@ -277,6 +284,52 @@ function parseTables(wikitext, page, artistKeys) {
         if (rs > 1) spans[col] = { content: cell.content, left: rs - 1 }
         row.push(cell.content)
       }
+      rows.push(row)
+    }
+    tables.push({ header, rows })
+  }
+  return tables
+}
+
+// 詞曲欄位（歌曲表、專輯條目的曲目表）
+const LYRICS_HEAD = /作詞|作词|填詞|填词|詞|词|lyric/i
+const MUSIC_HEAD = /作曲|曲(?!目|名)|music|compos/i
+const ARRANGER_HEAD = /編曲|编曲|arrang/i
+const WRITER_HEAD = /詞曲|词曲|writer/i
+
+/** 表格一列的詞／曲／編曲（沒有這些欄位回傳 null） */
+function creditsFromRow(header, row) {
+  const col = (re, not) => header.findIndex((h) => re.test(h) && !(not && not.test(h)))
+  const get = (i) => (i >= 0 && row[i] != null ? cleanCredit(row[i]) : '')
+  const writer = get(col(WRITER_HEAD))
+  const credits = {
+    lyrics: get(col(LYRICS_HEAD, /曲|编|編|arrang/i)) || writer,
+    music: get(col(MUSIC_HEAD, /詞|词|編|编|名|目|歌|題|题|插|片|arrang/i)) || writer,
+    arranger: get(col(ARRANGER_HEAD)),
+  }
+  return credits.lyrics || credits.music || credits.arranger ? credits : null
+}
+
+// 人名、地名簡轉繁時不能動的字：簡繁一對多、在名字裡通常是本字（余、于、范、郁、咸陽、馬里蘭…）
+const NAME_KEEP = /[余于范干谷郁朴卜斗冲丑咸里]/g
+export const nameToTW = (s) => {
+  const kept = []
+  const masked = s.replace(NAME_KEEP, (c) => (kept.push(c), '\uE000'))
+  return toTW(masked).replace(/\uE000/g, () => kept.shift())
+}
+
+const cleanCredit = (text) =>
+  nameToTW(toPlain(String(text)))
+    .split(/\n+/)
+    .map((s) => s.trim())
+    .filter(Boolean)
+    .join('、')
+    .replace(/^[－—–-]+$/, '')
+
+function parseTables(wikitext, page, artistKeys) {
+  const out = []
+  for (const { header, rows } of readTables(wikitext)) {
+    for (const row of rows) {
       const titleOk = (h) => !TITLE_HEAD_NOT.test(h)
       let titleCol = header ? header.findIndex((h) => TITLE_HEAD_NAME.test(h) && titleOk(h)) : -1
       if (titleCol < 0 && header) titleCol = header.findIndex((h) => TITLE_HEAD.test(h) && titleOk(h))
@@ -302,7 +355,7 @@ function parseTables(wikitext, page, artistKeys) {
       const tracks = row.map(listTracks).find((t) => t.length >= 2)
       // 以歌曲為單位的表格：歌名只拿來比對同年的單曲，「收錄專輯」欄另外當成專輯
       if (SONG_HEAD.test(header[titleCol])) {
-        out.push({ titles, ...date, source: 'song-table', page })
+        out.push({ titles, ...date, source: 'song-table', page, credits: creditsFromRow(header, row) ?? undefined })
         const albumCol = header.findIndex((h, i) => i !== titleCol && ALBUM_HEAD.test(h))
         const albumTitles = albumCol >= 0 && row[albumCol] != null ? titlesFromCell(row[albumCol]) : []
         if (albumTitles.length) out.push({ titles: albumTitles, ...date, source: 'table', page })
@@ -357,6 +410,66 @@ function parseTracklist(wikitext) {
   return tracks.filter(Boolean)
 }
 
+/** 從 start（「{{」的位置）找到對應的「}}」，回傳模板內文 */
+function templateBody(text, start) {
+  let depth = 0
+  for (let i = start; i < text.length - 1; i++) {
+    if (text[i] === '{' && text[i + 1] === '{') {
+      depth++
+      i++
+    } else if (text[i] === '}' && text[i + 1] === '}') {
+      depth--
+      i++
+      if (depth === 0) return text.slice(start + 2, i - 1)
+    }
+  }
+  return text.slice(start + 2)
+}
+
+/**
+ * 專輯條目裡每首歌的詞／曲／編曲：{{Tracklist}} 的 lyricsN／musicN／writingN／arrangerN（或 all_lyrics 等），
+ * 以及表頭有「作詞」「作曲」「編曲」的曲目表格
+ */
+export function parseCredits(wikitext) {
+  const out = []
+  for (const m of wikitext.matchAll(/\{\{\s*(?:Tracklist|Track listing)\b/gi)) {
+    const params = {}
+    // 參數以行首的「|」分隔；值裡的模板、連結可能含「|」，所以只切行首
+    for (const part of templateBody(wikitext, m.index).split(/\n\s*\|/).slice(1)) {
+      const kv = part.match(/^\s*([\w ]+?)\s*=([\s\S]*)$/)
+      if (kv) params[kv[1].toLowerCase()] = kv[2].trim()
+    }
+    // extra_column 標明是編曲時，extraN 就是編曲
+    const extraIsArranger = ARRANGER_HEAD.test(params.extra_column ?? '')
+    const all = (k) => cleanCredit(params[`all_${k}`] ?? '')
+    for (const [key, value] of Object.entries(params)) {
+      const n = key.match(/^title(\d+)$/)?.[1]
+      if (!n) continue
+      const title = toTW(toPlain(value)).trim()
+      const get = (k) => cleanCredit(params[`${k}${n}`] ?? '')
+      const writing = get('writing') || all('writing')
+      const credits = {
+        title,
+        lyrics: get('lyrics') || all('lyrics') || writing,
+        music: get('music') || all('music') || writing,
+        arranger: get('arranger') || (extraIsArranger ? get('extra') : '') || all('arranger') || (extraIsArranger ? all('extra') : ''),
+      }
+      if (title && (credits.lyrics || credits.music || credits.arranger)) out.push(credits)
+    }
+  }
+  for (const { header, rows } of readTables(wikitext)) {
+    if (!header) continue
+    const titleCol = header.findIndex((h) => /曲名|歌名|曲目|名稱|名称|標題|标题|歌曲|title|song/i.test(h) && !/編號|编号|#/.test(h))
+    if (titleCol < 0) continue
+    for (const row of rows) {
+      const credits = creditsFromRow(header, row)
+      const title = row[titleCol] != null ? toTW(toPlain(row[titleCol])).split('\n')[0].trim() : ''
+      if (credits && title) out.push({ title, ...credits })
+    }
+  }
+  return out
+}
+
 /** 表格「曲目」格裡的「#出塞曲」條列 */
 function listTracks(cell) {
   return cell
@@ -377,11 +490,12 @@ function parseAlbumPage(title, wikitext, artistKeys) {
   const name = toPlain(wikitext.match(INFOBOX_NAME)?.[1] ?? '').trim()
   if (name && name.length <= 60) titles.push(...titleVariants(name))
   const tracks = parseTracklist(wikitext)
+  const credits = parseCredits(wikitext)
   const kind = kindOf(toPlain(wikitext.match(/^\s*\|\s*(?:類型|类型|type)\s*=\s*(.*)$/im)?.[1] ?? ''))
-  return { titles, ...date, source: 'album-page', page: title, tracks: tracks.length ? tracks : undefined, kind }
+  return { titles, ...date, source: 'album-page', page: title, tracks: tracks.length ? tracks : undefined, credits: credits.length ? credits : undefined, kind }
 }
 
-async function fetchPages(titles) {
+export async function fetchPages(titles) {
   const out = []
   for (let i = 0; i < titles.length; i += 50) {
     const json = await wikiApi({
@@ -533,5 +647,6 @@ export function matchRelease(album, catalog, artistNames = []) {
     wikiKind: best.entry.kind ?? null,
     wikiName: best.entry.titles.find(hasCJK) ?? null,
     wikiTracks: best.entry.tracks ?? null,
+    wikiCredits: best.entry.credits && Array.isArray(best.entry.credits) ? best.entry.credits : null,
   }
 }

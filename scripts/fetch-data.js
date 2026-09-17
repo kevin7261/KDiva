@@ -4,6 +4,7 @@
 import { writeFile, mkdir } from 'node:fs/promises'
 import { fetchArtistDataset } from '../server/ytmusic.js'
 import { ARTISTS, DATA_DIR, dataFile } from '../server/config.js'
+import { buildTimeline } from '../server/timeline.js'
 
 const wanted = process.argv.slice(2)
 const targets = wanted.length ? ARTISTS.filter((a) => wanted.includes(a.slug)) : ARTISTS
@@ -29,4 +30,5 @@ for (const artist of targets) {
     console.error(`✗ ${artist.name} 失敗：${err.message}`)
   }
 }
+console.log(`\n年表資料：${await buildTimeline()} 位`)
 process.exit(failed ? 1 : 0)

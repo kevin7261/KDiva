@@ -4,7 +4,7 @@ import { computed, ref } from 'vue'
 import { formatCount, formatFull } from '../lib/format.js'
 
 const props = defineProps({
-  rows: { type: Array, required: true }, // { key, label, sub?, value, valueLabel?, tip? }；value 為 null 時顯示 valueLabel
+  rows: { type: Array, required: true }, // { key, label, sub?, value, valueLabel?, tip?, lines? }；value 為 null 時顯示 valueLabel；lines 是 tooltip 另加的行
   labelWidth: { type: String, default: '11rem' },
   approx: { type: Boolean, default: true },
   unit: { type: String, default: '次播放' },
@@ -64,6 +64,7 @@ const tipStyle = computed(() => {
       <div v-if="tip.row.value == null" class="muted">{{ tip.row.valueLabel ?? '沒有資料' }}</div>
       <div v-else class="num">{{ approx ? '約 ' : '' }}{{ formatFull(tip.row.value) }} {{ unit }}</div>
       <div v-if="tip.row.tip" class="muted">{{ tip.row.tip }}</div>
+      <div v-for="line in tip.row.lines" :key="line">{{ line }}</div>
     </div>
   </Teleport>
 </template>

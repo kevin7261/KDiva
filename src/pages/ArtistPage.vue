@@ -1,7 +1,7 @@
 <script setup>
 import { computed, ref, shallowRef, watch } from 'vue'
 import { RouterLink } from 'vue-router'
-import { artistsIn, findArtist } from '../artists.js'
+import { artistsIn, categoryOf, findArtist } from '../artists.js'
 import { getModel, loadArtist, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
 import { formatCount, formatFull, formatDate } from '../lib/format.js'
@@ -10,12 +10,13 @@ import OverviewView from '../components/OverviewView.vue'
 import AlbumsView from '../components/AlbumsView.vue'
 import SongsView from '../components/SongsView.vue'
 import AlbumDialog from '../components/AlbumDialog.vue'
+import ConcertsView from '../components/ConcertsView.vue'
 
 const props = defineProps({ slug: { type: String, required: true } })
 
 const canRefresh = import.meta.env.DEV
 const artist = computed(() => findArtist(props.slug))
-const siblings = computed(() => artistsIn(artist.value.group))
+const siblings = computed(() => artistsIn(categoryOf(artist.value)))
 const model = computed(() => getModel(props.slug))
 const error = ref('')
 const refreshing = ref(false)
@@ -76,6 +77,7 @@ const tabs = [
   ['overview', '總覽'],
   ['albums', '專輯'],
   ['songs', '全部歌曲'],
+  ['concerts', '演唱會'],
 ]
 </script>
 
@@ -84,7 +86,7 @@ const tabs = [
     <header class="hero" :style="photo ? { '--bg': `url(${photo})` } : {}">
       <div class="hero-inner">
         <div class="topbar">
-          <RouterLink :to="`/${artist.group}`" class="btn ghost">← KDiva</RouterLink>
+          <RouterLink :to="`/${categoryOf(artist)}`" class="btn ghost">← KDiva</RouterLink>
           <nav class="switcher" aria-label="切換歌手">
             <RouterLink
               v-for="a in siblings"
@@ -137,7 +139,8 @@ const tabs = [
 
         <OverviewView v-if="tab === 'overview'" :model="model" @open-album="openAlbum = $event" />
         <AlbumsView v-else-if="tab === 'albums'" :model="model" @open-album="openAlbum = $event" />
-        <SongsView v-else :model="model" :approx="approx" @open-album="openAlbum = $event" />
+        <SongsView v-else-if="tab === 'songs'" :model="model" :approx="approx" @open-album="openAlbum = $event" />
+        <ConcertsView v-else :slug="slug" />
 
         <footer class="site-footer">
           <p>
@@ -149,7 +152,7 @@ const tabs = [
           </p>
           <p>
             發行日期以 Wikipedia 為準：{{ model.datedCount }}/{{ model.albums.length }} 張取自 Wikipedia／Wikidata；Wikipedia 沒列出的沿用 YouTube Music 標示的年份（可能是重新上架年份）。
-            同一首歌收錄於多張專輯時播放數共用，只計入最早發行的專輯。資料透過 YouTube Music 網頁版非公開介面取得，僅供參考。
+            同一首歌收錄於多張專輯時播放數共用，只計入最早發行的專輯。詞曲與演唱會取自 Wikipedia，出生與逝世日期取自 Wikidata。資料透過 YouTube Music 網頁版非公開介面取得，僅供參考。
           </p>
         </footer>
       </template>

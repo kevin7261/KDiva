@@ -21,6 +21,24 @@ export function formatDuration(sec) {
 export const formatDate = (iso) =>
   new Date(iso).toLocaleString('zh-TW', { dateStyle: 'medium', timeStyle: 'short' })
 
+/** 詞曲 tooltip 的內容：「詞：方文山」「曲：周杰倫」「編曲：林邁可」 */
+export function creditLines(credits) {
+  if (!credits) return ['詞曲：Wikipedia 沒有資料']
+  const lines = [['詞', credits.lyrics], ['曲', credits.music], ['編曲', credits.arranger]]
+    .filter(([, v]) => v)
+    .map(([k, v]) => `${k}：${v}`)
+  return lines.length ? lines : ['詞曲：Wikipedia 沒有資料']
+}
+
+/** { date: '2011-09-03', precision: 'day' } → 2011.09.03；月精度 → 2011.09；年精度 → 2011 */
+export function formatDay(d) {
+  if (!d?.date) return '—'
+  const [y, m, day] = d.date.split('-')
+  if (d.precision === 'year') return y
+  if (d.precision === 'month') return `${y}.${m}`
+  return `${y}.${m}.${day}`
+}
+
 export const watchUrl = (videoId) => `https://music.youtube.com/watch?v=${videoId}`
 export const albumUrl = (album) =>
   album.playlistId

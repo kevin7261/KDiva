@@ -1,0 +1,1041 @@
+{
+  "slug": "coco-lee",
+  "fetchedAt": "2026-09-17T12:28:59.259Z",
+  "wiki": "李玟",
+  "bio": {
+    "born": {
+      "date": "1975-01-17",
+      "precision": "day"
+    },
+    "died": {
+      "date": "2023-07-05",
+      "precision": "day"
+    },
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "你在我心上演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1995-10-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-10-07",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北國際會議中心"
+      ],
+      "shows": [
+        {
+          "date": "1995-10-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心"
+        },
+        {
+          "date": "1995-10-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心"
+        }
+      ]
+    },
+    {
+      "name": "來聽美人魚唱歌新歌發表會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1996-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "1996-01-01",
+        "precision": "year"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "1996-01-01",
+          "precision": "year",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": ""
+        }
+      ]
+    },
+    {
+      "name": "等愛降落快樂放暑假歌友會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1997-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "1997-01-01",
+        "precision": "year"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "大安森林公園露天音樂臺"
+      ],
+      "shows": [
+        {
+          "date": "1997-01-01",
+          "precision": "year",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "大安森林公園露天音樂臺"
+        }
+      ]
+    },
+    {
+      "name": "萬人迷演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1998-08-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1998-08-15",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北",
+        "高雄"
+      ],
+      "venues": [
+        "臺北市立體育場",
+        "市立中山體育場"
+      ],
+      "shows": [
+        {
+          "date": "1998-08-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北市立體育場"
+        },
+        {
+          "date": "1998-08-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "市立中山體育場"
+        }
+      ]
+    },
+    {
+      "name": "CoCo's Party",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1999-07-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-07-03",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "南港101"
+      ],
+      "shows": [
+        {
+          "date": "1999-07-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "南港101"
+        }
+      ]
+    },
+    {
+      "name": "Just No Other Way 香港迷你演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1999-11-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-11-02",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "1999-11-02",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": ""
+        }
+      ]
+    },
+    {
+      "name": "雲頂演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1999-11-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-11-05",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "馬來西亞"
+      ],
+      "cities": [
+        "雲頂高原"
+      ],
+      "venues": [
+        "雲星劇場"
+      ],
+      "shows": [
+        {
+          "date": "1999-11-05",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂高原",
+          "venue": "雲星劇場"
+        }
+      ]
+    },
+    {
+      "name": "賭城演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1999-12-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-12-24",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "美國"
+      ],
+      "cities": [
+        "拉斯維加斯"
+      ],
+      "venues": [
+        "Caesars Palace's Circus Maximus Showroom"
+      ],
+      "shows": [
+        {
+          "date": "1999-12-24",
+          "precision": "day",
+          "region": "美國",
+          "city": "拉斯維加斯",
+          "venue": "Caesars Palace's Circus Maximus Showroom"
+        }
+      ]
+    },
+    {
+      "name": "真情人You＆Me新加坡演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2000-12-15",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2000-12-15",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "新加坡"
+      ],
+      "cities": [
+        "新加坡"
+      ],
+      "venues": [
+        "新達城"
+      ],
+      "shows": [
+        {
+          "date": "2000-12-15",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "新達城"
+        }
+      ]
+    },
+    {
+      "name": "中國巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2001-09-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2001-09-29",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [],
+      "cities": [
+        "成都",
+        "濟南",
+        "杭州",
+        "南京"
+      ],
+      "venues": [
+        "成都市體育中心",
+        "山東省體育中心體育場",
+        "黃龍體育中心體育場",
+        "五臺山體育場"
+      ],
+      "shows": [
+        {
+          "date": "2001-09-19",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "成都市體育中心"
+        },
+        {
+          "date": "2001-09-23",
+          "precision": "day",
+          "region": "",
+          "city": "濟南",
+          "venue": "山東省體育中心體育場"
+        },
+        {
+          "date": "2001-09-27",
+          "precision": "day",
+          "region": "",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育場"
+        },
+        {
+          "date": "2001-09-29",
+          "precision": "day",
+          "region": "",
+          "city": "南京",
+          "venue": "五臺山體育場"
+        }
+      ]
+    },
+    {
+      "name": "Promise 新歌發表會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2001-10-12",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2001-10-12",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "中正紀念堂 中央藝文廣場"
+      ],
+      "shows": [
+        {
+          "date": "2001-10-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "中正紀念堂 中央藝文廣場"
+        }
+      ]
+    },
+    {
+      "name": "Promise 慶功Party",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2001-11-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2001-11-16",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "高雄"
+      ],
+      "venues": [
+        "愛河廣場"
+      ],
+      "shows": [
+        {
+          "date": "2001-11-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "愛河廣場"
+        }
+      ]
+    },
+    {
+      "name": "Discoco Summer Party",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2002-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2002-01-01",
+        "precision": "year"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2002-01-01",
+          "precision": "year",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": ""
+        }
+      ]
+    },
+    {
+      "name": "So Crazy 中國巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2003-10-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2003-10-31",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "北京",
+        "重慶"
+      ],
+      "venues": [
+        "工人體育場",
+        "巴南體育場"
+      ],
+      "shows": [
+        {
+          "date": "2003-10-06",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "工人體育場"
+        },
+        {
+          "date": "2003-10-31",
+          "precision": "day",
+          "region": "",
+          "city": "重慶",
+          "venue": "巴南體育場"
+        }
+      ]
+    },
+    {
+      "name": "Hot CoCo Exposed Party",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2005-04-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2005-04-02",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "MOS國際俱樂部"
+      ],
+      "shows": [
+        {
+          "date": "2005-04-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "MOS國際俱樂部"
+        }
+      ]
+    },
+    {
+      "name": "Unplugged Showcase @ Mandarin Oriental",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2005-08-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2005-08-19",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港"
+      ],
+      "venues": [
+        "置地文華東方酒店Showroom"
+      ],
+      "shows": [
+        {
+          "date": "2005-08-19",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "置地文華東方酒店Showroom"
+        }
+      ]
+    },
+    {
+      "name": "舞動全球新歌搶聽會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2006-09-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2006-09-17",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "西門紅樓廣場"
+      ],
+      "shows": [
+        {
+          "date": "2006-09-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "西門紅樓廣場"
+        }
+      ]
+    },
+    {
+      "name": "漁人碼頭蓋酷演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2006-10-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2006-10-29",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "新北"
+      ],
+      "venues": [
+        "淡水漁人碼頭"
+      ],
+      "shows": [
+        {
+          "date": "2006-10-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新北",
+          "venue": "淡水漁人碼頭"
+        }
+      ]
+    },
+    {
+      "name": "李玟x杜德偉 北美演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2007-09-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2007-09-23",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "美國"
+      ],
+      "cities": [
+        "聖地亞哥",
+        "舊金山"
+      ],
+      "venues": [
+        "Harrah's Resort",
+        "Mountain View"
+      ],
+      "shows": [
+        {
+          "date": "2007-09-22",
+          "precision": "day",
+          "region": "美國",
+          "city": "聖地亞哥",
+          "venue": "Harrah's Resort"
+        },
+        {
+          "date": "2007-09-23",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "Mountain View"
+        }
+      ]
+    },
+    {
+      "name": "Coco Lee, Global Pop at The Music Centre 2009",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2009-07-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-07-17",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "美國"
+      ],
+      "cities": [
+        "洛杉磯"
+      ],
+      "venues": [
+        "華特·迪士尼音樂廳"
+      ],
+      "shows": [
+        {
+          "date": "2009-07-17",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "華特·迪士尼音樂廳"
+        }
+      ]
+    },
+    {
+      "name": "East to West 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2010-03-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-12-16",
+        "precision": "day"
+      },
+      "showCount": 5,
+      "regions": [
+        "臺灣",
+        "美國",
+        "新加坡"
+      ],
+      "cities": [
+        "臺北",
+        "拉斯維加斯",
+        "新加坡",
+        "南寧"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "安可拉斯維加斯",
+        "新加坡室內體育館",
+        "廣西壯族自治區體育場"
+      ],
+      "shows": [
+        {
+          "date": "2010-03-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2010-07-03",
+          "precision": "day",
+          "region": "美國",
+          "city": "拉斯維加斯",
+          "venue": "安可拉斯維加斯"
+        },
+        {
+          "date": "2010-07-04",
+          "precision": "day",
+          "region": "美國",
+          "city": "拉斯維加斯",
+          "venue": "安可拉斯維加斯"
+        },
+        {
+          "date": "2010-10-02",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館"
+        },
+        {
+          "date": "2010-12-16",
+          "precision": "day",
+          "region": "",
+          "city": "南寧",
+          "venue": "廣西壯族自治區體育場"
+        }
+      ]
+    },
+    {
+      "name": "盛開 Pure Yoga Summer Party",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-08-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-08-02",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "ATT SHOW BOX 2"
+      ],
+      "shows": [
+        {
+          "date": "2013-08-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "ATT SHOW BOX 2"
+        }
+      ]
+    },
+    {
+      "name": "“歡樂今宵”20週年慈善演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-07-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-07-05",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港"
+      ],
+      "venues": [
+        "香港會展中心"
+      ],
+      "shows": [
+        {
+          "date": "2014-07-05",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "香港會展中心"
+        }
+      ]
+    },
+    {
+      "name": "18 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2017-05-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-24",
+        "precision": "day"
+      },
+      "showCount": 10,
+      "regions": [],
+      "cities": [
+        "深圳",
+        "上海",
+        "北京",
+        "廣州",
+        "西安",
+        "武漢",
+        "杭州",
+        "南京",
+        "長沙",
+        "重慶"
+      ],
+      "venues": [
+        "深圳灣體育中心“春繭”體育館",
+        "梅賽德斯-奔馳文化中心",
+        "樂視體育生態中心",
+        "廣州體育館",
+        "曲江國際會展中心B4館",
+        "武漢體育中心體育館",
+        "黃龍體育中心體育館",
+        "五臺山中國銀聯體育館",
+        "湖南國際會展中心",
+        "重慶國際博覽中心"
+      ],
+      "shows": [
+        {
+          "date": "2017-05-06",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳灣體育中心“春繭”體育館"
+        },
+        {
+          "date": "2017-06-24",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心"
+        },
+        {
+          "date": "2017-07-08",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "樂視體育生態中心"
+        },
+        {
+          "date": "2017-07-22",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州體育館"
+        },
+        {
+          "date": "2017-08-12",
+          "precision": "day",
+          "region": "",
+          "city": "西安",
+          "venue": "曲江國際會展中心B4館"
+        },
+        {
+          "date": "2017-09-09",
+          "precision": "day",
+          "region": "",
+          "city": "武漢",
+          "venue": "武漢體育中心體育館"
+        },
+        {
+          "date": "2017-09-23",
+          "precision": "day",
+          "region": "",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育館"
+        },
+        {
+          "date": "2017-11-18",
+          "precision": "day",
+          "region": "",
+          "city": "南京",
+          "venue": "五臺山中國銀聯體育館"
+        },
+        {
+          "date": "2017-12-09",
+          "precision": "day",
+          "region": "",
+          "city": "長沙",
+          "venue": "湖南國際會展中心"
+        },
+        {
+          "date": "2018-03-24",
+          "precision": "day",
+          "region": "",
+          "city": "重慶",
+          "venue": "重慶國際博覽中心"
+        }
+      ]
+    },
+    {
+      "name": "You & I25週年世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2019-06-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-12-28",
+        "precision": "day"
+      },
+      "showCount": 7,
+      "regions": [
+        "臺灣",
+        "澳門",
+        "美國"
+      ],
+      "cities": [
+        "臺北",
+        "成都",
+        "佛山",
+        "澳門",
+        "南京",
+        "安卡斯維爾",
+        "拉斯維加斯"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "四川省體育館",
+        "國際體育文化演藝中心",
+        "金光綜藝館",
+        "南京青奧體育公園體育館",
+        "康州金神體育館",
+        "美高梅大花園體育館"
+      ],
+      "shows": [
+        {
+          "date": "2019-06-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2019-07-27",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "四川省體育館"
+        },
+        {
+          "date": "2019-08-17",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "國際體育文化演藝中心"
+        },
+        {
+          "date": "2019-10-26",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "金光綜藝館"
+        },
+        {
+          "date": "2019-12-14",
+          "precision": "day",
+          "region": "",
+          "city": "南京",
+          "venue": "南京青奧體育公園體育館"
+        },
+        {
+          "date": "2019-12-22",
+          "precision": "day",
+          "region": "美國",
+          "city": "安卡斯維爾",
+          "venue": "康州金神體育館"
+        },
+        {
+          "date": "2019-12-28",
+          "precision": "day",
+          "region": "美國",
+          "city": "拉斯維加斯",
+          "venue": "美高梅大花園體育館"
+        }
+      ]
+    }
+  ]
+}

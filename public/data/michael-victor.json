@@ -996,7 +996,11 @@
           "playsText": "24K plays",
           "duration": 246,
           "byOther": true,
-          "nameKey": "雨過天晴"
+          "nameKey": "雨過天晴",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "潘協慶"
+          }
         },
         {
           "index": 3,
@@ -1018,7 +1022,11 @@
           "playsText": "2.1M plays",
           "duration": 236,
           "byOther": false,
-          "nameKey": "想見你"
+          "nameKey": "想見你",
+          "credits": {
+            "lyrics": "瑞業/于光中",
+            "music": "光良"
+          }
         },
         {
           "index": 5,
@@ -1029,7 +1037,11 @@
           "playsText": "758K plays",
           "duration": 252,
           "byOther": true,
-          "nameKey": "傷心地鐵"
+          "nameKey": "傷心地鐵",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "光良"
+          }
         },
         {
           "index": 6,
@@ -1040,7 +1052,11 @@
           "playsText": "699K plays",
           "duration": 259,
           "byOther": true,
-          "nameKey": "雨過天晴"
+          "nameKey": "雨過天晴",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "潘協慶"
+          }
         },
         {
           "index": 7,
@@ -1051,7 +1067,11 @@
           "playsText": "129K plays",
           "duration": 264,
           "byOther": true,
-          "nameKey": "沒你的日子"
+          "nameKey": "沒你的日子",
+          "credits": {
+            "lyrics": "瑞業",
+            "music": "光良"
+          }
         },
         {
           "index": 8,
@@ -1062,7 +1082,11 @@
           "playsText": "300K plays",
           "duration": 252,
           "byOther": true,
-          "nameKey": "起床"
+          "nameKey": "起床",
+          "credits": {
+            "lyrics": "王裕宗",
+            "music": "品冠"
+          }
         },
         {
           "index": 9,
@@ -1073,7 +1097,11 @@
           "playsText": "1.7M plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "身邊"
+          "nameKey": "身邊",
+          "credits": {
+            "lyrics": "于光中/李宗盛",
+            "music": "品冠"
+          }
         },
         {
           "index": 10,
@@ -1084,7 +1112,11 @@
           "playsText": "247K plays",
           "duration": 289,
           "byOther": true,
-          "nameKey": "恍然大悟"
+          "nameKey": "恍然大悟",
+          "credits": {
+            "lyrics": "陳沒/李宗盛",
+            "music": "品冠"
+          }
         },
         {
           "index": 11,
@@ -1095,7 +1127,11 @@
           "playsText": "11K plays",
           "duration": 224,
           "byOther": true,
-          "nameKey": "illletherknow"
+          "nameKey": "illletherknow",
+          "credits": {
+            "lyrics": "Wink",
+            "music": "陳建寧"
+          }
         },
         {
           "index": 12,
@@ -1106,7 +1142,11 @@
           "playsText": "18K plays",
           "duration": 253,
           "byOther": true,
-          "nameKey": "說個明白"
+          "nameKey": "說個明白",
+          "credits": {
+            "lyrics": "毛毛",
+            "music": "品冠"
+          }
         },
         {
           "index": 13,
@@ -1117,7 +1157,11 @@
           "playsText": "27K plays",
           "duration": 248,
           "byOther": true,
-          "nameKey": "想飛越"
+          "nameKey": "想飛越",
+          "credits": {
+            "lyrics": "瑞業",
+            "music": "光良"
+          }
         }
       ],
       "releaseDate": "1999-02-04",
@@ -1167,7 +1211,11 @@
           "playsText": "2M plays",
           "duration": 237,
           "byOther": false,
-          "nameKey": "想見你"
+          "nameKey": "想見你",
+          "credits": {
+            "lyrics": "瑞業/于光中",
+            "music": "光良"
+          }
         },
         {
           "index": 4,
@@ -1189,7 +1237,11 @@
           "playsText": "758K plays",
           "duration": 253,
           "byOther": false,
-          "nameKey": "傷心地鐵"
+          "nameKey": "傷心地鐵",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "光良"
+          }
         },
         {
           "index": 6,
@@ -1200,7 +1252,11 @@
           "playsText": "1.7M plays",
           "duration": 275,
           "byOther": false,
-          "nameKey": "身邊"
+          "nameKey": "身邊",
+          "credits": {
+            "lyrics": "于光中/李宗盛",
+            "music": "品冠"
+          }
         },
         {
           "index": 7,
@@ -1415,7 +1471,11 @@
           "playsText": "9.3K plays",
           "duration": 237,
           "byOther": false,
-          "nameKey": "身邊"
+          "nameKey": "身邊",
+          "credits": {
+            "lyrics": "于光中/李宗盛",
+            "music": "品冠"
+          }
         },
         {
           "index": 9,
@@ -1437,7 +1497,11 @@
           "playsText": "7.1K plays",
           "duration": 112,
           "byOther": false,
-          "nameKey": "恍然大悟"
+          "nameKey": "恍然大悟",
+          "credits": {
+            "lyrics": "陳沒/李宗盛",
+            "music": "品冠"
+          }
         },
         {
           "index": 11,
@@ -1459,7 +1523,11 @@
           "playsText": "6.2K plays",
           "duration": 134,
           "byOther": false,
-          "nameKey": "說個明白"
+          "nameKey": "說個明白",
+          "credits": {
+            "lyrics": "毛毛",
+            "music": "品冠"
+          }
         },
         {
           "index": 13,
@@ -1503,7 +1571,11 @@
           "playsText": "13K plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "傷心地鐵"
+          "nameKey": "傷心地鐵",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "光良"
+          }
         },
         {
           "index": 17,
@@ -1558,7 +1630,11 @@
           "playsText": "8.2K plays",
           "duration": 243,
           "byOther": false,
-          "nameKey": "雨過天晴"
+          "nameKey": "雨過天晴",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "潘協慶"
+          }
         },
         {
           "index": 22,
@@ -1602,7 +1678,11 @@
           "playsText": "5K plays",
           "duration": 240,
           "byOther": false,
-          "nameKey": "起床"
+          "nameKey": "起床",
+          "credits": {
+            "lyrics": "王裕宗",
+            "music": "品冠"
+          }
         },
         {
           "index": 26,
@@ -1701,7 +1781,11 @@
           "playsText": "8K plays",
           "duration": 223,
           "byOther": false,
-          "nameKey": "想見你"
+          "nameKey": "想見你",
+          "credits": {
+            "lyrics": "瑞業/于光中",
+            "music": "光良"
+          }
         },
         {
           "index": 35,

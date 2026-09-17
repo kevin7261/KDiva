@@ -1,0 +1,676 @@
+{
+  "slug": "jody-chiang",
+  "fetchedAt": "2026-09-17T12:27:23.162Z",
+  "wiki": "江蕙",
+  "bio": {
+    "born": {
+      "date": "1961-09-01",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "初登場演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2008-04-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2008-04-22",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北小巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2008-04-18",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2008-04-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2008-04-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2008-04-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        }
+      ]
+    },
+    {
+      "name": "戲夢演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2010-09-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-11-06",
+        "precision": "day"
+      },
+      "showCount": 8,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北",
+        "高雄",
+        "臺中"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "高雄巨蛋",
+        "臺中體院體育場"
+      ],
+      "shows": [
+        {
+          "date": "2010-09-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2010-09-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2010-10-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2010-10-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2010-10-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2010-10-09",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2010-10-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2010-11-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "臺中體院體育場"
+        }
+      ]
+    },
+    {
+      "name": "鏡花水月演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2013-05-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-06-03",
+        "precision": "day"
+      },
+      "showCount": 10,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北",
+        "高雄"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "高雄巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2013-05-18",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2013-05-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2013-05-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2013-05-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2013-05-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2013-05-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2013-05-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2013-06-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2013-06-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2013-06-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        }
+      ]
+    },
+    {
+      "name": "祝福演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2015-07-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-09-13",
+        "precision": "day"
+      },
+      "showCount": 25,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北",
+        "高雄"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "高雄巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2015-07-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-07-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-07-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-07-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-05",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-09",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-11",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2015-08-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2015-08-30",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2015-09-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2015-09-05",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2015-09-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2015-09-11",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2015-09-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2015-09-13",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        }
+      ]
+    },
+    {
+      "name": "無．有演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-07-11",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-02-25",
+        "precision": "day"
+      },
+      "showCount": 28,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "高雄",
+        "臺北"
+      ],
+      "venues": [
+        "高雄巨蛋",
+        "臺北小巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2025-07-11",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2025-07-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2025-07-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2025-07-18",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2025-07-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2025-07-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2025-07-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2025-07-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        },
+        {
+          "date": "2025-08-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-13",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-08-30",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2025-09-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2026-02-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2026-02-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2026-02-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2026-02-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        },
+        {
+          "date": "2026-02-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        }
+      ]
+    }
+  ]
+}

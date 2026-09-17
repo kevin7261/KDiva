@@ -337,6 +337,43 @@ export function addChineseTitles(albums, catalog = []) {
   }
 }
 
+// ---------- 詞曲 ----------
+
+/**
+ * 每首曲目的詞／曲／編曲（credits），取自 Wikipedia：
+ * 先找這張專輯對到的條目曲目表，找不到再找這位歌手其他專輯條目或歌曲表裡同名的歌（精選輯、單曲沿用原曲）
+ */
+export function addCredits(albums, catalog = []) {
+  // 歌名比對鍵；拼音鍵只給沒有中文的標題用（中文同音字很多，不能拿拼音比）
+  const keysOf = (title, pinyin = true) => {
+    const parts = String(title).split(/\s+-\s+/)
+    const keys = parts.flatMap((p) => [normalizeTitle(p), pinyin || !hasCJK(p) ? `py:${pinyinKey(p)}` : ''])
+    return [...new Set(keys)].filter((k) => k.replace(/^py:/, '').length >= 2)
+  }
+  const index = (list) => {
+    const map = new Map()
+    for (const c of list ?? []) for (const k of keysOf(c.title)) if (!map.has(k)) map.set(k, c)
+    return map
+  }
+  const all = index(
+    catalog.flatMap((e) => (Array.isArray(e.credits) ? e.credits : e.credits ? e.titles.map((title) => ({ title, ...e.credits })) : [])),
+  )
+  let found = 0
+  for (const album of albums) {
+    const own = index(album._wiki?.credits)
+    for (const t of album.tracks) {
+      delete t.credits
+      const keys = [t.titleZh, t.title].filter(Boolean).flatMap((x) => keysOf(x, false))
+      const hit = keys.map((k) => own.get(k)).find(Boolean) ?? keys.map((k) => all.get(k)).find(Boolean)
+      if (!hit) continue
+      const { lyrics, music, arranger } = hit
+      t.credits = Object.fromEntries(Object.entries({ lyrics, music, arranger }).filter(([, v]) => v))
+      found++
+    }
+  }
+  return found
+}
+
 // ---------- 歌名比對鍵 ----------
 
 const LIVE_RE = /live|演唱會|演唱会|音樂會|音乐会|現場|现场|concert/i
@@ -416,15 +453,18 @@ export async function applyReleaseDates(albums, artistConfig, log = () => {}) {
     const info = manual
       ? { releaseDate: manual, releaseDatePrecision: 'day', releaseDateSource: 'manual', wikiTitle: null }
       : matchRelease(album, catalog, [artistConfig.name, artistConfig.en, artistConfig.wiki])
-    const { wikiName = null, wikiTracks = null, ...dates } = info ?? {}
+    const { wikiName = null, wikiTracks = null, wikiCredits = null, ...dates } = info ?? {}
     Object.assign(
       album,
       info ? dates : { releaseDate: null, releaseDatePrecision: null, releaseDateSource: null, wikiTitle: null, wikiKind: null },
     )
-    album._wiki = { name: wikiName, tracks: wikiTracks }
+    album._wiki = { name: wikiName, tracks: wikiTracks, credits: wikiCredits }
     if (info) matched++
   }
-  if (catalog) addChineseTitles(albums, catalog)
+  if (catalog) {
+    addChineseTitles(albums, catalog)
+    addCredits(albums, catalog)
+  }
   for (const album of albums) delete album._wiki
   log(`發行日期：${matched}/${albums.length} 張取自 Wikipedia，其餘使用 YouTube Music 年份`)
   albums.sort((a, b) => releaseSortKey(a).localeCompare(releaseSortKey(b)) || a.title.localeCompare(b.title))

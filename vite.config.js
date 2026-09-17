@@ -3,6 +3,7 @@ import vue from '@vitejs/plugin-vue'
 import { writeFile, mkdir, readFile } from 'node:fs/promises'
 import { fetchArtistDataset } from './server/ytmusic.js'
 import { DATA_DIR, dataFile, findArtist } from './server/config.js'
+import { buildTimeline } from './server/timeline.js'
 
 // 開發模式專用：POST /api/refresh?artist=<slug> 重新抓 YouTube Music + Wikipedia，覆寫 public/data 的 JSON。
 // 瀏覽器因 CORS 無法直接呼叫 YouTube Music，所以由 Vite 的 Node 伺服器代抓。
@@ -18,7 +19,7 @@ function refreshApi() {
     configureServer(server) {
       // public/data 不在 watch 範圍，Vite 不會登記啟動後才新增的 JSON（會回傳 index.html），所以直接從磁碟讀
       server.middlewares.use('/data', async (req, res, next) => {
-        const slug = req.url.match(/^\/([\w-]+)\.json(?:\?|$)/)?.[1]
+        const slug = req.url.match(/^\/((?:concerts\/)?[\w-]+)\.json(?:\?|$)/)?.[1]
         if (!slug) return next()
         try {
           const body = await readFile(dataFile(slug))
@@ -47,6 +48,7 @@ function refreshApi() {
           const dataset = await running.get(slug)
           await mkdir(DATA_DIR, { recursive: true })
           await writeFile(dataFile(slug), JSON.stringify(dataset, null, 2))
+          await buildTimeline()
           send(res, 200, dataset)
         } catch (err) {
           send(res, 502, { error: err.message })

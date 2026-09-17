@@ -1,6 +1,6 @@
 // 各歌手在 YouTube Music 的官方藝人頻道與 Wikipedia 條目；slug 用於網址與資料檔名。
 // 前端與 Node 抓取腳本共用這份清單，依出道日期（Wikipedia 資訊框的出道日期／出道作發行）排列。
-// group：female 女歌手、male 男歌手、group 團體，首頁依此分頁。
+// group：female 女歌手、male 男歌手、group 團體；lang：'tw' 台語歌手（沒寫是華語）。首頁依兩者分頁。
 // extraChannelIds：作品分散在其他頻道時一併抓取合併。
 // aliases：曲目演出者欄可能出現的其他名字（舊藝名、外語名），用來判斷是不是這位歌手唱的。
 // 團體與個人分開計算（出道日期也是各自的）：
@@ -15,11 +15,11 @@ export const ARTISTS = [
   { slug: 'sarah-chen', group: 'female', name: '陳淑樺', en: 'Sarah Chen', debut: '1973', channelId: 'UCCmIJng9-OXs9Ax5P4-m8UA', wiki: '陳淑樺' },
   { slug: 'tracy-huang', group: 'female', name: '黃鶯鶯', en: 'Tracy Huang', debut: '1974', channelId: 'UCmQWBgcJyjLBdoF428F6y1A', wiki: '黃鶯鶯' },
   { slug: 'chyi-yu', group: 'female', name: '齊豫', en: 'Chyi Yu', debut: '1978', channelId: 'UCN82-y6I2oH9Tw8LaPw2sYg', wiki: '齊豫' },
-  { slug: 'eric-hung', group: 'male', name: '洪榮宏', en: 'Eric Hung', debut: '1978', channelId: 'UCdLRI11OrDEqaAszBH9VytQ', wiki: '洪榮宏' },
+  { slug: 'eric-hung', group: 'male', lang: 'tw', name: '洪榮宏', en: 'Eric Hung', debut: '1978', channelId: 'UCdLRI11OrDEqaAszBH9VytQ', wiki: '洪榮宏' },
   { slug: 'tsai-chin', group: 'female', name: '蔡琴', en: 'Tsai Chin', debut: '1979', channelId: 'UCiqpapiuXXw7y0BdBXL-hzA', wiki: '蔡琴', aliases: ['Cai Qin'] },
   { slug: 'yvonne-cheng', group: 'female', name: '鄭怡', en: 'Yvonne Cheng', debut: '1979', channelId: 'UCuvGX4pEScIUjZ4fuvFraaw', wiki: '鄭怡' },
   { slug: 'michelle-pan', group: 'female', name: '潘越雲', en: 'Michelle Pan', debut: '1979-10', channelId: 'UCCaauu_jc2rhNsx66SYjTKQ', wiki: '潘越雲' },
-  { slug: 'jody-chiang', group: 'female', name: '江蕙', en: 'Jody Chiang', debut: '1981-04', channelId: 'UCJHd5tIDLb6YuNg3L_Ad15A', wiki: '江蕙' },
+  { slug: 'jody-chiang', group: 'female', lang: 'tw', name: '江蕙', en: 'Jody Chiang', debut: '1981-04', channelId: 'UCJHd5tIDLb6YuNg3L_Ad15A', wiki: '江蕙' },
   { slug: 'chyi-chin', group: 'male', name: '齊秦', en: 'Chyi Chin', debut: '1981', channelId: 'UCXAFPuHD3vHw9agvXeY948A', wiki: '齊秦' },
   { slug: 'anita-mui', group: 'female', name: '梅艷芳', en: 'Anita Mui', debut: '1982', channelId: 'UCllyCYlWEeBeZ4v3kNqz0AA', wiki: '梅艷芳' },
   { slug: 'julie-sue', group: 'female', name: '蘇芮', en: 'Julie Sue', debut: '1983', channelId: 'UC7GaEq4YeIndQAmWZGCp1jA', wiki: '蘇芮', aliases: ['Julie Su'] },
@@ -33,7 +33,7 @@ export const ARTISTS = [
   { slug: 'jonathan-lee', group: 'male', name: '李宗盛', en: 'Jonathan Lee', debut: '1986', channelId: 'UCSypPS59F8OUy_abhYo0viQ', wiki: '李宗盛' },
   { slug: 'harlem-yu', group: 'male', name: '庾澄慶', en: 'Harlem Yu', debut: '1986', channelId: 'UC93ziw5QSSY8Gyacz-YGTlA', wiki: '庾澄慶' },
   { slug: 'johnny-yin', group: 'male', name: '殷正洋', en: 'Johnny Yin', debut: '1986', channelId: 'UCKZDmHQN0SDozH0uBbBNWuA', wiki: '殷正洋', extraChannelIds: ['UCxYVZk894dNAXQ8KZHhI1lw'] },
-  { slug: 'huang-yee-ling', group: 'female', name: '黃乙玲', en: 'Huang Yee-ling', debut: '1987', channelId: 'UCvAECH-laxIYOFxLmeRjcjA', wiki: '黃乙玲' },
+  { slug: 'huang-yee-ling', group: 'female', lang: 'tw', name: '黃乙玲', en: 'Huang Yee-ling', debut: '1987', channelId: 'UCvAECH-laxIYOFxLmeRjcjA', wiki: '黃乙玲' },
   { slug: 'wakin-chau', group: 'male', name: '周華健', en: 'Wakin Chau', debut: '1987', channelId: 'UC02VMzK8EMIDTqDeR7wLAig', wiki: '周華健' },
   { slug: 'cyndi-chao', group: 'female', name: '趙詠華', en: 'Cyndi Chao', debut: '1988', channelId: 'UCSCwNNMlx6buDMAvK4K6PGA', wiki: '趙詠華', aliases: ['Cyndi Zhao'] },
   { slug: 'na-ying', group: 'female', name: '那英', en: 'Na Ying', debut: '1988', channelId: 'UC7tVAVl0FfQ4ylidGciMJZQ', wiki: '那英' },
@@ -42,7 +42,7 @@ export const ARTISTS = [
   { slug: 'chao-chuan', group: 'male', name: '趙傳', en: 'Chao Chuan', debut: '1988', channelId: 'UC-dJiwRh629gT2w1poIPFdw', wiki: '趙傳' },
   { slug: 'andy-hui', group: 'male', name: '許志安', en: 'Andy Hui', debut: '1988-05', channelId: 'UC3m7HOzdx2VWyvkCT5Ti4pg', wiki: '許志安' },
   { slug: 'sky-wu', group: 'male', name: '伍思凱', en: 'Sky Wu', debut: '1988', channelId: 'UCJ5SvoAXx-eyoAX-g1imSjg', wiki: '伍思凱' },
-  { slug: 'chen-lei', group: 'male', name: '陳雷', en: 'Chen Lei', debut: '1988', channelId: 'UCT_Zy8GiekHfKUWYaXrVIHg', wiki: '陳雷 (歌手)' },
+  { slug: 'chen-lei', group: 'male', lang: 'tw', name: '陳雷', en: 'Chen Lei', debut: '1988', channelId: 'UCT_Zy8GiekHfKUWYaXrVIHg', wiki: '陳雷 (歌手)' },
   { slug: 'david-wong', group: 'male', name: '黃大煒', en: 'David Wong', debut: '1988', channelId: 'UCW5WOfVE_9n-mZUKvj9IGJA', wiki: '黃大煒' },
   { slug: 'tom-chang', group: 'male', name: '張雨生', en: 'Tom Chang', debut: '1988', channelId: 'UC5IOk7upUslbdPuMj1DU-WA', wiki: '張雨生' },
   { slug: 'faye-wong', group: 'female', name: '王菲', en: 'Faye Wong', debut: '1989', channelId: 'UCnAmvOfJxmcMd5q48BEIuPQ', wiki: '王菲', aliases: ['王靖雯', 'Shirley Wong'] },
@@ -84,7 +84,7 @@ export const ARTISTS = [
   { slug: 'paudull', group: 'male', name: '陳建年', en: 'Paudull', debut: '1999', channelId: 'UC4uQtyIFtu6UmBeEhJ-ImLw', wiki: '陳建年 (歌手)' },
   { slug: 'penny-tai', group: 'female', name: '戴佩妮', en: 'Penny Tai', debut: '2000', channelId: 'UCwdCmULcaKruVB5XMxT3gLg', wiki: '戴佩妮' },
   { slug: 'christine-fan', group: 'female', name: '范瑋琪', en: 'Christine Fan', debut: '2000-11', channelId: 'UC49ijorxlIXpZRAC6wEQYWQ', wiki: '范瑋琪' },
-  { slug: 'fire-ex', group: 'group', name: '滅火器', en: 'Fire EX.', debut: '2000', channelId: 'UCcny0_3Z2DtcCEYayEcgtPg', wiki: '滅火器樂團' },
+  { slug: 'fire-ex', group: 'group', lang: 'tw', name: '滅火器', en: 'Fire EX.', debut: '2000', channelId: 'UCcny0_3Z2DtcCEYayEcgtPg', wiki: '滅火器樂團' },
   { slug: 'kenji-wu', group: 'male', name: '吳克群', en: 'Kenji Wu', debut: '2000-11', channelId: 'UCkf2xPKEIy78LVKZ4GOFIVA', wiki: '吳克群' },
   { slug: 'stanley-huang', group: 'male', name: '黃立行', en: 'Stanley Huang', debut: '2000', channelId: 'UC2Tl3yGEREKC0A9luaGuNDg', wiki: '黃立行', groups: ['L.A. Boyz'] },
   { slug: 'ricky-hsiao', group: 'male', name: '蕭煌奇', en: 'Ricky Hsiao', debut: '2000', channelId: 'UCQw7Oil9u3xnFTm3SOI4eeg', wiki: '蕭煌奇' },
@@ -100,7 +100,7 @@ export const ARTISTS = [
   { slug: 'cyndi-wang', group: 'female', name: '王心凌', en: 'Cyndi Wang', debut: '2003', channelId: 'UC-GYedjoXTj4tj8IOMZbp9g', wiki: '王心凌' },
   { slug: 'jj-lin', group: 'male', name: '林俊傑', en: 'JJ Lin', debut: '2003-04', channelId: 'UCUJ3KuIIgvh8eVItvb-EdFQ', wiki: '林俊傑' },
   { slug: 'sodagreen', group: 'group', name: '蘇打綠', en: 'sodagreen', debut: '2004-05', channelId: 'UC_hqZWcuNgQnRTulFy6BN7w', extraChannelIds: ['UCUK1GVEFFX9Xv4mJjz8m55g'], wiki: '蘇打綠', aliases: ['魚丁糸', 'Oaeen'], members: ['吳青峰', '謝馨儀', '史俊威', '龔鈺祺', '劉家凱', '何景揚'] },
-  { slug: 'hsieh-ming-yu', group: 'male', name: '謝銘祐', en: 'Hsieh Ming-yu', debut: '2004', channelId: 'UCTwfl0D7mGZ7oov4VM_3q4g', wiki: '謝銘祐', groups: ['麵包車'] },
+  { slug: 'hsieh-ming-yu', group: 'male', lang: 'tw', name: '謝銘祐', en: 'Hsieh Ming-yu', debut: '2004', channelId: 'UCTwfl0D7mGZ7oov4VM_3q4g', wiki: '謝銘祐', groups: ['麵包車'] },
   { slug: 'rainie-yang', group: 'female', name: '楊丞琳', en: 'Rainie Yang', debut: '2005-09', channelId: 'UC0WDze0vAMrLxULTWMlSuRA', wiki: '楊丞琳', groups: ['4 In Love'] },
   { slug: 'khalil-fong', group: 'male', name: '方大同', en: 'Khalil Fong', debut: '2005', channelId: 'UC_PRHIP9cby-5TBzhl4Oytg', wiki: '方大同' },
   { slug: '183-club', group: 'group', name: '183 Club', en: '', debut: '2005', channelId: 'UCRwfu77EOx73l4lp5cLNbMw', wiki: '183 Club' },
@@ -114,7 +114,7 @@ export const ARTISTS = [
   { slug: 'lala-hsu', group: 'female', name: '徐佳瑩', en: 'LaLa Hsu', debut: '2009', channelId: 'UC974iWoR_ZhWT6cNbZSaEdg', wiki: '徐佳瑩' },
   { slug: 'hebe-tien', group: 'female', name: '田馥甄', en: 'Hebe Tien', debut: '2010-09', channelId: 'UCGkj4uoWx_1BA2tF9Q-9Y6w', wiki: '田馥甄', groups: ['S.H.E'] },
   { slug: 'eve-ai', group: 'female', name: '艾怡良', en: 'Eve Ai', debut: '2010', channelId: 'UC_igPX3c9gOMQ41hSDV8tNg', wiki: '艾怡良' },
-  { slug: 'henry-hsu', group: 'male', name: '許富凱', en: 'Henry Hsu', debut: '2011', channelId: 'UCzWtWnUu-klp-esK22WZ09A', wiki: '許富凱' },
+  { slug: 'henry-hsu', group: 'male', lang: 'tw', name: '許富凱', en: 'Henry Hsu', debut: '2011', channelId: 'UCzWtWnUu-klp-esK22WZ09A', wiki: '許富凱' },
   { slug: 'nick-chou', group: 'male', name: '周湯豪', en: 'Nick Chou', debut: '2011', channelId: 'UCm0Nc9JRha2Gxq5AlBXWElQ', wiki: '周湯豪' },
   { slug: 'eric-chou', group: 'male', name: '周興哲', en: 'Eric Chou', debut: '2014', channelId: 'UCawsPaLRTeYnWvthH8pepBw', wiki: '周興哲' },
   { slug: '9m88', group: 'female', name: '9m88', en: '', debut: '2016', channelId: 'UCpZvDKDJtQUXm1o6LKT2xhA', wiki: '9m88' },
@@ -122,12 +122,19 @@ export const ARTISTS = [
   { slug: 'for-what', group: 'group', name: '浮花樂隊', en: 'For What', debut: '2022', channelId: 'UCry9S-7wth479tbrtiP_l9A', wiki: null },
 ]
 
+// 首頁分頁：key 是網址（華語沿用原本的 female／male／group）
 export const GROUPS = [
-  { key: 'female', label: '女歌手', title: '天后', unit: '位' },
-  { key: 'male', label: '男歌手', title: '天王', unit: '位' },
-  { key: 'group', label: '團體', title: '團體', unit: '組' },
+  { key: 'male', label: '華語男歌手', title: '天王', unit: '位' },
+  { key: 'female', label: '華語女歌手', title: '天后', unit: '位' },
+  { key: 'group', label: '華語團體', title: '團體', unit: '組' },
+  { key: 'tw-male', label: '台語男歌手', title: '台語天王', unit: '位' },
+  { key: 'tw-female', label: '台語女歌手', title: '台語天后', unit: '位' },
+  { key: 'tw-group', label: '台語團體', title: '台語團體', unit: '組' },
 ]
 
-export const artistsIn = (group) => ARTISTS.filter((a) => a.group === group)
+/** 藝人所屬分頁：tw-female、female… */
+export const categoryOf = (artist) => (artist.lang === 'tw' ? `tw-${artist.group}` : artist.group)
+
+export const artistsIn = (category) => ARTISTS.filter((a) => categoryOf(a) === category)
 
 export const findArtist = (slug) => ARTISTS.find((a) => a.slug === slug)

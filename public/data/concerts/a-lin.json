@@ -1,0 +1,242 @@
+{
+  "slug": "a-lin",
+  "fetchedAt": "2026-09-17T12:30:52.221Z",
+  "wiki": "A-Lin",
+  "bio": {
+    "born": {
+      "date": "1983-09-20",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "天生歌姬音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2011-01-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2011-01-29",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北Legacy"
+      ],
+      "shows": [
+        {
+          "date": "2011-01-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北Legacy"
+        }
+      ]
+    },
+    {
+      "name": "A-Lin溫哥華演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-02-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-02-16",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "加拿大"
+      ],
+      "cities": [
+        "溫哥華"
+      ],
+      "venues": [
+        "女皇大劇院"
+      ],
+      "shows": [
+        {
+          "date": "2013-02-16",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "女皇大劇院"
+        }
+      ]
+    },
+    {
+      "name": "A-LinLin距離演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-05-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-05-23",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北Neo Studio"
+      ],
+      "shows": [
+        {
+          "date": "2014-05-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北Neo Studio"
+        }
+      ]
+    },
+    {
+      "name": "A-Lin北美個人演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-02-02",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-02-02",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "美國"
+      ],
+      "cities": [
+        "康涅狄格州"
+      ],
+      "venues": [
+        "金神大賭場"
+      ],
+      "shows": [
+        {
+          "date": "2019-02-02",
+          "precision": "day",
+          "region": "美國",
+          "city": "康涅狄格州",
+          "venue": "金神大賭場"
+        }
+      ]
+    },
+    {
+      "name": "A-LinRomadiw一起來唱歌演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2021-05-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-05-09",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "SHOW BOX 大直"
+      ],
+      "shows": [
+        {
+          "date": "2021-05-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "SHOW BOX 大直"
+        },
+        {
+          "date": "2021-05-08",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "SHOW BOX 大直"
+        },
+        {
+          "date": "2021-05-09",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "SHOW BOX 大直"
+        }
+      ]
+    },
+    {
+      "name": "A-Lin SHOW 秀 TIME演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-03-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "2025-04-12",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "新加坡",
+        "馬來西亞",
+        "印尼"
+      ],
+      "cities": [
+        "新加坡",
+        "彭亨",
+        "丹格朗"
+      ],
+      "venues": [
+        "濱海灣金沙劇院",
+        "雲頂雲星劇場",
+        "ICE BSD Hall 5"
+      ],
+      "shows": [
+        {
+          "date": "2025-03-01",
+          "precision": "month",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "濱海灣金沙劇院"
+        },
+        {
+          "date": "2025-03-15",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "彭亨",
+          "venue": "雲頂雲星劇場"
+        },
+        {
+          "date": "2025-04-12",
+          "precision": "day",
+          "region": "印尼",
+          "city": "丹格朗",
+          "venue": "ICE BSD Hall 5"
+        }
+      ]
+    }
+  ]
+}

@@ -31,7 +31,11 @@
           "duration": 266,
           "byOther": false,
           "nameKey": "四季",
-          "titleZh": "四季"
+          "titleZh": "四季",
+          "credits": {
+            "lyrics": "李子恆",
+            "music": "李子恆"
+          }
         },
         {
           "index": 2,
@@ -43,7 +47,11 @@
           "duration": 214,
           "byOther": false,
           "nameKey": "情敵貝多芬",
-          "titleZh": "情敵貝多芬 (Live)"
+          "titleZh": "情敵貝多芬 (Live)",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "洪晟文"
+          }
         },
         {
           "index": 3,
@@ -55,7 +63,11 @@
           "duration": 239,
           "byOther": false,
           "nameKey": "你傷了我的心",
-          "titleZh": "你傷了我的心"
+          "titleZh": "你傷了我的心",
+          "credits": {
+            "lyrics": "鄭忠信",
+            "music": "鄭忠信"
+          }
         },
         {
           "index": 4,
@@ -67,7 +79,11 @@
           "duration": 300,
           "byOther": false,
           "nameKey": "為我哭一次好不好",
-          "titleZh": "為我哭一次好不好"
+          "titleZh": "為我哭一次好不好",
+          "credits": {
+            "lyrics": "馮子瑛",
+            "music": "洪晟文"
+          }
         },
         {
           "index": 5,
@@ -78,7 +94,11 @@
           "playsText": "44K plays",
           "duration": 290,
           "byOther": false,
-          "nameKey": "lovemetender"
+          "nameKey": "lovemetender",
+          "credits": {
+            "lyrics": "Vera Matson/Elvis Presley",
+            "music": "Vera Matson/Elvis Presley"
+          }
         },
         {
           "index": 6,
@@ -90,7 +110,11 @@
           "duration": 284,
           "byOther": false,
           "nameKey": "聽雨",
-          "titleZh": "聽雨"
+          "titleZh": "聽雨",
+          "credits": {
+            "lyrics": "沈康",
+            "music": "王力宏"
+          }
         },
         {
           "index": 7,
@@ -102,7 +126,11 @@
           "duration": 245,
           "byOther": false,
           "nameKey": "乘著愛自由的飛",
-          "titleZh": "乘著愛自由的飛"
+          "titleZh": "乘著愛自由的飛",
+          "credits": {
+            "lyrics": "王中言",
+            "music": "莫凡"
+          }
         },
         {
           "index": 8,
@@ -113,7 +141,11 @@
           "playsText": "36K plays",
           "duration": 184,
           "byOther": false,
-          "nameKey": "thewateriswide"
+          "nameKey": "thewateriswide",
+          "credits": {
+            "lyrics": "Trad",
+            "music": "Trad"
+          }
         },
         {
           "index": 9,
@@ -125,7 +157,11 @@
           "duration": 255,
           "byOther": false,
           "nameKey": "別這樣我會哭",
-          "titleZh": "別這樣我會哭"
+          "titleZh": "別這樣我會哭",
+          "credits": {
+            "lyrics": "韓美強",
+            "music": "韓美強"
+          }
         },
         {
           "index": 10,
@@ -137,7 +173,11 @@
           "duration": 175,
           "byOther": false,
           "nameKey": "lastnight",
-          "titleZh": "Last Night (2002重唱版)"
+          "titleZh": "Last Night (2002重唱版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 11,
@@ -149,7 +189,11 @@
           "duration": 281,
           "byOther": false,
           "nameKey": "不願說再見",
-          "titleZh": "不願說再見"
+          "titleZh": "不願說再見",
+          "credits": {
+            "lyrics": "沈康",
+            "music": "高德華/王力宏"
+          }
         }
       ],
       "releaseDate": "1995-12-19",
@@ -157,8 +201,8 @@
       "releaseDateSource": "album-page",
       "wikiTitle": "情敵貝多芬",
       "wikiKind": null,
-      "titleZh": "情敵貝多芬",
-      "nameKey": "情敵貝多芬"
+      "nameKey": "情敵貝多芬",
+      "titleZh": "情敵貝多芬"
     },
     {
       "browseId": "MPREb_lcc32hXJTKd",
@@ -189,7 +233,12 @@
           "playsText": "40K plays",
           "duration": 291,
           "byOther": false,
-          "nameKey": "喊我一千遍"
+          "nameKey": "喊我一千遍",
+          "credits": {
+            "lyrics": "謝明訓",
+            "music": "Tim Heintz/王力宏/李壽全",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 3,
@@ -200,7 +249,12 @@
           "playsText": "22K plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "去愛"
+          "nameKey": "去愛",
+          "credits": {
+            "lyrics": "許常德",
+            "music": "吳旭文",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 4,
@@ -211,7 +265,12 @@
           "playsText": "4.7K plays",
           "duration": 254,
           "byOther": false,
-          "nameKey": "頭版搖滾"
+          "nameKey": "頭版搖滾",
+          "credits": {
+            "lyrics": "高德華",
+            "music": "高德華/王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 5,
@@ -222,7 +281,12 @@
           "playsText": "4.9K plays",
           "duration": 200,
           "byOther": false,
-          "nameKey": "standbyme"
+          "nameKey": "standbyme",
+          "credits": {
+            "lyrics": "B.King/J.Leiber/M.Stoller",
+            "music": "B.King/J.Leiber/M.Stoller",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 6,
@@ -233,7 +297,12 @@
           "playsText": "36K plays",
           "duration": 244,
           "byOther": false,
-          "nameKey": "是你"
+          "nameKey": "是你",
+          "credits": {
+            "lyrics": "陳樂融",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 7,
@@ -244,7 +313,12 @@
           "playsText": "130K plays",
           "duration": 241,
           "byOther": false,
-          "nameKey": "有了你就足夠"
+          "nameKey": "有了你就足夠",
+          "credits": {
+            "lyrics": "武雄",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 8,
@@ -255,7 +329,12 @@
           "playsText": "106K plays",
           "duration": 243,
           "byOther": false,
-          "nameKey": "aslongasihaveyou"
+          "nameKey": "aslongasihaveyou",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 9,
@@ -266,7 +345,12 @@
           "playsText": "5.7K plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "情難牽"
+          "nameKey": "情難牽",
+          "credits": {
+            "lyrics": "鄭中庸",
+            "music": "王文清",
+            "arranger": "Ricky Ho"
+          }
         },
         {
           "index": 10,
@@ -277,7 +361,12 @@
           "playsText": "5.4K plays",
           "duration": 260,
           "byOther": false,
-          "nameKey": "betteroffalone"
+          "nameKey": "betteroffalone",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         }
       ],
       "releaseDate": "1996-08-07",
@@ -371,7 +460,12 @@
           "playsText": "36K plays",
           "duration": 243,
           "byOther": false,
-          "nameKey": "是你"
+          "nameKey": "是你",
+          "credits": {
+            "lyrics": "陳樂融",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 8,
@@ -454,7 +548,12 @@
           "playsText": "223K plays",
           "duration": 292,
           "byOther": false,
-          "nameKey": "風中的遺憾"
+          "nameKey": "風中的遺憾",
+          "credits": {
+            "lyrics": "何慶遠",
+            "music": "何慶遠",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 2,
@@ -465,7 +564,12 @@
           "playsText": "4.9K plays",
           "duration": 258,
           "byOther": false,
-          "nameKey": "遠離傷心"
+          "nameKey": "遠離傷心",
+          "credits": {
+            "lyrics": "王中言",
+            "music": "Enrique",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 3,
@@ -476,7 +580,12 @@
           "playsText": "403K plays",
           "duration": 270,
           "byOther": false,
-          "nameKey": "好想你"
+          "nameKey": "好想你",
+          "credits": {
+            "lyrics": "林燕岑",
+            "music": "楊鎮丞",
+            "arranger": "Ricky Ho"
+          }
         },
         {
           "index": 4,
@@ -487,7 +596,12 @@
           "playsText": "7K plays",
           "duration": 306,
           "byOther": false,
-          "nameKey": "暴風雨"
+          "nameKey": "暴風雨",
+          "credits": {
+            "lyrics": "許英忠",
+            "music": "許英忠",
+            "arranger": "Ricky Ho"
+          }
         },
         {
           "index": 5,
@@ -498,7 +612,12 @@
           "playsText": "14K plays",
           "duration": 268,
           "byOther": false,
-          "nameKey": "回憶"
+          "nameKey": "回憶",
+          "credits": {
+            "lyrics": "許英忠",
+            "music": "許英忠",
+            "arranger": "Ricky Ho"
+          }
         },
         {
           "index": 6,
@@ -509,7 +628,12 @@
           "playsText": "22K plays",
           "duration": 281,
           "byOther": false,
-          "nameKey": "不說後悔"
+          "nameKey": "不說後悔",
+          "credits": {
+            "lyrics": "邱芷玲",
+            "music": "邱芷玲",
+            "arranger": "江建民"
+          }
         },
         {
           "index": 7,
@@ -520,7 +644,12 @@
           "playsText": "3.9K plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "預約你的愛"
+          "nameKey": "預約你的愛",
+          "credits": {
+            "lyrics": "王力宏/徐李鳳",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 8,
@@ -531,7 +660,12 @@
           "playsText": "3.2K plays",
           "duration": 248,
           "byOther": false,
-          "nameKey": "眼睛"
+          "nameKey": "眼睛",
+          "credits": {
+            "lyrics": "許常德",
+            "music": "劉天健",
+            "arranger": "Ricky Ho"
+          }
         },
         {
           "index": 9,
@@ -542,7 +676,12 @@
           "playsText": "11K plays",
           "duration": 248,
           "byOther": false,
-          "nameKey": "愛依然執著"
+          "nameKey": "愛依然執著",
+          "credits": {
+            "lyrics": "陳樂融",
+            "music": "Enrique Iglesias/Roberto Morales",
+            "arranger": "Tim Heintz/Michael Landau"
+          }
         },
         {
           "index": 10,
@@ -553,7 +692,12 @@
           "playsText": "9.4K plays",
           "duration": 341,
           "byOther": false,
-          "nameKey": "noah"
+          "nameKey": "noah",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         }
       ],
       "releaseDate": "1996-12-27",
@@ -592,7 +736,12 @@
           "playsText": "39K plays",
           "duration": 254,
           "byOther": false,
-          "nameKey": "不要開燈"
+          "nameKey": "不要開燈",
+          "credits": {
+            "lyrics": "余瑞華/黃國倫",
+            "music": "戴維雄",
+            "arranger": "錢幽蘭"
+          }
         },
         {
           "index": 3,
@@ -603,7 +752,12 @@
           "playsText": "6.4K plays",
           "duration": 304,
           "byOther": false,
-          "nameKey": "愛在思念蔓延時"
+          "nameKey": "愛在思念蔓延時",
+          "credits": {
+            "lyrics": "黃桂蘭",
+            "music": "黃國倫",
+            "arranger": "屠穎"
+          }
         },
         {
           "index": 4,
@@ -614,7 +768,12 @@
           "playsText": "33K plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "認眞"
+          "nameKey": "認眞",
+          "credits": {
+            "lyrics": "李俊廣",
+            "music": "小羊",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 5,
@@ -625,7 +784,12 @@
           "playsText": "4.1K plays",
           "duration": 262,
           "byOther": false,
-          "nameKey": "放逐思念"
+          "nameKey": "放逐思念",
+          "credits": {
+            "lyrics": "何慶遠",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 6,
@@ -636,7 +800,12 @@
           "playsText": "142K plays",
           "duration": 275,
           "byOther": false,
-          "nameKey": "白紙"
+          "nameKey": "白紙",
+          "credits": {
+            "lyrics": "十方",
+            "music": "徐禹/王繼康",
+            "arranger": "王繼康"
+          }
         },
         {
           "index": 7,
@@ -647,7 +816,12 @@
           "playsText": "5.3K plays",
           "duration": 311,
           "byOther": false,
-          "nameKey": "給我妳的手"
+          "nameKey": "給我妳的手",
+          "credits": {
+            "lyrics": "黃國倫",
+            "music": "黃國倫",
+            "arranger": "王豫民"
+          }
         },
         {
           "index": 8,
@@ -658,7 +832,12 @@
           "playsText": "423K plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "dreamagain"
+          "nameKey": "dreamagain",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 9,
@@ -669,7 +848,12 @@
           "playsText": "6.9K plays",
           "duration": 273,
           "byOther": false,
-          "nameKey": "想家"
+          "nameKey": "想家",
+          "credits": {
+            "lyrics": "陳樂融",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 10,
@@ -680,7 +864,12 @@
           "playsText": "2.9K plays",
           "duration": 231,
           "byOther": false,
-          "nameKey": "四月還會下雪"
+          "nameKey": "四月還會下雪",
+          "credits": {
+            "lyrics": "邱芷玲/王力宏",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         }
       ],
       "releaseDate": "1997-07-18",
@@ -817,8 +1006,8 @@
       "releaseDateSource": "wikidata",
       "wikiTitle": "公轉自轉",
       "wikiKind": null,
-      "titleZh": "公轉自轉",
-      "nameKey": "公轉自轉"
+      "nameKey": "公轉自轉",
+      "titleZh": "公轉自轉"
     },
     {
       "browseId": "MPREb_JnM917Q6v6a",
@@ -849,7 +1038,12 @@
           "playsText": "142K plays",
           "duration": 277,
           "byOther": false,
-          "nameKey": "白紙"
+          "nameKey": "白紙",
+          "credits": {
+            "lyrics": "十方",
+            "music": "徐禹/王繼康",
+            "arranger": "王繼康"
+          }
         },
         {
           "index": 3,
@@ -860,7 +1054,12 @@
           "playsText": "40K plays",
           "duration": 292,
           "byOther": false,
-          "nameKey": "喊我一千遍"
+          "nameKey": "喊我一千遍",
+          "credits": {
+            "lyrics": "謝明訓",
+            "music": "Tim Heintz/王力宏/李壽全",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 4,
@@ -871,7 +1070,12 @@
           "playsText": "403K plays",
           "duration": 270,
           "byOther": false,
-          "nameKey": "好想你"
+          "nameKey": "好想你",
+          "credits": {
+            "lyrics": "林燕岑",
+            "music": "楊鎮丞",
+            "arranger": "Ricky Ho"
+          }
         },
         {
           "index": 5,
@@ -893,7 +1097,12 @@
           "playsText": "130K plays",
           "duration": 244,
           "byOther": false,
-          "nameKey": "有了你就足夠"
+          "nameKey": "有了你就足夠",
+          "credits": {
+            "lyrics": "武雄",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 7,
@@ -904,7 +1113,12 @@
           "playsText": "22K plays",
           "duration": 281,
           "byOther": false,
-          "nameKey": "不說後悔"
+          "nameKey": "不說後悔",
+          "credits": {
+            "lyrics": "邱芷玲",
+            "music": "邱芷玲",
+            "arranger": "江建民"
+          }
         },
         {
           "index": 8,
@@ -937,7 +1151,12 @@
           "playsText": "39K plays",
           "duration": 255,
           "byOther": false,
-          "nameKey": "不要開燈"
+          "nameKey": "不要開燈",
+          "credits": {
+            "lyrics": "余瑞華/黃國倫",
+            "music": "戴維雄",
+            "arranger": "錢幽蘭"
+          }
         },
         {
           "index": 11,
@@ -948,7 +1167,12 @@
           "playsText": "223K plays",
           "duration": 293,
           "byOther": false,
-          "nameKey": "風中的遺憾"
+          "nameKey": "風中的遺憾",
+          "credits": {
+            "lyrics": "何慶遠",
+            "music": "何慶遠",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 12,
@@ -970,7 +1194,12 @@
           "playsText": "4.7K plays",
           "duration": 257,
           "byOther": false,
-          "nameKey": "頭版搖滾"
+          "nameKey": "頭版搖滾",
+          "credits": {
+            "lyrics": "高德華",
+            "music": "高德華/王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 14,
@@ -981,7 +1210,12 @@
           "playsText": "2.9K plays",
           "duration": 231,
           "byOther": false,
-          "nameKey": "四月還會下雪"
+          "nameKey": "四月還會下雪",
+          "credits": {
+            "lyrics": "邱芷玲/王力宏",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         }
       ],
       "releaseDate": "1998-08-12",
@@ -1129,8 +1363,8 @@
       "releaseDateSource": "wikidata",
       "wikiTitle": "不可能錯過你",
       "wikiKind": null,
-      "titleZh": "不可能錯過你",
-      "nameKey": "不可能錯過你"
+      "nameKey": "不可能錯過你",
+      "titleZh": "不可能錯過你"
     },
     {
       "browseId": "MPREb_xBXhDLYVHyL",
@@ -1300,8 +1534,8 @@
       "releaseDateSource": "wikidata",
       "wikiTitle": "永遠的第一天",
       "wikiKind": null,
-      "titleZh": "永遠的第一天",
-      "nameKey": "永遠的第一天"
+      "nameKey": "永遠的第一天",
+      "titleZh": "永遠的第一天"
     },
     {
       "browseId": "MPREb_ETMthWSSGWa",
@@ -1442,8 +1676,8 @@
       "releaseDateSource": "wikidata",
       "wikiTitle": "唯一 (專輯)",
       "wikiKind": null,
-      "titleZh": "唯一 (專輯)",
-      "nameKey": "唯一"
+      "nameKey": "唯一",
+      "titleZh": "唯一 (專輯)"
     },
     {
       "browseId": "MPREb_SgrI5OMjimx",
@@ -1525,7 +1759,11 @@
           "playsText": "155K plays",
           "duration": 201,
           "byOther": false,
-          "nameKey": "lastnight"
+          "nameKey": "lastnight",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -1704,7 +1942,11 @@
           "duration": 203,
           "byOther": false,
           "nameKey": "lastnight",
-          "titleZh": "Last Night (2002重唱版)"
+          "titleZh": "Last Night (2002重唱版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 14,
@@ -1727,7 +1969,12 @@
           "duration": 271,
           "byOther": false,
           "nameKey": "在每一秒裡都想見到你",
-          "titleZh": "在每一秒裡都想見到你 (Live)"
+          "titleZh": "在每一秒裡都想見到你 (Live)",
+          "credits": {
+            "lyrics": "姚若龍/王力宏",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 16,
@@ -1751,7 +1998,12 @@
           "duration": 275,
           "byOther": false,
           "nameKey": "白紙",
-          "titleZh": "白紙"
+          "titleZh": "白紙",
+          "credits": {
+            "lyrics": "十方",
+            "music": "徐禹/王繼康",
+            "arranger": "王繼康"
+          }
         },
         {
           "index": 18,
@@ -1775,7 +2027,11 @@
           "duration": 216,
           "byOther": false,
           "nameKey": "情敵貝多芬",
-          "titleZh": "情敵貝多芬 (Live)"
+          "titleZh": "情敵貝多芬 (Live)",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "洪晟文"
+          }
         },
         {
           "index": 20,
@@ -1787,7 +2043,12 @@
           "duration": 269,
           "byOther": false,
           "nameKey": "好想你",
-          "titleZh": "好想你"
+          "titleZh": "好想你",
+          "credits": {
+            "lyrics": "林燕岑",
+            "music": "楊鎮丞",
+            "arranger": "Ricky Ho"
+          }
         },
         {
           "index": 21,
@@ -1895,7 +2156,11 @@
           "duration": 204,
           "byOther": false,
           "nameKey": "lastnight",
-          "titleZh": "Last Night (2002重唱版)"
+          "titleZh": "Last Night (2002重唱版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -1914,8 +2179,8 @@
       "releaseDateSource": "album-page",
       "wikiTitle": "唯一/Last Night",
       "wikiKind": "single",
-      "titleZh": "唯一/Last Night",
-      "nameKey": "唯一lastnight"
+      "nameKey": "唯一lastnight",
+      "titleZh": "唯一/Last Night"
     },
     {
       "browseId": "MPREb_7Oe667ihPmX",
@@ -1948,7 +2213,11 @@
           "duration": 204,
           "byOther": false,
           "nameKey": "lastnight",
-          "titleZh": "Last Night (2002重唱版)"
+          "titleZh": "Last Night (2002重唱版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -2085,7 +2354,12 @@
           "playsText": null,
           "duration": 245,
           "byOther": false,
-          "nameKey": "aslongasihaveyou"
+          "nameKey": "aslongasihaveyou",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 15,
@@ -2124,7 +2398,12 @@
           "playsText": "186K plays",
           "duration": 208,
           "byOther": false,
-          "nameKey": "yabirthday"
+          "nameKey": "yabirthday",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -2135,7 +2414,12 @@
           "playsText": "18M plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "你不在"
+          "nameKey": "你不在",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 3,
@@ -2146,7 +2430,12 @@
           "playsText": "25K plays",
           "duration": 229,
           "byOther": false,
-          "nameKey": "lovelovelove"
+          "nameKey": "lovelovelove",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 4,
@@ -2157,7 +2446,12 @@
           "playsText": "10K plays",
           "duration": 222,
           "byOther": false,
-          "nameKey": "女朋友"
+          "nameKey": "女朋友",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 5,
@@ -2168,7 +2462,12 @@
           "playsText": "764K plays",
           "duration": 205,
           "byOther": false,
-          "nameKey": "此刻你心裡想起誰"
+          "nameKey": "此刻你心裡想起誰",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 6,
@@ -2180,6 +2479,11 @@
           "duration": 24,
           "byOther": false,
           "nameKey": "不可思議電臺",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          },
           "titleZh": "不可思議電臺"
         },
         {
@@ -2191,7 +2495,12 @@
           "playsText": "2M plays",
           "duration": 279,
           "byOther": false,
-          "nameKey": "你和我"
+          "nameKey": "你和我",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 8,
@@ -2202,7 +2511,12 @@
           "playsText": "23K plays",
           "duration": 220,
           "byOther": false,
-          "nameKey": "whatwasithinking"
+          "nameKey": "whatwasithinking",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 9,
@@ -2213,7 +2527,12 @@
           "playsText": "72K plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "notyouraveragethug"
+          "nameKey": "notyouraveragethug",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Joshua Thompson"
+          }
         },
         {
           "index": 10,
@@ -2224,7 +2543,12 @@
           "playsText": "30K plays",
           "duration": 190,
           "byOther": false,
-          "nameKey": "不著地"
+          "nameKey": "不著地",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "Matthew Gerrard"
+          }
         },
         {
           "index": 11,
@@ -2235,7 +2559,12 @@
           "playsText": "2.1M plays",
           "duration": 295,
           "byOther": false,
-          "nameKey": "canyoufeelmyworld"
+          "nameKey": "canyoufeelmyworld",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 12,
@@ -2246,7 +2575,12 @@
           "playsText": "213K plays",
           "duration": 260,
           "byOther": false,
-          "nameKey": "愛無所不在"
+          "nameKey": "愛無所不在",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         }
       ],
       "releaseDate": "2003-10-15",
@@ -2275,7 +2609,12 @@
           "duration": 53,
           "byOther": false,
           "nameKey": "放開你的心",
-          "titleZh": "放開你的心 (Music Video)"
+          "titleZh": "放開你的心 (Music Video)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 2,
@@ -2286,7 +2625,11 @@
           "playsText": "1M plays",
           "duration": 225,
           "byOther": false,
-          "nameKey": "放開你的心"
+          "nameKey": "放開你的心",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -2297,7 +2640,12 @@
           "playsText": "6.8M plays",
           "duration": 238,
           "byOther": false,
-          "nameKey": "心中的日月"
+          "nameKey": "心中的日月",
+          "credits": {
+            "lyrics": "陳宇任",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 4,
@@ -2308,7 +2656,11 @@
           "playsText": "699K plays",
           "duration": 239,
           "byOther": false,
-          "nameKey": "竹林深處"
+          "nameKey": "竹林深處",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 5,
@@ -2320,7 +2672,11 @@
           "duration": 293,
           "byOther": false,
           "nameKey": "在那遙遠的地方",
-          "titleZh": "在那遙遠的地方 (Music Video)"
+          "titleZh": "在那遙遠的地方 (Music Video)",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 6,
@@ -2331,7 +2687,11 @@
           "playsText": "331K plays",
           "duration": 237,
           "byOther": false,
-          "nameKey": "在那遙遠的地方"
+          "nameKey": "在那遙遠的地方",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 7,
@@ -2342,7 +2702,11 @@
           "playsText": "12M plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "一首簡單的歌"
+          "nameKey": "一首簡單的歌",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 8,
@@ -2353,7 +2717,11 @@
           "playsText": "1M plays",
           "duration": 186,
           "byOther": false,
-          "nameKey": "星座"
+          "nameKey": "星座",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 9,
@@ -2364,7 +2732,11 @@
           "playsText": "173K plays",
           "duration": 177,
           "byOther": false,
-          "nameKey": "過來"
+          "nameKey": "過來",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 10,
@@ -2375,7 +2747,11 @@
           "playsText": "50M plays",
           "duration": 239,
           "byOther": false,
-          "nameKey": "愛錯"
+          "nameKey": "愛錯",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 11,
@@ -2386,7 +2762,11 @@
           "playsText": "176K plays",
           "duration": 232,
           "byOther": false,
-          "nameKey": "followme"
+          "nameKey": "followme",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         }
       ],
       "releaseDate": "2004-12-31",
@@ -2414,7 +2794,12 @@
           "playsText": "788K plays",
           "duration": 277,
           "byOther": false,
-          "nameKey": "在梅邊"
+          "nameKey": "在梅邊",
+          "credits": {
+            "lyrics": "阿信 Rap：王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -2425,7 +2810,12 @@
           "playsText": "10M plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "花田錯"
+          "nameKey": "花田錯",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -2436,7 +2826,12 @@
           "playsText": "3.1M plays",
           "duration": 219,
           "byOther": false,
-          "nameKey": "蓋世英雄"
+          "nameKey": "蓋世英雄",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、歐陽靖、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 4,
@@ -2448,7 +2843,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 5,
@@ -2459,7 +2859,12 @@
           "playsText": "256K plays",
           "duration": 240,
           "byOther": false,
-          "nameKey": "完美的互動"
+          "nameKey": "完美的互動",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、\"Hitman\"Bang",
+            "music": "王力宏、\"Hitman\"Bang",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 6,
@@ -2470,7 +2875,12 @@
           "playsText": "17M plays",
           "duration": 225,
           "byOther": false,
-          "nameKey": "大城小愛"
+          "nameKey": "大城小愛",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、K.Tee",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 7,
@@ -2481,7 +2891,12 @@
           "playsText": "2.4M plays",
           "duration": 287,
           "byOther": false,
-          "nameKey": "第一個清晨"
+          "nameKey": "第一個清晨",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 8,
@@ -2492,7 +2907,12 @@
           "playsText": "44K plays",
           "duration": 179,
           "byOther": false,
-          "nameKey": "哥兒們"
+          "nameKey": "哥兒們",
+          "credits": {
+            "lyrics": "王力宏、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 9,
@@ -2503,7 +2923,12 @@
           "playsText": "27K plays",
           "duration": 182,
           "byOther": false,
-          "nameKey": "讓開"
+          "nameKey": "讓開",
+          "credits": {
+            "lyrics": "王力宏、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 10,
@@ -2514,7 +2939,12 @@
           "playsText": "470K plays",
           "duration": 261,
           "byOther": false,
-          "nameKey": "愛因為在心中"
+          "nameKey": "愛因為在心中",
+          "credits": {
+            "lyrics": "紫焱龍、狗狗、修寶",
+            "music": "曹軒賓",
+            "arranger": "曹軒賓"
+          }
         }
       ],
       "releaseDate": "2005-12-30",
@@ -2542,7 +2972,12 @@
           "playsText": "788K plays",
           "duration": 277,
           "byOther": false,
-          "nameKey": "在梅邊"
+          "nameKey": "在梅邊",
+          "credits": {
+            "lyrics": "阿信 Rap：王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -2553,7 +2988,12 @@
           "playsText": "10M plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "花田錯"
+          "nameKey": "花田錯",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -2564,7 +3004,12 @@
           "playsText": "3.1M plays",
           "duration": 219,
           "byOther": false,
-          "nameKey": "蓋世英雄"
+          "nameKey": "蓋世英雄",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、歐陽靖、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 4,
@@ -2576,7 +3021,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 5,
@@ -2587,7 +3037,12 @@
           "playsText": "17M plays",
           "duration": 226,
           "byOther": false,
-          "nameKey": "大城小愛"
+          "nameKey": "大城小愛",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、K.Tee",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 6,
@@ -2598,7 +3053,12 @@
           "playsText": "2.4M plays",
           "duration": 287,
           "byOther": false,
-          "nameKey": "第一個清晨"
+          "nameKey": "第一個清晨",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 7,
@@ -2609,7 +3069,12 @@
           "playsText": "45K plays",
           "duration": 179,
           "byOther": false,
-          "nameKey": "哥兒們"
+          "nameKey": "哥兒們",
+          "credits": {
+            "lyrics": "王力宏、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 8,
@@ -2620,7 +3085,12 @@
           "playsText": "27K plays",
           "duration": 182,
           "byOther": false,
-          "nameKey": "讓開"
+          "nameKey": "讓開",
+          "credits": {
+            "lyrics": "王力宏、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 9,
@@ -2631,7 +3101,12 @@
           "playsText": "470K plays",
           "duration": 264,
           "byOther": false,
-          "nameKey": "愛因為在心中"
+          "nameKey": "愛因為在心中",
+          "credits": {
+            "lyrics": "紫焱龍、狗狗、修寶",
+            "music": "曹軒賓",
+            "arranger": "曹軒賓"
+          }
         },
         {
           "index": 10,
@@ -2746,7 +3221,12 @@
           "duration": 255,
           "byOther": false,
           "nameKey": "kissgoodbye#live",
-          "titleZh": "Kiss Goodbye (演奏版) (Live)"
+          "titleZh": "Kiss Goodbye (演奏版) (Live)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 6,
@@ -2792,7 +3272,11 @@
           "duration": 381,
           "byOther": false,
           "nameKey": "情敵貝多芬#live",
-          "titleZh": "情敵貝多芬 (Live)"
+          "titleZh": "情敵貝多芬 (Live)",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "洪晟文"
+          }
         },
         {
           "index": 10,
@@ -2804,7 +3288,12 @@
           "duration": 117,
           "byOther": false,
           "nameKey": "第一個清晨#live",
-          "titleZh": "第一個清晨 (Live)"
+          "titleZh": "第一個清晨 (Live)",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 11,
@@ -2838,7 +3327,11 @@
           "playsText": "2.2K plays",
           "duration": 241,
           "byOther": false,
-          "nameKey": "followme#live"
+          "nameKey": "followme#live",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 14,
@@ -2861,7 +3354,11 @@
           "duration": 273,
           "byOther": false,
           "nameKey": "一首簡單的歌#live",
-          "titleZh": "一首簡單的歌 (Live)"
+          "titleZh": "一首簡單的歌 (Live)",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 16,
@@ -2896,7 +3393,12 @@
           "playsText": "29K plays",
           "duration": 355,
           "byOther": false,
-          "nameKey": "lovelovelove#live"
+          "nameKey": "lovelovelove#live",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 19,
@@ -2908,7 +3410,12 @@
           "duration": 306,
           "byOther": false,
           "nameKey": "你不在#live",
-          "titleZh": "你不在 (Live)"
+          "titleZh": "你不在 (Live)",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 20,
@@ -2919,7 +3426,11 @@
           "playsText": "40K plays",
           "duration": 383,
           "byOther": false,
-          "nameKey": "foreverlove#live"
+          "nameKey": "foreverlove#live",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 21,
@@ -2942,7 +3453,12 @@
           "duration": 300,
           "byOther": false,
           "nameKey": "在梅邊#live",
-          "titleZh": "在梅邊 (Live)"
+          "titleZh": "在梅邊 (Live)",
+          "credits": {
+            "lyrics": "阿信 Rap：王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 23,
@@ -2954,7 +3470,12 @@
           "duration": 157,
           "byOther": false,
           "nameKey": "花田錯#live",
-          "titleZh": "花田錯 (Live)"
+          "titleZh": "花田錯 (Live)",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 24,
@@ -2966,7 +3487,12 @@
           "duration": 230,
           "byOther": false,
           "nameKey": "心中的日月#live",
-          "titleZh": "心中的日月 (Live)"
+          "titleZh": "心中的日月 (Live)",
+          "credits": {
+            "lyrics": "陳宇任",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 25,
@@ -2978,7 +3504,11 @@
           "duration": 298,
           "byOther": false,
           "nameKey": "在那遙遠的地方#live",
-          "titleZh": "在那遙遠的地方 (Live)"
+          "titleZh": "在那遙遠的地方 (Live)",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 26,
@@ -3042,7 +3572,12 @@
           "playsText": "2.4M plays",
           "duration": 287,
           "byOther": false,
-          "nameKey": "第一個清晨"
+          "nameKey": "第一個清晨",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 2,
@@ -3053,7 +3588,12 @@
           "playsText": "17M plays",
           "duration": 225,
           "byOther": false,
-          "nameKey": "大城小愛"
+          "nameKey": "大城小愛",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、K.Tee",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -3065,7 +3605,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -3094,7 +3639,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 2,
@@ -3105,7 +3655,11 @@
           "playsText": "25M plays",
           "duration": 293,
           "byOther": false,
-          "nameKey": "foreverlove"
+          "nameKey": "foreverlove",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -3116,7 +3670,12 @@
           "playsText": "17M plays",
           "duration": 225,
           "byOther": false,
-          "nameKey": "大城小愛"
+          "nameKey": "大城小愛",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、K.Tee",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -3144,7 +3703,11 @@
           "playsText": "12M plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "一首簡單的歌"
+          "nameKey": "一首簡單的歌",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 2,
@@ -3156,7 +3719,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 3,
@@ -3167,7 +3735,12 @@
           "playsText": "2.4M plays",
           "duration": 287,
           "byOther": false,
-          "nameKey": "第一個清晨"
+          "nameKey": "第一個清晨",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -3195,7 +3768,11 @@
           "playsText": "12M plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "一首簡單的歌"
+          "nameKey": "一首簡單的歌",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 2,
@@ -3206,7 +3783,12 @@
           "playsText": "2.4M plays",
           "duration": 287,
           "byOther": false,
-          "nameKey": "第一個清晨"
+          "nameKey": "第一個清晨",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 3,
@@ -3218,7 +3800,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -3257,7 +3844,12 @@
           "playsText": "350 plays",
           "duration": 260,
           "byOther": false,
-          "nameKey": "kissgoodbye"
+          "nameKey": "kissgoodbye",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -3313,7 +3905,12 @@
           "playsText": "46K plays",
           "duration": 32,
           "byOther": false,
-          "nameKey": "intro"
+          "nameKey": "intro",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 2,
@@ -3324,7 +3921,12 @@
           "playsText": "7.8M plays",
           "duration": 196,
           "byOther": false,
-          "nameKey": "改變自己"
+          "nameKey": "改變自己",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 3,
@@ -3335,7 +3937,12 @@
           "playsText": "11M plays",
           "duration": 316,
           "byOther": false,
-          "nameKey": "落葉歸根"
+          "nameKey": "落葉歸根",
+          "credits": {
+            "lyrics": "Kuang Y.M.",
+            "music": "Kuang Y.M.",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 4,
@@ -3357,7 +3964,12 @@
           "playsText": "16M plays",
           "duration": 247,
           "byOther": false,
-          "nameKey": "我們的歌"
+          "nameKey": "我們的歌",
+          "credits": {
+            "lyrics": "王力宏、陳信延",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 6,
@@ -3368,7 +3980,12 @@
           "playsText": "9.2M plays",
           "duration": 167,
           "byOther": false,
-          "nameKey": "你是我心內的一首歌"
+          "nameKey": "你是我心內的一首歌",
+          "credits": {
+            "lyrics": "丁曉雯",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 7,
@@ -3379,7 +3996,12 @@
           "playsText": "431K plays",
           "duration": 244,
           "byOther": false,
-          "nameKey": "愛在哪裡"
+          "nameKey": "愛在哪裡",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 8,
@@ -3390,7 +4012,12 @@
           "playsText": "283K plays",
           "duration": 282,
           "byOther": false,
-          "nameKey": "cockneygirl"
+          "nameKey": "cockneygirl",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 9,
@@ -3401,7 +4028,12 @@
           "playsText": "1.7M plays",
           "duration": 248,
           "byOther": false,
-          "nameKey": "不完整的旋律"
+          "nameKey": "不完整的旋律",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 10,
@@ -3412,7 +4044,12 @@
           "playsText": "24K plays",
           "duration": 212,
           "byOther": false,
-          "nameKey": "愛的鼓勵"
+          "nameKey": "愛的鼓勵",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 11,
@@ -3423,7 +4060,12 @@
           "playsText": "24K plays",
           "duration": 193,
           "byOther": false,
-          "nameKey": "華人萬歲#live"
+          "nameKey": "華人萬歲#live",
+          "credits": {
+            "lyrics": "王力宏、楊立鈦(E-Tum)",
+            "music": "王力宏、楊立鈦(E-Tum)",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 12,
@@ -3434,7 +4076,12 @@
           "playsText": "156K plays",
           "duration": 304,
           "byOther": false,
-          "nameKey": "星期六的深夜"
+          "nameKey": "星期六的深夜",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         }
       ],
       "releaseDate": "2007-07-13",
@@ -3463,7 +4110,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 2,
@@ -3474,7 +4126,12 @@
           "playsText": "17M plays",
           "duration": 225,
           "byOther": false,
-          "nameKey": "大城小愛"
+          "nameKey": "大城小愛",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、K.Tee",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -3485,7 +4142,11 @@
           "playsText": "25M plays",
           "duration": 293,
           "byOther": false,
-          "nameKey": "foreverlove"
+          "nameKey": "foreverlove",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -3514,6 +4175,10 @@
           "duration": 293,
           "byOther": false,
           "nameKey": "foreverlove",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          },
           "titleZh": "Forever Love"
         }
       ],
@@ -3543,6 +4208,10 @@
           "duration": 293,
           "byOther": false,
           "nameKey": "foreverlove",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          },
           "titleZh": "Forever Love"
         }
       ],
@@ -3572,6 +4241,11 @@
           "duration": 274,
           "byOther": false,
           "nameKey": "你不在",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          },
           "titleZh": "你不在"
         }
       ],
@@ -3600,7 +4274,11 @@
           "playsText": "1M plays",
           "duration": 186,
           "byOther": false,
-          "nameKey": "星座"
+          "nameKey": "星座",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -3611,7 +4289,11 @@
           "playsText": "50M plays",
           "duration": 239,
           "byOther": false,
-          "nameKey": "愛錯"
+          "nameKey": "愛錯",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -3622,7 +4304,12 @@
           "playsText": "18M plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "你不在"
+          "nameKey": "你不在",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -3651,6 +4338,11 @@
           "duration": 240,
           "byOther": false,
           "nameKey": "完美的互動",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、\"Hitman\"Bang",
+            "music": "王力宏、\"Hitman\"Bang",
+            "arranger": "王力宏"
+          },
           "titleZh": "完美的互動"
         }
       ],
@@ -3679,7 +4371,11 @@
           "playsText": "55K plays",
           "duration": 229,
           "byOther": false,
-          "nameKey": "愛得得體"
+          "nameKey": "愛得得體",
+          "credits": {
+            "lyrics": "王力宏, 陳鎮川, 李焯雄",
+            "music": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -3690,7 +4386,11 @@
           "playsText": "36M plays",
           "duration": 264,
           "byOther": false,
-          "nameKey": "心跳"
+          "nameKey": "心跳",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -3701,7 +4401,11 @@
           "playsText": "2.9M plays",
           "duration": 292,
           "byOther": false,
-          "nameKey": "春雨裡洗過的太陽"
+          "nameKey": "春雨裡洗過的太陽",
+          "credits": {
+            "lyrics": "王力宏, 易家揚, 王大中",
+            "music": "王力宏"
+          }
         },
         {
           "index": 4,
@@ -3712,7 +4416,11 @@
           "playsText": "2.9M plays",
           "duration": 300,
           "byOther": false,
-          "nameKey": "everything"
+          "nameKey": "everything",
+          "credits": {
+            "lyrics": "王力宏, 小寒",
+            "music": "王力宏"
+          }
         },
         {
           "index": 5,
@@ -3723,7 +4431,11 @@
           "playsText": "410K plays",
           "duration": 188,
           "byOther": false,
-          "nameKey": "我完全沒有任何理由理你"
+          "nameKey": "我完全沒有任何理由理你",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 6,
@@ -3734,7 +4446,11 @@
           "playsText": "12M plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "另一個天堂"
+          "nameKey": "另一個天堂",
+          "credits": {
+            "lyrics": "葛大為, 王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 7,
@@ -3745,7 +4461,11 @@
           "playsText": "42K plays",
           "duration": 178,
           "byOther": false,
-          "nameKey": "玩偶"
+          "nameKey": "玩偶",
+          "credits": {
+            "lyrics": "崔惟楷",
+            "music": "王力宏"
+          }
         },
         {
           "index": 8,
@@ -3756,7 +4476,11 @@
           "playsText": "腳本 - Screenplay",
           "duration": 253,
           "byOther": false,
-          "nameKey": "腳本"
+          "nameKey": "腳本",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          }
         },
         {
           "index": 9,
@@ -3767,7 +4491,11 @@
           "playsText": "41K plays",
           "duration": 246,
           "byOther": false,
-          "nameKey": "競爭對手"
+          "nameKey": "競爭對手",
+          "credits": {
+            "lyrics": "許常德",
+            "music": "王力宏"
+          }
         },
         {
           "index": 10,
@@ -3778,7 +4506,11 @@
           "playsText": "494K plays",
           "duration": 156,
           "byOther": false,
-          "nameKey": "搖滾怎麼了"
+          "nameKey": "搖滾怎麼了",
+          "credits": {
+            "lyrics": "王力宏, 王大中",
+            "music": "王力宏"
+          }
         }
       ],
       "releaseDate": "2008-12-26",
@@ -3807,6 +4539,10 @@
           "duration": 250,
           "byOther": false,
           "nameKey": "一首簡單的歌",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          },
           "titleZh": "一首簡單的歌"
         }
       ],
@@ -3835,7 +4571,11 @@
           "playsText": "495K plays",
           "duration": 156,
           "byOther": false,
-          "nameKey": "搖滾怎麼了"
+          "nameKey": "搖滾怎麼了",
+          "credits": {
+            "lyrics": "王力宏, 王大中",
+            "music": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -3868,7 +4608,11 @@
           "playsText": "40K plays",
           "duration": 298,
           "byOther": false,
-          "nameKey": "foreverlove#live"
+          "nameKey": "foreverlove#live",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 5,
@@ -3891,7 +4635,12 @@
           "duration": 258,
           "byOther": false,
           "nameKey": "kissgoodbye#live",
-          "titleZh": "Kiss Goodbye (演奏版) (Live)"
+          "titleZh": "Kiss Goodbye (演奏版) (Live)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 7,
@@ -3942,6 +4691,10 @@
           "duration": 293,
           "byOther": false,
           "nameKey": "foreverlove",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          },
           "titleZh": "Forever Love"
         }
       ],
@@ -3999,7 +4752,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 2,
@@ -4010,7 +4768,11 @@
           "playsText": "50M plays",
           "duration": 239,
           "byOther": false,
-          "nameKey": "愛錯"
+          "nameKey": "愛錯",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -4038,7 +4800,12 @@
           "playsText": "6.8M plays",
           "duration": 238,
           "byOther": false,
-          "nameKey": "心中的日月"
+          "nameKey": "心中的日月",
+          "credits": {
+            "lyrics": "陳宇任",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -4049,7 +4816,12 @@
           "playsText": "10M plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "花田錯"
+          "nameKey": "花田錯",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -4111,7 +4883,12 @@
           "duration": 208,
           "byOther": false,
           "nameKey": "花田錯#live",
-          "titleZh": "花田錯 (Live)"
+          "titleZh": "花田錯 (Live)",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 5,
@@ -4135,7 +4912,11 @@
           "duration": 244,
           "byOther": false,
           "nameKey": "愛錯#live",
-          "titleZh": "愛錯 (Live)"
+          "titleZh": "愛錯 (Live)",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 7,
@@ -4146,7 +4927,11 @@
           "playsText": "43K plays",
           "duration": 325,
           "byOther": false,
-          "nameKey": "foreverlove#live"
+          "nameKey": "foreverlove#live",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 8,
@@ -4169,7 +4954,12 @@
           "duration": 199,
           "byOther": false,
           "nameKey": "第一個清晨#live",
-          "titleZh": "第一個清晨 (Live)"
+          "titleZh": "第一個清晨 (Live)",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 10,
@@ -4205,7 +4995,11 @@
           "duration": 244,
           "byOther": false,
           "nameKey": "竹林深處#live",
-          "titleZh": "竹林深處 (Live)"
+          "titleZh": "竹林深處 (Live)",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 13,
@@ -4228,7 +5022,11 @@
           "duration": 189,
           "byOther": false,
           "nameKey": "愛得得體#live",
-          "titleZh": "愛得得體 (Live)"
+          "titleZh": "愛得得體 (Live)",
+          "credits": {
+            "lyrics": "王力宏, 陳鎮川, 李焯雄",
+            "music": "王力宏"
+          }
         },
         {
           "index": 15,
@@ -4240,7 +5038,12 @@
           "duration": 307,
           "byOther": false,
           "nameKey": "改變自己#live",
-          "titleZh": "改變自己 (Live)"
+          "titleZh": "改變自己 (Live)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 16,
@@ -4252,7 +5055,12 @@
           "duration": 328,
           "byOther": false,
           "nameKey": "落葉歸根#live",
-          "titleZh": "落葉歸根 (Live)"
+          "titleZh": "落葉歸根 (Live)",
+          "credits": {
+            "lyrics": "Kuang Y.M.",
+            "music": "Kuang Y.M.",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 17,
@@ -4264,7 +5072,11 @@
           "duration": 254,
           "byOther": false,
           "nameKey": "一首簡單的歌#live",
-          "titleZh": "一首簡單的歌 (Live)"
+          "titleZh": "一首簡單的歌 (Live)",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 18,
@@ -4276,7 +5088,12 @@
           "duration": 305,
           "byOther": false,
           "nameKey": "你不在#live",
-          "titleZh": "你不在 (Live)"
+          "titleZh": "你不在 (Live)",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 19,
@@ -4300,7 +5117,12 @@
           "duration": 273,
           "byOther": false,
           "nameKey": "愛的鼓勵#live",
-          "titleZh": "愛的鼓勵 (Live)"
+          "titleZh": "愛的鼓勵 (Live)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 21,
@@ -4311,7 +5133,12 @@
           "playsText": "64K plays",
           "duration": 180,
           "byOther": false,
-          "nameKey": "canyoufeelmyworld#live"
+          "nameKey": "canyoufeelmyworld#live",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 22,
@@ -4323,7 +5150,11 @@
           "duration": 147,
           "byOther": false,
           "nameKey": "我完全沒有任何理由理你#live",
-          "titleZh": "我完全沒有任何理由理你 (Live)"
+          "titleZh": "我完全沒有任何理由理你 (Live)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 23,
@@ -4335,7 +5166,12 @@
           "duration": 304,
           "byOther": false,
           "nameKey": "在梅邊#live",
-          "titleZh": "在梅邊 (Live)"
+          "titleZh": "在梅邊 (Live)",
+          "credits": {
+            "lyrics": "阿信 Rap：王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 24,
@@ -4347,7 +5183,12 @@
           "duration": 244,
           "byOther": false,
           "nameKey": "蓋世英雄#live",
-          "titleZh": "蓋世英雄 (Live)"
+          "titleZh": "蓋世英雄 (Live)",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、歐陽靖、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 25,
@@ -4359,7 +5200,12 @@
           "duration": 366,
           "byOther": false,
           "nameKey": "心中的日月#live",
-          "titleZh": "心中的日月 (Live)"
+          "titleZh": "心中的日月 (Live)",
+          "credits": {
+            "lyrics": "陳宇任",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 26,
@@ -4371,7 +5217,11 @@
           "duration": 157,
           "byOther": false,
           "nameKey": "放開你的心#live",
-          "titleZh": "放開你的心 (Live)"
+          "titleZh": "放開你的心 (Live)",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 27,
@@ -4404,7 +5254,11 @@
           "playsText": "30K plays",
           "duration": 130,
           "byOther": false,
-          "nameKey": "everything#live"
+          "nameKey": "everything#live",
+          "credits": {
+            "lyrics": "王力宏, 小寒",
+            "music": "王力宏"
+          }
         },
         {
           "index": 30,
@@ -4416,7 +5270,12 @@
           "duration": 267,
           "byOther": false,
           "nameKey": "kissgoodbye#live",
-          "titleZh": "Kiss Goodbye (演奏版) (Live)"
+          "titleZh": "Kiss Goodbye (演奏版) (Live)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 31,
@@ -4455,7 +5314,12 @@
           "playsText": "1.7M plays",
           "duration": 248,
           "byOther": false,
-          "nameKey": "不完整的旋律"
+          "nameKey": "不完整的旋律",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 2,
@@ -4466,7 +5330,12 @@
           "playsText": "9.2M plays",
           "duration": 167,
           "byOther": false,
-          "nameKey": "你是我心內的一首歌"
+          "nameKey": "你是我心內的一首歌",
+          "credits": {
+            "lyrics": "丁曉雯",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 3,
@@ -4477,7 +5346,12 @@
           "playsText": "16M plays",
           "duration": 247,
           "byOther": false,
-          "nameKey": "我們的歌"
+          "nameKey": "我們的歌",
+          "credits": {
+            "lyrics": "王力宏、陳信延",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 4,
@@ -4488,7 +5362,12 @@
           "playsText": "7.8M plays",
           "duration": 196,
           "byOther": false,
-          "nameKey": "改變自己"
+          "nameKey": "改變自己",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 5,
@@ -4499,7 +5378,11 @@
           "playsText": "25M plays",
           "duration": 293,
           "byOther": false,
-          "nameKey": "foreverlove"
+          "nameKey": "foreverlove",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 6,
@@ -4510,7 +5393,12 @@
           "playsText": "17M plays",
           "duration": 225,
           "byOther": false,
-          "nameKey": "大城小愛"
+          "nameKey": "大城小愛",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、K.Tee",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 7,
@@ -4521,7 +5409,12 @@
           "playsText": "2M plays",
           "duration": 279,
           "byOther": false,
-          "nameKey": "你和我"
+          "nameKey": "你和我",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 8,
@@ -4533,7 +5426,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 9,
@@ -4544,7 +5442,11 @@
           "playsText": "12M plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "一首簡單的歌"
+          "nameKey": "一首簡單的歌",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 10,
@@ -4555,7 +5457,12 @@
           "playsText": "764K plays",
           "duration": 205,
           "byOther": false,
-          "nameKey": "此刻你心裡想起誰"
+          "nameKey": "此刻你心裡想起誰",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 11,
@@ -4566,7 +5473,12 @@
           "playsText": "3.1M plays",
           "duration": 219,
           "byOther": false,
-          "nameKey": "蓋世英雄"
+          "nameKey": "蓋世英雄",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、歐陽靖、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 12,
@@ -4577,7 +5489,11 @@
           "playsText": "494K plays",
           "duration": 156,
           "byOther": false,
-          "nameKey": "搖滾怎麼了"
+          "nameKey": "搖滾怎麼了",
+          "credits": {
+            "lyrics": "王力宏, 王大中",
+            "music": "王力宏"
+          }
         },
         {
           "index": 13,
@@ -4588,7 +5504,11 @@
           "playsText": "50M plays",
           "duration": 239,
           "byOther": false,
-          "nameKey": "愛錯"
+          "nameKey": "愛錯",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 14,
@@ -4599,7 +5519,12 @@
           "playsText": "2.1M plays",
           "duration": 295,
           "byOther": false,
-          "nameKey": "canyoufeelmyworld"
+          "nameKey": "canyoufeelmyworld",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 15,
@@ -4610,7 +5535,11 @@
           "playsText": "42K plays",
           "duration": 178,
           "byOther": false,
-          "nameKey": "玩偶"
+          "nameKey": "玩偶",
+          "credits": {
+            "lyrics": "崔惟楷",
+            "music": "王力宏"
+          }
         },
         {
           "index": 16,
@@ -4621,7 +5550,12 @@
           "playsText": "789K plays",
           "duration": 277,
           "byOther": false,
-          "nameKey": "在梅邊"
+          "nameKey": "在梅邊",
+          "credits": {
+            "lyrics": "阿信 Rap：王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 17,
@@ -4632,7 +5566,11 @@
           "playsText": "12M plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "另一個天堂"
+          "nameKey": "另一個天堂",
+          "credits": {
+            "lyrics": "葛大為, 王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 18,
@@ -4643,7 +5581,12 @@
           "playsText": "6.8M plays",
           "duration": 238,
           "byOther": false,
-          "nameKey": "心中的日月"
+          "nameKey": "心中的日月",
+          "credits": {
+            "lyrics": "陳宇任",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 19,
@@ -4654,7 +5597,12 @@
           "playsText": "18M plays",
           "duration": 274,
           "byOther": false,
-          "nameKey": "你不在"
+          "nameKey": "你不在",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 20,
@@ -4665,7 +5613,12 @@
           "playsText": "10M plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "花田錯"
+          "nameKey": "花田錯",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 21,
@@ -4676,7 +5629,11 @@
           "playsText": "36M plays",
           "duration": 264,
           "byOther": false,
-          "nameKey": "心跳"
+          "nameKey": "心跳",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -4704,7 +5661,12 @@
           "playsText": "6.8M plays",
           "duration": 238,
           "byOther": false,
-          "nameKey": "心中的日月"
+          "nameKey": "心中的日月",
+          "credits": {
+            "lyrics": "陳宇任",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -4715,7 +5677,12 @@
           "playsText": "156K plays",
           "duration": 304,
           "byOther": false,
-          "nameKey": "星期六的深夜"
+          "nameKey": "星期六的深夜",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         }
       ],
       "releaseDate": null,
@@ -4744,7 +5711,12 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 2,
@@ -4755,7 +5727,11 @@
           "playsText": "36M plays",
           "duration": 264,
           "byOther": false,
-          "nameKey": "心跳"
+          "nameKey": "心跳",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -4783,7 +5759,11 @@
           "playsText": "494K plays",
           "duration": 156,
           "byOther": false,
-          "nameKey": "搖滾怎麼了"
+          "nameKey": "搖滾怎麼了",
+          "credits": {
+            "lyrics": "王力宏, 王大中",
+            "music": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -4794,7 +5774,11 @@
           "playsText": "55K plays",
           "duration": 229,
           "byOther": false,
-          "nameKey": "愛得得體"
+          "nameKey": "愛得得體",
+          "credits": {
+            "lyrics": "王力宏, 陳鎮川, 李焯雄",
+            "music": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -4822,7 +5806,12 @@
           "playsText": "13K plays",
           "duration": 124,
           "byOther": false,
-          "nameKey": "dragondance"
+          "nameKey": "dragondance",
+          "credits": {
+            "lyrics": "陶山Skot Suyama、梁永泰(Terrytyelee)、王力宏",
+            "music": "陶山Skot Suyama、梁永泰(Terrytyelee)、陳奐仁、王力宏",
+            "arranger": "陶山Skot Suyama"
+          }
         },
         {
           "index": 2,
@@ -4833,7 +5822,12 @@
           "playsText": "69K plays",
           "duration": 196,
           "byOther": false,
-          "nameKey": "杜uloveme"
+          "nameKey": "杜uloveme",
+          "credits": {
+            "lyrics": "王力宏、崔惟楷",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "陶山Skot Suyama/Terrytyelee/劉佳"
+          }
         },
         {
           "index": 3,
@@ -4844,7 +5838,12 @@
           "playsText": "1.1M plays",
           "duration": 231,
           "byOther": false,
-          "nameKey": "18般武藝"
+          "nameKey": "18般武藝",
+          "credits": {
+            "lyrics": "王力宏、崔惟楷",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 4,
@@ -4855,7 +5854,12 @@
           "playsText": "53M plays",
           "duration": 279,
           "byOther": false,
-          "nameKey": "你不知道的事"
+          "nameKey": "你不知道的事",
+          "credits": {
+            "lyrics": "王力宏、瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆/Nathan Wang"
+          }
         },
         {
           "index": 5,
@@ -4866,7 +5870,12 @@
           "playsText": "2.3M plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "伯牙絕弦"
+          "nameKey": "伯牙絕弦",
+          "credits": {
+            "lyrics": "五月天阿信、八三夭阿璞",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 6,
@@ -4877,7 +5886,12 @@
           "playsText": "3.1M plays",
           "duration": 233,
           "byOther": false,
-          "nameKey": "柴米油鹽醬醋茶"
+          "nameKey": "柴米油鹽醬醋茶",
+          "credits": {
+            "lyrics": "徐若瑄",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "Mac Chew"
+          }
         },
         {
           "index": 7,
@@ -4899,7 +5913,12 @@
           "playsText": "8.8M plays",
           "duration": 252,
           "byOther": false,
-          "nameKey": "需要人陪"
+          "nameKey": "需要人陪",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 9,
@@ -4910,7 +5929,12 @@
           "playsText": "530K plays",
           "duration": 278,
           "byOther": false,
-          "nameKey": "天涯海角"
+          "nameKey": "天涯海角",
+          "credits": {
+            "lyrics": "王力宏、小牛",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 10,
@@ -4921,7 +5945,12 @@
           "playsText": "8.4K plays",
           "duration": 67,
           "byOther": false,
-          "nameKey": "你不知道的事"
+          "nameKey": "你不知道的事",
+          "credits": {
+            "lyrics": "王力宏、瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆/Nathan Wang"
+          }
         },
         {
           "index": 11,
@@ -4932,7 +5961,12 @@
           "playsText": "84K plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "自己人"
+          "nameKey": "自己人",
+          "credits": {
+            "lyrics": "王力宏、崔惟楷",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "洪敬堯"
+          }
         }
       ],
       "releaseDate": "2010-08-13",
@@ -4960,7 +5994,11 @@
           "playsText": "36M plays",
           "duration": 264,
           "byOther": false,
-          "nameKey": "心跳"
+          "nameKey": "心跳",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -4971,7 +6009,12 @@
           "playsText": "9.2M plays",
           "duration": 167,
           "byOther": false,
-          "nameKey": "你是我心內的一首歌"
+          "nameKey": "你是我心內的一首歌",
+          "credits": {
+            "lyrics": "丁曉雯",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -4999,7 +6042,11 @@
           "playsText": "12M plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "另一個天堂"
+          "nameKey": "另一個天堂",
+          "credits": {
+            "lyrics": "葛大為, 王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -5010,7 +6057,11 @@
           "playsText": "25M plays",
           "duration": 293,
           "byOther": false,
-          "nameKey": "foreverlove"
+          "nameKey": "foreverlove",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -5021,7 +6072,12 @@
           "playsText": "9.2M plays",
           "duration": 167,
           "byOther": false,
-          "nameKey": "你是我心內的一首歌"
+          "nameKey": "你是我心內的一首歌",
+          "credits": {
+            "lyrics": "丁曉雯",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 4,
@@ -5032,7 +6088,11 @@
           "playsText": "12M plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "一首簡單的歌"
+          "nameKey": "一首簡單的歌",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 5,
@@ -5043,7 +6103,12 @@
           "playsText": "17M plays",
           "duration": 225,
           "byOther": false,
-          "nameKey": "大城小愛"
+          "nameKey": "大城小愛",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、K.Tee",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -5072,6 +6137,10 @@
           "duration": 250,
           "byOther": false,
           "nameKey": "一首簡單的歌",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          },
           "titleZh": "一首簡單的歌"
         }
       ],
@@ -5122,7 +6191,12 @@
           "playsText": "3.1M plays",
           "duration": 218,
           "byOther": false,
-          "nameKey": "蓋世英雄"
+          "nameKey": "蓋世英雄",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、歐陽靖、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 4,
@@ -5133,7 +6207,12 @@
           "playsText": "53M plays",
           "duration": 279,
           "byOther": false,
-          "nameKey": "你不知道的事"
+          "nameKey": "你不知道的事",
+          "credits": {
+            "lyrics": "王力宏、瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆/Nathan Wang"
+          }
         },
         {
           "index": 5,
@@ -5144,7 +6223,12 @@
           "playsText": "7.8M plays",
           "duration": 196,
           "byOther": false,
-          "nameKey": "改變自己"
+          "nameKey": "改變自己",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 6,
@@ -5156,7 +6240,12 @@
           "duration": 259,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 7,
@@ -5167,7 +6256,12 @@
           "playsText": "18M plays",
           "duration": 276,
           "byOther": false,
-          "nameKey": "你不在"
+          "nameKey": "你不在",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 8,
@@ -5178,7 +6272,12 @@
           "playsText": "25K plays",
           "duration": 231,
           "byOther": false,
-          "nameKey": "lovelovelove"
+          "nameKey": "lovelovelove",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 9,
@@ -5189,7 +6288,12 @@
           "playsText": "10M plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "花田錯"
+          "nameKey": "花田錯",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 10,
@@ -5200,7 +6304,11 @@
           "playsText": "50M plays",
           "duration": 240,
           "byOther": false,
-          "nameKey": "愛錯"
+          "nameKey": "愛錯",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 11,
@@ -5222,7 +6330,11 @@
           "playsText": "1M plays",
           "duration": 188,
           "byOther": false,
-          "nameKey": "星座"
+          "nameKey": "星座",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 13,
@@ -5233,7 +6345,11 @@
           "playsText": "25M plays",
           "duration": 295,
           "byOther": false,
-          "nameKey": "foreverlove"
+          "nameKey": "foreverlove",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 14,
@@ -5244,7 +6360,11 @@
           "playsText": "12M plays",
           "duration": 250,
           "byOther": false,
-          "nameKey": "一首簡單的歌"
+          "nameKey": "一首簡單的歌",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 15,
@@ -5255,7 +6375,11 @@
           "playsText": "36M plays",
           "duration": 263,
           "byOther": false,
-          "nameKey": "心跳"
+          "nameKey": "心跳",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          }
         },
         {
           "index": 16,
@@ -5266,7 +6390,12 @@
           "playsText": "17M plays",
           "duration": 228,
           "byOther": false,
-          "nameKey": "大城小愛"
+          "nameKey": "大城小愛",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、K.Tee",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 17,
@@ -5277,7 +6406,12 @@
           "playsText": "6.8M plays",
           "duration": 238,
           "byOther": false,
-          "nameKey": "心中的日月"
+          "nameKey": "心中的日月",
+          "credits": {
+            "lyrics": "陳宇任",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 18,
@@ -5288,7 +6422,12 @@
           "playsText": "764K plays",
           "duration": 209,
           "byOther": false,
-          "nameKey": "此刻你心裡想起誰"
+          "nameKey": "此刻你心裡想起誰",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 19,
@@ -5299,7 +6438,12 @@
           "playsText": "2.1M plays",
           "duration": 296,
           "byOther": false,
-          "nameKey": "canyoufeelmyworld"
+          "nameKey": "canyoufeelmyworld",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 20,
@@ -5310,7 +6454,12 @@
           "playsText": "11M plays",
           "duration": 316,
           "byOther": false,
-          "nameKey": "落葉歸根"
+          "nameKey": "落葉歸根",
+          "credits": {
+            "lyrics": "Kuang Y.M.",
+            "music": "Kuang Y.M.",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 21,
@@ -5321,7 +6470,12 @@
           "playsText": "9.3M plays",
           "duration": 168,
           "byOther": false,
-          "nameKey": "你是我心內的一首歌"
+          "nameKey": "你是我心內的一首歌",
+          "credits": {
+            "lyrics": "丁曉雯",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 22,
@@ -5332,7 +6486,11 @@
           "playsText": "2.9M plays",
           "duration": 293,
           "byOther": false,
-          "nameKey": "春雨裡洗過的太陽"
+          "nameKey": "春雨裡洗過的太陽",
+          "credits": {
+            "lyrics": "王力宏, 易家揚, 王大中",
+            "music": "王力宏"
+          }
         },
         {
           "index": 23,
@@ -5343,7 +6501,11 @@
           "playsText": "12M plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "另一個天堂"
+          "nameKey": "另一個天堂",
+          "credits": {
+            "lyrics": "葛大為, 王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 24,
@@ -5382,7 +6544,11 @@
           "playsText": "495K plays",
           "duration": 156,
           "byOther": false,
-          "nameKey": "搖滾怎麼了"
+          "nameKey": "搖滾怎麼了",
+          "credits": {
+            "lyrics": "王力宏, 王大中",
+            "music": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -5393,7 +6559,11 @@
           "playsText": "12M plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "另一個天堂"
+          "nameKey": "另一個天堂",
+          "credits": {
+            "lyrics": "葛大為, 王力宏",
+            "music": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -5446,7 +6616,12 @@
           "duration": 217,
           "byOther": false,
           "nameKey": "蓋世英雄",
-          "titleZh": "蓋世英雄"
+          "titleZh": "蓋世英雄",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、歐陽靖、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 4,
@@ -5458,7 +6633,12 @@
           "duration": 277,
           "byOther": false,
           "nameKey": "你不知道的事",
-          "titleZh": "你不知道的事"
+          "titleZh": "你不知道的事",
+          "credits": {
+            "lyrics": "王力宏、瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆/Nathan Wang"
+          }
         },
         {
           "index": 5,
@@ -5470,7 +6650,12 @@
           "duration": 195,
           "byOther": false,
           "nameKey": "改變自己",
-          "titleZh": "改變自己"
+          "titleZh": "改變自己",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏（以下註明例外曲目）"
+          }
         },
         {
           "index": 6,
@@ -5482,7 +6667,12 @@
           "duration": 258,
           "byOther": false,
           "nameKey": "kissgoodbye",
-          "titleZh": "Kiss Goodbye (演奏版)"
+          "titleZh": "Kiss Goodbye (演奏版)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 7,
@@ -5506,7 +6696,12 @@
           "duration": 274,
           "byOther": false,
           "nameKey": "你不在",
-          "titleZh": "你不在"
+          "titleZh": "你不在",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 9,
@@ -5517,7 +6712,12 @@
           "playsText": null,
           "duration": 230,
           "byOther": false,
-          "nameKey": "lovelovelove"
+          "nameKey": "lovelovelove",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 10,
@@ -5529,7 +6729,12 @@
           "duration": 227,
           "byOther": false,
           "nameKey": "花田錯",
-          "titleZh": "花田錯"
+          "titleZh": "花田錯",
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 11,
@@ -5541,7 +6746,11 @@
           "duration": 238,
           "byOther": false,
           "nameKey": "愛錯",
-          "titleZh": "愛錯"
+          "titleZh": "愛錯",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 12,
@@ -5564,7 +6773,11 @@
           "duration": 187,
           "byOther": false,
           "nameKey": "星座",
-          "titleZh": "星座"
+          "titleZh": "星座",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 14,
@@ -5575,7 +6788,11 @@
           "playsText": null,
           "duration": 295,
           "byOther": false,
-          "nameKey": "foreverlove"
+          "nameKey": "foreverlove",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 15,
@@ -5611,7 +6828,11 @@
           "duration": 248,
           "byOther": false,
           "nameKey": "一首簡單的歌",
-          "titleZh": "一首簡單的歌"
+          "titleZh": "一首簡單的歌",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 18,
@@ -5623,7 +6844,11 @@
           "duration": 262,
           "byOther": false,
           "nameKey": "心跳",
-          "titleZh": "心跳"
+          "titleZh": "心跳",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          }
         },
         {
           "index": 19,
@@ -5646,7 +6871,12 @@
           "duration": 236,
           "byOther": false,
           "nameKey": "心中的日月",
-          "titleZh": "心中的日月"
+          "titleZh": "心中的日月",
+          "credits": {
+            "lyrics": "陳宇任",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 21,
@@ -5679,7 +6909,12 @@
           "playsText": null,
           "duration": 294,
           "byOther": false,
-          "nameKey": "canyoufeelmyworld"
+          "nameKey": "canyoufeelmyworld",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 24,
@@ -5691,7 +6926,12 @@
           "duration": 314,
           "byOther": false,
           "nameKey": "落葉歸根",
-          "titleZh": "落葉歸根"
+          "titleZh": "落葉歸根",
+          "credits": {
+            "lyrics": "Kuang Y.M.",
+            "music": "Kuang Y.M.",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 25,
@@ -5703,7 +6943,12 @@
           "duration": 166,
           "byOther": false,
           "nameKey": "你是我心內的一首歌",
-          "titleZh": "你是我心內的一首歌"
+          "titleZh": "你是我心內的一首歌",
+          "credits": {
+            "lyrics": "丁曉雯",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 26,
@@ -5715,7 +6960,11 @@
           "duration": 291,
           "byOther": false,
           "nameKey": "春雨裡洗過的太陽",
-          "titleZh": "春雨裡洗過的太陽"
+          "titleZh": "春雨裡洗過的太陽",
+          "credits": {
+            "lyrics": "王力宏, 易家揚, 王大中",
+            "music": "王力宏"
+          }
         },
         {
           "index": 27,
@@ -5727,6 +6976,10 @@
           "duration": 265,
           "byOther": false,
           "nameKey": "另一個天堂",
+          "credits": {
+            "lyrics": "葛大為, 王力宏",
+            "music": "王力宏"
+          },
           "titleZh": "另一個天堂"
         },
         {
@@ -5777,7 +7030,12 @@
           "playsText": "53M plays",
           "duration": 279,
           "byOther": false,
-          "nameKey": "你不知道的事"
+          "nameKey": "你不知道的事",
+          "credits": {
+            "lyrics": "王力宏、瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆/Nathan Wang"
+          }
         },
         {
           "index": 2,
@@ -5788,7 +7046,12 @@
           "playsText": "8.8M plays",
           "duration": 252,
           "byOther": false,
-          "nameKey": "需要人陪"
+          "nameKey": "需要人陪",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -5817,6 +7080,11 @@
           "duration": 219,
           "byOther": false,
           "nameKey": "蓋世英雄",
+          "credits": {
+            "lyrics": "王力宏、陳鎮川、歐陽靖、崔惟楷",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          },
           "titleZh": "蓋世英雄"
         }
       ],
@@ -5845,7 +7113,10 @@
           "playsText": "3.9M plays",
           "duration": 203,
           "byOther": false,
-          "nameKey": "12生肖"
+          "nameKey": "12生肖",
+          "credits": {
+            "arranger": "王力宏"
+          }
         }
       ],
       "releaseDate": "2012-12-07",
@@ -5902,6 +7173,11 @@
           "duration": 307,
           "byOther": false,
           "nameKey": "愛一點",
+          "credits": {
+            "lyrics": "李斌",
+            "music": "莫豔琳",
+            "arranger": "莫豔琳、王力宏"
+          },
           "titleZh": "愛一點"
         }
       ],
@@ -5930,7 +7206,12 @@
           "playsText": "53M plays",
           "duration": 279,
           "byOther": false,
-          "nameKey": "你不知道的事"
+          "nameKey": "你不知道的事",
+          "credits": {
+            "lyrics": "王力宏、瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆/Nathan Wang"
+          }
         },
         {
           "index": 2,
@@ -5941,7 +7222,12 @@
           "playsText": "9.2M plays",
           "duration": 167,
           "byOther": false,
-          "nameKey": "你是我心內的一首歌"
+          "nameKey": "你是我心內的一首歌",
+          "credits": {
+            "lyrics": "丁曉雯",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -5970,6 +7256,10 @@
           "duration": 267,
           "byOther": false,
           "nameKey": "另一個天堂",
+          "credits": {
+            "lyrics": "葛大為, 王力宏",
+            "music": "王力宏"
+          },
           "titleZh": "另一個天堂"
         }
       ],
@@ -6009,7 +7299,11 @@
           "playsText": "495K plays",
           "duration": 156,
           "byOther": false,
-          "nameKey": "搖滾怎麼了"
+          "nameKey": "搖滾怎麼了",
+          "credits": {
+            "lyrics": "王力宏, 王大中",
+            "music": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -6037,7 +7331,11 @@
           "playsText": "12M plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "另一個天堂"
+          "nameKey": "另一個天堂",
+          "credits": {
+            "lyrics": "葛大為, 王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -6048,7 +7346,12 @@
           "playsText": "3.1M plays",
           "duration": 233,
           "byOther": false,
-          "nameKey": "柴米油鹽醬醋茶"
+          "nameKey": "柴米油鹽醬醋茶",
+          "credits": {
+            "lyrics": "徐若瑄",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "Mac Chew"
+          }
         },
         {
           "index": 3,
@@ -6059,7 +7362,12 @@
           "playsText": "9.2M plays",
           "duration": 167,
           "byOther": false,
-          "nameKey": "你是我心內的一首歌"
+          "nameKey": "你是我心內的一首歌",
+          "credits": {
+            "lyrics": "丁曉雯",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -6087,7 +7395,11 @@
           "playsText": "12M plays",
           "duration": 267,
           "byOther": false,
-          "nameKey": "另一個天堂"
+          "nameKey": "另一個天堂",
+          "credits": {
+            "lyrics": "葛大為, 王力宏",
+            "music": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -6098,7 +7410,12 @@
           "playsText": "9.2M plays",
           "duration": 167,
           "byOther": false,
-          "nameKey": "你是我心內的一首歌"
+          "nameKey": "你是我心內的一首歌",
+          "credits": {
+            "lyrics": "丁曉雯",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         }
       ],
       "releaseDate": null,
@@ -6127,6 +7444,10 @@
           "duration": 264,
           "byOther": false,
           "nameKey": "心跳",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          },
           "titleZh": "心跳"
         }
       ],
@@ -6311,7 +7632,12 @@
           "playsText": "69K plays",
           "duration": 45,
           "byOther": false,
-          "nameKey": "前奏"
+          "nameKey": "前奏",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -6322,7 +7648,12 @@
           "playsText": "2.6M plays",
           "duration": 242,
           "byOther": false,
-          "nameKey": "天飜地覆"
+          "nameKey": "天飜地覆",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏/Mick Guzauski"
+          }
         },
         {
           "index": 3,
@@ -6333,7 +7664,12 @@
           "playsText": "5.6M plays",
           "duration": 264,
           "byOther": false,
-          "nameKey": "裂心"
+          "nameKey": "裂心",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 4,
@@ -6344,7 +7680,12 @@
           "playsText": "3M plays",
           "duration": 287,
           "byOther": false,
-          "nameKey": "忘我"
+          "nameKey": "忘我",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏、Tim Bergling、Vincent Pontare、Salem Al Fakir",
+            "arranger": "王力宏、Avicii"
+          }
         },
         {
           "index": 5,
@@ -6355,7 +7696,12 @@
           "playsText": "15M plays",
           "duration": 232,
           "byOther": false,
-          "nameKey": "你的愛"
+          "nameKey": "你的愛",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 6,
@@ -6366,7 +7712,12 @@
           "playsText": "8.5M plays",
           "duration": 271,
           "byOther": false,
-          "nameKey": "就是現在"
+          "nameKey": "就是現在",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、劉佳、宮閣/Mick Guzauski"
+          }
         },
         {
           "index": 7,
@@ -6377,7 +7728,12 @@
           "playsText": "3.4M plays",
           "duration": 230,
           "byOther": false,
-          "nameKey": "70億分之一"
+          "nameKey": "70億分之一",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏/Mick Guzauski"
+          }
         },
         {
           "index": 8,
@@ -6388,7 +7744,12 @@
           "playsText": "113K plays",
           "duration": 241,
           "byOther": false,
-          "nameKey": "inyoureyes"
+          "nameKey": "inyoureyes",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 9,
@@ -6399,7 +7760,12 @@
           "playsText": "79K plays",
           "duration": 223,
           "byOther": false,
-          "nameKey": "保護"
+          "nameKey": "保護",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 10,
@@ -6410,7 +7776,12 @@
           "playsText": "3.3M plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "夢寐以求"
+          "nameKey": "夢寐以求",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Far East Movement/Far East Movement、王力宏"
+          }
         },
         {
           "index": 11,
@@ -6421,7 +7792,12 @@
           "playsText": "26K plays",
           "duration": 185,
           "byOther": false,
-          "nameKey": "微博控"
+          "nameKey": "微博控",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Far East Movement"
+          }
         },
         {
           "index": 12,
@@ -6432,7 +7808,12 @@
           "playsText": "8.1M plays",
           "duration": 307,
           "byOther": false,
-          "nameKey": "愛一點"
+          "nameKey": "愛一點",
+          "credits": {
+            "lyrics": "李斌",
+            "music": "莫豔琳",
+            "arranger": "莫豔琳、王力宏"
+          }
         },
         {
           "index": 13,
@@ -6443,7 +7824,12 @@
           "playsText": "2.3K plays",
           "duration": 269,
           "byOther": false,
-          "nameKey": "忘我"
+          "nameKey": "忘我",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏、Tim Bergling、Vincent Pontare、Salem Al Fakir",
+            "arranger": "王力宏、Avicii"
+          }
         }
       ],
       "releaseDate": "2015-01-23",
@@ -6471,7 +7857,12 @@
           "playsText": "69K plays",
           "duration": 46,
           "byOther": false,
-          "nameKey": "前奏"
+          "nameKey": "前奏",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -6482,7 +7873,12 @@
           "playsText": "2.6M plays",
           "duration": 242,
           "byOther": false,
-          "nameKey": "天飜地覆"
+          "nameKey": "天飜地覆",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏/Mick Guzauski"
+          }
         },
         {
           "index": 3,
@@ -6493,7 +7889,12 @@
           "playsText": "5.6M plays",
           "duration": 264,
           "byOther": false,
-          "nameKey": "裂心"
+          "nameKey": "裂心",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 4,
@@ -6504,7 +7905,12 @@
           "playsText": "3M plays",
           "duration": 287,
           "byOther": false,
-          "nameKey": "忘我"
+          "nameKey": "忘我",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏、Tim Bergling、Vincent Pontare、Salem Al Fakir",
+            "arranger": "王力宏、Avicii"
+          }
         },
         {
           "index": 5,
@@ -6515,7 +7921,12 @@
           "playsText": "15M plays",
           "duration": 231,
           "byOther": false,
-          "nameKey": "你的愛"
+          "nameKey": "你的愛",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 6,
@@ -6526,7 +7937,12 @@
           "playsText": "8.5M plays",
           "duration": 271,
           "byOther": false,
-          "nameKey": "就是現在"
+          "nameKey": "就是現在",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、劉佳、宮閣/Mick Guzauski"
+          }
         },
         {
           "index": 7,
@@ -6537,7 +7953,12 @@
           "playsText": "3.4M plays",
           "duration": 230,
           "byOther": false,
-          "nameKey": "70億分之一"
+          "nameKey": "70億分之一",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏/Mick Guzauski"
+          }
         },
         {
           "index": 8,
@@ -6548,7 +7969,12 @@
           "playsText": "113K plays",
           "duration": 241,
           "byOther": false,
-          "nameKey": "inyoureyes"
+          "nameKey": "inyoureyes",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 9,
@@ -6559,7 +7985,12 @@
           "playsText": "79K plays",
           "duration": 223,
           "byOther": false,
-          "nameKey": "保護"
+          "nameKey": "保護",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 10,
@@ -6570,7 +8001,12 @@
           "playsText": "3.3M plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "夢寐以求"
+          "nameKey": "夢寐以求",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Far East Movement/Far East Movement、王力宏"
+          }
         },
         {
           "index": 11,
@@ -6581,7 +8017,12 @@
           "playsText": "26K plays",
           "duration": 185,
           "byOther": false,
-          "nameKey": "微博控"
+          "nameKey": "微博控",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "Far East Movement"
+          }
         },
         {
           "index": 12,
@@ -6592,7 +8033,12 @@
           "playsText": "8.1M plays",
           "duration": 307,
           "byOther": false,
-          "nameKey": "愛一點"
+          "nameKey": "愛一點",
+          "credits": {
+            "lyrics": "李斌",
+            "music": "莫豔琳",
+            "arranger": "莫豔琳、王力宏"
+          }
         },
         {
           "index": 13,
@@ -6603,7 +8049,12 @@
           "playsText": "48K plays",
           "duration": 269,
           "byOther": false,
-          "nameKey": "忘我"
+          "nameKey": "忘我",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏、Tim Bergling、Vincent Pontare、Salem Al Fakir",
+            "arranger": "王力宏、Avicii"
+          }
         }
       ],
       "releaseDate": "2015-01-23",
@@ -6631,7 +8082,11 @@
           "playsText": "39K plays",
           "duration": 215,
           "byOther": false,
-          "nameKey": "foreverlove#live"
+          "nameKey": "foreverlove#live",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -6769,7 +8224,12 @@
           "playsText": "53M plays",
           "duration": 279,
           "byOther": false,
-          "nameKey": "你不知道的事"
+          "nameKey": "你不知道的事",
+          "credits": {
+            "lyrics": "王力宏、瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆/Nathan Wang"
+          }
         },
         {
           "index": 2,
@@ -6780,7 +8240,11 @@
           "playsText": "36M plays",
           "duration": 263,
           "byOther": false,
-          "nameKey": "心跳"
+          "nameKey": "心跳",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -6791,7 +8255,12 @@
           "playsText": "11M plays",
           "duration": 316,
           "byOther": false,
-          "nameKey": "落葉歸根"
+          "nameKey": "落葉歸根",
+          "credits": {
+            "lyrics": "Kuang Y.M.",
+            "music": "Kuang Y.M.",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 4,
@@ -6802,7 +8271,12 @@
           "playsText": "8.8M plays",
           "duration": 249,
           "byOther": false,
-          "nameKey": "需要人陪"
+          "nameKey": "需要人陪",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         }
       ],
       "releaseDate": "2015-07-24",
@@ -6855,7 +8329,12 @@
           "duration": 279,
           "byOther": false,
           "nameKey": "你不知道的事",
-          "titleZh": "你不知道的事"
+          "titleZh": "你不知道的事",
+          "credits": {
+            "lyrics": "王力宏、瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆/Nathan Wang"
+          }
         },
         {
           "index": 4,
@@ -6879,7 +8358,11 @@
           "duration": 218,
           "byOther": false,
           "nameKey": "情敵貝多芬",
-          "titleZh": "情敵貝多芬 (Live)"
+          "titleZh": "情敵貝多芬 (Live)",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "洪晟文"
+          }
         },
         {
           "index": 6,
@@ -6903,7 +8386,11 @@
           "duration": 263,
           "byOther": false,
           "nameKey": "心跳",
-          "titleZh": "心跳"
+          "titleZh": "心跳",
+          "credits": {
+            "lyrics": "王力宏, 易家揚",
+            "music": "王力宏"
+          }
         },
         {
           "index": 8,
@@ -6915,7 +8402,12 @@
           "duration": 316,
           "byOther": false,
           "nameKey": "落葉歸根",
-          "titleZh": "落葉歸根"
+          "titleZh": "落葉歸根",
+          "credits": {
+            "lyrics": "Kuang Y.M.",
+            "music": "Kuang Y.M.",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 9,
@@ -6972,7 +8464,12 @@
           "duration": 249,
           "byOther": false,
           "nameKey": "需要人陪",
-          "titleZh": "需要人陪"
+          "titleZh": "需要人陪",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 14,
@@ -7028,7 +8525,12 @@
           "duration": 307,
           "byOther": false,
           "nameKey": "你不在#live",
-          "titleZh": "你不在 (Live)"
+          "titleZh": "你不在 (Live)",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 19,
@@ -7063,7 +8565,12 @@
           "duration": 258,
           "byOther": false,
           "nameKey": "kissgoodbye#live",
-          "titleZh": "Kiss Goodbye (演奏版) (Live)"
+          "titleZh": "Kiss Goodbye (演奏版) (Live)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         },
         {
           "index": 22,
@@ -7085,7 +8592,11 @@
           "playsText": "44K plays",
           "duration": 292,
           "byOther": false,
-          "nameKey": "lovemetender"
+          "nameKey": "lovemetender",
+          "credits": {
+            "lyrics": "Vera Matson/Elvis Presley",
+            "music": "Vera Matson/Elvis Presley"
+          }
         },
         {
           "index": 24,
@@ -7107,7 +8618,11 @@
           "playsText": "40K plays",
           "duration": 297,
           "byOther": false,
-          "nameKey": "foreverlove#live"
+          "nameKey": "foreverlove#live",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 26,
@@ -7142,7 +8657,11 @@
           "duration": 265,
           "byOther": false,
           "nameKey": "四季",
-          "titleZh": "四季"
+          "titleZh": "四季",
+          "credits": {
+            "lyrics": "李子恆",
+            "music": "李子恆"
+          }
         }
       ],
       "releaseDate": null,
@@ -7170,7 +8689,12 @@
           "playsText": "129K plays",
           "duration": 233,
           "byOther": false,
-          "nameKey": "列王的紛爭"
+          "nameKey": "列王的紛爭",
+          "credits": {
+            "lyrics": "瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "宮閣"
+          }
         }
       ],
       "releaseDate": null,
@@ -7237,7 +8761,12 @@
           "playsText": "44M plays",
           "duration": 208,
           "byOther": false,
-          "nameKey": "ai愛"
+          "nameKey": "ai愛",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -7248,7 +8777,12 @@
           "playsText": "1.6M plays",
           "duration": 205,
           "byOther": false,
-          "nameKey": "沒有眼淚的世界"
+          "nameKey": "沒有眼淚的世界",
+          "credits": {
+            "lyrics": "王力宏、張樂聲",
+            "music": "王力宏、The Swaggernautz",
+            "arranger": "王力宏、The Swaggernautz"
+          }
         }
       ],
       "releaseDate": "2017-09-15",
@@ -7276,7 +8810,12 @@
           "playsText": "30M plays",
           "duration": 299,
           "byOther": false,
-          "nameKey": "親愛的"
+          "nameKey": "親愛的",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 2,
@@ -7287,7 +8826,12 @@
           "playsText": "1.4M plays",
           "duration": 176,
           "byOther": false,
-          "nameKey": "無聲感情"
+          "nameKey": "無聲感情",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王宗賢"
+          }
         }
       ],
       "releaseDate": "2017-10-13",
@@ -7315,7 +8859,12 @@
           "playsText": "1.6M plays",
           "duration": 205,
           "byOther": false,
-          "nameKey": "沒有眼淚的世界"
+          "nameKey": "沒有眼淚的世界",
+          "credits": {
+            "lyrics": "王力宏、張樂聲",
+            "music": "王力宏、The Swaggernautz",
+            "arranger": "王力宏、The Swaggernautz"
+          }
         },
         {
           "index": 2,
@@ -7326,7 +8875,12 @@
           "playsText": "44M plays",
           "duration": 208,
           "byOther": false,
-          "nameKey": "ai愛"
+          "nameKey": "ai愛",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 3,
@@ -7337,7 +8891,12 @@
           "playsText": "44K plays",
           "duration": 259,
           "byOther": false,
-          "nameKey": "千秋萬代"
+          "nameKey": "千秋萬代",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏、The Swaggernautz"
+          }
         },
         {
           "index": 4,
@@ -7348,7 +8907,12 @@
           "playsText": "1.4M plays",
           "duration": 176,
           "byOther": false,
-          "nameKey": "無聲感情"
+          "nameKey": "無聲感情",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王宗賢"
+          }
         },
         {
           "index": 5,
@@ -7359,7 +8923,12 @@
           "playsText": "820K plays",
           "duration": 212,
           "byOther": false,
-          "nameKey": "tonightforever"
+          "nameKey": "tonightforever",
+          "credits": {
+            "lyrics": "王力宏、The Swaggernautz、崔惟楷",
+            "music": "王力宏、The Swaggernautz",
+            "arranger": "王力宏、The Swaggernautz"
+          }
         },
         {
           "index": 6,
@@ -7370,7 +8939,12 @@
           "playsText": "30M plays",
           "duration": 299,
           "byOther": false,
-          "nameKey": "親愛的"
+          "nameKey": "親愛的",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏"
+          }
         },
         {
           "index": 7,
@@ -7381,7 +8955,12 @@
           "playsText": "5.3M plays",
           "duration": 265,
           "byOther": false,
-          "nameKey": "奇遇的起點"
+          "nameKey": "奇遇的起點",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "王力宏、The Swaggernautz",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 8,
@@ -7392,7 +8971,12 @@
           "playsText": "15K plays",
           "duration": 248,
           "byOther": false,
-          "nameKey": "whydontyoujustloveme"
+          "nameKey": "whydontyoujustloveme",
+          "credits": {
+            "lyrics": "王力宏、The Swaggernautz",
+            "music": "王力宏、The Swaggernautz",
+            "arranger": "王力宏、The Swaggernautz"
+          }
         },
         {
           "index": 9,
@@ -7403,7 +8987,12 @@
           "playsText": "6.7M plays",
           "duration": 218,
           "byOther": false,
-          "nameKey": "聽愛"
+          "nameKey": "聽愛",
+          "credits": {
+            "lyrics": "方文山",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏、The Swaggernautz"
+          }
         },
         {
           "index": 10,
@@ -7414,7 +9003,12 @@
           "playsText": "38M plays",
           "duration": 247,
           "byOther": false,
-          "nameKey": "緣分一道橋"
+          "nameKey": "緣分一道橋",
+          "credits": {
+            "lyrics": "方文山",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "Tat Tong"
+          }
         },
         {
           "index": 11,
@@ -7425,7 +9019,12 @@
           "playsText": "129K plays",
           "duration": 233,
           "byOther": false,
-          "nameKey": "列王的紛爭"
+          "nameKey": "列王的紛爭",
+          "credits": {
+            "lyrics": "瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "宮閣"
+          }
         }
       ],
       "releaseDate": "2017-12-29",
@@ -7594,7 +9193,12 @@
           "playsText": "246K plays",
           "duration": 286,
           "byOther": false,
-          "nameKey": "你不知道的事#live"
+          "nameKey": "你不知道的事#live",
+          "credits": {
+            "lyrics": "王力宏、瑞業",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆/Nathan Wang"
+          }
         },
         {
           "index": 2,
@@ -7605,7 +9209,12 @@
           "playsText": "142K plays",
           "duration": 260,
           "byOther": false,
-          "nameKey": "在每一秒裡都想見到你#live"
+          "nameKey": "在每一秒裡都想見到你#live",
+          "credits": {
+            "lyrics": "姚若龍/王力宏",
+            "music": "王力宏",
+            "arranger": "Tim Heintz"
+          }
         },
         {
           "index": 3,
@@ -7671,7 +9280,12 @@
           "playsText": "28K plays",
           "duration": 247,
           "byOther": false,
-          "nameKey": "需要人陪#live"
+          "nameKey": "需要人陪#live",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "吳慶隆"
+          }
         },
         {
           "index": 9,
@@ -7705,7 +9319,12 @@
           "duration": 361,
           "byOther": false,
           "nameKey": "kissgoodbye#live",
-          "titleZh": "Kiss Goodbye (演奏版) (Live)"
+          "titleZh": "Kiss Goodbye (演奏版) (Live)",
+          "credits": {
+            "lyrics": "王力宏",
+            "music": "王力宏",
+            "arranger": "王力宏、吳慶隆"
+          }
         }
       ],
       "releaseDate": "2019-01-30",
@@ -7885,6 +9504,11 @@
           "duration": 218,
           "byOther": false,
           "nameKey": "電影豆福傳主題曲",
+          "credits": {
+            "lyrics": "方文山",
+            "music": "王力宏（以下註明例外曲目）",
+            "arranger": "王力宏、The Swaggernautz"
+          },
           "titleZh": "電影《豆福傳》主題曲"
         }
       ],
@@ -8027,6 +9651,10 @@
           "duration": 307,
           "byOther": false,
           "nameKey": "everything#live",
+          "credits": {
+            "lyrics": "王力宏, 小寒",
+            "music": "王力宏"
+          },
           "titleZh": "Everything (Live)"
         }
       ],
@@ -8141,7 +9769,11 @@
           "playsText": "3.8M plays",
           "duration": 253,
           "byOther": false,
-          "nameKey": "愛錯#live"
+          "nameKey": "愛錯#live",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          }
         }
       ],
       "releaseDate": null,
@@ -8198,6 +9830,10 @@
           "duration": 311,
           "byOther": false,
           "nameKey": "foreverlove#live",
+          "credits": {
+            "music": "王力宏",
+            "arranger": "王力宏"
+          },
           "titleZh": "Forever Love (Live)"
         }
       ],
