@@ -1,0 +1,60 @@
+{
+  "slug": "j-sheon",
+  "fetchedAt": "2026-09-17T21:26:14.288Z",
+  "wiki": "J.Sheon",
+  "bio": {
+    "born": {
+      "date": "1985-12-24",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "Voice Up Concert 讚聲演唱會──J.Sheon",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2020-08-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2020-08-29",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣 臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "Legacy Max"
+      ],
+      "shows": []
+    },
+    {
+      "name": "J.SHEON 2022 硬要裝B演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-03-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-03-05",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣 臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "臺北流行音樂中心"
+      ],
+      "shows": []
+    }
+  ]
+}

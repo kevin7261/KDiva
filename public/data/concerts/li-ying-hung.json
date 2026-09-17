@@ -1,0 +1,216 @@
+{
+  "slug": "li-ying-hung",
+  "fetchedAt": "2026-09-17T21:26:05.295Z",
+  "wiki": "李英宏",
+  "bio": {
+    "born": {
+      "date": "1986-07-06",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "演唱會經歷",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2016-07-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-10-13",
+        "precision": "day"
+      },
+      "showCount": 23,
+      "regions": [],
+      "cities": [],
+      "venues": [
+        "Beans & Beats Records",
+        "陸地",
+        "水星酒館",
+        "ATT SHOW BOX",
+        "Legacy Taipei",
+        "Live Warehouse",
+        "臺北國際會議中心TICC",
+        "勤美綠園道",
+        "ASTRO HALL",
+        "MUSE",
+        "濕地",
+        "糖果",
+        "Modernsky lab",
+        "A8",
+        "臺大體育館",
+        "The Wall"
+      ],
+      "shows": [
+        {
+          "date": "2016-07-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Beans & Beats Records"
+        },
+        {
+          "date": "2016-08-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "陸地"
+        },
+        {
+          "date": "2016-09-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "水星酒館"
+        },
+        {
+          "date": "2016-09-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2016-09-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "ATT SHOW BOX"
+        },
+        {
+          "date": "2017-02-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Legacy Taipei"
+        },
+        {
+          "date": "2017-03-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2017-07-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Legacy Taipei"
+        },
+        {
+          "date": "2017-10-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Live Warehouse"
+        },
+        {
+          "date": "2017-10-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心TICC"
+        },
+        {
+          "date": "2017-11-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2017-11-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2017-12-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2017-12-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "勤美綠園道",
+          "lat": 24.1509963,
+          "lon": 120.663848,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-12-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "ASTRO HALL"
+        },
+        {
+          "date": "2017-12-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "MUSE"
+        },
+        {
+          "date": "2017-12-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2017-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "濕地"
+        },
+        {
+          "date": "2018-01-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "糖果"
+        },
+        {
+          "date": "2018-01-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Modernsky lab"
+        },
+        {
+          "date": "2018-01-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "A8"
+        },
+        {
+          "date": "2018-03-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺大體育館"
+        },
+        {
+          "date": "2024-10-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "The Wall"
+        }
+      ]
+    }
+  ]
+}

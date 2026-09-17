@@ -1,0 +1,150 @@
+{
+  "slug": "yellow-huang",
+  "fetchedAt": "2026-09-17T21:26:20.404Z",
+  "wiki": "黃宣",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "DEAD OR ALIVE 黃宣首場演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-10-15",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-10-15",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "Zepp New Taipei"
+      ],
+      "shows": [
+        {
+          "date": "2022-10-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "ALMOST ALIVE 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-10-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-10-20",
+        "precision": "day"
+      },
+      "showCount": 7,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "北京",
+        "杭州",
+        "上海",
+        "深圳",
+        "廣州"
+      ],
+      "venues": [
+        "Blue Note Beijing",
+        "Live Shop UNI",
+        "ModernSky Lab",
+        "Mao Livehouse"
+      ],
+      "shows": [
+        {
+          "date": "2024-10-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "Blue Note Beijing",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2024-10-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "Blue Note Beijing",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2024-10-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "Live Shop UNI",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2024-10-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "ModernSky Lab",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2024-10-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "ModernSky Lab",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2024-10-19",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "Mao Livehouse",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2024-10-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "Mao Livehouse",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
+}

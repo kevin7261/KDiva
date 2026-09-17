@@ -1,0 +1,73 @@
+{
+  "slug": "z-chen",
+  "fetchedAt": "2026-09-17T21:29:51.745Z",
+  "wiki": "張智成",
+  "bio": {
+    "born": {
+      "date": "1973-05-08",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "走逆時光進行時巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2026-01-31",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-05-30",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "廣州",
+        "成都",
+        "上海"
+      ],
+      "venues": [
+        "廣州大麥66LIVEHOUSE",
+        "CH8綠樹演藝中心",
+        "迴響之地 Music Park"
+      ],
+      "shows": [
+        {
+          "date": "2026-01-31",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州大麥66LIVEHOUSE",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2026-04-25",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "CH8綠樹演藝中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2026-05-30",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "迴響之地 Music Park",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
+}
