@@ -63,6 +63,7 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
               <button class="link" @click="emit('open-album', t.song.origin)">《{{ t.song.origin.name }}》{{ t.song.origin.releaseLabel }}</button>
             </span>
             <span v-else-if="t.song.alt" class="muted small">{{ t.song.alt }}</span>
+            <span v-if="t.song.credits" class="muted small credits">{{ creditLines(t.song.credits).join('　') }}</span>
           </div>
           <div class="barcell" :title="`${approx ? '約 ' : ''}${formatFull(t.plays)} 次播放`">
             <div class="bar" :style="{ width: `${((t.plays ?? 0) / max) * 100}%` }" />
@@ -170,6 +171,9 @@ h2 {
 }
 a.name:hover {
   text-decoration: underline;
+}
+.credits {
+  white-space: normal;
 }
 .link {
   border: 0;

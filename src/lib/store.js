@@ -54,6 +54,7 @@ function loadExtra(key, path) {
 export const loadConcerts = (slug) => loadExtra(`concerts:${slug}`, `concerts/${slug}.json`)
 export const loadTimeline = () => loadExtra('timeline', 'timeline.json')
 export const loadAwards = () => loadExtra('awards', 'awards.json')
+export const loadWritten = () => loadExtra('written', 'written.json')
 
 export const loadAll = (list = ARTISTS) => Promise.allSettled(list.map((a) => loadArtist(a.slug)))
 

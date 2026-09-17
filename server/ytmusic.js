@@ -486,12 +486,29 @@ export function addNameKeys(albums) {
       const zh = parts(t.title).filter(hasCJK)
       if (zh.length === 1) known.add(normalizeTitle(toTW(zh[0])))
     }
+  // 名稱比對：簡轉繁、日文新字體轉繁體後相同，就只是寫法不同
+  const same = (a, b) => !!a && !!b && normalizeTitle(jpToTW(toTW(a))) === normalizeTitle(jpToTW(toTW(b)))
+  const stripDisambig = (s) => s.replace(/\s*[（(][^）)]*(?:專輯|专辑|單曲|单曲|歌曲|EP)[）)]\s*$/, '')
+  // 「臺南的賣花姑娘 - 台南的賣花姑娘」：後面幾段只是前面的另一種寫法時拿掉
+  const dedupeParts = (title) => {
+    const out = []
+    for (const p of parts(title)) if (!out.some((q) => same(q, p))) out.push(p)
+    return out.join(' - ')
+  }
   for (const album of albums) {
+    album.title = dedupeParts(album.title)
+    delete album.titleZhVariant
+    if (album.titleZh) {
+      album.titleZh = stripDisambig(album.titleZh)
+      if (same(album.titleZh, parts(album.title)[0])) album.titleZhVariant = true
+    }
     // 專輯比對鍵：中文名、簡轉繁、去括號註記；前端用來找「同名的重複上架／再版」
     const albumName = album.titleZh ?? parts(album.title).find(hasCJK) ?? parts(album.title)[0]
     album.nameKey = normalizeTitle(jpToTW(toTW(albumName.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ' ').trim() || albumName)))
     const albumPrefix = normalizeTitle(parts(album.title)[0])
     for (const t of album.tracks) {
+      t.title = dedupeParts(t.title)
+      delete t.titleZhVariant
       const live = LIVE_RE.test(t.title)
       // 標題本身有中文時，titleZh 只由這裡決定（中文歌名補齊只處理沒有中文的標題），每次重算
       if (hasCJK(t.title)) delete t.titleZh
@@ -512,6 +529,8 @@ export function addNameKeys(albums) {
       }
       // 補上的中文名也要保留 Live 標記（「Ai Cuo (Live)」→「愛錯 (Live)」）
       if (t.titleZh && live && !LIVE_RE.test(t.titleZh)) t.titleZh += ' (Live)'
+      // 中文名只是原標題的簡轉繁（「最后一夜」→「最後一夜」）：前端只顯示中文名，不把原名當副標
+      if (t.titleZh && same(t.titleZh.replace(/ \(Live\)$/, ''), parts(t.title)[0].replace(/\s*\(Live\)$/i, ''))) t.titleZhVariant = true
       const title = t.titleZh ?? parts(t.title).find(hasCJK) ?? parts(t.title)[0]
       const base = title.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ' ').trim() || title
       t.nameKey = normalizeTitle(jpToTW(base)) + (live ? '#live' : '')

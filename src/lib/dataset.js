@@ -11,14 +11,32 @@ const hasCJK = (s) => /[\u3400-\u9fff]/.test(s)
  */
 export function splitTitle(title = '') {
   const i = title.indexOf(' - ')
-  if (i <= 0) return { name: title, alt: '' }
+  if (i <= 0) return { name: stripDisambig(title), alt: '' }
   const name = title.slice(0, i)
   const alt = title.slice(i + 3)
-  return !hasCJK(name) && hasCJK(alt) ? { name: alt, alt: name } : { name, alt }
+  return dedupeAlt(!hasCJK(name) && hasCJK(alt) ? { name: alt, alt: name } : { name, alt })
 }
 
-// 抓取時補上的中文名（titleZh，例如〈Last Train〉＝〈末班車〉）放前面，原名當副標
-const withChinese = (item) => (item.titleZh ? { ...item, title: `${item.titleZh} - ${item.title}` } : item)
+// Wikipedia 條目名稱帶的消歧義括號：「True (葉蒨文專輯)」→「True」
+const stripDisambig = (s) => s.replace(/\s*[（(][^）)]*(?:專輯|专辑|單曲|单曲|歌曲|EP)[）)]\s*$/, '')
+
+/** 副標與主名稱完全相同時拿掉（簡繁寫法不同的，抓取時已標 titleZhVariant、在 withChinese 處理） */
+function dedupeAlt({ name, alt }) {
+  name = stripDisambig(name)
+  if (!alt) return { name, alt }
+  const parts = alt.split(' - ')
+  const same = (a, b) => a.replace(/\s+/g, '').toLowerCase() === b.replace(/\s+/g, '').toLowerCase()
+  if (same(name, stripDisambig(parts[0]))) return { name, alt: parts.slice(1).join(' - ') }
+  return { name, alt }
+}
+
+// 抓取時補上的中文名（titleZh，例如〈Last Train〉＝〈末班車〉）放前面，原名當副標；
+// 只是簡繁寫法不同（titleZhVariant：「镜中的你」→「鏡中的你」）時換掉原名，不重複列出
+const withChinese = (item) => {
+  if (!item.titleZh) return item
+  if (item.titleZhVariant) return { ...item, title: [item.titleZh, ...item.title.split(' - ').slice(1)].join(' - ') }
+  return { ...item, title: `${item.titleZh} - ${item.title}` }
+}
 
 // 發行類型提示：Wikipedia 章節／資訊框（wikiKind，抓取時記錄）優先，其次看名稱
 const REISSUE_RE = /再版|復刻|复刻|remaster|reissue|珍藏系列|華星40系列|capital artists 40th|[（(][^）)]*(?<!普通|標準|标准)版[）)]/i

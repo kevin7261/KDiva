@@ -12,6 +12,7 @@ import SongsView from '../components/SongsView.vue'
 import AlbumDialog from '../components/AlbumDialog.vue'
 import ConcertsView from '../components/ConcertsView.vue'
 import AwardsView from '../components/AwardsView.vue'
+import WrittenView from '../components/WrittenView.vue'
 
 const props = defineProps({ slug: { type: String, required: true } })
 
@@ -84,6 +85,7 @@ const tabs = [
   ['songs', '全部歌曲'],
   ['concerts', '演唱會'],
   ['awards', '金曲獎'],
+  ['written', '寫給別人的歌'],
 ]
 </script>
 
@@ -158,7 +160,8 @@ const tabs = [
         <AlbumsView v-else-if="tab === 'albums'" :model="model" @open-album="openAlbum = $event" />
         <SongsView v-else-if="tab === 'songs'" :model="model" :approx="approx" @open-album="openAlbum = $event" />
         <ConcertsView v-else-if="tab === 'concerts'" :slug="slug" />
-        <AwardsView v-else :slug="slug" :name="artist.name" />
+        <AwardsView v-else-if="tab === 'awards'" :slug="slug" :name="artist.name" />
+        <WrittenView v-else :slug="slug" />
 
         <footer class="site-footer">
           <p>
