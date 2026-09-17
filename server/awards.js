@@ -5,6 +5,9 @@ import { readFile } from 'node:fs/promises'
 import { fetchPages, readTables, toPlain, normalizeTitle, nameToTW, hasCJK } from './wiki.js'
 import { dataFile } from './config.js'
 
+// 表演者類獎項：入圍名單寫的就是歌手／團體本人
+const PERFORMER_CATEGORY = /歌手|演唱人|新人|演唱組合|重唱|樂團|組合|演唱團體/
+
 const WIN_RE = /Yellow[ _]Dots[ _]Golden|Gold[ _]circle|Golden[ _]dot|金色圓點|★/i
 const PERSON_HEAD = /入圍者|入圍人|入圍團體|入圍樂團|演唱者|演唱歌手|演唱|歌手|演出者|得獎者|樂團|團體|作曲|作詞|編曲|製作人/
 const WORK_HEAD = /入圍作品|入圍專輯|入圍歌曲|入圍單曲|作品|專輯|歌曲|單曲/
@@ -161,8 +164,10 @@ export async function fetchAwards(artists, log = () => {}) {
       const refs = workRefs(e.work, e.album)
       for (const { slug, keys: k, catalog } of keys) {
         const byName = names.some((n) => k.has(n))
-        // 入圍者不是他（作詞、作曲、編曲人，或沒有演唱者欄的年度歌曲獎），但作品是他唱的，也算
-        const byWork = !byName && (e.work || e.album) && sang(catalog, refs, year)
+        // 入圍者不是他（作詞、作曲、編曲人，或沒有演唱者欄的年度歌曲獎），但作品是他唱的，也算。
+        // 但歌手獎、新人獎、樂團獎的入圍者就是表演者本人，名字對不上就不是他的獎
+        // （《思念的歌》是曹雅雯得的最佳臺語女歌手獎，不能因為秀蘭瑪雅也唱過同名歌就算她一筆）
+        const byWork = !byName && !PERFORMER_CATEGORY.test(e.category) && (e.work || e.album) && sang(catalog, refs, year)
         if (!byName && !byWork) continue
         const list = byArtist[slug]
         // 同一屆同一獎項同一作品只記一次
