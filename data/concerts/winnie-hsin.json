@@ -1,6 +1,6 @@
 {
   "slug": "winnie-hsin",
-  "fetchedAt": "2026-09-17T15:01:17.530Z",
+  "fetchedAt": "2026-09-17T22:21:51.419Z",
   "wiki": "辛曉琪",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2002-05-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北福華會館"
@@ -32,7 +32,15 @@
       "venues": [
         "臺北福華會館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2002-05-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北福華會館"
+        }
+      ]
     },
     {
       "name": "愛上辛曉琪Unplugged 音樂會",
@@ -46,7 +54,7 @@
         "date": "2004-07-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北 STAGE PUB"
@@ -54,54 +62,63 @@
       "venues": [
         "臺北 STAGE PUB"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2004-07-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北 STAGE PUB"
+        }
+      ]
     },
     {
-      "name": "辛曉琪The Promise 承諾演唱會臺北站",
+      "name": "辛曉琪The Promise 承諾演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2006-06-30",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2006-06-30",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "臺北國際會議中心"
-      ],
-      "venues": [
-        "臺北國際會議中心"
-      ],
-      "shows": []
-    },
-    {
-      "name": "辛曉琪The Promise 承諾演唱會馬來西亞站",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2008-07-26",
         "precision": "day"
       },
       "end": {
         "date": "2008-07-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
-        "雲頂雲星劇場"
+        "臺北",
+        "馬來西亞"
       ],
       "venues": [
+        "臺北國際會議中心",
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-06-30",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-07-26",
+          "precision": "day",
+          "region": "",
+          "city": "馬來西亞",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
-      "name": "辛曉琪愛的味道上海演唱會上海站",
+      "name": "辛曉琪愛的味道上海演唱會",
       "page": null,
       "kind": "concert",
       "start": {
@@ -112,18 +129,29 @@
         "date": "2009-12-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
-        "上海東方藝術中心"
+        "上海"
       ],
       "venues": [
         "上海東方藝術中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-12-18",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "上海東方藝術中心",
+          "lat": 31.22495,
+          "lon": 121.536899,
+          "geo": "venue"
+        }
+      ]
     },
     {
-      "name": "辛曉琪愛的味道成都演唱會成都站",
+      "name": "辛曉琪愛的味道成都演唱會",
       "page": null,
       "kind": "concert",
       "start": {
@@ -134,18 +162,29 @@
         "date": "2010-08-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
-        "四川省體育館"
+        "成都"
       ],
       "venues": [
         "四川省體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-08-21",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "四川省體育館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        }
+      ]
     },
     {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會北京站",
+      "name": "遇見快樂辛曉琪中國巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
@@ -153,392 +192,233 @@
         "precision": "day"
       },
       "end": {
-        "date": "2011-12-18",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "北京保利劇院"
-      ],
-      "venues": [
-        "北京保利劇院"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會常州站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-01-02",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-01-02",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "常州大劇院 （江蘇）"
-      ],
-      "venues": [
-        "常州大劇院 （江蘇）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會張家港站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-01-04",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-01-04",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "張家港大劇院 （江蘇）"
-      ],
-      "venues": [
-        "張家港大劇院 （江蘇）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會泰州站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-01-07",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-01-07",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "泰州大劇院 （江蘇）"
-      ],
-      "venues": [
-        "泰州大劇院 （江蘇）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會馬鞍山站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-01-09",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-01-09",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "馬鞍山大劇院 （安徽）"
-      ],
-      "venues": [
-        "馬鞍山大劇院 （安徽）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會合肥站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-01-11",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-01-11",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "合肥大劇院 （安徽）"
-      ],
-      "venues": [
-        "合肥大劇院 （安徽）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會溫州站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-01-14",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-01-14",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "溫州大劇院 （浙江）"
-      ],
-      "venues": [
-        "溫州大劇院 （浙江）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會麗水站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-01-16",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-01-16",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "麗水大劇院 （浙江）"
-      ],
-      "venues": [
-        "麗水大劇院 （浙江）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會東莞站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-05-05",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-05-05",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "東莞玉蘭大劇院（廣東）"
-      ],
-      "venues": [
-        "東莞玉蘭大劇院（廣東）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會深圳站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-05-07",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-05-07",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "深圳保利劇院 （廣東）"
-      ],
-      "venues": [
-        "深圳保利劇院 （廣東）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會惠州站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-05-09",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-05-09",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "惠州文化藝術中心 （廣東）"
-      ],
-      "venues": [
-        "惠州文化藝術中心 （廣東）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會重慶站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-05-13",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-05-13",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "重慶大劇院"
-      ],
-      "venues": [
-        "重慶大劇院"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會鄭州站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-05-17",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-05-17",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "河南藝術中心（鄭州）"
-      ],
-      "venues": [
-        "河南藝術中心（鄭州）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會呼和浩特站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-05-20",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-05-20",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "烏蘭恰特大劇院 （內蒙）"
-      ],
-      "venues": [
-        "烏蘭恰特大劇院 （內蒙）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會煙臺站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-05-23",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-05-23",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "煙臺大劇院 （山東）"
-      ],
-      "venues": [
-        "煙臺大劇院 （山東）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會青島站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-05-26",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-05-26",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "青島大劇院 （山東）"
-      ],
-      "venues": [
-        "青島大劇院 （山東）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會無錫站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-05-29",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-05-29",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "無錫大劇院 （江蘇）"
-      ],
-      "venues": [
-        "無錫大劇院 （江蘇）"
-      ],
-      "shows": []
-    },
-    {
-      "name": "遇見快樂辛曉琪中國巡迴演唱會武漢站",
-      "page": null,
-      "kind": "tour",
-      "start": {
         "date": "2012-05-31",
         "precision": "day"
       },
-      "end": {
-        "date": "2012-05-31",
-        "precision": "day"
-      },
-      "showCount": null,
+      "showCount": 18,
       "regions": [],
       "cities": [
-        "武漢琴臺大劇院 （湖北）"
+        "北京",
+        "常州",
+        "張家港",
+        "泰州",
+        "馬鞍山",
+        "合肥",
+        "溫州",
+        "麗水",
+        "東莞",
+        "深圳",
+        "惠州",
+        "重慶",
+        "鄭州",
+        "呼和浩特",
+        "煙臺",
+        "青島",
+        "無錫",
+        "武漢"
       ],
       "venues": [
+        "北京保利劇院",
+        "常州大劇院 （江蘇）",
+        "張家港大劇院 （江蘇）",
+        "泰州大劇院 （江蘇）",
+        "馬鞍山大劇院 （安徽）",
+        "合肥大劇院 （安徽）",
+        "溫州大劇院 （浙江）",
+        "麗水大劇院 （浙江）",
+        "東莞玉蘭大劇院（廣東）",
+        "深圳保利劇院 （廣東）",
+        "惠州文化藝術中心 （廣東）",
+        "重慶大劇院",
+        "河南藝術中心（鄭州）",
+        "烏蘭恰特大劇院 （內蒙）",
+        "煙臺大劇院 （山東）",
+        "青島大劇院 （山東）",
+        "無錫大劇院 （江蘇）",
         "武漢琴臺大劇院 （湖北）"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-12-18",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "北京保利劇院",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2012-01-02",
+          "precision": "day",
+          "region": "",
+          "city": "常州",
+          "venue": "常州大劇院 （江蘇）",
+          "lat": 31.812166666666666,
+          "lon": 119.96916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2012-01-04",
+          "precision": "day",
+          "region": "",
+          "city": "張家港",
+          "venue": "張家港大劇院 （江蘇）",
+          "lat": 31.87748,
+          "lon": 120.55123,
+          "geo": "city"
+        },
+        {
+          "date": "2012-01-07",
+          "precision": "day",
+          "region": "",
+          "city": "泰州",
+          "venue": "泰州大劇院 （江蘇）",
+          "lat": 32.483056,
+          "lon": 119.9,
+          "geo": "city"
+        },
+        {
+          "date": "2012-01-09",
+          "precision": "day",
+          "region": "",
+          "city": "馬鞍山",
+          "venue": "馬鞍山大劇院 （安徽）",
+          "lat": 31.713531,
+          "lon": 118.360472,
+          "geo": "city"
+        },
+        {
+          "date": "2012-01-11",
+          "precision": "day",
+          "region": "",
+          "city": "合肥",
+          "venue": "合肥大劇院 （安徽）",
+          "lat": 31.86389,
+          "lon": 117.28083,
+          "geo": "city"
+        },
+        {
+          "date": "2012-01-14",
+          "precision": "day",
+          "region": "",
+          "city": "溫州",
+          "venue": "溫州大劇院 （浙江）",
+          "lat": 27.999128,
+          "lon": 120.656075,
+          "geo": "city"
+        },
+        {
+          "date": "2012-01-16",
+          "precision": "day",
+          "region": "",
+          "city": "麗水",
+          "venue": "麗水大劇院 （浙江）",
+          "lat": 28.45,
+          "lon": 119.91666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2012-05-05",
+          "precision": "day",
+          "region": "",
+          "city": "東莞",
+          "venue": "東莞玉蘭大劇院（廣東）",
+          "lat": 23.04749,
+          "lon": 113.74928,
+          "geo": "city"
+        },
+        {
+          "date": "2012-05-07",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳保利劇院 （廣東）",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2012-05-09",
+          "precision": "day",
+          "region": "",
+          "city": "惠州",
+          "venue": "惠州文化藝術中心 （廣東）",
+          "lat": 23.11147,
+          "lon": 114.41523,
+          "geo": "city"
+        },
+        {
+          "date": "2012-05-13",
+          "precision": "day",
+          "region": "",
+          "city": "重慶",
+          "venue": "重慶大劇院",
+          "lat": 29.572777777777777,
+          "lon": 106.57777777777778,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-05-17",
+          "precision": "day",
+          "region": "",
+          "city": "鄭州",
+          "venue": "河南藝術中心（鄭州）",
+          "lat": 34.74919,
+          "lon": 113.66051,
+          "geo": "city"
+        },
+        {
+          "date": "2012-05-20",
+          "precision": "day",
+          "region": "",
+          "city": "呼和浩特",
+          "venue": "烏蘭恰特大劇院 （內蒙）",
+          "lat": 40.81507,
+          "lon": 111.66293,
+          "geo": "city"
+        },
+        {
+          "date": "2012-05-23",
+          "precision": "day",
+          "region": "",
+          "city": "煙臺",
+          "venue": "煙臺大劇院 （山東）",
+          "lat": 37.464444444444446,
+          "lon": 121.44777777777777,
+          "geo": "city"
+        },
+        {
+          "date": "2012-05-26",
+          "precision": "day",
+          "region": "",
+          "city": "青島",
+          "venue": "青島大劇院 （山東）",
+          "lat": 36.116666666667,
+          "lon": 120.4,
+          "geo": "city"
+        },
+        {
+          "date": "2012-05-29",
+          "precision": "day",
+          "region": "",
+          "city": "無錫",
+          "venue": "無錫大劇院 （江蘇）",
+          "lat": 31.566667,
+          "lon": 120.283333,
+          "geo": "city"
+        },
+        {
+          "date": "2012-05-31",
+          "precision": "day",
+          "region": "",
+          "city": "武漢",
+          "venue": "武漢琴臺大劇院 （湖北）",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "辛曉琪人生若只如初見演唱會",
@@ -552,7 +432,7 @@
         "date": "2018-09-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北小巨蛋"
@@ -560,10 +440,21 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-09-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
-      "name": "辛曉琪回報以歌巡迴演唱會臺北站",
+      "name": "辛曉琪回報以歌巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
@@ -607,7 +498,7 @@
       "shows": []
     },
     {
-      "name": "辛曉琪歌在青春在巡迴演唱會北京站",
+      "name": "辛曉琪歌在青春在巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
@@ -615,40 +506,41 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-06-15",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [
-        "北京國家體育館"
-      ],
-      "venues": [
-        "北京國家體育館"
-      ],
-      "shows": []
-    },
-    {
-      "name": "辛曉琪歌在青春在巡迴演唱會南京站",
-      "page": null,
-      "kind": "tour",
-      "start": {
         "date": "2024-08-31",
         "precision": "day"
       },
-      "end": {
-        "date": "2024-08-31",
-        "precision": "day"
-      },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
-        "南京奧體中心國緣V9體育館"
+        "北京",
+        "南京"
       ],
       "venues": [
+        "北京國家體育館",
         "南京奧體中心國緣V9體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-06-15",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "北京國家體育館",
+          "lat": 39.994780555556,
+          "lon": 116.38395833333,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-08-31",
+          "precision": "day",
+          "region": "",
+          "city": "南京",
+          "venue": "南京奧體中心國緣V9體育館",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "辛曉琪從你的青春經過講唱會",
@@ -662,7 +554,7 @@
         "date": "2025-05-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "屏東演藝廳音樂廳"
@@ -670,7 +562,15 @@
       "venues": [
         "屏東演藝廳音樂廳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-05-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "屏東演藝廳音樂廳"
+        }
+      ]
     },
     {
       "name": "辛曉琪我的歌 我們的青春馬來西亞限定版音樂會",
@@ -684,7 +584,7 @@
         "date": "2026-02-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "雲頂雲星劇場"
@@ -692,7 +592,18 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-02-07",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "辛曉琪好好愛 此刻演唱會",
@@ -706,7 +617,7 @@
         "date": "2026-03-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北流行音樂中心"
@@ -714,7 +625,18 @@
       "venues": [
         "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-03-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }
