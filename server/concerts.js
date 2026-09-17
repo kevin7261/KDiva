@@ -64,12 +64,31 @@ function cleanName(text) {
     .trim()
 }
 
+/**
+ * 分站名稱：「遇見快樂中國巡迴演唱會北京站」→ { base: '遇見快樂中國巡迴演唱會', city: '北京' }。
+ * 維基的演唱會列表常把同一個巡演的每一站各寫一行，不拆開的話每站都會變成獨立的巡演、而且沒有場次。
+ */
+const LEG_NOT = /終點|终点|最終|最终|車|车/
+// 用「演唱會」「巡迴」這類字當切點，城市名長短不一（「呼和浩特」「馬鞍山」），不能用字數去猜
+const LEG_HEAD_RE = /(?:演唱會|演唱会|音樂會|音乐会|巡迴|巡回|巡演|世界巡城|tour|concert|live)/gi
+function splitLeg(name) {
+  const s = String(name)
+  if (!/站\s*$/.test(s) || LEG_NOT.test(s)) return null
+  let end = -1
+  for (const m of s.matchAll(LEG_HEAD_RE)) end = m.index + m[0].length
+  if (end < 0) return null
+  const city = s.slice(end).trim().replace(/站$/, '')
+  if (!/^[\u3400-\u9fff]{2,6}$/.test(city)) return null
+  const base = cleanName(s.slice(0, end))
+  return base.length >= 2 ? { base, city } : null
+}
+
 const GENERIC_RE = /世界巡迴演唱會|世界巡回演唱会|巡迴演唱會|巡回演唱会|世界巡演|巡迴|巡回|巡演|演唱會|演唱会|音樂會|音乐会|world|tour|live|concert|in|the/gi
 
 /** 合併同一個演唱會用的比對鍵 */
 function tourKey(name, artistKeys) {
   // 括號裡的版本名（「[ 末日狂歡版 ]」「（包含…）」）不算
-  let s = toTW(name).replace(/[\[【（(][^\]】）)]*[\]】）)]/g, ' ').replace(GENERIC_RE, ' ').replace(/(?:19|20)\d{2}/g, ' ')
+  let s = toTW(splitLeg(name)?.base ?? name).replace(/[\[【（(][^\]】）)]*[\]】）)]/g, ' ').replace(GENERIC_RE, ' ').replace(/(?:19|20)\d{2}/g, ' ')
   let key = normalizeTitle(s)
   for (const k of artistKeys) if (key.length > k.length) key = key.replaceAll(k, '')
   return key || normalizeTitle(name)
@@ -166,13 +185,30 @@ function parseTourTable(header, rows, context) {
       const range = dateRange([row[dateCol], endCol >= 0 ? row[endCol] : ''].filter(Boolean).join(' - '))
       if (!name || !range || name.length > 80) continue
       const link = String(row[nameCol]).match(/\[\[([^\]|#]+)/)?.[1]
+      const leg = splitLeg(name)
+      const place = { venue: cell(row, venueCol), city: cell(row, cityCol), region: cell(row, regionCol) }
+      // 這種表一列就是一場演出（有日期、有地點），轉成場次才畫得出地圖；
+      // 分站（「…巡迴演唱會北京站」）掛回主巡演名下，各站的場次會在 mergeTours 累加起來
+      const oneShow =
+        range.start.date === range.end.date && range.start.precision === 'day' && (place.venue || place.city)
+          ? [{
+              date: range.start.date,
+              precision: range.start.precision,
+              region: place.region,
+              city: place.city === place.venue ? (leg?.city ?? '') : place.city,
+              venue: place.venue,
+              cityPage: '',
+              venuePage: String(row[venueCol] ?? '').match(/\[\[([^\]|#]+)/)?.[1] ?? '',
+            }]
+          : []
       tours.push({
-        name,
+        name: leg?.base ?? name,
         page: link ? toTW(link.trim()) : null,
         ...range,
         showCount: showCount(cell(row, countCol)),
-        shows: [],
-        summary: { venue: cell(row, venueCol), city: cell(row, cityCol), region: cell(row, regionCol) },
+        shows: oneShow,
+        fromRow: true,
+        summary: place,
       })
     }
     return tours
@@ -266,7 +302,10 @@ function parseTourList(text) {
     const range = dateRange(line.replace(/《[^》]*》/g, '').replace(/\[\[[^\]]*\]\]/g, ''))
     if (!name || !range || name.length > 60 || /^\d/.test(name)) continue
     const page = linked && CONCERT_RE.test(linked[1]) ? toTW(linked[1].trim()) : null
-    tours.push({ name, page, ...range, showCount: null, shows: [] })
+    const leg = splitLeg(name)
+    // 分站：掛在主巡演名下，這一站本身就是一場（有城市才查得到座標、畫得出地圖）
+    const shows = leg && range.start.date === range.end.date ? [{ date: range.start.date, precision: range.start.precision, region: '', city: leg.city, venue: '', cityPage: '', venuePage: '' }] : []
+    tours.push({ name: leg?.base ?? name, page, ...range, showCount: null, shows, fromRow: Boolean(leg) })
   }
   return tours
 }
@@ -329,7 +368,9 @@ function mergeTours(list, artistKeys) {
     if (t.end && (!into.end || finer(t.end, into.end))) into.end = t.end
     into.showCount ??= t.showCount
     into.summary ??= t.summary
-    if (t.shows.length > into.shows.length) into.shows = [...t.shows]
+    // 「一列一場」的來源要累加（分站各帶一場）；巡演條目的完整場次表則取較完整的那份
+    if (t.fromRow && into.fromRow) into.shows.push(...t.shows)
+    else if (t.shows.length > into.shows.length) into.shows = [...t.shows]
     if (!into.page && t.page) into.page = t.page
   }
   return merged

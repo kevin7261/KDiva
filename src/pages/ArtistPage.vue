@@ -4,6 +4,7 @@ import { RouterLink } from 'vue-router'
 import { categoryOf, findArtist } from '../artists.js'
 import { getModel, loadArtist, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
+import { useYears } from '../lib/bio.js'
 import { formatCount, formatFull, formatDate } from '../lib/format.js'
 import ThemeToggle from '../components/ThemeToggle.vue'
 import ArtistSwitcher from '../components/ArtistSwitcher.vue'
@@ -18,6 +19,7 @@ import WrittenView from '../components/WrittenView.vue'
 const props = defineProps({ slug: { type: String, required: true } })
 
 const canRefresh = import.meta.env.DEV
+const years = useYears()
 const artist = computed(() => findArtist(props.slug))
 const model = computed(() => getModel(props.slug))
 const error = ref('')
@@ -114,7 +116,7 @@ const tabs = [
             <ThemeToggle />
           </div>
         </div>
-        <h1>{{ artist.name }} <span>{{ artist.en }}</span></h1>
+        <h1>{{ artist.name }} <span>{{ artist.en }}</span><span v-if="years(slug)" class="life">{{ years(slug) }}</span></h1>
         <p v-if="members" class="members">{{ members }}</p>
         <nav class="sources" aria-label="資料來源">
           <a v-if="artist.wiki" :href="wikiUrl" target="_blank" rel="noopener">Wikipedia 條目 <span class="mi tiny" aria-hidden="true">open_in_new</span></a>
@@ -244,6 +246,13 @@ const tabs = [
   display: flex;
   gap: 8px;
   margin-left: auto;
+}
+h1 .life {
+  margin-left: 10px;
+  font-size: 0.5em;
+  font-weight: 400;
+  opacity: 0.75;
+  white-space: nowrap;
 }
 h1 {
   margin: 0;

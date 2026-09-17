@@ -767,10 +767,24 @@ export function findWikiOnly(albums, catalog, artistNames = []) {
       }
     }
   }
+  // 專輯比對到的 Wikipedia 條目名。條目名比 YouTube Music 的標題乾淨
+  // （「太陽 (陳綺貞專輯)」→「太陽」，而不是「太陽 (Immortal)」），拿來當比對鍵才對得上。
+  // 但 wikiTitle 也可能指向歌手自己的條目或作品列表（匆匆 →「胡德夫」），
+  // 那種不算專輯條目，否則同一頁上真正沒上架的專輯會全被誤判成已收錄。
+  const artistPage = new Set(artistKeys)
+  const albumPages = albums
+    .map((a) => a.wikiTitle)
+    .filter((t) => {
+      const k = t && normalizeTitle(t)
+      return k && !artistPage.has(k) && !/列表|discography/i.test(k)
+    })
+  const havePages = new Set(albumPages.map((t) => normalizeTitle(t)))
+  for (const t of albumPages) have.push(keyOf(t))
   const haveSet = new Set(have.filter(Boolean))
   // 中文名也比拼音（「11月的肖邦」與「11月的蕭邦」）
   for (const k of have.filter((h) => h && hasCJK(h))) if (k.length >= 3) havePinyin.add(pinyinKey(k))
   const covered = (e) =>
+    (e.page && havePages.has(normalizeTitle(e.page))) ||
     e.keys.some((k) => haveSet.has(k) || have.some((h) => h && similarity(k, h) >= 0.85)) ||
     e.titles.some((t) => pinyinKey(cleanWikiTitle(t)).length >= 4 && havePinyin.has(pinyinKey(cleanWikiTitle(t))))
   const RANK = { 'album-page': 0, 'search-page': 0, table: 1, list: 2 }

@@ -4,10 +4,12 @@
 import { computed, nextTick, onBeforeUnmount, onMounted, ref } from 'vue'
 import { RouterLink } from 'vue-router'
 import { GROUPS, artistsIn } from '../artists.js'
+import { useYears } from '../lib/bio.js'
 
 defineProps({ slug: { type: String, required: true } })
 const emit = defineEmits(['close'])
 
+const years = useYears()
 const q = ref('')
 const box = ref(null)
 
@@ -48,7 +50,8 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
             <li v-for="a in g.artists" :key="a.slug">
               <RouterLink :to="`/artist/${a.slug}`" :class="{ on: a.slug === slug }" @click="emit('close')">
                 <span class="name">{{ a.name }}</span>
-                <span v-if="a.en" class="muted en">{{ a.en }}</span>
+                <span v-if="years(a.slug)" class="muted en">{{ years(a.slug) }}</span>
+                <span v-else-if="a.en" class="muted en">{{ a.en }}</span>
               </RouterLink>
             </li>
           </ul>
@@ -74,14 +77,14 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
   flex-direction: column;
   width: min(860px, 100%);
   max-height: calc(100vh - 48px);
-  padding: 20px 8px 8px 20px;
+  padding: 20px 20px 4px;
+  overflow: hidden; /* 圓角要能切掉捲動區 */
 }
 header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  padding-right: 12px;
 }
 h2 {
   margin: 0;
@@ -96,7 +99,7 @@ h2 {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin: 14px 12px 4px 0;
+  margin: 14px 0 0;
   padding: 0 12px;
   border: 1px solid var(--border);
   border-radius: 999px;
@@ -118,7 +121,31 @@ h2 {
 }
 .body {
   overflow-y: auto;
-  padding: 12px 12px 12px 0;
+  overscroll-behavior: contain;
+  /* 捲軸放進右側留白，內容不會被擠窄，也不會貼著卡片邊 */
+  padding: 4px 10px 16px 0;
+  margin-right: -14px;
+  /* 底部淡出，讓清單不是硬生生被切掉（上緣有吸頂標題，不淡） */
+  mask-image: linear-gradient(to bottom, #000 calc(100% - 28px), transparent);
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+.body::-webkit-scrollbar {
+  width: 10px;
+}
+.body::-webkit-scrollbar-track {
+  background: transparent;
+}
+.body::-webkit-scrollbar-thumb {
+  border: 3px solid transparent;
+  border-radius: 999px;
+  background: var(--text-muted);
+  background-clip: content-box;
+  opacity: 0.4;
+}
+.body::-webkit-scrollbar-thumb:hover {
+  background: var(--text-primary);
+  background-clip: content-box;
 }
 section + section {
   margin-top: 18px;
@@ -128,8 +155,9 @@ h3 {
   top: 0;
   z-index: 1;
   margin: 0 0 8px;
-  padding: 4px 0;
+  padding: 6px 0 5px;
   background: var(--surface);
+  border-bottom: 1px solid var(--border);
   font-size: 13px;
   font-weight: 600;
   color: var(--text-muted);

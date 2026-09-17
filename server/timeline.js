@@ -2,7 +2,7 @@
 // 各歌手的完整 JSON 合計十幾 MB，年表頁不能全部載入，所以抓取後另外整理一份。
 // 同時整理「寫給別人的歌」（public/data/written.json）：詞／曲／編曲有這位歌手、但由別人演唱的歌。
 import { readFile, writeFile } from 'node:fs/promises'
-import { ARTISTS, dataFile, concertsFile, timelineFile, writtenFile } from './config.js'
+import { ARTISTS, dataFile, concertsFile, timelineFile, writtenFile, bioFile } from './config.js'
 import { categoryOf } from '../src/artists.js'
 import { buildModel } from '../src/lib/dataset.js'
 
@@ -109,6 +109,19 @@ export async function buildTimeline() {
     })
   }
   await writeFile(timelineFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists }))
+  // 名單上要在名字後面標年份的人：已故歌手與已解散團體
+  const bio = Object.fromEntries(
+    artists
+      .filter((a) => a.bio?.died || a.bio?.disbanded)
+      .map((a) => [
+        a.slug,
+        {
+          start: (a.bio.born ?? a.bio.formed)?.date?.slice(0, 4) ?? null,
+          end: (a.bio.died ?? a.bio.disbanded)?.date?.slice(0, 4) ?? null,
+        },
+      ]),
+  )
+  await writeFile(bioFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists: bio }))
   await writeFile(writtenFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists: buildWritten(models, raws) }))
   return artists.length
 }

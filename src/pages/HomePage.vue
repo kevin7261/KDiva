@@ -4,6 +4,7 @@ import { RouterLink, useRouter } from 'vue-router'
 import { GROUPS, artistsIn } from '../artists.js'
 import { getModel, loadAll, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
+import { useYears } from '../lib/bio.js'
 import { formatCount, formatDate, watchUrl, creditLines } from '../lib/format.js'
 import BarList from '../components/BarList.vue'
 import ThemeToggle from '../components/ThemeToggle.vue'
@@ -11,6 +12,7 @@ import ThemeToggle from '../components/ThemeToggle.vue'
 const props = defineProps({ group: { type: String, default: 'female' } })
 
 const router = useRouter()
+const years = useYears()
 const canRefresh = import.meta.env.DEV
 const errors = ref([])
 const refreshing = ref('')
@@ -286,7 +288,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
             :style="photo(entry.model) ? { backgroundImage: `url(${photo(entry.model)})` } : {}"
           >
             <div class="banner-text">
-              <div class="name">{{ entry.artist.name }}</div>
+              <div class="name">{{ entry.artist.name }}<span v-if="years(entry.artist.slug)" class="life">{{ years(entry.artist.slug) }}</span></div>
               <div v-if="entry.artist.en" class="en">{{ entry.artist.en }}</div>
               <div v-if="memberNames(entry.artist)" class="en members">{{ memberNames(entry.artist) }}</div>
             </div>
@@ -480,6 +482,14 @@ h1 {
   margin-top: -28px;
   position: relative;
   z-index: 2;
+}
+/* 已故歌手／已解散團體：名字後面的生卒年 */
+.name .life {
+  margin-left: 6px;
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--text-muted);
+  white-space: nowrap;
 }
 /* 出道年份清單：捲動時固定在左側 */
 .years {
