@@ -756,7 +756,8 @@
             "music": "方文良",
             "arranger": "Wave_G"
           },
-          "titleZh": "臺三線的月光"
+          "titleZh": "臺三線的月光",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -1207,7 +1208,8 @@
           "duration": 266,
           "byOther": false,
           "nameKey": "怎樣乎你瞭解",
-          "titleZh": "怎樣乎你瞭解"
+          "titleZh": "怎樣乎你瞭解",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -1727,7 +1729,8 @@
           "duration": 250,
           "byOther": false,
           "nameKey": "綴我飛",
-          "titleZh": "綴我飛 (合作演出：周星傑)"
+          "titleZh": "綴我飛 (合作演出：周星傑)",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -1770,5 +1773,6 @@
       "wikiKind": null,
       "nameKey": "江湖女俠"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

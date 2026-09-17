@@ -76,12 +76,16 @@ export async function buildTimeline() {
       category: categoryOf(artist),
       debut: artist.debut,
       bio: concerts?.bio ?? {},
-      albums: (model?.albums ?? []).map((a) => ({
-        name: a.name,
-        date: a.releaseDate ?? (a.year ? `${a.year}-07-01` : null),
-        precision: a.releaseDate ? a.releaseDatePrecision : 'year',
-        kind: a.isCompilation ? 'compilation' : a.type === 'Album' ? 'album' : 'single',
-      })).filter((a) => a.date),
+      albums: [
+        ...(model?.albums ?? []).map((a) => ({
+          name: a.name,
+          date: a.releaseDate ?? (a.year ? `${a.year}-07-01` : null),
+          precision: a.releaseDate ? a.releaseDatePrecision : 'year',
+          kind: a.isCompilation ? 'compilation' : a.type === 'Album' ? 'album' : 'single',
+        })),
+        // YouTube Music 沒上架的專輯也畫在年表上
+        ...(model?.missingAlbums ?? []).map((a) => ({ name: a.name, date: a.releaseDate, precision: a.releaseDatePrecision, kind: 'album', missing: true })),
+      ].filter((a) => a.date),
       tours: (concerts?.tours ?? []).map((t) => ({
         name: t.name,
         kind: t.kind,

@@ -110,7 +110,12 @@ const rows = computed(() =>
       const single = al.kind !== 'album'
       if (!layers.value.has(single ? 'single' : 'album')) continue
       const label = { album: '專輯', single: '單曲／EP', compilation: '精選輯' }[al.kind]
-      marks.push({ kind: single ? 'single' : 'album', at: yearOf(al), tip: [`《${al.name}》`, `${label} · ${formatDay(al)}`] })
+      marks.push({
+        kind: single ? 'single' : 'album',
+        at: yearOf(al),
+        missing: al.missing,
+        tip: [`《${al.name}》`, `${label} · ${formatDay(al)}`, ...(al.missing ? ['YouTube Music 未上架（Wikipedia）'] : [])],
+      })
     }
     const bars = a.tours
       .filter((t) => layers.value.has(t.kind))
@@ -325,7 +330,7 @@ const counts = computed(() => {
                       :key="`m${i}`"
                       v-tip="m.tip"
                       class="mark"
-                      :class="m.kind"
+                      :class="[m.kind, { missing: m.missing }]"
                       :style="{ left: `${m.left}px` }"
                     />
                   </div>
@@ -696,6 +701,12 @@ h1 {
 .g-album::before,
 .g-single::before {
   top: 50%;
+}
+/* YouTube Music 未上架的專輯：空心刻線 */
+.mark.album.missing::before {
+  background: none;
+  border: 1px dashed var(--series);
+  width: 3px;
 }
 .mark.born,
 .mark.debut,

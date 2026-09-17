@@ -654,7 +654,8 @@
             "lyrics": "姚謙",
             "music": "蔡健雅",
             "arranger": "Kenn C."
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1003,7 +1004,8 @@
             "lyrics": "姚謙",
             "music": "蔡健雅",
             "arranger": "Kenn C."
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -2821,7 +2823,8 @@
           "duration": 289,
           "byOther": false,
           "nameKey": "週三的情書",
-          "titleZh": "週三的情書 (合唱版)"
+          "titleZh": "週三的情書 (合唱版)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2014-01-01",
@@ -3050,7 +3053,8 @@
           "duration": 239,
           "byOther": true,
           "nameKey": "只怪自己活該",
-          "titleZh": "只怪自己活該"
+          "titleZh": "只怪自己活該",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -3062,7 +3066,8 @@
           "duration": 231,
           "byOther": true,
           "nameKey": "會忘了會記得",
-          "titleZh": "會忘了·會記得"
+          "titleZh": "會忘了·會記得",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -3074,7 +3079,8 @@
           "duration": 276,
           "byOther": false,
           "nameKey": "時光謠",
-          "titleZh": "時光謠"
+          "titleZh": "時光謠",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -3103,7 +3109,8 @@
           "duration": 266,
           "byOther": false,
           "nameKey": "當我想你的時候",
-          "titleZh": "當我想你的時候"
+          "titleZh": "當我想你的時候",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2016-01-01",
@@ -3132,7 +3139,8 @@
           "duration": 279,
           "byOther": false,
           "nameKey": "紫",
-          "titleZh": "紫 (電影《悟空傳》插曲)"
+          "titleZh": "紫 (電影《悟空傳》插曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2017-01-01",
@@ -3228,7 +3236,8 @@
           "duration": 247,
           "byOther": false,
           "nameKey": "失物招領",
-          "titleZh": "失物招領 (電影《以年為單位的戀愛》情感主題曲)"
+          "titleZh": "失物招領 (電影《以年為單位的戀愛》情感主題曲)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -3240,7 +3249,8 @@
           "duration": 247,
           "byOther": false,
           "nameKey": "失物招領",
-          "titleZh": "失物招領 (電影《以年為單位的戀愛》情感主題曲) (伴奏版)"
+          "titleZh": "失物招領 (電影《以年為單位的戀愛》情感主題曲) (伴奏版)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2021-01-01",
@@ -4195,7 +4205,8 @@
           "duration": 248,
           "byOther": false,
           "nameKey": "不願醒的夢",
-          "titleZh": "不願醒的夢（《野狗骨頭》電視劇野狗主題曲/片尾曲）"
+          "titleZh": "不願醒的夢（《野狗骨頭》電視劇野狗主題曲/片尾曲）",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -4207,7 +4218,8 @@
           "duration": 249,
           "byOther": false,
           "nameKey": "不願醒的夢",
-          "titleZh": "不願醒的夢 (伴奏)"
+          "titleZh": "不願醒的夢 (伴奏)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -4216,6 +4228,26 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "不願醒的夢"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "Secret Lavender",
+      "releaseDate": "2002-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "蔡健雅音樂作品列表",
+      "source": "table",
+      "year": 2002
+    },
+    {
+      "title": "My Space",
+      "releaseDate": "2008-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "蔡健雅音樂作品列表",
+      "source": "table",
+      "year": 2008
     }
   ]
 }

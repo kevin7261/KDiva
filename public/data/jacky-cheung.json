@@ -1072,7 +1072,8 @@
             "music": "Paul Mauriat",
             "arranger": "Richard Yuen、蕭唯忱"
           },
-          "titleZh": "思念 ~ 臺北之歌"
+          "titleZh": "思念 ~ 臺北之歌",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -1716,7 +1717,8 @@
             "music": "Dag Kolsrud",
             "arranger": "盧東尼"
           },
-          "titleZh": "不準點火"
+          "titleZh": "不準點火",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -4011,7 +4013,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "吻別 (歌曲)",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "吻別"
     },
     {
@@ -4405,7 +4407,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "祇想一生跟你走",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "一生跟你走"
     },
     {
@@ -8838,7 +8840,8 @@
             "music": "瀧澤玖健",
             "arranger": "鍾興民"
           },
-          "titleZh": "臺北不是傷心地"
+          "titleZh": "臺北不是傷心地",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -10457,7 +10460,8 @@
             "lyrics": "Dennis Matkosky、Ty Lacy",
             "music": "Dennis Matkosky、Ty Lacy",
             "arranger": "Michael Au"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -10518,7 +10522,8 @@
       "wikiTitle": "Touch of Love (張學友專輯)",
       "wikiKind": null,
       "nameKey": "touchoflove",
-      "titleZh": "Touch of Love (張學友專輯)"
+      "titleZh": "Touch of Love",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_z7rR4ZAOEWI",
@@ -11538,7 +11543,8 @@
             "music": "陳輝陽",
             "arranger": "陳輝陽"
           },
-          "titleZh": "日與夜 (商業電臺廣播戲”日與夜”主題曲)"
+          "titleZh": "日與夜 (商業電臺廣播戲”日與夜”主題曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2002-10-30",
@@ -16495,6 +16501,80 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "張學友"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "Smile",
+      "releaseDate": "1985-04-18",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1985
+    },
+    {
+      "title": "LINDA CDV",
+      "releaseDate": "1989-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1989
+    },
+    {
+      "title": "夕陽醉了 CDV",
+      "releaseDate": "1989-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1989
+    },
+    {
+      "title": "個人檔案 2",
+      "releaseDate": "1996-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1996
+    },
+    {
+      "title": "友情歌 個人檔案第三集",
+      "releaseDate": "1998-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1998
+    },
+    {
+      "title": "熱",
+      "releaseDate": "2001-09-26",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 2001
+    },
+    {
+      "title": "1985-1999大碟全集",
+      "releaseDate": "2003-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 2003
+    },
+    {
+      "title": "寶麗金經典復黑特藏",
+      "releaseDate": "2014-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 2014
     }
   ]
 }

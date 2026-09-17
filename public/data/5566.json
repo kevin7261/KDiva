@@ -644,7 +644,8 @@
           "duration": 259,
           "byOther": false,
           "nameKey": "我們#live",
-          "titleZh": "我們 (Live)"
+          "titleZh": "我們 (Live)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2021-01-01",
@@ -682,6 +683,26 @@
       "wikiTitle": "5566",
       "wikiKind": "single",
       "nameKey": "戰記"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "First Album",
+      "releaseDate": "2002-12-11",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "5566",
+      "source": "list",
+      "year": 2002
+    },
+    {
+      "title": "喝采bravo",
+      "releaseDate": "2008-01-08",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "5566",
+      "source": "list",
+      "year": 2008
     }
   ]
 }

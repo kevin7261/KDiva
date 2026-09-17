@@ -191,7 +191,8 @@
           "duration": 227,
           "byOther": false,
           "nameKey": "癡心探戈",
-          "titleZh": "痴心探戈"
+          "titleZh": "痴心探戈",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -857,7 +858,8 @@
           "duration": 221,
           "byOther": false,
           "nameKey": "五木大學",
-          "titleZh": "五木大學"
+          "titleZh": "五木大學",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1013,7 +1015,8 @@
           "duration": 184,
           "byOther": false,
           "nameKey": "ブラジル吃茶店的歌",
-          "titleZh": "ブラジル吃茶店的歌"
+          "titleZh": "ブラジル吃茶店的歌",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2025-01-01",
@@ -1220,7 +1223,8 @@
           "duration": 256,
           "byOther": false,
           "nameKey": "扮公夥仔",
-          "titleZh": "扮公夥仔"
+          "titleZh": "扮公夥仔",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -1365,7 +1369,8 @@
           "duration": 243,
           "byOther": false,
           "nameKey": "癡心等待你",
-          "titleZh": "痴心等待你"
+          "titleZh": "痴心等待你",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -1457,6 +1462,35 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "講袂出喙的情話"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "最愛",
+      "releaseDate": "2011-08-25",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "許富凱",
+      "source": "table",
+      "year": 2011
+    },
+    {
+      "title": "寫乎你的歌",
+      "releaseDate": "2012-10-12",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "許富凱",
+      "source": "table",
+      "year": 2012
+    },
+    {
+      "title": "一寸真心",
+      "releaseDate": "2014-09-05",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "許富凱",
+      "source": "table",
+      "year": 2014
     }
   ]
 }

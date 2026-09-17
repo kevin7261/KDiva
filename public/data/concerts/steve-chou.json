@@ -1,0 +1,531 @@
+{
+  "slug": "steve-chou",
+  "fetchedAt": "2026-09-17T18:07:26.037Z",
+  "wiki": "周傳雄",
+  "bio": {
+    "born": {
+      "date": "1969-06-07",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "『花花世界』巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1992-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "1992-01-01",
+        "precision": "year"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺灣"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "1992-01-01",
+          "precision": "year",
+          "region": "",
+          "city": "臺灣",
+          "venue": "",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "『我在身邊』演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2004-07-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2004-07-09",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "新加坡"
+      ],
+      "venues": [
+        "新加坡室內體育館"
+      ],
+      "shows": [
+        {
+          "date": "2004-07-09",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "『愛‧無所不在』演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2006-07-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2006-07-29",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "上海"
+      ],
+      "venues": [
+        "上海大舞臺"
+      ],
+      "shows": [
+        {
+          "date": "2006-07-29",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "Timeless 時不知歸音樂會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2015-09-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2016-04-09",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "北京",
+        "天津",
+        "武漢"
+      ],
+      "venues": [
+        "萬事達匯源空間",
+        "天津體育中心大館",
+        "湖北洪山體育館"
+      ],
+      "shows": [
+        {
+          "date": "2015-09-26",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "萬事達匯源空間",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2016-02-27",
+          "precision": "day",
+          "region": "",
+          "city": "天津",
+          "venue": "天津體育中心大館",
+          "lat": 39.146666666667,
+          "lon": 117.20555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2016-04-09",
+          "precision": "day",
+          "region": "",
+          "city": "武漢",
+          "venue": "湖北洪山體育館",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "今宵酒醒何處演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2016-10-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-04-15",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "悉尼",
+        "北京"
+      ],
+      "venues": [
+        "悉尼市政大廳",
+        "樂視體育生態中心"
+      ],
+      "shows": [
+        {
+          "date": "2016-10-17",
+          "precision": "day",
+          "region": "",
+          "city": "悉尼",
+          "venue": "悉尼市政大廳",
+          "lat": -33.867777777777775,
+          "lon": 151.21,
+          "geo": "city"
+        },
+        {
+          "date": "2017-04-15",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "樂視體育生態中心",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "青花傳情巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2019-12-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-10-30",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "深圳",
+        "廣州",
+        "蘇州"
+      ],
+      "venues": [
+        "深圳灣體育中心春繭體育館",
+        "廣州體育館1號館",
+        "蘇州奧林匹克體育中心體育館"
+      ],
+      "shows": [
+        {
+          "date": "2019-12-07",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳灣體育中心春繭體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2021-10-16",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州體育館1號館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2021-10-30",
+          "precision": "day",
+          "region": "",
+          "city": "蘇州",
+          "venue": "蘇州奧林匹克體育中心體育館",
+          "lat": 31.306633,
+          "lon": 120.745299,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "我們的歌 (第四季)",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-09-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-09-25",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "念念不忘巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-03-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-01-04",
+        "precision": "day"
+      },
+      "showCount": 17,
+      "regions": [],
+      "cities": [
+        "成都",
+        "杭州",
+        "哈爾濱",
+        "西安",
+        "無錫",
+        "福州",
+        "大連",
+        "深圳",
+        "重慶",
+        "上海",
+        "常州",
+        "天津",
+        "鄭州",
+        "佛山",
+        "南京",
+        "廈門"
+      ],
+      "venues": [
+        "成都鳳凰山體育公園綜合體育館",
+        "杭州奧體中心體育館",
+        "哈爾濱國際會展體育中心體育館",
+        "西安奧體中心體育館",
+        "無錫體育中心體育館",
+        "福州海峽奧林匹克體育中心綜合體育館",
+        "大連體育中心體育館",
+        "深圳大運中心體育館",
+        "重慶華熙LIVE·魚洞",
+        "上海東方體育中心",
+        "常州奧林匹克體育中心體育場",
+        "天津奧林匹克中心體育館",
+        "鄭州奧林匹克體育中心體育館",
+        "佛山國際體育文化演藝中心",
+        "南京青奧體育公園體育館",
+        "廈門奧林匹克體育中心-鳳凰體育館"
+      ],
+      "shows": [
+        {
+          "date": "2024-03-16",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "成都鳳凰山體育公園綜合體育館",
+          "lat": 30.771,
+          "lon": 104.076,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-03-30",
+          "precision": "day",
+          "region": "",
+          "city": "杭州",
+          "venue": "杭州奧體中心體育館",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2024-04-13",
+          "precision": "day",
+          "region": "",
+          "city": "哈爾濱",
+          "venue": "哈爾濱國際會展體育中心體育館",
+          "lat": 45.75,
+          "lon": 126.63333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2024-05-11",
+          "precision": "day",
+          "region": "",
+          "city": "西安",
+          "venue": "西安奧體中心體育館",
+          "lat": 34.37821,
+          "lon": 109.01798,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-01",
+          "precision": "day",
+          "region": "",
+          "city": "無錫",
+          "venue": "無錫體育中心體育館",
+          "lat": 31.566667,
+          "lon": 120.283333,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-22",
+          "precision": "day",
+          "region": "",
+          "city": "福州",
+          "venue": "福州海峽奧林匹克體育中心綜合體育館",
+          "lat": 25.8532,
+          "lon": 119.609,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-07-06",
+          "precision": "day",
+          "region": "",
+          "city": "大連",
+          "venue": "大連體育中心體育館",
+          "lat": 39.02,
+          "lon": 121.564,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-07-20",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳大運中心體育館",
+          "lat": 22.697139,
+          "lon": 114.212194,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-08-10",
+          "precision": "day",
+          "region": "",
+          "city": "重慶",
+          "venue": "重慶華熙LIVE·魚洞",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2024-09-06",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "上海東方體育中心",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-08",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "上海東方體育中心",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-22",
+          "precision": "day",
+          "region": "",
+          "city": "常州",
+          "venue": "常州奧林匹克體育中心體育場",
+          "lat": 31.808072,
+          "lon": 119.974308,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-10-19",
+          "precision": "day",
+          "region": "",
+          "city": "天津",
+          "venue": "天津奧林匹克中心體育館",
+          "lat": 39.076389,
+          "lon": 117.171667,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-11-16",
+          "precision": "day",
+          "region": "",
+          "city": "鄭州",
+          "venue": "鄭州奧林匹克體育中心體育館",
+          "lat": 34.7426,
+          "lon": 113.5308,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-11-30",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "佛山國際體育文化演藝中心",
+          "lat": 22.959949,
+          "lon": 113.140953,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-12-14",
+          "precision": "day",
+          "region": "",
+          "city": "南京",
+          "venue": "南京青奧體育公園體育館",
+          "lat": 32.0432,
+          "lon": 118.6624,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-01-04",
+          "precision": "day",
+          "region": "",
+          "city": "廈門",
+          "venue": "廈門奧林匹克體育中心-鳳凰體育館",
+          "lat": 24.5667,
+          "lon": 118.195,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "奔跑吧",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2025-04-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-04-25",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    }
+  ]
+}

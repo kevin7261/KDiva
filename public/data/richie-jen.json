@@ -907,7 +907,8 @@
           "duration": 291,
           "byOther": false,
           "nameKey": "瞭解",
-          "titleZh": "瞭解"
+          "titleZh": "瞭解",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1657,7 +1658,8 @@
           "duration": 194,
           "byOther": false,
           "nameKey": "天才白癡夢",
-          "titleZh": "天才白痴夢"
+          "titleZh": "天才白痴夢",
+          "titleZhVariant": true
         },
         {
           "index": 18,
@@ -2176,7 +2178,8 @@
           "duration": 317,
           "byOther": false,
           "nameKey": "走了千萬裡",
-          "titleZh": "走了千萬裡"
+          "titleZh": "走了千萬裡",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -3943,7 +3946,8 @@
             "music": "任賢齊",
             "arranger": "Adam lee"
           },
-          "titleZh": "賽跑"
+          "titleZh": "賽跑",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -4255,7 +4259,8 @@
           "duration": 235,
           "byOther": false,
           "nameKey": "任性",
-          "titleZh": "任性 (電影 \"雙城計中計\" 主題曲)"
+          "titleZh": "任性 (電影 \"雙城計中計\" 主題曲)",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -4761,7 +4766,8 @@
           "duration": 239,
           "byOther": false,
           "nameKey": "時光誅仙",
-          "titleZh": "時光誅仙 (電影《時光誅仙》主題曲)"
+          "titleZh": "時光誅仙 (電影《時光誅仙》主題曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -4790,7 +4796,8 @@
           "duration": 239,
           "byOther": false,
           "nameKey": "時光誅仙",
-          "titleZh": "時光誅仙(電影《時光誅仙》同名主題曲)"
+          "titleZh": "時光誅仙(電影《時光誅仙》同名主題曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -4847,7 +4854,8 @@
           "duration": 283,
           "byOther": false,
           "nameKey": "英雄有路",
-          "titleZh": "英雄有路 (電視劇《青雲志》推廣曲)"
+          "titleZh": "英雄有路 (電視劇《青雲志》推廣曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -5302,6 +5310,26 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "鐵血丹心"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "齊待R.S.V.P",
+      "releaseDate": "2009-04-28",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "任賢齊",
+      "source": "table",
+      "year": 2009
+    },
+    {
+      "title": "音樂旅行者",
+      "releaseDate": "2010-05-28",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "音樂旅行者",
+      "source": "album-page",
+      "year": 2010
     }
   ]
 }

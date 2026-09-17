@@ -1460,7 +1460,8 @@
           "duration": 305,
           "byOther": false,
           "nameKey": "嘉善宣卷何文秀桑園訪妻",
-          "titleZh": "嘉善宣卷何文秀桑園訪妻"
+          "titleZh": "嘉善宣卷何文秀桑園訪妻",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -1469,6 +1470,26 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "嘉善宣卷何文秀桑園訪妻"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "別說再見",
+      "releaseDate": "1973-05-01",
+      "releaseDatePrecision": "month",
+      "kind": "studio",
+      "wikiTitle": "張艾嘉",
+      "source": "table",
+      "year": 1973
+    },
+    {
+      "title": "細說",
+      "releaseDate": "1987-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "張艾嘉",
+      "source": "table",
+      "year": 1987
     }
   ]
 }

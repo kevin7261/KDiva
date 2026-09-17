@@ -712,7 +712,8 @@
           "duration": 205,
           "byOther": false,
           "nameKey": "畸後",
-          "titleZh": "畸後"
+          "titleZh": "畸後",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1368,7 +1369,8 @@
             "music": "曾奕文、hocc",
             "arranger": "王雙駿、何秉舜、李端嫻"
           },
-          "titleZh": "樓臺會"
+          "titleZh": "樓臺會",
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -1679,7 +1681,8 @@
           "duration": 204,
           "byOther": false,
           "nameKey": "畸後",
-          "titleZh": "畸後"
+          "titleZh": "畸後",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -2283,7 +2286,8 @@
             "music": "于逸堯",
             "arranger": "何秉舜"
           },
-          "titleZh": "天然沖曬"
+          "titleZh": "天然沖曬",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -3250,7 +3254,8 @@
       "wikiTitle": "Heroes (專輯)",
       "wikiKind": null,
       "nameKey": "heroes",
-      "titleZh": "Heroes (專輯)"
+      "titleZh": "Heroes",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_uWL2W22EeAF",
@@ -3508,7 +3513,8 @@
           "duration": 239,
           "byOther": false,
           "nameKey": "流浪到淡水",
-          "titleZh": "流浪到淡水 (臺語)"
+          "titleZh": "流浪到淡水 (臺語)",
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -3961,7 +3967,8 @@
             "music": "何秉舜",
             "arranger": "何秉舜"
           },
-          "titleZh": "痴情司"
+          "titleZh": "痴情司",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -4954,7 +4961,8 @@
             "music": "PAN",
             "arranger": "PAN"
           },
-          "titleZh": "青蔥"
+          "titleZh": "青蔥",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -6450,7 +6458,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "是有種人",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "是有種人"
     },
     {
@@ -8065,6 +8073,44 @@
       "wikiTitle": "Rive-Sud, Montréal",
       "wikiKind": "studio",
       "nameKey": "rivesudmontréal"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "十日談",
+      "releaseDate": "2008-12-16",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "何韻詩音樂專輯列表",
+      "source": "table",
+      "year": 2008
+    },
+    {
+      "title": "夢—還沒有完",
+      "releaseDate": "2012-03-12",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "何韻詩音樂專輯列表",
+      "source": "table",
+      "year": 2012
+    },
+    {
+      "title": "共存",
+      "releaseDate": "2013-03-15",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "共存 (何韻詩專輯)",
+      "source": "album-page",
+      "year": 2013
+    },
+    {
+      "title": "Becoming the Song",
+      "releaseDate": "2020-07-01",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "何韻詩音樂專輯列表",
+      "source": "table",
+      "year": 2020
     }
   ]
 }

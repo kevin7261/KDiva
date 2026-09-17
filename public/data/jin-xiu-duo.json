@@ -809,7 +809,8 @@
           "duration": 216,
           "byOther": false,
           "nameKey": "早安臺北",
-          "titleZh": "早安臺北"
+          "titleZh": "早安臺北",
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -1182,6 +1183,35 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "dothepowerwalk"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "錦繡三溫暖",
+      "releaseDate": "2000-03-07",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "錦繡二重唱",
+      "source": "table",
+      "year": 2000
+    },
+    {
+      "title": "錦鏽羅曼史I 美麗與哀愁",
+      "releaseDate": "2000-11-14",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "錦繡二重唱",
+      "source": "table",
+      "year": 2000
+    },
+    {
+      "title": "錦鏽羅曼史II 夏之旅",
+      "releaseDate": "2001-08-08",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "錦繡二重唱",
+      "source": "table",
+      "year": 2001
     }
   ]
 }

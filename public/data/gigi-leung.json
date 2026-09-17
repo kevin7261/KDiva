@@ -884,7 +884,8 @@
             "music": "D.L. Bryon、Tanya Leah",
             "arranger": "Terence Teo"
           },
-          "titleZh": "空氣汙染指數"
+          "titleZh": "空氣汙染指數",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -6848,7 +6849,8 @@
           "duration": 211,
           "byOther": false,
           "nameKey": "紫荊花盛開",
-          "titleZh": "紫荊花盛開(伴奏)"
+          "titleZh": "紫荊花盛開(伴奏)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -6885,6 +6887,98 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "辣到出汁"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "梁詠琪",
+      "releaseDate": "1998-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "table",
+      "year": 1998
+    },
+    {
+      "title": "加洲紅紅人館",
+      "releaseDate": "2000-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "table",
+      "year": 2000
+    },
+    {
+      "title": "最愛梁詠琪",
+      "releaseDate": "2000-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "table",
+      "year": 2000
+    },
+    {
+      "title": "903 id club梁詠琪拉闊音樂會2002",
+      "releaseDate": "2002-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "table",
+      "year": 2002
+    },
+    {
+      "title": "小天使糖糖",
+      "releaseDate": "2004-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "list",
+      "year": 2004
+    },
+    {
+      "title": "Look",
+      "releaseDate": "2005-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "table",
+      "year": 2005
+    },
+    {
+      "title": "禮物",
+      "releaseDate": "2009-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "table",
+      "year": 2009
+    },
+    {
+      "title": "怕寂寞的貓",
+      "releaseDate": "2010-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "table",
+      "year": 2010
+    },
+    {
+      "title": "Butterfly Kisses",
+      "releaseDate": "2012-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "table",
+      "year": 2012
+    },
+    {
+      "title": "溫柔的存在",
+      "releaseDate": "2026-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "梁詠琪",
+      "source": "table",
+      "year": 2026
     }
   ]
 }

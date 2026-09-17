@@ -340,7 +340,8 @@
           "duration": 331,
           "byOther": false,
           "nameKey": "一臺船",
-          "titleZh": "一臺船"
+          "titleZh": "一臺船",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -352,7 +353,8 @@
           "duration": 335,
           "byOther": false,
           "nameKey": "嘸通嫌臺灣",
-          "titleZh": "嘸通嫌臺灣"
+          "titleZh": "嘸通嫌臺灣",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -408,7 +410,8 @@
           "duration": 373,
           "byOther": false,
           "nameKey": "關門戲臺",
-          "titleZh": "關門戲臺"
+          "titleZh": "關門戲臺",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -525,7 +528,8 @@
           "duration": 344,
           "byOther": false,
           "nameKey": "愛的國度裡",
-          "titleZh": "愛的國度裡"
+          "titleZh": "愛的國度裡",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -1980,6 +1984,98 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "電影戀戀風塵原聲帶"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "重唱台湾歌谣Ⅰ",
+      "releaseDate": "1982-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 1982
+    },
+    {
+      "title": "重唱台湾歌谣Ⅱ",
+      "releaseDate": "1983-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 1983
+    },
+    {
+      "title": "流星",
+      "releaseDate": "1984-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 1984
+    },
+    {
+      "title": "相遇",
+      "releaseDate": "1986-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 1986
+    },
+    {
+      "title": "台湾的囝仔歌",
+      "releaseDate": "1990-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 1990
+    },
+    {
+      "title": "地球真美丽",
+      "releaseDate": "1990-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 1990
+    },
+    {
+      "title": "春天的花蕊",
+      "releaseDate": "1995-01-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 1995
+    },
+    {
+      "title": "纯．景淳",
+      "releaseDate": "1997-10-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 1997
+    },
+    {
+      "title": "爱河月光",
+      "releaseDate": "2005-02-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 2005
+    },
+    {
+      "title": "千缕微微风",
+      "releaseDate": "2009-11-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "許景淳",
+      "source": "table",
+      "year": 2009
     }
   ]
 }

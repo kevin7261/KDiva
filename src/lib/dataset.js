@@ -258,8 +258,25 @@ export function buildModel(raw, artistConfig = {}) {
   const songList = [...songs.values()].sort((a, b) => (b.plays ?? -1) - (a.plays ?? -1))
   songList.forEach((s, i) => (s.rank = i + 1))
 
+  // Wikipedia 有、YouTube Music 沒上架的專輯：沒有曲目與播放數，只佔發行年表的位置
+  const missingAlbums = (raw.wikiOnly ?? []).map((w) => ({
+    browseId: `wiki:${w.releaseDate}:${w.title}`,
+    missing: true,
+    ...splitTitle(w.title),
+    title: w.title,
+    type: 'Album',
+    typeLabel: w.kind === 'studio' ? '專輯' : '專輯／EP',
+    releaseDate: w.releaseDate,
+    releaseDatePrecision: w.releaseDatePrecision,
+    wikiTitle: w.wikiTitle,
+    sortKey: w.releaseDate,
+    displayYear: Number(w.releaseDate.slice(0, 4)),
+    releaseLabel: formatRelease(w),
+  }))
+
   return {
     slug: raw.slug ?? artistConfig.slug,
+    missingAlbums,
     artist: {
       ...raw.artist,
       name: artistConfig.name ?? splitTitle(raw.artist.name).name,

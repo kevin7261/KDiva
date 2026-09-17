@@ -1531,7 +1531,8 @@
           "duration": 262,
           "byOther": false,
           "nameKey": "時間的秘密",
-          "titleZh": "時間的秘密"
+          "titleZh": "時間的秘密",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -2495,7 +2496,8 @@
           "duration": 144,
           "byOther": false,
           "nameKey": "眾裡尋他",
-          "titleZh": "眾裡尋他"
+          "titleZh": "眾裡尋他",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -3896,6 +3898,26 @@
       "wikiTitle": "許茹芸",
       "wikiKind": "single",
       "nameKey": "一首雲的時間"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "1999你是最愛 珍愛大碟",
+      "releaseDate": "1999-04-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "許茹芸",
+      "source": "table",
+      "year": 1999
+    },
+    {
+      "title": "鋼琴記事簿",
+      "releaseDate": "1999-09-16",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "許茹芸",
+      "source": "table",
+      "year": 1999
     }
   ]
 }

@@ -2862,7 +2862,8 @@
           "duration": 251,
           "byOther": false,
           "nameKey": "為愛癡狂",
-          "titleZh": "為愛痴狂"
+          "titleZh": "為愛痴狂",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -3656,7 +3657,8 @@
           "duration": 257,
           "byOther": false,
           "nameKey": "為愛癡狂",
-          "titleZh": "為愛痴狂"
+          "titleZh": "為愛痴狂",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -4569,7 +4571,8 @@
           "duration": 230,
           "byOther": false,
           "nameKey": "縮影",
-          "titleZh": "縮影 (《臺北女子圖鑑》戲劇片頭曲)"
+          "titleZh": "縮影 (《臺北女子圖鑑》戲劇片頭曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -4662,6 +4665,17 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "你從春天走來"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "聽說?",
+      "releaseDate": "2004-10-22",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "刘若英",
+      "source": "table",
+      "year": 2004
     }
   ]
 }

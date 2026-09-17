@@ -938,7 +938,8 @@
           "credits": {
             "lyrics": "周興哲、Brooke Toia",
             "music": "周興哲"
-          }
+          },
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2018-11-29",
@@ -947,7 +948,8 @@
       "wikiTitle": "周興哲",
       "wikiKind": "single",
       "nameKey": "nobodybutme",
-      "titleZh": "Nobody But Me（LOL音樂節特別版）"
+      "titleZh": "Nobody But Me（LOL音樂節特別版）",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_ZbV5BJqF0GG",
@@ -1019,7 +1021,8 @@
           "credits": {
             "lyrics": "周興哲、Brooke Toia",
             "music": "周興哲"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -1065,7 +1068,8 @@
             "lyrics": "周興哲",
             "music": "周興哲"
           },
-          "titleZh": "終於瞭解自由"
+          "titleZh": "終於瞭解自由",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2018-12-14",
@@ -1229,7 +1233,8 @@
           "credits": {
             "lyrics": "周興哲、Brooke Toia",
             "music": "周興哲"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -1290,7 +1295,8 @@
             "lyrics": "周興哲",
             "music": "周興哲"
           },
-          "titleZh": "終於瞭解自由"
+          "titleZh": "終於瞭解自由",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2019-12-24",
@@ -1689,7 +1695,8 @@
           "duration": 225,
           "byOther": false,
           "nameKey": "愛我的時候",
-          "titleZh": "愛我的時候 (合作演出：單依純)"
+          "titleZh": "愛我的時候 (合作演出：單依純)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1701,7 +1708,8 @@
           "duration": 225,
           "byOther": false,
           "nameKey": "愛我的時候",
-          "titleZh": "愛我的時候 (伴奏) (合作演出：單依純)"
+          "titleZh": "愛我的時候 (伴奏) (合作演出：單依純)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -1713,7 +1721,8 @@
           "duration": 225,
           "byOther": false,
           "nameKey": "愛我的時候",
-          "titleZh": "愛我的時候（純音樂） (合作演出：單依純)"
+          "titleZh": "愛我的時候（純音樂） (合作演出：單依純)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2357,7 +2366,8 @@
             "lyrics": "饒雪漫",
             "music": "周興哲"
           },
-          "titleZh": "永不失聯的愛(國風R&B版)"
+          "titleZh": "永不失聯的愛(國風R&B版)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2367,5 +2377,6 @@
       "wikiKind": null,
       "nameKey": "永不失聯的愛"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

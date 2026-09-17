@@ -1278,7 +1278,8 @@
           "duration": 275,
           "byOther": false,
           "nameKey": "愛情多瑙河",
-          "titleZh": "愛情多瑙河"
+          "titleZh": "愛情多瑙河",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -1301,7 +1302,8 @@
           "duration": 333,
           "byOther": false,
           "nameKey": "秋戀",
-          "titleZh": "秋戀"
+          "titleZh": "秋戀",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -1313,7 +1315,8 @@
           "duration": 253,
           "byOther": false,
           "nameKey": "身邊",
-          "titleZh": "身邊"
+          "titleZh": "身邊",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -1347,7 +1350,8 @@
           "duration": 255,
           "byOther": false,
           "nameKey": "愚人碼頭",
-          "titleZh": "愚人碼頭"
+          "titleZh": "愚人碼頭",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -1359,7 +1363,8 @@
           "duration": 298,
           "byOther": false,
           "nameKey": "雪候鳥",
-          "titleZh": "雪候鳥"
+          "titleZh": "雪候鳥",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1371,7 +1376,8 @@
           "duration": 230,
           "byOther": false,
           "nameKey": "旁觀者",
-          "titleZh": "旁觀者"
+          "titleZh": "旁觀者",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -1405,7 +1411,8 @@
           "duration": 261,
           "byOther": false,
           "nameKey": "天涯共此時",
-          "titleZh": "天涯共此時"
+          "titleZh": "天涯共此時",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -1434,7 +1441,8 @@
           "duration": 229,
           "byOther": false,
           "nameKey": "情進千萬家",
-          "titleZh": "情進千萬家"
+          "titleZh": "情進千萬家",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2019-02-01",
@@ -1463,7 +1471,8 @@
           "duration": 208,
           "byOther": false,
           "nameKey": "甘願一生交乎你",
-          "titleZh": "甘願一生交乎你"
+          "titleZh": "甘願一生交乎你",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1475,7 +1484,8 @@
           "duration": 200,
           "byOther": false,
           "nameKey": "甘願一生交乎你",
-          "titleZh": "甘願一生交乎你 (伴奏版)"
+          "titleZh": "甘願一生交乎你 (伴奏版)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2023-10-01",
@@ -1485,5 +1495,6 @@
       "wikiKind": "single",
       "nameKey": "甘願一生交乎你"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

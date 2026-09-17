@@ -406,7 +406,8 @@
           "duration": 181,
           "byOther": false,
           "nameKey": "馬來西亞988電臺指定臺歌",
-          "titleZh": "馬來西亞988電臺指定臺歌"
+          "titleZh": "馬來西亞988電臺指定臺歌",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2002-11-16",
@@ -691,6 +692,116 @@
       "wikiTitle": "黃立行",
       "wikiKind": "studio",
       "nameKey": "無神論"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "SHIAM! 閃",
+      "releaseDate": "1992-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1992
+    },
+    {
+      "title": "Jump 跳",
+      "releaseDate": "1992-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1992
+    },
+    {
+      "title": "Ya!",
+      "releaseDate": "1993-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1993
+    },
+    {
+      "title": "That's The Way",
+      "releaseDate": "1994-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1994
+    },
+    {
+      "title": "FANTASY",
+      "releaseDate": "1994-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1994
+    },
+    {
+      "title": "Phat 炫",
+      "releaseDate": "1995-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1995
+    },
+    {
+      "title": "R.O.C.K",
+      "releaseDate": "1995-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1995
+    },
+    {
+      "title": "Pure Energy",
+      "releaseDate": "1996-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1996
+    },
+    {
+      "title": "Young Guns",
+      "releaseDate": "1997-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1997
+    },
+    {
+      "title": "Say Hello To The World 冒險",
+      "releaseDate": "1997-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "list",
+      "year": 1997
+    },
+    {
+      "title": "音浪",
+      "releaseDate": "2004-01-06",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "黃立行",
+      "source": "table",
+      "year": 2004
+    },
+    {
+      "title": "最後只好躺下來",
+      "releaseDate": "2008-12-05",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "黃立行",
+      "source": "table",
+      "year": 2008
     }
   ]
 }

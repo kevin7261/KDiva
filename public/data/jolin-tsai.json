@@ -2261,7 +2261,8 @@
             "lyrics": "李焯雄",
             "arranger": "呂紹淳"
           },
-          "titleZh": "衣服佔心術 (混音版)"
+          "titleZh": "衣服佔心術 (混音版)",
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -2707,7 +2708,8 @@
             "lyrics": "李焯雄",
             "arranger": "呂紹淳"
           },
-          "titleZh": "衣服佔心術"
+          "titleZh": "衣服佔心術",
+          "titleZhVariant": true
         },
         {
           "index": 26,
@@ -3291,7 +3293,8 @@
           "duration": 184,
           "byOther": false,
           "nameKey": "我懷唸的#live",
-          "titleZh": "我懷唸的 (Live)"
+          "titleZh": "我懷唸的 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 13,
@@ -6978,7 +6981,8 @@
       "wikiTitle": "Pleasure (蔡依林歌曲)",
       "wikiKind": "single",
       "nameKey": "pleasure",
-      "titleZh": "Pleasure (歌曲)"
+      "titleZh": "Pleasure",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_rNsmj96qI7k",
@@ -7008,7 +7012,8 @@
       "wikiTitle": "Pleasure (蔡依林歌曲)",
       "wikiKind": "single",
       "nameKey": "pleasure",
-      "titleZh": "Pleasure (歌曲)"
+      "titleZh": "Pleasure",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_jP6bImZ3pxD",
@@ -7038,7 +7043,8 @@
       "wikiTitle": "DIY (歌曲)",
       "wikiKind": "single",
       "nameKey": "diy",
-      "titleZh": "DIY (歌曲)"
+      "titleZh": "DIY",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_Iq32gJ6xPFL",
@@ -7072,6 +7078,44 @@
       "wikiTitle": "布拉格廣場 (歌曲)",
       "wikiKind": "single",
       "nameKey": "布拉格廣場"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "Together",
+      "releaseDate": "2001-11-06",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "蔡依林影音作品",
+      "source": "table",
+      "year": 2001
+    },
+    {
+      "title": "J-Game",
+      "releaseDate": "2005-07-08",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "蔡依林影音作品",
+      "source": "table",
+      "year": 2005
+    },
+    {
+      "title": "地才",
+      "releaseDate": "2007-06-08",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "蔡依林影音作品",
+      "source": "table",
+      "year": 2007
+    },
+    {
+      "title": "Myself",
+      "releaseDate": "2010-10-29",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "蔡依林影音作品",
+      "source": "table",
+      "year": 2010
     }
   ]
 }

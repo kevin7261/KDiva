@@ -428,7 +428,8 @@
           "duration": 239,
           "byOther": false,
           "nameKey": "永遠乎咱作夥",
-          "titleZh": "永遠乎咱作夥"
+          "titleZh": "永遠乎咱作夥",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -451,7 +452,8 @@
           "duration": 269,
           "byOther": false,
           "nameKey": "失落個腳踏車",
-          "titleZh": "失落個腳踏車"
+          "titleZh": "失落個腳踏車",
+          "titleZhVariant": true
         },
         {
           "index": 13,
@@ -1655,6 +1657,98 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "夏天的思念"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "初戀海",
+      "releaseDate": "1988-08-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 1988
+    },
+    {
+      "title": "浪子悲歌",
+      "releaseDate": "1991-01-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 1991
+    },
+    {
+      "title": "全部的愛",
+      "releaseDate": "1991-12-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 1991
+    },
+    {
+      "title": "最痛的痛",
+      "releaseDate": "1991-12-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 1991
+    },
+    {
+      "title": "離開",
+      "releaseDate": "1992-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 1992
+    },
+    {
+      "title": "我甲別人不同款",
+      "releaseDate": "1993-08-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 1993
+    },
+    {
+      "title": "命中注定",
+      "releaseDate": "2002-07-30",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 2002
+    },
+    {
+      "title": "足步天下",
+      "releaseDate": "2009-06-10",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 2009
+    },
+    {
+      "title": "玄武英雄",
+      "releaseDate": "2010-11-26",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 2010
+    },
+    {
+      "title": "一起去幸福",
+      "releaseDate": "2012-06-25",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "王識賢",
+      "source": "table",
+      "year": 2012
     }
   ]
 }

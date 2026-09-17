@@ -174,7 +174,8 @@
           "duration": 201,
           "byOther": false,
           "nameKey": "我不能沒信心",
-          "titleZh": "我不能沒信心"
+          "titleZh": "我不能沒信心",
+          "titleZhVariant": true
         },
         {
           "index": 15,
@@ -368,7 +369,8 @@
           "duration": 322,
           "byOther": false,
           "nameKey": "雨がやんだらブルーライトヨコハマ戀の奴隷#live",
-          "titleZh": "雨がやんだら / ブルー・ライト・ヨコハマ / 戀の奴隷 (メドレー / Live at 京都ベラミ, 1972)"
+          "titleZh": "雨がやんだら / ブルー・ライト・ヨコハマ / 戀の奴隷 (メドレー / Live at 京都ベラミ, 1972)",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -380,7 +382,8 @@
           "duration": 323,
           "byOther": false,
           "nameKey": "戀の追跡ラヴチェイス#live",
-          "titleZh": "戀の追跡 ～ラヴ・チェイス～ (Live at 京都ベラミ, 1972)"
+          "titleZh": "戀の追跡 ～ラヴ・チェイス～ (Live at 京都ベラミ, 1972)",
+          "titleZhVariant": true
         },
         {
           "index": 13,
@@ -431,7 +434,8 @@
           "duration": 344,
           "byOther": false,
           "nameKey": "何日君再來夜來香#live",
-          "titleZh": "何日君再來～夜來香 (Medlay / Live At 大阪フェスティバルホール, 1972)"
+          "titleZh": "何日君再來～夜來香 (Medlay / Live At 大阪フェスティバルホール, 1972)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -454,7 +458,8 @@
           "duration": 205,
           "byOther": false,
           "nameKey": "戀の追跡ラヴチェイス#live",
-          "titleZh": "戀の追跡～ラヴ・チェイス (I / Live At 大阪フェスティバルホール, 1972)"
+          "titleZh": "戀の追跡～ラヴ・チェイス (I / Live At 大阪フェスティバルホール, 1972)",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -554,7 +559,8 @@
           "duration": 170,
           "byOther": false,
           "nameKey": "戀の追跡ラヴチェイス#live",
-          "titleZh": "戀の追跡～ラヴ・チェイス (II / Live At 大阪フェスティバルホール, 1972)"
+          "titleZh": "戀の追跡～ラヴ・チェイス (II / Live At 大阪フェスティバルホール, 1972)",
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -1928,5 +1934,6 @@
       "wikiKind": null,
       "nameKey": "紅色革命"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

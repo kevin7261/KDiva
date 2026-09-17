@@ -896,7 +896,8 @@
           "duration": 202,
           "byOther": false,
           "nameKey": "搖滾舞臺",
-          "titleZh": "搖滾舞臺"
+          "titleZh": "搖滾舞臺",
+          "titleZhVariant": true
         },
         {
           "index": 18,
@@ -4988,7 +4989,8 @@
           "credits": {
             "lyrics": "阿信",
             "music": "阿信"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -5012,7 +5014,8 @@
       "wikiTitle": "五月天音樂作品列表",
       "wikiKind": "single",
       "nameKey": "dna",
-      "titleZh": "DNA(3DNA LIVE 版)"
+      "titleZh": "DNA(3DNA LIVE 版)",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_s9Ooc4eMcvo",
@@ -5228,7 +5231,8 @@
           "credits": {
             "lyrics": "阿信",
             "music": "阿信"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 15,
@@ -6919,7 +6923,8 @@
             "lyrics": "小林武史",
             "music": "阿信",
             "arranger": "五月天、阿璞（八三夭）"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -6968,7 +6973,8 @@
             "lyrics": "阿信",
             "music": "阿信",
             "arranger": "五月天"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -7001,7 +7007,8 @@
             "lyrics": "小林武史",
             "music": "阿信",
             "arranger": "五月天、阿璞（八三夭）"
-          }
+          },
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2014-06-04",
@@ -7010,7 +7017,8 @@
       "wikiTitle": "Do You Ever Shine?",
       "wikiKind": "single",
       "nameKey": "doyouevershine",
-      "titleZh": "Do You Ever Shine?（中文版）"
+      "titleZh": "Do You Ever Shine?（中文版）",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_jdlmScP9ECS",
@@ -7073,7 +7081,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "將軍令 (五月天歌曲)",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "將軍令"
     },
     {
@@ -7494,7 +7502,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "什麼歌",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "什麼歌"
     },
     {
@@ -8102,7 +8110,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "因為你 所以我",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "因為你所以我"
     },
     {
@@ -8890,6 +8898,44 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "達拉崩吧"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "Maygazine 07",
+      "releaseDate": "2008-05-16",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "五月天音樂作品列表",
+      "source": "table",
+      "year": 2008
+    },
+    {
+      "title": "團團團團團",
+      "releaseDate": "2014-08-08",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "五月天音樂作品列表",
+      "source": "table",
+      "year": 2014
+    },
+    {
+      "title": "女也 Herstory with Mayday",
+      "releaseDate": "2015-06-26",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "五月天音樂作品列表",
+      "source": "list",
+      "year": 2015
+    },
+    {
+      "title": "自伝 History of Tomorrow",
+      "releaseDate": "2017-02-01",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "自傳 (五月天專輯)",
+      "source": "table",
+      "year": 2017
     }
   ]
 }

@@ -401,7 +401,8 @@
           "duration": 245,
           "byOther": false,
           "nameKey": "街仔路雨落袂停",
-          "titleZh": "街仔路雨落袂停 (合作演出：陳嫻靜)"
+          "titleZh": "街仔路雨落袂停 (合作演出：陳嫻靜)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -746,7 +747,8 @@
           "duration": 257,
           "byOther": false,
           "nameKey": "街仔路雨落袂停#live",
-          "titleZh": "街仔路雨落袂停（完人Tour Live） (合作演出：Chunho和陳嫻靜)"
+          "titleZh": "街仔路雨落袂停（完人Tour Live） (合作演出：Chunho和陳嫻靜)",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -1703,7 +1705,8 @@
           "duration": 249,
           "byOther": false,
           "nameKey": "街仔路雨落袂停#live",
-          "titleZh": "街仔路雨落袂停 (LIVE) (合作演出：陳嫻靜)"
+          "titleZh": "街仔路雨落袂停 (LIVE) (合作演出：陳嫻靜)",
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -1959,7 +1962,8 @@
             "music": "鄭宜農、李瀧",
             "arranger": "何俊葦"
           },
-          "titleZh": "寬寬仔來到禰的面前"
+          "titleZh": "寬寬仔來到禰的面前",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2025-01-01",
@@ -2139,7 +2143,8 @@
             "music": "鄭宜農、李瀧",
             "arranger": "何俊葦"
           },
-          "titleZh": "寬寬仔來到禰的面前"
+          "titleZh": "寬寬仔來到禰的面前",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -2188,7 +2193,8 @@
             "music": "鄭宜農",
             "arranger": "何俊葦"
           },
-          "titleZh": "講袂出嘴的彼個字"
+          "titleZh": "講袂出嘴的彼個字",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -2330,6 +2336,125 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "玉仔的心"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "狐狸與我",
+      "releaseDate": "2008-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2008
+    },
+    {
+      "title": "商業周刊專題紀實片「百大特色小學：我的學校像迪士尼」",
+      "releaseDate": "2009-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2009
+    },
+    {
+      "title": "海王星",
+      "releaseDate": "2011-07-08",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2011
+    },
+    {
+      "title": "菜鳥",
+      "releaseDate": "2015-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2015
+    },
+    {
+      "title": "燦爛時光",
+      "releaseDate": "2015-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2015
+    },
+    {
+      "title": "「新視野號」－小巡迴",
+      "releaseDate": "2017-04-15",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "Pluto (鄭宜農專輯)",
+      "source": "table",
+      "year": 2017
+    },
+    {
+      "title": "「登陸」－北中南巡迴",
+      "releaseDate": "2017-05-12",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "Pluto (鄭宜農專輯)",
+      "source": "table",
+      "year": 2017
+    },
+    {
+      "title": "奇蹟的女兒",
+      "releaseDate": "2018-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2018
+    },
+    {
+      "title": "鏡子森林",
+      "releaseDate": "2019-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2019
+    },
+    {
+      "title": "台北大空襲",
+      "releaseDate": "2022-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2022
+    },
+    {
+      "title": "你的婚姻不是你的婚姻",
+      "releaseDate": "2022-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2022
+    },
+    {
+      "title": "大愛街2巷",
+      "releaseDate": "2026-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2026
+    },
+    {
+      "title": "再見1987",
+      "releaseDate": "2026-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "鄭宜農",
+      "source": "table",
+      "year": 2026
     }
   ]
 }

@@ -41,12 +41,12 @@
           "playsText": "播放次數：49萬",
           "duration": 325,
           "byOther": false,
+          "nameKey": "河畔",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          },
-          "nameKey": "河畔"
+          }
         },
         {
           "index": 3,
@@ -57,12 +57,12 @@
           "playsText": "播放次數：31萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "象牙塔",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          },
-          "nameKey": "象牙塔"
+          }
         },
         {
           "index": 4,
@@ -73,12 +73,12 @@
           "playsText": "播放次數：7.6萬",
           "duration": 279,
           "byOther": false,
+          "nameKey": "原罪",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          },
-          "nameKey": "原罪"
+          }
         },
         {
           "index": 5,
@@ -89,12 +89,12 @@
           "playsText": "播放次數：11萬",
           "duration": 275,
           "byOther": false,
+          "nameKey": "你說",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          },
-          "nameKey": "你說"
+          }
         },
         {
           "index": 6,
@@ -105,11 +105,11 @@
           "playsText": "播放次數：2.5萬",
           "duration": 224,
           "byOther": false,
+          "nameKey": "繁華市集",
           "credits": {
             "music": "詹雯婷",
             "arranger": "程振興"
-          },
-          "nameKey": "繁華市集"
+          }
         },
         {
           "index": 7,
@@ -120,12 +120,12 @@
           "playsText": "播放次數：3.2萬",
           "duration": 227,
           "byOther": false,
+          "nameKey": "firedancer",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "餘佳倫"
-          },
-          "nameKey": "firedancer"
+          }
         },
         {
           "index": 8,
@@ -136,11 +136,11 @@
           "playsText": "播放次數：3.9萬",
           "duration": 280,
           "byOther": false,
+          "nameKey": "奔跑",
           "credits": {
             "lyrics": "謝銘祐",
             "music": "詹雯婷"
-          },
-          "nameKey": "奔跑"
+          }
         },
         {
           "index": 9,
@@ -151,10 +151,10 @@
           "playsText": "播放次數：41萬",
           "duration": 233,
           "byOther": false,
+          "nameKey": "蒼穹",
           "credits": {
             "music": "詹雯婷"
-          },
-          "nameKey": "蒼穹"
+          }
         },
         {
           "index": 10,
@@ -165,12 +165,12 @@
           "playsText": "播放次數：2.5萬",
           "duration": 203,
           "byOther": false,
+          "nameKey": "另一端",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          },
-          "nameKey": "另一端"
+          }
         }
       ],
       "releaseDate": "2017-06-19",
@@ -226,12 +226,12 @@
           "playsText": "播放次數：11萬",
           "duration": 275,
           "byOther": false,
+          "nameKey": "你說",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          },
-          "nameKey": "你說"
+          }
         }
       ],
       "releaseDate": null,
@@ -259,12 +259,12 @@
           "playsText": "播放次數：49萬",
           "duration": 325,
           "byOther": false,
+          "nameKey": "河畔",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          },
-          "nameKey": "河畔"
+          }
         }
       ],
       "releaseDate": null,
@@ -292,12 +292,12 @@
           "playsText": "播放次數：31萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "象牙塔",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          },
-          "nameKey": "象牙塔"
+          }
         }
       ],
       "releaseDate": null,
@@ -325,8 +325,9 @@
           "playsText": "播放次數：1987",
           "duration": 229,
           "byOther": false,
+          "nameKey": "蒼穹",
           "titleZh": "蒼穹（小老虎 Remix） (合作演出：小老虎)",
-          "nameKey": "蒼穹"
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -365,8 +366,9 @@
           "playsText": "播放次數：5.4萬",
           "duration": 254,
           "byOther": false,
+          "nameKey": "但願人長久",
           "titleZh": "但願人長久",
-          "nameKey": "但願人長久"
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2020-06-01",
@@ -422,11 +424,11 @@
           "playsText": "播放次數：11萬",
           "duration": 216,
           "byOther": false,
+          "nameKey": "融雪",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷"
-          },
-          "nameKey": "融雪"
+          }
         },
         {
           "index": 2,
@@ -437,11 +439,11 @@
           "playsText": "播放次數：103萬",
           "duration": 242,
           "byOther": false,
+          "nameKey": "焚風",
           "credits": {
             "lyrics": "余琛懋",
             "arranger": "徐　平"
-          },
-          "nameKey": "焚風"
+          }
         },
         {
           "index": 3,
@@ -463,11 +465,11 @@
           "playsText": "播放次數：56萬",
           "duration": 238,
           "byOther": false,
+          "nameKey": "預言石",
           "credits": {
             "lyrics": "葛大為",
             "music": "詹雯婷"
-          },
-          "nameKey": "預言石"
+          }
         },
         {
           "index": 5,
@@ -489,11 +491,11 @@
           "playsText": "播放次數：5.2萬",
           "duration": 271,
           "byOther": false,
+          "nameKey": "alle",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷"
-          },
-          "nameKey": "alle"
+          }
         },
         {
           "index": 7,
@@ -515,10 +517,10 @@
           "playsText": "播放次數：13萬",
           "duration": 244,
           "byOther": false,
+          "nameKey": "tears",
           "credits": {
             "arranger": "陳君豪"
-          },
-          "nameKey": "tears"
+          }
         },
         {
           "index": 9,
@@ -529,12 +531,12 @@
           "playsText": "播放次數：17萬",
           "duration": 259,
           "byOther": false,
+          "nameKey": "煮沙",
           "credits": {
             "lyrics": "李格弟",
             "music": "詹雯婷",
             "arranger": "李化迪"
-          },
-          "nameKey": "煮沙"
+          }
         },
         {
           "index": 10,
@@ -545,11 +547,11 @@
           "playsText": "播放次數：31萬",
           "duration": 266,
           "byOther": false,
+          "nameKey": "山海盟",
           "credits": {
             "music": "詹雯婷",
             "arranger": "李化迪"
-          },
-          "nameKey": "山海盟"
+          }
         },
         {
           "index": 11,
@@ -560,12 +562,12 @@
           "playsText": "播放次數：4.1萬",
           "duration": 250,
           "byOther": false,
+          "nameKey": "aalleeeeeee",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "李化迪"
-          },
-          "nameKey": "aalleeeeeee"
+          }
         }
       ],
       "releaseDate": "2021-12-30",
@@ -800,8 +802,9 @@
           "playsText": "播放次數：604萬",
           "duration": 200,
           "byOther": false,
+          "nameKey": "唯愛",
           "titleZh": "唯愛 (《七時吉祥》劇集燃愛主題曲)",
-          "nameKey": "唯愛"
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -812,8 +815,9 @@
           "playsText": "播放次數：1.3萬",
           "duration": 200,
           "byOther": false,
+          "nameKey": "唯愛",
           "titleZh": "唯愛 (伴奏)",
-          "nameKey": "唯愛"
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -824,8 +828,9 @@
           "playsText": "播放次數：9257",
           "duration": 200,
           "byOther": false,
+          "nameKey": "唯愛",
           "titleZh": "唯愛 (和聲伴奏)",
-          "nameKey": "唯愛"
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2023-08-01",
@@ -853,8 +858,9 @@
           "playsText": "播放次數：603萬",
           "duration": 200,
           "byOther": false,
+          "nameKey": "唯愛",
           "titleZh": "唯愛 (《七時吉祥》劇集燃愛主題曲)",
-          "nameKey": "唯愛"
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -865,8 +871,9 @@
           "playsText": "播放次數：9257",
           "duration": 200,
           "byOther": false,
+          "nameKey": "唯愛",
           "titleZh": "唯愛 (伴奏)",
-          "nameKey": "唯愛"
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -877,8 +884,9 @@
           "playsText": "播放次數：9257",
           "duration": 200,
           "byOther": false,
+          "nameKey": "唯愛",
           "titleZh": "唯愛 (和聲伴奏)",
-          "nameKey": "唯愛"
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2023-08-01",
@@ -993,6 +1001,71 @@
       "wikiTitle": "詹雯婷",
       "wikiKind": "single",
       "nameKey": "掠日"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "F.I.R.",
+      "releaseDate": "2004-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "詹雯婷",
+      "source": "list",
+      "year": 2004
+    },
+    {
+      "title": "無限",
+      "releaseDate": "2005-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "詹雯婷",
+      "source": "list",
+      "year": 2005
+    },
+    {
+      "title": "飛行部落",
+      "releaseDate": "2006-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "詹雯婷",
+      "source": "list",
+      "year": 2006
+    },
+    {
+      "title": "愛·歌姬",
+      "releaseDate": "2007-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "詹雯婷",
+      "source": "list",
+      "year": 2007
+    },
+    {
+      "title": "讓我們一起微笑吧",
+      "releaseDate": "2009-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "詹雯婷",
+      "source": "list",
+      "year": 2009
+    },
+    {
+      "title": "亞特蘭提斯",
+      "releaseDate": "2011-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "詹雯婷",
+      "source": "list",
+      "year": 2011
+    },
+    {
+      "title": "Better Life",
+      "releaseDate": "2013-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "詹雯婷",
+      "source": "list",
+      "year": 2013
     }
   ]
 }

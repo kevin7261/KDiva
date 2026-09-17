@@ -31,7 +31,8 @@
           "duration": 274,
           "byOther": false,
           "nameKey": "影子",
-          "titleZh": "影子 (《嫂嫂19歲》韓劇片尾曲)"
+          "titleZh": "影子 (《嫂嫂19歲》韓劇片尾曲)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -43,7 +44,8 @@
           "duration": 228,
           "byOther": false,
           "nameKey": "洗牌",
-          "titleZh": "洗牌 (《第2次求婚》韓劇片尾曲)"
+          "titleZh": "洗牌 (《第2次求婚》韓劇片尾曲)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -55,7 +57,8 @@
           "duration": 222,
           "byOther": false,
           "nameKey": "無價快樂",
-          "titleZh": "無價快樂 (合作演出：楊韻禾)"
+          "titleZh": "無價快樂 (合作演出：楊韻禾)",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -67,7 +70,8 @@
           "duration": 229,
           "byOther": false,
           "nameKey": "好久不見",
-          "titleZh": "好久不見"
+          "titleZh": "好久不見",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -91,7 +95,8 @@
           "duration": 274,
           "byOther": false,
           "nameKey": "解脫",
-          "titleZh": "解脫"
+          "titleZh": "解脫",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -103,7 +108,8 @@
           "duration": 213,
           "byOther": false,
           "nameKey": "柏拉圖式的想念",
-          "titleZh": "柏拉圖式的想念"
+          "titleZh": "柏拉圖式的想念",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -115,7 +121,8 @@
           "duration": 215,
           "byOther": false,
           "nameKey": "第五街的誘惑",
-          "titleZh": "第五街的誘惑"
+          "titleZh": "第五街的誘惑",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -127,7 +134,8 @@
           "duration": 261,
           "byOther": false,
           "nameKey": "彈錯",
-          "titleZh": "彈錯"
+          "titleZh": "彈錯",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -465,7 +473,8 @@
           "duration": 207,
           "byOther": false,
           "nameKey": "這樣就很好#live",
-          "titleZh": "這樣就很好 (Live)"
+          "titleZh": "這樣就很好 (Live)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -474,6 +483,323 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "季風音樂會第三期"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "The Genesis（1집）",
+      "releaseDate": "1998-12-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 1998
+    },
+    {
+      "title": "把心放進來",
+      "releaseDate": "2002-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2002
+    },
+    {
+      "title": "여정 (旅程)",
+      "releaseDate": "2002-02-08",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "table",
+      "year": 2002
+    },
+    {
+      "title": "第貳樂章",
+      "releaseDate": "2004-07-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2004
+    },
+    {
+      "title": "地平線",
+      "releaseDate": "2005-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2005
+    },
+    {
+      "title": "So So",
+      "releaseDate": "2006-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2006
+    },
+    {
+      "title": "Baby是我",
+      "releaseDate": "2006-04-28",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "table",
+      "year": 2006
+    },
+    {
+      "title": "記得愛",
+      "releaseDate": "2007-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2007
+    },
+    {
+      "title": "想太多",
+      "releaseDate": "2007-10-12",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "table",
+      "year": 2007
+    },
+    {
+      "title": "不，完美",
+      "releaseDate": "2008-08-22",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "table",
+      "year": 2008
+    },
+    {
+      "title": "好玖",
+      "releaseDate": "2010-09-17",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "table",
+      "year": 2010
+    },
+    {
+      "title": "Nocturnal",
+      "releaseDate": "2011-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2011
+    },
+    {
+      "title": "美好的一天",
+      "releaseDate": "2014-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2014
+    },
+    {
+      "title": "Gamania遊戲橘子",
+      "releaseDate": "2015-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2015
+    },
+    {
+      "title": "Top Of The World",
+      "releaseDate": "2015-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2015
+    },
+    {
+      "title": "真愛無坦途",
+      "releaseDate": "2017-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2017
+    },
+    {
+      "title": "Will You Remember",
+      "releaseDate": "2017-12-15",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "table",
+      "year": 2017
+    },
+    {
+      "title": "分身有術",
+      "releaseDate": "2018-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2018
+    },
+    {
+      "title": "不缺",
+      "releaseDate": "2018-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2018
+    },
+    {
+      "title": "Secrets",
+      "releaseDate": "2018-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2018
+    },
+    {
+      "title": "要開始了",
+      "releaseDate": "2018-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2018
+    },
+    {
+      "title": "關老爺",
+      "releaseDate": "2018-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2018
+    },
+    {
+      "title": "最壞的最好",
+      "releaseDate": "2019-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2019
+    },
+    {
+      "title": "人間失格",
+      "releaseDate": "2019-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2019
+    },
+    {
+      "title": "你懂個屁",
+      "releaseDate": "2019-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2019
+    },
+    {
+      "title": "結局",
+      "releaseDate": "2020-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2020
+    },
+    {
+      "title": "痛感",
+      "releaseDate": "2021-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2021
+    },
+    {
+      "title": "從來沒愛錯",
+      "releaseDate": "2022-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2022
+    },
+    {
+      "title": "遊蕩的人",
+      "releaseDate": "2022-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2022
+    },
+    {
+      "title": "細數沙漏",
+      "releaseDate": "2024-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2024
+    },
+    {
+      "title": "無聲無息",
+      "releaseDate": "2024-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2024
+    },
+    {
+      "title": "介質",
+      "releaseDate": "2024-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2024
+    },
+    {
+      "title": "挽救",
+      "releaseDate": "2025-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2025
+    },
+    {
+      "title": "窺愛",
+      "releaseDate": "2025-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2025
+    },
+    {
+      "title": "落空",
+      "releaseDate": "2025-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "李玖哲",
+      "source": "list",
+      "year": 2025
     }
   ]
 }

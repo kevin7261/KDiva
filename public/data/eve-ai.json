@@ -523,7 +523,8 @@
           "duration": 235,
           "byOther": false,
           "nameKey": "他不愛我#live",
-          "titleZh": "他不愛我 (Live版)"
+          "titleZh": "他不愛我 (Live版)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -1516,7 +1517,8 @@
           "duration": 285,
           "byOther": false,
           "nameKey": "你身邊",
-          "titleZh": "你身邊 (合作演出：鳳小嶽)"
+          "titleZh": "你身邊 (合作演出：鳳小嶽)",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -1620,7 +1622,8 @@
           "duration": 269,
           "byOther": false,
           "nameKey": "回到再見之初",
-          "titleZh": "回到再見之初"
+          "titleZh": "回到再見之初",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -1708,5 +1711,6 @@
       "wikiKind": null,
       "nameKey": "不如輕輕跳支舞"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

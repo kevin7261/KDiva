@@ -36,7 +36,8 @@
             "lyrics": "鄧紫棋",
             "music": "Skot Suyama 陶山",
             "arranger": "雷頌德"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1133,7 +1134,8 @@
             "lyrics": "鄧紫棋",
             "music": "Skot Suyama 陶山",
             "arranger": "雷頌德"
-          }
+          },
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -1748,7 +1750,8 @@
           "duration": 220,
           "byOther": false,
           "nameKey": "桃花諾",
-          "titleZh": "桃花諾 （電視劇《上古情歌》片尾曲）"
+          "titleZh": "桃花諾 （電視劇《上古情歌》片尾曲）",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2017-01-01",
@@ -1805,7 +1808,8 @@
           "duration": 197,
           "byOther": false,
           "nameKey": "穿越火線穿越火線遊戲主題曲",
-          "titleZh": "穿越火線 -《穿越火線》遊戲主題曲"
+          "titleZh": "穿越火線 -《穿越火線》遊戲主題曲",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2390,7 +2394,8 @@
           "duration": 209,
           "byOther": true,
           "nameKey": "誰是mvp#live",
-          "titleZh": "誰是MVP (Live)"
+          "titleZh": "誰是MVP (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -2591,7 +2596,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "平行世界 (歌曲)",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "平行世界"
     },
     {
@@ -2680,7 +2685,8 @@
           "duration": 193,
           "byOther": false,
           "nameKey": "無雙的王者",
-          "titleZh": "無雙的王者 (合作演出：王者榮耀)"
+          "titleZh": "無雙的王者 (合作演出：王者榮耀)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -3969,7 +3975,8 @@
           "duration": 286,
           "byOther": false,
           "nameKey": "紅薔薇白玫瑰",
-          "titleZh": "紅薔薇白玫瑰 (G.E.M.重生版)"
+          "titleZh": "紅薔薇白玫瑰 (G.E.M.重生版)",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -4019,7 +4026,8 @@
           "duration": 280,
           "byOther": false,
           "nameKey": "天空沒有極限",
-          "titleZh": "天空沒有極限 (粵)"
+          "titleZh": "天空沒有極限 (粵)",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -4089,6 +4097,26 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "stillbreathing"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "18 plus",
+      "releaseDate": "2009-10-27",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "鄧紫棋音樂作品列表",
+      "source": "table",
+      "year": 2009
+    },
+    {
+      "title": "18 USB",
+      "releaseDate": "2009-11-24",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "鄧紫棋音樂作品列表",
+      "source": "table",
+      "year": 2009
     }
   ]
 }

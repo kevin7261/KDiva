@@ -1576,7 +1576,8 @@
             "music": "阿弟仔",
             "arranger": "阿弟仔、梯依恩"
           },
-          "titleZh": "遊擊街頭"
+          "titleZh": "遊擊街頭",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -2464,7 +2465,8 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "high5",
-      "titleZh": "High 5 (全家便利商店廣告主題曲)"
+      "titleZh": "High 5 (全家便利商店廣告主題曲)",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_bW1uNctBAA9",
@@ -2859,6 +2861,17 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "intothejungle"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "E3",
+      "releaseDate": "2003-07-22",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "E3 (專輯)",
+      "source": "album-page",
+      "year": 2003
     }
   ]
 }

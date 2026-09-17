@@ -4,7 +4,7 @@
 // 發行日期另外從 Wikipedia／Wikidata 比對（見 wiki.js）。
 
 import * as OpenCC from 'opencc-js'
-import { fetchReleaseCatalog, matchRelease, normalizeTitle, hasCJK, pinyinKey, toTW, searchReleasePages, wikiPhoto } from './wiki.js'
+import { fetchReleaseCatalog, matchRelease, normalizeTitle, hasCJK, pinyinKey, toTW, searchReleasePages, wikiPhoto, findWikiOnly } from './wiki.js'
 import { RELEASE_OVERRIDES } from './release-overrides.js'
 import { SONG_OVERRIDES } from './song-overrides.js'
 import { releaseSortKey } from '../src/lib/release.js'
@@ -544,7 +544,10 @@ export function addNameKeys(albums) {
  * 以 Wikipedia 為準替每張專輯填上原始發行日期（YouTube Music 的年份常是重新上架年份），並依日期排序。
  * 抓不到 Wikipedia 時保留原本的日期，不會清掉。
  */
-export async function applyReleaseDates(albums, artistConfig, log = () => {}) {
+/**
+ * out：傳入物件時，另外填上 out.wikiOnly（Wikipedia 有、YouTube Music 沒上架的專輯；Wikipedia 讀取失敗時不填）
+ */
+export async function applyReleaseDates(albums, artistConfig, log = () => {}, out = null) {
   const overrides = RELEASE_OVERRIDES[artistConfig.slug] ?? {}
   let catalog = null
   if (artistConfig.wiki) {
@@ -589,6 +592,10 @@ export async function applyReleaseDates(albums, artistConfig, log = () => {}) {
   if (catalog) {
     addChineseTitles(albums, catalog)
     addCredits(albums, catalog)
+    if (out) {
+      out.wikiOnly = findWikiOnly(albums, catalog, [artistConfig.name, artistConfig.en, artistConfig.wiki])
+      log(`  Wikipedia 有、YouTube Music 沒上架：${out.wikiOnly.length} 張`)
+    }
   }
   for (const album of albums) delete album._wiki
   log(`發行日期：${matched}/${albums.length} 張取自 Wikipedia，其餘使用 YouTube Music 年份`)
@@ -639,7 +646,8 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
   if (artistConfig.photo) artist.thumbnail = artist.avatar
   const others = markOtherArtists(albums, artistConfig, artist.name)
   if (others) log(`其他歌手演唱的曲目：${others} 首（不列入統計）`)
-  await applyReleaseDates(albums, artistConfig, log)
+  const extra = {}
+  await applyReleaseDates(albums, artistConfig, log, extra)
   addNameKeys(albums)
   const { releases, ...artistInfo } = artist
 
@@ -650,5 +658,6 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
     fetchedAt: new Date().toISOString(),
     artist: artistInfo,
     albums,
+    wikiOnly: extra.wikiOnly ?? [],
   }
 }

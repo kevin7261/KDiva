@@ -572,7 +572,8 @@
           "duration": 234,
           "byOther": false,
           "nameKey": "為妳癡迷",
-          "titleZh": "為妳痴迷"
+          "titleZh": "為妳痴迷",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -1459,6 +1460,17 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "惜惜網紅老爸電影插曲"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "2013",
+      "releaseDate": "2013-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "荒山亮",
+      "source": "list",
+      "year": 2013
     }
   ]
 }

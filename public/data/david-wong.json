@@ -2045,7 +2045,8 @@
           "duration": 222,
           "byOther": false,
           "nameKey": "toflyaway",
-          "titleZh": "To Fly Away (想飛的心全新英文原版)"
+          "titleZh": "To Fly Away (想飛的心全新英文原版)",
+          "titleZhVariant": true
         },
         {
           "index": 17,
@@ -2201,7 +2202,8 @@
           "duration": 222,
           "byOther": false,
           "nameKey": "toflyaway",
-          "titleZh": "To Fly Away (想飛的心全新英文原版)"
+          "titleZh": "To Fly Away (想飛的心全新英文原版)",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -2257,7 +2259,8 @@
           "duration": 319,
           "byOther": false,
           "nameKey": "june",
-          "titleZh": "June (妳把我灌醉全新英文原版)"
+          "titleZh": "June (妳把我灌醉全新英文原版)",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -2404,6 +2407,26 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "thewayifeel"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "【David 黃】英文專輯",
+      "releaseDate": "1988-12-17",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "黃大煒",
+      "source": "table",
+      "year": 1988
+    },
+    {
+      "title": "【TIME 1894-2003】",
+      "releaseDate": "2003-06-05",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "黃大煒",
+      "source": "table",
+      "year": 2003
     }
   ]
 }

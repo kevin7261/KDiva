@@ -285,7 +285,8 @@
           "duration": 276,
           "byOther": false,
           "nameKey": "crazy",
-          "titleZh": "Crazy (合作演出：Dubbie, Deep Circle,)"
+          "titleZh": "Crazy (合作演出：Dubbie, Deep Circle,)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -803,6 +804,26 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "presentsrdrillvol2"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "不安靜",
+      "releaseDate": "2000-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "B.A.D",
+      "source": "list",
+      "year": 2000
+    },
+    {
+      "title": "（專輯）",
+      "releaseDate": "2004-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "B.A.D",
+      "source": "list",
+      "year": 2004
     }
   ]
 }

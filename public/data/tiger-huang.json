@@ -1715,7 +1715,8 @@
           "duration": 311,
           "byOther": false,
           "nameKey": "沒那麼簡單",
-          "titleZh": "沒那麼簡單"
+          "titleZh": "沒那麼簡單",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -1931,7 +1932,8 @@
           "duration": 196,
           "byOther": false,
           "nameKey": "週末瘋",
-          "titleZh": "週末瘋"
+          "titleZh": "週末瘋",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2866,5 +2868,6 @@
       "wikiKind": null,
       "nameKey": "關於現實的母女對話"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

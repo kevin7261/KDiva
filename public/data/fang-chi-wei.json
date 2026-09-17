@@ -31,7 +31,8 @@
           "duration": 210,
           "byOther": false,
           "nameKey": "沒有結局的遊戲",
-          "titleZh": "沒有結局的遊戲"
+          "titleZh": "沒有結局的遊戲",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -43,7 +44,8 @@
           "duration": 218,
           "byOther": false,
           "nameKey": "我像個什麼",
-          "titleZh": "我像個什麼"
+          "titleZh": "我像個什麼",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -55,7 +57,8 @@
           "duration": 249,
           "byOther": false,
           "nameKey": "塵世舊夢",
-          "titleZh": "塵世舊夢"
+          "titleZh": "塵世舊夢",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -67,7 +70,8 @@
           "duration": 220,
           "byOther": false,
           "nameKey": "陽光的金翅膀",
-          "titleZh": "陽光的金翅膀"
+          "titleZh": "陽光的金翅膀",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -79,7 +83,8 @@
           "duration": 215,
           "byOther": false,
           "nameKey": "最後一葉",
-          "titleZh": "最後一葉"
+          "titleZh": "最後一葉",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -91,7 +96,8 @@
           "duration": 223,
           "byOther": false,
           "nameKey": "今夜想你親親",
-          "titleZh": "今夜想你親親"
+          "titleZh": "今夜想你親親",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -114,7 +120,8 @@
           "duration": 256,
           "byOther": false,
           "nameKey": "孤單竝不是唯一",
-          "titleZh": "孤單並不是唯一"
+          "titleZh": "孤單並不是唯一",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -126,7 +133,8 @@
           "duration": 217,
           "byOther": false,
           "nameKey": "含淚的眼",
-          "titleZh": "含淚的眼"
+          "titleZh": "含淚的眼",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "1988-12-01",
@@ -1298,7 +1306,8 @@
           "duration": 240,
           "byOther": false,
           "nameKey": "不要這麼輕易說愛我",
-          "titleZh": "不要這麼輕易說愛我"
+          "titleZh": "不要這麼輕易說愛我",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1310,7 +1319,8 @@
           "duration": 255,
           "byOther": false,
           "nameKey": "叫我如你溫柔",
-          "titleZh": "叫我如你溫柔"
+          "titleZh": "叫我如你溫柔",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -1322,7 +1332,8 @@
           "duration": 202,
           "byOther": false,
           "nameKey": "咒語",
-          "titleZh": "咒語"
+          "titleZh": "咒語",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -1356,7 +1367,8 @@
           "duration": 253,
           "byOther": false,
           "nameKey": "傷透我心",
-          "titleZh": "傷透我心"
+          "titleZh": "傷透我心",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -1368,7 +1380,8 @@
           "duration": 256,
           "byOther": false,
           "nameKey": "孤單竝不是唯一",
-          "titleZh": "孤單並不是唯一"
+          "titleZh": "孤單並不是唯一",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -1380,7 +1393,8 @@
           "duration": 231,
           "byOther": false,
           "nameKey": "夢醒邊緣",
-          "titleZh": "夢醒邊緣"
+          "titleZh": "夢醒邊緣",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1392,7 +1406,8 @@
           "duration": 243,
           "byOther": false,
           "nameKey": "你說",
-          "titleZh": "你說"
+          "titleZh": "你說",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -1415,7 +1430,8 @@
           "duration": 251,
           "byOther": false,
           "nameKey": "紅塵一生",
-          "titleZh": "紅塵一生"
+          "titleZh": "紅塵一生",
+          "titleZhVariant": true
         },
         {
           "index": 13,
@@ -1427,7 +1443,8 @@
           "duration": 210,
           "byOther": false,
           "nameKey": "沒有結局的遊戲",
-          "titleZh": "沒有結局的遊戲"
+          "titleZh": "沒有結局的遊戲",
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -1439,7 +1456,8 @@
           "duration": 267,
           "byOther": false,
           "nameKey": "將世界的心擁在一起",
-          "titleZh": "將世界的心擁在一起"
+          "titleZh": "將世界的心擁在一起",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -1448,6 +1466,125 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "瑞華33回饋典藏系列10方季惟流行篇"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "昨日夢已遠",
+      "releaseDate": "1987-03-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 1987
+    },
+    {
+      "title": "海的女兒",
+      "releaseDate": "1988-05-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 1988
+    },
+    {
+      "title": "恨在今天再相遇",
+      "releaseDate": "1991-08-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 1991
+    },
+    {
+      "title": "典藏版1",
+      "releaseDate": "1992-12-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 1992
+    },
+    {
+      "title": "典藏版2",
+      "releaseDate": "1992-12-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 1992
+    },
+    {
+      "title": "海鷗飛呀飛",
+      "releaseDate": "1993-06-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 1993
+    },
+    {
+      "title": "感情生活",
+      "releaseDate": "1994-06-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 1994
+    },
+    {
+      "title": "簡單快樂",
+      "releaseDate": "1995-03-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 1995
+    },
+    {
+      "title": "伴娘",
+      "releaseDate": "2012-05-20",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 2012
+    },
+    {
+      "title": "情是太極",
+      "releaseDate": "2012-12-05",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 2012
+    },
+    {
+      "title": "君子蘭",
+      "releaseDate": "2014-07-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 2014
+    },
+    {
+      "title": "時。光的祝福",
+      "releaseDate": "2018-07-06",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 2018
+    },
+    {
+      "title": "祝福された時間  祝福的時光",
+      "releaseDate": "2020-04-15",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "方季韋",
+      "source": "table",
+      "year": 2020
     }
   ]
 }

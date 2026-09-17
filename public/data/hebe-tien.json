@@ -36,7 +36,8 @@
             "lyrics": "黃淑惠",
             "music": "黃淑惠",
             "arranger": "樊哲忠"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -197,7 +198,8 @@
             "lyrics": "黃淑惠",
             "music": "黃淑惠",
             "arranger": "樊哲忠"
-          }
+          },
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2010-09-03",
@@ -405,7 +407,8 @@
             "lyrics": "施人誠",
             "music": "鄭楠",
             "arranger": "Martin Tang"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -491,7 +494,8 @@
       "wikiTitle": "My Love (田馥甄專輯)",
       "wikiKind": null,
       "nameKey": "mylove",
-      "titleZh": "My Love (田馥甄專輯)"
+      "titleZh": "My Love",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_j4Tk4iHQec8",
@@ -517,7 +521,8 @@
             "lyrics": "施人誠",
             "music": "鄭楠",
             "arranger": "Martin Tang"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1149,7 +1154,8 @@
             "lyrics": "黃淑惠",
             "music": "黃淑惠",
             "arranger": "樊哲忠"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -1461,7 +1467,8 @@
             "lyrics": "施人誠",
             "music": "鄭楠",
             "arranger": "Martin Tang"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 24,
@@ -1533,7 +1540,8 @@
           "duration": 266,
           "byOther": false,
           "nameKey": "美女與野獸",
-          "titleZh": "美女與野獸(中文版主題曲) (來自電影《美女與野獸》/原聲帶版本)"
+          "titleZh": "美女與野獸(中文版主題曲) (來自電影《美女與野獸》/原聲帶版本)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2017-02-14",
@@ -1785,7 +1793,8 @@
             "music": "林家謙",
             "arranger": "吳加恩"
           },
-          "titleZh": "皆可"
+          "titleZh": "皆可",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2020-06-11",
@@ -1895,7 +1904,8 @@
             "music": "安眠巫師、川流",
             "arranger": "魯綱宇"
           },
-          "titleZh": "底裡歇斯"
+          "titleZh": "底裡歇斯",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -2018,6 +2028,39 @@
       "nameKey": "無人知曉"
     },
     {
+      "browseId": "MPREb_Tp9TZqYvtzu",
+      "playlistId": "OLAK5uy_lpCjsmiP1Fo7IyYLKRMKZoY2K_xWdt4UI",
+      "title": "一一",
+      "albumArtist": "田馥甄",
+      "type": "Single",
+      "year": 2020,
+      "thumbnail": "https://yt3.googleusercontent.com/x7kBmPGReTpZoNqX4Jqkw0y9eiADH2LsU6NPNPV1C2C_WwiXb41ljN6e2aDYtJoATFW8Riom5ICmfAA=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "一一",
+          "artists": "",
+          "videoId": "0Rk099vYgDo",
+          "plays": 2840000,
+          "playsText": "播放次數：284萬",
+          "duration": 251,
+          "byOther": false,
+          "nameKey": "一一",
+          "credits": {
+            "lyrics": "火星電臺",
+            "music": "火星電臺",
+            "arranger": "火星電臺"
+          }
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一一"
+    },
+    {
       "browseId": "MPREb_lMmv4kTJwlj",
       "playlistId": "OLAK5uy_lDH3YxgFiXVnXwe07CtlXbpwWsLUrYGtE",
       "title": "懸日",
@@ -2117,39 +2160,6 @@
       "nameKey": "諷刺的情書"
     },
     {
-      "browseId": "MPREb_Tp9TZqYvtzu",
-      "playlistId": "OLAK5uy_lpCjsmiP1Fo7IyYLKRMKZoY2K_xWdt4UI",
-      "title": "一一",
-      "albumArtist": "田馥甄",
-      "type": "Single",
-      "year": 2020,
-      "thumbnail": "https://yt3.googleusercontent.com/x7kBmPGReTpZoNqX4Jqkw0y9eiADH2LsU6NPNPV1C2C_WwiXb41ljN6e2aDYtJoATFW8Riom5ICmfAA=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "一一",
-          "artists": "",
-          "videoId": "0Rk099vYgDo",
-          "plays": 2840000,
-          "playsText": "播放次數：284萬",
-          "duration": 251,
-          "byOther": false,
-          "nameKey": "一一",
-          "credits": {
-            "lyrics": "火星電臺",
-            "music": "火星電臺",
-            "arranger": "火星電臺"
-          }
-        }
-      ],
-      "releaseDate": "2022-01-01",
-      "releaseDatePrecision": "year",
-      "releaseDateSource": "list",
-      "wikiTitle": "無人知曉 (專輯)",
-      "wikiKind": null,
-      "nameKey": "一一"
-    },
-    {
       "browseId": "MPREb_i0htbfHykNc",
       "playlistId": "OLAK5uy_l2jPCIvF_VBtt6bp-0EF4-8dpmPiFBIHY",
       "title": "現在是什麼時辰了",
@@ -2196,7 +2206,8 @@
           "duration": 275,
           "byOther": false,
           "nameKey": "一週的朋友",
-          "titleZh": "一週的朋友 (電影《一週的朋友》主題曲)"
+          "titleZh": "一週的朋友 (電影《一週的朋友》主題曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2022-06-10",
@@ -2261,6 +2272,62 @@
       "wikiTitle": "田馥甄",
       "wikiKind": "single",
       "nameKey": "一二三"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "東方茱麗葉",
+      "releaseDate": "2006-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "田馥甄音樂作品列表",
+      "source": "table",
+      "year": 2006
+    },
+    {
+      "title": "如果有一件事是重要的",
+      "releaseDate": "2008-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "田馥甄音樂作品列表",
+      "source": "table",
+      "year": 2008
+    },
+    {
+      "title": "我就是...",
+      "releaseDate": "2008-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "田馥甄音樂作品列表",
+      "source": "table",
+      "year": 2008
+    },
+    {
+      "title": "愛",
+      "releaseDate": "2012-02-10",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "愛 (電影)",
+      "source": "album-page",
+      "year": 2012
+    },
+    {
+      "title": "「田」簽名會",
+      "releaseDate": "2020-11-14",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "無人知曉 (專輯)",
+      "source": "table",
+      "year": 2020
+    },
+    {
+      "title": "要去什么地方",
+      "releaseDate": "2026-09-24",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "田馥甄",
+      "source": "table",
+      "year": 2026
     }
   ]
 }

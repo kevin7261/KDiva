@@ -18,7 +18,8 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 // Wikipedia 對短時間大量請求會回「You are making too many requests」（非 JSON），所以限速並重試
 let lastRequest = 0
 export async function getJson(url, attempt = 1) {
-  const wait = lastRequest + 700 - Date.now()
+  // 開發時全部走快取可設 WIKI_THROTTLE_MS=0 加速；沒快取的請求被限流時下面會自動重試
+  const wait = lastRequest + Number(process.env.WIKI_THROTTLE_MS ?? 700) - Date.now()
   if (wait > 0) await sleep(wait)
   lastRequest = Date.now()
   const res = await fetch(url, { headers: { 'user-agent': UA, accept: 'application/json' } })
@@ -220,18 +221,24 @@ export function kindOf(text) {
   return null
 }
 
+const MUSIC_SECTION = /專輯|专辑|唱片|單曲|单曲|\bEP\b|音樂作品|音乐作品|discography|album|single/i
+const NON_MUSIC_SECTION = /電影|电影|電視|电视|戲劇|戏剧|劇集|剧集|綜藝|综艺|節目|节目|演唱會|演唱会|廣告|广告|書籍|书籍|出版|著作|獲獎|获奖|得獎|得奖|提名|主持|MV|音樂錄影帶|音乐录影带|參與|参与|合作|客串|嘉賓|嘉宾|作詞|作词|作曲|創作|创作|製作|制作|配唱|和聲|和声/i
+
 /** 依章節切開（「===精選專輯===」），每段帶著章節判斷出的類型 */
 function sections(wikitext) {
   const out = []
   let kind = null
   let parentKind = null
   let buf = []
-  const flush = () => buf.length && out.push({ kind, text: buf.join('\n') })
+  const path = [] // 標題路徑（「音樂作品 › 專輯」），判斷是不是音樂作品章節用
+  const flush = () => buf.length && out.push({ kind, text: buf.join('\n'), path: path.filter(Boolean).join(' › ') })
   for (const line of wikitext.split('\n')) {
     const h = line.match(/^(={2,6})\s*(.*?)\s*\1\s*$/)
     if (h) {
       flush()
       buf = []
+      path.length = h[1].length - 2
+      path[h[1].length - 2] = h[2]
       const k = kindOf(h[2])
       if (h[1].length === 2) parentKind = k
       kind = k ?? (h[1].length > 2 ? parentKind : null)
@@ -508,7 +515,9 @@ function parseAlbumPage(title, wikitext, artistKeys) {
   const tracks = parseTracklist(wikitext)
   const credits = parseCredits(wikitext)
   const kind = kindOf(toPlain(wikitext.match(/^\s*\|\s*(?:類型|类型|type)\s*=\s*(.*)$/im)?.[1] ?? ''))
-  return { titles, ...date, source: 'album-page', page: title, tracks: tracks.length ? tracks : undefined, credits: credits.length ? credits : undefined, kind }
+  // 歌曲條目（{{Infobox song}}）當成單曲
+  const song = /\{\{\s*(?:Infobox[ _](?:song|single)|歌曲資訊框|歌曲信息框|單曲資訊框|单曲信息框)/i.test(wikitext)
+  return { titles, ...date, source: 'album-page', page: title, tracks: tracks.length ? tracks : undefined, credits: credits.length ? credits : undefined, kind: song ? 'single' : kind, musical: true }
 }
 
 export async function fetchPages(titles) {
@@ -567,9 +576,12 @@ async function fromWikipedia(pageTitle, albumKeys, artistKeys, log, albumPinyin 
   const entries = []
   const linkTargets = new Map()
   for (const { title, content } of pages) {
+    const discography = /音樂作品|音乐作品|唱片|專輯列表|专辑列表|discography/i.test(title)
     for (const sec of sections(content)) {
       const found = [...parseTables(sec.text, title, artistKeys), ...parseLists(sec.text, title), ...parseProse(sec.text, title)]
-      entries.push(...found.map((e) => ({ ...e, kind: e.kind ?? sec.kind })))
+      // 音樂作品章節（「專輯」「唱片」「單曲」，或作品列表頁裡非影視的章節）：「未上架專輯」只從這裡找
+      const musical = !NON_MUSIC_SECTION.test(sec.path) && (MUSIC_SECTION.test(sec.path) || discography)
+      entries.push(...found.map((e) => ({ ...e, kind: e.kind ?? sec.kind, musical })))
     }
     for (const m of content.matchAll(/\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]/g)) {
       const target = m[1].trim()
@@ -658,6 +670,81 @@ export async function searchReleasePages(artistConfig, albums, log = () => {}) {
     keys: e.titles.map((t) => stripArtist(normalizeTitle(t), artistKeys)).filter(Boolean),
     pinyinKeys: e.titles.filter(hasCJK).map(pinyinKey).filter((k) => k.length >= 4),
   }))
+}
+
+/** Wikipedia 名稱的殘留標記：「魔杰座; zh-hant:魔杰座」→「魔杰座」 */
+const cleanWikiTitle = (t) => String(t).replace(/^.*zh-(?:hant|tw|hk)\s*:\s*/i, '').replace(/;\s*$/, '').trim()
+
+/** 顯示名稱前面多帶的歌手名（「鄧麗君\t島國情歌第二集」）拿掉；後面要接分隔符號才算（「洪榮宏之歌」不能拆） */
+const stripArtistName = (t, names) => {
+  for (const n of names.filter(Boolean)) {
+    if (t.startsWith(n) && /^[\s\t·．:：\-–—]/.test(t.slice(n.length))) return t.slice(n.length).replace(/^[\s\t·．:：\-–—]+/, '').trim()
+  }
+  return t.trim()
+}
+
+/**
+ * Wikipedia 有、YouTube Music 沒有上架的專輯／單曲（前端顯示成「未上架」）。
+ * 只看可信的來源（專輯條目、作品列表／歌手條目音樂作品章節的表格與條列），名稱沒對到任何 YouTube Music 專輯或歌曲才算。
+ */
+export function findWikiOnly(albums, catalog, artistNames = []) {
+  const artistKeys = artistNames.map((n) => (n ? normalizeTitle(n) : '')).filter(Boolean)
+  const keyOf = (t) => stripArtist(normalizeTitle(t), artistKeys)
+  const titles = (s) => String(s ?? '').split(/\s+-\s+/)
+  const have = []
+  const havePinyin = new Set()
+  for (const a of albums) {
+    for (const t of [a.titleZh, ...titles(a.title)].filter(Boolean)) {
+      have.push(keyOf(t))
+      if (!hasCJK(t)) havePinyin.add(pinyinKey(t))
+    }
+    for (const tr of a.tracks) {
+      for (const t of [tr.titleZh, ...titles(tr.title)].filter(Boolean)) {
+        have.push(keyOf(t))
+        if (!hasCJK(t)) havePinyin.add(pinyinKey(t))
+      }
+    }
+  }
+  const haveSet = new Set(have.filter(Boolean))
+  // 中文名也比拼音（「11月的肖邦」與「11月的蕭邦」）
+  for (const k of have.filter((h) => h && hasCJK(h))) if (k.length >= 3) havePinyin.add(pinyinKey(k))
+  const covered = (e) =>
+    e.keys.some((k) => haveSet.has(k) || have.some((h) => h && similarity(k, h) >= 0.85)) ||
+    e.titles.some((t) => pinyinKey(cleanWikiTitle(t)).length >= 4 && havePinyin.has(pinyinKey(cleanWikiTitle(t))))
+  const RANK = { 'album-page': 0, 'search-page': 0, table: 1, list: 2 }
+  // 只留正規專輯與 EP：單曲、精選、合輯、影音產品、特殊版本、兩首歌的單曲唱片（「雲河、夜來香」）都不算
+  const NOT_ALBUM = /VCD|DVD|Blu-?ray|藍光|蓝光|\bMV\b|KARAOKE|卡拉\s*OK|影音|\bLive\b|演唱會|演唱会|現場|现场|紀錄|纪录|珍藏版|慶功|庆功|限量|升級|全配|豪華|豪华|紀念|纪念|SACD|HQCD|\bIVD\b|\b3D\b|限定|日本|原聲|原声|合輯|合辑|群星|精選|精选|金唱片|金曲|best|collection|\bhits\b|唱片$|音樂$|音乐$|單曲|单曲|主題曲|主题曲|廣告|广告|[、／/]/i
+  // 表格屬性殘留（「style="background:" | 陳奕迅」）、名稱就是歌手名字的，都不是專輯
+  const junk = (t) => /[=|{}<>]|^\s*$/.test(t) || artistNames.filter(Boolean).some((n) => normalizeTitle(t) === normalizeTitle(n))
+  const candidates = catalog
+    .filter((e) => e.musical && e.source in RANK && e.date && e.keys.length && !e.forAlbum)
+    .filter((e) => !e.titles.some(junk))
+    .filter((e) => !['live', 'soundtrack', 'single', 'compilation', 'reissue'].includes(e.kind))
+    .filter((e) => e.titles.every((t) => !NOT_ALBUM.test(t)) && e.titles.some((t) => t.length <= 30))
+  // 同一張在不同來源重複出現：名稱相似的歸成一組，取最可靠的來源
+  const groups = []
+  for (const e of candidates.sort((a, b) => RANK[a.source] - RANK[b.source] || PRECISION_RANK[a.precision] - PRECISION_RANK[b.precision])) {
+    const g = groups.find((x) => x.some((y) => y.keys.some((k) => e.keys.some((k2) => similarity(k, k2) >= 0.9))))
+    if (g) g.push(e)
+    else groups.push([e])
+  }
+  return groups
+    .filter((g) => !g.some(covered))
+    .map((g) => {
+      const e = g[0]
+      const year = Number(e.date.slice(0, 4))
+      return {
+        title: stripArtistName(cleanWikiTitle(e.titles.find(hasCJK) ?? e.titles[0]), artistNames),
+        releaseDate: e.date,
+        releaseDatePrecision: e.precision,
+        kind: g.find((x) => x.kind)?.kind ?? null,
+        wikiTitle: e.page ?? null,
+        source: e.source,
+        year,
+      }
+    })
+    .filter((x) => x.year >= 1950 && x.year <= new Date().getFullYear() + 1)
+    .sort((a, b) => a.releaseDate.localeCompare(b.releaseDate))
 }
 
 // 去掉名稱裡的歌手名（「絕版公主蔡依林-夢綺地精選」），避免干擾比對；名稱就是歌手名時保留

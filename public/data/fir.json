@@ -68,7 +68,8 @@
             "lyrics": "F.I.R、謝宥慧、林志年",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -466,7 +467,8 @@
             "lyrics": "F.I.R.（詹雯婷、黃漢青、陳建寧）",
             "music": "F.I.R.（詹雯婷、黃漢青、陳建寧）",
             "arranger": "黃漢青、奧斯卡"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -483,7 +485,8 @@
             "lyrics": "F.I.R.、謝宥慧",
             "music": "F.I.R.（詹雯婷、黃漢青、陳建寧）",
             "arranger": "Terence Teo"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -2159,6 +2162,17 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "勇者無畏"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "同名專輯",
+      "releaseDate": "2004-04-23",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "F.I.R.飛兒樂團 同名專輯",
+      "source": "album-page",
+      "year": 2004
     }
   ]
 }

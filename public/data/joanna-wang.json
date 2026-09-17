@@ -108,7 +108,8 @@
           "duration": 280,
           "byOther": false,
           "nameKey": "fornoreason",
-          "titleZh": "For No Reason（中文版）"
+          "titleZh": "For No Reason（中文版）",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -248,7 +249,8 @@
           "duration": 231,
           "byOther": false,
           "nameKey": "maybesomeothertime",
-          "titleZh": "Maybe Some Other Time（英文版）"
+          "titleZh": "Maybe Some Other Time（英文版）",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -326,7 +328,8 @@
           "duration": 229,
           "byOther": false,
           "nameKey": "maybesomeothertime",
-          "titleZh": "Maybe Some Other Time（英文版）"
+          "titleZh": "Maybe Some Other Time（英文版）",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -443,7 +446,8 @@
           "duration": 237,
           "byOther": false,
           "nameKey": "tikiville#live",
-          "titleZh": "Tikiville (英文版) (Live)"
+          "titleZh": "Tikiville (英文版) (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -704,7 +708,8 @@
           "duration": 228,
           "byOther": false,
           "nameKey": "maybesomeothertime",
-          "titleZh": "Maybe Some Other Time（英文版）"
+          "titleZh": "Maybe Some Other Time（英文版）",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -782,7 +787,8 @@
           "duration": 227,
           "byOther": false,
           "nameKey": "maybesomeothertime",
-          "titleZh": "Maybe Some Other Time（英文版）"
+          "titleZh": "Maybe Some Other Time（英文版）",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -2224,7 +2230,8 @@
           "duration": 98,
           "byOther": false,
           "nameKey": "爸媽不瞭解",
-          "titleZh": "爸媽不瞭解"
+          "titleZh": "爸媽不瞭解",
+          "titleZhVariant": true
         },
         {
           "index": 18,
@@ -2835,7 +2842,8 @@
           "duration": 205,
           "byOther": false,
           "nameKey": "yourebreakingmyheart",
-          "titleZh": "You're Breaking My Heart (電視劇\"茶金\"插曲)"
+          "titleZh": "You're Breaking My Heart (電視劇\"茶金\"插曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2021-01-01",
@@ -2844,7 +2852,8 @@
       "wikiTitle": "王若琳",
       "wikiKind": "single",
       "nameKey": "yourebreakingmyheart",
-      "titleZh": "You're Breaking My Heart (電視劇\"茶金\"插曲)"
+      "titleZh": "You're Breaking My Heart (電視劇\"茶金\"插曲)",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_LUD8Sik2qQW",
@@ -2971,7 +2980,8 @@
           "duration": 176,
           "byOther": false,
           "nameKey": "pigeonsonyourbalcony",
-          "titleZh": "Pigeons on Your Balcony (陽臺上的鴿子)"
+          "titleZh": "Pigeons on Your Balcony (陽臺上的鴿子)",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -3060,7 +3070,8 @@
           "duration": 127,
           "byOther": false,
           "nameKey": "shehadahabitofmeetingalloftheartistsbackstage",
-          "titleZh": "She Had a Habit of Meeting All of the Artists Backstage (她有一個習慣在後臺跟藝人見面)"
+          "titleZh": "She Had a Habit of Meeting All of the Artists Backstage (她有一個習慣在後臺跟藝人見面)",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -3241,5 +3252,6 @@
       "wikiKind": null,
       "nameKey": "鬼才之道電影原聲帶"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

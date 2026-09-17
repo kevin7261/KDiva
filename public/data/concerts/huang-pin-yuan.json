@@ -1,0 +1,176 @@
+{
+  "slug": "huang-pin-yuan",
+  "fetchedAt": "2026-09-17T18:07:33.948Z",
+  "wiki": "黃品源",
+  "bio": {
+    "born": {
+      "date": "1968-03-17",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "黃品源 “品味” 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-09-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-05-02",
+        "precision": "day"
+      },
+      "showCount": 12,
+      "regions": [],
+      "cities": [
+        "佛山",
+        "連州",
+        "陽江",
+        "韶州",
+        "汕尾",
+        "湛江",
+        "汕頭",
+        "中山",
+        "耒陽",
+        "雲頂"
+      ],
+      "venues": [
+        "佛山嶺南明珠livehouse",
+        "連州體育中心體育館",
+        "陽江市體育館",
+        "韶州體育中心體育館",
+        "汕尾體育館",
+        "湛江市體育中心體育館",
+        "汕頭體育中心體育館",
+        "佛山高明體育中心體育館",
+        "湛江體育中心體育館",
+        "中山興中體育場",
+        "耒陽市全民健身活動中心體育館",
+        "雲星劇場"
+      ],
+      "shows": [
+        {
+          "date": "2024-09-07",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "佛山嶺南明珠livehouse",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
+        },
+        {
+          "date": "2025-03-01",
+          "precision": "day",
+          "region": "",
+          "city": "連州",
+          "venue": "連州體育中心體育館",
+          "lat": 24.78675,
+          "lon": 112.37346,
+          "geo": "city"
+        },
+        {
+          "date": "2025-05-10",
+          "precision": "day",
+          "region": "",
+          "city": "陽江",
+          "venue": "陽江市體育館",
+          "lat": 21.85563,
+          "lon": 111.96272,
+          "geo": "city"
+        },
+        {
+          "date": "2025-06-28",
+          "precision": "day",
+          "region": "",
+          "city": "韶州",
+          "venue": "韶州體育中心體育館"
+        },
+        {
+          "date": "2025-07-26",
+          "precision": "day",
+          "region": "",
+          "city": "汕尾",
+          "venue": "汕尾體育館",
+          "lat": 22.766389,
+          "lon": 115.333056,
+          "geo": "city"
+        },
+        {
+          "date": "2025-08-16",
+          "precision": "day",
+          "region": "",
+          "city": "湛江",
+          "venue": "湛江市體育中心體育館",
+          "lat": 21.196667,
+          "lon": 110.403056,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-27",
+          "precision": "day",
+          "region": "",
+          "city": "汕頭",
+          "venue": "汕頭體育中心體育館",
+          "lat": 23.35388888888889,
+          "lon": 116.68222222222222,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-05",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "佛山高明體育中心體育館",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
+        },
+        {
+          "date": "2025-11-15",
+          "precision": "day",
+          "region": "",
+          "city": "湛江",
+          "venue": "湛江體育中心體育館",
+          "lat": 21.196667,
+          "lon": 110.403056,
+          "geo": "city"
+        },
+        {
+          "date": "2026-01-03",
+          "precision": "day",
+          "region": "",
+          "city": "中山",
+          "venue": "中山興中體育場",
+          "lat": 22.533333333333,
+          "lon": 113.35,
+          "geo": "city"
+        },
+        {
+          "date": "2026-03-14",
+          "precision": "day",
+          "region": "",
+          "city": "耒陽",
+          "venue": "耒陽市全民健身活動中心體育館",
+          "lat": 26.4179,
+          "lon": 112.8457,
+          "geo": "city"
+        },
+        {
+          "date": "2026-05-02",
+          "precision": "day",
+          "region": "",
+          "city": "雲頂",
+          "venue": "雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
+}

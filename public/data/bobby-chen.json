@@ -467,7 +467,8 @@
           "duration": 253,
           "byOther": false,
           "nameKey": "午後的蟬聲",
-          "titleZh": "午後的蟬聲"
+          "titleZh": "午後的蟬聲",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -3769,7 +3770,8 @@
           "duration": 260,
           "byOther": false,
           "nameKey": "臺灣好",
-          "titleZh": "臺灣好"
+          "titleZh": "臺灣好",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -3897,7 +3899,8 @@
           "duration": 327,
           "byOther": false,
           "nameKey": "舞臺劇",
-          "titleZh": "舞臺劇"
+          "titleZh": "舞臺劇",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -4351,7 +4354,8 @@
           "duration": 273,
           "byOther": false,
           "nameKey": "臺三線",
-          "titleZh": "臺三線"
+          "titleZh": "臺三線",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -4596,7 +4600,8 @@
           "duration": 326,
           "byOther": false,
           "nameKey": "去他鄉的臺九線",
-          "titleZh": "去他鄉的臺九線"
+          "titleZh": "去他鄉的臺九線",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -4881,6 +4886,161 @@
       "wikiTitle": "陳昇",
       "wikiKind": "studio",
       "nameKey": "望鄉"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "新寶島康樂隊",
+      "releaseDate": "1992-07-31",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 1992
+    },
+    {
+      "title": "新寶島康樂隊第Ⅱ輯",
+      "releaseDate": "1994-11-25",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 1994
+    },
+    {
+      "title": "新寶島康樂隊第3輯",
+      "releaseDate": "1995-10-27",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 1995
+    },
+    {
+      "title": "老寶島康樂隊",
+      "releaseDate": "1996-02-09",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 1996
+    },
+    {
+      "title": "夏",
+      "releaseDate": "1996-07-12",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 1996
+    },
+    {
+      "title": "新寶島康樂隊第樹輯",
+      "releaseDate": "1996-12-27",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 1996
+    },
+    {
+      "title": "新寶島康樂隊第舞輯 愛情霹靂火",
+      "releaseDate": "2000-12-20",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2000
+    },
+    {
+      "title": "新寶島康樂隊第6發",
+      "releaseDate": "2006-07-07",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2006
+    },
+    {
+      "title": "新寶島康樂隊7 衛生紙",
+      "releaseDate": "2007-12-28",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2007
+    },
+    {
+      "title": "新寶島康樂隊八 腳開開",
+      "releaseDate": "2011-06-03",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2011
+    },
+    {
+      "title": "新寶島康樂隊第狗張",
+      "releaseDate": "2012-11-21",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2012
+    },
+    {
+      "title": "延安的秋天",
+      "releaseDate": "2013-12-27",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2013
+    },
+    {
+      "title": "新寶島康樂隊第叔張",
+      "releaseDate": "2014-08-01",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2014
+    },
+    {
+      "title": "新寶島康樂隊第11張 UP UP",
+      "releaseDate": "2016-07-22",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2016
+    },
+    {
+      "title": "新寶島康樂隊第12張 剪剪花",
+      "releaseDate": "2021-08-27",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2021
+    },
+    {
+      "title": "大波浪",
+      "releaseDate": "2024-11-29",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2024
+    },
+    {
+      "title": "我不是搖滾歌手",
+      "releaseDate": "2026-02-06",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "陳昇",
+      "source": "table",
+      "year": 2026
     }
   ]
 }

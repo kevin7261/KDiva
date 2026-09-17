@@ -346,7 +346,8 @@
           "duration": 284,
           "byOther": false,
           "nameKey": "我是一隻小小鳥",
-          "titleZh": "我是一隻小小鳥"
+          "titleZh": "我是一隻小小鳥",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "1991-01-01",
@@ -1288,7 +1289,8 @@
           "duration": 224,
           "byOther": true,
           "nameKey": "我是眞的愛你#live",
-          "titleZh": "我是真的愛你 (Live)"
+          "titleZh": "我是真的愛你 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1593,7 +1595,8 @@
           "duration": 254,
           "byOther": false,
           "nameKey": "望嶽",
-          "titleZh": "望嶽"
+          "titleZh": "望嶽",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1944,6 +1947,53 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "當我們年輕的時候新歌經典現場錄音專輯"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "我終於失去了妳",
+      "releaseDate": "1989-05-20",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "我終於失去了妳",
+      "source": "album-page",
+      "year": 1989
+    },
+    {
+      "title": "趙傳四",
+      "releaseDate": "1991-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "趙傳",
+      "source": "list",
+      "year": 1991
+    },
+    {
+      "title": "You Are Always On Mind",
+      "releaseDate": "1991-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "趙傳",
+      "source": "list",
+      "year": 1991
+    },
+    {
+      "title": "約定",
+      "releaseDate": "1993-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "趙傳",
+      "source": "list",
+      "year": 1993
+    },
+    {
+      "title": "黑暗的英雄",
+      "releaseDate": "1996-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "趙傳",
+      "source": "list",
+      "year": 1996
     }
   ]
 }

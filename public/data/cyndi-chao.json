@@ -148,7 +148,8 @@
             "music": "倪柏聖",
             "arranger": "司徒松"
           },
-          "titleZh": "坐在黑夜裡"
+          "titleZh": "坐在黑夜裡",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -1676,7 +1677,8 @@
             "music": "鄭華娟",
             "arranger": "何朝元"
           },
-          "titleZh": "MIDNIGHT臺北"
+          "titleZh": "MIDNIGHT臺北",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -3312,7 +3314,8 @@
             "music": "鄭華娟",
             "arranger": "何朝元"
           },
-          "titleZh": "Midnight臺北"
+          "titleZh": "Midnight臺北",
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -4245,6 +4248,17 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "活出一道光"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "最好衹到這裡",
+      "releaseDate": "1990-10-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "趙詠華",
+      "source": "table",
+      "year": 1990
     }
   ]
 }

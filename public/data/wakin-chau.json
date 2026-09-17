@@ -638,7 +638,8 @@
           "duration": 235,
           "byOther": false,
           "nameKey": "是不是隻要有愛",
-          "titleZh": "是不是隻要有愛"
+          "titleZh": "是不是隻要有愛",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -2055,7 +2056,8 @@
           "duration": 23,
           "byOther": false,
           "nameKey": "站在臺北舞臺上",
-          "titleZh": "站在臺北舞臺上"
+          "titleZh": "站在臺北舞臺上",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -5805,7 +5807,8 @@
           "duration": 233,
           "byOther": false,
           "nameKey": "是不是隻要有愛",
-          "titleZh": "是不是隻要有愛"
+          "titleZh": "是不是隻要有愛",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -7292,7 +7295,8 @@
           "duration": 250,
           "byOther": false,
           "nameKey": "往臺北的夜行客車",
-          "titleZh": "往臺北的夜行客車"
+          "titleZh": "往臺北的夜行客車",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -7334,6 +7338,125 @@
       "wikiTitle": "怎麼斷句呢",
       "wikiKind": "single",
       "nameKey": "怎麼斷句呢"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "最後圓舞曲",
+      "releaseDate": "1985-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 1985
+    },
+    {
+      "title": "我付出我的真愛，我實現我的夢",
+      "releaseDate": "1988-08-29",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 1988
+    },
+    {
+      "title": "迪士尼阿拉丁電影歌曲",
+      "releaseDate": "1992-11-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 1992
+    },
+    {
+      "title": "妖獸都市",
+      "releaseDate": "1992-11-18",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 1992
+    },
+    {
+      "title": "今夜陽光燦爛",
+      "releaseDate": "1994-01-25",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 1994
+    },
+    {
+      "title": "Be My Valentine",
+      "releaseDate": "1995-02-14",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 1995
+    },
+    {
+      "title": "弦途有你",
+      "releaseDate": "1995-04-27",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "弦途有你 (專輯)",
+      "source": "album-page",
+      "year": 1995
+    },
+    {
+      "title": "弦弦全全",
+      "releaseDate": "1995-12-22",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "弦弦全全",
+      "source": "album-page",
+      "year": 1995
+    },
+    {
+      "title": "聽健",
+      "releaseDate": "1998-12-22",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 1998
+    },
+    {
+      "title": "My Oh My",
+      "releaseDate": "1999-02-04",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 1999
+    },
+    {
+      "title": "Now 現在",
+      "releaseDate": "1999-11-29",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 1999
+    },
+    {
+      "title": "My Favourite Songs",
+      "releaseDate": "2002-05-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 2002
+    },
+    {
+      "title": "水滸三部曲 原創音樂選輯",
+      "releaseDate": "2014-12-26",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "周華健音樂作品列表",
+      "source": "table",
+      "year": 2014
     }
   ]
 }

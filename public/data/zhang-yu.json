@@ -590,7 +590,8 @@
           "duration": 329,
           "byOther": false,
           "nameKey": "迴心轉意",
-          "titleZh": "迴心轉意"
+          "titleZh": "迴心轉意",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -2578,7 +2579,8 @@
           "duration": 329,
           "byOther": false,
           "nameKey": "迴心轉意",
-          "titleZh": "迴心轉意"
+          "titleZh": "迴心轉意",
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -2727,5 +2729,6 @@
       "wikiKind": null,
       "nameKey": "我們盡力了"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

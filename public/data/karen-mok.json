@@ -475,7 +475,8 @@
             "lyrics": "林夕",
             "music": "Jem Griffiths、Justin Griffiths",
             "arranger": "Adam Lee"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 31,
@@ -1456,7 +1457,8 @@
             "music": "王治平",
             "arranger": "李伯傑"
           },
-          "titleZh": "電臺情歌"
+          "titleZh": "電臺情歌",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -3488,7 +3490,8 @@
             "music": "王治平",
             "arranger": "李伯傑"
           },
-          "titleZh": "電臺情歌"
+          "titleZh": "電臺情歌",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -3877,7 +3880,8 @@
             "lyrics": "林夕",
             "music": "Jem Griffiths、Justin Griffiths",
             "arranger": "Adam Lee"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -4120,7 +4124,8 @@
           "duration": 249,
           "byOther": false,
           "nameKey": "臺",
-          "titleZh": "臺"
+          "titleZh": "臺",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -4793,7 +4798,8 @@
             "lyrics": "林夕",
             "music": "Jem Griffiths、Justin Griffiths",
             "arranger": "Adam Lee"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -4933,7 +4939,8 @@
           "duration": 252,
           "byOther": false,
           "nameKey": "臺",
-          "titleZh": "臺"
+          "titleZh": "臺",
+          "titleZhVariant": true
         },
         {
           "index": 25,
@@ -5257,7 +5264,8 @@
             "music": "王治平",
             "arranger": "李伯傑"
           },
-          "titleZh": "電臺情歌"
+          "titleZh": "電臺情歌",
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -6990,7 +6998,8 @@
             "music": "華晨宇",
             "arranger": "Ruth Ling"
           },
-          "titleZh": "半生緣 (我們在這裡相遇)"
+          "titleZh": "半生緣 (我們在這裡相遇)",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -7064,7 +7073,8 @@
       "wikiTitle": "莫文蔚音樂作品列表",
       "wikiKind": "single",
       "nameKey": "letthefuturein",
-      "titleZh": "Let the Future in （中文版）"
+      "titleZh": "Let the Future in （中文版）",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_1pvriFKMhjP",
@@ -7822,6 +7832,26 @@
       "wikiTitle": "莫文蔚音樂作品列表",
       "wikiKind": "studio",
       "nameKey": "karenmokthemasters"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "Karen",
+      "releaseDate": "1993-08-01",
+      "releaseDatePrecision": "month",
+      "kind": "studio",
+      "wikiTitle": "莫文蔚音樂作品列表",
+      "source": "table",
+      "year": 1993
+    },
+    {
+      "title": "你可以",
+      "releaseDate": "1999-04-20",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "莫文蔚音樂作品列表",
+      "source": "table",
+      "year": 1999
     }
   ]
 }

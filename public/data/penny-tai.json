@@ -512,7 +512,8 @@
             "music": "戴佩妮",
             "arranger": "Andy Peterson、Jamie Willson、李守信、黃中嶽、吳慶隆、戴佩妮"
           },
-          "titleZh": "黃中嶽"
+          "titleZh": "黃中嶽",
+          "titleZhVariant": true
         },
         {
           "index": 17,
@@ -626,7 +627,8 @@
             "music": "戴佩妮",
             "arranger": "戴佩妮、陳達偉"
           },
-          "titleZh": "慾望的世界"
+          "titleZh": "慾望的世界",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -3511,7 +3513,8 @@
           "duration": 238,
           "byOther": true,
           "nameKey": "入畫江南#live",
-          "titleZh": "入畫江南 (Live)"
+          "titleZh": "入畫江南 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -3534,7 +3537,8 @@
           "duration": 226,
           "byOther": true,
           "nameKey": "逆戰#live",
-          "titleZh": "逆戰 (Live)"
+          "titleZh": "逆戰 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -3557,7 +3561,8 @@
           "duration": 217,
           "byOther": false,
           "nameKey": "怎樣#live",
-          "titleZh": "怎樣 (Live)"
+          "titleZh": "怎樣 (Live)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -3586,7 +3591,8 @@
           "duration": 240,
           "byOther": true,
           "nameKey": "風月#live",
-          "titleZh": "風月 (Live)"
+          "titleZh": "風月 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -3598,7 +3604,8 @@
           "duration": 265,
           "byOther": false,
           "nameKey": "淡水河邊#live",
-          "titleZh": "淡水河邊 (Live)"
+          "titleZh": "淡水河邊 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -3970,6 +3977,17 @@
       "wikiKind": null,
       "nameKey": "imsorry",
       "titleZh": "I'm Sorry (伴奏)"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "雙生火焰",
+      "releaseDate": "2024-11-11",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "雙生火焰 (專輯)",
+      "source": "album-page",
+      "year": 2024
     }
   ]
 }

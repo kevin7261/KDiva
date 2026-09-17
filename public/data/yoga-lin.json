@@ -1878,7 +1878,8 @@
             "music": "林宥嘉",
             "arranger": "阿雞老師張瀚中"
           },
-          "titleZh": "大象舞臺(Elephant Slide)"
+          "titleZh": "大象舞臺(Elephant Slide)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2014-05-30",
@@ -3180,7 +3181,8 @@
           "duration": 267,
           "byOther": false,
           "nameKey": "臺北紐約",
-          "titleZh": "臺北紐約"
+          "titleZh": "臺北紐約",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -4118,6 +4120,17 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "鬼屋"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "|王 Love, Lord",
+      "releaseDate": "2024-03-19",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "林宥嘉專輯列表",
+      "source": "table",
+      "year": 2024
     }
   ]
 }

@@ -34,7 +34,9 @@ for (const artist of targets) {
     await writeFile(dataFile(artist.slug), JSON.stringify(dataset, null, 2))
     continue
   }
-  const matched = await applyReleaseDates(dataset.albums, artist, (m) => console.log(m))
+  const extra = {}
+  const matched = await applyReleaseDates(dataset.albums, artist, (m) => console.log(m), extra)
+  if (extra.wikiOnly) dataset.wikiOnly = extra.wikiOnly
   addNameKeys(dataset.albums)
   total += dataset.albums.length
   dated += matched

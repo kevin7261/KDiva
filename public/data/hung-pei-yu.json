@@ -30,11 +30,11 @@
           "playsText": "播放次數：147萬",
           "duration": 260,
           "byOther": false,
+          "nameKey": "明室",
           "credits": {
             "lyrics": "王小苗",
             "music": "陳建騏"
-          },
-          "nameKey": "明室"
+          }
         },
         {
           "index": 2,
@@ -45,12 +45,12 @@
           "playsText": "播放次數：858萬",
           "duration": 288,
           "byOther": false,
+          "nameKey": "不在一起就不會分開",
           "credits": {
             "lyrics": "葛大為",
             "music": "徐佳瑩",
             "arranger": "張晁毓"
-          },
-          "nameKey": "不在一起就不會分開"
+          }
         },
         {
           "index": 3,
@@ -61,13 +61,14 @@
           "playsText": "播放次數：67萬",
           "duration": 251,
           "byOther": false,
+          "nameKey": "汙漬",
           "credits": {
             "lyrics": "小寒",
             "music": "伍家輝",
             "arranger": "翁光煒"
           },
           "titleZh": "汙漬",
-          "nameKey": "汙漬"
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -78,12 +79,12 @@
           "playsText": "播放次數：17萬",
           "duration": 343,
           "byOther": false,
+          "nameKey": "你是自由的",
           "credits": {
             "lyrics": "王小苗",
             "music": "楊世暄",
             "arranger": "聲子蟲"
-          },
-          "nameKey": "你是自由的"
+          }
         },
         {
           "index": 5,
@@ -94,11 +95,11 @@
           "playsText": "播放次數：13萬",
           "duration": 262,
           "byOther": false,
+          "nameKey": "letitbleed",
           "credits": {
             "lyrics": "李焯雄",
             "arranger": "陳君豪"
-          },
-          "nameKey": "letitbleed"
+          }
         },
         {
           "index": 6,
@@ -109,12 +110,12 @@
           "playsText": "播放次數：66萬",
           "duration": 241,
           "byOther": false,
+          "nameKey": "躲貓貓",
           "credits": {
             "lyrics": "鄭昭元",
             "music": "鄭昭元",
             "arranger": "鄭昭元"
-          },
-          "nameKey": "躲貓貓"
+          }
         },
         {
           "index": 7,
@@ -125,11 +126,11 @@
           "playsText": "播放次數：45萬",
           "duration": 211,
           "byOther": false,
+          "nameKey": "廢到月亮",
           "credits": {
             "music": "Everydaze",
             "arranger": "徐平"
-          },
-          "nameKey": "廢到月亮"
+          }
         },
         {
           "index": 8,
@@ -151,12 +152,12 @@
           "playsText": "播放次數：672萬",
           "duration": 221,
           "byOther": false,
+          "nameKey": "無慣例的早晨",
           "credits": {
             "lyrics": "蔡健雅",
             "music": "蔡健雅",
             "arranger": "錢威良"
-          },
-          "nameKey": "無慣例的早晨"
+          }
         },
         {
           "index": 10,
@@ -167,11 +168,11 @@
           "playsText": "播放次數：15萬",
           "duration": 298,
           "byOther": false,
+          "nameKey": "passengerside",
           "credits": {
             "lyrics": "王昱辰",
             "music": "王昱辰"
-          },
-          "nameKey": "passengerside"
+          }
         }
       ],
       "releaseDate": "2022-10-13",
@@ -199,12 +200,12 @@
           "playsText": "播放次數：858萬",
           "duration": 288,
           "byOther": false,
+          "nameKey": "不在一起就不會分開",
           "credits": {
             "lyrics": "葛大為",
             "music": "徐佳瑩",
             "arranger": "張晁毓"
-          },
-          "nameKey": "不在一起就不會分開"
+          }
         }
       ],
       "releaseDate": null,
@@ -260,12 +261,12 @@
           "playsText": "播放次數：66萬",
           "duration": 241,
           "byOther": false,
+          "nameKey": "躲貓貓",
           "credits": {
             "lyrics": "鄭昭元",
             "music": "鄭昭元",
             "arranger": "鄭昭元"
-          },
-          "nameKey": "躲貓貓"
+          }
         }
       ],
       "releaseDate": null,
@@ -377,12 +378,13 @@
           "playsText": "播放次數：4.7萬",
           "duration": 225,
           "byOther": false,
+          "nameKey": "一鬨而散",
           "credits": {
             "lyrics": "葛大為",
             "music": "吳青峰"
           },
           "titleZh": "一鬨而散",
-          "nameKey": "一鬨而散"
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -404,12 +406,12 @@
           "playsText": "播放次數：5.8萬",
           "duration": 293,
           "byOther": false,
+          "nameKey": "一面之緣",
           "credits": {
             "lyrics": "Hush",
             "music": "伍家輝",
             "arranger": "伍棟賢"
-          },
-          "nameKey": "一面之緣"
+          }
         },
         {
           "index": 4,
@@ -420,10 +422,10 @@
           "playsText": "播放次數：29萬",
           "duration": 205,
           "byOther": false,
+          "nameKey": "包括但不限於",
           "credits": {
             "lyrics": "吳青峰"
-          },
-          "nameKey": "包括但不限於"
+          }
         },
         {
           "index": 5,
@@ -434,12 +436,12 @@
           "playsText": "播放次數：5萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "成功配對",
           "credits": {
             "lyrics": "林夕",
             "music": "郁採真",
             "arranger": "鄭昭元"
-          },
-          "nameKey": "成功配對"
+          }
         },
         {
           "index": 6,
@@ -450,10 +452,10 @@
           "playsText": "播放次數：3.9萬",
           "duration": 192,
           "byOther": false,
+          "nameKey": "三輩子",
           "credits": {
             "lyrics": "王小苗"
-          },
-          "nameKey": "三輩子"
+          }
         },
         {
           "index": 7,
@@ -464,11 +466,11 @@
           "playsText": "播放次數：76萬",
           "duration": 253,
           "byOther": false,
+          "nameKey": "完整",
           "credits": {
             "music": "蔡旻佑",
             "arranger": "張晁毓"
-          },
-          "nameKey": "完整"
+          }
         },
         {
           "index": 8,
@@ -479,10 +481,10 @@
           "playsText": "播放次數：137萬",
           "duration": 280,
           "byOther": false,
+          "nameKey": "不佔地方",
           "credits": {
             "lyrics": "小寒"
-          },
-          "nameKey": "不佔地方"
+          }
         },
         {
           "index": 9,
@@ -532,10 +534,10 @@
           "playsText": "播放次數：138萬",
           "duration": 280,
           "byOther": false,
+          "nameKey": "不佔地方",
           "credits": {
             "lyrics": "小寒"
-          },
-          "nameKey": "不佔地方"
+          }
         }
       ],
       "releaseDate": null,
@@ -591,10 +593,10 @@
           "playsText": "播放次數：29萬",
           "duration": 205,
           "byOther": false,
+          "nameKey": "包括但不限於",
           "credits": {
             "lyrics": "吳青峰"
-          },
-          "nameKey": "包括但不限於"
+          }
         }
       ],
       "releaseDate": null,
@@ -659,6 +661,26 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "無姓同名"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "明室 Silver Lining",
+      "releaseDate": "2022-10-13",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "洪佩瑜",
+      "source": "list",
+      "year": 2022
+    },
+    {
+      "title": "開 Still Moving",
+      "releaseDate": "2025-10-14",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "洪佩瑜",
+      "source": "list",
+      "year": 2025
     }
   ]
 }

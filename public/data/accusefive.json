@@ -313,7 +313,8 @@
           "duration": 268,
           "byOther": false,
           "nameKey": "帶我去找夜生活",
-          "titleZh": "帶我去找夜生活"
+          "titleZh": "帶我去找夜生活",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -342,7 +343,8 @@
           "duration": 272,
           "byOther": false,
           "nameKey": "說我愛你的一百種方式",
-          "titleZh": "說我愛你的一百種方式"
+          "titleZh": "說我愛你的一百種方式",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -354,7 +356,8 @@
           "duration": 272,
           "byOther": false,
           "nameKey": "說我愛你的一百種方式",
-          "titleZh": "說我愛你的一百種方式 (和聲伴奏版)"
+          "titleZh": "說我愛你的一百種方式 (和聲伴奏版)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2020-04-26",
@@ -383,7 +386,8 @@
           "duration": 258,
           "byOther": false,
           "nameKey": "醜人多作怪",
-          "titleZh": "醜人多作怪 (《新鬥羅大陸》手遊半週年主題曲)"
+          "titleZh": "醜人多作怪 (《新鬥羅大陸》手遊半週年主題曲)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -428,7 +432,8 @@
           "duration": 271,
           "byOther": false,
           "nameKey": "唯一插曲",
-          "titleZh": "唯一 (三立/臺視戲劇【戀愛是科學】插曲)"
+          "titleZh": "唯一 (三立/臺視戲劇【戀愛是科學】插曲)",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -473,7 +478,8 @@
           "duration": 258,
           "byOther": false,
           "nameKey": "溫蒂公主的侍衞",
-          "titleZh": "溫蒂公主的侍衛 (三立/臺視戲劇《天巡者》插曲)"
+          "titleZh": "溫蒂公主的侍衛 (三立/臺視戲劇《天巡者》插曲)",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -496,7 +502,8 @@
           "duration": 384,
           "byOther": false,
           "nameKey": "愚人遊戲片尾曲",
-          "titleZh": "愚人遊戲 (三立/臺視戲劇【戀愛是科學】片尾曲)"
+          "titleZh": "愚人遊戲 (三立/臺視戲劇【戀愛是科學】片尾曲)",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -883,7 +890,8 @@
           "duration": 309,
           "byOther": false,
           "nameKey": "我無法剋制自己",
-          "titleZh": "我無法剋制自己"
+          "titleZh": "我無法剋制自己",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -1084,7 +1092,8 @@
           "duration": 259,
           "byOther": false,
           "nameKey": "為你寫詩#live",
-          "titleZh": "為你寫詩 (Live)"
+          "titleZh": "為你寫詩 (Live)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -1096,7 +1105,8 @@
           "duration": 259,
           "byOther": false,
           "nameKey": "為你寫詩#live",
-          "titleZh": "為你寫詩 (Live版伴奏)"
+          "titleZh": "為你寫詩 (Live版伴奏)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -1495,7 +1505,8 @@
           "duration": 233,
           "byOther": false,
           "nameKey": "當蒲公英吹散遠航",
-          "titleZh": "當蒲公英吹散遠航 (和聲伴奏)"
+          "titleZh": "當蒲公英吹散遠航 (和聲伴奏)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2026-01-12",
@@ -1561,5 +1572,6 @@
       "wikiKind": null,
       "nameKey": "總有一顆屬於你的星球"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

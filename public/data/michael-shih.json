@@ -301,7 +301,8 @@
           "duration": 247,
           "byOther": false,
           "nameKey": "有緣來做夥",
-          "titleZh": "有緣來做夥"
+          "titleZh": "有緣來做夥",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "1994-01-01",
@@ -396,7 +397,8 @@
           "duration": 258,
           "byOther": false,
           "nameKey": "請問芳名",
-          "titleZh": "請問芳名 (臺)"
+          "titleZh": "請問芳名 (臺)",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -557,7 +559,8 @@
           "duration": 285,
           "byOther": false,
           "nameKey": "臺灣第一家鹽酥雞",
-          "titleZh": "臺灣第一家鹽酥雞"
+          "titleZh": "臺灣第一家鹽酥雞",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -994,7 +997,8 @@
           "duration": 285,
           "byOther": false,
           "nameKey": "臺灣第一家鹽酥雞",
-          "titleZh": "臺灣第一家鹽酥雞"
+          "titleZh": "臺灣第一家鹽酥雞",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1227,7 +1231,8 @@
           "duration": 322,
           "byOther": false,
           "nameKey": "臺語歌",
-          "titleZh": "臺語歌"
+          "titleZh": "臺語歌",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -1333,7 +1338,8 @@
           "duration": 213,
           "byOther": false,
           "nameKey": "愛拼才會贏",
-          "titleZh": "愛拼才會贏"
+          "titleZh": "愛拼才會贏",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -1472,7 +1478,8 @@
           "duration": 233,
           "byOther": false,
           "nameKey": "臺中腔",
-          "titleZh": "臺中腔"
+          "titleZh": "臺中腔",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -1622,7 +1629,8 @@
           "duration": 2245,
           "byOther": false,
           "nameKey": "施文彬20週年紀念remix",
-          "titleZh": "施文彬20週年紀念Remix"
+          "titleZh": "施文彬20週年紀念Remix",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2013-01-01",
@@ -2363,7 +2371,8 @@
           "duration": 252,
           "byOther": false,
           "nameKey": "你知道你爸又在哪裡發廢文嗎",
-          "titleZh": "你知道你爸又在哪裡發廢文嗎"
+          "titleZh": "你知道你爸又在哪裡發廢文嗎",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -2717,7 +2726,8 @@
           "duration": 233,
           "byOther": false,
           "nameKey": "臺中腔",
-          "titleZh": "臺中腔"
+          "titleZh": "臺中腔",
+          "titleZhVariant": true
         },
         {
           "index": 16,
@@ -2919,6 +2929,80 @@
       "wikiTitle": "施文彬",
       "wikiKind": null,
       "nameKey": "有歲"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "台語半調子",
+      "releaseDate": "1995-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "施文彬",
+      "source": "table",
+      "year": 1995
+    },
+    {
+      "title": "再會啦！心愛的我的愛人",
+      "releaseDate": "1995-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "施文彬",
+      "source": "table",
+      "year": 1995
+    },
+    {
+      "title": "真情味",
+      "releaseDate": "2007-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "施文彬",
+      "source": "table",
+      "year": 2007
+    },
+    {
+      "title": "今夜我陪你",
+      "releaseDate": "2007-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "施文彬",
+      "source": "table",
+      "year": 2007
+    },
+    {
+      "title": "我的沙發讓你躺",
+      "releaseDate": "2007-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "施文彬",
+      "source": "table",
+      "year": 2007
+    },
+    {
+      "title": "苦酒戀歌",
+      "releaseDate": "2008-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "施文彬",
+      "source": "table",
+      "year": 2008
+    },
+    {
+      "title": "離別酒杯",
+      "releaseDate": "2010-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "施文彬",
+      "source": "table",
+      "year": 2010
+    },
+    {
+      "title": "文跡奇武②麻雀雖小",
+      "releaseDate": "2010-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "施文彬",
+      "source": "table",
+      "year": 2010
     }
   ]
 }

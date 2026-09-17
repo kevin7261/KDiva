@@ -1859,7 +1859,8 @@
           "duration": 294,
           "byOther": false,
           "nameKey": "一句話的宇宙",
-          "titleZh": "一句話的宇宙"
+          "titleZh": "一句話的宇宙",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2196,7 +2197,8 @@
           "duration": 321,
           "byOther": false,
           "nameKey": "傲嬌辣臺妹feat頑童mj116#live",
-          "titleZh": "傲嬌+辣臺妹 feat. 頑童MJ116 (Live) (合作演出：頑童MJ116)"
+          "titleZh": "傲嬌+辣臺妹 feat. 頑童MJ116 (Live) (合作演出：頑童MJ116)",
+          "titleZhVariant": true
         },
         {
           "index": 30,
@@ -2359,7 +2361,8 @@
           "duration": 278,
           "byOther": false,
           "nameKey": "不捨",
-          "titleZh": "不捨（《斗羅大陸》動畫片尾曲） (伴奏)"
+          "titleZh": "不捨（《斗羅大陸》動畫片尾曲） (伴奏)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -2371,7 +2374,8 @@
           "duration": 278,
           "byOther": false,
           "nameKey": "不捨",
-          "titleZh": "不捨（《斗羅大陸》動畫片尾曲） (純音樂)"
+          "titleZh": "不捨（《斗羅大陸》動畫片尾曲） (純音樂)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2400,7 +2404,8 @@
           "duration": 278,
           "byOther": false,
           "nameKey": "不捨",
-          "titleZh": "不捨 (《鬥羅大陸瀚海乾坤篇》動畫片尾曲)"
+          "titleZh": "不捨 (《鬥羅大陸瀚海乾坤篇》動畫片尾曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2429,7 +2434,8 @@
           "duration": 259,
           "byOther": false,
           "nameKey": "在你不知道的時間裡愛你很久",
-          "titleZh": "在你不知道的時間裡愛你很久 (電影《我在時間盡頭等你》片尾曲)"
+          "titleZh": "在你不知道的時間裡愛你很久 (電影《我在時間盡頭等你》片尾曲)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2904,7 +2910,8 @@
           "duration": 246,
           "byOther": false,
           "nameKey": "行走的魚",
-          "titleZh": "行走的魚 (汪蘇瀧概念創作集《聯名》作品)"
+          "titleZh": "行走的魚 (汪蘇瀧概念創作集《聯名》作品)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2022-09-16",
@@ -2972,7 +2979,8 @@
           "duration": 227,
           "byOther": false,
           "nameKey": "與愛無關",
-          "titleZh": "與愛無關 (《七時吉祥》劇集自愛勇氣曲)"
+          "titleZh": "與愛無關 (《七時吉祥》劇集自愛勇氣曲)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -2984,7 +2992,8 @@
           "duration": 227,
           "byOther": false,
           "nameKey": "與愛無關",
-          "titleZh": "與愛無關 (伴奏)"
+          "titleZh": "與愛無關 (伴奏)",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -2996,7 +3005,8 @@
           "duration": 227,
           "byOther": false,
           "nameKey": "與愛無關",
-          "titleZh": "與愛無關 (和聲伴奏)"
+          "titleZh": "與愛無關 (和聲伴奏)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -3229,6 +3239,107 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "大象的葬禮"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "于是长大了以后",
+      "releaseDate": "2011-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2011
+    },
+    {
+      "title": "踩．脚．踏．车",
+      "releaseDate": "2011-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2011
+    },
+    {
+      "title": "未来雏形",
+      "releaseDate": "2012-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2012
+    },
+    {
+      "title": "Hello 1",
+      "releaseDate": "2017-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2017
+    },
+    {
+      "title": "偷故事的人",
+      "releaseDate": "2017-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2017
+    },
+    {
+      "title": "格格不入",
+      "releaseDate": "2020-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2020
+    },
+    {
+      "title": "不完美人生指南",
+      "releaseDate": "2020-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2020
+    },
+    {
+      "title": "成為了這樣的大人，並不可恥",
+      "releaseDate": "2021-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2021
+    },
+    {
+      "title": "明天再見",
+      "releaseDate": "2022-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2022
+    },
+    {
+      "title": "裘德",
+      "releaseDate": "2023-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2023
+    },
+    {
+      "title": "開",
+      "releaseDate": "2025-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "徐佳瑩",
+      "source": "table",
+      "year": 2025
     }
   ]
 }

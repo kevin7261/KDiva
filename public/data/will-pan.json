@@ -52,7 +52,8 @@
             "lyrics": "潘瑋柏、易家揚",
             "music": "李賢道（이현도）",
             "arranger": "李賢道"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -371,7 +372,8 @@
             "lyrics": "林夕",
             "music": "畢國勇",
             "arranger": "畢國勇"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -524,7 +526,8 @@
       "wikiTitle": "Wu Ha",
       "wikiKind": null,
       "nameKey": "wuha",
-      "titleZh": "Wu Ha(REMIX版)"
+      "titleZh": "Wu Ha(REMIX版)",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_iSKEI4xoRLn",
@@ -1503,7 +1506,8 @@
       "wikiTitle": "808 (專輯)",
       "wikiKind": null,
       "nameKey": "808",
-      "titleZh": "808 (專輯)"
+      "titleZh": "808",
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_qjb68xLVava",
@@ -2800,7 +2804,8 @@
             "lyrics": "潘瑋柏、易家揚",
             "music": "李賢道（이현도）",
             "arranger": "李賢道"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -2968,7 +2973,8 @@
             "lyrics": "林夕",
             "music": "畢國勇",
             "arranger": "畢國勇"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -3154,7 +3160,8 @@
           "duration": 145,
           "byOther": false,
           "nameKey": "feellikedrake",
-          "titleZh": "Feel Like Drake (Feat.馬思唯)"
+          "titleZh": "Feel Like Drake (Feat.馬思唯)",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -3210,7 +3217,8 @@
           "duration": 176,
           "byOther": false,
           "nameKey": "likeitloveit",
-          "titleZh": "Like It Love It (Feat.王心凌)"
+          "titleZh": "Like It Love It (Feat.王心凌)",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -3263,6 +3271,17 @@
       "wikiTitle": "潘瑋柏音樂作品列表",
       "wikiKind": null,
       "nameKey": "狂愛"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "混音2005",
+      "releaseDate": "2005-12-16",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "潘瑋柏音樂作品列表",
+      "source": "table",
+      "year": 2005
     }
   ]
 }

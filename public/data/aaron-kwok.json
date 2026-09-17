@@ -856,7 +856,8 @@
             "lyrics": "丁曉雯",
             "music": "Javier Marin Velez",
             "arranger": "唐奕聰"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1836,7 +1837,8 @@
             "music": "Eric Lu",
             "arranger": "Eric Lu"
           },
-          "titleZh": "紅色小夜曲"
+          "titleZh": "紅色小夜曲",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -2175,7 +2177,8 @@
             "lyrics": "陳少琪",
             "music": "金培達",
             "arranger": "金培達"
-          }
+          },
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -2648,7 +2651,8 @@
             "music": "張洪量",
             "arranger": "蘇德華"
           },
-          "titleZh": "瞭解"
+          "titleZh": "瞭解",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -3800,7 +3804,8 @@
             "music": "譚國政",
             "arranger": "譚國政"
           },
-          "titleZh": "風裡密碼"
+          "titleZh": "風裡密碼",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -4569,7 +4574,8 @@
             "music": "譚國政",
             "arranger": "譚國政"
           },
-          "titleZh": "風裡密碼"
+          "titleZh": "風裡密碼",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -5335,7 +5341,8 @@
             "music": "譚國政",
             "arranger": "譚國政"
           },
-          "titleZh": "風裡密碼"
+          "titleZh": "風裡密碼",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -5992,7 +5999,8 @@
             "music": "Barry Chung",
             "arranger": "Barry Chung"
           },
-          "titleZh": "羨慕我"
+          "titleZh": "羨慕我",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -6269,7 +6277,8 @@
             "music": "Barry Chung",
             "arranger": "Barry Chung"
           },
-          "titleZh": "羨慕我"
+          "titleZh": "羨慕我",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2001-01-12",
@@ -6530,7 +6539,8 @@
           "duration": 196,
           "byOther": false,
           "nameKey": "愛情大舞臺",
-          "titleZh": "愛情大舞臺"
+          "titleZh": "愛情大舞臺",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -6779,7 +6789,8 @@
           "duration": 196,
           "byOther": false,
           "nameKey": "愛情大舞臺",
-          "titleZh": "愛情大舞臺(國語版)"
+          "titleZh": "愛情大舞臺(國語版)",
+          "titleZhVariant": true
         },
         {
           "index": 20,
@@ -6851,7 +6862,8 @@
             "lyrics": "陳少琪",
             "music": "金培達",
             "arranger": "金培達"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 26,
@@ -10104,7 +10116,8 @@
             "music": "譚國政",
             "arranger": "譚國政"
           },
-          "titleZh": "風裡密碼"
+          "titleZh": "風裡密碼",
+          "titleZhVariant": true
         },
         {
           "index": 26,
@@ -11631,7 +11644,8 @@
             "music": "譚國政",
             "arranger": "譚國政"
           },
-          "titleZh": "風裡密碼"
+          "titleZh": "風裡密碼",
+          "titleZhVariant": true
         },
         {
           "index": 20,
@@ -12533,7 +12547,8 @@
             "music": "譚國政",
             "arranger": "譚國政"
           },
-          "titleZh": "風裡密碼"
+          "titleZh": "風裡密碼",
+          "titleZhVariant": true
         },
         {
           "index": 48,
@@ -13633,6 +13648,53 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "您"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "郭富城2",
+      "releaseDate": "1991-04-08",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "郭富城2",
+      "source": "album-page",
+      "year": 1991
+    },
+    {
+      "title": "沒有妳的愛（粵）",
+      "releaseDate": "1993-04-27",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "郭富城",
+      "source": "table",
+      "year": 1993
+    },
+    {
+      "title": "天若有情II之天長地久",
+      "releaseDate": "1993-06-10",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "天若有情II之天長地久",
+      "source": "album-page",
+      "year": 1993
+    },
+    {
+      "title": "天若有情II天涯凝望",
+      "releaseDate": "1994-05-24",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "天若有情II天涯凝望",
+      "source": "album-page",
+      "year": 1994
+    },
+    {
+      "title": "備忘錄",
+      "releaseDate": "1995-12-01",
+      "releaseDatePrecision": "month",
+      "kind": "studio",
+      "wikiTitle": "備忘錄 (專輯)",
+      "source": "album-page",
+      "year": 1995
     }
   ]
 }

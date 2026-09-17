@@ -75,7 +75,8 @@
           "duration": 329,
           "byOther": false,
           "nameKey": "美麗新世界臺灣吃的天堂",
-          "titleZh": "美麗新世界--臺灣吃的天堂"
+          "titleZh": "美麗新世界--臺灣吃的天堂",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -192,7 +193,8 @@
           "duration": 276,
           "byOther": false,
           "nameKey": "中華民國在臺灣",
-          "titleZh": "中華民國在臺灣"
+          "titleZh": "中華民國在臺灣",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -375,7 +377,8 @@
           "duration": 13,
           "byOther": false,
           "nameKey": "布農四絃琴敲敲敲",
-          "titleZh": "布農四絃琴敲敲敲"
+          "titleZh": "布農四絃琴敲敲敲",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -497,7 +500,8 @@
           "duration": 12,
           "byOther": false,
           "nameKey": "卑南知本情歌蓋全臺",
-          "titleZh": "卑南知本情歌蓋全臺"
+          "titleZh": "卑南知本情歌蓋全臺",
+          "titleZhVariant": true
         },
         {
           "index": 17,
@@ -926,5 +930,6 @@
       "wikiKind": null,
       "nameKey": "豬頭皮2000精選集"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

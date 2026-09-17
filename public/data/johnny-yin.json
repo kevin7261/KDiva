@@ -428,7 +428,8 @@
           "duration": 219,
           "byOther": false,
           "nameKey": "海裡來的沙",
-          "titleZh": "海裡來的沙"
+          "titleZh": "海裡來的沙",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -1294,6 +1295,89 @@
       "wikiTitle": "殷正洋",
       "wikiKind": null,
       "nameKey": "靜思勤行頌"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "雨中的歉意",
+      "releaseDate": "1986-01-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "殷正洋",
+      "source": "table",
+      "year": 1986
+    },
+    {
+      "title": "請你回眸",
+      "releaseDate": "1986-09-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "殷正洋",
+      "source": "table",
+      "year": 1986
+    },
+    {
+      "title": "天空藍藍的",
+      "releaseDate": "1993-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "殷正洋",
+      "source": "table",
+      "year": 1993
+    },
+    {
+      "title": "戲歌",
+      "releaseDate": "1994-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "殷正洋",
+      "source": "table",
+      "year": 1994
+    },
+    {
+      "title": "等一個人",
+      "releaseDate": "1994-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "殷正洋",
+      "source": "table",
+      "year": 1994
+    },
+    {
+      "title": "戲歌2",
+      "releaseDate": "1995-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "殷正洋",
+      "source": "table",
+      "year": 1995
+    },
+    {
+      "title": "該給你多少",
+      "releaseDate": "1996-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "殷正洋",
+      "source": "table",
+      "year": 1996
+    },
+    {
+      "title": "如蓮心願",
+      "releaseDate": "2006-03-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "殷正洋",
+      "source": "table",
+      "year": 2006
+    },
+    {
+      "title": "聲在菩提中",
+      "releaseDate": "2007-04-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "殷正洋",
+      "source": "table",
+      "year": 2007
     }
   ]
 }

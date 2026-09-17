@@ -240,7 +240,8 @@
             "lyrics": "楊大正",
             "music": "楊大正",
             "arranger": "滅火器樂團"
-          }
+          },
+          "titleZhVariant": true
         },
         {
           "index": 14,
@@ -648,7 +649,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "島嶼天光",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "島嶼天光"
     },
     {
@@ -692,14 +693,15 @@
           "duration": 283,
           "byOther": false,
           "nameKey": "島嶼天光",
-          "titleZh": "島嶼天光 (管絃樂版)"
+          "titleZh": "島嶼天光 (管絃樂版)",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2014-03-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "島嶼天光",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "島嶼天光"
     },
     {
@@ -743,14 +745,15 @@
           "duration": 283,
           "byOther": false,
           "nameKey": "島嶼天光管絃樂版orchestralversion",
-          "titleZh": "島嶼天光管絃樂版Orchestral Version"
+          "titleZh": "島嶼天光管絃樂版Orchestral Version",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2014-03-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "島嶼天光",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "滅火器島嶼天光"
     },
     {
@@ -844,7 +847,8 @@
           "duration": 258,
           "byOther": false,
           "nameKey": "臺11",
-          "titleZh": "臺11"
+          "titleZh": "臺11",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -922,7 +926,8 @@
           "duration": 216,
           "byOther": false,
           "nameKey": "早安臺灣",
-          "titleZh": "早安臺灣"
+          "titleZh": "早安臺灣",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": "2016-03-09",
@@ -951,7 +956,8 @@
           "duration": 196,
           "byOther": false,
           "nameKey": "殘像モーション",
-          "titleZh": "殘像モーション (合作演出：Masafumi Isobe)"
+          "titleZh": "殘像モーション (合作演出：Masafumi Isobe)",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -996,7 +1002,8 @@
           "duration": 218,
           "byOther": false,
           "nameKey": "おやすみ臺灣",
-          "titleZh": "おやすみ臺灣 (晚安臺灣 日本語Ver.)"
+          "titleZh": "おやすみ臺灣 (晚安臺灣 日本語Ver.)",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -1262,7 +1269,8 @@
           "duration": 216,
           "byOther": false,
           "nameKey": "晚安臺灣",
-          "titleZh": "晚安臺灣"
+          "titleZh": "晚安臺灣",
+          "titleZhVariant": true
         },
         {
           "index": 12,
@@ -1997,7 +2005,8 @@
           "duration": 311,
           "byOther": false,
           "nameKey": "臺11#live",
-          "titleZh": "臺11 (FIRE NEXT Live)"
+          "titleZh": "臺11 (FIRE NEXT Live)",
+          "titleZhVariant": true
         },
         {
           "index": 15,
@@ -2141,7 +2150,8 @@
           "duration": 230,
           "byOther": false,
           "nameKey": "晚安臺灣#live",
-          "titleZh": "晚安臺灣 (FIRE NEXT Live)"
+          "titleZh": "晚安臺灣 (FIRE NEXT Live)",
+          "titleZhVariant": true
         },
         {
           "index": 28,
@@ -2813,6 +2823,17 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "牽亡歌再陪你多走一段reimagined"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "家和萬事興 Human Condition",
+      "releaseDate": "2023-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "滅火器樂團",
+      "source": "table",
+      "year": 2023
     }
   ]
 }

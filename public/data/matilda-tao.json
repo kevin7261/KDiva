@@ -638,7 +638,8 @@
             "music": "童孔",
             "arranger": "林暐哲"
           },
-          "titleZh": "愛缺"
+          "titleZh": "愛缺",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -703,7 +704,8 @@
             "music": "陶晶瑩",
             "arranger": "呂紹淳"
           },
-          "titleZh": "不要臉"
+          "titleZh": "不要臉",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -720,7 +722,8 @@
             "music": "蔡健雅",
             "arranger": "董運昌"
           },
-          "titleZh": "依賴"
+          "titleZh": "依賴",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -737,7 +740,8 @@
             "music": "陶晶瑩",
             "arranger": "黃韻玲"
           },
-          "titleZh": "濃濃的茶"
+          "titleZh": "濃濃的茶",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -754,7 +758,8 @@
             "music": "潘協慶",
             "arranger": "黃韻玲"
           },
-          "titleZh": "瘸鳥"
+          "titleZh": "瘸鳥",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1123,7 +1128,8 @@
           "duration": 329,
           "byOther": false,
           "nameKey": "愛情電影片",
-          "titleZh": "愛情電影片"
+          "titleZh": "愛情電影片",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -1146,7 +1152,8 @@
           "duration": 261,
           "byOther": false,
           "nameKey": "我想我是眞的瘋了",
-          "titleZh": "我想我是真的瘋了"
+          "titleZh": "我想我是真的瘋了",
+          "titleZhVariant": true
         },
         {
           "index": 6,
@@ -1158,7 +1165,8 @@
           "duration": 214,
           "byOther": false,
           "nameKey": "你來",
-          "titleZh": "你來"
+          "titleZh": "你來",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -1170,7 +1178,8 @@
           "duration": 182,
           "byOther": false,
           "nameKey": "你來",
-          "titleZh": "你來(Remix)"
+          "titleZh": "你來(Remix)",
+          "titleZhVariant": true
         },
         {
           "index": 8,
@@ -1193,7 +1202,8 @@
           "duration": 225,
           "byOther": false,
           "nameKey": "兩個寂寞",
-          "titleZh": "兩個寂寞"
+          "titleZh": "兩個寂寞",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -1205,7 +1215,8 @@
           "duration": 266,
           "byOther": false,
           "nameKey": "海市蜃樓",
-          "titleZh": "海市蜃樓"
+          "titleZh": "海市蜃樓",
+          "titleZhVariant": true
         },
         {
           "index": 11,
@@ -1674,6 +1685,44 @@
       "wikiTitle": "陶晶瑩",
       "wikiKind": "studio",
       "nameKey": "謝謝陶晶瑩"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "非比尋常",
+      "releaseDate": "1995-09-24",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "陶晶瑩",
+      "source": "table",
+      "year": 1995
+    },
+    {
+      "title": "漂亮",
+      "releaseDate": "1996-08-01",
+      "releaseDatePrecision": "month",
+      "kind": "studio",
+      "wikiTitle": "陶晶瑩",
+      "source": "table",
+      "year": 1996
+    },
+    {
+      "title": "你又復活了",
+      "releaseDate": "1999-08-26",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "陶晶瑩",
+      "source": "table",
+      "year": 1999
+    },
+    {
+      "title": "晶選集",
+      "releaseDate": "2001-10-16",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "陶晶瑩",
+      "source": "table",
+      "year": 2001
     }
   ]
 }

@@ -108,7 +108,8 @@
           "duration": 312,
           "byOther": false,
           "nameKey": "心肝寶貝",
-          "titleZh": "心肝寶貝 (臺語版)"
+          "titleZh": "心肝寶貝 (臺語版)",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -159,7 +160,8 @@
           "duration": 223,
           "byOther": false,
           "nameKey": "匆匆的走過",
-          "titleZh": "匆匆的走過"
+          "titleZh": "匆匆的走過",
+          "titleZhVariant": true
         },
         {
           "index": 2,
@@ -171,7 +173,8 @@
           "duration": 243,
           "byOther": false,
           "nameKey": "緣",
-          "titleZh": "緣"
+          "titleZh": "緣",
+          "titleZhVariant": true
         },
         {
           "index": 3,
@@ -183,7 +186,8 @@
           "duration": 251,
           "byOther": false,
           "nameKey": "風中的早晨",
-          "titleZh": "風中的早晨"
+          "titleZh": "風中的早晨",
+          "titleZhVariant": true
         },
         {
           "index": 4,
@@ -195,7 +199,8 @@
           "duration": 208,
           "byOther": false,
           "nameKey": "舞衣淚痕",
-          "titleZh": "舞衣淚痕"
+          "titleZh": "舞衣淚痕",
+          "titleZhVariant": true
         },
         {
           "index": 5,
@@ -218,7 +223,8 @@
           "duration": 256,
           "byOther": false,
           "nameKey": "女人心的對話",
-          "titleZh": "女人心的對話"
+          "titleZh": "女人心的對話",
+          "titleZhVariant": true
         },
         {
           "index": 7,
@@ -241,7 +247,8 @@
           "duration": 247,
           "byOther": false,
           "nameKey": "動不動就說愛我",
-          "titleZh": "動不動就說愛我"
+          "titleZh": "動不動就說愛我",
+          "titleZhVariant": true
         },
         {
           "index": 9,
@@ -253,7 +260,8 @@
           "duration": 177,
           "byOther": false,
           "nameKey": "夢鄉",
-          "titleZh": "夢鄉"
+          "titleZh": "夢鄉",
+          "titleZhVariant": true
         },
         {
           "index": 10,
@@ -265,7 +273,8 @@
           "duration": 244,
           "byOther": false,
           "nameKey": "滄海桑田",
-          "titleZh": "滄海桑田"
+          "titleZh": "滄海桑田",
+          "titleZhVariant": true
         }
       ],
       "releaseDate": null,
@@ -655,6 +664,143 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "大小百合3百萬金曲"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "當流星劃過",
+      "releaseDate": "1985-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1985
+    },
+    {
+      "title": "籠中之鳥",
+      "releaseDate": "1985-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1985
+    },
+    {
+      "title": "昨日重現",
+      "releaseDate": "1986-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1986
+    },
+    {
+      "title": "說完再見",
+      "releaseDate": "1987-06-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1987
+    },
+    {
+      "title": "微風往事",
+      "releaseDate": "1989-03-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1989
+    },
+    {
+      "title": "想有一雙翅膀～暖夏柔情",
+      "releaseDate": "1989-04-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1989
+    },
+    {
+      "title": "鄉土追想經典名謠(1)",
+      "releaseDate": "1989-11-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1989
+    },
+    {
+      "title": "十年百合",
+      "releaseDate": "1990-03-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1990
+    },
+    {
+      "title": "光陰的故事",
+      "releaseDate": "1990-08-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1990
+    },
+    {
+      "title": "流沙",
+      "releaseDate": "1990-12-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1990
+    },
+    {
+      "title": "愛的傳說",
+      "releaseDate": "1991-10-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1991
+    },
+    {
+      "title": "水問",
+      "releaseDate": "1992-07-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1992
+    },
+    {
+      "title": "心愛的孩子",
+      "releaseDate": "1993-06-01",
+      "releaseDatePrecision": "month",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1993
+    },
+    {
+      "title": "10大冠軍曲1969-1994(國語)",
+      "releaseDate": "1994-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1994
+    },
+    {
+      "title": "10大冠軍曲1982-1994(台語)",
+      "releaseDate": "1994-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "百合二重唱",
+      "source": "table",
+      "year": 1994
     }
   ]
 }
