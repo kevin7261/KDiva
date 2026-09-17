@@ -1,0 +1,123 @@
+{
+  "slug": "andy-hui",
+  "fetchedAt": "2026-09-17T12:28:12.963Z",
+  "wiki": "許志安",
+  "bio": {
+    "born": {
+      "date": "1967-08-12",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1993-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "1993-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1998-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "1998-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "Human Live 許志安巡迴演唱會",
+      "page": "Human Live 許志安巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2023-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2024-01-01",
+        "precision": "year"
+      },
+      "showCount": 5,
+      "regions": [
+        "5月7日",
+        "5月13日",
+        "7月1日",
+        "12月23日",
+        "6月22日"
+      ],
+      "cities": [
+        "美國",
+        "新加坡",
+        "澳門",
+        "馬來西亞"
+      ],
+      "venues": [
+        "大西洋城",
+        "洛杉磯",
+        "濱海灣",
+        "百老匯舞臺 （Brodaway Theatre, Broadway Macau）",
+        "彭亨"
+      ],
+      "shows": [
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "region": "5月7日",
+          "city": "美國",
+          "venue": "大西洋城"
+        },
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "region": "5月13日",
+          "city": "美國",
+          "venue": "洛杉磯"
+        },
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "region": "7月1日",
+          "city": "新加坡",
+          "venue": "濱海灣"
+        },
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "region": "12月23日",
+          "city": "澳門",
+          "venue": "百老匯舞臺 （Brodaway Theatre, Broadway Macau）"
+        },
+        {
+          "date": "2024-01-01",
+          "precision": "year",
+          "region": "6月22日",
+          "city": "馬來西亞",
+          "venue": "彭亨"
+        }
+      ]
+    }
+  ]
+}

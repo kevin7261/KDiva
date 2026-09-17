@@ -1,0 +1,537 @@
+{
+  "slug": "victor-wong",
+  "fetchedAt": "2026-09-17T12:30:18.551Z",
+  "wiki": "品冠",
+  "bio": {
+    "born": {
+      "date": "1972-02-26",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "一切為了愛2009 All for Love World Tour世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2009-07-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-10-17",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [
+        "臺北",
+        "臺中",
+        "上海"
+      ],
+      "venues": [
+        "臺北國際會議中心",
+        "中興大學惠蓀堂",
+        "上海大舞臺"
+      ],
+      "shows": [
+        {
+          "date": "2009-07-18",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心"
+        },
+        {
+          "date": "2009-08-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "中興大學惠蓀堂"
+        },
+        {
+          "date": "2009-10-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海大舞臺"
+        }
+      ]
+    },
+    {
+      "name": "未拆的禮物近距離演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2012-06-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-01-20",
+        "precision": "day"
+      },
+      "showCount": 6,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [
+        "臺北",
+        "上海",
+        "成都",
+        "深圳",
+        "北京",
+        "長沙"
+      ],
+      "venues": [
+        "Legacy Taipei音樂展演空間",
+        "上海東方藝術中心",
+        "錦城藝術宮",
+        "深圳體育館",
+        "M空間",
+        "湖南大劇院"
+      ],
+      "shows": [
+        {
+          "date": "2012-06-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei音樂展演空間"
+        },
+        {
+          "date": "2012-06-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海東方藝術中心"
+        },
+        {
+          "date": "2012-12-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "錦城藝術宮"
+        },
+        {
+          "date": "2012-12-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳體育館"
+        },
+        {
+          "date": "2013-01-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "M空間"
+        },
+        {
+          "date": "2013-01-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長沙",
+          "venue": "湖南大劇院"
+        }
+      ]
+    },
+    {
+      "name": "現在，你在哪里？ 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2015-11-28",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-01-14",
+        "precision": "day"
+      },
+      "showCount": 6,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [
+        "臺北",
+        "上海",
+        "杭州",
+        "深圳",
+        "北京"
+      ],
+      "venues": [
+        "臺北國際會議中心",
+        "上海國際體操中心",
+        "杭州廣廈體育館",
+        "深圳市體育館",
+        "北京展覽館劇場",
+        "上海大舞臺"
+      ],
+      "shows": [
+        {
+          "date": "2015-11-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心"
+        },
+        {
+          "date": "2016-01-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海國際體操中心"
+        },
+        {
+          "date": "2016-05-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "杭州廣廈體育館"
+        },
+        {
+          "date": "2016-12-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳市體育館"
+        },
+        {
+          "date": "2016-12-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "北京展覽館劇場"
+        },
+        {
+          "date": "2017-01-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海大舞臺"
+        }
+      ]
+    },
+    {
+      "name": "幸福指南 北京演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-05-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-05-25",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "北京"
+      ],
+      "venues": [
+        "北京奧體中心體育館"
+      ],
+      "shows": [
+        {
+          "date": "2019-05-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "北京奧體中心體育館"
+        }
+      ]
+    },
+    {
+      "name": "不如我們今天見 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-12-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-09-14",
+        "precision": "day"
+      },
+      "showCount": 10,
+      "regions": [
+        "臺灣",
+        "澳洲",
+        "中國大陸",
+        "馬來西亞",
+        "澳門",
+        "美國"
+      ],
+      "cities": [
+        "臺北",
+        "悉尼",
+        "墨爾本",
+        "成都",
+        "上海",
+        "南寧",
+        "廣州",
+        "文冬縣",
+        "澳門",
+        "紐約"
+      ],
+      "venues": [
+        "臺北流行音樂中心",
+        "THE STAR EVENT CENTRE",
+        "MELBOURNE CONVENTION AND EXHIBITION CENTRE",
+        "成都華熙LIVE·528M空間",
+        "上海靜安體育中心體育館",
+        "南寧廣西體育中心體育館",
+        "廣州中山紀念堂",
+        "雲頂雲星劇場",
+        "澳門百老匯舞臺",
+        "紐約雲頂世界三樓中央公園活動區"
+      ],
+      "shows": [
+        {
+          "date": "2022-12-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北流行音樂中心"
+        },
+        {
+          "date": "2023-08-25",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "悉尼",
+          "venue": "THE STAR EVENT CENTRE"
+        },
+        {
+          "date": "2023-08-27",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "墨爾本",
+          "venue": "MELBOURNE CONVENTION AND EXHIBITION CENTRE"
+        },
+        {
+          "date": "2023-12-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "成都華熙LIVE·528M空間"
+        },
+        {
+          "date": "2024-01-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海靜安體育中心體育館"
+        },
+        {
+          "date": "2024-04-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南寧",
+          "venue": "南寧廣西體育中心體育館"
+        },
+        {
+          "date": "2024-05-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州中山紀念堂"
+        },
+        {
+          "date": "2024-06-29",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "文冬縣",
+          "venue": "雲頂雲星劇場"
+        },
+        {
+          "date": "2024-09-07",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "澳門百老匯舞臺"
+        },
+        {
+          "date": "2024-09-14",
+          "precision": "day",
+          "region": "美國",
+          "city": "紐約",
+          "venue": "紐約雲頂世界三樓中央公園活動區"
+        }
+      ]
+    },
+    {
+      "name": "今夜來哈囉 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-06-15",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-07-05",
+        "precision": "day"
+      },
+      "showCount": 7,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [
+        "臺北",
+        "南京",
+        "北京",
+        "武漢",
+        "揚州",
+        "廣州"
+      ],
+      "venues": [
+        "Legacy Taipei音樂展演空間",
+        "南京太陽宮劇場",
+        "北京展覽館劇場",
+        "武漢琴臺大劇院",
+        "揚州運河大劇院親水平臺",
+        "廣州中山紀念堂"
+      ],
+      "shows": [
+        {
+          "date": "2024-06-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei音樂展演空間"
+        },
+        {
+          "date": "2024-10-26",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "南京太陽宮劇場"
+        },
+        {
+          "date": "2025-02-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "北京展覽館劇場"
+        },
+        {
+          "date": "2025-05-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "武漢琴臺大劇院"
+        },
+        {
+          "date": "2025-06-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "揚州",
+          "venue": "揚州運河大劇院親水平臺"
+        },
+        {
+          "date": "2025-06-08",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei音樂展演空間"
+        },
+        {
+          "date": "2025-07-05",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州中山紀念堂"
+        }
+      ]
+    },
+    {
+      "name": "品冠 哈囉! 三十如一 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-07-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-12-31",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "長沙",
+        "上海"
+      ],
+      "venues": [
+        "長沙國際會展演藝中心",
+        "上海靜安體育中心體育館"
+      ],
+      "shows": [
+        {
+          "date": "2025-07-19",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長沙",
+          "venue": "長沙國際會展演藝中心"
+        },
+        {
+          "date": "2025-12-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海靜安體育中心體育館"
+        }
+      ]
+    },
+    {
+      "name": "今夜品冠來臺南哈囉! 演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2026-06-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-06-07",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺南"
+      ],
+      "venues": [
+        "十鼓文創園區 夢糖劇場"
+      ],
+      "shows": [
+        {
+          "date": "2026-06-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺南",
+          "venue": "十鼓文創園區 夢糖劇場"
+        },
+        {
+          "date": "2026-06-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺南",
+          "venue": "十鼓文創園區 夢糖劇場"
+        }
+      ]
+    }
+  ]
+}

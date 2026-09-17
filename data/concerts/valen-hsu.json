@@ -1,0 +1,341 @@
+{
+  "slug": "valen-hsu",
+  "fetchedAt": "2026-09-17T12:29:02.069Z",
+  "wiki": "許茹芸",
+  "bio": {
+    "born": {
+      "date": "1974-09-20",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "飄藍之夜演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2000-10-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "2000-10-01",
+        "precision": "month"
+      },
+      "showCount": 1,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "上海"
+      ],
+      "venues": [
+        "上海大舞臺"
+      ],
+      "shows": [
+        {
+          "date": "2000-10-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海大舞臺"
+        }
+      ]
+    },
+    {
+      "name": "如果時光芸許巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2011-10-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2011-12-17",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "上海",
+        "北京"
+      ],
+      "venues": [
+        "上海大舞臺",
+        "首都體育館"
+      ],
+      "shows": [
+        {
+          "date": "2011-10-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海大舞臺"
+        },
+        {
+          "date": "2011-12-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "首都體育館"
+        }
+      ]
+    },
+    {
+      "name": "STARS巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2013-05-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-12-30",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "北京",
+        "深圳"
+      ],
+      "venues": [
+        "工人體育館",
+        "深圳灣體育中心「春繭」體育館"
+      ],
+      "shows": [
+        {
+          "date": "2013-05-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "工人體育館"
+        },
+        {
+          "date": "2013-12-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳灣體育中心「春繭」體育館"
+        }
+      ]
+    },
+    {
+      "name": "奇蹟之迷幻柔情音樂之旅演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-12-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-12-26",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "Legacy Taipei"
+      ],
+      "shows": [
+        {
+          "date": "2014-12-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei"
+        }
+      ]
+    },
+    {
+      "name": "相約在芸端巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2017-09-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-10-06",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北",
+        "臺中"
+      ],
+      "venues": [
+        "Legacy Taipei",
+        "Legacy Taichung"
+      ],
+      "shows": [
+        {
+          "date": "2017-09-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei"
+        },
+        {
+          "date": "2017-10-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy Taichung"
+        }
+      ]
+    },
+    {
+      "name": "綻放的綻放的綻放巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2018-09-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-04-20",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "中國大陸",
+        "臺灣"
+      ],
+      "cities": [
+        "上海",
+        "臺北"
+      ],
+      "venues": [
+        "梅賽德斯-奔馳文化中心",
+        "臺北小巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2018-09-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心"
+        },
+        {
+          "date": "2019-04-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋"
+        }
+      ]
+    },
+    {
+      "name": "適合相愛的時辰巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2023-10-07",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-11-08",
+        "precision": "day"
+      },
+      "showCount": 8,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [
+        "臺北",
+        "北京",
+        "成都",
+        "深圳",
+        "上海",
+        "寧波",
+        "廣州",
+        "福州"
+      ],
+      "venues": [
+        "臺北流行音樂中心",
+        "國家體育館",
+        "東安湖體育公園多功能體育館",
+        "深圳世界大學生運動會體育中心體育館",
+        "浦發銀行東方體育中心主體育館",
+        "寧波奧體中心體育館",
+        "寶能廣州國際體育演藝中心",
+        "福州海峽奧林匹克體育中心綜合體育館"
+      ],
+      "shows": [
+        {
+          "date": "2023-10-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北流行音樂中心"
+        },
+        {
+          "date": "2024-04-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "國家體育館"
+        },
+        {
+          "date": "2024-05-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "東安湖體育公園多功能體育館"
+        },
+        {
+          "date": "2024-06-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "深圳世界大學生運動會體育中心體育館"
+        },
+        {
+          "date": "2024-09-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "浦發銀行東方體育中心主體育館"
+        },
+        {
+          "date": "2025-01-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "寧波",
+          "venue": "寧波奧體中心體育館"
+        },
+        {
+          "date": "2025-10-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "寶能廣州國際體育演藝中心"
+        },
+        {
+          "date": "2025-11-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "福州",
+          "venue": "福州海峽奧林匹克體育中心綜合體育館"
+        }
+      ]
+    }
+  ]
+}

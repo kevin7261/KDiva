@@ -1,0 +1,360 @@
+{
+  "slug": "penny-tai",
+  "fetchedAt": "2026-09-17T12:29:59.600Z",
+  "wiki": "戴佩妮",
+  "bio": {
+    "born": {
+      "date": "1978-04-22",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "玩瘋了",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2005-05-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2005-05-14",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺灣大學綜合體育館"
+      ],
+      "shows": [
+        {
+          "date": "2005-05-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺灣大學綜合體育館"
+        }
+      ]
+    },
+    {
+      "name": "我到底是誰 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2008-05-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2008-12-14",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [
+        "臺北",
+        "上海"
+      ],
+      "venues": [
+        "臺北國際會議中心",
+        "東方藝術中心音樂廳"
+      ],
+      "shows": [
+        {
+          "date": "2008-05-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心"
+        },
+        {
+          "date": "2008-12-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "東方藝術中心音樂廳"
+        }
+      ]
+    },
+    {
+      "name": "野薔薇 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2009-11-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-01-16",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣",
+        "馬來西亞"
+      ],
+      "cities": [
+        "臺北",
+        "雲頂"
+      ],
+      "venues": [
+        "臺北國際會議中心",
+        "雲頂雲星劇場"
+      ],
+      "shows": [
+        {
+          "date": "2009-11-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心"
+        },
+        {
+          "date": "2010-01-16",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲頂雲星劇場"
+        }
+      ]
+    },
+    {
+      "name": "隨風所遇 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2023-07-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-02-03",
+        "precision": "day"
+      },
+      "showCount": 15,
+      "regions": [
+        "臺灣",
+        "中國大陸",
+        "新加坡",
+        "馬來西亞"
+      ],
+      "cities": [
+        "臺北",
+        "南京",
+        "上海",
+        "天津",
+        "杭州",
+        "廣州",
+        "武漢",
+        "長沙",
+        "瀋陽",
+        "成都",
+        "深圳",
+        "北京",
+        "新加坡",
+        "雲頂"
+      ],
+      "venues": [
+        "Zepp New Taipei",
+        "南京太陽宮",
+        "交通銀行前灘31演藝中心·大劇場",
+        "天津大劇院歌劇廳",
+        "杭州劇院",
+        "中山紀念堂",
+        "洪山禮堂",
+        "湖南國際會展中心F廳",
+        "遼寧中華劇院",
+        "華熙M空間",
+        "濱海藝術中心",
+        "華熙LIVE·五棵松M空間",
+        "The Star Theatre",
+        "雲頂雲星劇場"
+      ],
+      "shows": [
+        {
+          "date": "2023-07-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Zepp New Taipei"
+        },
+        {
+          "date": "2023-08-26",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "南京太陽宮"
+        },
+        {
+          "date": "2023-09-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "交通銀行前灘31演藝中心·大劇場"
+        },
+        {
+          "date": "2023-09-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "交通銀行前灘31演藝中心·大劇場"
+        },
+        {
+          "date": "2023-09-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "天津",
+          "venue": "天津大劇院歌劇廳"
+        },
+        {
+          "date": "2023-10-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "杭州劇院"
+        },
+        {
+          "date": "2023-10-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "中山紀念堂"
+        },
+        {
+          "date": "2023-10-28",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "洪山禮堂"
+        },
+        {
+          "date": "2023-11-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長沙",
+          "venue": "湖南國際會展中心F廳"
+        },
+        {
+          "date": "2023-11-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "瀋陽",
+          "venue": "遼寧中華劇院"
+        },
+        {
+          "date": "2023-11-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "華熙M空間"
+        },
+        {
+          "date": "2023-11-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "濱海藝術中心"
+        },
+        {
+          "date": "2023-12-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "華熙LIVE·五棵松M空間"
+        },
+        {
+          "date": "2024-01-26",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "The Star Theatre"
+        },
+        {
+          "date": "2024-02-03",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲頂雲星劇場"
+        }
+      ]
+    },
+    {
+      "name": "雙生火焰 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-02-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-03-21",
+        "precision": "day"
+      },
+      "showCount": 5,
+      "regions": [
+        "中國大陸",
+        "臺灣"
+      ],
+      "cities": [
+        "上海",
+        "臺北",
+        "成都",
+        "杭州",
+        "高雄"
+      ],
+      "venues": [
+        "東方體育中心(feat. 梁靜茹)",
+        "臺北小巨蛋(feat. 江美琪、周蕙)",
+        "成都金融城演藝中心",
+        "杭州奧體中心網球中心",
+        "高雄巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2025-02-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "東方體育中心(feat. 梁靜茹)"
+        },
+        {
+          "date": "2025-03-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋(feat. 江美琪、周蕙)"
+        },
+        {
+          "date": "2025-12-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "成都金融城演藝中心"
+        },
+        {
+          "date": "2026-01-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "杭州奧體中心網球中心"
+        },
+        {
+          "date": "2026-03-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋"
+        }
+      ]
+    }
+  ]
+}
