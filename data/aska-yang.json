@@ -322,7 +322,11 @@
           "playsText": "播放次數：1.1萬",
           "duration": 212,
           "byOther": false,
-          "nameKey": "多餘"
+          "nameKey": "多餘",
+          "credits": {
+            "lyrics": "詞:石裕博 曲：石裕博",
+            "music": "詞:石裕博 曲：石裕博"
+          }
         },
         {
           "index": 11,
@@ -518,7 +522,11 @@
           "playsText": "播放次數：2.7萬",
           "duration": 125,
           "byOther": false,
-          "nameKey": "人質"
+          "nameKey": "人質",
+          "credits": {
+            "lyrics": "詞：冷玩妹 曲：黃韻仁",
+            "music": "詞：冷玩妹 曲：黃韻仁"
+          }
         },
         {
           "index": 27,
@@ -529,7 +537,11 @@
           "playsText": "播放次數：4.3萬",
           "duration": 137,
           "byOther": false,
-          "nameKey": "背叛"
+          "nameKey": "背叛",
+          "credits": {
+            "lyrics": "詞：阿丹、鄔裕康 曲：、曹格",
+            "music": "詞：阿丹、鄔裕康 曲：、曹格"
+          }
         },
         {
           "index": 28,
@@ -928,7 +940,11 @@
           "playsText": "播放次數：1.7萬",
           "duration": 308,
           "byOther": false,
-          "nameKey": "橫掃天下之笑天下"
+          "nameKey": "橫掃天下之笑天下",
+          "credits": {
+            "lyrics": "詞：楊宗緯 曲：方翰笛",
+            "music": "詞：楊宗緯 曲：方翰笛"
+          }
         }
       ],
       "releaseDate": "2013-06-27",
@@ -956,7 +972,11 @@
           "playsText": "播放次數：49萬",
           "duration": 235,
           "byOther": false,
-          "nameKey": "我變了我沒變"
+          "nameKey": "我變了我沒變",
+          "credits": {
+            "lyrics": "詞：小柯 曲：小柯",
+            "music": "詞：小柯 曲：小柯"
+          }
         }
       ],
       "releaseDate": "2015-05-13",
@@ -984,7 +1004,11 @@
           "playsText": "播放次數：1224萬",
           "duration": 267,
           "byOther": false,
-          "nameKey": "一次就好"
+          "nameKey": "一次就好",
+          "credits": {
+            "lyrics": "詞：陳曦 曲：董鼕鼕",
+            "music": "詞：陳曦 曲：董鼕鼕"
+          }
         },
         {
           "index": 2,
@@ -995,7 +1019,11 @@
           "playsText": "播放次數：1萬",
           "duration": 267,
           "byOther": true,
-          "nameKey": "一次就好"
+          "nameKey": "一次就好",
+          "credits": {
+            "lyrics": "詞：陳曦 曲：董鼕鼕",
+            "music": "詞：陳曦 曲：董鼕鼕"
+          }
         },
         {
           "index": 3,
@@ -1006,7 +1034,11 @@
           "playsText": "播放次數：9.4萬",
           "duration": 209,
           "byOther": true,
-          "nameKey": "一次就好"
+          "nameKey": "一次就好",
+          "credits": {
+            "lyrics": "詞：陳曦 曲：董鼕鼕",
+            "music": "詞：陳曦 曲：董鼕鼕"
+          }
         },
         {
           "index": 4,
@@ -1017,7 +1049,11 @@
           "playsText": "播放次數：16萬",
           "duration": 215,
           "byOther": true,
-          "nameKey": "一次就好"
+          "nameKey": "一次就好",
+          "credits": {
+            "lyrics": "詞：陳曦 曲：董鼕鼕",
+            "music": "詞：陳曦 曲：董鼕鼕"
+          }
         },
         {
           "index": 5,
@@ -1056,7 +1092,11 @@
           "playsText": "播放次數：42萬",
           "duration": 277,
           "byOther": false,
-          "nameKey": "生命被你照亮"
+          "nameKey": "生命被你照亮",
+          "credits": {
+            "lyrics": "詞：李焯雄 曲：梁翹柏",
+            "music": "詞：李焯雄 曲：梁翹柏"
+          }
         }
       ],
       "releaseDate": null,
@@ -1085,6 +1125,10 @@
           "duration": 289,
           "byOther": false,
           "nameKey": "背光",
+          "credits": {
+            "lyrics": "詞：葛大為  曲：錢雷",
+            "music": "詞：葛大為  曲：錢雷"
+          },
           "titleZh": "背光 (電影《被光抓走的人》主題曲)",
           "titleZhVariant": true
         }
@@ -1114,7 +1158,11 @@
           "playsText": "播放次數：108萬",
           "duration": 255,
           "byOther": false,
-          "nameKey": "我在時間盡頭等你"
+          "nameKey": "我在時間盡頭等你",
+          "credits": {
+            "lyrics": "詞：唐恬  曲：鄧智偉",
+            "music": "詞：唐恬  曲：鄧智偉"
+          }
         },
         {
           "index": 2,
@@ -1154,6 +1202,10 @@
           "duration": 259,
           "byOther": false,
           "nameKey": "說給你聽",
+          "credits": {
+            "lyrics": "詞：張贏  曲：羅錕",
+            "music": "詞：張贏  曲：羅錕"
+          },
           "titleZh": "說給你聽",
           "titleZhVariant": true
         }
@@ -1197,6 +1249,10 @@
           "duration": 259,
           "byOther": false,
           "nameKey": "說給你聽",
+          "credits": {
+            "lyrics": "詞：張贏  曲：羅錕",
+            "music": "詞：張贏  曲：羅錕"
+          },
           "titleZh": "說給你聽",
           "titleZhVariant": true
         },
@@ -1279,6 +1335,10 @@
           "duration": 268,
           "byOther": false,
           "nameKey": "平凡的我",
+          "credits": {
+            "lyrics": "詞：代嶽東   曲：李智聖霖",
+            "music": "詞：代嶽東   曲：李智聖霖"
+          },
           "titleZh": "平凡的我（《塵封十三載》影視劇片尾曲）",
           "titleZhVariant": true
         },
@@ -1292,6 +1352,10 @@
           "duration": 268,
           "byOther": false,
           "nameKey": "平凡的我",
+          "credits": {
+            "lyrics": "詞：代嶽東   曲：李智聖霖",
+            "music": "詞：代嶽東   曲：李智聖霖"
+          },
           "titleZh": "平凡的我（《塵封十三載》影視劇片尾曲） (伴奏版)",
           "titleZhVariant": true
         }
@@ -1322,6 +1386,10 @@
           "duration": 288,
           "byOther": false,
           "nameKey": "千金散盡",
+          "credits": {
+            "lyrics": "詞：李雪琴、不不   曲：彭飛",
+            "music": "詞：李雪琴、不不   曲：彭飛"
+          },
           "titleZh": "千金散盡",
           "titleZhVariant": true
         },
@@ -1377,7 +1445,11 @@
           "playsText": "播放次數：5.4萬",
           "duration": 251,
           "byOther": false,
-          "nameKey": "小滿足"
+          "nameKey": "小滿足",
+          "credits": {
+            "lyrics": "詞：段思思   曲：譚旋",
+            "music": "詞：段思思   曲：譚旋"
+          }
         }
       ],
       "releaseDate": "2023-11-22",
@@ -1524,7 +1596,11 @@
           "playsText": "播放次數：12萬",
           "duration": 214,
           "byOther": false,
-          "nameKey": "遙望星火"
+          "nameKey": "遙望星火",
+          "credits": {
+            "lyrics": "詞：董鼕鼕   曲：董鼕鼕",
+            "music": "詞：董鼕鼕   曲：董鼕鼕"
+          }
         },
         {
           "index": 2,
@@ -1535,7 +1611,11 @@
           "playsText": "播放次數：2188",
           "duration": 214,
           "byOther": false,
-          "nameKey": "遙望星火"
+          "nameKey": "遙望星火",
+          "credits": {
+            "lyrics": "詞：董鼕鼕   曲：董鼕鼕",
+            "music": "詞：董鼕鼕   曲：董鼕鼕"
+          }
         }
       ],
       "releaseDate": "2024-03-22",
@@ -1628,7 +1708,11 @@
           "playsText": "播放次數：6.6萬",
           "duration": 329,
           "byOther": false,
-          "nameKey": "作為花我從來沒敗過"
+          "nameKey": "作為花我從來沒敗過",
+          "credits": {
+            "lyrics": "詞：馮唐 曲：譚旋",
+            "music": "詞：馮唐 曲：譚旋"
+          }
         },
         {
           "index": 2,

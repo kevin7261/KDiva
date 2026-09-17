@@ -3033,7 +3033,7 @@
           "nameKey": "雨後彩虹",
           "credits": {
             "lyrics": "A-Lin、李大樂",
-            "music": "Fergus Chow, Derrick Sepnio"
+            "music": "Fergus Chow、Derrick Sepnio"
           }
         }
       ],
@@ -4780,7 +4780,7 @@
           "nameKey": "姊妹旅行",
           "credits": {
             "lyrics": "A-Lin、Ludvig Evers、Jonatan Gusmark、Emily Kim、何維健、李大樂",
-            "music": "A-Lin、Ludvig Evers、Jonatan Gusmark (Moonshine)、Emily Kim、何維健、李大樂",
+            "music": "A-Lin、Ludvig Evers、Jonatan Gusmark、Emily Kim、何維健、李大樂",
             "arranger": "Derrick Sepnio、Fergus Chow"
           }
         },
@@ -5053,7 +5053,7 @@
           "byOther": false,
           "nameKey": "哀情記",
           "credits": {
-            "lyrics": "Bryan（孫偉）/王雨安",
+            "lyrics": "Bryan/王雨安",
             "music": "莫宇庭"
           },
           "titleZh": "哀情記 (《七時吉祥》劇集甜虐主題曲)",
@@ -5113,7 +5113,7 @@
           "byOther": false,
           "nameKey": "哀情記",
           "credits": {
-            "lyrics": "Bryan（孫偉）/王雨安",
+            "lyrics": "Bryan/王雨安",
             "music": "莫宇庭"
           },
           "titleZh": "哀情記 (《七時吉祥》劇集甜虐主題曲)",
@@ -5356,8 +5356,8 @@
           "byOther": false,
           "nameKey": "吹不熄的我",
           "credits": {
-            "lyrics": "Bryan（孫偉）/失心",
-            "music": "Bryan（孫偉）"
+            "lyrics": "Bryan/失心",
+            "music": "Bryan"
           }
         },
         {
@@ -5371,8 +5371,8 @@
           "byOther": false,
           "nameKey": "吹不熄的我",
           "credits": {
-            "lyrics": "Bryan（孫偉）/失心",
-            "music": "Bryan（孫偉）"
+            "lyrics": "Bryan/失心",
+            "music": "Bryan"
           }
         }
       ],
@@ -5580,7 +5580,11 @@
           "playsText": "播放次數：461萬",
           "duration": 257,
           "byOther": false,
-          "nameKey": "在月蝕裡抱緊我"
+          "nameKey": "在月蝕裡抱緊我",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "林俊傑"
+          }
         }
       ],
       "releaseDate": "2025-07-06",
@@ -5640,7 +5644,11 @@
           "playsText": "播放次數：227萬",
           "duration": 215,
           "byOther": false,
-          "nameKey": "糾結重啟"
+          "nameKey": "糾結重啟",
+          "credits": {
+            "lyrics": "A-Lin/倪子岡/Verna T/李大樂",
+            "music": "A-Lin/倪子岡/Verna T/李大樂"
+          }
         }
       ],
       "releaseDate": null,

@@ -2225,6 +2225,9 @@
           "duration": 234,
           "byOther": false,
           "nameKey": "我想要有人為我傷心",
+          "credits": {
+            "music": "1st"
+          },
           "titleZh": "我想要有人為我傷心",
           "titleZhVariant": true
         }
@@ -2254,7 +2257,10 @@
           "playsText": "播放次數：3.6萬",
           "duration": 234,
           "byOther": false,
-          "nameKey": "我想要有人為我傷心"
+          "nameKey": "我想要有人為我傷心",
+          "credits": {
+            "music": "1st"
+          }
         },
         {
           "index": 2,
@@ -2265,7 +2271,10 @@
           "playsText": "播放次數：308",
           "duration": 234,
           "byOther": false,
-          "nameKey": "我想要有人為我傷心"
+          "nameKey": "我想要有人為我傷心",
+          "credits": {
+            "music": "1st"
+          }
         }
       ],
       "releaseDate": "2019-12-26",
@@ -2349,7 +2358,10 @@
           "playsText": "播放次數：8914",
           "duration": 236,
           "byOther": false,
-          "nameKey": "彩虹少年"
+          "nameKey": "彩虹少年",
+          "credits": {
+            "music": "2nd"
+          }
         }
       ],
       "releaseDate": "2020-09-08",
@@ -4109,7 +4121,10 @@
           "playsText": "播放次數：1.3萬",
           "duration": 204,
           "byOther": false,
-          "nameKey": "喵喵咪呀"
+          "nameKey": "喵喵咪呀",
+          "credits": {
+            "music": "4th"
+          }
         }
       ],
       "releaseDate": "2023-07-08",
@@ -4197,7 +4212,10 @@
           "playsText": "播放次數：8.1萬",
           "duration": 208,
           "byOther": false,
-          "nameKey": "最漫長的告別"
+          "nameKey": "最漫長的告別",
+          "credits": {
+            "music": "5th"
+          }
         }
       ],
       "releaseDate": "2025-05-22",
@@ -4225,7 +4243,10 @@
           "playsText": "播放次數：155萬",
           "duration": 218,
           "byOther": false,
-          "nameKey": "好像"
+          "nameKey": "好像",
+          "credits": {
+            "music": "6th"
+          }
         },
         {
           "index": 2,
@@ -4320,7 +4341,10 @@
           "playsText": "播放次數：7.4萬",
           "duration": 231,
           "byOther": false,
-          "nameKey": "半日閑"
+          "nameKey": "半日閑",
+          "credits": {
+            "music": "7th"
+          }
         }
       ],
       "releaseDate": "2026-05-10",
@@ -4348,7 +4372,10 @@
           "playsText": "播放次數：10萬",
           "duration": 200,
           "byOther": false,
-          "nameKey": "我以為"
+          "nameKey": "我以為",
+          "credits": {
+            "music": "8th"
+          }
         },
         {
           "index": 2,

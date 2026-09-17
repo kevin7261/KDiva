@@ -146,7 +146,10 @@
           "playsText": "播放次數：6.7萬",
           "duration": 271,
           "byOther": false,
-          "nameKey": "愛如花如種"
+          "nameKey": "愛如花如種",
+          "credits": {
+            "lyrics": "李竺芯"
+          }
         }
       ],
       "releaseDate": null,
@@ -175,6 +178,10 @@
           "duration": 269,
           "byOther": false,
           "nameKey": "臺灣查某囝",
+          "credits": {
+            "lyrics": "李竺芯",
+            "music": "李竺芯、臺南歐力桑"
+          },
           "titleZh": "臺灣查某囝",
           "titleZhVariant": true
         }
@@ -292,7 +299,11 @@
           "playsText": "播放次數：3.9萬",
           "duration": 223,
           "byOther": false,
-          "nameKey": "伍冬拾冬"
+          "nameKey": "伍冬拾冬",
+          "credits": {
+            "lyrics": "李竺芯、曲全立",
+            "music": "李竺芯、鍾興民"
+          }
         },
         {
           "index": 10,
@@ -304,6 +315,10 @@
           "duration": 267,
           "byOther": false,
           "nameKey": "臺灣查某囝",
+          "credits": {
+            "lyrics": "李竺芯",
+            "music": "李竺芯、臺南歐力桑"
+          },
           "titleZh": "臺灣查某囝 (誠心推薦版)",
           "titleZhVariant": true
         }
@@ -334,6 +349,10 @@
           "duration": 229,
           "byOther": false,
           "nameKey": "伍冬拾冬",
+          "credits": {
+            "lyrics": "李竺芯、曲全立",
+            "music": "李竺芯、鍾興民"
+          },
           "titleZh": "伍冬拾冬（臺灣超人電影主題曲）",
           "titleZhVariant": true
         }
@@ -363,7 +382,11 @@
           "playsText": "播放次數：4.9萬",
           "duration": 225,
           "byOther": false,
-          "nameKey": "一身是膽趙子龍"
+          "nameKey": "一身是膽趙子龍",
+          "credits": {
+            "lyrics": "李竺芯",
+            "music": "李竺芯、臺南歐力桑"
+          }
         }
       ],
       "releaseDate": null,
@@ -392,6 +415,10 @@
           "duration": 248,
           "byOther": false,
           "nameKey": "巷仔內的臺南",
+          "credits": {
+            "lyrics": "李竺芯",
+            "music": "李竺芯"
+          },
           "titleZh": "巷仔內的臺南 (漂亮版)",
           "titleZhVariant": true
         },
@@ -405,6 +432,10 @@
           "duration": 249,
           "byOther": false,
           "nameKey": "巷仔內的臺南",
+          "credits": {
+            "lyrics": "李竺芯",
+            "music": "李竺芯"
+          },
           "titleZh": "巷仔內的臺南 (四代同堂版)",
           "titleZhVariant": true
         }
