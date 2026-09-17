@@ -485,6 +485,8 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
     artist.thumbnail ??= extra.thumbnail
     log(`合併頻道 ${extra.name}：${extra.releases.length} 張`)
   }
+  // 頻道混了同名的外國歌手（B.A.D.）：只收中文標題的專輯
+  if (artistConfig.cjkOnly) artist.releases = artist.releases.filter((r) => hasCJK(r.title))
   log(`找到 ${artist.releases.length} 張專輯／單曲，開始讀取曲目…`)
 
   const albums = await mapLimit(artist.releases, 4, async (r) => {

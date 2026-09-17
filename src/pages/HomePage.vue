@@ -3,6 +3,7 @@ import { computed, ref, watch } from 'vue'
 import { RouterLink, useRouter } from 'vue-router'
 import { GROUPS, artistsIn } from '../artists.js'
 import { getModel, loadAll, refreshArtist } from '../lib/store.js'
+import { readPref, writePref } from '../lib/prefs.js'
 import { formatCount, formatDate, watchUrl, creditLines } from '../lib/format.js'
 import BarList from '../components/BarList.vue'
 import ThemeToggle from '../components/ThemeToggle.vue'
@@ -29,6 +30,41 @@ watch(
 )
 
 const entries = computed(() => artists.value.map((a) => ({ artist: a, model: getModel(a.slug) })))
+
+// 歌手卡片排序：出道年份、播放次數、專輯數、歌曲數、姓名，可切換正反向（記在瀏覽器）
+const SORTS = [
+  { key: 'debut', label: '出道年份', get: (e) => e.artist.debut, asc: true },
+  { key: 'plays', label: '播放次數', get: (e) => e.model?.totalPlays, asc: false },
+  { key: 'albums', label: '專輯數', get: (e) => e.model?.albums.length, asc: false },
+  { key: 'songs', label: '歌曲數', get: (e) => e.model?.songs.length, asc: false },
+  { key: 'name', label: '姓名', get: (e) => e.artist.name, asc: true },
+]
+const sortKey = ref(SORTS.some((o) => o.key === readPref('home-sort')) ? readPref('home-sort') : 'debut')
+const sortAsc = ref(readPref('home-sort-dir') ? readPref('home-sort-dir') === 'asc' : true)
+const sortInfo = computed(() => SORTS.find((o) => o.key === sortKey.value))
+const collator = new Intl.Collator('zh-Hant-TW-u-co-stroke')
+function setSort(key) {
+  sortKey.value = key
+  sortAsc.value = SORTS.find((o) => o.key === key).asc // 換排序方式時用它的慣用方向（數字大的在前、出道早的在前）
+  writePref('home-sort', key)
+  writePref('home-sort-dir', sortAsc.value ? 'asc' : 'desc')
+}
+function flipSort() {
+  sortAsc.value = !sortAsc.value
+  writePref('home-sort-dir', sortAsc.value ? 'asc' : 'desc')
+}
+const sortedEntries = computed(() => {
+  const get = sortInfo.value.get
+  const dir = sortAsc.value ? 1 : -1
+  return [...entries.value].sort((a, b) => {
+    const x = get(a)
+    const y = get(b)
+    // 還沒載入（沒有數字）的排在最後，不受方向影響
+    if (x == null || y == null) return (x == null) - (y == null)
+    const c = typeof x === 'string' ? collator.compare(x, y) : x - y
+    return c * dir || a.artist.debut.localeCompare(b.artist.debut)
+  })
+})
 const loaded = computed(() => entries.value.filter((e) => e.model))
 
 const grandTotal = computed(() => loaded.value.reduce((n, e) => n + e.model.totalPlays, 0))
@@ -179,7 +215,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
             <ThemeToggle />
           </div>
         </div>
-        <p class="eyebrow">{{ groupInfo.label }} · YouTube Music 播放數據 · 依出道日期排列</p>
+        <p class="eyebrow">{{ groupInfo.label }} · YouTube Music 播放數據 · 依{{ sortInfo.label }}排列</p>
         <h1>{{ heading }}，<br class="br" />{{ songTotal ? `${songTotal} 首歌` : '所有歌曲' }}的播放紀錄</h1>
         <div v-if="loaded.length" class="hero-number">
           <span class="figure">{{ formatCount(grandTotal) }}</span>
@@ -204,9 +240,20 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
         </ol>
       </aside>
 
+      <div class="cards">
+      <div class="sortbar">
+        <label class="muted" for="home-sort">排序</label>
+        <select id="home-sort" class="field" :value="sortKey" @change="setSort($event.target.value)">
+          <option v-for="o in SORTS" :key="o.key" :value="o.key">{{ o.label }}</option>
+        </select>
+        <button type="button" class="btn dir" :aria-label="sortAsc ? '目前由小到大，按一下反向' : '目前由大到小，按一下反向'" @click="flipSort">
+          {{ sortAsc ? (sortKey === 'debut' ? '早 → 晚' : sortKey === 'name' ? '筆畫少 → 多' : '少 → 多') : sortKey === 'debut' ? '晚 → 早' : sortKey === 'name' ? '筆畫多 → 少' : '多 → 少' }}
+          <span aria-hidden="true">{{ sortAsc ? '↑' : '↓' }}</span>
+        </button>
+      </div>
       <section class="artists">
         <RouterLink
-          v-for="entry in entries"
+          v-for="entry in sortedEntries"
           :id="`card-${entry.artist.slug}`"
           :key="entry.artist.slug"
           :to="`/artist/${entry.artist.slug}`"
@@ -241,6 +288,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
           <div v-else class="body muted small">載入中…</div>
         </RouterLink>
       </section>
+      </div>
       </div>
 
       <div v-if="loaded.length" class="grid">
@@ -457,6 +505,29 @@ h1 {
 .names button:hover {
   color: var(--accent-ink);
   text-decoration: underline;
+}
+.cards {
+  min-width: 0;
+}
+.sortbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-bottom: 12px;
+  padding: 8px 12px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  font-size: 13px;
+}
+.sortbar .field {
+  height: 32px;
+}
+.sortbar .dir {
+  height: 32px;
+  font-size: 13px;
 }
 .artists {
   display: grid;

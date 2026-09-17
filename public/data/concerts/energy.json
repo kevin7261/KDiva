@@ -1,0 +1,417 @@
+{
+  "slug": "energy",
+  "fetchedAt": "2026-09-17T13:24:28.032Z",
+  "wiki": "Energy (台灣團體)",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": {
+      "date": "2002-01-01",
+      "precision": "year"
+    },
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "臺北獵舞行動演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2002-07-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2002-07-13",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "臺北市中正紀念堂NON-STOP演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2002-08-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2002-08-29",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "WE WIN演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2003-03-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2003-03-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "臺北縣淡水漁人碼頭演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2003-07-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2003-07-16",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "ENERGY POWER演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2003-09-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2003-09-27",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "新加坡",
+        "印尼"
+      ],
+      "cities": [
+        "新加坡室內體育館",
+        "雅加達"
+      ],
+      "venues": [
+        "雅加達會議中心"
+      ],
+      "shows": [
+        {
+          "date": "2003-09-13",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2003-09-27",
+          "precision": "day",
+          "region": "印尼",
+          "city": "雅加達",
+          "venue": "雅加達會議中心",
+          "lat": -6.21444444,
+          "lon": 106.8075,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "再見馬來西亞演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2005-07-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2005-07-09",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "新加坡"
+      ],
+      "cities": [
+        "新加坡室內體育館"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2005-07-09",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "最後的樂園慶功演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2005-07-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2005-07-30",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "臺北WE BACK演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2006-09-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2006-09-01",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "一觸即發巡迴演唱會",
+      "page": "一觸即發巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2024-07-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-04-05",
+        "precision": "day"
+      },
+      "showCount": 6,
+      "regions": [
+        "臺灣",
+        "新加坡",
+        "馬來西亞"
+      ],
+      "cities": [
+        "臺北",
+        "高雄",
+        "新加坡室內體育館",
+        "吉隆坡"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "高雄巨蛋",
+        "亞通體育館"
+      ],
+      "shows": [
+        {
+          "date": "2024-07-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-07-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-08",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-11-23",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2025-04-05",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "亞通體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "Here I Am 我在上海演唱會-瓦肆 VAS est 3樓",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2024-12-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-12-27",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "All In全面進擊巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-09-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-01-11",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "高雄",
+        "臺北"
+      ],
+      "venues": [
+        "高雄巨蛋",
+        "臺北小巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2025-09-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-09-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-01-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-01-11",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "馬上去深圳演唱會-SoFun Live深圳",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2025-11-28",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-11-28",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "馬上去成都演唱會-正火藝術中心1號館",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2025-11-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-11-30",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    }
+  ]
+}

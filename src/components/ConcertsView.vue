@@ -4,6 +4,7 @@ import { computed, ref, shallowRef, watch } from 'vue'
 import { loadConcerts } from '../lib/store.js'
 import { formatDay } from '../lib/format.js'
 import TourMap from './TourMap.vue'
+import { orderedColors } from '../lib/palette.js'
 
 const props = defineProps({ slug: { type: String, required: true } })
 
@@ -12,7 +13,6 @@ const error = ref('')
 const filter = ref('tour')
 const order = ref('asc')
 const open = ref(new Set())
-const maps = ref(new Set())
 
 watch(
   () => props.slug,
@@ -20,7 +20,6 @@ watch(
     data.value = null
     error.value = ''
     open.value = new Set()
-    maps.value = new Set()
     loadConcerts(slug)
       .then((d) => (data.value = d))
       .catch((e) => (error.value = e.message))
@@ -34,6 +33,11 @@ const list = computed(() => {
   const l = all.value.filter((t) => filter.value === 'all' || t.kind === 'tour')
   return order.value === 'desc' ? [...l].reverse() : l
 })
+// 地圖與卡片共用的顏色：依時間先後（不受排序方向影響）
+const chronological = computed(() => all.value.filter((t) => filter.value === 'all' || t.kind === 'tour'))
+const mapTours = computed(() => chronological.value.filter((t) => t.shows.some((s) => s.lat != null)))
+const colors = computed(() => orderedColors(mapTours.value.length))
+const colorOf = computed(() => new Map(mapTours.value.map((t, i) => [t, colors.value[i]])))
 const showTotal = computed(() => list.value.reduce((n, t) => n + (t.showCount ?? 0), 0))
 
 const period = (t) => (t.end && formatDay(t.end) !== formatDay(t.start) ? `${formatDay(t.start)} – ${formatDay(t.end)}` : formatDay(t.start))
@@ -41,14 +45,11 @@ const period = (t) => (t.end && formatDay(t.end) !== formatDay(t.start) ? `${for
 const brief = (items, n = 6) => (items.length > n ? `${items.slice(0, n).join('、')} 等 ${items.length} 個` : items.join('、'))
 const wikiUrl = (page) => `https://zh.wikipedia.org/wiki/${encodeURIComponent(page)}`
 
-// 展開場次表／地圖（模板裡的 ref 會被自動解開，所以用名稱指定）
-const panels = { open, maps }
-function toggle(name, t) {
-  const next = new Set(panels[name].value)
+function toggle(t) {
+  const next = new Set(open.value)
   next.has(t) ? next.delete(t) : next.add(t)
-  panels[name].value = next
+  open.value = next
 }
-const located = (t) => t.shows.some((s) => s.lat != null)
 </script>
 
 <template>
@@ -73,10 +74,13 @@ const located = (t) => t.shows.some((s) => s.lat != null)
 
     <p v-if="!list.length" class="card empty muted">Wikipedia 沒有列出{{ filter === 'tour' ? '巡迴' : '' }}演唱會資料。</p>
 
+    <TourMap v-if="mapTours.length" :tours="mapTours" :colors="colors" />
+
     <ol class="tours">
       <li v-for="t in list" :key="t.name + t.start.date" class="card tour">
         <div class="head">
           <div class="title">
+            <span v-if="colorOf.get(t)" class="dot" :style="{ background: colorOf.get(t) }" aria-hidden="true" />
             <a v-if="t.page" :href="wikiUrl(t.page)" target="_blank" rel="noopener">{{ t.name }}</a>
             <span v-else>{{ t.name }}</span>
             <span v-if="t.kind !== 'tour'" class="tag">單場／駐唱</span>
@@ -97,15 +101,9 @@ const located = (t) => t.shows.some((s) => s.lat != null)
             <dd>{{ t.venues.length ? brief(t.venues, 4) : '—' }}</dd>
           </div>
         </dl>
-        <div v-if="t.shows.length" class="more">
-          <button v-if="located(t)" class="link" :aria-expanded="maps.has(t)" @click="toggle('maps', t)">
-            {{ maps.has(t) ? '收起地圖' : '看巡演地圖' }}
-          </button>
-          <button class="link" :aria-expanded="open.has(t)" @click="toggle('open', t)">
-            {{ open.has(t) ? '收起場次' : `看 ${t.shows.length} 場場次` }}
-          </button>
-        </div>
-        <TourMap v-if="maps.has(t)" :shows="t.shows" />
+        <button v-if="t.shows.length" class="link more" :aria-expanded="open.has(t)" @click="toggle(t)">
+          {{ open.has(t) ? '收起場次' : `看 ${t.shows.length} 場場次` }}
+        </button>
         <div v-if="open.has(t)" class="table-wrap">
           <table>
             <thead>
@@ -227,10 +225,14 @@ const located = (t) => t.shows.some((s) => s.lat != null)
   text-decoration: underline;
 }
 .more {
-  display: flex;
-  gap: 16px;
   margin-top: 10px;
   font-size: 13px;
+}
+.dot {
+  flex: none;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
 }
 .table-wrap {
   overflow-x: auto;

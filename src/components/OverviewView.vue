@@ -1,9 +1,13 @@
 <script setup>
 import { computed } from 'vue'
 import BarList from './BarList.vue'
+import ReleaseChart from './ReleaseChart.vue'
 import { formatCount, watchUrl, creditLines } from '../lib/format.js'
 
-const props = defineProps({ model: { type: Object, required: true } })
+const props = defineProps({
+  model: { type: Object, required: true },
+  approx: { type: Boolean, default: true },
+})
 const emit = defineEmits(['open-album'])
 
 // 只算原創發行（排除精選輯、再版與沒有首發歌曲的單曲），依發行日期排列
@@ -48,6 +52,8 @@ const openSong = (row) => row.song.videoId && window.open(watchUrl(row.song.vide
 </script>
 
 <template>
+  <ReleaseChart :model="model" :approx="approx" @open-album="emit('open-album', $event)" />
+
   <div class="grid">
     <section class="card panel">
       <header>
