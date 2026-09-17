@@ -622,6 +622,13 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
   if (artistConfig.cjkOnly) artist.releases = artist.releases.filter((r) => hasCJK(r.title))
   // 頻道混了很多同名歌手、只有少數幾張是這位歌手的（GoGoMeMe）：只收指定的專輯
   if (artistConfig.releases) artist.releases = artist.releases.filter((r) => artistConfig.releases.includes(r.browseId))
+  // YouTube Music 偶爾把別人的作品掛到這位歌手名下（羅大佑名下的 1989 單曲〈故鄉〉），上游標錯只能手動排除
+  if (artistConfig.excludeReleases) {
+    const drop = new Set(artistConfig.excludeReleases)
+    const before = artist.releases.length
+    artist.releases = artist.releases.filter((r) => !drop.has(r.browseId))
+    if (before !== artist.releases.length) log(`  排除誤掛的專輯 ${before - artist.releases.length} 張`)
+  }
   log(`找到 ${artist.releases.length} 張專輯／單曲，開始讀取曲目…`)
 
   const albums = await mapLimit(artist.releases, 4, async (r) => {

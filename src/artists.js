@@ -10,6 +10,7 @@
 // cjkOnly：頻道混了同名的外國歌手時，只收中文標題的專輯（B.A.D.）
 // photo：頻道照片不對時指定，'wikipedia' 用 Wikipedia 條目主圖，或直接填圖片網址
 // releases：頻道混了很多同名歌手時，只收這些專輯（YouTube Music 的 browseId）
+// excludeReleases：YouTube Music 把別人的作品標成這位歌手時，排除這些 browseId
 export const ARTISTS = [
   { slug: 'wen-hsia', group: 'male', lang: 'tw', name: '文夏', en: 'Wen Hsia', debut: '1955', channelId: 'UChsYB0DSVRcKPQPTYndWg9A', extraChannelIds: ['UC2pkOKXpD6o5s7HI9Lrkr6g'], wiki: '文夏' },
   { slug: 'judy-ongg', group: 'female', name: '翁倩玉', en: 'Judy Ongg', debut: '1960', channelId: 'UC9NKMcJmtnmXhsq0RwUEYEw', extraChannelIds: ['UCLQJWIKWHdYbAtkIG6tPJZA'], wiki: '翁倩玉', aliases: ['ジュディ・オング'] },
@@ -41,7 +42,7 @@ export const ARTISTS = [
   { slug: 'jody-chiang', group: 'female', lang: 'tw', name: '江蕙', en: 'Jody Chiang', debut: '1981-04', channelId: 'UCJHd5tIDLb6YuNg3L_Ad15A', wiki: '江蕙' },
   { slug: 'anita-mui', group: 'female', name: '梅艷芳', en: 'Anita Mui', debut: '1982', channelId: 'UCllyCYlWEeBeZ4v3kNqz0AA', wiki: '梅艷芳' },
   { slug: 'lin-hui-ping', group: 'female', name: '林慧萍', en: 'Lin Hui-ping', debut: '1982', channelId: 'UCNDJh_nCTv5tC0udzvIqMxg', wiki: '林慧萍' },
-  { slug: 'lo-ta-yu', group: 'male', name: '羅大佑', en: 'Lo Ta-yu', debut: '1982', channelId: 'UCLw1fD-M2rKFBM9zGXfUwFA', wiki: '羅大佑' },
+  { slug: 'lo-ta-yu', group: 'male', name: '羅大佑', en: 'Lo Ta-yu', debut: '1982', channelId: 'UCLw1fD-M2rKFBM9zGXfUwFA', excludeReleases: ['MPREb_y2f3qNHJduw'], wiki: '羅大佑' },
   { slug: 'tsai-chen-nan', group: 'male', lang: 'tw', name: '蔡振南', en: 'Tsai Chen-nan', debut: '1982', channelId: 'UC27lmPfn0fNqVfWeSFnOPpQ', wiki: '蔡振南' },
   { slug: 'julie-sue', group: 'female', name: '蘇芮', en: 'Julie Sue', debut: '1983', channelId: 'UC7GaEq4YeIndQAmWZGCp1jA', wiki: '蘇芮', aliases: ['Julie Su'] },
   { slug: 'eric-moo', group: 'male', name: '巫啟賢', en: 'Eric Moo', debut: '1983', channelId: 'UC9lm7Q16zOCSB5zSy1WKmCA', wiki: '巫啟賢' },
@@ -231,13 +232,13 @@ export const ARTISTS = [
   { slug: '831', group: 'group', name: '八三夭', en: '831', debut: '2007', channelId: 'UCVBiSWmgpzvCFs6ULFTh50A', extraChannelIds: ['UCSdOayBNVsRd1tBxA8LiLLQ'], wiki: '八三夭' },
   { slug: 'claire-kuo', group: 'female', name: '郭靜', en: 'Claire Kuo', debut: '2007-06-29', channelId: 'UCYYhiWcofKhHQuqYD7BUoRw', wiki: '郭靜', aliases: ['郭静'] },
   { slug: 'della-ding', group: 'female', name: '丁噹', en: 'Della Ding', debut: '2007-07-06', channelId: 'UCATB6fk4_-ySg0CzlQFHLaQ', extraChannelIds: ['UClU_SGeH66YsSbB8Y5cQ1FA'], wiki: '丁噹', aliases: ['丁当', 'Della'] },
-  { slug: 'shin', group: 'male', name: '信', en: 'Shin', debut: '2007-09', channelId: 'UCLffjF3BWiyHVDgrKfIh4SA', wiki: '信 (歌手)', aliases: ['蘇見信'], groups: ['信樂團'], names: ['信', '蘇見信'] },
   { slug: 'waa-wei', group: 'female', name: '魏如萱', en: 'Waa Wei', debut: '2007-11', channelId: 'UCYul_G85M2ySouSZlqX_ipg', wiki: '魏如萱', groups: ['自然捲'] },
   { slug: 'da-mouth', group: 'group', name: '大嘴巴', en: 'Da Mouth', debut: '2007-11-16', channelId: 'UC2RY9yh7CmrJp2myNK8SYVA', wiki: '大嘴巴', members: ['愛紗', '懷秋', '薛仕凌', 'MC40', '坂本宗華', '宗華'] },
   { slug: 'jam-hsiao', group: 'male', name: '蕭敬騰', en: 'Jam Hsiao', debut: '2008', channelId: 'UCvjGf4upqUNaqi524A5AHIw', wiki: '蕭敬騰' },
   { slug: 'crowd-lu', group: 'male', name: '盧廣仲', en: 'Crowd Lu', debut: '2008', channelId: 'UCTPByZ54kHfs6pwoGNAcCzQ', wiki: '盧廣仲' },
   { slug: 'joanna-wang', group: 'female', name: '王若琳', en: 'Joanna Wang', debut: '2008', channelId: 'UCyjLXrYlY-xzieUwYJXIFFg', wiki: '王若琳' },
   { slug: 'ma-nien-hsien', group: 'male', name: '馬念先', en: 'Ma Nien-hsien', debut: '2008', channelId: 'UCfuLDbI19x13i0pUn9iQqyA', wiki: '馬念先', aliases: ['馬拉桑'], groups: ['糯米糰'] },
+  { slug: 'e-so', group: 'male', name: '瘦子E.SO', en: 'Eddie Chen', debut: '2008-07-04', channelId: 'UC6XU7kBQgXS7Fpa5ka_KUhg', wiki: '瘦子E.SO', aliases: ['瘦子', 'E.SO', '陳昱榕'] },
   { slug: 'gem', group: 'female', name: '鄧紫棋', en: 'G.E.M.', debut: '2008-07-10', channelId: 'UCBRh2Z_U1Lw9-YJ-XGZ8M2Q', wiki: '鄧紫棋', aliases: ['邓紫棋', 'GEM'] },
   { slug: 'soft-lipa', group: 'male', name: '蛋堡', en: 'Soft Lipa', debut: '2009', channelId: 'UCPMkOsBp-jRezKYBR_9XEaA', wiki: '蛋堡 (音樂人)', aliases: ['杜振熙', 'Soft Lipa'] },
   { slug: 'lala-hsu', group: 'female', name: '徐佳瑩', en: 'LaLa Hsu', debut: '2009', channelId: 'UC974iWoR_ZhWT6cNbZSaEdg', wiki: '徐佳瑩' },
@@ -269,6 +270,7 @@ export const ARTISTS = [
   { slug: 'shi-shi', group: 'female', name: '孫盛希', en: 'Shi Shi', debut: '2014-06', channelId: 'UCY4wdFAd6x2tupBrOAVYMVA', wiki: '孫盛希', aliases: ['孙盛希', 'Shi Shi'] },
   { slug: 'xu-jun', group: 'male', name: '許鈞', en: 'Xu Jun', debut: '2015', channelId: 'UCP7WAZSEZqr0pQlUDLHP5VA', wiki: '許鈞 (歌手)' },
   { slug: 'j-sheon', group: 'male', name: 'J.Sheon', en: '莊珣', debut: '2015', channelId: 'UCi6MXUg7agTF7m0MgOjE9AA', wiki: 'J.Sheon', aliases: ['街巷', '莊珣'] },
+  { slug: 'kowen-ko', group: 'male', name: '柯智棠', en: 'Kowen Ko', debut: '2015', channelId: 'UCoN-Zm473fCcBzNIxPwM2Aw', wiki: '柯智棠' },
   { slug: '9m88', group: 'female', name: '9m88', en: '', debut: '2016', channelId: 'UCpZvDKDJtQUXm1o6LKT2xhA', wiki: '9m88' },
   { slug: 'amazing-show', group: 'group', lang: 'tw', name: '美秀集團', en: 'Amazing Show', debut: '2016', channelId: 'UC9fwTdQyoeDFhOhNN3CQDlg', wiki: '美秀集團' },
   { slug: 'leo-wang', group: 'male', name: 'Leo王', en: 'Leo Wang', debut: '2016', channelId: 'UCUqJ2PHIPNsgEeoQxf9NqQw', wiki: 'Leo王', aliases: ['Leo 王', '王之佑'], groups: ['夜貓組', '巨大的轟鳴'] },
