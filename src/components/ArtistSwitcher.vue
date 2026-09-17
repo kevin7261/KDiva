@@ -12,6 +12,7 @@ const emit = defineEmits(['close'])
 const years = useYears()
 const q = ref('')
 const box = ref(null)
+const body = ref(null)
 
 const norm = (s) => String(s ?? '').toLowerCase().replace(/[\s·・.'-]/g, '')
 const sections = computed(() => {
@@ -26,7 +27,17 @@ const total = computed(() => sections.value.reduce((n, g) => n + g.artists.lengt
 const onKey = (e) => e.key === 'Escape' && emit('close')
 onMounted(() => {
   document.addEventListener('keydown', onKey)
-  nextTick(() => box.value?.focus())
+  nextTick(() => {
+    box.value?.focus({ preventScroll: true })
+    // 兩百多位歌手，開啟時直接捲到目前這位，不用自己找
+    // 用 rect 差值算：offsetTop 是相對於最近的定位祖先（.backdrop），不是這個捲動區
+    const here = body.value?.querySelector('a.on')
+    if (here) {
+      const box = body.value.getBoundingClientRect()
+      const row = here.getBoundingClientRect()
+      body.value.scrollTop += row.top - box.top - (box.height - row.height) / 2
+    }
+  })
 })
 onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
 </script>
@@ -43,7 +54,7 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
         <input ref="box" v-model="q" type="search" placeholder="搜尋歌手：江蕙、Jody、a-mei…" aria-label="搜尋歌手" />
       </div>
 
-      <div class="body">
+      <div ref="body" class="body">
         <section v-for="g in sections" :key="g.key">
           <h3>{{ g.label }} <span class="muted num">{{ g.artists.length }}</span></h3>
           <ul>
@@ -123,7 +134,7 @@ h2 {
   overflow-y: auto;
   overscroll-behavior: contain;
   /* 捲軸放進右側留白，內容不會被擠窄，也不會貼著卡片邊 */
-  padding: 4px 10px 16px 0;
+  padding: 0 10px 16px 0;
   margin-right: -14px;
   /* 底部淡出，讓清單不是硬生生被切掉（上緣有吸頂標題，不淡） */
   mask-image: linear-gradient(to bottom, #000 calc(100% - 28px), transparent);
