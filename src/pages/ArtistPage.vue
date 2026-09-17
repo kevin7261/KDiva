@@ -78,6 +78,13 @@ const stats = computed(() => {
 // 抓資料用的來源：Wikipedia 條目與 YouTube Music 藝人頻道（作品分散時有好幾個）
 const wikiUrl = computed(() => `https://zh.wikipedia.org/wiki/${encodeURIComponent(artist.value.wiki ?? '')}`)
 const channels = computed(() => [artist.value.channelId, ...(artist.value.extraChannelIds ?? [])])
+// 團體：標題下面列出團員（artists.js 的 members，別名與英文名不重複列出）
+const members = computed(() => {
+  const list = artist.value.members ?? []
+  const seen = new Set()
+  const names = list.filter((m) => /[\u3400-\u9fff]/.test(m) && !seen.has(m) && seen.add(m))
+  return names.length ? names.join('、') : ''
+})
 
 const tabs = [
   ['overview', '總覽'],
@@ -113,6 +120,7 @@ const tabs = [
           </div>
         </div>
         <h1>{{ artist.name }} <span>{{ artist.en }}</span></h1>
+        <p v-if="members" class="members">{{ members }}</p>
         <nav class="sources" aria-label="資料來源">
           <a v-if="artist.wiki" :href="wikiUrl" target="_blank" rel="noopener">Wikipedia 條目 ↗</a>
           <a
@@ -287,6 +295,11 @@ h1 {
 .sources a:hover {
   color: #fff;
   text-decoration: underline;
+}
+.members {
+  margin: 6px 0 0;
+  font-size: 13.5px;
+  opacity: 0.85;
 }
 h1 span {
   font-size: 0.45em;

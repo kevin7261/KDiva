@@ -91,6 +91,11 @@ const goArtist = (slug) => router.push(`/artist/${slug}`)
 
 // 歌手圖片一律用 YouTube 頻道大頭照；舊資料沒有時退回 YouTube Music 藝人頁圖片
 const photo = (model) => model?.artist.avatar ?? model?.artist.thumbnail ?? null
+// 團體卡片上的團員名字（只列中文名，最多五位）
+const memberNames = (artist) => {
+  const names = (artist.members ?? []).filter((m) => /[\u3400-\u9fff]/.test(m))
+  return names.length ? names.slice(0, 5).join('、') + (names.length > 5 ? '…' : '') : ''
+}
 
 // 左側「出道年份」清單：依出道年份分組
 // 左側清單跟著卡片的排序：出道年份依年份分組；其他排序照順序列出名字與數字
@@ -283,6 +288,7 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
             <div class="banner-text">
               <div class="name">{{ entry.artist.name }}</div>
               <div v-if="entry.artist.en" class="en">{{ entry.artist.en }}</div>
+              <div v-if="memberNames(entry.artist)" class="en members">{{ memberNames(entry.artist) }}</div>
             </div>
           </div>
           <div v-if="entry.model" class="body">
@@ -622,6 +628,12 @@ h1 {
 .en {
   font-size: 12px;
   opacity: 0.85;
+}
+.members {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .body {
   padding: 12px 14px 14px;

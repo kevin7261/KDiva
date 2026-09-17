@@ -221,8 +221,9 @@ export function kindOf(text) {
   return null
 }
 
-const MUSIC_SECTION = /專輯|专辑|唱片|單曲|单曲|\bEP\b|音樂作品|音乐作品|discography|album|single/i
-const NON_MUSIC_SECTION = /電影|电影|電視|电视|戲劇|戏剧|劇集|剧集|綜藝|综艺|節目|节目|演唱會|演唱会|廣告|广告|書籍|书籍|出版|著作|獲獎|获奖|得獎|得奖|提名|主持|MV|音樂錄影帶|音乐录影带|參與|参与|合作|客串|嘉賓|嘉宾|作詞|作词|作曲|創作|创作|製作|制作|配唱|和聲|和声/i
+const MUSIC_SECTION = /專輯|专辑|唱片|單曲|单曲|\bEP\b|音樂作品|音乐作品|discography|album/i
+const NON_MUSIC_SECTION =
+  /電影|电影|電視|电视|戲劇|戏剧|劇集|剧集|綜藝|综艺|節目|节目|演唱會|演唱会|廣告|广告|書籍|书籍|出版|著作|獲獎|获奖|得獎|得奖|提名|主持|MV|音樂錄影帶|音乐录影带|參與|参与|合作|客串|嘉賓|嘉宾|作詞|作词|作曲|詞曲|词曲|創作|创作|製作|制作|配唱|和聲|和声|他人|其他|翻唱|合唱|對唱|对唱|重唱|派台|生涯|歷程|历程|紀錄|纪录/i
 
 /** 依章節切開（「===精選專輯===」），每段帶著章節判斷出的類型 */
 function sections(wikitext) {
@@ -383,7 +384,7 @@ function parseTables(wikitext, page, artistKeys) {
         const albumTitles = albumCol >= 0 && row[albumCol] != null ? titlesFromCell(row[albumCol]) : []
         if (albumTitles.length) out.push({ titles: albumTitles, ...date, source: 'table', page })
       } else {
-        out.push({ titles, ...date, source: 'table', page, tracks })
+        out.push({ titles, ...date, source: 'table', page, tracks, titleHead: header[titleCol] })
       }
     }
   }
@@ -716,8 +717,11 @@ export function findWikiOnly(albums, catalog, artistNames = []) {
   const NOT_ALBUM = /VCD|DVD|Blu-?ray|藍光|蓝光|\bMV\b|KARAOKE|卡拉\s*OK|影音|\bLive\b|演唱會|演唱会|現場|现场|紀錄|纪录|珍藏版|慶功|庆功|限量|升級|全配|豪華|豪华|紀念|纪念|SACD|HQCD|\bIVD\b|\b3D\b|限定|日本|原聲|原声|合輯|合辑|群星|精選|精选|金唱片|金曲|best|collection|\bhits\b|唱片$|音樂$|音乐$|單曲|单曲|主題曲|主题曲|廣告|广告|[、／/]/i
   // 表格屬性殘留（「style="background:" | 陳奕迅」）、名稱就是歌手名字的，都不是專輯
   const junk = (t) => /[=|{}<>]|^\s*$/.test(t) || artistNames.filter(Boolean).some((n) => normalizeTitle(t) === normalizeTitle(n))
+  // 表格要確定是專輯欄（不是歌曲、歌手欄）
+  const albumHead = (h) => /專輯|专辑|唱片|album|名稱|名称|作品/i.test(h ?? '') && !/歌曲|song|單曲|单曲|演唱|歌手|藝人|艺人/i.test(h ?? '')
   const candidates = catalog
     .filter((e) => e.musical && e.source in RANK && e.date && e.keys.length && !e.forAlbum)
+    .filter((e) => e.source !== 'table' || albumHead(e.titleHead))
     .filter((e) => !e.titles.some(junk))
     .filter((e) => !['live', 'soundtrack', 'single', 'compilation', 'reissue'].includes(e.kind))
     .filter((e) => e.titles.every((t) => !NOT_ALBUM.test(t)) && e.titles.some((t) => t.length <= 30))
