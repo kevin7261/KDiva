@@ -1,6 +1,6 @@
 {
   "slug": "na-ying",
-  "fetchedAt": "2026-09-17T12:28:04.546Z",
+  "fetchedAt": "2026-09-17T13:03:11.230Z",
   "wiki": "那英",
   "bio": {
     "born": {
@@ -40,7 +40,10 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "北京",
-          "venue": "工人體育館"
+          "venue": "工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
         }
       ]
     },
@@ -72,7 +75,10 @@
           "precision": "day",
           "region": "中國大陸",
           "city": "深圳",
-          "venue": "深圳灣體育中心體育館"
+          "venue": "深圳灣體育中心體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
         }
       ]
     },
@@ -104,7 +110,10 @@
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "美高梅劇院"
+          "venue": "美高梅劇院",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
         }
       ]
     },
@@ -136,14 +145,20 @@
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "新濠影滙綜藝館"
+          "venue": "新濠影滙綜藝館",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
         },
         {
           "date": "2024-10-06",
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "新濠影滙綜藝館"
+          "venue": "新濠影滙綜藝館",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
         }
       ]
     }

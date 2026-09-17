@@ -1,6 +1,6 @@
 {
   "slug": "richie-jen",
-  "fetchedAt": "2026-09-17T12:28:48.747Z",
+  "fetchedAt": "2026-09-17T13:04:21.202Z",
   "wiki": "任賢齊",
   "bio": {
     "born": {
@@ -231,6 +231,105 @@
         "新加坡"
       ],
       "shows": []
+    },
+    {
+      "name": "非售票演唱會與其它活動",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2000-12-31",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-12-31",
+        "precision": "day"
+      },
+      "showCount": 11,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2000-12-31",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2005-01-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2005-12-31",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2006-01-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2006-12-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2007-03-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2008-01-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2008-07-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2010-02-08",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2011-12-31",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2012-12-31",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": ""
+        }
+      ]
     },
     {
       "name": "利口樂任賢齊好說話唱遊會",

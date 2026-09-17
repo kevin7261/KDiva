@@ -1,6 +1,6 @@
 {
   "slug": "elva-hsiao",
-  "fetchedAt": "2026-09-17T12:29:49.776Z",
+  "fetchedAt": "2026-09-17T13:06:39.005Z",
   "wiki": "蕭亞軒",
   "bio": {
     "born": {
@@ -60,7 +60,10 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北市立體育場"
+          "venue": "臺北市立體育場",
+          "lat": 25.049444,
+          "lon": 121.551111,
+          "geo": "venue"
         }
       ]
     },
@@ -134,14 +137,20 @@
           "precision": "day",
           "region": "",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2001-07-19",
           "precision": "day",
           "region": "",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         }
       ]
     },
@@ -173,14 +182,20 @@
           "precision": "day",
           "region": "",
           "city": "南京",
-          "venue": "五臺山體育館"
+          "venue": "五臺山體育館",
+          "lat": 32.051,
+          "lon": 118.769,
+          "geo": "venue"
         },
         {
           "date": "2001-09-14",
           "precision": "day",
           "region": "",
           "city": "上海",
-          "venue": "八萬人體育場"
+          "venue": "八萬人體育場",
+          "lat": 31.1835,
+          "lon": 121.437278,
+          "geo": "venue"
         }
       ]
     },
@@ -232,14 +247,20 @@
           "precision": "day",
           "region": "",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         },
         {
           "date": "2002-08-31",
           "precision": "day",
           "region": "",
           "city": "香港",
-          "venue": "紅磡體育館"
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
         }
       ]
     },
@@ -271,14 +292,20 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北市立體育場"
+          "venue": "臺北市立體育場",
+          "lat": 25.049444,
+          "lon": 121.551111,
+          "geo": "venue"
         },
         {
           "date": "2003-07-11",
           "precision": "day",
           "region": "",
           "city": "新加坡",
-          "venue": "新達城"
+          "venue": "新達城",
+          "lat": 1.294722222222222,
+          "lon": 103.85888888888888,
+          "geo": "venue"
         }
       ]
     },
@@ -404,35 +431,50 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "臺北小巨蛋"
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
         },
         {
           "date": "2010-01-23",
           "precision": "day",
           "region": "",
           "city": "澳門",
-          "venue": "金光綜藝館"
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
         },
         {
           "date": "2010-09-04",
           "precision": "day",
           "region": "",
           "city": "新加坡",
-          "venue": "新加坡室內體育館"
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
         },
         {
           "date": "2010-12-18",
           "precision": "day",
           "region": "",
           "city": "上海",
-          "venue": "梅賽德斯-奔馳文化中心"
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
         },
         {
           "date": "2011-07-16",
           "precision": "day",
           "region": "",
           "city": "北京",
-          "venue": "五棵松體育館"
+          "venue": "五棵松體育館",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
         }
       ]
     },

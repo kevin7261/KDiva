@@ -1,0 +1,101 @@
+{
+  "slug": "huang-fei",
+  "fetchedAt": "2026-09-17T13:24:22.113Z",
+  "wiki": "黃妃",
+  "bio": {
+    "born": {
+      "date": "1974-07-13",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "姬情臺三線演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-11-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-05-04",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2017-11-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2018-05-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        },
+        {
+          "date": "2019-05-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": ""
+        }
+      ]
+    },
+    {
+      "name": "臺灣歌姬黃妃演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2025-12-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-12-27",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [],
+      "venues": [
+        "臺北國際會議中心"
+      ],
+      "shows": [
+        {
+          "date": "2025-12-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-12-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
+}

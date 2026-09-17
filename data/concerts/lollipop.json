@@ -1,0 +1,188 @@
+{
+  "slug": "lollipop",
+  "fetchedAt": "2026-09-17T13:24:35.810Z",
+  "wiki": "棒棒堂",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": {
+      "date": "2006-01-01",
+      "precision": "year"
+    },
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "臺北",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2008-01-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2008-01-26",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺北小巨蛋"
+      ],
+      "venues": [
+        "臺北小巨蛋"
+      ],
+      "shows": []
+    },
+    {
+      "name": "棒棒堂我是傳奇2009亞洲巡迴演唱會",
+      "page": "棒棒堂我是傳奇2009亞洲巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2009-07-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-07-05",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "香港",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2009-07-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-07-04",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "香港紅磡體育館"
+      ],
+      "venues": [
+        "香港紅磡體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "廣州",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2009-12-12",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-12-12",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "廣州體育館"
+      ],
+      "venues": [
+        "廣州體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "長沙",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2010-05-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-05-24",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "公安高等專科學校"
+      ],
+      "venues": [
+        "公安高等專科學校"
+      ],
+      "shows": []
+    },
+    {
+      "name": "雪梨",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2012-03-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-03-30",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "Home The Venue"
+      ],
+      "venues": [
+        "Home The Venue"
+      ],
+      "shows": []
+    },
+    {
+      "name": "墨爾本",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2012-03-31",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-03-31",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "BILLBOARD CHINATOWN"
+      ],
+      "venues": [
+        "BILLBOARD CHINATOWN"
+      ],
+      "shows": []
+    },
+    {
+      "name": "臺中",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2016-01-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2016-01-29",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺中Legacy"
+      ],
+      "venues": [
+        "臺中Legacy"
+      ],
+      "shows": []
+    }
+  ]
+}

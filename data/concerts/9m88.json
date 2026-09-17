@@ -1,6 +1,6 @@
 {
   "slug": "9m88",
-  "fetchedAt": "2026-09-17T12:31:24.556Z",
+  "fetchedAt": "2026-09-17T13:09:44.411Z",
   "wiki": "9m88",
   "bio": {
     "born": {
@@ -40,21 +40,30 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "永豐 Legacy Taipei 音樂展演空間"
+          "venue": "永豐 Legacy Taipei 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2020-11-27",
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "永豐 Legacy Taipei 音樂展演空間"
+          "venue": "永豐 Legacy Taipei 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         },
         {
           "date": "2020-11-29",
           "precision": "day",
           "region": "",
           "city": "高雄",
-          "venue": "LIVE WAREHOUSE"
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
         }
       ]
     },
@@ -84,7 +93,10 @@
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "Zepp New Taipei"
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
         }
       ]
     },
@@ -119,21 +131,30 @@
           "precision": "day",
           "region": "",
           "city": "臺中",
-          "venue": "Legacy Taichung"
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
         },
         {
           "date": "2025-01-12",
           "precision": "day",
           "region": "",
           "city": "臺北",
-          "venue": "Zepp New Taipei"
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
         },
         {
           "date": "2025-01-19",
           "precision": "day",
           "region": "",
           "city": "高雄",
-          "venue": "後臺 BackStage Live"
+          "venue": "後臺 BackStage Live",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
         },
         {
           "date": "2025-06-10",

@@ -1,6 +1,6 @@
 {
   "slug": "fish-leong",
-  "fetchedAt": "2026-09-17T12:29:46.985Z",
+  "fetchedAt": "2026-09-17T13:06:34.829Z",
   "wiki": "梁靜茹",
   "bio": {
     "born": {
@@ -38,7 +38,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": ""
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
         }
       ]
     },
@@ -70,7 +73,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "新北",
-          "venue": "淡水漁人碼頭"
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
         }
       ]
     },
@@ -102,7 +108,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "臺大綜合體育館"
+          "venue": "臺大綜合體育館",
+          "lat": 25.0216088,
+          "lon": 121.5351757,
+          "geo": "venue"
         }
       ]
     },
@@ -134,7 +143,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "忠孝復興站出口2"
+          "venue": "忠孝復興站出口2",
+          "lat": 25.041616666667,
+          "lon": 121.54377777778,
+          "geo": "venue"
         }
       ]
     },
@@ -166,7 +178,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "新北",
-          "venue": "淡水漁人碼頭"
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
         }
       ]
     },
@@ -198,7 +213,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "新北",
-          "venue": "淡水漁人碼頭"
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
         }
       ]
     },
@@ -230,7 +248,10 @@
           "precision": "day",
           "region": "臺灣",
           "city": "臺北",
-          "venue": "Legacy Taipei"
+          "venue": "Legacy Taipei",
+          "lat": 25.0446089,
+          "lon": 121.5291829,
+          "geo": "venue"
         }
       ]
     },
@@ -271,7 +292,10 @@
           "precision": "day",
           "region": "美國",
           "city": "洛杉磯",
-          "venue": "Shrine Auditorium"
+          "venue": "Shrine Auditorium",
+          "lat": 34.02333333333333,
+          "lon": -118.28166666666667,
+          "geo": "venue"
         }
       ]
     },
@@ -325,84 +349,120 @@
           "precision": "day",
           "region": "美國",
           "city": "康州",
-          "venue": "Mohegan Sun Arena"
+          "venue": "Mohegan Sun Arena",
+          "lat": 41.4911,
+          "lon": -72.0897,
+          "geo": "venue"
         },
         {
           "date": "2021-11-27",
           "precision": "day",
           "region": "美國",
           "city": "拉斯維加斯",
-          "venue": "拉斯維加斯永利-安可劇院"
+          "venue": "拉斯維加斯永利-安可劇院",
+          "lat": 36.16722222222222,
+          "lon": -115.14861111111111,
+          "geo": "city"
         },
         {
           "date": "2021-11-30",
           "precision": "day",
           "region": "美國",
           "city": "馬里蘭州",
-          "venue": "馬里蘭州美高梅-劇院"
+          "venue": "馬里蘭州美高梅-劇院",
+          "lat": 39,
+          "lon": -76.7,
+          "geo": "city"
         },
         {
           "date": "2024-01-16",
           "precision": "day",
           "region": "",
           "city": "倫敦",
-          "venue": "Arena Wembley"
+          "venue": "Arena Wembley",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
         },
         {
           "date": "2024-01-18",
           "precision": "day",
           "region": "",
           "city": "巴黎",
-          "venue": "Salle Pleyel"
+          "venue": "Salle Pleyel",
+          "lat": 48.85666666666667,
+          "lon": 2.352222222222222,
+          "geo": "city"
         },
         {
           "date": "2024-01-25",
           "precision": "day",
           "region": "",
           "city": "悉尼",
-          "venue": "The Star Event Centre"
+          "venue": "The Star Event Centre",
+          "lat": -33.867777777777775,
+          "lon": 151.21,
+          "geo": "city"
         },
         {
           "date": "2024-01-27",
           "precision": "day",
           "region": "",
           "city": "墨爾本",
-          "venue": "墨爾本會展中心"
+          "venue": "墨爾本會展中心",
+          "lat": -37.814166666666665,
+          "lon": 144.96305555555554,
+          "geo": "city"
         },
         {
           "date": "2024-01-30",
           "precision": "day",
           "region": "",
           "city": "奧克蘭",
-          "venue": "The Trusts Arena"
+          "venue": "The Trusts Arena",
+          "lat": -36.86,
+          "lon": 174.6362,
+          "geo": "venue"
         },
         {
           "date": "2025-03-24",
           "precision": "day",
           "region": "",
           "city": "溫哥華",
-          "venue": "Orpheum Theatre"
+          "venue": "Orpheum Theatre",
+          "lat": 49.27993,
+          "lon": -123.12057,
+          "geo": "venue"
         },
         {
           "date": "2025-03-26",
           "precision": "day",
           "region": "",
           "city": "多倫多",
-          "venue": "Meridian Hall"
+          "venue": "Meridian Hall",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
         },
         {
           "date": "2025-03-28",
           "precision": "day",
           "region": "美國",
           "city": "紐約",
-          "venue": "Kings Theatre"
+          "venue": "Kings Theatre",
+          "lat": 40.71277777777778,
+          "lon": -74.00611111111111,
+          "geo": "city"
         },
         {
           "date": "2025-03-31",
           "precision": "day",
           "region": "美國",
           "city": "洛杉磯",
-          "venue": "Dolby Theatre"
+          "venue": "Dolby Theatre",
+          "lat": 34.102777777778,
+          "lon": -118.34027777778,
+          "geo": "venue"
         }
       ]
     },
@@ -434,7 +494,10 @@
           "precision": "day",
           "region": "澳門",
           "city": "澳門",
-          "venue": "澳門上葡京禮堂"
+          "venue": "澳門上葡京禮堂",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
         }
       ]
     }

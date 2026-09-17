@@ -1,6 +1,6 @@
 {
   "slug": "kenji-wu",
-  "fetchedAt": "2026-09-17T12:30:06.623Z",
+  "fetchedAt": "2026-09-17T13:07:11.521Z",
   "wiki": "吳克群",
   "bio": {
     "born": {
@@ -143,6 +143,219 @@
         "糖果TANGO"
       ],
       "shows": []
+    },
+    {
+      "name": "銀河里擁抱 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-11-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-12-23",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "杭州",
+        "南京",
+        "上海",
+        "廣州"
+      ],
+      "venues": [
+        "大麥·66LiveHouse杭州",
+        "稻香大麥LiveHouse",
+        "MODERN SKY LAB",
+        "太空間LiveHouse"
+      ],
+      "shows": [
+        {
+          "date": "2022-11-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "大麥·66LiveHouse杭州",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2022-11-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "稻香大麥LiveHouse",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2022-12-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "MODERN SKY LAB",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2022-12-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "太空間LiveHouse",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "愛盡余生 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2023-03-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-06-02",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "深圳",
+        "成都",
+        "蘇州",
+        "佛山"
+      ],
+      "venues": [
+        "SoFun Live",
+        "ALIVE壹現場 Live House",
+        "陽澄文體中心",
+        "格萊美匯"
+      ],
+      "shows": [
+        {
+          "date": "2023-03-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "SoFun Live",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-04-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "ALIVE壹現場 Live House",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2023-05-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "蘇州",
+          "venue": "陽澄文體中心",
+          "lat": 31.3,
+          "lon": 120.61944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-06-02",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "佛山",
+          "venue": "格萊美匯",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "我們的冒險 巡迴演唱會 (進行中)",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-05-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-09-15",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "杭州",
+        "深圳",
+        "成都",
+        "大慶"
+      ],
+      "venues": [
+        "杭州奧體網球中心",
+        "寶安體育館",
+        "成都金融城演藝中心",
+        "大慶市體育館"
+      ],
+      "shows": [
+        {
+          "date": "2024-05-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "杭州奧體網球中心",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "寶安體育館",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "成都金融城演藝中心",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2024-09-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "大慶",
+          "venue": "大慶市體育館",
+          "lat": 46.59791,
+          "lon": 125.00798,
+          "geo": "city"
+        }
+      ]
     }
   ]
 }

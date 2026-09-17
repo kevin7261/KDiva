@@ -1,6 +1,6 @@
 {
   "slug": "gigi-leung",
-  "fetchedAt": "2026-09-17T12:29:19.627Z",
+  "fetchedAt": "2026-09-17T13:05:29.135Z",
   "wiki": "梁詠琪",
   "bio": {
     "born": {
@@ -11,5 +11,210 @@
     "formed": null,
     "disbanded": null
   },
-  "tours": []
+  "tours": [
+    {
+      "name": "個人巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2023-02-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-04-20",
+        "precision": "day"
+      },
+      "showCount": 17,
+      "regions": [],
+      "cities": [
+        "香港",
+        "中國大陸 廣州",
+        "中國大陸 東莞",
+        "中國大陸 深圳",
+        "中國大陸 上海",
+        "中國大陸 北京",
+        "中國大陸 南寧",
+        "中國大陸 佛山",
+        "中國大陸 重慶",
+        "馬來西亞 吉隆坡",
+        "澳門",
+        "中國大陸 成都",
+        "臺灣 臺北",
+        "中國大陸 南京",
+        "中國大陸 武漢",
+        "加拿大 多倫多",
+        "美國 拉斯維加斯"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2023-02-17",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        },
+        {
+          "date": "2023-08-05",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣州",
+          "venue": "",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2023-08-26",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 東莞",
+          "venue": "",
+          "lat": 23.04749,
+          "lon": 113.74928,
+          "geo": "city"
+        },
+        {
+          "date": "2023-09-03",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 深圳",
+          "venue": "",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-09-23",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2023-10-28",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 北京",
+          "venue": "",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-26",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 南寧",
+          "venue": "",
+          "lat": 22.81918,
+          "lon": 108.31501,
+          "geo": "city"
+        },
+        {
+          "date": "2023-12-02",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 佛山",
+          "venue": "",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
+        },
+        {
+          "date": "2023-12-09",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 重慶",
+          "venue": "",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-12-30",
+          "precision": "day",
+          "region": "",
+          "city": "馬來西亞 吉隆坡",
+          "venue": "",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        },
+        {
+          "date": "2024-03-23",
+          "precision": "day",
+          "region": "",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2024-03-30",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 成都",
+          "venue": "",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2024-04-13",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北",
+          "venue": ""
+        },
+        {
+          "date": "2024-05-04",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 南京",
+          "venue": "",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2024-05-11",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 武漢",
+          "venue": "",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2025-04-17",
+          "precision": "day",
+          "region": "",
+          "city": "加拿大 多倫多",
+          "venue": "",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2025-04-20",
+          "precision": "day",
+          "region": "",
+          "city": "美國 拉斯維加斯",
+          "venue": "",
+          "lat": 36.16722222222222,
+          "lon": -115.14861111111111,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
 }
