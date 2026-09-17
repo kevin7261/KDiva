@@ -860,9 +860,9 @@
       "releaseDateSource": "table",
       "wikiTitle": "張震嶽",
       "wikiKind": "studio",
+      "nameKey": "orange",
       "titleZh": "Orange",
-      "titleZhVariant": true,
-      "nameKey": "orange"
+      "titleZhVariant": true
     },
     {
       "browseId": "MPREb_OrQ7bof0riV",
@@ -956,8 +956,8 @@
       "releaseDateSource": "wikidata",
       "wikiTitle": "Orange 2",
       "wikiKind": null,
-      "titleZh": "ORANGE电子音乐专辑2",
-      "nameKey": "orange電子音樂專輯2"
+      "nameKey": "orange電子音樂專輯2",
+      "titleZh": "ORANGE电子音乐专辑2"
     },
     {
       "browseId": "MPREb_VbyYwDmdWEn",
@@ -1685,8 +1685,8 @@
       "releaseDateSource": "album-page",
       "wikiTitle": "OK (張震嶽專輯)",
       "wikiKind": null,
-      "titleZh": "OK（思念是一种病）",
-      "nameKey": "ok"
+      "nameKey": "ok",
+      "titleZh": "OK（思念是一种病）"
     },
     {
       "browseId": "MPREb_nmgWEZgOs5G",
@@ -1894,12 +1894,12 @@
           "playsText": "播放次數：208萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "跑車與坦克",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "跑車與坦克"
+          }
         },
         {
           "index": 2,
@@ -1910,12 +1910,12 @@
           "playsText": "播放次數：1132萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "破吉他",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "破吉他"
+          }
         },
         {
           "index": 3,
@@ -1926,12 +1926,12 @@
           "playsText": "播放次數：376萬",
           "duration": 238,
           "byOther": false,
+          "nameKey": "走慢一點點",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "走慢一點點"
+          }
         },
         {
           "index": 4,
@@ -1942,12 +1942,12 @@
           "playsText": "播放次數：164萬",
           "duration": 220,
           "byOther": false,
+          "nameKey": "先這樣吧",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "先這樣吧"
+          }
         },
         {
           "index": 5,
@@ -1958,12 +1958,12 @@
           "playsText": "播放次數：27萬",
           "duration": 207,
           "byOther": false,
+          "nameKey": "消失在你的世界裡",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "消失在你的世界裡"
+          }
         },
         {
           "index": 6,
@@ -1974,12 +1974,12 @@
           "playsText": "播放次數：46萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "唉唷喂呀",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "唉唷喂呀"
+          }
         },
         {
           "index": 7,
@@ -1990,12 +1990,12 @@
           "playsText": "播放次數：17萬",
           "duration": 236,
           "byOther": false,
+          "nameKey": "上班下班",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "上班下班"
+          }
         },
         {
           "index": 8,
@@ -2006,12 +2006,12 @@
           "playsText": "播放次數：201萬",
           "duration": 246,
           "byOther": false,
+          "nameKey": "我家門前有大海",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "我家門前有大海"
+          }
         },
         {
           "index": 9,
@@ -2022,12 +2022,12 @@
           "playsText": "播放次數：69萬",
           "duration": 200,
           "byOther": false,
+          "nameKey": "別哭小女孩",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "別哭小女孩"
+          }
         },
         {
           "index": 10,
@@ -2038,12 +2038,12 @@
           "playsText": "播放次數：625萬",
           "duration": 268,
           "byOther": false,
+          "nameKey": "抱著你",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "抱著你"
+          }
         },
         {
           "index": 11,
@@ -2054,12 +2054,12 @@
           "playsText": "播放次數：126萬",
           "duration": 300,
           "byOther": false,
+          "nameKey": "無名的情歌",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "張震嶽"
-          },
-          "nameKey": "無名的情歌"
+          }
         }
       ],
       "releaseDate": "2013-07-05",
@@ -2198,9 +2198,9 @@
           "playsText": "播放次數：649",
           "duration": 209,
           "byOther": true,
+          "nameKey": "誰是mvp#live",
           "titleZh": "誰是MVP (Live)",
-          "titleZhVariant": true,
-          "nameKey": "誰是mvp#live"
+          "titleZhVariant": true
         },
         {
           "index": 3,
