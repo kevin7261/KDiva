@@ -2618,87 +2618,6 @@
       "nameKey": "迷"
     },
     {
-      "browseId": "MPREb_Vqg80uGKAY3",
-      "playlistId": "OLAK5uy_kzdX30JxtIbFBQXWnizpm5D0z4zrJxwU4",
-      "title": "菲碟",
-      "albumArtist": "王菲",
-      "type": "EP",
-      "year": 2009,
-      "thumbnail": "https://yt3.googleusercontent.com/PTfuP_DIrVh6trhTxTozgPw9Vya7MSujHifKUWiaIj2L4vn6bSnIVuDDsBb5pClhXOJXQzYXo6cCNRA=w544-h544-s-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "回憶是紅色天空",
-          "artists": "王菲",
-          "videoId": "erKB8oDeJKo",
-          "plays": 230000,
-          "playsText": "播放次數：23萬",
-          "duration": 254,
-          "byOther": false,
-          "nameKey": "回憶是紅色天空",
-          "credits": {
-            "lyrics": "陳少琪",
-            "music": "梁榮駿",
-            "arranger": "C.Y. Kong、Adrian Chan"
-          }
-        },
-        {
-          "index": 2,
-          "title": "只有我自己",
-          "artists": "王菲",
-          "videoId": "GXf_gWVhoB4",
-          "plays": 150000,
-          "playsText": "播放次數：15萬",
-          "duration": 207,
-          "byOther": false,
-          "nameKey": "只有我自己",
-          "credits": {
-            "lyrics": "林夕",
-            "music": "林敏怡",
-            "arranger": "林敏怡"
-          }
-        },
-        {
-          "index": 3,
-          "title": "冷戰",
-          "artists": "王菲",
-          "videoId": "XuTbOEJ3U0c",
-          "plays": 800000,
-          "playsText": "播放次數：80萬",
-          "duration": 251,
-          "byOther": false,
-          "nameKey": "冷戰",
-          "credits": {
-            "lyrics": "Michael",
-            "music": "Tori Amos",
-            "arranger": "Tony A"
-          }
-        },
-        {
-          "index": 4,
-          "title": "只因喜歡Faye",
-          "artists": "軟硬 和 王菲",
-          "videoId": "14Vc3rT8ErM",
-          "plays": 100000,
-          "playsText": "播放次數：10萬",
-          "duration": 232,
-          "byOther": false,
-          "nameKey": "只因喜歡faye",
-          "credits": {
-            "lyrics": "鄭國江",
-            "music": "陳復明",
-            "arranger": "C.Y. Kong"
-          }
-        }
-      ],
-      "releaseDate": "1994-05-01",
-      "releaseDatePrecision": "month",
-      "releaseDateSource": "table",
-      "wikiTitle": "王菲得獎與提名列表",
-      "wikiKind": "single",
-      "nameKey": "菲碟"
-    },
-    {
       "browseId": "MPREb_7WwAte1c4Mm",
       "playlistId": "OLAK5uy_nRv7bOeJWQ-YKO2Rb-z5Q0K5usJA7g5_A",
       "title": "Hu Si Luan Xiang",
@@ -5388,7 +5307,12 @@
           "playsText": "播放次數：599",
           "duration": 94,
           "byOther": false,
-          "nameKey": "奈何"
+          "nameKey": "奈何",
+          "credits": {
+            "lyrics": "李達濤",
+            "music": "李達濤",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 18,
@@ -5399,7 +5323,12 @@
           "playsText": "播放次數：959",
           "duration": 84,
           "byOther": false,
-          "nameKey": "又見炊煙"
+          "nameKey": "又見炊煙",
+          "credits": {
+            "lyrics": "莊奴",
+            "music": "海沼實",
+            "arranger": "Adrian Chan"
+          }
         },
         {
           "index": 19,
@@ -5410,7 +5339,12 @@
           "playsText": "播放次數：1287",
           "duration": 65,
           "byOther": false,
-          "nameKey": "黃昏裡"
+          "nameKey": "黃昏裡",
+          "credits": {
+            "lyrics": "林煌坤",
+            "music": "井上忠夫",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 20,
@@ -5453,7 +5387,12 @@
           "playsText": "播放次數：508",
           "duration": 89,
           "byOther": false,
-          "nameKey": "原鄉情濃"
+          "nameKey": "原鄉情濃",
+          "credits": {
+            "lyrics": "黃河",
+            "music": "翁清溪",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 23,
@@ -5480,7 +5419,12 @@
           "playsText": "播放次數：574",
           "duration": 99,
           "byOther": false,
-          "nameKey": "君心我心"
+          "nameKey": "君心我心",
+          "credits": {
+            "lyrics": "林煌坤",
+            "music": "安蒂",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 25,
@@ -5491,7 +5435,12 @@
           "playsText": "播放次數：873",
           "duration": 82,
           "byOther": false,
-          "nameKey": "南海姑娘"
+          "nameKey": "南海姑娘",
+          "credits": {
+            "lyrics": "陳藝華",
+            "music": "陳藝華",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 26,
@@ -5533,7 +5482,12 @@
           "playsText": "播放次數：967",
           "duration": 89,
           "byOther": false,
-          "nameKey": "假如我是眞的"
+          "nameKey": "假如我是眞的",
+          "credits": {
+            "lyrics": "莊奴",
+            "music": "欣逸",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 29,
@@ -5760,7 +5714,12 @@
           "playsText": "播放次數：17萬",
           "duration": 198,
           "byOther": false,
-          "nameKey": "黃昏裡"
+          "nameKey": "黃昏裡",
+          "credits": {
+            "lyrics": "林煌坤",
+            "music": "井上忠夫",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 14,
@@ -6850,7 +6809,12 @@
           "playsText": "播放次數：89萬",
           "duration": 186,
           "byOther": false,
-          "nameKey": "南海姑娘"
+          "nameKey": "南海姑娘",
+          "credits": {
+            "lyrics": "陳藝華",
+            "music": "陳藝華",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 12,
@@ -6925,7 +6889,12 @@
           "playsText": "播放次數：16萬",
           "duration": 214,
           "byOther": false,
-          "nameKey": "初戀的地方"
+          "nameKey": "初戀的地方",
+          "credits": {
+            "lyrics": "孫儀",
+            "music": "劉家昌",
+            "arranger": "Adrian Chan"
+          }
         }
       ],
       "releaseDate": "2001-11-16",
@@ -8857,7 +8826,12 @@
           "playsText": "播放次數：29萬",
           "duration": 241,
           "byOther": false,
-          "nameKey": "君心我心"
+          "nameKey": "君心我心",
+          "credits": {
+            "lyrics": "林煌坤",
+            "music": "安蒂",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 5,
@@ -8868,7 +8842,12 @@
           "playsText": "播放次數：16萬",
           "duration": 217,
           "byOther": false,
-          "nameKey": "初戀的地方"
+          "nameKey": "初戀的地方",
+          "credits": {
+            "lyrics": "孫儀",
+            "music": "劉家昌",
+            "arranger": "Adrian Chan"
+          }
         },
         {
           "index": 6,
@@ -8879,7 +8858,12 @@
           "playsText": "播放次數：89萬",
           "duration": 189,
           "byOther": false,
-          "nameKey": "南海姑娘"
+          "nameKey": "南海姑娘",
+          "credits": {
+            "lyrics": "陳藝華",
+            "music": "陳藝華",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 7,
@@ -8890,7 +8874,12 @@
           "playsText": "播放次數：79萬",
           "duration": 180,
           "byOther": false,
-          "nameKey": "假如我是眞的"
+          "nameKey": "假如我是眞的",
+          "credits": {
+            "lyrics": "莊奴",
+            "music": "欣逸",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 8,
@@ -8901,7 +8890,12 @@
           "playsText": "播放次數：11萬",
           "duration": 222,
           "byOther": false,
-          "nameKey": "翠湖寒"
+          "nameKey": "翠湖寒",
+          "credits": {
+            "lyrics": "孫儀",
+            "music": "駱明道",
+            "arranger": "Adrian Chan"
+          }
         },
         {
           "index": 9,
@@ -8912,7 +8906,12 @@
           "playsText": "播放次數：17萬",
           "duration": 198,
           "byOther": false,
-          "nameKey": "黃昏裡"
+          "nameKey": "黃昏裡",
+          "credits": {
+            "lyrics": "林煌坤",
+            "music": "井上忠夫",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 10,
@@ -8923,7 +8922,12 @@
           "playsText": "播放次數：25萬",
           "duration": 228,
           "byOther": false,
-          "nameKey": "奈何"
+          "nameKey": "奈何",
+          "credits": {
+            "lyrics": "李達濤",
+            "music": "李達濤",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 11,
@@ -8934,7 +8938,12 @@
           "playsText": "播放次數：23萬",
           "duration": 220,
           "byOther": false,
-          "nameKey": "一個小心願"
+          "nameKey": "一個小心願",
+          "credits": {
+            "lyrics": "陳雲山",
+            "music": "鈴木邦彥",
+            "arranger": "Adrian Chan"
+          }
         },
         {
           "index": 12,
@@ -8945,7 +8954,12 @@
           "playsText": "播放次數：126萬",
           "duration": 219,
           "byOther": false,
-          "nameKey": "又見炊煙"
+          "nameKey": "又見炊煙",
+          "credits": {
+            "lyrics": "莊奴",
+            "music": "海沼實",
+            "arranger": "Adrian Chan"
+          }
         },
         {
           "index": 13,
@@ -8956,7 +8970,12 @@
           "playsText": "播放次數：7.7萬",
           "duration": 194,
           "byOther": false,
-          "nameKey": "原鄉情濃"
+          "nameKey": "原鄉情濃",
+          "credits": {
+            "lyrics": "黃河",
+            "music": "翁清溪",
+            "arranger": "Alex San"
+          }
         }
       ],
       "releaseDate": null,
@@ -9347,12 +9366,7 @@
           "playsText": "播放次數：10萬",
           "duration": 233,
           "byOther": false,
-          "nameKey": "只因喜歡faye",
-          "credits": {
-            "lyrics": "鄭國江",
-            "music": "陳復明",
-            "arranger": "C.Y. Kong"
-          }
+          "nameKey": "只因喜歡faye"
         },
         {
           "index": 26,
@@ -9467,6 +9481,82 @@
       "wikiTitle": "王菲音樂作品列表",
       "wikiKind": "compilation",
       "nameKey": "阿菲正傳"
+    },
+    {
+      "browseId": "MPREb_Vqg80uGKAY3",
+      "playlistId": "OLAK5uy_kzdX30JxtIbFBQXWnizpm5D0z4zrJxwU4",
+      "title": "菲碟",
+      "albumArtist": "王菲",
+      "type": "EP",
+      "year": 2009,
+      "thumbnail": "https://yt3.googleusercontent.com/PTfuP_DIrVh6trhTxTozgPw9Vya7MSujHifKUWiaIj2L4vn6bSnIVuDDsBb5pClhXOJXQzYXo6cCNRA=w544-h544-s-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "回憶是紅色天空",
+          "artists": "王菲",
+          "videoId": "erKB8oDeJKo",
+          "plays": 230000,
+          "playsText": "播放次數：23萬",
+          "duration": 254,
+          "byOther": false,
+          "nameKey": "回憶是紅色天空",
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "梁榮駿",
+            "arranger": "C.Y. Kong、Adrian Chan"
+          }
+        },
+        {
+          "index": 2,
+          "title": "只有我自己",
+          "artists": "王菲",
+          "videoId": "GXf_gWVhoB4",
+          "plays": 150000,
+          "playsText": "播放次數：15萬",
+          "duration": 207,
+          "byOther": false,
+          "nameKey": "只有我自己",
+          "credits": {
+            "lyrics": "林夕",
+            "music": "林敏怡",
+            "arranger": "林敏怡"
+          }
+        },
+        {
+          "index": 3,
+          "title": "冷戰",
+          "artists": "王菲",
+          "videoId": "XuTbOEJ3U0c",
+          "plays": 800000,
+          "playsText": "播放次數：80萬",
+          "duration": 251,
+          "byOther": false,
+          "nameKey": "冷戰",
+          "credits": {
+            "lyrics": "Michael",
+            "music": "Tori Amos",
+            "arranger": "Tony A"
+          }
+        },
+        {
+          "index": 4,
+          "title": "只因喜歡Faye",
+          "artists": "軟硬 和 王菲",
+          "videoId": "14Vc3rT8ErM",
+          "plays": 100000,
+          "playsText": "播放次數：10萬",
+          "duration": 232,
+          "byOther": false,
+          "nameKey": "只因喜歡faye"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "菲碟"
     },
     {
       "browseId": "MPREb_IfNDzArcFXr",
@@ -9986,7 +10076,12 @@
           "playsText": "播放次數：79萬",
           "duration": 182,
           "byOther": false,
-          "nameKey": "假如我是眞的"
+          "nameKey": "假如我是眞的",
+          "credits": {
+            "lyrics": "莊奴",
+            "music": "欣逸",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 11,
@@ -9997,7 +10092,12 @@
           "playsText": "播放次數：23萬",
           "duration": 224,
           "byOther": false,
-          "nameKey": "一個小心願"
+          "nameKey": "一個小心願",
+          "credits": {
+            "lyrics": "陳雲山",
+            "music": "鈴木邦彥",
+            "arranger": "Adrian Chan"
+          }
         },
         {
           "index": 12,
@@ -10024,7 +10124,12 @@
           "playsText": "播放次數：25萬",
           "duration": 231,
           "byOther": false,
-          "nameKey": "奈何"
+          "nameKey": "奈何",
+          "credits": {
+            "lyrics": "李達濤",
+            "music": "李達濤",
+            "arranger": "Alex San"
+          }
         },
         {
           "index": 14,
@@ -10564,12 +10669,7 @@
           "playsText": "播放次數：10萬",
           "duration": 234,
           "byOther": false,
-          "nameKey": "只因喜歡faye",
-          "credits": {
-            "lyrics": "鄭國江",
-            "music": "陳復明",
-            "arranger": "C.Y. Kong"
-          }
+          "nameKey": "只因喜歡faye"
         },
         {
           "index": 10,
