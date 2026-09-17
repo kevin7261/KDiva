@@ -384,7 +384,10 @@
           "playsText": "播放次數：567萬",
           "duration": 239,
           "byOther": false,
-          "nameKey": "蝸牛"
+          "nameKey": "蝸牛",
+          "credits": {
+            "lyrics": "周杰倫"
+          }
         },
         {
           "index": 2,
@@ -395,7 +398,10 @@
           "playsText": "播放次數：614萬",
           "duration": 203,
           "byOther": false,
-          "nameKey": "你比從前快樂"
+          "nameKey": "你比從前快樂",
+          "credits": {
+            "lyrics": "方文山"
+          }
         },
         {
           "index": 3,
@@ -406,7 +412,10 @@
           "playsText": "播放次數：1964萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "世界末日"
+          "nameKey": "世界末日",
+          "credits": {
+            "lyrics": "周杰倫"
+          }
         }
       ],
       "releaseDate": "2001-09-14",
@@ -862,7 +871,10 @@
           "playsText": "播放次數：232萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "你怎麼連話都說不清楚"
+          "nameKey": "你怎麼連話都說不清楚",
+          "credits": {
+            "lyrics": "毛毛"
+          }
         },
         {
           "index": 18,
@@ -1422,7 +1434,10 @@
           "playsText": "播放次數：460萬",
           "duration": 218,
           "byOther": false,
-          "nameKey": "瓦解"
+          "nameKey": "瓦解",
+          "credits": {
+            "lyrics": "宋健彰"
+          }
         },
         {
           "index": 17,
@@ -1460,7 +1475,10 @@
           "playsText": "播放次數：697萬",
           "duration": 277,
           "byOther": false,
-          "nameKey": "倒帶"
+          "nameKey": "倒帶",
+          "credits": {
+            "lyrics": "方文山"
+          }
         },
         {
           "index": 20,
@@ -1892,9 +1910,9 @@
           "byOther": false,
           "nameKey": "珊瑚海",
           "credits": {
-            "lyrics": "* 作詞:方文山、* 作曲:周杰倫、* 編曲:鐘興民、||、* 製作人：周杰倫、* 女聲：Lara(南拳媽媽)、* 吉他：蔡科俊Again、* 貝斯：陳任佑、* 鼓：陳伯州、* 弦樂編寫：鐘興民、* 弦樂：北京愛樂、* Programmer：魏百謙、* 錄音工程：楊瑞代、戴健宇、* 錄音室：ALFA STUDIO、楊大緯錄音工作室、* 混音工程：楊大緯、* 混音錄音室：楊大緯錄音工作室、|| 與南拳媽媽Lara合唱",
+            "lyrics": "* 作詞:方文山、* 作曲:周杰倫、* 編曲:鐘興民、||、* 製作人：周杰倫、* 女聲：Lara、* 吉他：蔡科俊Again、* 貝斯：陳任佑、* 鼓：陳伯州、* 弦樂編寫：鐘興民、* 弦樂：北京愛樂、* Programmer：魏百謙、* 錄音工程：楊瑞代、戴健宇、* 錄音室：ALFA STUDIO、楊大緯錄音工作室、* 混音工程：楊大緯、* 混音錄音室：楊大緯錄音工作室、|| 與南拳媽媽Lara合唱",
             "music": "10",
-            "arranger": "* 作詞:方文山、* 作曲:周杰倫、* 編曲:鐘興民、||、* 製作人：周杰倫、* 女聲：Lara(南拳媽媽)、* 吉他：蔡科俊Again、* 貝斯：陳任佑、* 鼓：陳伯州、* 弦樂編寫：鐘興民、* 弦樂：北京愛樂、* Programmer：魏百謙、* 錄音工程：楊瑞代、戴健宇、* 錄音室：ALFA STUDIO、楊大緯錄音工作室、* 混音工程：楊大緯、* 混音錄音室：楊大緯錄音工作室、|| 與南拳媽媽Lara合唱"
+            "arranger": "* 作詞:方文山、* 作曲:周杰倫、* 編曲:鐘興民、||、* 製作人：周杰倫、* 女聲：Lara、* 吉他：蔡科俊Again、* 貝斯：陳任佑、* 鼓：陳伯州、* 弦樂編寫：鐘興民、* 弦樂：北京愛樂、* Programmer：魏百謙、* 錄音工程：楊瑞代、戴健宇、* 錄音室：ALFA STUDIO、楊大緯錄音工作室、* 混音工程：楊大緯、* 混音錄音室：楊大緯錄音工作室、|| 與南拳媽媽Lara合唱"
           }
         },
         {
@@ -2520,7 +2538,10 @@
           "playsText": "播放次數：213萬",
           "duration": 152,
           "byOther": true,
-          "nameKey": "晴天娃娃"
+          "nameKey": "晴天娃娃",
+          "credits": {
+            "lyrics": "周杰倫"
+          }
         },
         {
           "index": 12,
@@ -3789,7 +3810,10 @@
           "playsText": "播放次數：30萬",
           "duration": 236,
           "byOther": false,
-          "nameKey": "想你就寫信"
+          "nameKey": "想你就寫信",
+          "credits": {
+            "lyrics": "方文山"
+          }
         },
         {
           "index": 11,
@@ -5700,7 +5724,7 @@
           "byOther": false,
           "nameKey": "不愛我就拉倒",
           "credits": {
-            "lyrics": "周杰倫、宋健彰(彈頭)",
+            "lyrics": "周杰倫、宋健彰",
             "music": "周杰倫",
             "arranger": "陳思翰"
           }
@@ -5857,9 +5881,7 @@
           "byOther": false,
           "nameKey": "美人魚",
           "credits": {
-            "lyrics": "羅宇軒/黃婕熙",
-            "music": "周杰倫",
-            "arranger": "林邁可"
+            "lyrics": "徐若瑄"
           }
         },
         {
@@ -6306,7 +6328,7 @@
           "byOther": false,
           "nameKey": "不愛我就拉倒",
           "credits": {
-            "lyrics": "周杰倫、宋健彰(彈頭)",
+            "lyrics": "周杰倫、宋健彰",
             "music": "周杰倫",
             "arranger": "陳思翰"
           }

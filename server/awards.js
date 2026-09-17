@@ -11,6 +11,8 @@ const WORK_HEAD = /入圍作品|入圍專輯|入圍歌曲|入圍單曲|作品|�
 
 const plain = (raw) =>
   nameToTW(toPlain(String(raw ?? '').replace(/\[\[(?:File|Image|檔案|文件):[^\]]*\]\]/gi, '')))
+    // 連結殘留：「《0 (專輯)|0》」→「《0》」
+    .replace(/《[^》|]*\|/g, '《')
     .split('\n')
     .map((s) => s.trim())
     .filter(Boolean)

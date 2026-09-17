@@ -526,7 +526,7 @@ h1 {
 .axis {
   position: sticky;
   top: 0;
-  z-index: 3;
+  z-index: 4;
   display: flex;
   height: 30px;
   background: var(--surface);
@@ -535,7 +535,7 @@ h1 {
 .corner {
   position: sticky;
   left: 0;
-  z-index: 1;
+  z-index: 1; /* 在 .axis 之內即可 */
   flex: none;
   width: var(--label-w);
   padding: 6px 12px;
@@ -590,7 +590,8 @@ h1 {
 .name {
   position: sticky;
   left: 0;
-  z-index: 2;
+  /* 要蓋在標記上面（標記 z-index 2） */
+  z-index: 3;
   flex: none;
   width: var(--label-w);
   display: flex;

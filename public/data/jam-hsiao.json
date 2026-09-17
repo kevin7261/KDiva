@@ -48,7 +48,6 @@
           "byOther": false,
           "nameKey": "王子的新衣",
           "credits": {
-            "lyrics": "Andreas Hemmeth、Linnéa Handberg、改編詞：陳鎮川",
             "music": "Andreas Hemmeth、Linnéa Handberg",
             "arranger": "Derek Chua"
           }
@@ -114,7 +113,7 @@
           "credits": {
             "lyrics": "吳青峰",
             "music": "吳青峰",
-            "arranger": "阿滾（動靜音樂）"
+            "arranger": "阿滾"
           }
         },
         {
@@ -424,7 +423,7 @@
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "黃雨勳（夢想之翼）"
+            "arranger": "黃雨勳"
           }
         },
         {
@@ -905,7 +904,7 @@
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "黃雨勳（夢想之翼）"
+            "arranger": "黃雨勳"
           },
           "titleZh": "阿飛的小蝴蝶 (臺南Live巡迴版)",
           "titleZhVariant": true
@@ -922,8 +921,7 @@
           "nameKey": "寂寞還是你#live",
           "credits": {
             "lyrics": "蕭敬騰",
-            "music": "蕭敬騰",
-            "arranger": "陳懷恩"
+            "music": "個人首次發表的全詞曲創作歌曲、2008年配合手機HTC Touch Viva上市採取隨貨附贈單曲CD"
           },
           "titleZh": "寂寞還是你 (臺南Live巡迴版)",
           "titleZhVariant": true
@@ -1373,7 +1371,7 @@
           "byOther": false,
           "nameKey": "狂想曲",
           "credits": {
-            "lyrics": "天天（梁鴻斌）",
+            "lyrics": "天天",
             "music": "李偲菘",
             "arranger": "Martin Tang"
           }
@@ -1609,7 +1607,7 @@
           "byOther": false,
           "nameKey": "狂想曲",
           "credits": {
-            "lyrics": "天天（梁鴻斌）",
+            "lyrics": "天天",
             "music": "李偲菘",
             "arranger": "Martin Tang"
           }
@@ -3038,8 +3036,7 @@
           "nameKey": "到不了的地方",
           "credits": {
             "lyrics": "李鼎、潘柏希",
-            "music": "V.K克",
-            "arranger": "V.K克"
+            "music": "V.K克"
           }
         }
       ],
@@ -3248,7 +3245,11 @@
           "playsText": "播放次數：179萬",
           "duration": 332,
           "byOther": false,
-          "nameKey": "天敵"
+          "nameKey": "天敵",
+          "credits": {
+            "lyrics": "林夕",
+            "music": "蕭敬騰、阿火"
+          }
         }
       ],
       "releaseDate": "2014-09-01",
@@ -3276,7 +3277,11 @@
           "playsText": "播放次數：6.3萬",
           "duration": 233,
           "byOther": false,
-          "nameKey": "rockko"
+          "nameKey": "rockko",
+          "credits": {
+            "lyrics": "蕭敬騰",
+            "music": "手機遊戲電玩主題曲。"
+          }
         }
       ],
       "releaseDate": "2015-03-01",
@@ -3518,8 +3523,7 @@
           "nameKey": "皮囊",
           "credits": {
             "lyrics": "曲世聰",
-            "music": "曲世聰",
-            "arranger": "曲世聰、宋睿"
+            "music": "韓劇「我的維納斯」、「主君的面具」片尾曲、「燦爛的守護神－鬼怪」片頭曲"
           }
         }
       ],
@@ -3550,9 +3554,7 @@
           "byOther": false,
           "nameKey": "讓我為你唱情歌",
           "credits": {
-            "lyrics": "阿火",
-            "music": "阿火",
-            "arranger": "生命樹_小王子"
+            "lyrics": "阿火"
           }
         }
       ],
@@ -3583,9 +3585,7 @@
           "byOther": false,
           "nameKey": "你會在哪呢",
           "credits": {
-            "lyrics": "阿火",
-            "music": "阿火",
-            "arranger": "Terence Teo"
+            "lyrics": "阿火"
           }
         }
       ],
@@ -3616,9 +3616,7 @@
           "byOther": false,
           "nameKey": "全是愛",
           "credits": {
-            "lyrics": "吳青峰",
-            "music": "吳青峰",
-            "arranger": "于京延"
+            "lyrics": "吳青峰"
           }
         }
       ],
@@ -3650,8 +3648,7 @@
           "nameKey": "王妃20",
           "credits": {
             "lyrics": "陳鎮川",
-            "music": "李偲菘",
-            "arranger": "Martin Tang"
+            "music": "李偲菘"
           }
         }
       ],
@@ -3934,6 +3931,10 @@
           "duration": 240,
           "byOther": false,
           "nameKey": "鬥羅大陸",
+          "credits": {
+            "lyrics": "曹德智",
+            "music": "力Q"
+          },
           "titleZh": "鬥羅大陸 (動畫網路劇 \"鬥羅大陸\" 主題曲)",
           "titleZhVariant": true
         }
@@ -4019,7 +4020,11 @@
           "playsText": "播放次數：43萬",
           "duration": 199,
           "byOther": false,
-          "nameKey": "hauntingme"
+          "nameKey": "hauntingme",
+          "credits": {
+            "lyrics": "鄭慧文",
+            "music": "黃偉恆"
+          }
         }
       ],
       "releaseDate": "2019-03-09",
@@ -4047,7 +4052,11 @@
           "playsText": "播放次數：3.1萬",
           "duration": 318,
           "byOther": false,
-          "nameKey": "浮生"
+          "nameKey": "浮生",
+          "credits": {
+            "lyrics": "鄒強",
+            "music": "LeeQ"
+          }
         }
       ],
       "releaseDate": "2019-06-26",
@@ -4075,7 +4084,11 @@
           "playsText": "播放次數：6.5萬",
           "duration": 184,
           "byOther": false,
-          "nameKey": "別認慫"
+          "nameKey": "別認慫",
+          "credits": {
+            "lyrics": "七火楊",
+            "music": "欒卓忻"
+          }
         }
       ],
       "releaseDate": "2019-12-02",
@@ -4103,7 +4116,11 @@
           "playsText": "播放次數：2.4萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "亡羊"
+          "nameKey": "亡羊",
+          "credits": {
+            "lyrics": "樓南蔚",
+            "music": "鍾興民"
+          }
         }
       ],
       "releaseDate": "2019-12-12",
@@ -4131,7 +4148,11 @@
           "playsText": "播放次數：173萬",
           "duration": 278,
           "byOther": false,
-          "nameKey": "hello"
+          "nameKey": "hello",
+          "credits": {
+            "lyrics": "奶六",
+            "music": "蕭敬騰／林俊傑"
+          }
         }
       ],
       "releaseDate": "2020-04-24",
@@ -4159,7 +4180,11 @@
           "playsText": "播放次數：1190萬",
           "duration": 283,
           "byOther": false,
-          "nameKey": "猴籠"
+          "nameKey": "猴籠",
+          "credits": {
+            "lyrics": "奶六",
+            "music": "Tones and I"
+          }
         }
       ],
       "releaseDate": "2020-06-09",
@@ -4189,7 +4214,7 @@
           "byOther": false,
           "nameKey": "薩哈星球",
           "credits": {
-            "lyrics": "奶六/阿火",
+            "lyrics": "奶六",
             "music": "蕭敬騰"
           }
         }
@@ -4247,7 +4272,11 @@
           "playsText": "播放次數：201萬",
           "duration": 177,
           "byOther": false,
-          "nameKey": "禁愛條款"
+          "nameKey": "禁愛條款",
+          "credits": {
+            "lyrics": "Jung Yong Hwa、Simon Petrén",
+            "music": "Jung Yong Hwa、Simon Petrén / SA:Presto'C、溫小孚"
+          }
         }
       ],
       "releaseDate": "2021-06-22",
@@ -4528,7 +4557,10 @@
           "playsText": "播放次數：6萬",
           "duration": 488,
           "byOther": false,
-          "nameKey": "陽光燦爛的日子"
+          "nameKey": "陽光燦爛的日子",
+          "credits": {
+            "lyrics": "蕭敬騰"
+          }
         }
       ],
       "releaseDate": "2022-04-15",
@@ -4556,7 +4588,11 @@
           "playsText": "播放次數：11萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "mytiffany"
+          "nameKey": "mytiffany",
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "金培達"
+          }
         }
       ],
       "releaseDate": "2022-09-16",
@@ -4584,7 +4620,11 @@
           "playsText": "播放次數：29萬",
           "duration": 212,
           "byOther": false,
-          "nameKey": "銀河星艦"
+          "nameKey": "銀河星艦",
+          "credits": {
+            "lyrics": "金田",
+            "music": "蕭敬騰"
+          }
         }
       ],
       "releaseDate": "2022-12-24",
@@ -4642,7 +4682,11 @@
           "playsText": "播放次數：5.5萬",
           "duration": 206,
           "byOther": false,
-          "nameKey": "全世界在等你"
+          "nameKey": "全世界在等你",
+          "credits": {
+            "lyrics": "崔道寧",
+            "music": "蕭敬騰"
+          }
         }
       ],
       "releaseDate": "2023-02-10",
@@ -5130,7 +5174,11 @@
           "playsText": "播放次數：9萬",
           "duration": 184,
           "byOther": false,
-          "nameKey": "流浪流浪就好"
+          "nameKey": "流浪流浪就好",
+          "credits": {
+            "lyrics": "金田",
+            "music": "金田"
+          }
         }
       ],
       "releaseDate": "2026-07-17",

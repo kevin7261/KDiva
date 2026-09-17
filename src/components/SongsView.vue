@@ -125,8 +125,8 @@ function exportCsv() {
           <td class="num col-rank muted">{{ s.rank }}</td>
           <td class="col-name" v-tip="[s.name, ...creditLines(s.credits), ...(s.manual ? ['來源：YouTube 影片觀看次數'] : [])]">
             <a v-if="s.videoId" :href="songUrl(s)" target="_blank" rel="noopener">{{ s.name }}</a>
-            <span v-if="s.manual" class="tag yt">YouTube 影片</span>
             <span v-else>{{ s.name }}</span>
+            <span v-if="s.manual" class="tag yt">YouTube 影片</span>
             <div v-if="s.alt" class="muted small">{{ s.alt }}</div>
           </td>
           <td class="col-album">

@@ -100,6 +100,7 @@ export const ARTISTS = [
   { slug: 'pigheadskin', group: 'male', lang: 'tw', name: '豬頭皮', en: 'Pigheadskin', debut: '1991-05-20', channelId: 'UCRaPTvBgwDSiti-Hfag2qKQ', wiki: '朱約信', aliases: ['朱約信', '朱頭皮', '豬頭皮(朱約信)'] },
   { slug: 'wu-bai-china-blue', group: 'group', lang: 'tw', name: '伍佰 & China Blue', en: 'Wu Bai & China Blue', debut: '1992', channelId: 'UC4caKr9lsFefEUqb_dmpEvA', wiki: '伍佰&China Blue', aliases: ['伍佰', 'Wu Bai'] },
   { slug: 'michael-shih', group: 'male', lang: 'tw', name: '施文彬', en: 'Michael Shih', debut: '1992', channelId: 'UCmdxlN0Fe-7f634tS9VDU2w', wiki: '施文彬' },
+  { slug: 'new-formosa', group: 'group', lang: 'tw', name: '新寶島康樂隊', en: 'New Formosa Band', debut: '1992', channelId: 'UCdXwSBaUUPejQCZZMLEtP1A', wiki: '新寶島康樂隊', aliases: ['新宝岛康乐队', 'New Formosa Entertainment Troupe'], members: ['陳昇', '黃連煜', '阿Von', '陳世隆'] },
   { slug: 'karen-mok', group: 'female', name: '莫文蔚', en: 'Karen Mok', debut: '1993', channelId: 'UChrwddvlCf1df9skygWPA6g', wiki: '莫文蔚' },
   { slug: 'zhang-yu', group: 'male', name: '張宇', en: 'Zhang Yu', debut: '1993', channelId: 'UCEbTPcxFJ_fc6dOOBn2fFFg', wiki: '張宇' },
   { slug: 'kit-chan', group: 'female', name: '陳潔儀', en: 'Kit Chan', debut: '1993-10', channelId: 'UCLSP2UDrV_eQwVRMNGi5HAw', extraChannelIds: ['UCslMhK8rYXLVVTJRF-fH0hA'], wiki: '陳潔儀', aliases: ['陈洁仪'] },
