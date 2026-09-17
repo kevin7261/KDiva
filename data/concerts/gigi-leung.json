@@ -1,6 +1,6 @@
 {
   "slug": "gigi-leung",
-  "fetchedAt": "2026-09-17T13:05:29.135Z",
+  "fetchedAt": "2026-09-17T15:03:34.765Z",
   "wiki": "梁詠琪",
   "bio": {
     "born": {
@@ -13,7 +13,148 @@
   },
   "tours": [
     {
-      "name": "個人巡迴演唱會",
+      "name": "梁詠琪好時辰世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2016-09-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-05-04",
+        "precision": "day"
+      },
+      "showCount": 11,
+      "regions": [],
+      "cities": [
+        "中國大陸 深圳",
+        "中國大陸 合肥",
+        "中國大陸 青島",
+        "中國大陸 上海",
+        "中國大陸 西安",
+        "中國大陸 廣州",
+        "中國大陸 南寧",
+        "美國 聖荷西",
+        "美國 洛杉磯",
+        "中國大陸 北京",
+        "香港"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2016-09-30",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 深圳",
+          "venue": "",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2016-10-15",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 合肥",
+          "venue": "",
+          "lat": 31.86389,
+          "lon": 117.28083,
+          "geo": "city"
+        },
+        {
+          "date": "2016-10-22",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 青島",
+          "venue": "",
+          "lat": 36.116666666667,
+          "lon": 120.4,
+          "geo": "city"
+        },
+        {
+          "date": "2016-11-12",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2016-11-26",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 西安",
+          "venue": "",
+          "lat": 34.26111111111111,
+          "lon": 108.94222222222223,
+          "geo": "city"
+        },
+        {
+          "date": "2016-12-04",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 廣州",
+          "venue": "",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2017-06-24",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 南寧",
+          "venue": "",
+          "lat": 22.81918,
+          "lon": 108.31501,
+          "geo": "city"
+        },
+        {
+          "date": "2017-07-06",
+          "precision": "day",
+          "region": "",
+          "city": "美國 聖荷西",
+          "venue": "",
+          "lat": 37.304166666667,
+          "lon": -121.87277777778,
+          "geo": "city"
+        },
+        {
+          "date": "2017-07-08",
+          "precision": "day",
+          "region": "",
+          "city": "美國 洛杉磯",
+          "venue": "",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "2017-08-05",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 北京",
+          "venue": "",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2018-05-04",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "梁詠琪時間遇上我們演唱會",
       "page": null,
       "kind": "tour",
       "start": {

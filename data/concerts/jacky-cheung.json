@@ -1,6 +1,6 @@
 {
   "slug": "jacky-cheung",
-  "fetchedAt": "2026-09-17T13:01:50.454Z",
+  "fetchedAt": "2026-09-17T15:00:54.840Z",
   "wiki": "張學友",
   "bio": {
     "born": {
@@ -31,22 +31,87 @@
       "shows": []
     },
     {
-      "name": "張學友每天愛你多一些演唱會91",
-      "page": "張學友每天愛你多一些全國巡迴演唱會91",
+      "name": "張學友87演唱會 Jacky Cheung in Concert",
+      "page": "張學友87演唱會",
       "kind": "concert",
       "start": {
-        "date": "1991-01-01",
-        "precision": "year"
+        "date": "1987-08-01",
+        "precision": "day"
       },
       "end": {
-        "date": "1991-01-01",
-        "precision": "year"
+        "date": "1987-08-06",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 6,
       "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
+      "cities": [
+        "紅磡香港體育館"
+      ],
+      "venues": [
+        "首場個人演唱會"
+      ],
+      "shows": [
+        {
+          "date": "1987-08-01",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首場個人演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1987-08-02",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首場個人演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1987-08-03",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首場個人演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1987-08-04",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首場個人演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1987-08-05",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首場個人演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1987-08-06",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首場個人演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "浪漫情感演唱會",
@@ -67,22 +132,695 @@
       "shows": []
     },
     {
+      "name": "張學友每天愛你多一些演唱會91",
+      "page": "張學友每天愛你多一些全國巡迴演唱會91",
+      "kind": "tour",
+      "start": {
+        "date": "1991-09-28",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1991-12-14",
+        "precision": "day"
+      },
+      "showCount": 14,
+      "regions": [
+        "美國",
+        "加拿大",
+        "中國大陸"
+      ],
+      "cities": [
+        "紅磡香港體育館",
+        "大西洋城",
+        "多倫多",
+        "廣州"
+      ],
+      "venues": [
+        "首次世界巡迴演唱會"
+      ],
+      "shows": [
+        {
+          "date": "1991-09-28",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1991-09-29",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1991-09-30",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1991-10-01",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1991-10-02",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1991-10-03",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1991-10-04",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1991-10-05",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1991-11-28",
+          "precision": "day",
+          "region": "美國",
+          "city": "大西洋城",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "city"
+        },
+        {
+          "date": "1991-11-29",
+          "precision": "day",
+          "region": "美國",
+          "city": "大西洋城",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "city"
+        },
+        {
+          "date": "1991-12-04",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1991-12-12",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "1991-12-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "1991-12-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "首次世界巡迴演唱會",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
+    },
+    {
       "name": "學與友93世界巡迴演唱會",
       "page": "學與友93世界巡迴演唱會",
       "kind": "tour",
       "start": {
-        "date": "1993-01-01",
-        "precision": "year"
+        "date": "1993-09-24",
+        "precision": "day"
       },
       "end": {
-        "date": "1994-01-01",
-        "precision": "year"
+        "date": "1994-12-17",
+        "precision": "day"
       },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
+      "showCount": 47,
+      "regions": [
+        "中國大陸",
+        "美國",
+        "加拿大",
+        "新加坡",
+        "馬來西亞",
+        "臺灣"
+      ],
+      "cities": [
+        "紅磡香港體育館",
+        "北京",
+        "洛杉磯",
+        "三藩市",
+        "大西洋城",
+        "多倫多",
+        "埃德蒙頓",
+        "東京",
+        "新加坡室內體育館",
+        "吉隆坡",
+        "臺北",
+        "廣州",
+        "芝加哥",
+        "上海"
+      ],
+      "venues": [
+        "首都體育館",
+        "SF Masonic Auditorium",
+        "Hard Rock Hotel & Casino Atlantic City",
+        "因病而演出一半便中斷",
+        "吉隆坡國家體育館",
+        "為1994年2月18日演出中斷的場次補場，同時票價高達450新元，創下華人歌手的票價紀錄",
+        "臺北市立體育場",
+        "天河體育場",
+        "上海體育館"
+      ],
+      "shows": [
+        {
+          "date": "1993-09-24",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-09-25",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-09-26",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-09-27",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-09-28",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-09-29",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-09-30",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-01",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-02",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-03",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-04",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-05",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-06",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-07",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-08",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-09",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-10",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-11",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-12",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-13",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-14",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-15",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-16",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-17",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-10-18",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1993-11-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "1993-11-07",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "1993-11-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "1993-11-20",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "1993-11-22",
+          "precision": "day",
+          "region": "美國",
+          "city": "三藩市",
+          "venue": "SF Masonic Auditorium",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1993-11-25",
+          "precision": "day",
+          "region": "美國",
+          "city": "大西洋城",
+          "venue": "Hard Rock Hotel & Casino Atlantic City",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "city"
+        },
+        {
+          "date": "1993-12-01",
+          "precision": "month",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1993-12-04",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "埃德蒙頓",
+          "venue": "",
+          "lat": 53.533333333333,
+          "lon": -113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1994-01-26",
+          "precision": "day",
+          "region": "",
+          "city": "東京",
+          "venue": "",
+          "lat": 35.683889,
+          "lon": 139.774444,
+          "geo": "city"
+        },
+        {
+          "date": "1994-02-18",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "因病而演出一半便中斷",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1994-02-25",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "吉隆坡國家體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-02-26",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "吉隆坡國家體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-03-03",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "為1994年2月18日演出中斷的場次補場，同時票價高達450新元，創下華人歌手的票價紀錄",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1994-03-04",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "為1994年2月18日演出中斷的場次補場，同時票價高達450新元，創下華人歌手的票價紀錄",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1994-03-05",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "為1994年2月18日演出中斷的場次補場，同時票價高達450新元，創下華人歌手的票價紀錄",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1994-05-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北市立體育場",
+          "lat": 25.049444,
+          "lon": 121.551111,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-05-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北市立體育場",
+          "lat": 25.049444,
+          "lon": 121.551111,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-06-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "天河體育場",
+          "lat": 23.14064722,
+          "lon": 113.31932778,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-06-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "天河體育場",
+          "lat": 23.14064722,
+          "lon": 113.31932778,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-06-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "天河體育場",
+          "lat": 23.14064722,
+          "lon": 113.31932778,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-12-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "芝加哥",
+          "venue": "",
+          "lat": 41.88194444444444,
+          "lon": -87.62777777777778,
+          "geo": "city"
+        },
+        {
+          "date": "1994-12-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海體育館",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "The Best of Jacky Cheung",
@@ -125,36 +863,1009 @@
       "page": "友學友95世界巡迴演唱會",
       "kind": "tour",
       "start": {
-        "date": "1995-01-01",
-        "precision": "year"
+        "date": "1995-08-04",
+        "precision": "day"
       },
       "end": {
-        "date": "1996-01-01",
-        "precision": "year"
+        "date": "1996-06-30",
+        "precision": "day"
       },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "音樂無疆界演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "1996-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "1996-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
+      "showCount": 91,
+      "regions": [
+        "澳洲",
+        "臺灣",
+        "美國",
+        "加拿大",
+        "荷蘭",
+        "英國",
+        "法國",
+        "新加坡",
+        "馬來西亞",
+        "菲律賓",
+        "中國大陸",
+        "泰國"
+      ],
+      "cities": [
+        "紅磡香港體育館",
+        "西澳州伯斯",
+        "昆士蘭州布里斯班",
+        "維多利亞州墨爾本",
+        "新南威爾士州悉尼",
+        "加利福尼亞州奧克蘭",
+        "臺北市",
+        "高雄市",
+        "臺中市",
+        "波士頓",
+        "紐約州紐約",
+        "多倫多",
+        "新雷昂州蒙特雷",
+        "不列顛哥倫比亞省溫哥華",
+        "加利福尼亞州洛杉磯",
+        "舊金山",
+        "鹿特丹",
+        "曼徹斯特",
+        "巴黎",
+        "倫敦",
+        "新加坡",
+        "吉隆坡",
+        "馬尼拉",
+        "東京都",
+        "內華達州拉斯維加斯",
+        "新澤西州大西洋城",
+        "福建省福州市",
+        "福建省泉州市",
+        "廣東省中山市",
+        "廣東省東莞市",
+        "曼谷市",
+        "廣東省肇慶市",
+        "廣東省佛山市",
+        "廣東省汕頭市",
+        "廣東省廣州市",
+        "澳門綜藝館",
+        "廣東省清遠市"
+      ],
+      "venues": [
+        "出道10週年演唱會，打破個人演唱會場次紀錄",
+        "伯斯娛樂中心",
+        "布里斯本娛樂中心",
+        "墨爾本公園",
+        "雪梨娛樂中心",
+        "歐提會議中心",
+        "臺北市立體育場",
+        "高雄市立體育場",
+        "臺中市立體育場",
+        "麥迪遜廣場花園",
+        "羅傑斯中心",
+        "蒙特利爾論壇",
+        "通用汽車體育館",
+        "洛杉磯紀念體育競技場",
+        "SF Masonic Auditorium",
+        "溫布利球場",
+        "新加坡室內體育館",
+        "東京厚生年金會館",
+        "原宿日本青年館",
+        "凱薩宮酒店",
+        "福建省奧林匹克體育中心體育場",
+        "中山體育場",
+        "東莞體育場",
+        "泰國世界貿易中心",
+        "肇慶市體育中心體育場",
+        "佛山新廣場體育場",
+        "天河體育場",
+        "清遠市體育館"
+      ],
+      "shows": [
+        {
+          "date": "1995-08-04",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-05",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-06",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-07",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-08",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-09",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-10",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-11",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-12",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-13",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-14",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-15",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-16",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-17",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-18",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-19",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-20",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-21",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-22",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-24",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-25",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-26",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-27",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-28",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-29",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-30",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-08-31",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-01",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-02",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-03",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-04",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-05",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-06",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "出道10週年演唱會，打破個人演唱會場次紀錄",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-13",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "西澳州伯斯",
+          "venue": "伯斯娛樂中心",
+          "lat": -26,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-16",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "昆士蘭州布里斯班",
+          "venue": "布里斯本娛樂中心",
+          "lat": -20,
+          "lon": 143,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-18",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "維多利亞州墨爾本",
+          "venue": "墨爾本公園",
+          "lat": -37.822669444444,
+          "lon": 144.98005,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-09-19",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "新南威爾士州悉尼",
+          "venue": "雪梨娛樂中心",
+          "lat": -33.878333,
+          "lon": 151.202778,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-09-20",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "新南威爾士州悉尼",
+          "venue": "雪梨娛樂中心",
+          "lat": -33.878333,
+          "lon": 151.202778,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-09-22",
+          "precision": "day",
+          "region": "",
+          "city": "加利福尼亞州奧克蘭",
+          "venue": "歐提會議中心",
+          "lat": 37,
+          "lon": -120,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "臺北市立體育場",
+          "lat": 25.049444,
+          "lon": 121.551111,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-09-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "臺北市立體育場",
+          "lat": 25.049444,
+          "lon": 121.551111,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-09-29",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄市",
+          "venue": "高雄市立體育場",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "1995-09-30",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄市",
+          "venue": "高雄市立體育場",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "1995-10-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中市",
+          "venue": "臺中市立體育場",
+          "lat": 24.151527777777776,
+          "lon": 120.68958333333333,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-10-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "波士頓",
+          "venue": "",
+          "lat": 42.360277777777775,
+          "lon": -71.05777777777777,
+          "geo": "city"
+        },
+        {
+          "date": "1995-10-07",
+          "precision": "day",
+          "region": "美國",
+          "city": "紐約州紐約",
+          "venue": "麥迪遜廣場花園",
+          "lat": 40.750501,
+          "lon": -73.993453,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-10-13",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "羅傑斯中心",
+          "lat": 43.641388888889,
+          "lon": -79.389166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-10-14",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "羅傑斯中心",
+          "lat": 43.641388888889,
+          "lon": -79.389166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-10-16",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "新雷昂州蒙特雷",
+          "venue": "蒙特利爾論壇",
+          "lat": 25.566666666667,
+          "lon": -99.970555555556,
+          "geo": "city"
+        },
+        {
+          "date": "1995-10-26",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "不列顛哥倫比亞省溫哥華",
+          "venue": "通用汽車體育館",
+          "lat": 49.277777777778,
+          "lon": -123.10888888889,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-10-27",
+          "precision": "day",
+          "region": "美國",
+          "city": "加利福尼亞州洛杉磯",
+          "venue": "洛杉磯紀念體育競技場",
+          "lat": 34.013055555556,
+          "lon": -118.28444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-10-28",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "SF Masonic Auditorium",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1995-10-29",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "SF Masonic Auditorium",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1995-11-01",
+          "precision": "month",
+          "region": "荷蘭",
+          "city": "鹿特丹",
+          "venue": "",
+          "lat": 51.92,
+          "lon": 4.48,
+          "geo": "city"
+        },
+        {
+          "date": "1995-11-01",
+          "precision": "month",
+          "region": "英國",
+          "city": "曼徹斯特",
+          "venue": "",
+          "lat": 53.47944444444445,
+          "lon": -2.245277777777778,
+          "geo": "city"
+        },
+        {
+          "date": "1995-11-09",
+          "precision": "day",
+          "region": "法國",
+          "city": "巴黎",
+          "venue": "",
+          "lat": 48.85666666666667,
+          "lon": 2.352222222222222,
+          "geo": "city"
+        },
+        {
+          "date": "1995-11-13",
+          "precision": "day",
+          "region": "英國",
+          "city": "倫敦",
+          "venue": "溫布利球場",
+          "lat": 51.55555555555556,
+          "lon": -0.27944444444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-11-24",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "1995-12-01",
+          "precision": "month",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        },
+        {
+          "date": "1995-12-05",
+          "precision": "day",
+          "region": "菲律賓",
+          "city": "馬尼拉",
+          "venue": "",
+          "lat": 14.595833333333333,
+          "lon": 120.97722222222222,
+          "geo": "city"
+        },
+        {
+          "date": "1995-12-20",
+          "precision": "day",
+          "region": "",
+          "city": "東京都",
+          "venue": "東京厚生年金會館",
+          "lat": 35.68944444444445,
+          "lon": 139.69166666666666,
+          "geo": "city"
+        },
+        {
+          "date": "1995-12-21",
+          "precision": "day",
+          "region": "",
+          "city": "東京都",
+          "venue": "原宿日本青年館",
+          "lat": 35.68944444444445,
+          "lon": 139.69166666666666,
+          "geo": "city"
+        },
+        {
+          "date": "1996-02-17",
+          "precision": "day",
+          "region": "美國",
+          "city": "內華達州拉斯維加斯",
+          "venue": "凱薩宮酒店",
+          "lat": 36.1165,
+          "lon": -115.174,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-02-18",
+          "precision": "day",
+          "region": "美國",
+          "city": "內華達州拉斯維加斯",
+          "venue": "凱薩宮酒店",
+          "lat": 36.1165,
+          "lon": -115.174,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-02-23",
+          "precision": "day",
+          "region": "美國",
+          "city": "新澤西州大西洋城",
+          "venue": "凱薩宮酒店",
+          "lat": 36.1165,
+          "lon": -115.174,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-02-24",
+          "precision": "day",
+          "region": "美國",
+          "city": "新澤西州大西洋城",
+          "venue": "凱薩宮酒店",
+          "lat": 36.1165,
+          "lon": -115.174,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-03-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "福建省福州市",
+          "venue": "福建省奧林匹克體育中心體育場",
+          "lat": 26.11362,
+          "lon": 119.298883,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-03-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "福建省福州市",
+          "venue": "福建省奧林匹克體育中心體育場",
+          "lat": 26.11362,
+          "lon": 119.298883,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-04-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "福建省泉州市",
+          "venue": "",
+          "lat": 25.9,
+          "lon": 118.3,
+          "geo": "city"
+        },
+        {
+          "date": "1996-04-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "福建省泉州市",
+          "venue": "",
+          "lat": 25.9,
+          "lon": 118.3,
+          "geo": "city"
+        },
+        {
+          "date": "1996-04-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省中山市",
+          "venue": "中山體育場",
+          "lat": 22.6249,
+          "lon": 120.299,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-04-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省中山市",
+          "venue": "中山體育場",
+          "lat": 22.6249,
+          "lon": 120.299,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-04-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省東莞市",
+          "venue": "東莞體育場",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1996-05-11",
+          "precision": "day",
+          "region": "泰國",
+          "city": "曼谷市",
+          "venue": "泰國世界貿易中心",
+          "lat": 13.75,
+          "lon": 100.51666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1996-05-12",
+          "precision": "day",
+          "region": "泰國",
+          "city": "曼谷市",
+          "venue": "泰國世界貿易中心",
+          "lat": 13.75,
+          "lon": 100.51666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1996-05-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省肇慶市",
+          "venue": "肇慶市體育中心體育場",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1996-05-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省肇慶市",
+          "venue": "肇慶市體育中心體育場",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1996-05-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省佛山市",
+          "venue": "佛山新廣場體育場",
+          "lat": 23.033349,
+          "lon": 113.108255,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-05-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省佛山市",
+          "venue": "佛山新廣場體育場",
+          "lat": 23.033349,
+          "lon": 113.108255,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-06-01",
+          "precision": "month",
+          "region": "中國大陸",
+          "city": "廣東省汕頭市",
+          "venue": "",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1996-06-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省廣州市",
+          "venue": "天河體育場",
+          "lat": 23.14064722,
+          "lon": 113.31932778,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-06-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省廣州市",
+          "venue": "天河體育場",
+          "lat": 23.14064722,
+          "lon": 113.31932778,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-06-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省廣州市",
+          "venue": "天河體育場",
+          "lat": 23.14064722,
+          "lon": 113.31932778,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-06-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省廣州市",
+          "venue": "天河體育場",
+          "lat": 23.14064722,
+          "lon": 113.31932778,
+          "geo": "venue"
+        },
+        {
+          "date": "1996-06-24",
+          "precision": "day",
+          "region": "",
+          "city": "澳門綜藝館",
+          "venue": "",
+          "lat": 22.194637,
+          "lon": 113.551791,
+          "geo": "city"
+        },
+        {
+          "date": "1996-06-25",
+          "precision": "day",
+          "region": "",
+          "city": "澳門綜藝館",
+          "venue": "",
+          "lat": 22.194637,
+          "lon": 113.551791,
+          "geo": "city"
+        },
+        {
+          "date": "1996-06-26",
+          "precision": "day",
+          "region": "",
+          "city": "澳門綜藝館",
+          "venue": "",
+          "lat": 22.194637,
+          "lon": 113.551791,
+          "geo": "city"
+        },
+        {
+          "date": "1996-06-27",
+          "precision": "day",
+          "region": "",
+          "city": "澳門綜藝館",
+          "venue": "",
+          "lat": 22.194637,
+          "lon": 113.551791,
+          "geo": "city"
+        },
+        {
+          "date": "1996-06-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省清遠市",
+          "venue": "清遠市體育館",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1996-06-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省清遠市",
+          "venue": "清遠市體育館",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "香港管絃樂團－愛與交響曲音樂會",
@@ -175,6 +1886,92 @@
       "shows": []
     },
     {
+      "name": "學友與港樂\"愛與交響曲\" Love and Symphony",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1996-03-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1996-03-25",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "紅磡香港體育館"
+      ],
+      "venues": [
+        "和香港管絃樂團合作，首位和該樂團合作的本地流行歌手"
+      ],
+      "shows": [
+        {
+          "date": "1996-03-24",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "和香港管絃樂團合作，首位和該樂團合作的本地流行歌手",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1996-03-25",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "和香港管絃樂團合作，首位和該樂團合作的本地流行歌手",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "音樂無疆界演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1996-10-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1996-10-27",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "紅磡香港體育館"
+      ],
+      "venues": [
+        "再次和香港管絃樂團合作"
+      ],
+      "shows": [
+        {
+          "date": "1996-10-26",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "再次和香港管絃樂團合作",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        },
+        {
+          "date": "1996-10-27",
+          "precision": "day",
+          "region": "",
+          "city": "紅磡香港體育館",
+          "venue": "再次和香港管絃樂團合作",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        }
+      ]
+    },
+    {
       "name": "樂來月有勁演唱會",
       "page": null,
       "kind": "concert",
@@ -193,22 +1990,37 @@
       "shows": []
     },
     {
-      "name": "友個人99世界巡迴演唱會",
-      "page": "友個人99世界巡迴演唱會",
-      "kind": "tour",
+      "name": "拉闊壓軸篇98",
+      "page": null,
+      "kind": "concert",
       "start": {
-        "date": "1999-01-01",
-        "precision": "year"
+        "date": "1998-11-01",
+        "precision": "day"
       },
       "end": {
-        "date": "1999-01-01",
-        "precision": "year"
+        "date": "1998-11-01",
+        "precision": "day"
       },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港會議展覽中心新翼"
+      ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1998-11-01",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "走過1999新歌演唱會",
@@ -229,22 +2041,817 @@
       "shows": []
     },
     {
+      "name": "友個人99世界巡迴演唱會",
+      "page": "友個人99世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "1999-02-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-07-10",
+        "precision": "day"
+      },
+      "showCount": 66,
+      "regions": [
+        "新加坡",
+        "加拿大",
+        "美國",
+        "馬來西亞",
+        "中國大陸",
+        "澳洲",
+        "英國"
+      ],
+      "cities": [
+        "香港會議展覽中心新翼",
+        "新加坡室內體育館",
+        "安大略省多倫多",
+        "新澤西州大西洋城",
+        "加利福尼亞州奧克蘭",
+        "加利福尼亞州洛杉磯",
+        "不列顛哥倫比亞省溫哥華",
+        "吉隆坡",
+        "廣東省廣州市",
+        "廣東省佛山市",
+        "廣東省肇慶市",
+        "廣東省汕頭市",
+        "廣東省珠海市",
+        "廣東省韶關市",
+        "河北省石家莊市",
+        "江蘇省無錫市",
+        "浙江省寧波市",
+        "維多利亞州墨爾本",
+        "新南威爾士州悉尼",
+        "昆士蘭州黃金海岸",
+        "廣東省深圳市",
+        "倫敦",
+        "上海市",
+        "江蘇省南京市",
+        "雲南省昆明市",
+        "大阪府大阪市",
+        "愛知縣名古屋市",
+        "神奈川縣橫濱市",
+        "東京"
+      ],
+      "venues": [
+        "加拿大航空中心",
+        "Trump Taj Mahal Resort",
+        "Kaiser Convention Center",
+        "Universal Amphitheatre",
+        "通用汽車體育館",
+        "武吉加里爾國家體育場",
+        "天河體育場",
+        "順德體育中心",
+        "肇慶體育場",
+        "佛山新廣場",
+        "番禺體育中心",
+        "汕頭體育中心",
+        "珠海體育場",
+        "西河體育中心",
+        "裕彤體育場",
+        "無錫體育中心",
+        "寧波體育場",
+        "墨爾本公園",
+        "Sydney Entertainment Centre",
+        "Jupiter's Theatre",
+        "深圳體育場",
+        "London Docklands Arena",
+        "虹口足球場",
+        "五臺山體育場",
+        "拓東體育場",
+        "大阪厚生年金會館大ホール",
+        "名古屋市民會館大ホール",
+        "神奈川県民ホール",
+        "東京國際論壇A廳"
+      ],
+      "shows": [
+        {
+          "date": "1999-02-05",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-06",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-07",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-08",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-09",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-10",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-11",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-12",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-13",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-14",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-15",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-16",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-17",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-18",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-19",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-20",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-21",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-22",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-23",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-24",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-25",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-26",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-27",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-28",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-03-01",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-03-02",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-03-03",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-03-04",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-03-05",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-03-06",
+          "precision": "day",
+          "region": "",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "1999-03-26",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1999-03-27",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        },
+        {
+          "date": "1999-03-31",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "安大略省多倫多",
+          "venue": "加拿大航空中心",
+          "lat": 43.643333333333,
+          "lon": -79.379166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-04-04",
+          "precision": "day",
+          "region": "美國",
+          "city": "新澤西州大西洋城",
+          "venue": "Trump Taj Mahal Resort",
+          "lat": 40,
+          "lon": -74.5,
+          "geo": "city"
+        },
+        {
+          "date": "1999-04-09",
+          "precision": "day",
+          "region": "美國",
+          "city": "加利福尼亞州奧克蘭",
+          "venue": "Kaiser Convention Center",
+          "lat": 37,
+          "lon": -120,
+          "geo": "city"
+        },
+        {
+          "date": "1999-04-11",
+          "precision": "day",
+          "region": "美國",
+          "city": "加利福尼亞州洛杉磯",
+          "venue": "Universal Amphitheatre",
+          "lat": 37,
+          "lon": -120,
+          "geo": "city"
+        },
+        {
+          "date": "1999-04-13",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "不列顛哥倫比亞省溫哥華",
+          "venue": "通用汽車體育館",
+          "lat": 49.277777777778,
+          "lon": -123.10888888889,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-04-23",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "武吉加里爾國家體育場",
+          "lat": 3.0546666666667,
+          "lon": 101.69116666667,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-04-24",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "武吉加里爾國家體育場",
+          "lat": 3.0546666666667,
+          "lon": 101.69116666667,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-05-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省廣州市",
+          "venue": "天河體育場",
+          "lat": 23.14052,
+          "lon": 113.31934,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-05-02",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省廣州市",
+          "venue": "天河體育場",
+          "lat": 23.14052,
+          "lon": 113.31934,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-05-04",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省佛山市",
+          "venue": "順德體育中心",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1999-05-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省肇慶市",
+          "venue": "肇慶體育場",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1999-05-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省佛山市",
+          "venue": "佛山新廣場",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1999-05-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省廣州市",
+          "venue": "番禺體育中心",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1999-05-12",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省汕頭市",
+          "venue": "汕頭體育中心",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1999-05-14",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省珠海市",
+          "venue": "珠海體育場",
+          "lat": 22.276,
+          "lon": 113.531,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-05-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省韶關市",
+          "venue": "西河體育中心",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "city"
+        },
+        {
+          "date": "1999-05-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "河北省石家莊市",
+          "venue": "裕彤體育場",
+          "lat": 38.041327,
+          "lon": 114.529086,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-05-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "江蘇省無錫市",
+          "venue": "無錫體育中心",
+          "lat": 33,
+          "lon": 120,
+          "geo": "city"
+        },
+        {
+          "date": "1999-05-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "浙江省寧波市",
+          "venue": "寧波體育場",
+          "lat": 29.87395,
+          "lon": 121.57746666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-06-02",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "維多利亞州墨爾本",
+          "venue": "墨爾本公園",
+          "lat": -37.822669444444,
+          "lon": 144.98005,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-06-04",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "新南威爾士州悉尼",
+          "venue": "Sydney Entertainment Centre",
+          "lat": -33.878333,
+          "lon": 151.202778,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-06-06",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "昆士蘭州黃金海岸",
+          "venue": "Jupiter's Theatre",
+          "lat": -20,
+          "lon": 143,
+          "geo": "city"
+        },
+        {
+          "date": "1999-06-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣東省深圳市",
+          "venue": "深圳體育場",
+          "lat": 22.562175,
+          "lon": 114.086989,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-06-20",
+          "precision": "day",
+          "region": "英國",
+          "city": "倫敦",
+          "venue": "London Docklands Arena",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
+        },
+        {
+          "date": "1999-06-21",
+          "precision": "day",
+          "region": "英國",
+          "city": "倫敦",
+          "venue": "London Docklands Arena",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
+        },
+        {
+          "date": "1999-06-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海市",
+          "venue": "虹口足球場",
+          "lat": 31.2733,
+          "lon": 121.4762,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-06-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海市",
+          "venue": "虹口足球場",
+          "lat": 31.2733,
+          "lon": 121.4762,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-06-28",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "江蘇省南京市",
+          "venue": "五臺山體育場",
+          "lat": 32.051,
+          "lon": 118.769,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-07-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "雲南省昆明市",
+          "venue": "拓東體育場",
+          "lat": 25.038011,
+          "lon": 102.728745,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-07-04",
+          "precision": "day",
+          "region": "",
+          "city": "大阪府大阪市",
+          "venue": "大阪厚生年金會館大ホール",
+          "lat": 34.68633333333333,
+          "lon": 135.5198611111111,
+          "geo": "city"
+        },
+        {
+          "date": "1999-07-05",
+          "precision": "day",
+          "region": "",
+          "city": "愛知縣名古屋市",
+          "venue": "名古屋市民會館大ホール",
+          "lat": 35.180166666666665,
+          "lon": 136.90641666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1999-07-07",
+          "precision": "day",
+          "region": "",
+          "city": "神奈川縣橫濱市",
+          "venue": "神奈川県民ホール",
+          "lat": 35.44775,
+          "lon": 139.6425277777778,
+          "geo": "city"
+        },
+        {
+          "date": "1999-07-09",
+          "precision": "day",
+          "region": "",
+          "city": "東京",
+          "venue": "東京國際論壇A廳",
+          "lat": 35.676944444444445,
+          "lon": 139.76416666666665,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-07-10",
+          "precision": "day",
+          "region": "",
+          "city": "東京",
+          "venue": "東京國際論壇A廳",
+          "lat": 35.676944444444445,
+          "lon": 139.76416666666665,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
       "name": "數碼通完全學友演唱會",
       "page": "數碼通完全學友演唱會",
       "kind": "concert",
       "start": {
-        "date": "2000-01-01",
-        "precision": "year"
+        "date": "2000-12-08",
+        "precision": "day"
       },
       "end": {
-        "date": "2000-01-01",
-        "precision": "year"
+        "date": "2000-12-08",
+        "precision": "day"
       },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港會議展覽中心"
+      ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-12-08",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港會議展覽中心",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "拉闊音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2001-04-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2001-04-30",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港會議展覽中心"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2001-04-30",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港會議展覽中心",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "張學友2002音樂之旅世界巡迴演唱會",
@@ -792,54 +3399,136 @@
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2003-01-01",
-        "precision": "year"
+        "date": "2003-03-22",
+        "precision": "day"
       },
       "end": {
-        "date": "2003-01-01",
-        "precision": "year"
+        "date": "2003-03-22",
+        "precision": "day"
       },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "活出生命LIVE演唱會",
-      "page": "活出生命LIVE演唱會",
-      "kind": "concert",
-      "start": {
-        "date": "2004-01-01",
-        "precision": "year"
-      },
-      "end": {
-        "date": "2004-01-01",
-        "precision": "year"
-      },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北國際會議中心"
+      ],
+      "shows": [
+        {
+          "date": "2003-03-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "給朋友音樂會",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2004-01-01",
-        "precision": "year"
+        "date": "2004-04-30",
+        "precision": "day"
       },
       "end": {
-        "date": "2004-01-01",
-        "precision": "year"
+        "date": "2004-04-30",
+        "precision": "day"
       },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "電視廣播城"
+      ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2004-04-30",
+          "precision": "day",
+          "region": "香港",
+          "city": "電視廣播城",
+          "venue": "",
+          "lat": 22.2792,
+          "lon": 114.272,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "活出生命LIVE演唱會",
+      "page": "活出生命LIVE演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2004-10-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2004-10-05",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港會議展覽中心新翼"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2004-10-05",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港會議展覽中心新翼",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "10x10我至愛演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2006-10-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2006-10-21",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "紅磡香港體育館"
+      ],
+      "venues": [
+        "和陳奕迅合作"
+      ],
+      "shows": [
+        {
+          "date": "2006-10-21",
+          "precision": "day",
+          "region": "香港",
+          "city": "紅磡香港體育館",
+          "venue": "和陳奕迅合作",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "學友光年世界巡迴演唱會",
@@ -2009,22 +4698,69 @@
       ]
     },
     {
+      "name": "F1 rocks Singapore",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2009-09-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2009-09-24",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "新加坡"
+      ],
+      "cities": [
+        "新加坡福康寧公園"
+      ],
+      "venues": [
+        "和張惠妹合作"
+      ],
+      "shows": [
+        {
+          "date": "2009-09-24",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡福康寧公園",
+          "venue": "和張惠妹合作"
+        }
+      ]
+    },
+    {
       "name": "張學友Private Corner迷你音樂會",
       "page": "張學友Private Corner迷你音樂會",
       "kind": "concert",
       "start": {
-        "date": "2010-01-01",
-        "precision": "year"
+        "date": "2010-04-30",
+        "precision": "day"
       },
       "end": {
-        "date": "2010-01-01",
-        "precision": "year"
+        "date": "2010-04-30",
+        "precision": "day"
       },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港理工大學賽馬會綜藝館"
+      ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-04-30",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港理工大學賽馬會綜藝館",
+          "venue": "",
+          "lat": 22.305,
+          "lon": 114.18,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "張學友1/2世紀世界巡迴演唱會",
@@ -3680,22 +6416,118 @@
       ]
     },
     {
+      "name": "我最喜愛的Eric Kwok音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-07-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-07-17",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "紅磡香港體育館"
+      ],
+      "venues": [
+        "在第一場出現，並演唱「有個人」"
+      ],
+      "shows": [
+        {
+          "date": "2014-07-17",
+          "precision": "day",
+          "region": "香港",
+          "city": "紅磡香港體育館",
+          "venue": "在第一場出現，並演唱「有個人」",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        }
+      ]
+    },
+    {
       "name": "張學友醒著做夢音樂會",
       "page": "醒著做夢音樂會",
       "kind": "concert",
       "start": {
-        "date": "2015-01-01",
-        "precision": "year"
+        "date": "2015-05-24",
+        "precision": "day"
       },
       "end": {
-        "date": "2015-01-01",
-        "precision": "year"
+        "date": "2015-05-24",
+        "precision": "day"
       },
-      "showCount": null,
-      "regions": [],
-      "cities": [],
-      "venues": [],
-      "shows": []
+      "showCount": 1,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "北京"
+      ],
+      "venues": [
+        "北京國家奧林匹克體育中心"
+      ],
+      "shows": [
+        {
+          "date": "2015-05-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "北京國家奧林匹克體育中心",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "Legend on stage with Jacky Cheung",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2015-09-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-10-07",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "香港",
+        "新加坡"
+      ],
+      "cities": [
+        "香港會議展覽中心",
+        "新加坡星宇表演藝術中心"
+      ],
+      "venues": [
+        "瑞士銀行專屬音樂會"
+      ],
+      "shows": [
+        {
+          "date": "2015-09-29",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港會議展覽中心",
+          "venue": "瑞士銀行專屬音樂會",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
+        },
+        {
+          "date": "2015-10-07",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡星宇表演藝術中心",
+          "venue": "瑞士銀行專屬音樂會"
+        }
+      ]
     },
     {
       "name": "學友·經典世界巡迴演唱會",
@@ -6257,6 +9089,39 @@
           "lat": 22.3015,
           "lon": 114.182,
           "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "觸感•色彩共融慈善音樂會2019",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-11-26",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-11-26",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港會議展覽中心Hall 5BC"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2019-11-26",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港會議展覽中心Hall 5BC",
+          "venue": "",
+          "lat": 22.283661111111,
+          "lon": 114.17284722222,
+          "geo": "city"
         }
       ]
     },

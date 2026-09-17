@@ -30,12 +30,12 @@
           "playsText": "播放次數：6.7萬",
           "duration": 189,
           "byOther": false,
+          "nameKey": "tomorrow",
           "credits": {
             "lyrics": "林夕",
             "music": "Ricky Julian",
             "arranger": "劉志遠"
-          },
-          "nameKey": "tomorrow"
+          }
         },
         {
           "index": 2,
@@ -46,12 +46,12 @@
           "playsText": "播放次數：1.8萬",
           "duration": 274,
           "byOther": false,
+          "nameKey": "情歌",
           "credits": {
             "lyrics": "姚謙",
             "music": "郭子",
             "arranger": "鮑比達"
-          },
-          "nameKey": "情歌"
+          }
         },
         {
           "index": 3,
@@ -62,12 +62,12 @@
           "playsText": "播放次數：2.1萬",
           "duration": 215,
           "byOther": false,
+          "nameKey": "一直沒發現",
           "credits": {
             "lyrics": "木子",
             "music": "陳志偉",
             "arranger": "許華強"
-          },
-          "nameKey": "一直沒發現"
+          }
         },
         {
           "index": 4,
@@ -78,12 +78,12 @@
           "playsText": "播放次數：2萬",
           "duration": 243,
           "byOther": false,
+          "nameKey": "wheredidyougo",
           "credits": {
             "lyrics": "許常德",
             "music": "林俊傑",
             "arranger": "鍾興民"
-          },
-          "nameKey": "wheredidyougo"
+          }
         },
         {
           "index": 5,
@@ -94,12 +94,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 216,
           "byOther": false,
+          "nameKey": "什麼態度",
           "credits": {
             "lyrics": "于光中",
             "music": "王治平",
             "arranger": "鮑比達"
-          },
-          "nameKey": "什麼態度"
+          }
         },
         {
           "index": 6,
@@ -110,12 +110,12 @@
           "playsText": "播放次數：3183",
           "duration": 244,
           "byOther": false,
+          "nameKey": "不獨立宣言",
           "credits": {
             "lyrics": "周耀輝",
             "music": "鮑比達",
             "arranger": "鮑比達"
-          },
-          "nameKey": "不獨立宣言"
+          }
         },
         {
           "index": 7,
@@ -126,12 +126,12 @@
           "playsText": "播放次數：6393",
           "duration": 276,
           "byOther": false,
+          "nameKey": "回不來",
           "credits": {
             "lyrics": "樓南蔚",
             "music": "黃康淇",
             "arranger": "鍾興民"
-          },
-          "nameKey": "回不來"
+          }
         },
         {
           "index": 8,
@@ -142,12 +142,12 @@
           "playsText": "播放次數：5031",
           "duration": 250,
           "byOther": false,
+          "nameKey": "音樂頻道",
           "credits": {
             "lyrics": "姚謙",
             "music": "梁翹柏",
             "arranger": "劉志遠"
-          },
-          "nameKey": "音樂頻道"
+          }
         },
         {
           "index": 9,
@@ -158,12 +158,12 @@
           "playsText": "播放次數：4073",
           "duration": 245,
           "byOther": false,
+          "nameKey": "幸福黑眼圈",
           "credits": {
             "lyrics": "祝康偉、小蛙",
             "music": "鮑比達",
             "arranger": "鮑比達"
-          },
-          "nameKey": "幸福黑眼圈"
+          }
         },
         {
           "index": 10,
@@ -185,12 +185,12 @@
           "playsText": "播放次數：6295",
           "duration": 305,
           "byOther": false,
+          "nameKey": "一個人兩個人",
           "credits": {
             "lyrics": "姚謙",
             "music": "遊鴻明",
             "arranger": "鍾興民"
-          },
-          "nameKey": "一個人兩個人"
+          }
         }
       ],
       "releaseDate": "2000-11-23",
@@ -218,7 +218,12 @@
           "playsText": "播放次數：76萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "吳克群"
+          "nameKey": "吳克群",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉、Mickey Chen"
+          }
         },
         {
           "index": 2,
@@ -229,7 +234,12 @@
           "playsText": "播放次數：33萬",
           "duration": 265,
           "byOther": false,
-          "nameKey": "學不會"
+          "nameKey": "學不會",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉"
+          }
         },
         {
           "index": 3,
@@ -240,7 +250,12 @@
           "playsText": "播放次數：2.6萬",
           "duration": 207,
           "byOther": false,
-          "nameKey": "對不起"
+          "nameKey": "對不起",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉、Mickey Chen"
+          }
         },
         {
           "index": 4,
@@ -284,7 +299,12 @@
           "playsText": "播放次數：47萬",
           "duration": 314,
           "byOther": false,
-          "nameKey": "別太溫柔"
+          "nameKey": "別太溫柔",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉、Mickey Chen"
+          }
         },
         {
           "index": 8,
@@ -295,7 +315,12 @@
           "playsText": "播放次數：14萬",
           "duration": 239,
           "byOther": false,
-          "nameKey": "聖誕分手節"
+          "nameKey": "聖誕分手節",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉、Mickey Chen"
+          }
         },
         {
           "index": 9,
@@ -317,7 +342,12 @@
           "playsText": "播放次數：971",
           "duration": 260,
           "byOther": false,
-          "nameKey": "先生你哪位"
+          "nameKey": "先生你哪位",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "Mickey Chen"
+          }
         }
       ],
       "releaseDate": null,
@@ -345,11 +375,11 @@
           "playsText": "播放次數：269",
           "duration": 7,
           "byOther": false,
+          "nameKey": "intro",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群"
-          },
-          "nameKey": "intro"
+          }
         },
         {
           "index": 2,
@@ -371,12 +401,12 @@
           "playsText": "播放次數：218萬",
           "duration": 242,
           "byOther": false,
+          "nameKey": "大舌頭",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "吳克群"
-          },
-          "nameKey": "大舌頭"
+          }
         },
         {
           "index": 4,
@@ -387,12 +417,12 @@
           "playsText": "播放次數：115萬",
           "duration": 264,
           "byOther": false,
+          "nameKey": "我有罪",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "章世和"
-          },
-          "nameKey": "我有罪"
+          }
         },
         {
           "index": 5,
@@ -403,12 +433,12 @@
           "playsText": "播放次數：32萬",
           "duration": 285,
           "byOther": false,
+          "nameKey": "泛泛之輩",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "蔡政勳、陳伯庭"
-          },
-          "nameKey": "泛泛之輩"
+          }
         },
         {
           "index": 6,
@@ -419,12 +449,12 @@
           "playsText": "播放次數：28萬",
           "duration": 207,
           "byOther": false,
+          "nameKey": "周星星",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "周星星"
+          }
         },
         {
           "index": 7,
@@ -435,12 +465,12 @@
           "playsText": "播放次數：159萬",
           "duration": 287,
           "byOther": false,
+          "nameKey": "不屑紀念",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "陳信安、蔡政勳"
-          },
-          "nameKey": "不屑紀念"
+          }
         },
         {
           "index": 8,
@@ -462,12 +492,12 @@
           "playsText": "播放次數：3346",
           "duration": 238,
           "byOther": false,
+          "nameKey": "大女人",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "吳克群"
-          },
-          "nameKey": "大女人"
+          }
         },
         {
           "index": 10,
@@ -478,12 +508,12 @@
           "playsText": "播放次數：2357",
           "duration": 254,
           "byOther": false,
+          "nameKey": "鏡子",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "陳伯庭、蔡政勳"
-          },
-          "nameKey": "鏡子"
+          }
         },
         {
           "index": 11,
@@ -522,12 +552,12 @@
           "playsText": "播放次數：5775",
           "duration": 236,
           "byOther": false,
+          "nameKey": "冠軍",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "冠軍"
+          }
         },
         {
           "index": 2,
@@ -538,11 +568,11 @@
           "playsText": "播放次數：892",
           "duration": 23,
           "byOther": false,
+          "nameKey": "吵架實錄",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群"
-          },
-          "nameKey": "吵架實錄"
+          }
         },
         {
           "index": 3,
@@ -553,12 +583,12 @@
           "playsText": "播放次數：156萬",
           "duration": 249,
           "byOther": false,
+          "nameKey": "男傭",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "男傭"
+          }
         },
         {
           "index": 4,
@@ -569,12 +599,12 @@
           "playsText": "播放次數：50萬",
           "duration": 250,
           "byOther": false,
+          "nameKey": "明天過後",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "明天過後"
+          }
         },
         {
           "index": 5,
@@ -585,12 +615,12 @@
           "playsText": "播放次數：334萬",
           "duration": 224,
           "byOther": false,
+          "nameKey": "將軍令",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "將軍令"
+          }
         },
         {
           "index": 6,
@@ -601,12 +631,12 @@
           "playsText": "播放次數：41萬",
           "duration": 287,
           "byOther": false,
+          "nameKey": "紙片人",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "紙片人"
+          }
         },
         {
           "index": 7,
@@ -617,12 +647,12 @@
           "playsText": "播放次數：1808",
           "duration": 251,
           "byOther": false,
+          "nameKey": "解藥",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "解藥"
+          }
         },
         {
           "index": 8,
@@ -633,12 +663,12 @@
           "playsText": "播放次數：217萬",
           "duration": 342,
           "byOther": false,
+          "nameKey": "殘廢",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "周恆毅"
-          },
-          "nameKey": "殘廢"
+          }
         },
         {
           "index": 9,
@@ -649,12 +679,12 @@
           "playsText": "播放次數：9.9萬",
           "duration": 301,
           "byOther": false,
+          "nameKey": "默劇",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "鍾成虎"
-          },
-          "nameKey": "默劇"
+          }
         },
         {
           "index": 10,
@@ -665,12 +695,12 @@
           "playsText": "播放次數：2.1萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "戲劇天才",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "戲劇天才"
+          }
         },
         {
           "index": 11,
@@ -681,12 +711,12 @@
           "playsText": "播放次數：1.2萬",
           "duration": 275,
           "byOther": false,
+          "nameKey": "家的名字",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "Mac Chew"
-          },
-          "nameKey": "家的名字"
+          }
         }
       ],
       "releaseDate": "2006-10-13",
@@ -714,12 +744,12 @@
           "playsText": "播放次數：2677萬",
           "duration": 286,
           "byOther": false,
+          "nameKey": "為你寫詩",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "為你寫詩"
+          }
         },
         {
           "index": 2,
@@ -730,12 +760,12 @@
           "playsText": "播放次數：204萬",
           "duration": 227,
           "byOther": false,
+          "nameKey": "牽牽牽手",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "牽牽牽手"
+          }
         },
         {
           "index": 3,
@@ -746,12 +776,12 @@
           "playsText": "播放次數：30萬",
           "duration": 240,
           "byOther": false,
+          "nameKey": "情人節",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "情人節"
+          }
         },
         {
           "index": 4,
@@ -762,12 +792,12 @@
           "playsText": "播放次數：70萬",
           "duration": 203,
           "byOther": false,
+          "nameKey": "什麼東西",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "什麼東西"
+          }
         },
         {
           "index": 5,
@@ -778,12 +808,12 @@
           "playsText": "播放次數：601萬",
           "duration": 273,
           "byOther": false,
+          "nameKey": "越愛越難過",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "越愛越難過"
+          }
         },
         {
           "index": 6,
@@ -794,12 +824,12 @@
           "playsText": "播放次數：7970",
           "duration": 241,
           "byOther": false,
+          "nameKey": "音樂讓我說",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "音樂讓我說"
+          }
         },
         {
           "index": 7,
@@ -810,12 +840,12 @@
           "playsText": "播放次數：8.4萬",
           "duration": 246,
           "byOther": false,
+          "nameKey": "我不管",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "我不管"
+          }
         },
         {
           "index": 8,
@@ -837,12 +867,12 @@
           "playsText": "播放次數：5042",
           "duration": 368,
           "byOther": false,
+          "nameKey": "我的自傳",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "我的自傳"
+          }
         },
         {
           "index": 10,
@@ -853,12 +883,12 @@
           "playsText": "播放次數：6534",
           "duration": 277,
           "byOther": false,
+          "nameKey": "眼睛不閉著",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "眼睛不閉著"
+          }
         }
       ],
       "releaseDate": "2008-03-14",
@@ -985,8 +1015,8 @@
           "playsText": "播放次數：61",
           "duration": 113,
           "byOther": true,
-          "titleZh": "櫃子裡的心跳聲",
-          "nameKey": "櫃子裡的心跳聲"
+          "nameKey": "櫃子裡的心跳聲",
+          "titleZh": "櫃子裡的心跳聲"
         },
         {
           "index": 11,
@@ -1201,12 +1231,12 @@
           "playsText": "播放次數：2677萬",
           "duration": 286,
           "byOther": false,
+          "nameKey": "為你寫詩",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "為你寫詩"
+          }
         },
         {
           "index": 2,
@@ -1217,7 +1247,12 @@
           "playsText": "播放次數：530萬",
           "duration": 252,
           "byOther": false,
-          "nameKey": "愛太痛"
+          "nameKey": "愛太痛",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "Op.dan"
+          }
         },
         {
           "index": 3,
@@ -1228,7 +1263,12 @@
           "playsText": "播放次數：1.5萬",
           "duration": 231,
           "byOther": false,
-          "nameKey": "麥擱憨"
+          "nameKey": "麥擱憨",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "Op.dan"
+          }
         },
         {
           "index": 4,
@@ -1239,12 +1279,12 @@
           "playsText": "播放次數：159萬",
           "duration": 287,
           "byOther": false,
+          "nameKey": "不屑紀念",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "陳信安、蔡政勳"
-          },
-          "nameKey": "不屑紀念"
+          }
         },
         {
           "index": 5,
@@ -1255,7 +1295,12 @@
           "playsText": "播放次數：59萬",
           "duration": 284,
           "byOther": false,
-          "nameKey": "傻瓜"
+          "nameKey": "傻瓜",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "周恆毅"
+          }
         },
         {
           "index": 6,
@@ -1266,12 +1311,12 @@
           "playsText": "播放次數：217萬",
           "duration": 342,
           "byOther": false,
+          "nameKey": "殘廢",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "周恆毅"
-          },
-          "nameKey": "殘廢"
+          }
         },
         {
           "index": 7,
@@ -1282,7 +1327,12 @@
           "playsText": "播放次數：2.6萬",
           "duration": 207,
           "byOther": false,
-          "nameKey": "對不起"
+          "nameKey": "對不起",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉、Mickey Chen"
+          }
         },
         {
           "index": 8,
@@ -1293,8 +1343,13 @@
           "playsText": "播放次數：138萬",
           "duration": 213,
           "byOther": false,
+          "nameKey": "nanana",
           "titleZh": "Na Na Na (新歌)",
-          "nameKey": "nanana"
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "奧斯卡"
+          }
         },
         {
           "index": 9,
@@ -1305,12 +1360,12 @@
           "playsText": "播放次數：204萬",
           "duration": 227,
           "byOther": false,
+          "nameKey": "牽牽牽手",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "牽牽牽手"
+          }
         },
         {
           "index": 10,
@@ -1321,12 +1376,12 @@
           "playsText": "播放次數：156萬",
           "duration": 249,
           "byOther": false,
+          "nameKey": "男傭",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "男傭"
+          }
         },
         {
           "index": 11,
@@ -1337,12 +1392,12 @@
           "playsText": "播放次數：50萬",
           "duration": 250,
           "byOther": false,
+          "nameKey": "明天過後",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "明天過後"
+          }
         },
         {
           "index": 12,
@@ -1353,12 +1408,12 @@
           "playsText": "播放次數：334萬",
           "duration": 224,
           "byOther": false,
+          "nameKey": "將軍令",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "將軍令"
+          }
         },
         {
           "index": 13,
@@ -1369,12 +1424,12 @@
           "playsText": "播放次數：218萬",
           "duration": 242,
           "byOther": false,
+          "nameKey": "大舌頭",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "吳克群"
-          },
-          "nameKey": "大舌頭"
+          }
         },
         {
           "index": 14,
@@ -1385,12 +1440,12 @@
           "playsText": "播放次數：601萬",
           "duration": 273,
           "byOther": false,
+          "nameKey": "越愛越難過",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "越愛越難過"
+          }
         },
         {
           "index": 15,
@@ -1401,12 +1456,12 @@
           "playsText": "播放次數：70萬",
           "duration": 203,
           "byOther": false,
+          "nameKey": "什麼東西",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "什麼東西"
+          }
         },
         {
           "index": 16,
@@ -1417,7 +1472,12 @@
           "playsText": "播放次數：14萬",
           "duration": 239,
           "byOther": false,
-          "nameKey": "聖誕分手節"
+          "nameKey": "聖誕分手節",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉、Mickey Chen"
+          }
         },
         {
           "index": 17,
@@ -1428,7 +1488,12 @@
           "playsText": "播放次數：33萬",
           "duration": 265,
           "byOther": false,
-          "nameKey": "學不會"
+          "nameKey": "學不會",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉"
+          }
         },
         {
           "index": 18,
@@ -1439,12 +1504,12 @@
           "playsText": "播放次數：30萬",
           "duration": 240,
           "byOther": false,
+          "nameKey": "情人節",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "情人節"
+          }
         },
         {
           "index": 19,
@@ -1455,12 +1520,12 @@
           "playsText": "播放次數：7970",
           "duration": 241,
           "byOther": false,
+          "nameKey": "音樂讓我說",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "音樂讓我說"
+          }
         },
         {
           "index": 20,
@@ -1471,7 +1536,12 @@
           "playsText": "播放次數：47萬",
           "duration": 314,
           "byOther": false,
-          "nameKey": "別太溫柔"
+          "nameKey": "別太溫柔",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉、Mickey Chen"
+          }
         },
         {
           "index": 21,
@@ -1482,12 +1552,12 @@
           "playsText": "播放次數：5775",
           "duration": 236,
           "byOther": false,
+          "nameKey": "冠軍",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "冠軍"
+          }
         },
         {
           "index": 22,
@@ -1498,12 +1568,12 @@
           "playsText": "播放次數：8.4萬",
           "duration": 246,
           "byOther": false,
+          "nameKey": "我不管",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "我不管"
+          }
         },
         {
           "index": 23,
@@ -1514,7 +1584,12 @@
           "playsText": "播放次數：117萬",
           "duration": 196,
           "byOther": false,
-          "nameKey": "老子說"
+          "nameKey": "老子說",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "奧斯卡"
+          }
         },
         {
           "index": 24,
@@ -1525,12 +1600,12 @@
           "playsText": "播放次數：115萬",
           "duration": 264,
           "byOther": false,
+          "nameKey": "我有罪",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "章世和"
-          },
-          "nameKey": "我有罪"
+          }
         },
         {
           "index": 25,
@@ -1541,12 +1616,12 @@
           "playsText": "播放次數：32萬",
           "duration": 285,
           "byOther": false,
+          "nameKey": "泛泛之輩",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "蔡政勳、陳伯庭"
-          },
-          "nameKey": "泛泛之輩"
+          }
         },
         {
           "index": 26,
@@ -1557,12 +1632,12 @@
           "playsText": "播放次數：28萬",
           "duration": 207,
           "byOther": false,
+          "nameKey": "周星星",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "周星星"
+          }
         },
         {
           "index": 27,
@@ -1584,12 +1659,12 @@
           "playsText": "播放次數：6534",
           "duration": 277,
           "byOther": false,
+          "nameKey": "眼睛不閉著",
           "credits": {
             "lyrics": "吳克群，除備註有註明則例外。",
             "music": "吳克群，除備註有註明則例外。",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "眼睛不閉著"
+          }
         },
         {
           "index": 29,
@@ -1600,7 +1675,12 @@
           "playsText": "播放次數：76萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "吳克群"
+          "nameKey": "吳克群",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉、Mickey Chen"
+          }
         },
         {
           "index": 30,
@@ -1611,7 +1691,12 @@
           "playsText": "播放次數：964",
           "duration": 260,
           "byOther": false,
-          "nameKey": "先生你哪位"
+          "nameKey": "先生你哪位",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "Mickey Chen"
+          }
         },
         {
           "index": 31,
@@ -1661,12 +1746,12 @@
           "playsText": "播放次數：18萬",
           "duration": 259,
           "byOther": false,
+          "nameKey": "把心拉近",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "把心拉近"
+          }
         },
         {
           "index": 2,
@@ -1677,12 +1762,12 @@
           "playsText": "播放次數：3787",
           "duration": 294,
           "byOther": false,
+          "nameKey": "住在心裡面",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "住在心裡面"
+          }
         },
         {
           "index": 3,
@@ -1693,12 +1778,12 @@
           "playsText": "播放次數：3.2萬",
           "duration": 272,
           "byOther": false,
+          "nameKey": "愛是力量",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "愛是力量"
+          }
         },
         {
           "index": 4,
@@ -1709,12 +1794,12 @@
           "playsText": "播放次數：124",
           "duration": 301,
           "byOther": false,
+          "nameKey": "住在心裡面",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "住在心裡面"
+          }
         }
       ],
       "releaseDate": "2009-05-15",
@@ -1753,12 +1838,12 @@
           "playsText": "播放次數：94萬",
           "duration": 199,
           "byOther": false,
+          "nameKey": "愛我恨我",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "愛我恨我"
+          }
         },
         {
           "index": 3,
@@ -1769,12 +1854,12 @@
           "playsText": "播放次數：3萬",
           "duration": 212,
           "byOther": false,
+          "nameKey": "砰砰砰",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "砰砰砰"
+          }
         },
         {
           "index": 4,
@@ -1785,12 +1870,12 @@
           "playsText": "播放次數：842萬",
           "duration": 238,
           "byOther": false,
+          "nameKey": "沒關係",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "小宇"
-          },
-          "nameKey": "沒關係"
+          }
         },
         {
           "index": 5,
@@ -1801,12 +1886,12 @@
           "playsText": "播放次數：717萬",
           "duration": 254,
           "byOther": false,
+          "nameKey": "我能給的",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "鴉片丹"
-          },
-          "nameKey": "我能給的"
+          }
         },
         {
           "index": 6,
@@ -1817,12 +1902,12 @@
           "playsText": "播放次數：4.1萬",
           "duration": 274,
           "byOther": false,
+          "nameKey": "woohoo",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "woohoo"
+          }
         },
         {
           "index": 7,
@@ -1833,13 +1918,13 @@
           "playsText": "播放次數：13萬",
           "duration": 245,
           "byOther": false,
+          "nameKey": "住在心裡面",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
           },
-          "titleZh": "住在心裡面",
-          "nameKey": "住在心裡面"
+          "titleZh": "住在心裡面"
         },
         {
           "index": 8,
@@ -1872,12 +1957,12 @@
           "playsText": "播放次數：2.4萬",
           "duration": 218,
           "byOther": false,
+          "nameKey": "takeabreak",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "takeabreak"
+          }
         },
         {
           "index": 11,
@@ -1888,12 +1973,12 @@
           "playsText": "播放次數：234萬",
           "duration": 284,
           "byOther": false,
+          "nameKey": "絕對不放",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "絕對不放"
+          }
         },
         {
           "index": 12,
@@ -1904,12 +1989,12 @@
           "playsText": "播放次數：294萬",
           "duration": 288,
           "byOther": false,
+          "nameKey": "破心臟",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "破心臟"
+          }
         },
         {
           "index": 13,
@@ -1920,12 +2005,12 @@
           "playsText": "播放次數：658",
           "duration": 90,
           "byOther": false,
+          "nameKey": "愛我恨我末章",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "愛我恨我末章"
+          }
         },
         {
           "index": 14,
@@ -1936,12 +2021,12 @@
           "playsText": "播放次數：3.7萬",
           "duration": 278,
           "byOther": false,
+          "nameKey": "愛之深責之切",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "愛之深責之切"
+          }
         }
       ],
       "releaseDate": "2010-10-16",
@@ -1969,12 +2054,12 @@
           "playsText": "播放次數：79萬",
           "duration": 241,
           "byOther": false,
+          "nameKey": "愛的秘方",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "愛的秘方"
+          }
         },
         {
           "index": 2,
@@ -1985,12 +2070,12 @@
           "playsText": "播放次數：56萬",
           "duration": 275,
           "byOther": false,
+          "nameKey": "一半一半",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "一半一半"
+          }
         },
         {
           "index": 3,
@@ -2001,12 +2086,12 @@
           "playsText": "播放次數：187",
           "duration": 142,
           "byOther": false,
+          "nameKey": "一半一半",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "一半一半"
+          }
         },
         {
           "index": 4,
@@ -2017,12 +2102,12 @@
           "playsText": "播放次數：310",
           "duration": 154,
           "byOther": false,
+          "nameKey": "一半一半",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "一半一半"
+          }
         },
         {
           "index": 5,
@@ -2033,12 +2118,12 @@
           "playsText": "播放次數：146",
           "duration": 144,
           "byOther": false,
+          "nameKey": "一半一半",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "一半一半"
+          }
         },
         {
           "index": 6,
@@ -2049,12 +2134,12 @@
           "playsText": "播放次數：100",
           "duration": 156,
           "byOther": false,
+          "nameKey": "愛的秘方",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "愛的秘方"
+          }
         },
         {
           "index": 7,
@@ -2065,12 +2150,12 @@
           "playsText": "播放次數：85",
           "duration": 118,
           "byOther": false,
+          "nameKey": "愛的秘方",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "愛的秘方"
+          }
         },
         {
           "index": 8,
@@ -2081,12 +2166,12 @@
           "playsText": "播放次數：89",
           "duration": 105,
           "byOther": false,
+          "nameKey": "愛的秘方",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "愛的秘方"
+          }
         },
         {
           "index": 9,
@@ -2097,12 +2182,12 @@
           "playsText": "播放次數：137",
           "duration": 134,
           "byOther": false,
+          "nameKey": "愛的秘方",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "愛的秘方"
+          }
         }
       ],
       "releaseDate": null,
@@ -2130,13 +2215,13 @@
           "playsText": "播放次數：3757",
           "duration": 75,
           "byOther": false,
+          "nameKey": "intro狂歡",
           "titleZh": "Intro 狂歡",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "intro狂歡"
+          }
         },
         {
           "index": 2,
@@ -2147,12 +2232,12 @@
           "playsText": "播放次數：165萬",
           "duration": 237,
           "byOther": false,
+          "nameKey": "寂寞來了怎麼辦",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "寂寞來了怎麼辦"
+          }
         },
         {
           "index": 3,
@@ -2163,12 +2248,12 @@
           "playsText": "播放次數：1113萬",
           "duration": 329,
           "byOther": false,
+          "nameKey": "胡鬧",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "胡鬧"
+          }
         },
         {
           "index": 4,
@@ -2201,12 +2286,12 @@
           "playsText": "播放次數：11萬",
           "duration": 262,
           "byOther": false,
+          "nameKey": "第一秒鐘",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "第一秒鐘"
+          }
         },
         {
           "index": 7,
@@ -2217,12 +2302,12 @@
           "playsText": "播放次數：5.6萬",
           "duration": 209,
           "byOther": false,
+          "nameKey": "goodluck",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "goodluck"
+          }
         },
         {
           "index": 8,
@@ -2233,12 +2318,12 @@
           "playsText": "播放次數：1374",
           "duration": 42,
           "byOther": false,
+          "nameKey": "別消費我的愛情",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "別消費我的愛情"
+          }
         },
         {
           "index": 9,
@@ -2249,12 +2334,12 @@
           "playsText": "播放次數：3.7萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "getout",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "getout"
+          }
         },
         {
           "index": 10,
@@ -2265,12 +2350,12 @@
           "playsText": "播放次數：299萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "全部都給你",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "全部都給你"
+          }
         },
         {
           "index": 11,
@@ -2281,12 +2366,12 @@
           "playsText": "播放次數：9萬",
           "duration": 257,
           "byOther": false,
+          "nameKey": "babymaybe",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "babymaybe"
+          }
         },
         {
           "index": 12,
@@ -2297,12 +2382,12 @@
           "playsText": "播放次數：3.5萬",
           "duration": 290,
           "byOther": false,
+          "nameKey": "早安",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "早安"
+          }
         },
         {
           "index": 13,
@@ -2313,13 +2398,13 @@
           "playsText": "播放次數：79萬",
           "duration": 241,
           "byOther": false,
+          "nameKey": "愛的秘方",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
           },
-          "titleZh": "愛的秘方",
-          "nameKey": "愛的秘方"
+          "titleZh": "愛的秘方"
         },
         {
           "index": 14,
@@ -2330,12 +2415,12 @@
           "playsText": "播放次數：56萬",
           "duration": 275,
           "byOther": false,
+          "nameKey": "一半一半",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "一半一半"
+          }
         },
         {
           "index": 15,
@@ -2346,12 +2431,12 @@
           "playsText": "播放次數：26萬",
           "duration": 210,
           "byOther": false,
+          "nameKey": "星辰變",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "星辰變"
+          }
         },
         {
           "index": 16,
@@ -2362,12 +2447,12 @@
           "playsText": "播放次數：344萬",
           "duration": 246,
           "byOther": false,
+          "nameKey": "全部都給你",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "全部都給你"
+          }
         }
       ],
       "releaseDate": "2012-07-28",
@@ -2395,12 +2480,12 @@
           "playsText": "播放次數：168萬",
           "duration": 341,
           "byOther": false,
+          "nameKey": "寄生",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "寄生"
+          }
         },
         {
           "index": 2,
@@ -2433,12 +2518,12 @@
           "playsText": "播放次數：3.5萬",
           "duration": 279,
           "byOther": false,
+          "nameKey": "愛之深責之切",
           "credits": {
             "lyrics": "吳克群（2-7，9-12，14-15），吳克群、黃荻鈞（1，13），吳克群、陳時儁（8）",
             "music": "吳克群",
             "arranger": "奧斯卡"
-          },
-          "nameKey": "愛之深責之切"
+          }
         },
         {
           "index": 5,
@@ -3551,8 +3636,8 @@
           "playsText": "播放次數：1175",
           "duration": 201,
           "byOther": false,
-          "titleZh": "最好的寶藏",
-          "nameKey": "最好的寶藏"
+          "nameKey": "最好的寶藏",
+          "titleZh": "最好的寶藏"
         },
         {
           "index": 2,
@@ -3563,8 +3648,8 @@
           "playsText": "播放次數：44",
           "duration": 201,
           "byOther": false,
-          "titleZh": "最好的寶藏 (和聲伴奏版)",
-          "nameKey": "最好的寶藏"
+          "nameKey": "最好的寶藏",
+          "titleZh": "最好的寶藏 (和聲伴奏版)"
         }
       ],
       "releaseDate": null,
@@ -3592,12 +3677,12 @@
           "playsText": "播放次數：18萬",
           "duration": 201,
           "byOther": false,
+          "nameKey": "國王密室",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "國王密室"
+          }
         }
       ],
       "releaseDate": null,
@@ -3625,12 +3710,12 @@
           "playsText": "播放次數：23萬",
           "duration": 236,
           "byOther": false,
+          "nameKey": "奇異博士",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "奇異博士"
+          }
         }
       ],
       "releaseDate": null,
@@ -3658,12 +3743,12 @@
           "playsText": "播放次數：81萬",
           "duration": 172,
           "byOther": false,
+          "nameKey": "抽象",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "抽象"
+          }
         }
       ],
       "releaseDate": null,
@@ -3691,12 +3776,12 @@
           "playsText": "播放次數：34萬",
           "duration": 226,
           "byOther": false,
+          "nameKey": "斯德哥爾摩",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "斯德哥爾摩"
+          }
         }
       ],
       "releaseDate": null,
@@ -3724,12 +3809,12 @@
           "playsText": "播放次數：1萬",
           "duration": 26,
           "byOther": false,
+          "nameKey": "降臨",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "降臨"
+          }
         },
         {
           "index": 2,
@@ -3740,12 +3825,12 @@
           "playsText": "播放次數：37萬",
           "duration": 207,
           "byOther": false,
+          "nameKey": "銀河裡擁抱",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "銀河裡擁抱"
+          }
         },
         {
           "index": 3,
@@ -3756,12 +3841,12 @@
           "playsText": "播放次數：81萬",
           "duration": 172,
           "byOther": false,
+          "nameKey": "抽象",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "抽象"
+          }
         },
         {
           "index": 4,
@@ -3772,12 +3857,12 @@
           "playsText": "播放次數：4萬",
           "duration": 195,
           "byOther": false,
+          "nameKey": "佛洛伊德",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "佛洛伊德"
+          }
         },
         {
           "index": 5,
@@ -3799,12 +3884,12 @@
           "playsText": "播放次數：34萬",
           "duration": 227,
           "byOther": false,
+          "nameKey": "斯德哥爾摩",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "斯德哥爾摩"
+          }
         },
         {
           "index": 7,
@@ -3815,12 +3900,12 @@
           "playsText": "播放次數：2.3萬",
           "duration": 226,
           "byOther": false,
+          "nameKey": "跳完這支舞再走",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "跳完這支舞再走"
+          }
         },
         {
           "index": 8,
@@ -3831,12 +3916,12 @@
           "playsText": "播放次數：7281",
           "duration": 178,
           "byOther": false,
+          "nameKey": "阿茲海默",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "阿茲海默"
+          }
         },
         {
           "index": 9,
@@ -3847,12 +3932,12 @@
           "playsText": "播放次數：23萬",
           "duration": 238,
           "byOther": false,
+          "nameKey": "奇異博士",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "奇異博士"
+          }
         },
         {
           "index": 10,
@@ -3863,12 +3948,12 @@
           "playsText": "播放次數：2.2萬",
           "duration": 192,
           "byOther": false,
+          "nameKey": "夸父追日",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "夸父追日"
+          }
         },
         {
           "index": 11,
@@ -3879,12 +3964,12 @@
           "playsText": "播放次數：3554",
           "duration": 93,
           "byOther": false,
+          "nameKey": "日落寧靜海",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "日落寧靜海"
+          }
         },
         {
           "index": 12,
@@ -3895,12 +3980,12 @@
           "playsText": "播放次數：4212",
           "duration": 201,
           "byOther": false,
+          "nameKey": "風林火山",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "風林火山"
+          }
         },
         {
           "index": 13,
@@ -3911,12 +3996,12 @@
           "playsText": "播放次數：4002",
           "duration": 239,
           "byOther": false,
+          "nameKey": "xmen變種人",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "xmen變種人"
+          }
         },
         {
           "index": 14,
@@ -3927,12 +4012,12 @@
           "playsText": "播放次數：1.2萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "普羅米修斯",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "奧斯卡；除特別註明。"
-          },
-          "nameKey": "普羅米修斯"
+          }
         }
       ],
       "releaseDate": "2022-06-24",
@@ -4188,8 +4273,8 @@
           "playsText": "播放次數：6859",
           "duration": 170,
           "byOther": false,
-          "titleZh": "心動的信號",
-          "nameKey": "心動的信號"
+          "nameKey": "心動的信號",
+          "titleZh": "心動的信號"
         }
       ],
       "releaseDate": null,
@@ -4424,7 +4509,12 @@
           "playsText": "播放次數：14萬",
           "duration": 239,
           "byOther": false,
-          "nameKey": "聖誕分手節"
+          "nameKey": "聖誕分手節",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "陳偉、Mickey Chen"
+          }
         },
         {
           "index": 2,
@@ -4541,8 +4631,8 @@
           "playsText": "播放次數：5339",
           "duration": 265,
           "byOther": false,
-          "titleZh": "別在KTV裡唱情歌",
-          "nameKey": "別在ktv裡唱情歌"
+          "nameKey": "別在ktv裡唱情歌",
+          "titleZh": "別在KTV裡唱情歌"
         },
         {
           "index": 2,
@@ -4553,8 +4643,8 @@
           "playsText": "播放次數：226",
           "duration": 265,
           "byOther": false,
-          "titleZh": "別在KTV裡唱情歌 (伴奏)",
-          "nameKey": "別在ktv裡唱情歌"
+          "nameKey": "別在ktv裡唱情歌",
+          "titleZh": "別在KTV裡唱情歌 (伴奏)"
         }
       ],
       "releaseDate": null,
@@ -4582,8 +4672,8 @@
           "playsText": "播放次數：1.5萬",
           "duration": 240,
           "byOther": false,
-          "titleZh": "即興的誓 爛尾的詩",
-          "nameKey": "卽興的誓爛尾的詩"
+          "nameKey": "卽興的誓爛尾的詩",
+          "titleZh": "即興的誓 爛尾的詩"
         },
         {
           "index": 2,
@@ -4594,8 +4684,8 @@
           "playsText": "播放次數：228",
           "duration": 240,
           "byOther": false,
-          "titleZh": "即興的誓 爛尾的詩 (伴奏)",
-          "nameKey": "卽興的誓爛尾的詩"
+          "nameKey": "卽興的誓爛尾的詩",
+          "titleZh": "即興的誓 爛尾的詩 (伴奏)"
         }
       ],
       "releaseDate": null,
@@ -4785,7 +4875,12 @@
           "playsText": null,
           "duration": 187,
           "byOther": false,
-          "nameKey": "愛太痛"
+          "nameKey": "愛太痛",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "Op.dan"
+          }
         }
       ],
       "releaseDate": null,
@@ -4869,8 +4964,8 @@
           "playsText": "播放次數：1738",
           "duration": 123,
           "byOther": false,
-          "titleZh": "撒嬌只對你有效 (真人互動影遊《戀愛單選題》主題曲)",
-          "nameKey": "撒嬌只對你有效"
+          "nameKey": "撒嬌只對你有效",
+          "titleZh": "撒嬌只對你有效 (真人互動影遊《戀愛單選題》主題曲)"
         },
         {
           "index": 2,
@@ -4881,8 +4976,8 @@
           "playsText": "播放次數：310",
           "duration": 123,
           "byOther": false,
-          "titleZh": "撒嬌只對你有效 (真人互動影遊《戀愛單選題》主題曲伴奏)",
-          "nameKey": "撒嬌只對你有效"
+          "nameKey": "撒嬌只對你有效",
+          "titleZh": "撒嬌只對你有效 (真人互動影遊《戀愛單選題》主題曲伴奏)"
         }
       ],
       "releaseDate": null,
@@ -4938,8 +5033,8 @@
           "playsText": "播放次數：157萬",
           "duration": 281,
           "byOther": true,
-          "titleZh": "遠方的花",
-          "nameKey": "遠方的花"
+          "nameKey": "遠方的花",
+          "titleZh": "遠方的花"
         },
         {
           "index": 2,
@@ -4950,8 +5045,8 @@
           "playsText": "播放次數：235萬",
           "duration": 276,
           "byOther": true,
-          "titleZh": "風吹過的晨曦",
-          "nameKey": "風吹過的晨曦"
+          "nameKey": "風吹過的晨曦",
+          "titleZh": "風吹過的晨曦"
         },
         {
           "index": 3,
@@ -4962,8 +5057,8 @@
           "playsText": "播放次數：214萬",
           "duration": 233,
           "byOther": false,
-          "titleZh": "寫在星星上",
-          "nameKey": "寫在星星上"
+          "nameKey": "寫在星星上",
+          "titleZh": "寫在星星上"
         },
         {
           "index": 4,
@@ -4985,8 +5080,8 @@
           "playsText": "播放次數：52萬",
           "duration": 226,
           "byOther": true,
-          "titleZh": "長夜星光",
-          "nameKey": "長夜星光"
+          "nameKey": "長夜星光",
+          "titleZh": "長夜星光"
         },
         {
           "index": 6,
@@ -5008,8 +5103,8 @@
           "playsText": "播放次數：43萬",
           "duration": 215,
           "byOther": true,
-          "titleZh": "Something Worth Saving (愛依然存在)",
-          "nameKey": "somethingworthsaving"
+          "nameKey": "somethingworthsaving",
+          "titleZh": "Something Worth Saving (愛依然存在)"
         },
         {
           "index": 8,
@@ -5020,8 +5115,8 @@
           "playsText": "播放次數：26萬",
           "duration": 257,
           "byOther": true,
-          "titleZh": "Always on my mind (總在我的心境中)",
-          "nameKey": "alwaysonmymind"
+          "nameKey": "alwaysonmymind",
+          "titleZh": "Always on my mind (總在我的心境中)"
         },
         {
           "index": 9,
@@ -5032,8 +5127,8 @@
           "playsText": "播放次數：29萬",
           "duration": 220,
           "byOther": true,
-          "titleZh": "Rose Whispers (玫瑰私語)",
-          "nameKey": "rosewhispers"
+          "nameKey": "rosewhispers",
+          "titleZh": "Rose Whispers (玫瑰私語)"
         },
         {
           "index": 10,
@@ -5044,8 +5139,8 @@
           "playsText": "播放次數：1.6萬",
           "duration": 198,
           "byOther": true,
-          "titleZh": "Rose Whispers (玫瑰私語) (劇情版)",
-          "nameKey": "rosewhispers"
+          "nameKey": "rosewhispers",
+          "titleZh": "Rose Whispers (玫瑰私語) (劇情版)"
         },
         {
           "index": 11,
@@ -5111,8 +5206,8 @@
           "playsText": "播放次數：7300",
           "duration": 265,
           "byOther": true,
-          "titleZh": "玫瑰綻放",
-          "nameKey": "玫瑰綻放"
+          "nameKey": "玫瑰綻放",
+          "titleZh": "玫瑰綻放"
         },
         {
           "index": 17,
@@ -5134,8 +5229,8 @@
           "playsText": "播放次數：8345",
           "duration": 208,
           "byOther": true,
-          "titleZh": "溫柔角落",
-          "nameKey": "溫柔角落"
+          "nameKey": "溫柔角落",
+          "titleZh": "溫柔角落"
         },
         {
           "index": 19,
@@ -5146,8 +5241,8 @@
           "playsText": "播放次數：6389",
           "duration": 180,
           "byOther": true,
-          "titleZh": "純真愛意",
-          "nameKey": "純眞愛意"
+          "nameKey": "純眞愛意",
+          "titleZh": "純真愛意"
         },
         {
           "index": 20,
@@ -5169,8 +5264,8 @@
           "playsText": "播放次數：5589",
           "duration": 171,
           "byOther": true,
-          "titleZh": "旭日暖陽",
-          "nameKey": "旭日暖陽"
+          "nameKey": "旭日暖陽",
+          "titleZh": "旭日暖陽"
         },
         {
           "index": 22,
@@ -5181,8 +5276,8 @@
           "playsText": "播放次數：4797",
           "duration": 156,
           "byOther": true,
-          "titleZh": "愛過痛過",
-          "nameKey": "愛過痛過"
+          "nameKey": "愛過痛過",
+          "titleZh": "愛過痛過"
         },
         {
           "index": 23,
@@ -5193,8 +5288,8 @@
           "playsText": "播放次數：5734",
           "duration": 91,
           "byOther": true,
-          "titleZh": "他想像的她",
-          "nameKey": "他想像的她"
+          "nameKey": "他想像的她",
+          "titleZh": "他想像的她"
         },
         {
           "index": 24,
@@ -5205,8 +5300,8 @@
           "playsText": "播放次數：3205",
           "duration": 126,
           "byOther": true,
-          "titleZh": "撥開雲霧",
-          "nameKey": "撥開雲霧"
+          "nameKey": "撥開雲霧",
+          "titleZh": "撥開雲霧"
         },
         {
           "index": 25,
@@ -5217,8 +5312,8 @@
           "playsText": "播放次數：2555",
           "duration": 167,
           "byOther": true,
-          "titleZh": "解開心結",
-          "nameKey": "解開心結"
+          "nameKey": "解開心結",
+          "titleZh": "解開心結"
         },
         {
           "index": 26,
@@ -5240,8 +5335,8 @@
           "playsText": "播放次數：2206",
           "duration": 123,
           "byOther": true,
-          "titleZh": "生動愜意",
-          "nameKey": "生動愜意"
+          "nameKey": "生動愜意",
+          "titleZh": "生動愜意"
         },
         {
           "index": 28,
@@ -5263,8 +5358,8 @@
           "playsText": "播放次數：1789",
           "duration": 183,
           "byOther": true,
-          "titleZh": "思緒對抗",
-          "nameKey": "思緖對抗"
+          "nameKey": "思緖對抗",
+          "titleZh": "思緒對抗"
         },
         {
           "index": 30,
@@ -5286,8 +5381,8 @@
           "playsText": "播放次數：1859",
           "duration": 143,
           "byOther": true,
-          "titleZh": "青春氣息",
-          "nameKey": "青春氣息"
+          "nameKey": "青春氣息",
+          "titleZh": "青春氣息"
         },
         {
           "index": 32,
@@ -5298,8 +5393,8 @@
           "playsText": "播放次數：5598",
           "duration": 281,
           "byOther": true,
-          "titleZh": "遠方的花 (伴奏)",
-          "nameKey": "遠方的花"
+          "nameKey": "遠方的花",
+          "titleZh": "遠方的花 (伴奏)"
         },
         {
           "index": 33,
@@ -5310,8 +5405,8 @@
           "playsText": "播放次數：3369",
           "duration": 276,
           "byOther": true,
-          "titleZh": "風吹過的晨曦 (伴奏)",
-          "nameKey": "風吹過的晨曦"
+          "nameKey": "風吹過的晨曦",
+          "titleZh": "風吹過的晨曦 (伴奏)"
         },
         {
           "index": 34,
@@ -5322,8 +5417,8 @@
           "playsText": "播放次數：3057",
           "duration": 233,
           "byOther": false,
-          "titleZh": "寫在星星上 (伴奏)",
-          "nameKey": "寫在星星上"
+          "nameKey": "寫在星星上",
+          "titleZh": "寫在星星上 (伴奏)"
         },
         {
           "index": 35,
@@ -5345,8 +5440,8 @@
           "playsText": "播放次數：2594",
           "duration": 226,
           "byOther": true,
-          "titleZh": "長夜星光 (伴奏)",
-          "nameKey": "長夜星光"
+          "nameKey": "長夜星光",
+          "titleZh": "長夜星光 (伴奏)"
         },
         {
           "index": 37,
@@ -5368,8 +5463,8 @@
           "playsText": "播放次數：3247",
           "duration": 215,
           "byOther": true,
-          "titleZh": "Something Worth Saving (愛依然存在) (伴奏)",
-          "nameKey": "somethingworthsaving"
+          "nameKey": "somethingworthsaving",
+          "titleZh": "Something Worth Saving (愛依然存在) (伴奏)"
         },
         {
           "index": 39,
@@ -5380,8 +5475,8 @@
           "playsText": "播放次數：4174",
           "duration": 257,
           "byOther": true,
-          "titleZh": "Always on my mind (總在我的心境中) (伴奏)",
-          "nameKey": "alwaysonmymind"
+          "nameKey": "alwaysonmymind",
+          "titleZh": "Always on my mind (總在我的心境中) (伴奏)"
         },
         {
           "index": 40,
@@ -5392,8 +5487,8 @@
           "playsText": "播放次數：1867",
           "duration": 220,
           "byOther": true,
-          "titleZh": "Rose Whispers (玫瑰私語) (伴奏)",
-          "nameKey": "rosewhispers"
+          "nameKey": "rosewhispers",
+          "titleZh": "Rose Whispers (玫瑰私語) (伴奏)"
         },
         {
           "index": 41,
@@ -5404,8 +5499,8 @@
           "playsText": "播放次數：1599",
           "duration": 198,
           "byOther": true,
-          "titleZh": "Rose Whispers (玫瑰私語) (劇情版伴奏)",
-          "nameKey": "rosewhispers"
+          "nameKey": "rosewhispers",
+          "titleZh": "Rose Whispers (玫瑰私語) (劇情版伴奏)"
         },
         {
           "index": 42,
@@ -5427,8 +5522,8 @@
           "playsText": "播放次數：5598",
           "duration": 281,
           "byOther": true,
-          "titleZh": "遠方的花 (和聲伴奏)",
-          "nameKey": "遠方的花"
+          "nameKey": "遠方的花",
+          "titleZh": "遠方的花 (和聲伴奏)"
         },
         {
           "index": 44,
@@ -5439,8 +5534,8 @@
           "playsText": "播放次數：3369",
           "duration": 276,
           "byOther": true,
-          "titleZh": "風吹過的晨曦 (和聲伴奏)",
-          "nameKey": "風吹過的晨曦"
+          "nameKey": "風吹過的晨曦",
+          "titleZh": "風吹過的晨曦 (和聲伴奏)"
         },
         {
           "index": 45,
@@ -5451,8 +5546,8 @@
           "playsText": "播放次數：3057",
           "duration": 233,
           "byOther": false,
-          "titleZh": "寫在星星上 (和聲伴奏)",
-          "nameKey": "寫在星星上"
+          "nameKey": "寫在星星上",
+          "titleZh": "寫在星星上 (和聲伴奏)"
         },
         {
           "index": 46,
@@ -5463,8 +5558,8 @@
           "playsText": "播放次數：2423",
           "duration": 204,
           "byOther": true,
-          "titleZh": "手植玫瑰 (和聲伴奏)",
-          "nameKey": "手植玫瑰"
+          "nameKey": "手植玫瑰",
+          "titleZh": "手植玫瑰 (和聲伴奏)"
         },
         {
           "index": 47,
@@ -5475,8 +5570,8 @@
           "playsText": "播放次數：1210",
           "duration": 226,
           "byOther": true,
-          "titleZh": "長夜星光 (和聲伴奏)",
-          "nameKey": "長夜星光"
+          "nameKey": "長夜星光",
+          "titleZh": "長夜星光 (和聲伴奏)"
         },
         {
           "index": 48,
@@ -5487,8 +5582,8 @@
           "playsText": "播放次數：6105",
           "duration": 216,
           "byOther": true,
-          "titleZh": "Shine Brighter (愈加璀璨) (和聲伴奏)",
-          "nameKey": "shinebrighter"
+          "nameKey": "shinebrighter",
+          "titleZh": "Shine Brighter (愈加璀璨) (和聲伴奏)"
         },
         {
           "index": 49,
@@ -5499,8 +5594,8 @@
           "playsText": "播放次數：3247",
           "duration": 215,
           "byOther": true,
-          "titleZh": "Something Worth Saving (愛依然存在) (和聲伴奏)",
-          "nameKey": "somethingworthsaving"
+          "nameKey": "somethingworthsaving",
+          "titleZh": "Something Worth Saving (愛依然存在) (和聲伴奏)"
         },
         {
           "index": 50,
@@ -5511,8 +5606,8 @@
           "playsText": "播放次數：4182",
           "duration": 257,
           "byOther": true,
-          "titleZh": "Always on my mind (總在我的心境中) (和聲伴奏)",
-          "nameKey": "alwaysonmymind"
+          "nameKey": "alwaysonmymind",
+          "titleZh": "Always on my mind (總在我的心境中) (和聲伴奏)"
         },
         {
           "index": 51,
@@ -5523,8 +5618,8 @@
           "playsText": "播放次數：1867",
           "duration": 220,
           "byOther": true,
-          "titleZh": "Rose Whispers (玫瑰私語) (和聲伴奏)",
-          "nameKey": "rosewhispers"
+          "nameKey": "rosewhispers",
+          "titleZh": "Rose Whispers (玫瑰私語) (和聲伴奏)"
         },
         {
           "index": 52,
@@ -5535,8 +5630,8 @@
           "playsText": "播放次數：1602",
           "duration": 198,
           "byOther": true,
-          "titleZh": "Rose Whispers (玫瑰私語) (劇情版和聲伴奏)",
-          "nameKey": "rosewhispers"
+          "nameKey": "rosewhispers",
+          "titleZh": "Rose Whispers (玫瑰私語) (劇情版和聲伴奏)"
         },
         {
           "index": 53,
@@ -5547,8 +5642,8 @@
           "playsText": "播放次數：1972",
           "duration": 237,
           "byOther": true,
-          "titleZh": "偏航 (和聲伴奏)",
-          "nameKey": "偏航"
+          "nameKey": "偏航",
+          "titleZh": "偏航 (和聲伴奏)"
         }
       ],
       "releaseDate": null,
@@ -5632,7 +5727,12 @@
           "playsText": "播放次數：117萬",
           "duration": 196,
           "byOther": false,
-          "nameKey": "老子說"
+          "nameKey": "老子說",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "奧斯卡"
+          }
         },
         {
           "index": 2,
@@ -5850,8 +5950,8 @@
           "playsText": "播放次數：5526",
           "duration": 252,
           "byOther": false,
-          "titleZh": "人生小事 (綜藝《老有意思旅行社》片尾曲)",
-          "nameKey": "人生小事"
+          "nameKey": "人生小事",
+          "titleZh": "人生小事 (綜藝《老有意思旅行社》片尾曲)"
         },
         {
           "index": 2,
@@ -5862,8 +5962,8 @@
           "playsText": "播放次數：1041",
           "duration": 252,
           "byOther": false,
-          "titleZh": "人生小事 (綜藝《老有意思旅行社》片尾曲伴奏)",
-          "nameKey": "人生小事"
+          "nameKey": "人生小事",
+          "titleZh": "人生小事 (綜藝《老有意思旅行社》片尾曲伴奏)"
         }
       ],
       "releaseDate": null,
@@ -5958,12 +6058,12 @@
           "playsText": "播放次數：1.4萬",
           "duration": 174,
           "byOther": false,
+          "nameKey": "大舌頭",
           "credits": {
             "lyrics": "吳克群",
             "music": "吳克群",
             "arranger": "吳克群"
-          },
-          "nameKey": "大舌頭"
+          }
         }
       ],
       "releaseDate": null,
@@ -6019,7 +6119,12 @@
           "playsText": "播放次數：60萬",
           "duration": 187,
           "byOther": false,
-          "nameKey": "愛太痛"
+          "nameKey": "愛太痛",
+          "credits": {
+            "lyrics": "吳克群",
+            "music": "吳克群",
+            "arranger": "Op.dan"
+          }
         }
       ],
       "releaseDate": null,
@@ -6103,8 +6208,8 @@
           "playsText": "播放次數：1.9萬",
           "duration": 247,
           "byOther": false,
-          "titleZh": "為你寫詩2024",
-          "nameKey": "為你寫詩2024"
+          "nameKey": "為你寫詩2024",
+          "titleZh": "為你寫詩2024"
         }
       ],
       "releaseDate": null,
@@ -6255,8 +6360,8 @@
           "playsText": "播放次數：1527",
           "duration": 180,
           "byOther": false,
-          "titleZh": "帽子反戴（Feat. 吳克群）",
-          "nameKey": "帽子反戴"
+          "nameKey": "帽子反戴",
+          "titleZh": "帽子反戴（Feat. 吳克群）"
         }
       ],
       "releaseDate": null,

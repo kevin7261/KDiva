@@ -1,6 +1,6 @@
 {
   "slug": "sandy-lam",
-  "fetchedAt": "2026-09-17T13:01:33.701Z",
+  "fetchedAt": "2026-09-17T15:00:45.721Z",
   "wiki": "林憶蓮",
   "bio": {
     "born": {
@@ -13,7 +13,137 @@
   },
   "tours": [
     {
-      "name": "個人演唱會",
+      "name": "美加巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1989-02-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "1990-04-01",
+        "precision": "month"
+      },
+      "showCount": 10,
+      "regions": [
+        "美國",
+        "加拿大"
+      ],
+      "cities": [
+        "芝加哥",
+        "洛杉磯",
+        "波士頓",
+        "大西洋城",
+        "多倫多",
+        "蒙特利爾",
+        "溫哥華"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "1989-02-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "芝加哥",
+          "venue": "",
+          "lat": 41.88194444444444,
+          "lon": -87.62777777777778,
+          "geo": "city"
+        },
+        {
+          "date": "1989-02-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "1989-02-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "波士頓",
+          "venue": "",
+          "lat": 42.360277777777775,
+          "lon": -71.05777777777777,
+          "geo": "city"
+        },
+        {
+          "date": "1989-02-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "大西洋城",
+          "venue": "",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "city"
+        },
+        {
+          "date": "1989-02-01",
+          "precision": "month",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1989-02-01",
+          "precision": "month",
+          "region": "加拿大",
+          "city": "蒙特利爾",
+          "venue": "",
+          "lat": 45.5033426,
+          "lon": -73.5868411,
+          "geo": "city"
+        },
+        {
+          "date": "1990-04-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "1990-04-01",
+          "precision": "month",
+          "region": "美國",
+          "city": "大西洋城",
+          "venue": "",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "city"
+        },
+        {
+          "date": "1990-04-01",
+          "precision": "month",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1990-04-01",
+          "precision": "month",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "",
+          "lat": 49.26083333333333,
+          "lon": -123.1138888888889,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "憶蓮意亂情迷 巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
@@ -317,6 +447,334 @@
       ]
     },
     {
+      "name": "憶蓮演唱會 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2002-05-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2004-04-30",
+        "precision": "day"
+      },
+      "showCount": 11,
+      "regions": [
+        "香港",
+        "中國大陸",
+        "馬來西亞",
+        "新加坡",
+        "美國"
+      ],
+      "cities": [
+        "香港",
+        "杭州",
+        "上海",
+        "雲頂",
+        "新加坡",
+        "康州",
+        "北京"
+      ],
+      "venues": [
+        "紅磡香港體育館",
+        "黃龍體育中心體育場",
+        "上海體育場",
+        "雲星劇場",
+        "新加坡室內體育館",
+        "Mohegan Sun Arena",
+        "首都體育館"
+      ],
+      "shows": [
+        {
+          "date": "2002-05-03",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-05-04",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-05-05",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-05-06",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-07-06",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育場",
+          "lat": 30.2683,
+          "lon": 120.129,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-07-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海體育場",
+          "lat": 31.1835,
+          "lon": 121.437278,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-08-16",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-08-17",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2002-11-23",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "2003-11-27",
+          "precision": "day",
+          "region": "美國",
+          "city": "康州",
+          "venue": "Mohegan Sun Arena",
+          "lat": 41.4911,
+          "lon": -72.0897,
+          "geo": "venue"
+        },
+        {
+          "date": "2004-04-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "夜色無邊 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2005-11-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2007-02-24",
+        "precision": "day"
+      },
+      "showCount": 13,
+      "regions": [
+        "香港",
+        "中國大陸",
+        "臺灣",
+        "美國",
+        "馬來西亞",
+        "新加坡",
+        "澳門"
+      ],
+      "cities": [
+        "香港",
+        "北京",
+        "上海",
+        "臺北",
+        "舊金山",
+        "南京",
+        "雲頂",
+        "新加坡",
+        "澳門"
+      ],
+      "venues": [
+        "紅磡香港體育館",
+        "人民大會堂",
+        "上海大舞臺",
+        "臺北小巨蛋",
+        "Lake Tahoe Outdoor Arena",
+        "五臺山體育館",
+        "雲星劇場",
+        "新加坡室內體育館",
+        "金沙娛樂場"
+      ],
+      "shows": [
+        {
+          "date": "2005-11-10",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2005-11-11",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2005-11-12",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2005-11-13",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡香港體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-08-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "人民大會堂",
+          "lat": 39.903333333333,
+          "lon": 116.3875,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-08-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-08-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-08-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-09-09",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "Lake Tahoe Outdoor Arena",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2006-11-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "五臺山體育館",
+          "lat": 32.051,
+          "lon": 118.769,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-12-02",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-12-09",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "2007-02-24",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "金沙娛樂場",
+          "lat": 22.19166667,
+          "lon": 113.55444444,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
       "name": "憶蓮 Live 07",
       "page": null,
       "kind": "concert",
@@ -471,7 +929,7 @@
       "venues": [
         "五臺山體育館",
         "上海大舞臺",
-        "{{tsl|en|Harrah's Resort Southern California",
+        "Harrah's Resort Southern California",
         "新加坡室內體育館",
         "臺北國際會議中心",
         "首都體育館"
@@ -502,7 +960,7 @@
           "precision": "day",
           "region": "美國",
           "city": "舊金山",
-          "venue": "{{tsl|en|Harrah's Resort Southern California",
+          "venue": "Harrah's Resort Southern California",
           "lat": 37.775,
           "lon": -122.41944444444445,
           "geo": "city"
@@ -580,8 +1038,8 @@
       ],
       "venues": [
         "Grand Ballroom",
-        "{{tsl|en|Crown Melbourne",
-        "{{tsl|en|Casino Rama",
+        "Crown Melbourne",
+        "Casino Rama",
         "廣州體育館",
         "新亞洲體育城體育館",
         "金光綜藝館",
@@ -603,7 +1061,7 @@
           "precision": "day",
           "region": "澳洲",
           "city": "墨爾本",
-          "venue": "{{tsl|en|Crown Melbourne",
+          "venue": "Crown Melbourne",
           "lat": -37.814166666666665,
           "lon": 144.96305555555554,
           "geo": "city"
@@ -613,7 +1071,7 @@
           "precision": "day",
           "region": "加拿大",
           "city": "多倫多",
-          "venue": "{{tsl|en|Casino Rama",
+          "venue": "Casino Rama",
           "lat": 43.670277777778,
           "lon": -79.386666666667,
           "geo": "city"
@@ -1029,7 +1487,7 @@
         "黃龍體育中心體育館",
         "東風日產文體中心",
         "星億賭場",
-        "{{tsl|en|Melbourne Convention and Exhibition Centre",
+        "Melbourne Convention and Exhibition Centre",
         "The Trusts Arena",
         "嶺南明珠體育館",
         "武漢體育中心體育館"
@@ -1230,7 +1688,7 @@
           "precision": "day",
           "region": "澳洲",
           "city": "墨爾本",
-          "venue": "{{tsl|en|Melbourne Convention and Exhibition Centre",
+          "venue": "Melbourne Convention and Exhibition Centre",
           "lat": -37.814166666666665,
           "lon": 144.96305555555554,
           "geo": "city"

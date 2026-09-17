@@ -30,11 +30,11 @@
           "playsText": "播放次數：466萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "慢慢等",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1"
-          },
-          "nameKey": "慢慢等"
+          }
         },
         {
           "index": 2,
@@ -45,11 +45,11 @@
           "playsText": "播放次數：26萬",
           "duration": 229,
           "byOther": false,
+          "nameKey": "好天氣",
           "credits": {
             "lyrics": "韋禮安",
             "music": "2"
-          },
-          "nameKey": "好天氣"
+          }
         }
       ],
       "releaseDate": "2009-03-13",
@@ -179,10 +179,10 @@
           "nameKey": "好天氣"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
+      "releaseDate": "2010-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "table",
+      "wikiTitle": "韋禮安",
       "wikiKind": null,
       "nameKey": "韋禮安首張同名全創作專輯"
     },
@@ -435,11 +435,11 @@
           "playsText": "播放次數：8910",
           "duration": 297,
           "byOther": false,
+          "nameKey": "好天氣",
           "credits": {
             "lyrics": "韋禮安",
             "music": "2"
-          },
-          "nameKey": "好天氣"
+          }
         },
         {
           "index": 23,
@@ -450,11 +450,11 @@
           "playsText": "播放次數：2.1萬",
           "duration": 245,
           "byOther": false,
+          "nameKey": "慢慢等",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1"
-          },
-          "nameKey": "慢慢等"
+          }
         }
       ],
       "releaseDate": "2011-06-03",
@@ -482,11 +482,11 @@
           "playsText": "播放次數：34萬",
           "duration": 245,
           "byOther": false,
+          "nameKey": "鳥日子",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1"
-          },
-          "nameKey": "鳥日子"
+          }
         },
         {
           "index": 2,
@@ -497,11 +497,11 @@
           "playsText": "播放次數：1011",
           "duration": 200,
           "byOther": false,
+          "nameKey": "鳥日子",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1"
-          },
-          "nameKey": "鳥日子"
+          }
         },
         {
           "index": 3,
@@ -512,10 +512,10 @@
           "playsText": "播放次數：1982",
           "duration": 194,
           "byOther": false,
+          "nameKey": "什麼蒙太奇",
           "credits": {
             "music": "3"
-          },
-          "nameKey": "什麼蒙太奇"
+          }
         }
       ],
       "releaseDate": "2012-04-06",
@@ -543,12 +543,12 @@
           "playsText": "播放次數：15萬",
           "duration": 252,
           "byOther": false,
+          "nameKey": "月球",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1",
             "arranger": "鍾承洋/韋禮安"
-          },
-          "nameKey": "月球"
+          }
         },
         {
           "index": 2,
@@ -559,12 +559,12 @@
           "playsText": "播放次數：17萬",
           "duration": 193,
           "byOther": false,
+          "nameKey": "轟炸",
           "credits": {
             "lyrics": "韋禮安",
             "music": "2",
             "arranger": "周顯哲"
-          },
-          "nameKey": "轟炸"
+          }
         },
         {
           "index": 3,
@@ -586,12 +586,12 @@
           "playsText": "播放次數：868萬",
           "duration": 290,
           "byOther": false,
+          "nameKey": "心醉心碎",
           "credits": {
             "lyrics": "韋禮安",
             "music": "4",
             "arranger": "黃中嶽"
-          },
-          "nameKey": "心醉心碎"
+          }
         },
         {
           "index": 5,
@@ -602,12 +602,12 @@
           "playsText": "播放次數：544萬",
           "duration": 228,
           "byOther": false,
+          "nameKey": "還是愛著你",
           "credits": {
             "lyrics": "韋禮安",
             "music": "5",
             "arranger": "伍冠諺"
-          },
-          "nameKey": "還是愛著你"
+          }
         },
         {
           "index": 6,
@@ -618,12 +618,12 @@
           "playsText": "播放次數：97萬",
           "duration": 218,
           "byOther": false,
+          "nameKey": "這不是愛情",
           "credits": {
             "lyrics": "韋禮安",
             "music": "6",
             "arranger": "鍾承洋/韋禮安"
-          },
-          "nameKey": "這不是愛情"
+          }
         },
         {
           "index": 7,
@@ -634,12 +634,12 @@
           "playsText": "播放次數：3.7萬",
           "duration": 273,
           "byOther": false,
+          "nameKey": "印象派",
           "credits": {
             "lyrics": "韋禮安",
             "music": "7",
             "arranger": "黃中嶽"
-          },
-          "nameKey": "印象派"
+          }
         },
         {
           "index": 8,
@@ -650,12 +650,12 @@
           "playsText": "播放次數：11萬",
           "duration": 211,
           "byOther": false,
+          "nameKey": "onemoretry",
           "credits": {
             "lyrics": "韋禮安",
             "music": "8",
             "arranger": "周顯哲"
-          },
-          "nameKey": "onemoretry"
+          }
         },
         {
           "index": 9,
@@ -666,12 +666,12 @@
           "playsText": "播放次數：560萬",
           "duration": 267,
           "byOther": false,
+          "nameKey": "有人在等我",
           "credits": {
             "lyrics": "韋禮安",
             "music": "9",
             "arranger": "黃韻仁"
-          },
-          "nameKey": "有人在等我"
+          }
         },
         {
           "index": 10,
@@ -682,12 +682,12 @@
           "playsText": "播放次數：239萬",
           "duration": 249,
           "byOther": false,
+          "nameKey": "wellneverknow",
           "credits": {
             "lyrics": "韋禮安",
             "music": "10",
             "arranger": "周顯哲"
-          },
-          "nameKey": "wellneverknow"
+          }
         },
         {
           "index": 11,
@@ -698,12 +698,12 @@
           "playsText": "播放次數：3732萬",
           "duration": 236,
           "byOther": false,
+          "nameKey": "還是會",
           "credits": {
             "lyrics": "韋禮安",
             "music": "11",
             "arranger": "周顯哲"
-          },
-          "nameKey": "還是會"
+          }
         }
       ],
       "releaseDate": "2012-08-03",
@@ -742,12 +742,12 @@
           "playsText": "播放次數：119萬",
           "duration": 263,
           "byOther": false,
+          "nameKey": "沉船",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安"
-          },
-          "nameKey": "沉船"
+          }
         },
         {
           "index": 3,
@@ -758,12 +758,12 @@
           "playsText": "播放次數：56萬",
           "duration": 226,
           "byOther": false,
+          "nameKey": "金銀島",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安"
-          },
-          "nameKey": "金銀島"
+          }
         },
         {
           "index": 4,
@@ -774,12 +774,12 @@
           "playsText": "播放次數：2183萬",
           "duration": 217,
           "byOther": false,
+          "nameKey": "在你身邊",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "黃雨勳"
-          },
-          "nameKey": "在你身邊"
+          }
         },
         {
           "index": 5,
@@ -790,12 +790,12 @@
           "playsText": "播放次數：82萬",
           "duration": 201,
           "byOther": false,
+          "nameKey": "江郞",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安"
-          },
-          "nameKey": "江郞"
+          }
         },
         {
           "index": 6,
@@ -806,12 +806,12 @@
           "playsText": "播放次數：3.4萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "格雷的畫像",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安"
-          },
-          "nameKey": "格雷的畫像"
+          }
         },
         {
           "index": 7,
@@ -822,12 +822,12 @@
           "playsText": "播放次數：1383萬",
           "duration": 277,
           "byOther": false,
+          "nameKey": "面具",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "黃中嶽"
-          },
-          "nameKey": "面具"
+          }
         },
         {
           "index": 8,
@@ -838,12 +838,12 @@
           "playsText": "播放次數：7.1萬",
           "duration": 259,
           "byOther": false,
+          "nameKey": "迷路",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安&Band"
-          },
-          "nameKey": "迷路"
+          }
         },
         {
           "index": 9,
@@ -854,12 +854,12 @@
           "playsText": "播放次數：12萬",
           "duration": 271,
           "byOther": false,
+          "nameKey": "生存之道",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安&Band"
-          },
-          "nameKey": "生存之道"
+          }
         },
         {
           "index": 10,
@@ -870,12 +870,12 @@
           "playsText": "播放次數：7.1萬",
           "duration": 291,
           "byOther": false,
+          "nameKey": "相信誰",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "黃中嶽"
-          },
-          "nameKey": "相信誰"
+          }
         },
         {
           "index": 11,
@@ -886,12 +886,12 @@
           "playsText": "播放次數：9.2萬",
           "duration": 291,
           "byOther": false,
+          "nameKey": "曙光",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安&Band"
-          },
-          "nameKey": "曙光"
+          }
         }
       ],
       "releaseDate": "2014-03-25",
@@ -919,12 +919,12 @@
           "playsText": "播放次數：55萬",
           "duration": 246,
           "byOther": false,
+          "nameKey": "似曾",
           "credits": {
             "lyrics": "林奕華",
             "music": "3",
             "arranger": "陳建騏"
-          },
-          "nameKey": "似曾"
+          }
         }
       ],
       "releaseDate": null,
@@ -952,12 +952,12 @@
           "playsText": "播放次數：103萬",
           "duration": 249,
           "byOther": false,
+          "nameKey": "intro",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1",
             "arranger": "王舜"
-          },
-          "nameKey": "intro"
+          }
         },
         {
           "index": 2,
@@ -968,12 +968,12 @@
           "playsText": "播放次數：4.1萬",
           "duration": 268,
           "byOther": false,
+          "nameKey": "渴望",
           "credits": {
             "lyrics": "韋禮安",
             "music": "2",
             "arranger": "韋禮安"
-          },
-          "nameKey": "渴望"
+          }
         },
         {
           "index": 3,
@@ -995,12 +995,12 @@
           "playsText": "播放次數：177萬",
           "duration": 257,
           "byOther": false,
+          "nameKey": "luvinu",
           "credits": {
             "lyrics": "韋禮安",
             "music": "4",
             "arranger": "Derrick Spenio@J.T.W、Fergus Chow@J.T.W"
-          },
-          "nameKey": "luvinu"
+          }
         },
         {
           "index": 5,
@@ -1011,12 +1011,12 @@
           "playsText": "播放次數：3.4萬",
           "duration": 255,
           "byOther": false,
+          "nameKey": "玩遊戲",
           "credits": {
             "lyrics": "韋禮安",
             "music": "5",
             "arranger": "韋禮安"
-          },
-          "nameKey": "玩遊戲"
+          }
         },
         {
           "index": 6,
@@ -1027,12 +1027,12 @@
           "playsText": "播放次數：2177萬",
           "duration": 323,
           "byOther": false,
+          "nameKey": "第一個想到你",
           "credits": {
             "lyrics": "韋禮安",
             "music": "6",
             "arranger": "梁思樺"
-          },
-          "nameKey": "第一個想到你"
+          }
         },
         {
           "index": 7,
@@ -1043,12 +1043,12 @@
           "playsText": "播放次數：6.2萬",
           "duration": 232,
           "byOther": false,
+          "nameKey": "為你好",
           "credits": {
             "lyrics": "韋禮安",
             "music": "7",
             "arranger": "梁思樺"
-          },
-          "nameKey": "為你好"
+          }
         },
         {
           "index": 8,
@@ -1059,12 +1059,12 @@
           "playsText": "播放次數：4.2萬",
           "duration": 268,
           "byOther": false,
+          "nameKey": "一隻鞋",
           "credits": {
             "lyrics": "韋禮安",
             "music": "8",
             "arranger": "程希智"
-          },
-          "nameKey": "一隻鞋"
+          }
         },
         {
           "index": 9,
@@ -1075,12 +1075,12 @@
           "playsText": "播放次數：1776萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "如果再見",
           "credits": {
             "lyrics": "林建良",
             "music": "9",
             "arranger": "周顯哲"
-          },
-          "nameKey": "如果再見"
+          }
         },
         {
           "index": 10,
@@ -1091,13 +1091,13 @@
           "playsText": "播放次數：8.3萬",
           "duration": 309,
           "byOther": false,
+          "nameKey": "癡人",
           "credits": {
             "lyrics": "韋禮安",
             "music": "10",
             "arranger": "梁思樺"
           },
-          "titleZh": "痴人",
-          "nameKey": "癡人"
+          "titleZh": "痴人"
         },
         {
           "index": 11,
@@ -1108,12 +1108,12 @@
           "playsText": "播放次數：186萬",
           "duration": 253,
           "byOther": false,
+          "nameKey": "在意",
           "credits": {
             "lyrics": "韋禮安",
             "music": "11",
             "arranger": "保卜.巴督路"
-          },
-          "nameKey": "在意"
+          }
         },
         {
           "index": 12,
@@ -1124,12 +1124,12 @@
           "playsText": "播放次數：5351萬",
           "duration": 307,
           "byOther": false,
+          "nameKey": "女孩",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1",
             "arranger": "5:06"
-          },
-          "nameKey": "女孩"
+          }
         },
         {
           "index": 13,
@@ -1140,12 +1140,12 @@
           "playsText": "播放次數：631萬",
           "duration": 230,
           "byOther": false,
+          "nameKey": "一個人",
           "credits": {
             "lyrics": "韋禮安",
             "music": "2",
             "arranger": "3:49"
-          },
-          "nameKey": "一個人"
+          }
         },
         {
           "index": 14,
@@ -1156,12 +1156,12 @@
           "playsText": "播放次數：55萬",
           "duration": 246,
           "byOther": false,
+          "nameKey": "似曾",
           "credits": {
             "lyrics": "林奕華",
             "music": "3",
             "arranger": "陳建騏"
-          },
-          "nameKey": "似曾"
+          }
         },
         {
           "index": 15,
@@ -1172,12 +1172,12 @@
           "playsText": "播放次數：83萬",
           "duration": 233,
           "byOther": false,
+          "nameKey": "崑崙鏡",
           "credits": {
             "lyrics": "韋禮安",
             "music": "4",
             "arranger": "韋禮安"
-          },
-          "nameKey": "崑崙鏡"
+          }
         },
         {
           "index": 16,
@@ -1188,12 +1188,12 @@
           "playsText": "播放次數：4370萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "別說沒愛過",
           "credits": {
             "lyrics": "韋禮安",
             "music": "5",
             "arranger": "生命樹__小王子 TOL_ The Little Prince"
-          },
-          "nameKey": "別說沒愛過"
+          }
         }
       ],
       "releaseDate": "2016-08-16",
@@ -1361,12 +1361,12 @@
           "playsText": "播放次數：5351萬",
           "duration": 304,
           "byOther": false,
+          "nameKey": "女孩",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1",
             "arranger": "5:06"
-          },
-          "nameKey": "女孩"
+          }
         }
       ],
       "releaseDate": null,
@@ -1506,12 +1506,12 @@
           "playsText": "播放次數：19萬",
           "duration": 191,
           "byOther": false,
+          "nameKey": "soundsofmylife",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1",
             "arranger": "韋禮安"
-          },
-          "nameKey": "soundsofmylife"
+          }
         },
         {
           "index": 2,
@@ -1522,12 +1522,12 @@
           "playsText": "播放次數：37萬",
           "duration": 246,
           "byOther": false,
+          "nameKey": "seeyouonmonday",
           "credits": {
             "lyrics": "韋禮安",
             "music": "2",
             "arranger": "韋禮安"
-          },
-          "nameKey": "seeyouonmonday"
+          }
         },
         {
           "index": 3,
@@ -1538,12 +1538,12 @@
           "playsText": "播放次數：3.6萬",
           "duration": 83,
           "byOther": false,
+          "nameKey": "interlude",
           "credits": {
             "lyrics": "韋禮安",
             "music": "3",
             "arranger": "韋禮安"
-          },
-          "nameKey": "interlude"
+          }
         },
         {
           "index": 4,
@@ -1554,12 +1554,12 @@
           "playsText": "播放次數：58萬",
           "duration": 253,
           "byOther": false,
+          "nameKey": "房客",
           "credits": {
             "lyrics": "韋禮安",
             "music": "4",
             "arranger": "韋禮安"
-          },
-          "nameKey": "房客"
+          }
         },
         {
           "index": 5,
@@ -1570,12 +1570,12 @@
           "playsText": "播放次數：119萬",
           "duration": 217,
           "byOther": false,
+          "nameKey": "貓咪共和國",
           "credits": {
             "lyrics": "韋禮安",
             "music": "5",
             "arranger": "韋禮安、江尚謙、黃耀圻"
-          },
-          "nameKey": "貓咪共和國"
+          }
         },
         {
           "index": 6,
@@ -1586,13 +1586,13 @@
           "playsText": "播放次數：513萬",
           "duration": 269,
           "byOther": false,
+          "nameKey": "不用告訴我",
           "credits": {
             "lyrics": "韋禮安",
             "music": "6",
             "arranger": "韋禮安"
           },
-          "titleZh": "不用告訴我 (東森戲劇臺韓劇「巧克力」片尾曲)",
-          "nameKey": "不用告訴我"
+          "titleZh": "不用告訴我 (東森戲劇臺韓劇「巧克力」片尾曲)"
         },
         {
           "index": 7,
@@ -1603,12 +1603,12 @@
           "playsText": "播放次數：2.5萬",
           "duration": 47,
           "byOther": false,
+          "nameKey": "interlude",
           "credits": {
             "lyrics": "韋禮安",
             "music": "7",
             "arranger": "韋禮安"
-          },
-          "nameKey": "interlude"
+          }
         },
         {
           "index": 8,
@@ -1619,12 +1619,12 @@
           "playsText": "播放次數：107萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "一口一口",
           "credits": {
             "lyrics": "韋禮安",
             "music": "8",
             "arranger": "韋禮安"
-          },
-          "nameKey": "一口一口"
+          }
         },
         {
           "index": 9,
@@ -1635,12 +1635,12 @@
           "playsText": "播放次數：59萬",
           "duration": 240,
           "byOther": false,
+          "nameKey": "沒有你的世界",
           "credits": {
             "lyrics": "韋禮安",
             "music": "9",
             "arranger": "韋禮安、Derrick Sepnio、Fergus Chow"
-          },
-          "nameKey": "沒有你的世界"
+          }
         },
         {
           "index": 10,
@@ -1651,12 +1651,12 @@
           "playsText": "播放次數：345萬",
           "duration": 334,
           "byOther": false,
+          "nameKey": "而立",
           "credits": {
             "lyrics": "韋禮安",
             "music": "10",
             "arranger": "韋禮安"
-          },
-          "nameKey": "而立"
+          }
         },
         {
           "index": 11,
@@ -1667,12 +1667,12 @@
           "playsText": "播放次數：205萬",
           "duration": 229,
           "byOther": false,
+          "nameKey": "這樣好嗎",
           "credits": {
             "lyrics": "韋禮安",
             "music": "11",
             "arranger": "韋禮安、江尚謙、黃耀圻"
-          },
-          "nameKey": "這樣好嗎"
+          }
         },
         {
           "index": 12,
@@ -1683,12 +1683,12 @@
           "playsText": "播放次數：23萬",
           "duration": 235,
           "byOther": false,
+          "nameKey": "聽我的",
           "credits": {
             "lyrics": "韋禮安",
             "music": "12",
             "arranger": "韋禮安、鍾承洋、江尚謙"
-          },
-          "nameKey": "聽我的"
+          }
         },
         {
           "index": 13,
@@ -1699,12 +1699,12 @@
           "playsText": "播放次數：1.7萬",
           "duration": 50,
           "byOther": false,
+          "nameKey": "interlude",
           "credits": {
             "lyrics": "韋禮安",
             "music": "13",
             "arranger": "韋禮安"
-          },
-          "nameKey": "interlude"
+          }
         },
         {
           "index": 14,
@@ -1715,12 +1715,12 @@
           "playsText": "播放次數：17萬",
           "duration": 191,
           "byOther": false,
+          "nameKey": "brandnew",
           "credits": {
             "lyrics": "韋禮安",
             "music": "14",
             "arranger": "韋禮安"
-          },
-          "nameKey": "brandnew"
+          }
         },
         {
           "index": 15,
@@ -1731,12 +1731,12 @@
           "playsText": "播放次數：574萬",
           "duration": 269,
           "byOther": false,
+          "nameKey": "記得回來",
           "credits": {
             "lyrics": "韋禮安",
             "music": "15",
             "arranger": "韋禮安"
-          },
-          "nameKey": "記得回來"
+          }
         },
         {
           "index": 16,
@@ -1747,12 +1747,12 @@
           "playsText": "播放次數：56萬",
           "duration": 261,
           "byOther": false,
+          "nameKey": "iwroteasongforyou",
           "credits": {
             "lyrics": "韋禮安",
             "music": "16",
             "arranger": "韋禮安、鍾承洋、黃耀圻、陳柏州、張少瑜"
-          },
-          "nameKey": "iwroteasongforyou"
+          }
         },
         {
           "index": 17,
@@ -1763,11 +1763,11 @@
           "playsText": "播放次數：2萬",
           "duration": 471,
           "byOther": false,
+          "nameKey": "credits",
           "credits": {
             "music": "17",
             "arranger": "韋禮安"
-          },
-          "nameKey": "credits"
+          }
         }
       ],
       "releaseDate": "2020-04-29",
@@ -1795,12 +1795,12 @@
           "playsText": "播放次數：107萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "一口一口",
           "credits": {
             "lyrics": "韋禮安",
             "music": "8",
             "arranger": "韋禮安"
-          },
-          "nameKey": "一口一口"
+          }
         }
       ],
       "releaseDate": null,
@@ -1828,8 +1828,8 @@
           "playsText": "播放次數：437萬",
           "duration": 294,
           "byOther": false,
-          "titleZh": "雙棲動物",
-          "nameKey": "雙棲動物"
+          "nameKey": "雙棲動物",
+          "titleZh": "雙棲動物"
         }
       ],
       "releaseDate": null,
@@ -1885,12 +1885,12 @@
           "playsText": "播放次數：119萬",
           "duration": 218,
           "byOther": false,
+          "nameKey": "貓咪共和國",
           "credits": {
             "lyrics": "韋禮安",
             "music": "5",
             "arranger": "韋禮安、江尚謙、黃耀圻"
-          },
-          "nameKey": "貓咪共和國"
+          }
         }
       ],
       "releaseDate": null,
@@ -1962,7 +1962,7 @@
       ],
       "releaseDate": "2021-09-14",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "table",
       "wikiTitle": "韋禮安音樂作品列表",
       "wikiKind": "single",
       "nameKey": "mrtambourineman"
@@ -2097,13 +2097,13 @@
           "playsText": "播放次數：45萬",
           "duration": 171,
           "byOther": true,
+          "nameKey": "isitnotenough",
           "titleZh": "Is It Not Enough (還不夠嗎)",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安（下面註明例外曲目）"
-          },
-          "nameKey": "isitnotenough"
+          }
         },
         {
           "index": 2,
@@ -2114,13 +2114,13 @@
           "playsText": "播放次數：54萬",
           "duration": 181,
           "byOther": true,
+          "nameKey": "immoresoberwhenimdrunk",
           "titleZh": "I'm More Sober When I'm Drunk (我醉清醒)",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安（下面註明例外曲目）"
-          },
-          "nameKey": "immoresoberwhenimdrunk"
+          }
         },
         {
           "index": 3,
@@ -2131,13 +2131,13 @@
           "playsText": "播放次數：63萬",
           "duration": 191,
           "byOther": true,
+          "nameKey": "typo",
           "titleZh": "Typo (逢場作戲)",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安（下面註明例外曲目）"
-          },
-          "nameKey": "typo"
+          }
         },
         {
           "index": 4,
@@ -2148,13 +2148,13 @@
           "playsText": "播放次數：42萬",
           "duration": 171,
           "byOther": true,
+          "nameKey": "leavethisbed",
           "titleZh": "Leave This Bed (離開這張床)",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安（下面註明例外曲目）"
-          },
-          "nameKey": "leavethisbed"
+          }
         },
         {
           "index": 5,
@@ -2165,13 +2165,13 @@
           "playsText": "播放次數：119萬",
           "duration": 226,
           "byOther": true,
+          "nameKey": "getouttamyhead",
           "titleZh": "Get Outta My Head (滾出我腦海)",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安（下面註明例外曲目）"
-          },
-          "nameKey": "getouttamyhead"
+          }
         },
         {
           "index": 6,
@@ -2182,13 +2182,13 @@
           "playsText": "播放次數：392萬",
           "duration": 185,
           "byOther": true,
+          "nameKey": "rip",
           "titleZh": "R.I.P. (支離破碎地攤在這)",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安（下面註明例外曲目）"
-          },
-          "nameKey": "rip"
+          }
         },
         {
           "index": 7,
@@ -2199,13 +2199,13 @@
           "playsText": "播放次數：57萬",
           "duration": 201,
           "byOther": true,
+          "nameKey": "dontshowit",
           "titleZh": "Don't Show It (別露餡)",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安（下面註明例外曲目）"
-          },
-          "nameKey": "dontshowit"
+          }
         },
         {
           "index": 8,
@@ -2216,13 +2216,13 @@
           "playsText": "播放次數：32萬",
           "duration": 180,
           "byOther": true,
+          "nameKey": "u",
           "titleZh": "U (泥)",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安（下面註明例外曲目）"
-          },
-          "nameKey": "u"
+          }
         },
         {
           "index": 9,
@@ -2241,8 +2241,8 @@
       "releaseDateSource": "album-page",
       "wikiTitle": "I'm More Sober When I'm Drunk",
       "wikiKind": null,
-      "titleZh": "I'm More Sober When I'm Drunk (我醉清醒)",
-      "nameKey": "immoresoberwhenimdrunk"
+      "nameKey": "immoresoberwhenimdrunk",
+      "titleZh": "I'm More Sober When I'm Drunk (我醉清醒)"
     },
     {
       "browseId": "MPREb_peX8NftlXtZ",
@@ -2273,6 +2273,39 @@
       "nameKey": "cheaplove"
     },
     {
+      "browseId": "MPREb_lN2X72i9oCM",
+      "playlistId": "OLAK5uy_lzm9xAzAvFHqEvf0fR0LS7CNGuPPN_R9s",
+      "title": "忽然",
+      "albumArtist": "韋禮安",
+      "type": "Single",
+      "year": 2021,
+      "thumbnail": "https://yt3.googleusercontent.com/nJJoLnO9r9LOvQCICQgfk3OjfFbT020pwzOt4K8B0dg6Mb1FXhidcuJX3CqAb7SK24OdHGeFwQgxXg6k=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "忽然",
+          "artists": "",
+          "videoId": "SeFZY8WFQe0",
+          "plays": 4700000,
+          "playsText": "播放次數：470萬",
+          "duration": 278,
+          "byOther": false,
+          "nameKey": "忽然",
+          "credits": {
+            "lyrics": "韋禮安",
+            "music": "6",
+            "arranger": "張晁毓、柯遵毓"
+          }
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "忽然"
+    },
+    {
       "browseId": "MPREb_OlVeKOtW9bF",
       "playlistId": "OLAK5uy_lQFiEk_g-0y9e3MTq71r1Fe4vdkLBHzYw",
       "title": "因為是你 (原創影集《火神的眼淚》片頭曲)",
@@ -2293,45 +2326,12 @@
           "nameKey": "因為是你"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
+      "releaseDate": "2022-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "table",
+      "wikiTitle": "韋禮安",
       "wikiKind": null,
       "nameKey": "因為是你"
-    },
-    {
-      "browseId": "MPREb_lN2X72i9oCM",
-      "playlistId": "OLAK5uy_lzm9xAzAvFHqEvf0fR0LS7CNGuPPN_R9s",
-      "title": "忽然",
-      "albumArtist": "韋禮安",
-      "type": "Single",
-      "year": 2021,
-      "thumbnail": "https://yt3.googleusercontent.com/nJJoLnO9r9LOvQCICQgfk3OjfFbT020pwzOt4K8B0dg6Mb1FXhidcuJX3CqAb7SK24OdHGeFwQgxXg6k=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "忽然",
-          "artists": "",
-          "videoId": "SeFZY8WFQe0",
-          "plays": 4700000,
-          "playsText": "播放次數：470萬",
-          "duration": 278,
-          "byOther": false,
-          "credits": {
-            "lyrics": "韋禮安",
-            "music": "6",
-            "arranger": "張晁毓、柯遵毓"
-          },
-          "nameKey": "忽然"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "忽然"
     },
     {
       "browseId": "MPREb_6M7pTVofj2p",
@@ -2351,12 +2351,12 @@
           "playsText": "播放次數：21萬",
           "duration": 153,
           "byOther": false,
+          "nameKey": "不都是漫長的道別",
           "credits": {
             "lyrics": "韋禮安",
             "music": "1",
             "arranger": "韋禮安、宋星凱"
-          },
-          "nameKey": "不都是漫長的道別"
+          }
         },
         {
           "index": 2,
@@ -2378,12 +2378,12 @@
           "playsText": "播放次數：40萬",
           "duration": 212,
           "byOther": false,
+          "nameKey": "巷口那間",
           "credits": {
             "lyrics": "艾怡良",
             "music": "3",
             "arranger": "宋星凱"
-          },
-          "nameKey": "巷口那間"
+          }
         },
         {
           "index": 4,
@@ -2394,12 +2394,12 @@
           "playsText": "播放次數：19萬",
           "duration": 223,
           "byOther": false,
+          "nameKey": "七月",
           "credits": {
             "lyrics": "韋禮安",
             "music": "4",
             "arranger": "宋星凱、韋禮安"
-          },
-          "nameKey": "七月"
+          }
         },
         {
           "index": 5,
@@ -2410,12 +2410,12 @@
           "playsText": "播放次數：510萬",
           "duration": 201,
           "byOther": false,
+          "nameKey": "世界上最重要的人",
           "credits": {
             "lyrics": "韋禮安",
             "music": "5",
             "arranger": "韋禮安"
-          },
-          "nameKey": "世界上最重要的人"
+          }
         },
         {
           "index": 6,
@@ -2426,12 +2426,12 @@
           "playsText": "播放次數：470萬",
           "duration": 279,
           "byOther": false,
+          "nameKey": "忽然",
           "credits": {
             "lyrics": "韋禮安",
             "music": "6",
             "arranger": "張晁毓、柯遵毓"
-          },
-          "nameKey": "忽然"
+          }
         },
         {
           "index": 7,
@@ -2442,12 +2442,12 @@
           "playsText": "播放次數：147萬",
           "duration": 190,
           "byOther": false,
+          "nameKey": "沒有人想念沒離開的人",
           "credits": {
             "lyrics": "韋禮安",
             "music": "7",
             "arranger": "韋禮安"
-          },
-          "nameKey": "沒有人想念沒離開的人"
+          }
         },
         {
           "index": 8,
@@ -2458,12 +2458,12 @@
           "playsText": "播放次數：24萬",
           "duration": 228,
           "byOther": false,
+          "nameKey": "takemeaway",
           "credits": {
             "lyrics": "韋禮安",
             "music": "8",
             "arranger": "韋禮安、陳鈺羲、楊恢宇"
-          },
-          "nameKey": "takemeaway"
+          }
         },
         {
           "index": 9,
@@ -2474,12 +2474,12 @@
           "playsText": "播放次數：135萬",
           "duration": 203,
           "byOther": false,
+          "nameKey": "明天再見",
           "credits": {
             "lyrics": "HUSH",
             "music": "9",
             "arranger": "王希文"
-          },
-          "nameKey": "明天再見"
+          }
         }
       ],
       "releaseDate": "2022-09-09",
@@ -2507,12 +2507,12 @@
           "playsText": "播放次數：135萬",
           "duration": 203,
           "byOther": false,
+          "nameKey": "明天再見",
           "credits": {
             "lyrics": "HUSH",
             "music": "9",
             "arranger": "王希文"
-          },
-          "nameKey": "明天再見"
+          }
         }
       ],
       "releaseDate": "2022-09-09",
@@ -2540,13 +2540,13 @@
           "playsText": "播放次數：186萬",
           "duration": 192,
           "byOther": false,
+          "nameKey": "rip",
           "titleZh": "R.I.P. (支離破碎地攤在這)",
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
             "arranger": "韋禮安（下面註明例外曲目）"
-          },
-          "nameKey": "rip"
+          }
         }
       ],
       "releaseDate": null,
@@ -2554,8 +2554,8 @@
       "releaseDateSource": null,
       "wikiTitle": null,
       "wikiKind": null,
-      "titleZh": "R.I.P. (支離破碎地攤在這)",
-      "nameKey": "rip"
+      "nameKey": "rip",
+      "titleZh": "R.I.P. (支離破碎地攤在這)"
     },
     {
       "browseId": "MPREb_mPv0dQcNlYc",
@@ -2575,8 +2575,8 @@
           "playsText": "播放次數：9.1萬",
           "duration": 209,
           "byOther": false,
-          "titleZh": "只用一次 (火鳳燎原20週年紀念曲)",
-          "nameKey": "只用一次"
+          "nameKey": "只用一次",
+          "titleZh": "只用一次 (火鳳燎原20週年紀念曲)"
         }
       ],
       "releaseDate": null,
@@ -2665,7 +2665,7 @@
       ],
       "releaseDate": "2023-02-14",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "list",
+      "releaseDateSource": "table",
       "wikiTitle": "韋禮安音樂作品列表",
       "wikiKind": "single",
       "nameKey": "芭樂歌"
@@ -2725,34 +2725,6 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "outoflove"
-    },
-    {
-      "browseId": "MPREb_SV6HKCAgsHo",
-      "playlistId": "OLAK5uy_nAhWR0KB9kY-0JMpVH3wDv5ksYr6PGAeE",
-      "title": "一直都在 (《我的麻吉4個鬼》電影主題曲)",
-      "albumArtist": "韋禮安",
-      "type": "Single",
-      "year": 2023,
-      "thumbnail": "https://yt3.googleusercontent.com/G4SG4dE7sGalCzyZsYvUL6NyCR4d9RWFHGehUrDyig4fD7bOvBCkLEaT4tKtVkinazME615Y6Mfq-6AXwg=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "一直都在 (《我的麻吉4個鬼》電影主題曲)",
-          "artists": "",
-          "videoId": "vMTEkec91ZI",
-          "plays": 5160000,
-          "playsText": "播放次數：516萬",
-          "duration": 222,
-          "byOther": false,
-          "nameKey": "一直都在"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "一直都在"
     },
     {
       "browseId": "MPREb_OaZ9P71jZRc",
@@ -2833,6 +2805,34 @@
       "nameKey": "大海"
     },
     {
+      "browseId": "MPREb_SV6HKCAgsHo",
+      "playlistId": "OLAK5uy_nAhWR0KB9kY-0JMpVH3wDv5ksYr6PGAeE",
+      "title": "一直都在 (《我的麻吉4個鬼》電影主題曲)",
+      "albumArtist": "韋禮安",
+      "type": "Single",
+      "year": 2023,
+      "thumbnail": "https://yt3.googleusercontent.com/G4SG4dE7sGalCzyZsYvUL6NyCR4d9RWFHGehUrDyig4fD7bOvBCkLEaT4tKtVkinazME615Y6Mfq-6AXwg=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "一直都在 (《我的麻吉4個鬼》電影主題曲)",
+          "artists": "",
+          "videoId": "vMTEkec91ZI",
+          "plays": 5160000,
+          "playsText": "播放次數：516萬",
+          "duration": 222,
+          "byOther": false,
+          "nameKey": "一直都在"
+        }
+      ],
+      "releaseDate": "2024-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "table",
+      "wikiTitle": "韋禮安",
+      "wikiKind": null,
+      "nameKey": "一直都在"
+    },
+    {
       "browseId": "MPREb_pXih8uDKaca",
       "playlistId": "OLAK5uy_kwk6Xitck-d75JeuH-pB-Nv_fPxA9p8Og",
       "title": "Too Good (TV Series \"The Nipple Talk\" Ending Song)",
@@ -2858,8 +2858,8 @@
       "releaseDateSource": null,
       "wikiTitle": null,
       "wikiKind": null,
-      "titleZh": "Too Good (影集《妮波自由式》片尾曲)",
-      "nameKey": "toogood"
+      "nameKey": "toogood",
+      "titleZh": "Too Good (影集《妮波自由式》片尾曲)"
     },
     {
       "browseId": "MPREb_wz23OmJO18G",
@@ -2879,8 +2879,8 @@
           "playsText": "播放次數：11萬",
           "duration": 220,
           "byOther": false,
-          "titleZh": "壞人好夢",
-          "nameKey": "壞人好夢"
+          "nameKey": "壞人好夢",
+          "titleZh": "壞人好夢"
         }
       ],
       "releaseDate": null,
@@ -3142,6 +3142,35 @@
       "nameKey": "不開心就跳起來"
     },
     {
+      "browseId": "MPREb_ArmYIvi4lHc",
+      "playlistId": "OLAK5uy_mv_hUO6C5gNsmM6R2nJeIysVposvp7Vfk",
+      "title": "水仙倒影（网易音乐人「四时有声」特别企划）",
+      "albumArtist": "韦礼安",
+      "type": "Single",
+      "year": 2025,
+      "thumbnail": "https://yt3.googleusercontent.com/3OfXsazc5L-l6qeo3Nq6vyL8dBa9wMIOrc8HUoE4TPWBgzQXfpXn-yXIOsU3ooqFj4JRwZaQkQglGtc86g=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "水仙倒影（网易音乐人「四时有声」特别企划）",
+          "artists": "",
+          "videoId": "8qFwUUfh10M",
+          "plays": 5565,
+          "playsText": "播放次數：5565",
+          "duration": 278,
+          "byOther": false,
+          "nameKey": "水仙倒影",
+          "titleZh": "水仙倒影（網易音樂人「四時有聲」特別企劃）"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "水仙倒影"
+    },
+    {
       "browseId": "MPREb_LZGcPnPz0o6",
       "playlistId": "OLAK5uy_lu6hEd_r_xw0DlenpmlkHhZcJOttqLbBo",
       "title": "最好的朋友",
@@ -3162,41 +3191,12 @@
           "nameKey": "最好的朋友"
         }
       ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
+      "releaseDate": "2026-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "table",
+      "wikiTitle": "韋禮安",
       "wikiKind": null,
       "nameKey": "最好的朋友"
-    },
-    {
-      "browseId": "MPREb_ArmYIvi4lHc",
-      "playlistId": "OLAK5uy_mv_hUO6C5gNsmM6R2nJeIysVposvp7Vfk",
-      "title": "水仙倒影（网易音乐人「四时有声」特别企划）",
-      "albumArtist": "韦礼安",
-      "type": "Single",
-      "year": 2025,
-      "thumbnail": "https://yt3.googleusercontent.com/3OfXsazc5L-l6qeo3Nq6vyL8dBa9wMIOrc8HUoE4TPWBgzQXfpXn-yXIOsU3ooqFj4JRwZaQkQglGtc86g=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "水仙倒影（网易音乐人「四时有声」特别企划）",
-          "artists": "",
-          "videoId": "8qFwUUfh10M",
-          "plays": 5565,
-          "playsText": "播放次數：5565",
-          "duration": 278,
-          "byOther": false,
-          "titleZh": "水仙倒影（網易音樂人「四時有聲」特別企劃）",
-          "nameKey": "水仙倒影"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "水仙倒影"
     },
     {
       "browseId": "MPREb_DHQMM5Z5UCM",
@@ -3322,8 +3322,8 @@
           "playsText": "播放次數：95萬",
           "duration": 281,
           "byOther": false,
-          "titleZh": "Special Night（電視劇《軋戲》密語主題曲）",
-          "nameKey": "specialnight"
+          "nameKey": "specialnight",
+          "titleZh": "Special Night（電視劇《軋戲》密語主題曲）"
         },
         {
           "index": 2,
@@ -3334,8 +3334,8 @@
           "playsText": "播放次數：1萬",
           "duration": 281,
           "byOther": false,
-          "titleZh": "Special Night（電視劇《軋戲》密語主題曲） (伴奏版)",
-          "nameKey": "specialnight"
+          "nameKey": "specialnight",
+          "titleZh": "Special Night（電視劇《軋戲》密語主題曲） (伴奏版)"
         }
       ],
       "releaseDate": null,

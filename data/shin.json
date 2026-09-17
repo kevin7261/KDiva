@@ -411,10 +411,10 @@
           "playsText": "播放次數：56萬",
           "duration": 217,
           "byOther": false,
+          "nameKey": "淪陷",
           "credits": {
             "music": "01"
-          },
-          "nameKey": "淪陷"
+          }
         },
         {
           "index": 2,
@@ -425,10 +425,10 @@
           "playsText": "播放次數：20萬",
           "duration": 222,
           "byOther": false,
+          "nameKey": "假裝陽光的蠟燭",
           "credits": {
             "music": "02"
-          },
-          "nameKey": "假裝陽光的蠟燭"
+          }
         },
         {
           "index": 3,
@@ -439,10 +439,10 @@
           "playsText": "播放次數：93萬",
           "duration": 263,
           "byOther": false,
+          "nameKey": "黎明之前",
           "credits": {
             "music": "03"
-          },
-          "nameKey": "黎明之前"
+          }
         },
         {
           "index": 4,
@@ -453,10 +453,10 @@
           "playsText": "播放次數：1.4萬",
           "duration": 174,
           "byOther": false,
+          "nameKey": "頑強",
           "credits": {
             "music": "04"
-          },
-          "nameKey": "頑強"
+          }
         },
         {
           "index": 5,
@@ -467,10 +467,10 @@
           "playsText": "播放次數：2.4萬",
           "duration": 193,
           "byOther": false,
+          "nameKey": "三秒",
           "credits": {
             "music": "05"
-          },
-          "nameKey": "三秒"
+          }
         },
         {
           "index": 6,
@@ -481,10 +481,10 @@
           "playsText": "播放次數：14萬",
           "duration": 214,
           "byOther": false,
+          "nameKey": "再見",
           "credits": {
             "music": "06"
-          },
-          "nameKey": "再見"
+          }
         },
         {
           "index": 7,
@@ -495,10 +495,10 @@
           "playsText": "播放次數：11萬",
           "duration": 280,
           "byOther": false,
+          "nameKey": "浪子",
           "credits": {
             "music": "07"
-          },
-          "nameKey": "浪子"
+          }
         },
         {
           "index": 8,
@@ -509,10 +509,10 @@
           "playsText": "播放次數：232萬",
           "duration": 261,
           "byOther": false,
+          "nameKey": "遠得要命的愛情",
           "credits": {
             "music": "08"
-          },
-          "nameKey": "遠得要命的愛情"
+          }
         },
         {
           "index": 9,
@@ -523,10 +523,10 @@
           "playsText": "播放次數：43萬",
           "duration": 298,
           "byOther": false,
+          "nameKey": "桃花開搖搖擺擺",
           "credits": {
             "music": "09"
-          },
-          "nameKey": "桃花開搖搖擺擺"
+          }
         },
         {
           "index": 10,
@@ -537,10 +537,10 @@
           "playsText": "播放次數：9604",
           "duration": 335,
           "byOther": false,
+          "nameKey": "莎呦哪啦",
           "credits": {
             "music": "10"
-          },
-          "nameKey": "莎呦哪啦"
+          }
         },
         {
           "index": 11,
@@ -551,10 +551,10 @@
           "playsText": "播放次數：4.5萬",
           "duration": 201,
           "byOther": false,
+          "nameKey": "降龍樂章",
           "credits": {
             "music": "11"
-          },
-          "nameKey": "降龍樂章"
+          }
         },
         {
           "index": 12,
@@ -565,10 +565,10 @@
           "playsText": "播放次數：26萬",
           "duration": 314,
           "byOther": false,
+          "nameKey": "莎呦哪啦",
           "credits": {
             "music": "10"
-          },
-          "nameKey": "莎呦哪啦"
+          }
         }
       ],
       "releaseDate": "2011-07-22",
@@ -1219,8 +1219,8 @@
       "releaseDateSource": null,
       "wikiTitle": null,
       "wikiKind": null,
-      "titleZh": "Cage bird (合作演出：AR$G)",
-      "nameKey": "cagebird"
+      "nameKey": "cagebird",
+      "titleZh": "Cage bird (合作演出：AR$G)"
     },
     {
       "browseId": "MPREb_7UxpO1KptYO",
@@ -1474,8 +1474,8 @@
           "playsText": "播放次數：5.5萬",
           "duration": 278,
           "byOther": true,
-          "titleZh": "你的終點可以沒有我 (電視劇《風起霓裳》插曲)",
-          "nameKey": "你的終點可以沒有我"
+          "nameKey": "你的終點可以沒有我",
+          "titleZh": "你的終點可以沒有我 (電視劇《風起霓裳》插曲)"
         }
       ],
       "releaseDate": null,
@@ -1503,8 +1503,8 @@
           "playsText": "播放次數：201萬",
           "duration": 236,
           "byOther": false,
-          "titleZh": "頑魂",
-          "nameKey": "頑魂"
+          "nameKey": "頑魂",
+          "titleZh": "頑魂"
         }
       ],
       "releaseDate": "2022-04-06",
@@ -1532,8 +1532,8 @@
           "playsText": "播放次數：201萬",
           "duration": 236,
           "byOther": false,
-          "titleZh": "頑魂",
-          "nameKey": "頑魂"
+          "nameKey": "頑魂",
+          "titleZh": "頑魂"
         }
       ],
       "releaseDate": "2022-04-06",
@@ -1683,8 +1683,8 @@
           "playsText": "播放次數：5149",
           "duration": 225,
           "byOther": true,
-          "titleZh": "Discorder (綺音-Aÿane- ver.)",
-          "nameKey": "discorder"
+          "nameKey": "discorder",
+          "titleZh": "Discorder (綺音-Aÿane- ver.)"
         },
         {
           "index": 3,
@@ -1695,8 +1695,8 @@
           "playsText": "播放次數：461",
           "duration": 268,
           "byOther": true,
-          "titleZh": "hello (旧識)",
-          "nameKey": "hello"
+          "nameKey": "hello",
+          "titleZh": "hello (旧識)"
         },
         {
           "index": 4,
@@ -1729,8 +1729,8 @@
           "playsText": "播放次數：258",
           "duration": 262,
           "byOther": true,
-          "titleZh": "百花狂亂",
-          "nameKey": "百花狂亂"
+          "nameKey": "百花狂亂",
+          "titleZh": "百花狂亂"
         }
       ],
       "releaseDate": null,
@@ -1738,8 +1738,8 @@
       "releaseDateSource": null,
       "wikiTitle": null,
       "wikiKind": null,
-      "titleZh": "Discorder (綺音-Aÿane- ver.)",
-      "nameKey": "discorder"
+      "nameKey": "discorder",
+      "titleZh": "Discorder (綺音-Aÿane- ver.)"
     },
     {
       "browseId": "MPREb_A7I46jnsovH",
@@ -2104,8 +2104,8 @@
           "playsText": "播放次數：340",
           "duration": 234,
           "byOther": true,
-          "titleZh": "那些讓我難過的都是小事情",
-          "nameKey": "那些讓我難過的都是小事情"
+          "nameKey": "那些讓我難過的都是小事情",
+          "titleZh": "那些讓我難過的都是小事情"
         }
       ],
       "releaseDate": null,
@@ -2312,8 +2312,8 @@
           "playsText": "播放次數：460",
           "duration": 189,
           "byOther": true,
-          "titleZh": "hello (舊識)",
-          "nameKey": "hello"
+          "nameKey": "hello",
+          "titleZh": "hello (舊識)"
         }
       ],
       "releaseDate": null,
@@ -2900,8 +2900,8 @@
           "playsText": "播放次數：252",
           "duration": 281,
           "byOther": true,
-          "titleZh": "真夜中のミッドナイトで踴ろう。 (NAGATA Remix)",
-          "nameKey": "眞夜中のミッドナイトで踴ろう"
+          "nameKey": "眞夜中のミッドナイトで踴ろう",
+          "titleZh": "真夜中のミッドナイトで踴ろう。 (NAGATA Remix)"
         }
       ],
       "releaseDate": null,
@@ -3125,8 +3125,8 @@
           "playsText": "播放次數：411",
           "duration": 165,
           "byOther": true,
-          "titleZh": "表裡一體 (合作演出：nanami)",
-          "nameKey": "表裡一體"
+          "nameKey": "表裡一體",
+          "titleZh": "表裡一體 (合作演出：nanami)"
         }
       ],
       "releaseDate": null,
@@ -3388,8 +3388,8 @@
           "playsText": "播放次數：209",
           "duration": 302,
           "byOther": true,
-          "titleZh": "カセットテープが裡返る前に (～あぜ道Ver.～)",
-          "nameKey": "カセットテープが裡返る前に"
+          "nameKey": "カセットテープが裡返る前に",
+          "titleZh": "カセットテープが裡返る前に (～あぜ道Ver.～)"
         }
       ],
       "releaseDate": null,

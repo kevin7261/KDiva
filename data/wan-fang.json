@@ -41,7 +41,12 @@
           "playsText": "播放次數：29萬",
           "duration": 288,
           "byOther": false,
-          "nameKey": "半袖"
+          "nameKey": "半袖",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "上田知華",
+            "arranger": "洪敬堯"
+          }
         },
         {
           "index": 3,
@@ -85,7 +90,12 @@
           "playsText": "播放次數：251萬",
           "duration": 290,
           "byOther": false,
-          "nameKey": "碧海情天"
+          "nameKey": "碧海情天",
+          "credits": {
+            "lyrics": "廖瑩如",
+            "music": "李宗盛",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 7,
@@ -157,7 +167,12 @@
           "playsText": "播放次數：1380萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "我記得你眼裡的依戀"
+          "nameKey": "我記得你眼裡的依戀",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "剛澤斌",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 2,
@@ -179,7 +194,12 @@
           "playsText": "播放次數：835萬",
           "duration": 295,
           "byOther": false,
-          "nameKey": "猜心"
+          "nameKey": "猜心",
+          "credits": {
+            "lyrics": "十一郎",
+            "music": "張宇",
+            "arranger": "盧志銘"
+          }
         },
         {
           "index": 4,
@@ -190,7 +210,12 @@
           "playsText": "播放次數：53萬",
           "duration": 321,
           "byOther": false,
-          "nameKey": "桂花釀"
+          "nameKey": "桂花釀",
+          "credits": {
+            "lyrics": "十一郎",
+            "music": "張宇",
+            "arranger": "丹尼"
+          }
         },
         {
           "index": 5,
@@ -295,8 +320,13 @@
           "playsText": "播放次數：275萬",
           "duration": 310,
           "byOther": false,
-          "titleZh": "試著瞭解",
-          "nameKey": "試著瞭解"
+          "nameKey": "試著瞭解",
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "美木、Super",
+            "arranger": "盧志銘"
+          },
+          "titleZh": "試著瞭解"
         },
         {
           "index": 3,
@@ -340,7 +370,12 @@
           "playsText": "播放次數：55萬",
           "duration": 334,
           "byOther": false,
-          "nameKey": "多事的秋"
+          "nameKey": "多事的秋",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "李宗盛",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 7,
@@ -351,7 +386,12 @@
           "playsText": "播放次數：167萬",
           "duration": 291,
           "byOther": false,
-          "nameKey": "戀你"
+          "nameKey": "戀你",
+          "credits": {
+            "lyrics": "何啟弘",
+            "music": "中島美雪",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 8,
@@ -519,8 +559,8 @@
       "releaseDateSource": "album-page",
       "wikiTitle": "Tea for Two",
       "wikiKind": "studio",
-      "titleZh": "Tea For Two (兩人喝的茶)",
-      "nameKey": "teafortwo"
+      "nameKey": "teafortwo",
+      "titleZh": "Tea For Two (兩人喝的茶)"
     },
     {
       "browseId": "MPREb_ApE9a0WCidu",
@@ -540,7 +580,12 @@
           "playsText": "播放次數：121萬",
           "duration": 244,
           "byOther": false,
-          "nameKey": "愛上你給的痛"
+          "nameKey": "愛上你給的痛",
+          "credits": {
+            "lyrics": "易家揚",
+            "music": "張宇",
+            "arranger": "鮑比達"
+          }
         },
         {
           "index": 2,
@@ -551,7 +596,12 @@
           "playsText": "播放次數：51萬",
           "duration": 251,
           "byOther": false,
-          "nameKey": "斷線"
+          "nameKey": "斷線",
+          "credits": {
+            "lyrics": "易家揚",
+            "music": "陳小霞",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 3,
@@ -595,7 +645,12 @@
           "playsText": "播放次數：3912萬",
           "duration": 269,
           "byOther": false,
-          "nameKey": "新不了情"
+          "nameKey": "新不了情",
+          "credits": {
+            "lyrics": "黃鬱",
+            "music": "鮑比達",
+            "arranger": "鮑比達"
+          }
         },
         {
           "index": 7,
@@ -700,7 +755,12 @@
           "playsText": "播放次數：834萬",
           "duration": 295,
           "byOther": false,
-          "nameKey": "猜心"
+          "nameKey": "猜心",
+          "credits": {
+            "lyrics": "十一郎",
+            "music": "張宇",
+            "arranger": "盧志銘"
+          }
         },
         {
           "index": 5,
@@ -711,8 +771,13 @@
           "playsText": "播放次數：275萬",
           "duration": 312,
           "byOther": false,
-          "titleZh": "試著瞭解",
-          "nameKey": "試著瞭解"
+          "nameKey": "試著瞭解",
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "美木、Super",
+            "arranger": "盧志銘"
+          },
+          "titleZh": "試著瞭解"
         },
         {
           "index": 6,
@@ -723,7 +788,12 @@
           "playsText": "播放次數：29萬",
           "duration": 289,
           "byOther": false,
-          "nameKey": "半袖"
+          "nameKey": "半袖",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "上田知華",
+            "arranger": "洪敬堯"
+          }
         },
         {
           "index": 7,
@@ -734,7 +804,12 @@
           "playsText": "播放次數：51萬",
           "duration": 252,
           "byOther": false,
-          "nameKey": "斷線"
+          "nameKey": "斷線",
+          "credits": {
+            "lyrics": "易家揚",
+            "music": "陳小霞",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 8,
@@ -745,7 +820,12 @@
           "playsText": "播放次數：251萬",
           "duration": 292,
           "byOther": false,
-          "nameKey": "碧海情天"
+          "nameKey": "碧海情天",
+          "credits": {
+            "lyrics": "廖瑩如",
+            "music": "李宗盛",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 9,
@@ -756,7 +836,12 @@
           "playsText": "播放次數：121萬",
           "duration": 244,
           "byOther": false,
-          "nameKey": "愛上你給的痛"
+          "nameKey": "愛上你給的痛",
+          "credits": {
+            "lyrics": "易家揚",
+            "music": "張宇",
+            "arranger": "鮑比達"
+          }
         },
         {
           "index": 10,
@@ -767,7 +852,12 @@
           "playsText": "播放次數：55萬",
           "duration": 334,
           "byOther": false,
-          "nameKey": "多事的秋"
+          "nameKey": "多事的秋",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "李宗盛",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 11,
@@ -817,7 +907,12 @@
           "playsText": "播放次數：5.2萬",
           "duration": 234,
           "byOther": false,
-          "nameKey": "flyaway"
+          "nameKey": "flyaway",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "黃韻玲",
+            "arranger": "黃韻玲"
+          }
         },
         {
           "index": 2,
@@ -828,7 +923,12 @@
           "playsText": "播放次數：312萬",
           "duration": 226,
           "byOther": false,
-          "nameKey": "割愛"
+          "nameKey": "割愛",
+          "credits": {
+            "lyrics": "潘麗玉",
+            "music": "戚小戀",
+            "arranger": "王豫民"
+          }
         },
         {
           "index": 3,
@@ -944,7 +1044,12 @@
           "playsText": "播放次數：39萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "溫哥華悲傷一號"
+          "nameKey": "溫哥華悲傷一號",
+          "credits": {
+            "lyrics": "陳柔錚",
+            "music": "林揮斌",
+            "arranger": "陳柔錚"
+          }
         },
         {
           "index": 2,
@@ -955,7 +1060,12 @@
           "playsText": "播放次數：658萬",
           "duration": 252,
           "byOther": false,
-          "nameKey": "就值得了愛"
+          "nameKey": "就值得了愛",
+          "credits": {
+            "lyrics": "劉思銘",
+            "music": "劉志宏",
+            "arranger": "王豫民"
+          }
         },
         {
           "index": 3,
@@ -966,7 +1076,12 @@
           "playsText": "播放次數：180萬",
           "duration": 257,
           "byOther": false,
-          "nameKey": "然後你怎麼說"
+          "nameKey": "然後你怎麼說",
+          "credits": {
+            "lyrics": "伍佰",
+            "music": "伍佰",
+            "arranger": "伍佰、China Blue"
+          }
         },
         {
           "index": 4,
@@ -1043,7 +1158,12 @@
           "playsText": "播放次數：1.9萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "星期三的下午"
+          "nameKey": "星期三的下午",
+          "credits": {
+            "lyrics": "萬芳",
+            "music": "陳柔錚",
+            "arranger": "陳柔錚"
+          }
         }
       ],
       "releaseDate": "1996-10-24",
@@ -1071,7 +1191,12 @@
           "playsText": "播放次數：3912萬",
           "duration": 269,
           "byOther": false,
-          "nameKey": "新不了情"
+          "nameKey": "新不了情",
+          "credits": {
+            "lyrics": "黃鬱",
+            "music": "鮑比達",
+            "arranger": "鮑比達"
+          }
         },
         {
           "index": 2,
@@ -1082,7 +1207,12 @@
           "playsText": "播放次數：834萬",
           "duration": 296,
           "byOther": false,
-          "nameKey": "猜心"
+          "nameKey": "猜心",
+          "credits": {
+            "lyrics": "十一郎",
+            "music": "張宇",
+            "arranger": "盧志銘"
+          }
         },
         {
           "index": 3,
@@ -1104,8 +1234,13 @@
           "playsText": "播放次數：275萬",
           "duration": 311,
           "byOther": false,
-          "titleZh": "試著瞭解",
-          "nameKey": "試著瞭解"
+          "nameKey": "試著瞭解",
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "美木、Super",
+            "arranger": "盧志銘"
+          },
+          "titleZh": "試著瞭解"
         },
         {
           "index": 5,
@@ -1116,7 +1251,12 @@
           "playsText": "播放次數：55萬",
           "duration": 334,
           "byOther": false,
-          "nameKey": "多事的秋"
+          "nameKey": "多事的秋",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "李宗盛",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 6,
@@ -1127,7 +1267,12 @@
           "playsText": "播放次數：29萬",
           "duration": 288,
           "byOther": false,
-          "nameKey": "半袖"
+          "nameKey": "半袖",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "上田知華",
+            "arranger": "洪敬堯"
+          }
         },
         {
           "index": 7,
@@ -1138,7 +1283,12 @@
           "playsText": "播放次數：1381萬",
           "duration": 264,
           "byOther": false,
-          "nameKey": "我記得你眼裡的依戀"
+          "nameKey": "我記得你眼裡的依戀",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "剛澤斌",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 8,
@@ -1149,7 +1299,12 @@
           "playsText": "播放次數：53萬",
           "duration": 321,
           "byOther": false,
-          "nameKey": "桂花釀"
+          "nameKey": "桂花釀",
+          "credits": {
+            "lyrics": "十一郎",
+            "music": "張宇",
+            "arranger": "丹尼"
+          }
         },
         {
           "index": 9,
@@ -1160,7 +1315,12 @@
           "playsText": "播放次數：251萬",
           "duration": 289,
           "byOther": false,
-          "nameKey": "碧海情天"
+          "nameKey": "碧海情天",
+          "credits": {
+            "lyrics": "廖瑩如",
+            "music": "李宗盛",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 10,
@@ -1171,7 +1331,12 @@
           "playsText": "播放次數：167萬",
           "duration": 291,
           "byOther": false,
-          "nameKey": "戀你"
+          "nameKey": "戀你",
+          "credits": {
+            "lyrics": "何啟弘",
+            "music": "中島美雪",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 11,
@@ -1254,7 +1419,12 @@
           "playsText": "播放次數：91萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "孩子氣"
+          "nameKey": "孩子氣",
+          "credits": {
+            "lyrics": "鄭華娟",
+            "music": "鄭華娟",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 5,
@@ -1265,7 +1435,12 @@
           "playsText": "播放次數：10萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "寂寞"
+          "nameKey": "寂寞",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "張洪量",
+            "arranger": "周國儀、陳愛珍"
+          }
         },
         {
           "index": 6,
@@ -1530,7 +1705,12 @@
           "playsText": "播放次數：208萬",
           "duration": 309,
           "byOther": false,
-          "nameKey": "從前"
+          "nameKey": "從前",
+          "credits": {
+            "lyrics": "厲曼婷",
+            "music": "李正帆",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 3,
@@ -1563,7 +1743,12 @@
           "playsText": "播放次數：171萬",
           "duration": 272,
           "byOther": false,
-          "nameKey": "不換"
+          "nameKey": "不換",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "熊天平",
+            "arranger": "周國儀、陳愛珍"
+          }
         },
         {
           "index": 6,
@@ -1679,7 +1864,12 @@
           "playsText": "播放次數：18萬",
           "duration": 228,
           "byOther": false,
-          "nameKey": "聽風的歌"
+          "nameKey": "聽風的歌",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "安棟",
+            "arranger": "安棟"
+          }
         },
         {
           "index": 2,
@@ -1867,7 +2057,12 @@
           "playsText": "播放次數：27萬",
           "duration": 315,
           "byOther": false,
-          "nameKey": "相愛的運氣"
+          "nameKey": "相愛的運氣",
+          "credits": {
+            "lyrics": "陳珊妮",
+            "music": "陳珊妮",
+            "arranger": "徐千秀"
+          }
         },
         {
           "index": 4,
@@ -1972,8 +2167,13 @@
           "playsText": "播放次數：275萬",
           "duration": 311,
           "byOther": false,
-          "titleZh": "試著瞭解",
-          "nameKey": "試著瞭解"
+          "nameKey": "試著瞭解",
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "美木、Super",
+            "arranger": "盧志銘"
+          },
+          "titleZh": "試著瞭解"
         },
         {
           "index": 2,
@@ -1984,7 +2184,12 @@
           "playsText": "播放次數：835萬",
           "duration": 295,
           "byOther": false,
-          "nameKey": "猜心"
+          "nameKey": "猜心",
+          "credits": {
+            "lyrics": "十一郎",
+            "music": "張宇",
+            "arranger": "盧志銘"
+          }
         },
         {
           "index": 3,
@@ -1995,7 +2200,12 @@
           "playsText": "播放次數：658萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "就值得了愛"
+          "nameKey": "就值得了愛",
+          "credits": {
+            "lyrics": "劉思銘",
+            "music": "劉志宏",
+            "arranger": "王豫民"
+          }
         },
         {
           "index": 4,
@@ -2006,7 +2216,12 @@
           "playsText": "播放次數：5.2萬",
           "duration": 235,
           "byOther": false,
-          "nameKey": "flyaway"
+          "nameKey": "flyaway",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "黃韻玲",
+            "arranger": "黃韻玲"
+          }
         },
         {
           "index": 5,
@@ -2017,7 +2232,12 @@
           "playsText": "播放次數：39萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "溫哥華悲傷一號"
+          "nameKey": "溫哥華悲傷一號",
+          "credits": {
+            "lyrics": "陳柔錚",
+            "music": "林揮斌",
+            "arranger": "陳柔錚"
+          }
         },
         {
           "index": 6,
@@ -2028,7 +2248,12 @@
           "playsText": "播放次數：91萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "孩子氣"
+          "nameKey": "孩子氣",
+          "credits": {
+            "lyrics": "鄭華娟",
+            "music": "鄭華娟",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 7,
@@ -2039,7 +2264,12 @@
           "playsText": "播放次數：18萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "聽風的歌"
+          "nameKey": "聽風的歌",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "安棟",
+            "arranger": "安棟"
+          }
         },
         {
           "index": 8,
@@ -2050,7 +2280,12 @@
           "playsText": "播放次數：208萬",
           "duration": 309,
           "byOther": false,
-          "nameKey": "從前"
+          "nameKey": "從前",
+          "credits": {
+            "lyrics": "厲曼婷",
+            "music": "李正帆",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 9,
@@ -2061,7 +2296,12 @@
           "playsText": "播放次數：171萬",
           "duration": 272,
           "byOther": false,
-          "nameKey": "不換"
+          "nameKey": "不換",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "熊天平",
+            "arranger": "周國儀、陳愛珍"
+          }
         },
         {
           "index": 10,
@@ -2094,7 +2334,12 @@
           "playsText": "播放次數：1381萬",
           "duration": 264,
           "byOther": false,
-          "nameKey": "我記得你眼裡的依戀"
+          "nameKey": "我記得你眼裡的依戀",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "剛澤斌",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 13,
@@ -2105,7 +2350,12 @@
           "playsText": "播放次數：312萬",
           "duration": 227,
           "byOther": false,
-          "nameKey": "割愛"
+          "nameKey": "割愛",
+          "credits": {
+            "lyrics": "潘麗玉",
+            "music": "戚小戀",
+            "arranger": "王豫民"
+          }
         },
         {
           "index": 14,
@@ -2116,7 +2366,12 @@
           "playsText": "播放次數：167萬",
           "duration": 290,
           "byOther": false,
-          "nameKey": "戀你"
+          "nameKey": "戀你",
+          "credits": {
+            "lyrics": "何啟弘",
+            "music": "中島美雪",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 15,
@@ -2155,7 +2410,12 @@
           "playsText": "播放次數：48萬",
           "duration": 238,
           "byOther": false,
-          "nameKey": "慢火車"
+          "nameKey": "慢火車",
+          "credits": {
+            "lyrics": "鄭華娟",
+            "music": "鄭華娟",
+            "arranger": "黃韻玲"
+          }
         },
         {
           "index": 2,
@@ -2166,7 +2426,12 @@
           "playsText": "播放次數：256萬",
           "duration": 227,
           "byOther": false,
-          "nameKey": "夜照亮了夜"
+          "nameKey": "夜照亮了夜",
+          "credits": {
+            "lyrics": "王中言",
+            "music": "伍佰",
+            "arranger": "任伯璋、江力平、黃欽聖、黃冠豪"
+          }
         },
         {
           "index": 3,
@@ -2177,7 +2442,12 @@
           "playsText": "播放次數：3.9萬",
           "duration": 283,
           "byOther": false,
-          "nameKey": "演技"
+          "nameKey": "演技",
+          "credits": {
+            "lyrics": "陳珊妮",
+            "music": "陳珊妮",
+            "arranger": "徐千秀"
+          }
         },
         {
           "index": 4,
@@ -2188,7 +2458,12 @@
           "playsText": "播放次數：13萬",
           "duration": 272,
           "byOther": false,
-          "nameKey": "我們之間"
+          "nameKey": "我們之間",
+          "credits": {
+            "lyrics": "陳珊妮",
+            "music": "陳珊妮",
+            "arranger": "徐千秀"
+          }
         },
         {
           "index": 5,
@@ -2199,7 +2474,12 @@
           "playsText": "播放次數：3912萬",
           "duration": 268,
           "byOther": false,
-          "nameKey": "新不了情"
+          "nameKey": "新不了情",
+          "credits": {
+            "lyrics": "黃鬱",
+            "music": "鮑比達",
+            "arranger": "鮑比達"
+          }
         },
         {
           "index": 6,
@@ -2210,7 +2490,12 @@
           "playsText": "播放次數：171萬",
           "duration": 268,
           "byOther": false,
-          "nameKey": "不換"
+          "nameKey": "不換",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "熊天平",
+            "arranger": "周國儀、陳愛珍"
+          }
         },
         {
           "index": 7,
@@ -2221,7 +2506,12 @@
           "playsText": "播放次數：121萬",
           "duration": 242,
           "byOther": false,
-          "nameKey": "愛上你給的痛"
+          "nameKey": "愛上你給的痛",
+          "credits": {
+            "lyrics": "易家揚",
+            "music": "張宇",
+            "arranger": "鮑比達"
+          }
         },
         {
           "index": 8,
@@ -2232,7 +2522,12 @@
           "playsText": "播放次數：834萬",
           "duration": 292,
           "byOther": false,
-          "nameKey": "猜心"
+          "nameKey": "猜心",
+          "credits": {
+            "lyrics": "十一郎",
+            "music": "張宇",
+            "arranger": "盧志銘"
+          }
         },
         {
           "index": 9,
@@ -2243,7 +2538,12 @@
           "playsText": "播放次數：658萬",
           "duration": 249,
           "byOther": false,
-          "nameKey": "就值得了愛"
+          "nameKey": "就值得了愛",
+          "credits": {
+            "lyrics": "劉思銘",
+            "music": "劉志宏",
+            "arranger": "王豫民"
+          }
         },
         {
           "index": 10,
@@ -2254,7 +2554,12 @@
           "playsText": "播放次數：27萬",
           "duration": 311,
           "byOther": false,
-          "nameKey": "相愛的運氣"
+          "nameKey": "相愛的運氣",
+          "credits": {
+            "lyrics": "陳珊妮",
+            "music": "陳珊妮",
+            "arranger": "徐千秀"
+          }
         },
         {
           "index": 11,
@@ -2265,7 +2570,12 @@
           "playsText": "播放次數：312萬",
           "duration": 222,
           "byOther": false,
-          "nameKey": "割愛"
+          "nameKey": "割愛",
+          "credits": {
+            "lyrics": "潘麗玉",
+            "music": "戚小戀",
+            "arranger": "王豫民"
+          }
         },
         {
           "index": 12,
@@ -2276,7 +2586,12 @@
           "playsText": "播放次數：251萬",
           "duration": 288,
           "byOther": false,
-          "nameKey": "碧海情天"
+          "nameKey": "碧海情天",
+          "credits": {
+            "lyrics": "廖瑩如",
+            "music": "李宗盛",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 13,
@@ -2298,7 +2613,12 @@
           "playsText": "播放次數：180萬",
           "duration": 257,
           "byOther": false,
-          "nameKey": "然後你怎麼說"
+          "nameKey": "然後你怎麼說",
+          "credits": {
+            "lyrics": "伍佰",
+            "music": "伍佰",
+            "arranger": "伍佰、China Blue"
+          }
         },
         {
           "index": 15,
@@ -2309,7 +2629,12 @@
           "playsText": "播放次數：2662萬",
           "duration": 223,
           "byOther": false,
-          "nameKey": "愛情限時批"
+          "nameKey": "愛情限時批",
+          "credits": {
+            "lyrics": "伍佰",
+            "music": "伍佰",
+            "arranger": "China Blue"
+          }
         },
         {
           "index": 16,
@@ -2320,7 +2645,12 @@
           "playsText": "播放次數：39萬",
           "duration": 264,
           "byOther": false,
-          "nameKey": "溫哥華悲傷一號"
+          "nameKey": "溫哥華悲傷一號",
+          "credits": {
+            "lyrics": "陳柔錚",
+            "music": "林揮斌",
+            "arranger": "陳柔錚"
+          }
         },
         {
           "index": 17,
@@ -2331,8 +2661,13 @@
           "playsText": "播放次數：275萬",
           "duration": 308,
           "byOther": false,
-          "titleZh": "試著瞭解",
-          "nameKey": "試著瞭解"
+          "nameKey": "試著瞭解",
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "美木、Super",
+            "arranger": "盧志銘"
+          },
+          "titleZh": "試著瞭解"
         },
         {
           "index": 18,
@@ -2343,7 +2678,12 @@
           "playsText": "播放次數：208萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "從前"
+          "nameKey": "從前",
+          "credits": {
+            "lyrics": "厲曼婷",
+            "music": "李正帆",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 19,
@@ -2354,7 +2694,12 @@
           "playsText": "播放次數：29萬",
           "duration": 286,
           "byOther": false,
-          "nameKey": "半袖"
+          "nameKey": "半袖",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "上田知華",
+            "arranger": "洪敬堯"
+          }
         },
         {
           "index": 20,
@@ -2365,7 +2710,12 @@
           "playsText": "播放次數：91萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "孩子氣"
+          "nameKey": "孩子氣",
+          "credits": {
+            "lyrics": "鄭華娟",
+            "music": "鄭華娟",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 21,
@@ -2376,7 +2726,12 @@
           "playsText": "播放次數：51萬",
           "duration": 248,
           "byOther": false,
-          "nameKey": "斷線"
+          "nameKey": "斷線",
+          "credits": {
+            "lyrics": "易家揚",
+            "music": "陳小霞",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 22,
@@ -2387,7 +2742,12 @@
           "playsText": "播放次數：55萬",
           "duration": 331,
           "byOther": false,
-          "nameKey": "多事的秋"
+          "nameKey": "多事的秋",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "李宗盛",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 23,
@@ -2398,7 +2758,12 @@
           "playsText": "播放次數：167萬",
           "duration": 289,
           "byOther": false,
-          "nameKey": "戀你"
+          "nameKey": "戀你",
+          "credits": {
+            "lyrics": "何啟弘",
+            "music": "中島美雪",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 24,
@@ -2409,7 +2774,12 @@
           "playsText": "播放次數：1380萬",
           "duration": 261,
           "byOther": false,
-          "nameKey": "我記得你眼裡的依戀"
+          "nameKey": "我記得你眼裡的依戀",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "剛澤斌",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 25,
@@ -2420,7 +2790,12 @@
           "playsText": "播放次數：18萬",
           "duration": 227,
           "byOther": false,
-          "nameKey": "聽風的歌"
+          "nameKey": "聽風的歌",
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "安棟",
+            "arranger": "安棟"
+          }
         },
         {
           "index": 26,
@@ -2431,7 +2806,12 @@
           "playsText": "播放次數：1.9萬",
           "duration": 307,
           "byOther": false,
-          "nameKey": "星期三的下午"
+          "nameKey": "星期三的下午",
+          "credits": {
+            "lyrics": "萬芳",
+            "music": "陳柔錚",
+            "arranger": "陳柔錚"
+          }
         },
         {
           "index": 27,
@@ -2442,7 +2822,12 @@
           "playsText": "播放次數：10萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "寂寞"
+          "nameKey": "寂寞",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "張洪量",
+            "arranger": "周國儀、陳愛珍"
+          }
         },
         {
           "index": 28,
@@ -2464,7 +2849,12 @@
           "playsText": "播放次數：53萬",
           "duration": 318,
           "byOther": false,
-          "nameKey": "桂花釀"
+          "nameKey": "桂花釀",
+          "credits": {
+            "lyrics": "十一郎",
+            "music": "張宇",
+            "arranger": "丹尼"
+          }
         },
         {
           "index": 30,
@@ -2475,7 +2865,12 @@
           "playsText": "播放次數：5.2萬",
           "duration": 232,
           "byOther": false,
-          "nameKey": "flyaway"
+          "nameKey": "flyaway",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "黃韻玲",
+            "arranger": "黃韻玲"
+          }
         }
       ],
       "releaseDate": "2005-01-14",
@@ -2630,12 +3025,12 @@
           "playsText": "播放次數：80萬",
           "duration": 303,
           "byOther": false,
+          "nameKey": "原來我們都是愛著的",
           "credits": {
             "lyrics": "萬芳",
             "music": "林揮斌",
             "arranger": "Zayas Cazal Roberto"
-          },
-          "nameKey": "原來我們都是愛著的"
+          }
         },
         {
           "index": 2,
@@ -2646,12 +3041,12 @@
           "playsText": "播放次數：15萬",
           "duration": 217,
           "byOther": false,
+          "nameKey": "讓我送你花一朵",
           "credits": {
             "lyrics": "林揮斌",
             "music": "林揮斌",
             "arranger": "林揮斌"
-          },
-          "nameKey": "讓我送你花一朵"
+          }
         },
         {
           "index": 3,
@@ -2662,12 +3057,12 @@
           "playsText": "播放次數：64萬",
           "duration": 299,
           "byOther": false,
+          "nameKey": "michelle的第一天",
           "credits": {
             "lyrics": "萬芳",
             "music": "萬芳",
             "arranger": "徐千秀"
-          },
-          "nameKey": "michelle的第一天"
+          }
         },
         {
           "index": 4,
@@ -2678,12 +3073,12 @@
           "playsText": "播放次數：17萬",
           "duration": 338,
           "byOther": false,
+          "nameKey": "阿茲海默",
           "credits": {
             "lyrics": "黎煥雄",
             "music": "吳青峰",
             "arranger": "莊雅雯"
-          },
-          "nameKey": "阿茲海默"
+          }
         },
         {
           "index": 5,
@@ -2694,12 +3089,12 @@
           "playsText": "播放次數：55萬",
           "duration": 359,
           "byOther": false,
+          "nameKey": "可是我還是學不會",
           "credits": {
             "lyrics": "萬芳",
             "music": "萬芳",
             "arranger": "十九兩樂團"
-          },
-          "nameKey": "可是我還是學不會"
+          }
         },
         {
           "index": 6,
@@ -2710,12 +3105,12 @@
           "playsText": "播放次數：6227",
           "duration": 247,
           "byOther": false,
+          "nameKey": "小星星",
           "credits": {
             "lyrics": "蓓麗",
             "music": "蓓麗",
             "arranger": "徐千秀"
-          },
-          "nameKey": "小星星"
+          }
         },
         {
           "index": 7,
@@ -2726,12 +3121,12 @@
           "playsText": "播放次數：3451",
           "duration": 206,
           "byOther": false,
+          "nameKey": "我只想安靜的獨自跳完一支舞",
           "credits": {
             "lyrics": "萬芳",
             "music": "黃韻玲",
             "arranger": "Lisa"
-          },
-          "nameKey": "我只想安靜的獨自跳完一支舞"
+          }
         },
         {
           "index": 8,
@@ -2742,12 +3137,12 @@
           "playsText": "播放次數：2643",
           "duration": 202,
           "byOther": false,
+          "nameKey": "如同愛一樣的",
           "credits": {
             "lyrics": "李格弟",
             "music": "陳建騏",
             "arranger": "周國儀"
-          },
-          "nameKey": "如同愛一樣的"
+          }
         },
         {
           "index": 9,
@@ -2758,12 +3153,12 @@
           "playsText": "播放次數：2841",
           "duration": 256,
           "byOther": false,
+          "nameKey": "永遠",
           "credits": {
             "lyrics": "萬芳",
             "music": "萬芳",
             "arranger": "許郁瑛"
-          },
-          "nameKey": "永遠"
+          }
         },
         {
           "index": 10,
@@ -2774,12 +3169,12 @@
           "playsText": "播放次數：7783",
           "duration": 272,
           "byOther": false,
+          "nameKey": "睡著了",
           "credits": {
             "lyrics": "萬芳",
             "music": "萬芳、Lisa",
             "arranger": "Lisa"
-          },
-          "nameKey": "睡著了"
+          }
         },
         {
           "index": 11,
@@ -2790,12 +3185,12 @@
           "playsText": "播放次數：1812",
           "duration": 218,
           "byOther": false,
+          "nameKey": "小星星的對話",
           "credits": {
             "lyrics": "蓓麗",
             "music": "蓓麗",
             "arranger": "蓓麗"
-          },
-          "nameKey": "小星星的對話"
+          }
         }
       ],
       "releaseDate": "2012-08-24",
@@ -3117,12 +3512,12 @@
           "playsText": "播放次數：23萬",
           "duration": 238,
           "byOther": false,
+          "nameKey": "什麼將把你帶走",
           "credits": {
             "lyrics": "王小苗",
             "music": "詹森淮",
             "arranger": "詹森淮"
-          },
-          "nameKey": "什麼將把你帶走"
+          }
         }
       ],
       "releaseDate": null,
@@ -3150,12 +3545,12 @@
           "playsText": "播放次數：31萬",
           "duration": 335,
           "byOther": false,
+          "nameKey": "時間梯",
           "credits": {
             "lyrics": "萬芳",
             "music": "陳柔錚",
             "arranger": "陳柔錚"
-          },
-          "nameKey": "時間梯"
+          }
         }
       ],
       "releaseDate": "2021-01-01",
@@ -3183,12 +3578,12 @@
           "playsText": "播放次數：113萬",
           "duration": 298,
           "byOther": false,
+          "nameKey": "阿峰今天沒有來",
           "credits": {
             "lyrics": "黃婷",
             "music": "黃韻玲",
             "arranger": "鍾承洋"
-          },
-          "nameKey": "阿峰今天沒有來"
+          }
         }
       ],
       "releaseDate": "2021-01-01",
@@ -3216,12 +3611,12 @@
           "playsText": "播放次數：31萬",
           "duration": 337,
           "byOther": false,
+          "nameKey": "時間梯",
           "credits": {
             "lyrics": "萬芳",
             "music": "陳柔錚",
             "arranger": "陳柔錚"
-          },
-          "nameKey": "時間梯"
+          }
         },
         {
           "index": 2,
@@ -3232,12 +3627,12 @@
           "playsText": "播放次數：23萬",
           "duration": 242,
           "byOther": false,
+          "nameKey": "什麼將把你帶走",
           "credits": {
             "lyrics": "王小苗",
             "music": "詹森淮",
             "arranger": "詹森淮"
-          },
-          "nameKey": "什麼將把你帶走"
+          }
         },
         {
           "index": 3,
@@ -3248,12 +3643,12 @@
           "playsText": "播放次數：31萬",
           "duration": 362,
           "byOther": false,
+          "nameKey": "模樣",
           "credits": {
             "lyrics": "知更",
             "music": "知更",
             "arranger": "知更"
-          },
-          "nameKey": "模樣"
+          }
         },
         {
           "index": 4,
@@ -3264,12 +3659,12 @@
           "playsText": "播放次數：8.6萬",
           "duration": 239,
           "byOther": false,
+          "nameKey": "我是你的誰",
           "credits": {
             "lyrics": "萬芳",
             "music": "萬芳",
             "arranger": "李英宏、顏世傑"
-          },
-          "nameKey": "我是你的誰"
+          }
         },
         {
           "index": 5,
@@ -3280,12 +3675,12 @@
           "playsText": "播放次數：11萬",
           "duration": 318,
           "byOther": false,
+          "nameKey": "好風景",
           "credits": {
             "lyrics": "葉樹茵",
             "music": "葉樹茵",
             "arranger": "黃少雍"
-          },
-          "nameKey": "好風景"
+          }
         },
         {
           "index": 6,
@@ -3296,12 +3691,12 @@
           "playsText": "播放次數：9萬",
           "duration": 324,
           "byOther": false,
+          "nameKey": "回家吧",
           "credits": {
             "lyrics": "法蘭",
             "music": "法蘭",
             "arranger": "鍾承洋"
-          },
-          "nameKey": "回家吧"
+          }
         },
         {
           "index": 7,
@@ -3312,12 +3707,12 @@
           "playsText": "播放次數：113萬",
           "duration": 299,
           "byOther": false,
+          "nameKey": "阿峰今天沒有來",
           "credits": {
             "lyrics": "黃婷",
             "music": "黃韻玲",
             "arranger": "鍾承洋"
-          },
-          "nameKey": "阿峰今天沒有來"
+          }
         },
         {
           "index": 8,
@@ -3328,12 +3723,12 @@
           "playsText": "播放次數：79萬",
           "duration": 236,
           "byOther": false,
+          "nameKey": "給妳們",
           "credits": {
             "lyrics": "徐譽庭",
             "music": "陳建騏",
             "arranger": "陳建騏、劉涵"
-          },
-          "nameKey": "給妳們"
+          }
         },
         {
           "index": 9,
@@ -3344,12 +3739,12 @@
           "playsText": "播放次數：13萬",
           "duration": 277,
           "byOther": false,
+          "nameKey": "在那個冬天的下午我愛你",
           "credits": {
             "lyrics": "萬芳",
             "music": "萬芳",
             "arranger": "早川徹"
-          },
-          "nameKey": "在那個冬天的下午我愛你"
+          }
         },
         {
           "index": 10,
@@ -3360,12 +3755,12 @@
           "playsText": "播放次數：7.8萬",
           "duration": 325,
           "byOther": false,
+          "nameKey": "銀色的魚",
           "credits": {
             "lyrics": "陸伊潔",
             "music": "陸伊潔",
             "arranger": "王榆鈞"
-          },
-          "nameKey": "銀色的魚"
+          }
         }
       ],
       "releaseDate": "2021-08-21",
@@ -3404,7 +3799,12 @@
           "playsText": "播放次數：1.2萬",
           "duration": 233,
           "byOther": false,
-          "nameKey": "孩子氣"
+          "nameKey": "孩子氣",
+          "credits": {
+            "lyrics": "鄭華娟",
+            "music": "鄭華娟",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 3,
@@ -3426,7 +3826,12 @@
           "playsText": "播放次數：7177",
           "duration": 249,
           "byOther": false,
-          "nameKey": "相愛的運氣"
+          "nameKey": "相愛的運氣",
+          "credits": {
+            "lyrics": "陳珊妮",
+            "music": "陳珊妮",
+            "arranger": "徐千秀"
+          }
         },
         {
           "index": 5,
@@ -3448,7 +3853,12 @@
           "playsText": "播放次數：7912",
           "duration": 248,
           "byOther": false,
-          "nameKey": "斷線"
+          "nameKey": "斷線",
+          "credits": {
+            "lyrics": "易家揚",
+            "music": "陳小霞",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 7,
@@ -3470,7 +3880,12 @@
           "playsText": "播放次數：1.3萬",
           "duration": 171,
           "byOther": false,
-          "nameKey": "碧海情天"
+          "nameKey": "碧海情天",
+          "credits": {
+            "lyrics": "廖瑩如",
+            "music": "李宗盛",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 9,
@@ -3481,7 +3896,12 @@
           "playsText": "播放次數：21萬",
           "duration": 154,
           "byOther": false,
-          "nameKey": "我記得你眼裡的依戀"
+          "nameKey": "我記得你眼裡的依戀",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "剛澤斌",
+            "arranger": "張乃仁"
+          }
         },
         {
           "index": 10,
@@ -3492,7 +3912,12 @@
           "playsText": "播放次數：9893",
           "duration": 127,
           "byOther": false,
-          "nameKey": "愛上你給的痛"
+          "nameKey": "愛上你給的痛",
+          "credits": {
+            "lyrics": "易家揚",
+            "music": "張宇",
+            "arranger": "鮑比達"
+          }
         },
         {
           "index": 11,
@@ -3503,7 +3928,12 @@
           "playsText": "播放次數：2.1萬",
           "duration": 151,
           "byOther": false,
-          "nameKey": "就值得了愛"
+          "nameKey": "就值得了愛",
+          "credits": {
+            "lyrics": "劉思銘",
+            "music": "劉志宏",
+            "arranger": "王豫民"
+          }
         },
         {
           "index": 12,
@@ -3514,7 +3944,12 @@
           "playsText": "播放次數：1.2萬",
           "duration": 140,
           "byOther": false,
-          "nameKey": "割愛"
+          "nameKey": "割愛",
+          "credits": {
+            "lyrics": "潘麗玉",
+            "music": "戚小戀",
+            "arranger": "王豫民"
+          }
         },
         {
           "index": 13,
@@ -3525,7 +3960,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 231,
           "byOther": false,
-          "nameKey": "從前"
+          "nameKey": "從前",
+          "credits": {
+            "lyrics": "厲曼婷",
+            "music": "李正帆",
+            "arranger": "李正帆"
+          }
         },
         {
           "index": 14,
@@ -3547,7 +3987,12 @@
           "playsText": "播放次數：6萬",
           "duration": 294,
           "byOther": false,
-          "nameKey": "猜心"
+          "nameKey": "猜心",
+          "credits": {
+            "lyrics": "十一郎",
+            "music": "張宇",
+            "arranger": "盧志銘"
+          }
         },
         {
           "index": 16,
@@ -3580,7 +4025,12 @@
           "playsText": "播放次數：6979",
           "duration": 217,
           "byOther": false,
-          "nameKey": "不換"
+          "nameKey": "不換",
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "熊天平",
+            "arranger": "周國儀、陳愛珍"
+          }
         },
         {
           "index": 19,
@@ -3591,7 +4041,12 @@
           "playsText": "播放次數：8483",
           "duration": 207,
           "byOther": false,
-          "nameKey": "慢火車"
+          "nameKey": "慢火車",
+          "credits": {
+            "lyrics": "鄭華娟",
+            "music": "鄭華娟",
+            "arranger": "黃韻玲"
+          }
         },
         {
           "index": 20,
@@ -3613,7 +4068,12 @@
           "playsText": "播放次數：4611",
           "duration": 228,
           "byOther": false,
-          "nameKey": "愛情限時批"
+          "nameKey": "愛情限時批",
+          "credits": {
+            "lyrics": "伍佰",
+            "music": "伍佰",
+            "arranger": "China Blue"
+          }
         },
         {
           "index": 22,
@@ -3668,12 +4128,12 @@
           "playsText": "播放次數：3548",
           "duration": 344,
           "byOther": false,
+          "nameKey": "原來我們都是愛著的",
           "credits": {
             "lyrics": "萬芳",
             "music": "林揮斌",
             "arranger": "Zayas Cazal Roberto"
-          },
-          "nameKey": "原來我們都是愛著的"
+          }
         },
         {
           "index": 27,
@@ -3684,12 +4144,12 @@
           "playsText": "播放次數：4664",
           "duration": 301,
           "byOther": false,
+          "nameKey": "michelle的第一天",
           "credits": {
             "lyrics": "萬芳",
             "music": "萬芳",
             "arranger": "徐千秀"
-          },
-          "nameKey": "michelle的第一天"
+          }
         },
         {
           "index": 28,
@@ -3700,7 +4160,12 @@
           "playsText": "播放次數：4830",
           "duration": 213,
           "byOther": false,
-          "nameKey": "flyaway"
+          "nameKey": "flyaway",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "黃韻玲",
+            "arranger": "黃韻玲"
+          }
         },
         {
           "index": 29,
@@ -3733,8 +4198,13 @@
           "playsText": "播放次數：2.8萬",
           "duration": 324,
           "byOther": false,
-          "titleZh": "試著瞭解",
-          "nameKey": "試著瞭解"
+          "nameKey": "試著瞭解",
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "美木、Super",
+            "arranger": "盧志銘"
+          },
+          "titleZh": "試著瞭解"
         },
         {
           "index": 32,
@@ -3745,7 +4215,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 413,
           "byOther": false,
-          "nameKey": "新不了情"
+          "nameKey": "新不了情",
+          "credits": {
+            "lyrics": "黃鬱",
+            "music": "鮑比達",
+            "arranger": "鮑比達"
+          }
         },
         {
           "index": 33,
@@ -3756,7 +4231,12 @@
           "playsText": "播放次數：4343",
           "duration": 285,
           "byOther": false,
-          "nameKey": "半袖"
+          "nameKey": "半袖",
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "上田知華",
+            "arranger": "洪敬堯"
+          }
         },
         {
           "index": 34,
@@ -3778,7 +4258,12 @@
           "playsText": "播放次數：1萬",
           "duration": 480,
           "byOther": false,
-          "nameKey": "溫哥華悲傷一號"
+          "nameKey": "溫哥華悲傷一號",
+          "credits": {
+            "lyrics": "陳柔錚",
+            "music": "林揮斌",
+            "arranger": "陳柔錚"
+          }
         }
       ],
       "releaseDate": null,
