@@ -1,6 +1,6 @@
 {
   "slug": "david-wong",
-  "fetchedAt": "2026-09-17T15:02:00.287Z",
+  "fetchedAt": "2026-09-17T23:00:24.741Z",
   "wiki": "黃大煒",
   "bio": {
     "born": {
@@ -24,10 +24,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2008-08-30",
+        "date": "2008-08-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺北國際會議中心"
@@ -35,7 +35,28 @@
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-08-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-08-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "ROCK4 風林火山 搖滾演唱會",
@@ -49,7 +70,7 @@
         "date": "2010-09-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北小巨蛋"
@@ -57,7 +78,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-09-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Heaven & Hell Live",
@@ -71,7 +103,7 @@
         "date": "2011-10-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北音樂傳記"
@@ -79,7 +111,15 @@
       "venues": [
         "臺北音樂傳記"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-10-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北音樂傳記"
+        }
+      ]
     },
     {
       "name": "1010",
@@ -93,7 +133,7 @@
         "date": "2019-10-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北國際會議中心"
@@ -101,7 +141,18 @@
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-10-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

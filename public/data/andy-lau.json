@@ -2,7 +2,7 @@
   "slug": "andy-lau",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T22:36:52.078Z",
+  "fetchedAt": "2026-09-17T23:00:04.004Z",
   "artist": {
     "channelId": "UCoyRETheGZlMXL-Jx83UsHQ",
     "name": "劉德華",
@@ -3317,7 +3317,11 @@
           "playsText": "播放次數：94萬",
           "duration": 257,
           "byOther": false,
-          "nameKey": "愛不完"
+          "nameKey": "愛不完",
+          "credits": {
+            "lyrics": "林振強",
+            "music": "杜自持"
+          }
         },
         {
           "index": 4,
@@ -4245,7 +4249,11 @@
           "byOther": false,
           "titleZh": "真我的風採 (R&B)",
           "titleZhVariant": true,
-          "nameKey": "眞我的風採"
+          "nameKey": "眞我的風採",
+          "credits": {
+            "lyrics": "李永泰",
+            "music": "靳鐵章"
+          }
         }
       ],
       "releaseDate": "1992-12-01",
@@ -4488,7 +4496,11 @@
           "playsText": "播放次數：22萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "這一生是給你一個"
+          "nameKey": "這一生是給你一個",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "周治平"
+          }
         },
         {
           "index": 5,
@@ -4530,7 +4542,11 @@
           "playsText": "播放次數：2111萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "暗裡著迷"
+          "nameKey": "暗裡著迷",
+          "credits": {
+            "lyrics": "林振強",
+            "music": "徐嘉良"
+          }
         },
         {
           "index": 8,
@@ -4825,8 +4841,8 @@
           "title": "A Long Lonely Night",
           "artists": "",
           "videoId": "A7Enoe3a3Bg",
-          "plays": 3338,
-          "playsText": "播放次數：3338",
+          "plays": 3339,
+          "playsText": "播放次數：3339",
           "duration": 173,
           "byOther": false,
           "credits": {
@@ -5706,7 +5722,11 @@
           "playsText": "播放次數：2111萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "暗裡著迷"
+          "nameKey": "暗裡著迷",
+          "credits": {
+            "lyrics": "林振強",
+            "music": "徐嘉良"
+          }
         },
         {
           "index": 10,
@@ -7088,7 +7108,12 @@
           "playsText": "播放次數：339萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "情深的一句"
+          "nameKey": "情深的一句",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "陳子鴻",
+            "arranger": "屠穎"
+          }
         },
         {
           "index": 8,
@@ -9115,7 +9140,12 @@
           "playsText": "播放次數：5萬",
           "duration": 207,
           "byOther": false,
-          "nameKey": "你是我的女人"
+          "nameKey": "你是我的女人",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "Kenny G、陳德建",
+            "arranger": "Kenny G、Walter Afanasieff"
+          }
         },
         {
           "index": 15,
@@ -14812,7 +14842,12 @@
           "playsText": "播放次數：339萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "情深的一句"
+          "nameKey": "情深的一句",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "陳子鴻",
+            "arranger": "屠穎"
+          }
         },
         {
           "index": 6,
@@ -14823,7 +14858,12 @@
           "playsText": "播放次數：106萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "他的女人"
+          "nameKey": "他的女人",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "朱敬然",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 7,
@@ -14926,7 +14966,12 @@
           "playsText": "播放次數：6689",
           "duration": 256,
           "byOther": true,
-          "nameKey": "情深的一句"
+          "nameKey": "情深的一句",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "陳子鴻",
+            "arranger": "屠穎"
+          }
         },
         {
           "index": 14,
@@ -14937,7 +14982,12 @@
           "playsText": "播放次數：367萬",
           "duration": 297,
           "byOther": false,
-          "nameKey": "你是我的女人"
+          "nameKey": "你是我的女人",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "Kenny G、陳德建",
+            "arranger": "Kenny G、Walter Afanasieff"
+          }
         },
         {
           "index": 15,
@@ -15453,7 +15503,12 @@
           "playsText": "播放次數：367萬",
           "duration": 297,
           "byOther": false,
-          "nameKey": "你是我的女人"
+          "nameKey": "你是我的女人",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "Kenny G、陳德建",
+            "arranger": "Kenny G、Walter Afanasieff"
+          }
         },
         {
           "index": 23,
@@ -15480,7 +15535,12 @@
           "playsText": "播放次數：106萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "他的女人"
+          "nameKey": "他的女人",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "朱敬然",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 25,
@@ -15586,7 +15646,12 @@
           "playsText": "播放次數：339萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "情深的一句"
+          "nameKey": "情深的一句",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "陳子鴻",
+            "arranger": "屠穎"
+          }
         },
         {
           "index": 33,
@@ -15654,7 +15719,11 @@
           "playsText": "播放次數：2111萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "暗裡著迷"
+          "nameKey": "暗裡著迷",
+          "credits": {
+            "lyrics": "林振強",
+            "music": "徐嘉良"
+          }
         },
         {
           "index": 38,
@@ -15665,7 +15734,11 @@
           "playsText": "播放次數：22萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "這一生是給你一個"
+          "nameKey": "這一生是給你一個",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "周治平"
+          }
         },
         {
           "index": 39,
@@ -16339,7 +16412,12 @@
           "playsText": "播放次數：4731",
           "duration": 227,
           "byOther": false,
-          "nameKey": "我得你"
+          "nameKey": "我得你",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "徐繼宗",
+            "arranger": "馮翰銘"
+          }
         },
         {
           "index": 11,
@@ -16399,7 +16477,12 @@
           "playsText": "播放次數：367萬",
           "duration": 297,
           "byOther": false,
-          "nameKey": "你是我的女人"
+          "nameKey": "你是我的女人",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "Kenny G、陳德建",
+            "arranger": "Kenny G、Walter Afanasieff"
+          }
         },
         {
           "index": 16,
@@ -16410,7 +16493,11 @@
           "playsText": "播放次數：2111萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "暗裡著迷"
+          "nameKey": "暗裡著迷",
+          "credits": {
+            "lyrics": "林振強",
+            "music": "徐嘉良"
+          }
         },
         {
           "index": 17,
@@ -16443,7 +16530,11 @@
           "playsText": "播放次數：22萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "這一生是給你一個"
+          "nameKey": "這一生是給你一個",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "周治平"
+          }
         },
         {
           "index": 20,
@@ -16476,7 +16567,12 @@
           "playsText": "播放次數：339萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "情深的一句"
+          "nameKey": "情深的一句",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "陳子鴻",
+            "arranger": "屠穎"
+          }
         },
         {
           "index": 23,
@@ -16487,7 +16583,12 @@
           "playsText": "播放次數：106萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "他的女人"
+          "nameKey": "他的女人",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "朱敬然",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 24,
@@ -16498,7 +16599,12 @@
           "playsText": "播放次數：4.4萬",
           "duration": 255,
           "byOther": false,
-          "nameKey": "無出息的漢子"
+          "nameKey": "無出息的漢子",
+          "credits": {
+            "lyrics": "青介",
+            "music": "Dick Lee",
+            "arranger": "Billy Chan"
+          }
         },
         {
           "index": 25,
@@ -17436,7 +17542,11 @@
           "playsText": "播放次數：3萬",
           "duration": 250,
           "byOther": false,
-          "nameKey": "兄弟不懷疑"
+          "nameKey": "兄弟不懷疑",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "陳德建、蔡曉恩"
+          }
         }
       ],
       "releaseDate": "2020-12-15",
@@ -18182,7 +18292,12 @@
           "playsText": "播放次數：67萬",
           "duration": 208,
           "byOther": false,
-          "nameKey": "男人哭吧不是罪"
+          "nameKey": "男人哭吧不是罪",
+          "credits": {
+            "lyrics": "劉德華",
+            "music": "劉天健",
+            "arranger": "涂惠元"
+          }
         }
       ],
       "releaseDate": "2023-07-06",

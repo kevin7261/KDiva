@@ -1,6 +1,6 @@
 {
   "slug": "chang-chen-yue",
-  "fetchedAt": "2026-09-17T18:27:48.371Z",
+  "fetchedAt": "2026-09-17T23:03:51.273Z",
   "wiki": "張震嶽",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2008-08-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -34,7 +34,18 @@
       "venues": [
         "臺北南港101"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-08-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北南港101",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Go Go PoloOK上海演唱會",
@@ -48,7 +59,7 @@
         "date": "2008-08-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -58,7 +69,18 @@
       "venues": [
         "上海大舞臺"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-08-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "出力演唱會",
@@ -69,10 +91,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2010-10-22",
+        "date": "2010-10-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "中國大陸"
       ],
@@ -82,7 +104,28 @@
       "venues": [
         "北展劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-10-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "北展劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-10-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "北展劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "豔陽天世界巡迴演唱會",
@@ -165,20 +208,55 @@
         "precision": "day"
       },
       "end": {
-        "date": "2013-07-20",
+        "date": "2013-08-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "臺中",
+        "高雄"
       ],
       "venues": [
-        "Legacy Taipei"
+        "Legacy Taipei",
+        "TADA方舟",
+        "The Wall"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-07-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2013-08-11",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "TADA方舟",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2013-08-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "The Wall",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "破浪 Comes @Live 演唱會",
@@ -192,7 +270,7 @@
         "date": "2014-05-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -202,7 +280,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-05-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "跟著感覺走巡迴演唱會",

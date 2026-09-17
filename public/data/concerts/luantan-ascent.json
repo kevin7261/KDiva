@@ -1,6 +1,6 @@
 {
   "slug": "luantan-ascent",
-  "fetchedAt": "2026-09-17T21:25:04.085Z",
+  "fetchedAt": "2026-09-17T23:05:36.985Z",
   "wiki": "乱彈阿翔",
   "bio": {
     "born": {
@@ -15,26 +15,59 @@
     {
       "name": "破水而出演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2014-01-10",
         "precision": "day"
       },
       "end": {
-        "date": "2014-01-10",
+        "date": "2014-03-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "臺灣 臺灣"
       ],
       "cities": [
-        "臺北市"
+        "臺北市",
+        "高雄市"
       ],
       "venues": [
-        "Legacy Taipei 傳 音樂展演空間"
+        "Legacy Taipei 傳 音樂展演空間",
+        "駁二藝術特區THE WALL 駁二"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-01-10",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "Legacy Taipei 傳 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2014-01-11",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "Legacy Taipei 傳 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2014-03-07",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "高雄市",
+          "venue": "駁二藝術特區THE WALL 駁二",
+          "lat": 22.6199,
+          "lon": 120.282,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Legacy Presents【2017鐵漢柔情】：亂彈阿翔一個人的旅行演唱會",
@@ -45,10 +78,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2017-01-14",
+        "date": "2017-01-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣 臺灣"
       ],
@@ -58,7 +91,28 @@
       "venues": [
         "Legacy Taipei 傳 音樂展演空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-01-14",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "Legacy Taipei 傳 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2017-01-15",
+          "precision": "day",
+          "region": "臺灣 臺灣",
+          "city": "臺北市",
+          "venue": "Legacy Taipei 傳 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "slug": "michael-wong",
-  "fetchedAt": "2026-09-17T15:05:19.539Z",
+  "fetchedAt": "2026-09-17T23:08:20.450Z",
   "wiki": "光良",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2006-03-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "香港"
       ],
@@ -34,7 +34,18 @@
       "venues": [
         "光良首場個人售票演唱會"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-03-29",
+          "precision": "day",
+          "region": "香港",
+          "city": "紅磡體育館",
+          "venue": "光良首場個人售票演唱會",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "擁抱光良。約定馬來西亞演唱會",
@@ -45,10 +56,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2006-09-30",
+        "date": "2006-10-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "馬來西亞"
       ],
@@ -58,7 +69,28 @@
       "venues": [
         "布特拉室內體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-09-30",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "布特拉室內體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-10-01",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "布特拉室內體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "新城唱好就是光良音樂會",
@@ -72,7 +104,7 @@
         "date": "2007-03-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "香港"
       ],
@@ -80,7 +112,15 @@
         "香港會議展覽中心|會議展覽中心"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-03-16",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港會議展覽中心|會議展覽中心",
+          "venue": ""
+        }
+      ]
     },
     {
       "name": "Michael Live in Concert",
@@ -94,7 +134,7 @@
         "date": "2007-08-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "印尼"
       ],
@@ -104,31 +144,66 @@
       "venues": [
         "Sands Int'l Executive Club"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-08-10",
+          "precision": "day",
+          "region": "印尼",
+          "city": "雅加達",
+          "venue": "Sands Int'l Executive Club",
+          "lat": -6.175277777777778,
+          "lon": 106.82694444444445,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "光良的童話 約定上海演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2007-09-01",
         "precision": "day"
       },
       "end": {
-        "date": "2007-09-01",
+        "date": "2008-06-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
-        "中國大陸"
+        "中國大陸",
+        "美國"
       ],
       "cities": [
-        "上海"
+        "上海",
+        "洛杉磯"
       ],
       "venues": [
-        "上海大舞臺"
+        "上海大舞臺",
+        "Pala Casino Spa Resort"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-09-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-06-21",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "Pala Casino Spa Resort",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "光良與你不會分離雲頂演唱會",
@@ -142,7 +217,7 @@
         "date": "2008-01-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "馬來西亞"
       ],
@@ -152,7 +227,15 @@
       "venues": [
         "雲頂高原|雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-01-12",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "雲頂",
+          "venue": "雲頂高原|雲星劇場"
+        }
+      ]
     },
     {
       "name": "Magic Live Concert慈善演唱會",
@@ -166,7 +249,7 @@
         "date": "2008-11-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "香港"
       ],
@@ -176,7 +259,15 @@
       "venues": [
         "與黎明、衛蘭合作演出，為香港公益金籌款"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-11-07",
+          "precision": "day",
+          "region": "香港",
+          "city": "國際展貿中心匯星",
+          "venue": "與黎明、衛蘭合作演出，為香港公益金籌款"
+        }
+      ]
     },
     {
       "name": "光良第一次臺北演唱會",
@@ -190,7 +281,7 @@
         "date": "2008-11-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -200,7 +291,18 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-11-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "光良不會分離棉蘭演唱會",
@@ -214,7 +316,7 @@
         "date": "2009-02-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "印度尼西亞"
       ],
@@ -222,7 +324,18 @@
         "棉蘭"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-02-21",
+          "precision": "day",
+          "region": "印度尼西亞",
+          "city": "棉蘭",
+          "venue": "",
+          "lat": 3.589444444444444,
+          "lon": 98.67388888888888,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Make a wish 童話音樂會",
@@ -236,7 +349,7 @@
         "date": "2009-12-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "澳門"
       ],
@@ -246,31 +359,76 @@
       "venues": [
         "和蔡卓妍共同演出"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-12-12",
+          "precision": "day",
+          "region": "澳門",
+          "city": "金光綜藝館",
+          "venue": "和蔡卓妍共同演出",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "光良零距離演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2010-08-28",
         "precision": "day"
       },
       "end": {
-        "date": "2010-08-28",
+        "date": "2010-12-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
-        "臺灣"
+        "臺灣",
+        "馬來西亞"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "吉隆坡"
       ],
       "venues": [
-        "臺北 Legacy"
+        "臺北 Legacy",
+        "KLCC Plenary Hall"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-08-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北 Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2010-12-10",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "KLCC Plenary Hall",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        },
+        {
+          "date": "2010-12-11",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "KLCC Plenary Hall",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Michael Live in Medan",
@@ -284,7 +442,7 @@
         "date": "2011-01-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "印度尼西亞"
       ],
@@ -294,7 +452,18 @@
       "venues": [
         "Sky Conversation Hall"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-01-22",
+          "precision": "day",
+          "region": "印度尼西亞",
+          "city": "棉蘭",
+          "venue": "Sky Conversation Hall",
+          "lat": 3.589444444444444,
+          "lon": 98.67388888888888,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "不會下雨的情人節",
@@ -308,7 +477,7 @@
         "date": "2011-08-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -318,7 +487,18 @@
       "venues": [
         "臺北 Legacy"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-08-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北 Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "情歌從這裡開始 演唱會",
@@ -587,7 +767,7 @@
         "date": "2012-12-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "美國"
       ],
@@ -597,7 +777,18 @@
       "venues": [
         "Hard Rock Hotel"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-12-24",
+          "precision": "day",
+          "region": "美國",
+          "city": "拉斯維加斯",
+          "venue": "Hard Rock Hotel",
+          "lat": 36.16722222222222,
+          "lon": -115.14861111111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "我們的故事演唱會",
@@ -611,7 +802,7 @@
         "date": "2013-01-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -621,7 +812,18 @@
       "venues": [
         "臺北 Legacy"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-01-05",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北 Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "光良專場定製演唱會",
@@ -635,7 +837,7 @@
         "date": "2013-06-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -645,7 +847,18 @@
       "venues": [
         "東郊記憶"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-06-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "東郊記憶",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "回憶裡的瘋狂演唱會",
@@ -766,7 +979,7 @@
         "date": "2015-07-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -776,7 +989,18 @@
       "venues": [
         "臺北 Legacy"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-07-05",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北 Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "光良第一次東京演唱會",
@@ -790,7 +1014,7 @@
         "date": "2018-03-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "日本"
       ],
@@ -800,7 +1024,18 @@
       "venues": [
         "Zepp Tokyo"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-03-18",
+          "precision": "day",
+          "region": "日本",
+          "city": "東京",
+          "venue": "Zepp Tokyo",
+          "lat": 35.683889,
+          "lon": 139.774444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "今晚我不孤獨巡迴演唱會",
@@ -823,26 +1058,49 @@
     {
       "name": "【絕類】新歌首唱會 UNIQUE Live",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2021-03-14",
         "precision": "day"
       },
       "end": {
-        "date": "2021-03-14",
+        "date": "2021-03-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "高雄"
       ],
       "venues": [
-        "永豐Legacy Taipei 音樂展演空間"
+        "永豐Legacy Taipei 音樂展演空間",
+        "駁二 Live Warehouse"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-03-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "永豐Legacy Taipei 音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2021-03-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "駁二 Live Warehouse",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Michael Live in Jakarta",
@@ -856,7 +1114,7 @@
         "date": "2024-03-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "印尼"
       ],
@@ -866,7 +1124,18 @@
       "venues": [
         "Jiexpo Theatre"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-03-30",
+          "precision": "day",
+          "region": "印尼",
+          "city": "雅加逹",
+          "venue": "Jiexpo Theatre",
+          "lat": -6.175277777777778,
+          "lon": 106.82694444444445,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "光良第一次音樂會",
@@ -880,7 +1149,7 @@
         "date": "2024-04-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "澳門"
       ],
@@ -888,7 +1157,15 @@
         "美獅美高梅劇院"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-04-20",
+          "precision": "day",
+          "region": "澳門",
+          "city": "美獅美高梅劇院",
+          "venue": ""
+        }
+      ]
     }
   ]
 }

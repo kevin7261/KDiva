@@ -1,6 +1,6 @@
 {
   "slug": "showlen-maya",
-  "fetchedAt": "2026-09-17T15:04:47.659Z",
+  "fetchedAt": "2026-09-17T23:06:17.267Z",
   "wiki": "秀蘭瑪雅",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2016-04-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北國際會議中心"
@@ -32,7 +32,18 @@
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-04-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "姬情臺三線",
@@ -43,18 +54,48 @@
         "precision": "day"
       },
       "end": {
-        "date": "2017-11-19",
+        "date": "2019-05-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "三創生活園區"
       ],
       "venues": [
-        "三創生活園區"
+        "三創生活園區",
+        "臺北國際會議中心",
+        "義大世界皇家劇院"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-11-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "三創生活園區",
+          "lat": 25.04527778,
+          "lon": 121.53102778,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-05-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-05-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "義大世界皇家劇院"
+        }
+      ]
     }
   ]
 }

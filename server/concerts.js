@@ -98,6 +98,16 @@ function tourKey(name, artistKeys) {
 function dateRange(text) {
   const t = cellText(text)
   const found = []
+  // 「2021年5月8-9日」「2024年2月2、3日」：同月份的連日場次，年月只寫一次。
+  // 下面的通用切法會把「8-9」當成一個 token 而整串解析失敗（只剩年份），所以先展開成完整日期
+  const sameMonth = t.match(/((?:19|20)\d{2})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*[-–—－~～、,，]\s*(\d{1,2})\s*日/)
+  if (sameMonth) {
+    const [, y, m, d1, d2] = sameMonth
+    const iso = (d) => `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`
+    if (Number(d2) >= Number(d1)) {
+      return { start: { date: iso(d1), precision: 'day' }, end: { date: iso(d2), precision: 'day' } }
+    }
+  }
   // 範圍分隔符號；「-」只在前後有空白或接在年月日後面時才算（「2010-04-03」是一個日期）
   for (const part of t.split(/\s+-\s+|(?<=[年月日])\s*-\s*|\s*(?:[–—－~～至到]|\bto\b)\s*/)) {
     const d = parseDate(part)
@@ -189,18 +199,24 @@ function parseTourTable(header, rows, context) {
       const place = { venue: cell(row, venueCol), city: cell(row, cityCol), region: cell(row, regionCol) }
       // 這種表一列就是一場演出（有日期、有地點），轉成場次才畫得出地圖；
       // 分站（「…巡迴演唱會北京站」）掛回主巡演名下，各站的場次會在 mergeTours 累加起來
-      const oneShow =
-        range.start.date === range.end.date && range.start.precision === 'day' && (place.venue || place.city)
-          ? [{
-              date: range.start.date,
-              precision: range.start.precision,
-              region: place.region,
-              city: place.city === place.venue ? (leg?.city ?? '') : place.city,
-              venue: place.venue,
-              cityPage: '',
-              venuePage: String(row[venueCol] ?? '').match(/\[\[([^\]|#]+)/)?.[1] ?? '',
-            }]
+      // 一列就是一場演出。「2021年5月8-9日」「6月30日、7月1日」這種連唱兩晚的要算兩場，
+      // 但「2012年1月－5月」那種長區間不能當成兩場，所以只在相隔兩週內才補上結束日那場
+      const dayApart = (a, b) => (Date.parse(b) - Date.parse(a)) / 86400000
+      const dates =
+        range.start.precision === 'day' && (place.venue || place.city)
+          ? range.end.date !== range.start.date && range.end.precision === 'day' && dayApart(range.start.date, range.end.date) <= 14
+            ? [range.start.date, range.end.date]
+            : [range.start.date]
           : []
+      const oneShow = dates.map((date) => ({
+        date,
+        precision: 'day',
+        region: place.region,
+        city: place.city === place.venue ? (leg?.city ?? '') : place.city,
+        venue: place.venue,
+        cityPage: '',
+        venuePage: String(row[venueCol] ?? '').match(/\[\[([^\]|#]+)/)?.[1] ?? '',
+      }))
       tours.push({
         name: leg?.base ?? name,
         page: link ? toTW(link.trim()) : null,
@@ -504,9 +520,21 @@ async function addCoords(tours) {
     ['city', s.city ? toTW(s.city.replace(/^.*?(?:省|自治區|自治区|州)/, '')) : ''],
   ].filter(([, t]) => t)
   await lookupCoords(shows.flatMap((s) => candidates(s).map(([, t]) => t)))
+  // 兩點相距超過 150 公里就當成不是同一個地方
+  const far = (a, b) => {
+    const x = (b.lon - a.lon) * Math.cos(((a.lat + b.lat) / 2) * (Math.PI / 180))
+    const y = b.lat - a.lat
+    return Math.sqrt(x * x + y * y) * 111 > 150
+  }
   let located = 0
   for (const s of shows) {
-    const hit = candidates(s).find(([, t]) => coordCache.get(t))
+    const cands = candidates(s)
+    const venueHit = cands.find(([k, t]) => k === 'venue' && coordCache.get(t))
+    const cityHit = cands.find(([k, t]) => k === 'city' && coordCache.get(t))
+    let hit = cands.find(([, t]) => coordCache.get(t))
+    // 場館名對到同名的外國場地時以城市為準：
+    // 「Zepp New Taipei」會對到札幌的 Zepp；場館欄寫成城市清單時也會亂配
+    if (venueHit && cityHit && far(coordCache.get(venueHit[1]), coordCache.get(cityHit[1]))) hit = cityHit
     if (hit) {
       Object.assign(s, coordCache.get(hit[1]), { geo: hit[0] })
       located++

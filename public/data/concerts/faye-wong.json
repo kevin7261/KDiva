@@ -1,6 +1,6 @@
 {
   "slug": "faye-wong",
-  "fetchedAt": "2026-09-17T15:02:05.193Z",
+  "fetchedAt": "2026-09-17T23:01:01.111Z",
   "wiki": "王菲",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "1993-09-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "英國"
       ],
@@ -34,7 +34,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1993-09-15",
+          "precision": "day",
+          "region": "英國",
+          "city": "香港",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "胡思亂想音樂會",
@@ -48,7 +59,7 @@
         "date": "1994-07-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "英國"
       ],
@@ -58,7 +69,18 @@
       "venues": [
         "大專會堂"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1994-07-27",
+          "precision": "day",
+          "region": "英國",
+          "city": "香港",
+          "venue": "大專會堂",
+          "lat": 22.341175,
+          "lon": 114.179634,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "王菲最精彩的演唱會",
@@ -419,7 +441,7 @@
         "date": "1998-09-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -427,7 +449,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1998-09-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "唱遊大世界",
@@ -979,7 +1012,7 @@
         "date": "1999-11-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -987,7 +1020,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1999-11-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "全面體演唱會",
@@ -1093,7 +1137,7 @@
         "date": "2001-10-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -1103,7 +1147,18 @@
       "venues": [
         "市立文化中心前廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-10-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "市立文化中心前廣場",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "樂壇之王‧氣勢菲凡 萬人簽唱會",
@@ -1117,7 +1172,7 @@
         "date": "2001-11-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -1127,7 +1182,18 @@
       "venues": [
         "南港101"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-11-18",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "南港101",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "菲比尋常",
@@ -1869,7 +1935,7 @@
         "date": "2016-12-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -1879,7 +1945,18 @@
       "venues": [
         "梅賽德斯-奔馳文化中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-12-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

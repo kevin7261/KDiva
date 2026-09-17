@@ -1,6 +1,6 @@
 {
   "slug": "maggie-chiang",
-  "fetchedAt": "2026-09-17T15:04:21.728Z",
+  "fetchedAt": "2026-09-17T23:06:35.664Z",
   "wiki": "江美琪",
   "bio": {
     "born": {
@@ -118,7 +118,7 @@
         "date": "2006-09-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺南市政府前廣場"
@@ -126,7 +126,18 @@
       "venues": [
         "臺南市政府前廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-09-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺南市政府前廣場",
+          "lat": 22.99,
+          "lon": 120.185,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "“完美絕配：江美琪 & 戴佩妮 ”北京情人節音樂會",
@@ -158,7 +169,7 @@
         "date": "2008-05-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北市新舞臺"
@@ -166,7 +177,18 @@
       "venues": [
         "臺北市新舞臺"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-05-07",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市新舞臺",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "“月光下你是愛我的”：江美琪出道十週年音樂會",
@@ -238,7 +260,7 @@
         "date": "2013-07-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北市ATT Show Box文創立方"
@@ -246,7 +268,18 @@
       "venues": [
         "臺北市ATT Show Box文創立方"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-07-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市ATT Show Box文創立方",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "上海大寧音樂季：江美琪專場LIVE音樂會",
@@ -278,7 +311,7 @@
         "date": "2018-04-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "廣州市中央車站"
@@ -286,7 +319,18 @@
       "venues": [
         "廣州市中央車站"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-04-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廣州市中央車站",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "“我愛江美琪”售票演唱會",
@@ -300,7 +344,7 @@
         "date": "2019-01-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北國際會議中心"
@@ -308,7 +352,18 @@
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-01-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "H³ RIZZ UP演唱會",
@@ -322,7 +377,7 @@
         "date": "2024-04-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北流行音樂中心"
@@ -330,7 +385,18 @@
       "venues": [
         "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-04-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【傷心唱出來就沒事了】巡迴演唱會",
@@ -341,18 +407,53 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-05-24",
+        "date": "2024-10-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
         "蜚聲上海PHASE LIVE HOUSE"
       ],
       "venues": [
-        "蜚聲上海PHASE LIVE HOUSE"
+        "蜚聲上海PHASE LIVE HOUSE",
+        "杭州Sofun Live",
+        "南京稻香音樂空間",
+        "Zepp New Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-05-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "蜚聲上海PHASE LIVE HOUSE"
+        },
+        {
+          "date": "2024-06-07",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "杭州Sofun Live"
+        },
+        {
+          "date": "2024-06-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南京稻香音樂空間"
+        },
+        {
+          "date": "2024-10-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

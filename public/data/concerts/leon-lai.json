@@ -1,6 +1,6 @@
 {
   "slug": "leon-lai",
-  "fetchedAt": "2026-09-17T15:02:25.525Z",
+  "fetchedAt": "2026-09-17T23:01:32.096Z",
   "wiki": "黎明",
   "bio": {
     "born": {
@@ -32,7 +32,18 @@
       "venues": [
         "大學會堂"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1991-06-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "大學會堂",
+          "lat": 22.341175,
+          "lon": 114.179634,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明·我的感覺演唱會",
@@ -54,7 +65,18 @@
       "venues": [
         "香港文化中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1991-12-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港文化中心",
+          "lat": 22.293949192402646,
+          "lon": 114.17038723826411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明浪漫Party",
@@ -76,7 +98,22 @@
       "venues": [
         "海城大酒樓夜總會"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1991-12-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "海城大酒樓夜總會"
+        },
+        {
+          "date": "1992-01-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "海城大酒樓夜總會"
+        }
+      ]
     },
     {
       "name": "親近您黎明演唱會",
@@ -155,7 +192,7 @@
         "precision": "day"
       },
       "end": {
-        "date": "1992-04-03",
+        "date": "1992-04-20",
         "precision": "day"
       },
       "showCount": 1,
@@ -166,9 +203,53 @@
         "三藩市"
       ],
       "venues": [
-        "三藩市"
+        "三藩市",
+        "聖地亞哥",
+        "芝加哥",
+        "波士頓"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1992-04-03",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "三藩市",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "1992-04-08",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "聖地亞哥",
+          "lat": 32.715,
+          "lon": -117.1625,
+          "geo": "venue"
+        },
+        {
+          "date": "1992-04-12",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "芝加哥",
+          "lat": 41.88194444444444,
+          "lon": -87.62777777777778,
+          "geo": "venue"
+        },
+        {
+          "date": "1992-04-20",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "波士頓",
+          "lat": 42.360277777777775,
+          "lon": -71.05777777777777,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明一夜傾情演唱會92",
@@ -190,7 +271,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1992-10-07",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "北京黎明演唱會",
@@ -212,7 +304,18 @@
       "venues": [
         "北京首都體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1992-10-29",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "北京首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明為您傾情廣東巡迴演唱會",
@@ -287,7 +390,18 @@
       "venues": [
         "香港演藝學院"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1992-12-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港演藝學院",
+          "lat": 22.280277777778,
+          "lon": 114.16944444444,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明夏日傾情演唱會",
@@ -309,7 +423,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1993-08-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明中國巡迴演唱會",
@@ -395,7 +520,18 @@
       "venues": [
         "香港文化中心音樂廳及露天廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1993-12-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港文化中心音樂廳及露天廣場",
+          "lat": 22.293949192402646,
+          "lon": 114.17038723826411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "多一點心愛黎明音樂會",
@@ -417,7 +553,18 @@
       "venues": [
         "維多利亞公園中央草坪"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1994-01-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "維多利亞公園中央草坪",
+          "lat": 22.281944444444445,
+          "lon": 114.18805555555555,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "東南亞巡迴演唱會",
@@ -428,20 +575,49 @@
         "precision": "day"
       },
       "end": {
-        "date": "1994-04-08",
+        "date": "1994-07-30",
         "precision": "day"
       },
       "showCount": 2,
       "regions": [
-        "新加坡"
+        "新加坡",
+        "馬來西亞",
+        "泰國"
       ],
       "cities": [
         "新加坡室內體育館"
       ],
       "venues": [
-        "新加坡室內體育館"
+        "新加坡室內體育館",
+        "吉隆坡國家體育館",
+        "曼谷皇后堂"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1994-04-08",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "1994-06-25",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "吉隆坡國家體育館"
+        },
+        {
+          "date": "1994-07-30",
+          "precision": "day",
+          "region": "泰國",
+          "city": "",
+          "venue": "曼谷皇后堂"
+        }
+      ]
     },
     {
       "name": "美加巡迴演唱會",
@@ -487,7 +663,18 @@
       "venues": [
         "旺角大球場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1995-01-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "旺角大球場",
+          "lat": 22.3261,
+          "lon": 114.173,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "陽光之家黎明慈善夜",
@@ -509,7 +696,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1995-03-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明情深澳洲巡迴演唱會",
@@ -531,9 +729,20 @@
         "悉尼"
       ],
       "venues": [
-        "悉尼"
+        "墨爾本"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1995-05-01",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "",
+          "venue": "墨爾本",
+          "lat": -37.814166666666665,
+          "lon": 144.96305555555554,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明傾情接觸廣東巡迴演唱會",
@@ -626,7 +835,15 @@
       "venues": [
         "Hard Rock Cafe"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1995-08-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Hard Rock Cafe"
+        }
+      ]
     },
     {
       "name": "那一夜我們在霓虹下起舞Neon Leon Live 95",
@@ -648,7 +865,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1995-11-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "聖誕愛心夢成真音樂會",
@@ -670,7 +898,18 @@
       "venues": [
         "香港文化中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1995-12-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港文化中心",
+          "lat": 22.293949192402646,
+          "lon": 114.17038723826411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明好友同聚慈善音樂會",
@@ -692,7 +931,18 @@
       "venues": [
         "香港仔運動場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1995-12-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港仔運動場",
+          "lat": 22.249441569262743,
+          "lon": 114.17198181152345,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明越南演唱會96",
@@ -716,7 +966,18 @@
       "venues": [
         "胡志明市富壽馬場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1996-05-09",
+          "precision": "day",
+          "region": "越南",
+          "city": "",
+          "venue": "胡志明市富壽馬場",
+          "lat": 10.775555555555556,
+          "lon": 106.70194444444445,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "救救戰火中兒童音樂會",
@@ -738,7 +999,15 @@
       "venues": [
         "維多利亞公園足球場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1996-07-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "維多利亞公園足球場"
+        }
+      ]
     },
     {
       "name": "黎明傾情迴響音樂會",
@@ -760,7 +1029,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1996-10-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明96歐洲巡迴演唱會",
@@ -784,7 +1064,18 @@
       "venues": [
         "巴黎、鹿特丹、倫敦、曼徹斯特"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1996-11-03",
+          "precision": "day",
+          "region": "法國、荷蘭、英國",
+          "city": "",
+          "venue": "巴黎、鹿特丹、倫敦、曼徹斯特",
+          "lat": 48.85666666666667,
+          "lon": 2.352222222222222,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明的Live Version",
@@ -806,7 +1097,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1997-12-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明與我——歌影夢工場",
@@ -828,7 +1130,18 @@
       "venues": [
         "伊利沙伯體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1998-03-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "伊利沙伯體育館",
+          "lat": 22.275,
+          "lon": 114.179,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明這樣愛你萬人歌友會",
@@ -839,20 +1152,52 @@
         "precision": "day"
       },
       "end": {
-        "date": "1998-06-21",
+        "date": "1998-12-27",
         "precision": "day"
       },
       "showCount": 1,
       "regions": [
-        "馬來西亞"
+        "馬來西亞",
+        "美國",
+        "加拿大"
       ],
       "cities": [
         "美拉華蒂體育館"
       ],
       "venues": [
-        "美拉華蒂體育館"
+        "美拉華蒂體育館",
+        "大西洋城、洛杉磯",
+        "多倫多"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1998-06-21",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "美拉華蒂體育館",
+          "lat": 3.08011699,
+          "lon": 101.54708099,
+          "geo": "venue"
+        },
+        {
+          "date": "1998-12-24",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "大西洋城、洛杉磯"
+        },
+        {
+          "date": "1998-12-27",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "",
+          "venue": "多倫多",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明這樣愛你澳洲演唱會",
@@ -863,7 +1208,7 @@
         "precision": "day"
       },
       "end": {
-        "date": "1998-10-03",
+        "date": "1998-10-04",
         "precision": "day"
       },
       "showCount": 1,
@@ -874,9 +1219,31 @@
         "悉尼"
       ],
       "venues": [
-        "悉尼"
+        "悉尼",
+        "墨爾本"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1998-10-03",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "",
+          "venue": "悉尼",
+          "lat": -33.867777777777775,
+          "lon": 151.21,
+          "geo": "venue"
+        },
+        {
+          "date": "1998-10-04",
+          "precision": "day",
+          "region": "澳洲",
+          "city": "",
+          "venue": "墨爾本",
+          "lat": -37.814166666666665,
+          "lon": 144.96305555555554,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "童心靜待黎明音樂會",
@@ -898,7 +1265,18 @@
       "venues": [
         "香港大球場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1999-01-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港大球場",
+          "lat": 22.272861111111,
+          "lon": 114.18844444444,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Happy 2000中國之旅巡迴演唱會",
@@ -909,18 +1287,53 @@
         "precision": "day"
       },
       "end": {
-        "date": "1999-10-16",
+        "date": "1999-11-05",
         "precision": "day"
       },
       "showCount": 1,
       "regions": [],
       "cities": [
-        "重慶"
+        "重慶",
+        "溫州",
+        "上海"
       ],
       "venues": [
-        "大田灣體育場"
+        "大田灣體育場",
+        "溫州體育中心",
+        "上海八萬人體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1999-10-16",
+          "precision": "day",
+          "region": "",
+          "city": "重慶",
+          "venue": "大田灣體育場",
+          "lat": 29.55714444,
+          "lon": 106.5413,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-10-26",
+          "precision": "day",
+          "region": "",
+          "city": "溫州",
+          "venue": "溫州體育中心",
+          "lat": 28.0043,
+          "lon": 120.672,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-11-05",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "上海八萬人體育場",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Go Ahead Leon Live 99",
@@ -942,7 +1355,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1999-11-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "至酷千禧年黎明大馬演唱會",
@@ -966,7 +1390,18 @@
       "venues": [
         "亞通體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-03-04",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "亞通體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明豪爵江門之夜演唱會",
@@ -988,7 +1423,18 @@
       "venues": [
         "江門體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-10-20",
+          "precision": "day",
+          "region": "",
+          "city": "江門",
+          "venue": "江門體育場",
+          "lat": 22.588694,
+          "lon": 113.08382,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Happy 2000黎明廣州演唱會",
@@ -999,18 +1445,76 @@
         "precision": "day"
       },
       "end": {
-        "date": "2000-11-25",
+        "date": "2000-12-23",
         "precision": "day"
       },
       "showCount": 1,
-      "regions": [],
+      "regions": [
+        "美國",
+        "加拿大"
+      ],
       "cities": [
         "廣州"
       ],
       "venues": [
-        "廣州天河體育場"
+        "廣州天河體育場",
+        "洛杉機",
+        "多倫多",
+        "三藩市",
+        "大西洋城"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-11-25",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州天河體育場",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2000-12-16",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "洛杉機",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "venue"
+        },
+        {
+          "date": "2000-12-18",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "",
+          "venue": "多倫多",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2000-12-20",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "三藩市",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "2000-12-23",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "大西洋城",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "活力唱載跳Leon 2000演唱會",
@@ -1032,7 +1536,18 @@
       "venues": [
         "舊啟德機場停機坪"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-12-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "舊啟德機場停機坪",
+          "lat": 22.317883333333,
+          "lon": 114.20210833333,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明與好友雲頂演唱會",
@@ -1094,7 +1609,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-12-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "多倫多演唱會",
@@ -1160,7 +1686,18 @@
       "venues": [
         "九龍灣國際展貿中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2004-09-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "九龍灣國際展貿中心",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Leon演唱會Crazy Classic?",
@@ -1182,7 +1719,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2005-10-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Happy 2006黎明北京演唱會",
@@ -1204,7 +1752,18 @@
       "venues": [
         "北京工人體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2005-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "北京工人體育館",
+          "lat": 39.9308,
+          "lon": 116.4359,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "優越之夜黎明上海演唱會",
@@ -1226,7 +1785,18 @@
       "venues": [
         "上海大舞臺"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-01-21",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "美國康洲賭場聖誕節演唱會",
@@ -1250,7 +1820,15 @@
       "venues": [
         "金神大賭場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-12-23",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "金神大賭場"
+        }
+      ]
     },
     {
       "name": "4 In Love",
@@ -1272,7 +1850,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-04-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Magic Live Concert",
@@ -1294,7 +1883,15 @@
       "venues": [
         "九龍灣國際展貿中心匯星"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-11-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "九龍灣國際展貿中心匯星"
+        }
+      ]
     },
     {
       "name": "Happy 2008黎明杭州演唱會",
@@ -1316,7 +1913,18 @@
       "venues": [
         "黃龍體育中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-12-27",
+          "precision": "day",
+          "region": "",
+          "city": "杭州",
+          "venue": "黃龍體育中心體育館",
+          "lat": 30.2683,
+          "lon": 120.129,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Dream Wedding Leon Live Summer 09",
@@ -1327,18 +1935,61 @@
         "precision": "day"
       },
       "end": {
-        "date": "2009-07-16",
+        "date": "2010-01-01",
         "precision": "day"
       },
       "showCount": 4,
-      "regions": [],
+      "regions": [
+        "美國"
+      ],
       "cities": [
-        "紅磡體育館"
+        "廣州"
       ],
       "venues": [
-        "紅磡體育館"
+        "紅磡體育館",
+        "廣州體育館",
+        "印度宮殿大賭場體育館",
+        "金光綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-07-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-08-22",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-12-19",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "印度宮殿大賭場體育館"
+        },
+        {
+          "date": "2010-01-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明Dream Wedding世界巡迴演唱會（佛山站）",
@@ -1349,18 +2000,54 @@
         "precision": "day"
       },
       "end": {
-        "date": "2009-11-21",
+        "date": "2010-01-09",
         "precision": "day"
       },
       "showCount": 1,
-      "regions": [],
+      "regions": [
+        "美國"
+      ],
       "cities": [
-        "佛山"
+        "佛山",
+        "深圳"
       ],
       "venues": [
-        "佛山嶺南明珠體育館"
+        "佛山嶺南明珠體育館",
+        "美高梅大花園體育館",
+        "深圳體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-11-21",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "佛山嶺南明珠體育館",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
+        },
+        {
+          "date": "2009-12-26",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "美高梅大花園體育館",
+          "lat": 36.104808,
+          "lon": -115.168614,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-01-09",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳體育館",
+          "lat": 22.559944444444444,
+          "lon": 114.08855555555554,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Leon X U 紅館演唱會2011",
@@ -1382,7 +2069,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-12-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明Leon 30th Anniversary Random Love Songs 4D in Live 2016",
@@ -1404,7 +2102,15 @@
       "venues": [
         "中環海濱活動空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-04-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中環海濱活動空間"
+        }
+      ]
     },
     {
       "name": "黎明Leon Random Love Songs Live in Studio City",
@@ -1426,7 +2132,15 @@
       "venues": [
         "新濠影滙綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-07-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新濠影滙綜藝館"
+        }
+      ]
     },
     {
       "name": "黎明Leon's Penguins in Live 2017",
@@ -1448,29 +2162,107 @@
       "venues": [
         "中環海濱活動空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-02-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中環海濱活動空間"
+        }
+      ]
     },
     {
       "name": "黎明 Leon Random Run（澳門站）",
       "page": "黎明 Leon Random Run",
-      "kind": "concert",
+      "kind": "tour",
       "start": {
-        "date": "2017-12-16",
+        "date": "2017-08-11",
         "precision": "day"
       },
       "end": {
-        "date": "2017-12-16",
+        "date": "2018-08-25",
         "precision": "day"
       },
       "showCount": 1,
       "regions": [],
       "cities": [
-        "金光綜藝館"
+        "廣州",
+        "深圳",
+        "上海",
+        "武漢",
+        "東莞"
       ],
       "venues": [
-        "金光綜藝館"
+        "廣州國際體育演藝中心（寶能國際體育演藝中心）",
+        "深圳春繭體育館",
+        "金光綜藝館",
+        "梅賽德斯-奔馳文化中心",
+        "武漢光谷國際網球中心",
+        "東風日產文體中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-08-11",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州國際體育演藝中心（寶能國際體育演藝中心）",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-09-09",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳春繭體育館",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2017-12-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-01-06",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-07-14",
+          "precision": "day",
+          "region": "",
+          "city": "武漢",
+          "venue": "武漢光谷國際網球中心",
+          "lat": 30.4756,
+          "lon": 114.45635,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-08-25",
+          "precision": "day",
+          "region": "",
+          "city": "東莞",
+          "venue": "東風日產文體中心",
+          "lat": 22.99889,
+          "lon": 113.8349,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Leon Lai Metro Live（澳門站）",
@@ -1481,40 +2273,121 @@
         "precision": "day"
       },
       "end": {
-        "date": "2018-10-27",
+        "date": "2019-12-14",
         "precision": "day"
       },
       "showCount": 1,
-      "regions": [],
+      "regions": [
+        "美國",
+        "馬來西亞"
+      ],
       "cities": [
-        "金光綜藝館"
+        "廣州"
       ],
       "venues": [
-        "金光綜藝館"
+        "金光綜藝館",
+        "威尼斯人大酒店",
+        "雲頂雲星劇場",
+        "寶能國際體育演藝中心",
+        "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-10-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-02-08",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "威尼斯人大酒店",
+          "lat": 36.12106,
+          "lon": -115.17025,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-05-04",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-05-18",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "寶能國際體育演藝中心",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-12-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "黎明 Leon Metro Live 2.0",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2019-07-13",
         "precision": "day"
       },
       "end": {
-        "date": "2019-07-13",
+        "date": "2019-12-31",
         "precision": "day"
       },
       "showCount": 1,
       "regions": [],
       "cities": [
-        "佛山"
+        "佛山",
+        "肇慶"
       ],
       "venues": [
-        "佛山國際體育文化演藝中心"
+        "佛山國際體育文化演藝中心",
+        "肇慶新區體育中心足球場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-07-13",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "佛山國際體育文化演藝中心",
+          "lat": 22.959949,
+          "lon": 113.140953,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "肇慶",
+          "venue": "肇慶新區體育中心足球場",
+          "lat": 23.212012,
+          "lon": 112.604327,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "我們的萬聖節派對！",
@@ -1536,7 +2409,18 @@
       "venues": [
         "麥花臣場館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-10-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "麥花臣場館",
+          "lat": 22.318,
+          "lon": 114.172,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Leon 黎明 Talk & Sing 2021紅館演唱會",
@@ -1558,7 +2442,18 @@
       "venues": [
         "紅磡體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-07-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Drive In Ultra: LOVFINITY Vivienne Tam x Leon Lai Fashion Concert",
@@ -1580,7 +2475,15 @@
       "venues": [
         "中環海濱活動空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-12-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中環海濱活動空間"
+        }
+      ]
     },
     {
       "name": "黎明STAGE ON 8演唱會",
@@ -1602,7 +2505,15 @@
       "venues": [
         "新濠影滙綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-05-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新濠影滙綜藝館"
+        }
+      ]
     },
     {
       "name": "Leon黎明紅館演唱會2023",
@@ -1775,18 +2686,207 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-11-09",
+        "date": "2026-11-14",
         "precision": "day"
       },
       "showCount": 1,
       "regions": [],
       "cities": [
-        "北京"
+        "北京",
+        "成都",
+        "上海",
+        "佛山",
+        "杭州",
+        "深圳",
+        "蘇州",
+        "南京",
+        "寧波",
+        "諸暨",
+        "廣州",
+        "貴陽",
+        "東莞",
+        "常州"
       ],
       "venues": [
-        "華熙LIVE·五棵松"
+        "華熙LIVE·五棵松",
+        "成都鳳凰山體育公園綜合體育館",
+        "梅賽德斯-奔馳文化中心",
+        "佛山國際體育文化演藝中心",
+        "杭州奧體中心體育場",
+        "深圳市大運體育中心體育館",
+        "蘇州奧林匹克體育中心體育館",
+        "夢之藍青奧體育公園體育館",
+        "寧波奧體中心體育館",
+        "西施籃球中心體育館",
+        "寶能國際體育演藝中心",
+        "東安湖體育公園多功能體育館",
+        "貴陽體育館",
+        "東莞銀行籃球中心",
+        "國家體育館",
+        "新龍湖演藝中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-11-09",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "華熙LIVE·五棵松",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-11-23",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "成都鳳凰山體育公園綜合體育館",
+          "lat": 30.771,
+          "lon": 104.076,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-01-18",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "佛山國際體育文化演藝中心",
+          "lat": 22.959949,
+          "lon": 113.140953,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-09-13",
+          "precision": "day",
+          "region": "",
+          "city": "杭州",
+          "venue": "杭州奧體中心體育場",
+          "lat": 30.231648,
+          "lon": 120.224156,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-10-11",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳市大運體育中心體育館",
+          "lat": 22.697139,
+          "lon": 114.212194,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-01",
+          "precision": "day",
+          "region": "",
+          "city": "蘇州",
+          "venue": "蘇州奧林匹克體育中心體育館",
+          "lat": 31.306633,
+          "lon": 120.745299,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-15",
+          "precision": "day",
+          "region": "",
+          "city": "南京",
+          "venue": "夢之藍青奧體育公園體育館",
+          "lat": 32.0432,
+          "lon": 118.6624,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-12-12",
+          "precision": "day",
+          "region": "",
+          "city": "寧波",
+          "venue": "寧波奧體中心體育館",
+          "lat": 29.933416666666666,
+          "lon": 121.48594444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-05-30",
+          "precision": "day",
+          "region": "",
+          "city": "諸暨",
+          "venue": "西施籃球中心體育館",
+          "lat": 29.71687,
+          "lon": 120.23144,
+          "geo": "city"
+        },
+        {
+          "date": "2026-07-11",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "寶能國際體育演藝中心",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-07-25",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "東安湖體育公園多功能體育館",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2026-08-01",
+          "precision": "day",
+          "region": "",
+          "city": "貴陽",
+          "venue": "貴陽體育館",
+          "lat": 26.579444444444,
+          "lon": 106.70777777778,
+          "geo": "city"
+        },
+        {
+          "date": "2026-08-22",
+          "precision": "day",
+          "region": "",
+          "city": "東莞",
+          "venue": "東莞銀行籃球中心",
+          "lat": 22.99889,
+          "lon": 113.8349,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-09-12",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "國家體育館",
+          "lat": 39.994780555556,
+          "lon": 116.38395833333,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-11-14",
+          "precision": "day",
+          "region": "",
+          "city": "常州",
+          "venue": "新龍湖演藝中心",
+          "lat": 31.812166666666666,
+          "lon": 119.96916666666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "黎明 LEON LAI ROBBABA紅館演唱會2026",

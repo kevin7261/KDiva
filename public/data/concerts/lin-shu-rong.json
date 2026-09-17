@@ -1,6 +1,6 @@
 {
   "slug": "lin-shu-rong",
-  "fetchedAt": "2026-09-17T16:41:57.019Z",
+  "fetchedAt": "2026-09-17T22:56:55.260Z",
   "wiki": "林淑容",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2007-12-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "馬來西亞"
       ],
@@ -34,7 +34,18 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-12-29",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "李茂山‧林淑容新加坡演唱會",
@@ -48,7 +59,7 @@
         "date": "2008-06-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "新加坡"
       ],
@@ -58,7 +69,15 @@
       "venues": [
         "新加坡博覽中心 The MAX Pavilion"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-06-17",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "新加坡博覽中心 The MAX Pavilion"
+        }
+      ]
     },
     {
       "name": "林淑容2009世界巡演—臺北首演演唱會",
@@ -72,7 +91,7 @@
         "date": "2009-09-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -82,7 +101,15 @@
       "venues": [
         "臺北國際會議中心 TICC"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-09-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "臺北國際會議中心 TICC"
+        }
+      ]
     },
     {
       "name": "林淑容雲頂演唱會",
@@ -96,7 +123,7 @@
         "date": "2011-08-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "馬來西亞"
       ],
@@ -106,21 +133,32 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-08-10",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "感謝您‧安娜 2012母親節演唱會",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2012-05-01",
-        "precision": "month"
+        "date": "2012-05-12",
+        "precision": "day"
       },
       "end": {
-        "date": "2012-05-01",
-        "precision": "month"
+        "date": "2012-05-13",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
@@ -130,7 +168,22 @@
       "venues": [
         "臺北國際會議中心 TICC"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-05-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "臺北國際會議中心 TICC"
+        },
+        {
+          "date": "2012-05-13",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "臺北國際會議中心 TICC"
+        }
+      ]
     },
     {
       "name": "林淑容‧羅時豐經典回顧演唱會",
@@ -144,7 +197,7 @@
         "date": "2012-09-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "馬來西亞"
       ],
@@ -154,7 +207,18 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-09-18",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "雲頂發財之夜演唱會",
@@ -168,7 +232,7 @@
         "date": "2013-04-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "馬來西亞"
       ],
@@ -178,7 +242,18 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-04-16",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "林淑容‧李茂山金曲滿天星演唱會",
@@ -192,7 +267,7 @@
         "date": "2013-07-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "新加坡"
       ],
@@ -202,31 +277,15 @@
       "venues": [
         "聖淘沙名勝世界會議中心羅盤宴會廳"
       ],
-      "shows": []
-    },
-    {
-      "name": "世紀情歌世紀情巨星演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2013-08-01",
-        "precision": "month"
-      },
-      "end": {
-        "date": "2013-08-01",
-        "precision": "month"
-      },
-      "showCount": null,
-      "regions": [
-        "香港"
-      ],
-      "cities": [
-        "香港體育館(紅館)"
-      ],
-      "venues": [
-        "香港體育館(紅館)"
-      ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-07-13",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "聖淘沙名勝世界會議中心羅盤宴會廳"
+        }
+      ]
     },
     {
       "name": "林淑容‧羅時豐經典再現演唱會",
@@ -240,7 +299,7 @@
         "date": "2013-08-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "馬來西亞"
       ],
@@ -250,7 +309,57 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-08-10",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "世紀情歌世紀情巨星演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-08-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-08-17",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港體育館(紅館)"
+      ],
+      "venues": [
+        "香港體育館(紅館)"
+      ],
+      "shows": [
+        {
+          "date": "2013-08-16",
+          "precision": "day",
+          "region": "香港",
+          "city": "",
+          "venue": "香港體育館(紅館)"
+        },
+        {
+          "date": "2013-08-17",
+          "precision": "day",
+          "region": "香港",
+          "city": "",
+          "venue": "香港體育館(紅館)"
+        }
+      ]
     },
     {
       "name": "林淑容勁歌金曲演唱會",
@@ -264,7 +373,7 @@
         "date": "2014-04-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "新加坡"
       ],
@@ -274,21 +383,29 @@
       "venues": [
         "聖淘沙名勝世界劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-04-06",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "聖淘沙名勝世界劇場"
+        }
+      ]
     },
     {
       "name": "Premium Program VIVA Night",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2014-10-01",
-        "precision": "month"
+        "date": "2014-10-06",
+        "precision": "day"
       },
       "end": {
-        "date": "2014-10-01",
-        "precision": "month"
+        "date": "2014-10-07",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "馬來西亞"
       ],
@@ -298,7 +415,28 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-10-06",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2014-10-07",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "林淑容‧羅時豐 無言的結局真經典演唱會",
@@ -309,20 +447,37 @@
         "precision": "day"
       },
       "end": {
-        "date": "2014-10-31",
+        "date": "2015-07-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
-        "香港"
+        "香港",
+        "新加坡"
       ],
       "cities": [
         "灣仔伊利沙伯體育館"
       ],
       "venues": [
-        "灣仔伊利沙伯體育館"
+        "灣仔伊利沙伯體育館",
+        "聖淘沙名勝世界劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-10-31",
+          "precision": "day",
+          "region": "香港",
+          "city": "",
+          "venue": "灣仔伊利沙伯體育館"
+        },
+        {
+          "date": "2015-07-04",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "聖淘沙名勝世界劇場"
+        }
+      ]
     },
     {
       "name": "愛不離慈善音樂會",
@@ -336,7 +491,7 @@
         "date": "2014-12-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "美國"
       ],
@@ -346,7 +501,15 @@
       "venues": [
         "紐約皇后大學 Golden Auditorium"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-12-27",
+          "precision": "day",
+          "region": "美國",
+          "city": "",
+          "venue": "紐約皇后大學 Golden Auditorium"
+        }
+      ]
     },
     {
       "name": "永恆的經典音樂會",
@@ -360,7 +523,7 @@
         "date": "2015-04-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -370,21 +533,29 @@
       "venues": [
         "國泰金融中心會議廳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-04-18",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "國泰金融中心會議廳"
+        }
+      ]
     },
     {
       "name": "林淑容‧羅時豐與你有約雲頂演唱會",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2015-05-01",
-        "precision": "month"
+        "date": "2015-05-26",
+        "precision": "day"
       },
       "end": {
-        "date": "2015-05-01",
-        "precision": "month"
+        "date": "2015-05-27",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "馬來西亞"
       ],
@@ -394,21 +565,42 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-05-26",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-05-27",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "林淑容和羅時豐2016雲頂演唱會",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2016-05-01",
-        "precision": "month"
+        "date": "2016-05-23",
+        "precision": "day"
       },
       "end": {
-        "date": "2016-05-01",
-        "precision": "month"
+        "date": "2017-04-18",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [
         "馬來西亞"
       ],
@@ -418,7 +610,123 @@
       "venues": [
         "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-05-23",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-05-24",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-04-17",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-04-18",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "林淑容&羅時豐雲頂演唱會2018",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-04-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-02-27",
+        "precision": "day"
+      },
+      "showCount": 5,
+      "regions": [
+        "馬來西亞"
+      ],
+      "cities": [
+        "雲頂雲星劇場"
+      ],
+      "venues": [
+        "雲頂雲星劇場"
+      ],
+      "shows": [
+        {
+          "date": "2018-04-03",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-04-04",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-01-14",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-01-15",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-02-27",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "林淑容2018演唱會",
@@ -432,7 +740,7 @@
         "date": "2018-11-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "新加坡"
       ],
@@ -442,7 +750,15 @@
       "venues": [
         "聖淘沙名勝世界劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-11-03",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "聖淘沙名勝世界劇場"
+        }
+      ]
     },
     {
       "name": "好好愛‧林淑容 貴賓享樂 公益演唱會",
@@ -456,7 +772,7 @@
         "date": "2022-12-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -466,45 +782,29 @@
       "venues": [
         "海基會公亮廳"
       ],
-      "shows": []
-    },
-    {
-      "name": "林淑容&羅時豐雲頂演唱會2018",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2023-02-27",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2023-02-27",
-        "precision": "day"
-      },
-      "showCount": null,
-      "regions": [
-        "馬來西亞"
-      ],
-      "cities": [
-        "雲頂雲星劇場"
-      ],
-      "venues": [
-        "雲頂雲星劇場"
-      ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-12-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "海基會公亮廳"
+        }
+      ]
     },
     {
       "name": "真愛秀‧藍寶石大歌廳",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2023-05-01",
-        "precision": "month"
+        "date": "2023-05-13",
+        "precision": "day"
       },
       "end": {
-        "date": "2023-05-01",
-        "precision": "month"
+        "date": "2023-05-14",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
@@ -514,7 +814,22 @@
       "venues": [
         "高雄流行音樂中心海音館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-05-13",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "高雄流行音樂中心海音館"
+        },
+        {
+          "date": "2023-05-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "高雄流行音樂中心海音館"
+        }
+      ]
     },
     {
       "name": "林淑容2024昨夜星辰世界巡迴演唱會新加坡場",
@@ -528,7 +843,7 @@
         "date": "2024-08-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "新加坡"
       ],
@@ -538,7 +853,15 @@
       "venues": [
         "濱海灣金沙劇院"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-08-06",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "濱海灣金沙劇院"
+        }
+      ]
     },
     {
       "name": "林淑容2024昨夜星辰世界巡迴演唱會高雄場",
@@ -552,7 +875,7 @@
         "date": "2024-09-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -562,21 +885,29 @@
       "venues": [
         "高雄流行音樂中心海音館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-09-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "高雄流行音樂中心海音館"
+        }
+      ]
     },
     {
       "name": "林淑容2025昨夜星辰世界巡迴演唱會臺北場",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2025-03-01",
-        "precision": "month"
+        "date": "2025-03-22",
+        "precision": "day"
       },
       "end": {
-        "date": "2025-03-01",
-        "precision": "month"
+        "date": "2025-03-23",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
@@ -586,7 +917,22 @@
       "venues": [
         "Legacy Tera"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-03-22",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "Legacy Tera"
+        },
+        {
+          "date": "2025-03-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "Legacy Tera"
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "slug": "jolin-tsai",
-  "fetchedAt": "2026-09-17T15:04:23.833Z",
+  "fetchedAt": "2026-09-17T23:06:57.058Z",
   "wiki": "蔡依林",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "1999-12-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -34,7 +34,18 @@
       "venues": [
         "南港101"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "1999-12-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "南港101",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Don't Stop新歌首唱會",
@@ -48,7 +59,7 @@
         "date": "2000-04-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -58,7 +69,18 @@
       "venues": [
         "巨蛋預定地"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-04-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中市",
+          "venue": "巨蛋預定地",
+          "lat": 24.145,
+          "lon": 120.645,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "考生之夜演唱會",
@@ -72,7 +94,7 @@
         "date": "2000-07-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -82,31 +104,65 @@
       "venues": [
         "中正紀念堂"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2000-07-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "中正紀念堂",
+          "lat": 25.034444444444443,
+          "lon": 121.52166666666666,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Show Your Love演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2001-02-25",
         "precision": "day"
       },
       "end": {
-        "date": "2001-02-25",
+        "date": "2001-03-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "板橋市"
+        "板橋市",
+        "臺中市"
       ],
       "venues": [
-        "臺北縣立體育場第一運動場"
+        "臺北縣立體育場第一運動場",
+        "巨蛋預定地"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-02-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "板橋市",
+          "venue": "臺北縣立體育場第一運動場",
+          "lat": 25.010099,
+          "lon": 121.468276,
+          "geo": "venue"
+        },
+        {
+          "date": "2001-03-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中市",
+          "venue": "巨蛋預定地",
+          "lat": 24.145,
+          "lon": 120.645,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Lucky Number新歌演唱會",
@@ -120,7 +176,7 @@
         "date": "2001-07-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -130,7 +186,18 @@
       "venues": [
         "南港101"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-07-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "南港101",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "萬眾依新演唱會",
@@ -144,7 +211,7 @@
         "date": "2002-05-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -154,7 +221,18 @@
       "venues": [
         "新莊體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2002-05-18",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新莊市",
+          "venue": "新莊體育館",
+          "lat": 25.0405001,
+          "lon": 121.451989,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "說愛你慶功演唱會",
@@ -168,7 +246,7 @@
         "date": "2003-04-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -178,7 +256,18 @@
       "venues": [
         "臺南市政府西廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2003-04-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺南市",
+          "venue": "臺南市政府西廣場",
+          "lat": 22.99,
+          "lon": 120.185,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "看我七十二變演唱會",
@@ -192,7 +281,7 @@
         "date": "2003-08-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "美國"
       ],
@@ -202,7 +291,18 @@
       "venues": [
         "曼德列灣表演中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2003-08-29",
+          "precision": "day",
+          "region": "美國",
+          "city": "拉斯維加斯",
+          "venue": "曼德列灣表演中心",
+          "lat": 36.091666666667,
+          "lon": -115.17472222222,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "就是愛慶功演唱會",
@@ -216,7 +316,7 @@
         "date": "2004-04-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -226,7 +326,18 @@
       "venues": [
         "新光三越信義新天地廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2004-04-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "新光三越信義新天地廣場",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "J1世界巡迴演唱會",
@@ -360,7 +471,7 @@
         "date": "2005-06-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -370,7 +481,18 @@
       "venues": [
         "國家音樂廳預定地"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2005-06-18",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中市",
+          "venue": "國家音樂廳預定地",
+          "lat": 24.1628,
+          "lon": 120.641,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "玩美慶功演唱會",
@@ -384,7 +506,7 @@
         "date": "2006-07-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -394,7 +516,18 @@
       "venues": [
         "高雄市立中正文化中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-07-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄市",
+          "venue": "高雄市立中正文化中心",
+          "lat": 22.6257634,
+          "lon": 120.3180317,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "唯舞獨尊世界巡迴演唱會",
@@ -736,7 +869,7 @@
         "date": "2007-10-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -746,7 +879,18 @@
       "venues": [
         "淡水漁人碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-10-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "淡水鎮",
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "花蝴蝶校園巡迴演唱會",
@@ -757,20 +901,66 @@
         "precision": "day"
       },
       "end": {
-        "date": "2009-03-28",
+        "date": "2009-05-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "新竹市"
+        "新竹市",
+        "臺中市",
+        "永康市"
       ],
       "venues": [
-        "中華大學"
+        "中華大學",
+        "國立臺中第二高級中學",
+        "臺中技術學院",
+        "南臺科技大學"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-03-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新竹市",
+          "venue": "中華大學",
+          "lat": 24.75833333,
+          "lon": 120.95277778,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-04-11",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中市",
+          "venue": "國立臺中第二高級中學",
+          "lat": 24.15305556,
+          "lon": 120.67527778,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-04-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中市",
+          "venue": "臺中技術學院",
+          "lat": 24.1498546,
+          "lon": 120.6836597,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-05-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "永康市",
+          "venue": "南臺科技大學",
+          "lat": 28.90085,
+          "lon": 120.02844,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "花蝴蝶慶功演唱會",
@@ -784,7 +974,7 @@
         "date": "2009-05-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -794,7 +984,18 @@
       "venues": [
         "市民廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-05-09",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中市",
+          "venue": "市民廣場",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "愈慢愈美麗慢歌演唱會",
@@ -808,7 +1009,7 @@
         "date": "2009-05-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -818,7 +1019,18 @@
       "venues": [
         "河岸留言"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-05-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "河岸留言",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Myself世界巡迴演唱會",
@@ -1288,7 +1500,7 @@
         "date": "2012-10-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -1298,7 +1510,18 @@
       "venues": [
         "安億停車場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-10-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺南市",
+          "venue": "安億停車場",
+          "lat": 22.99,
+          "lon": 120.185,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "呸新歌演唱會",
@@ -1312,7 +1535,7 @@
         "date": "2014-12-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -1322,7 +1545,18 @@
       "venues": [
         "松山文化創意園區"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-12-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "松山文化創意園區",
+          "lat": 25.04361111,
+          "lon": 121.5625,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Play世界巡迴演唱會",

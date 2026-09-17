@@ -1,6 +1,6 @@
 {
   "slug": "she",
-  "fetchedAt": "2026-09-17T15:05:27.256Z",
+  "fetchedAt": "2026-09-17T23:08:26.978Z",
   "wiki": "S.H.E",
   "bio": {
     "born": null,
@@ -24,7 +24,7 @@
         "date": "2002-08-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺灣 臺南市政府前廣場"
@@ -32,7 +32,18 @@
       "venues": [
         "臺灣 臺灣 臺南市政府前廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2002-08-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣 臺灣 臺南市政府前廣場",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "S.H.E x 動力火車雙海嘯演唱會",
@@ -46,7 +57,7 @@
         "date": "2003-04-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "Singapore 新加坡 新達城展覽中心"
@@ -54,7 +65,18 @@
       "venues": [
         "Singapore 新加坡 新達城展覽中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2003-04-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Singapore 新加坡 新達城展覽中心",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "奇幻樂園世界巡迴演唱會",
@@ -137,9 +159,9 @@
           "region": "United States 美國",
           "city": "內華達州 拉斯維加斯 天堂市",
           "venue": "米高梅大花園體育館",
-          "lat": 36.104808,
-          "lon": -115.168614,
-          "geo": "venue"
+          "lat": 39,
+          "lon": -117,
+          "geo": "city"
         },
         {
           "date": "2005-01-08",
@@ -397,7 +419,7 @@
         "date": "2006-11-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "Japan 日本 橫濱 橫濱國際平和會議場"
@@ -405,7 +427,18 @@
       "venues": [
         "Japan 日本 橫濱 橫濱國際平和會議場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-11-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Japan 日本 橫濱 橫濱國際平和會議場",
+          "lat": 35,
+          "lon": 136,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "S.H.EPlay慶功演唱會",
@@ -416,18 +449,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2007-06-03",
+        "date": "2007-07-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺灣 臺灣 臺北縣（今新北市） 淡水漁人碼頭"
       ],
       "venues": [
-        "臺灣 臺灣 臺北縣（今新北市） 淡水漁人碼頭"
+        "臺灣 臺灣 臺北縣（今新北市） 淡水漁人碼頭",
+        "Singapore 新加坡 新加坡博覽中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-06-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣 臺灣 臺北縣（今新北市） 淡水漁人碼頭",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "venue"
+        },
+        {
+          "date": "2007-07-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Singapore 新加坡 新加坡博覽中心",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "S.H.E 雅加達演唱會",
@@ -441,7 +496,7 @@
         "date": "2008-08-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "Indonesia 印尼雅加達 金沙國際大酒店"
@@ -449,7 +504,18 @@
       "venues": [
         "Indonesia 印尼雅加達 金沙國際大酒店"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-08-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Indonesia 印尼雅加達 金沙國際大酒店",
+          "lat": -2,
+          "lon": 118,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "S.H.E x 飛輪海 蒙牛酸酸乳夢想我做主中國巡迴演唱會",
@@ -460,18 +526,84 @@
         "precision": "day"
       },
       "end": {
-        "date": "2008-09-30",
+        "date": "2008-11-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 6,
       "regions": [],
       "cities": [
         "China 內蒙古呼和浩特 呼和浩特體育場"
       ],
       "venues": [
-        "China 內蒙古呼和浩特 呼和浩特體育場"
+        "China 內蒙古呼和浩特 呼和浩特體育場",
+        "China 浙江杭州 黃龍體育中心體育場",
+        "China 山西太原 山西省體育場",
+        "China 福建福州 福州體育中心體育場",
+        "China 山東濟南 山東省體育中心體育場",
+        "China 廣東深圳 深圳體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-09-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "China 內蒙古呼和浩特 呼和浩特體育場",
+          "lat": 44,
+          "lon": 113,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-10-11",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "China 浙江杭州 黃龍體育中心體育場",
+          "lat": 30.266666666667,
+          "lon": 120.15,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-10-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "China 山西太原 山西省體育場",
+          "lat": 37.873333333333,
+          "lon": 112.56444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-10-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "China 福建福州 福州體育中心體育場",
+          "lat": 25.9,
+          "lon": 118.3,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-10-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "China 山東濟南 山東省體育中心體育場",
+          "lat": 36.4,
+          "lon": 118.4,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-11-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "China 廣東深圳 深圳體育場",
+          "lat": 23.4,
+          "lon": 113.5,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "Top Girl我的電臺 FM S.H.E新歌演唱會",
@@ -485,7 +617,7 @@
         "date": "2008-10-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺灣 臺北市 國立臺灣師範大學體育館"
@@ -493,7 +625,18 @@
       "venues": [
         "臺灣 臺灣 臺北市 國立臺灣師範大學體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-10-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣 臺灣 臺北市 國立臺灣師範大學體育館",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "蒙牛酸酸乳成就音樂夢想演唱會",
@@ -504,18 +647,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2009-07-31",
+        "date": "2009-08-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "China 江蘇南京 南京奧體中心體育場"
       ],
       "venues": [
-        "China 江蘇南京 南京奧體中心體育場"
+        "China 江蘇南京 南京奧體中心體育場",
+        "China 湖北武漢 沌口體育中心體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-07-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "China 江蘇南京 南京奧體中心體育場",
+          "lat": 33,
+          "lon": 120,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-08-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "China 湖北武漢 沌口體育中心體育場",
+          "lat": 31.2,
+          "lon": 112.3,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "S.H.E is the One 愛而為一世界巡迴演唱會",
@@ -700,7 +865,7 @@
         "date": "2010-06-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "United States 美國 康乃狄克州 蒙特維爾 安卡斯維爾 金神大賭場體育館"
@@ -708,7 +873,18 @@
       "venues": [
         "United States 美國 康乃狄克州 蒙特維爾 安卡斯維爾 金神大賭場體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-06-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "United States 美國 康乃狄克州 蒙特維爾 安卡斯維爾 金神大賭場體育館",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "S.H.E 新加坡貴賓至尊舞臺",
@@ -722,7 +898,7 @@
         "date": "2013-03-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "Singapore 新加坡 聖淘沙雲頂世界會議中心"
@@ -730,7 +906,18 @@
       "venues": [
         "Singapore 新加坡 聖淘沙雲頂世界會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-03-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Singapore 新加坡 聖淘沙雲頂世界會議中心",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "2gether 4ever世界巡迴演唱會",
@@ -1046,7 +1233,7 @@
         "date": "2014-09-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "Macau 澳門 澳門銀河"
@@ -1054,7 +1241,18 @@
       "venues": [
         "Macau 澳門 澳門銀河"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-09-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Macau 澳門 澳門銀河",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "如果巡迴演唱會",
@@ -1517,18 +1715,51 @@
         "precision": "day"
       },
       "end": {
-        "date": "2015-05-01",
+        "date": "2015-11-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "Australia 澳洲 墨爾本 墨爾本會展中心"
       ],
       "venues": [
-        "Australia 澳洲 墨爾本 墨爾本會展中心"
+        "Australia 澳洲 墨爾本 墨爾本會展中心",
+        "Australia 澳洲 雪梨 雪梨娛樂中心",
+        "Singapore 新加坡 新加坡室內體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-05-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Australia 澳洲 墨爾本 墨爾本會展中心",
+          "lat": -25,
+          "lon": 133,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-05-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Australia 澳洲 雪梨 雪梨娛樂中心",
+          "lat": -25,
+          "lon": 133,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-11-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Singapore 新加坡 新加坡室內體育館",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "S.H.E Super Hot Encore不想說再見音樂會",
@@ -1539,10 +1770,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2015-06-20",
+        "date": "2015-06-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "Malaysia 馬來西亞 雲頂 雲星劇場"
@@ -1550,7 +1781,28 @@
       "venues": [
         "Malaysia 馬來西亞 雲頂 雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-06-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Malaysia 馬來西亞 雲頂 雲星劇場",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-06-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Malaysia 馬來西亞 雲頂 雲星劇場",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "炫音狂熱 S.H.ENever Say Goodbye音樂會",
@@ -1564,7 +1816,7 @@
         "date": "2016-03-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "Macau 澳門 新濠影匯綜藝館"
@@ -1572,7 +1824,18 @@
       "venues": [
         "Macau 澳門 新濠影匯綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-03-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Macau 澳門 新濠影匯綜藝館",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "17th音樂會",
@@ -1586,7 +1849,7 @@
         "date": "2018-09-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺灣 臺北市 兩廳院藝文廣場 (自由廣場)"
@@ -1594,7 +1857,18 @@
       "venues": [
         "臺灣 臺灣 臺北市 兩廳院藝文廣場 (自由廣場)"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-09-11",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣 臺灣 臺北市 兩廳院藝文廣場 (自由廣場)",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

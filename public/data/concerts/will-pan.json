@@ -1,6 +1,6 @@
 {
   "slug": "will-pan",
-  "fetchedAt": "2026-09-17T15:05:39.171Z",
+  "fetchedAt": "2026-09-17T23:08:43.555Z",
   "wiki": "潘瑋柏",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2003-10-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北南港101"
@@ -32,7 +32,15 @@
       "venues": [
         "臺北南港101"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2003-10-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北南港101"
+        }
+      ]
     },
     {
       "name": "潘瑋柏Will慶功SHOW",
@@ -46,7 +54,7 @@
         "date": "2005-08-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北電影公園"
@@ -54,7 +62,15 @@
       "venues": [
         "臺北電影公園"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2005-08-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北電影公園"
+        }
+      ]
     },
     {
       "name": "上海",
@@ -65,18 +81,113 @@
         "precision": "day"
       },
       "end": {
-        "date": "2006-09-30",
+        "date": "2025-08-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 9,
       "regions": [],
       "cities": [
         "上海體育場"
       ],
       "venues": [
-        "上海體育場"
+        "上海體育場",
+        "虹口足球場",
+        "上海大舞臺",
+        "梅賽德斯-奔馳文化中心",
+        "上海浦發銀行東方體育中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-09-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海體育場",
+          "lat": 31.1835,
+          "lon": 121.437278,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-09-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "虹口足球場",
+          "lat": 31.2733,
+          "lon": 121.4762,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-11-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海大舞臺",
+          "lat": 31.183361,
+          "lon": 121.43355,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-08-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-08-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-04-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-04-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-08-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海浦發銀行東方體育中心",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-08-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海浦發銀行東方體育中心",
+          "lat": 31.159566666667,
+          "lon": 121.47286944444,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "南京",
@@ -87,18 +198,71 @@
         "precision": "day"
       },
       "end": {
-        "date": "2006-10-28",
+        "date": "2025-06-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 5,
       "regions": [],
       "cities": [
         "南京奧體中心"
       ],
       "venues": [
-        "南京奧體中心"
+        "南京奧體中心",
+        "南京奧體中心體育館",
+        "南京夢之藍青奧體育公園體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-10-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南京奧體中心",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-09-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南京奧體中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-01-11",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南京奧體中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-11-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南京奧體中心體育館",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-06-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南京夢之藍青奧體育公園體育館",
+          "lat": 32.0432,
+          "lon": 118.6624,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "北京",
@@ -109,18 +273,120 @@
         "precision": "day"
       },
       "end": {
-        "date": "2006-11-24",
+        "date": "2025-04-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 10,
       "regions": [],
       "cities": [
         "北展劇場"
       ],
       "venues": [
-        "北展劇場"
+        "北展劇場",
+        "工人體育場",
+        "五棵松體育館",
+        "凱迪拉克中心",
+        "華熙LIVE·五棵松"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-11-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "北展劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-11-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "北展劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        },
+        {
+          "date": "2006-11-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "北展劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-10-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "工人體育場"
+        },
+        {
+          "date": "2012-11-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "五棵松體育館",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-04-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "凱迪拉克中心",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-10-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "凱迪拉克中心",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-05-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "華熙LIVE·五棵松",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-04-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "華熙LIVE·五棵松",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-04-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "華熙LIVE·五棵松",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "泉州",
@@ -134,7 +400,7 @@
         "date": "2006-12-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "晉江體育場"
@@ -142,7 +408,15 @@
       "venues": [
         "晉江體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-12-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "晉江體育場"
+        }
+      ]
     },
     {
       "name": "合肥",
@@ -153,18 +427,45 @@
         "precision": "day"
       },
       "end": {
-        "date": "2007-10-20",
+        "date": "2025-08-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "合肥奧林匹克體育中心"
       ],
       "venues": [
-        "合肥奧林匹克體育中心"
+        "合肥奧林匹克體育中心",
+        "少荃體育中心",
+        "合肥少荃體育中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-10-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "合肥奧林匹克體育中心",
+          "lat": 31.797805,
+          "lon": 117.22264,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-05-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "少荃體育中心"
+        },
+        {
+          "date": "2025-08-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "合肥少荃體育中心體育館"
+        }
+      ]
     },
     {
       "name": "成都",
@@ -175,18 +476,58 @@
         "precision": "day"
       },
       "end": {
-        "date": "2007-11-18",
+        "date": "2025-05-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
         "成都市體育中心"
       ],
       "venues": [
-        "成都市體育中心"
+        "成都市體育中心",
+        "成都大魔方演藝中心",
+        "成都鳳凰山體育公園綜合體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-11-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "成都市體育中心",
+          "lat": 30.66555556,
+          "lon": 104.06472222,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-06-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "成都大魔方演藝中心"
+        },
+        {
+          "date": "2024-06-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "成都鳳凰山體育公園綜合體育館",
+          "lat": 30.771,
+          "lon": 104.076,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-05-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "成都鳳凰山體育公園綜合體育館",
+          "lat": 30.771,
+          "lon": 104.076,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "貴陽",
@@ -200,7 +541,7 @@
         "date": "2007-12-08",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "貴陽新體育場"
@@ -208,7 +549,15 @@
       "venues": [
         "貴陽新體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-12-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "貴陽新體育場"
+        }
+      ]
     },
     {
       "name": "佛山",
@@ -219,18 +568,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2008-01-01",
+        "date": "2026-03-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "佛山世紀蓮體育中心"
       ],
       "venues": [
-        "佛山世紀蓮體育中心"
+        "佛山世紀蓮體育中心",
+        "佛山國際體育文化演藝中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-01-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "佛山世紀蓮體育中心",
+          "lat": 22.969828,
+          "lon": 113.114296,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-03-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "佛山國際體育文化演藝中心",
+          "lat": 22.959949,
+          "lon": 113.140953,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "零零七慶功演唱會",
@@ -244,7 +615,7 @@
         "date": "2009-07-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "淡水漁人碼頭"
@@ -252,7 +623,18 @@
       "venues": [
         "淡水漁人碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-07-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "武漢",
@@ -263,18 +645,73 @@
         "precision": "day"
       },
       "end": {
-        "date": "2009-10-17",
+        "date": "2026-07-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 5,
       "regions": [],
       "cities": [
         "新華路體育場"
       ],
       "venues": [
-        "新華路體育場"
+        "新華路體育場",
+        "武漢光谷國際網球中心",
+        "光谷國際網球中心",
+        "武漢體育中心體育館",
+        "武漢五環體育中心體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-10-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新華路體育場",
+          "lat": 30.5889,
+          "lon": 114.268,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-11-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "武漢光谷國際網球中心",
+          "lat": 30.4756,
+          "lon": 114.45635,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-07-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "光谷國際網球中心",
+          "lat": 30.4756,
+          "lon": 114.45635,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "武漢體育中心體育館",
+          "lat": 30.502313,
+          "lon": 114.166253,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-07-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "武漢五環體育中心體育場",
+          "lat": 30.63674,
+          "lon": 114.133882,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "臺北",
@@ -285,10 +722,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2009-12-06",
+        "date": "2019-03-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "臺北小巨蛋"
@@ -296,7 +733,38 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-12-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2015-01-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-03-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "專屬於你慶功演唱會",
@@ -310,7 +778,7 @@
         "date": "2012-10-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "Neo Studio"
@@ -318,7 +786,15 @@
       "venues": [
         "Neo Studio"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-10-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Neo Studio"
+        }
+      ]
     },
     {
       "name": "澳門",
@@ -329,10 +805,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2013-01-19",
+        "date": "2019-10-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "金光綜藝館"
@@ -340,7 +816,28 @@
       "venues": [
         "金光綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-01-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-10-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "廣州",
@@ -351,18 +848,71 @@
         "precision": "day"
       },
       "end": {
-        "date": "2013-03-24",
+        "date": "2025-05-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 5,
       "regions": [],
       "cities": [
         "廣州體育館"
       ],
       "venues": [
-        "廣州體育館"
+        "廣州體育館",
+        "廣州國際體育演藝中心",
+        "寶能廣州國際體育演藝中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-03-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-12-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廣州國際體育演藝中心",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-04-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "寶能廣州國際體育演藝中心",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-05-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "寶能廣州國際體育演藝中心",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-05-11",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "寶能廣州國際體育演藝中心",
+          "lat": 23.179718,
+          "lon": 113.481195,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "深圳",
@@ -373,18 +923,61 @@
         "precision": "day"
       },
       "end": {
-        "date": "2013-06-29",
+        "date": "2025-12-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
         "深圳灣體育館"
       ],
       "venues": [
-        "深圳灣體育館"
+        "深圳灣體育館",
+        "深圳灣體育中心",
+        "深圳大運中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-06-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "深圳灣體育館",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-06-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "深圳灣體育中心",
+          "lat": 22.520833333333,
+          "lon": 113.94583333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-12-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "深圳大運中心體育館",
+          "lat": 22.697139,
+          "lon": 114.212194,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-12-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "深圳大運中心體育館",
+          "lat": 22.697139,
+          "lon": 114.212194,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "新加坡",
@@ -395,18 +988,34 @@
         "precision": "day"
       },
       "end": {
-        "date": "2013-07-20",
+        "date": "2024-07-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "The MAX Pavilion"
       ],
       "venues": [
-        "The MAX Pavilion"
+        "The MAX Pavilion",
+        "Singapore EXPO Hall 7"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-07-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "The MAX Pavilion"
+        },
+        {
+          "date": "2024-07-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Singapore EXPO Hall 7"
+        }
+      ]
     },
     {
       "name": "康州",
@@ -420,7 +1029,7 @@
         "date": "2014-02-08",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "金神大賭場體育館"
@@ -428,7 +1037,18 @@
       "venues": [
         "金神大賭場體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-02-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "金神大賭場體育館",
+          "lat": 41.4911,
+          "lon": -72.0897,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【異類】新歌演唱會",
@@ -442,7 +1062,7 @@
         "date": "2017-09-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "COMMUNE A7貨櫃市集"
@@ -450,7 +1070,15 @@
       "venues": [
         "COMMUNE A7貨櫃市集"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-09-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "COMMUNE A7貨櫃市集"
+        }
+      ]
     },
     {
       "name": "南寧",
@@ -464,7 +1092,7 @@
         "date": "2018-07-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "廣西體育中心體育館"
@@ -472,7 +1100,18 @@
       "venues": [
         "廣西體育中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-07-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廣西體育中心體育館",
+          "lat": 22.767,
+          "lon": 108.388,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "福州",
@@ -486,7 +1125,7 @@
         "date": "2018-08-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "福州海峽奧林匹克體育中心綜合體育館"
@@ -494,7 +1133,18 @@
       "venues": [
         "福州海峽奧林匹克體育中心綜合體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-08-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "福州海峽奧林匹克體育中心綜合體育館",
+          "lat": 25.8532,
+          "lon": 119.609,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "張家港",
@@ -508,7 +1158,7 @@
         "date": "2018-10-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "張家港市體育場"
@@ -516,7 +1166,15 @@
       "venues": [
         "張家港市體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-10-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "張家港市體育場"
+        }
+      ]
     },
     {
       "name": "重慶",
@@ -527,18 +1185,42 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-06-29",
+        "date": "2026-01-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "華熙文化體育中心"
       ],
       "venues": [
-        "華熙文化體育中心"
+        "華熙文化體育中心",
+        "華熙LIVE·魚洞",
+        "華熙生物·潤百顏中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-06-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "華熙文化體育中心"
+        },
+        {
+          "date": "2024-08-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "華熙LIVE·魚洞"
+        },
+        {
+          "date": "2026-01-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "華熙生物·潤百顏中心"
+        }
+      ]
     },
     {
       "name": "昆明",
@@ -549,18 +1231,34 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-08-24",
+        "date": "2026-01-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "滇池國際會展中心"
       ],
       "venues": [
-        "滇池國際會展中心"
+        "滇池國際會展中心",
+        "昆明新亞洲體育城星耀體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-08-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "滇池國際會展中心"
+        },
+        {
+          "date": "2026-01-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "昆明新亞洲體育城星耀體育場"
+        }
+      ]
     },
     {
       "name": "【Mr.R&Beats節奏先生】線上新歌首唱會",
@@ -574,7 +1272,7 @@
         "date": "2020-09-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "網易雲音樂、LINE MUSIC TW、JOOX Hong Kong 、JOOX Malaysia"
@@ -582,7 +1280,15 @@
       "venues": [
         "網易雲音樂、LINE MUSIC TW、JOOX Hong Kong 、JOOX Malaysia"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-09-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "網易雲音樂、LINE MUSIC TW、JOOX Hong Kong 、JOOX Malaysia"
+        }
+      ]
     },
     {
       "name": "潘瑋柏 For-Ever生日主題限定演唱會",
@@ -596,7 +1302,7 @@
         "date": "2023-08-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "澳門銀河綜藝館"
@@ -604,7 +1310,18 @@
       "venues": [
         "澳門銀河綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-08-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳門銀河綜藝館",
+          "lat": 22.14972222,
+          "lon": 113.55277778,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "悉尼",
@@ -618,7 +1335,7 @@
         "date": "2023-10-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "The Star Event Centre"
@@ -626,7 +1343,15 @@
       "venues": [
         "The Star Event Centre"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-10-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "The Star Event Centre"
+        }
+      ]
     },
     {
       "name": "墨爾本",
@@ -640,7 +1365,7 @@
         "date": "2023-10-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "瑪格麗特·考特體育館"
@@ -648,7 +1373,18 @@
       "venues": [
         "瑪格麗特·考特體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-10-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "瑪格麗特·考特體育館",
+          "lat": -37.8211444,
+          "lon": 144.977625,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "長沙",
@@ -662,7 +1398,7 @@
         "date": "2023-12-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "湖南國際會展中心·芒果館"
@@ -670,7 +1406,18 @@
       "venues": [
         "湖南國際會展中心·芒果館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-12-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "湖南國際會展中心·芒果館",
+          "lat": 28.237784,
+          "lon": 113.043576,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "杭州",
@@ -681,10 +1428,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-01-20",
+        "date": "2025-12-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "杭州奧體中心體育館"
@@ -692,7 +1439,32 @@
       "venues": [
         "杭州奧體中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-01-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "杭州奧體中心體育館",
+          "lat": 30.2317,
+          "lon": 120.22443,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-12-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "杭州奧體中心體育館"
+        },
+        {
+          "date": "2025-12-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "杭州奧體中心體育館"
+        }
+      ]
     },
     {
       "name": "蘇州",
@@ -703,18 +1475,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-03-09",
+        "date": "2025-10-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "蘇州奧體中心體育館"
       ],
       "venues": [
-        "蘇州奧體中心體育館"
+        "蘇州奧體中心體育館",
+        "蘇州奧林匹克體育中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-03-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "蘇州奧體中心體育館",
+          "lat": 31.306633,
+          "lon": 120.745299,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-10-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "蘇州奧林匹克體育中心",
+          "lat": 31.306633,
+          "lon": 120.745299,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "青島",
@@ -725,10 +1519,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-03-30",
+        "date": "2025-11-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "青島市民健身中心"
@@ -736,7 +1530,28 @@
       "venues": [
         "青島市民健身中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-03-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "青島市民健身中心",
+          "lat": 36.232348,
+          "lon": 120.215149,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "青島市民健身中心",
+          "lat": 36.232348,
+          "lon": 120.215149,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "南昌",
@@ -747,10 +1562,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-05-18",
+        "date": "2025-09-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "南昌國際體育中心體育場"
@@ -758,7 +1573,22 @@
       "venues": [
         "南昌國際體育中心體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-05-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南昌國際體育中心體育場"
+        },
+        {
+          "date": "2025-09-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南昌國際體育中心體育場"
+        }
+      ]
     },
     {
       "name": "西安",
@@ -769,10 +1599,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-06-01",
+        "date": "2025-11-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "西安奧體中心體育館"
@@ -780,7 +1610,28 @@
       "venues": [
         "西安奧體中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-06-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "西安奧體中心體育館",
+          "lat": 34.37821,
+          "lon": 109.01798,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "西安奧體中心體育館",
+          "lat": 34.37821,
+          "lon": 109.01798,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "寧波",
@@ -791,10 +1642,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-06-28",
+        "date": "2025-04-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
         "寧波奧體中心體育館"
@@ -802,7 +1653,48 @@
       "venues": [
         "寧波奧體中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-06-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "寧波奧體中心體育館",
+          "lat": 29.933416666666666,
+          "lon": 121.48594444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-06-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "寧波奧體中心體育館",
+          "lat": 29.933416666666666,
+          "lon": 121.48594444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-04-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "寧波奧體中心體育館",
+          "lat": 29.933416666666666,
+          "lon": 121.48594444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-04-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "寧波奧體中心體育館",
+          "lat": 29.933416666666666,
+          "lon": 121.48594444444444,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "天津",
@@ -813,18 +1705,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-08-24",
+        "date": "2025-09-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "天津奧林匹克中心體育館"
       ],
       "venues": [
-        "天津奧林匹克中心體育館"
+        "天津奧林匹克中心體育館",
+        "天津奧林匹克中心體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-08-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "天津奧林匹克中心體育館",
+          "lat": 39.076389,
+          "lon": 117.171667,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-09-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "天津奧林匹克中心體育場",
+          "lat": 39.073444,
+          "lon": 117.169389,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "鄭州",
@@ -838,7 +1752,7 @@
         "date": "2025-07-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "鄭州奧林匹克體育中心體育館"
@@ -846,7 +1760,18 @@
       "venues": [
         "鄭州奧林匹克體育中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-07-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "鄭州奧林匹克體育中心體育館",
+          "lat": 34.7426,
+          "lon": 113.5308,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "廈門",
@@ -860,7 +1785,7 @@
         "date": "2026-03-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "廈門奧林匹克體育中心-鳳凰體育館"
@@ -868,7 +1793,18 @@
       "venues": [
         "廈門奧林匹克體育中心-鳳凰體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-03-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廈門奧林匹克體育中心-鳳凰體育館",
+          "lat": 24.5667,
+          "lon": 118.195,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "大連",
@@ -882,7 +1818,7 @@
         "date": "2026-07-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "大連體育中心體育場"
@@ -890,7 +1826,18 @@
       "venues": [
         "大連體育中心體育場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-07-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "大連體育中心體育場",
+          "lat": 39.02,
+          "lon": 121.564,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

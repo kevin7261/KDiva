@@ -115,26 +115,56 @@ function parseTwoRowItem(item) {
   }
 }
 
-async function collectShelfItems(shelf) {
+/** 一個架上的所有項目（有「顯示全部」時走那一頁，並跟著分頁） */
+async function shelfItems(shelf) {
   const more = shelf.header?.musicCarouselShelfBasicHeaderRenderer?.moreContentButton
   const endpoint = more?.buttonRenderer?.navigationEndpoint?.browseEndpoint
-  let items = []
-  if (endpoint?.browseId) {
-    let page = await browse({ browseId: endpoint.browseId, params: endpoint.params })
+  if (!endpoint?.browseId) return [...findAll(shelf.contents, 'musicTwoRowItemRenderer')]
+  const items = []
+  let page = await browse({ browseId: endpoint.browseId, params: endpoint.params })
+  items.push(...findAll(page, 'musicTwoRowItemRenderer'))
+  // 分頁（專輯很多的歌手才會出現）
+  for (let guard = 0; guard < 20; guard++) {
+    const token =
+      findFirst(page, 'nextContinuationData')?.continuation ??
+      findFirst(page, 'continuationCommand')?.token
+    if (!token) break
+    page = await browse({ continuation: token })
     items.push(...findAll(page, 'musicTwoRowItemRenderer'))
-    // 分頁（專輯很多的歌手才會出現）
+  }
+  return items
+}
+
+async function collectShelfItems(shelf) {
+  return (await shelfItems(shelf)).map(parseTwoRowItem).filter((a) => a.browseId?.startsWith('MPRE'))
+}
+
+/** 歌手頁「影片」架：官方 MV。曲目對得上就在專輯頁標註、連過去 */
+async function collectVideos(shelf) {
+  // 架上直接看得到的（約 10 部）一定收；「顯示全部」那頁是清單型 renderer，
+  // 和專輯頁的兩排卡片不同，兩種都讀才不會抓到空的
+  const inline = [...findAll(shelf.contents, 'musicTwoRowItemRenderer')]
+  const more = shelf.header?.musicCarouselShelfBasicHeaderRenderer?.moreContentButton?.buttonRenderer?.navigationEndpoint?.browseEndpoint
+  const extra = []
+  if (more?.browseId) {
+    let page = await browse({ browseId: more.browseId, params: more.params })
     for (let guard = 0; guard < 20; guard++) {
-      const token =
-        findFirst(page, 'nextContinuationData')?.continuation ??
-        findFirst(page, 'continuationCommand')?.token
+      extra.push(...findAll(page, 'musicTwoRowItemRenderer'), ...findAll(page, 'musicResponsiveListItemRenderer'))
+      const token = findFirst(page, 'nextContinuationData')?.continuation ?? findFirst(page, 'continuationCommand')?.token
       if (!token) break
       page = await browse({ continuation: token })
-      items.push(...findAll(page, 'musicTwoRowItemRenderer'))
     }
-  } else {
-    items = [...findAll(shelf.contents, 'musicTwoRowItemRenderer')]
   }
-  return items.map(parseTwoRowItem).filter((a) => a.browseId?.startsWith('MPRE'))
+  return [...inline, ...extra]
+    .map((item) => ({
+      title: text(item.title) || text(findFirst(item.flexColumns?.[0], 'text')),
+      // 影片架的連結是 browseEndpoint，videoId 包在 browseId 裡（「MPEDgPpZJlE0Ca8」）
+      videoId:
+        item.navigationEndpoint?.watchEndpoint?.videoId ??
+        item.navigationEndpoint?.browseEndpoint?.browseId?.match(/^MPED(.+)$/)?.[1] ??
+        findFirst(item, 'videoId'),
+    }))
+    .filter((v) => v.title && v.videoId)
 }
 
 async function fetchArtist(channelId) {
@@ -143,12 +173,15 @@ async function fetchArtist(channelId) {
   const sections = findFirst(page.contents, 'sectionListRenderer')?.contents ?? []
 
   const releases = []
+  const videos = []
   for (const section of sections) {
     const shelf = section.musicCarouselShelfRenderer
     if (!shelf) continue
     const title = text(shelf.header?.musicCarouselShelfBasicHeaderRenderer?.title)
     if (['Albums', 'Singles & EPs', 'Singles', '專輯', '單曲與迷你專輯', '單曲'].includes(title)) {
       releases.push(...(await collectShelfItems(shelf)))
+    } else if (['Videos', '影片'].includes(title)) {
+      videos.push(...(await collectVideos(shelf)))
     }
   }
 
@@ -162,6 +195,7 @@ async function fetchArtist(channelId) {
     subscribers: parseCount(subscribersText),
     monthlyAudience: parseCount(text(header.monthlyListenerCount)),
     releases: [...new Map(releases.map((r) => [r.browseId, r])).values()],
+    videos: [...new Map(videos.map((v) => [v.videoId, v])).values()],
   }
 }
 
@@ -478,6 +512,74 @@ const jpToTW = OpenCC.Converter({ from: 'jp', to: 'tw' })
  * 用中文名（有的話）、簡轉繁、去掉尾端括號註記（「傷心的人別聽慢歌（貫徹快樂）」＝「傷心的人別聽慢歌」），
  * Live 版本加上標記、不和錄音室版本視為同名。
  */
+/**
+ * 同一位歌手的同一首歌，只要有一處查到詞曲就補到其他處。
+ * 精選輯、再版多半沒有自己的 Wikipedia 條目，但原專輯有。
+ * 用 nameKey 判斷「同一首歌」（Live 版本另計，不會拿錄音室版的編曲去套現場版）。
+ * 必須在 addNameKeys 之後執行。
+ */
+export function fillCreditsByNameKey(albums) {
+  const known = new Map()
+  for (const album of albums)
+    for (const t of album.tracks) if (t.credits && t.nameKey && !known.has(t.nameKey)) known.set(t.nameKey, t.credits)
+  let filled = 0
+  for (const album of albums)
+    for (const t of album.tracks) {
+      if (t.credits || !t.nameKey) continue
+      const hit = known.get(t.nameKey)
+      if (hit) {
+        t.credits = { ...hit }
+        filled++
+      }
+    }
+  return filled
+}
+
+/** 曲名比對鍵：去掉括號註記，Live 版另計（addNameKeys 與 MV 比對共用） */
+export function trackNameKey(title) {
+  const t = String(title ?? '')
+  if (!t) return ''
+  const live = LIVE_RE.test(t)
+  const base = t.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ' ').trim() || t
+  return normalizeTitle(jpToTW(base)) + (live ? '#live' : '')
+}
+
+/** MV 標題的雜訊：「伍佰【挪威的森林】Official Music Video」→「挪威的森林」 */
+function cleanVideoTitle(title) {
+  let t = String(title ?? '')
+  // 官方／版本字樣（Live 標記要留著，nameKey 靠它區分現場版）
+  t = t.replace(/\b(?:official|4k|hd|full|version|ver\.?)\b/gi, ' ')
+  t = t.replace(/(?:music\s*video|lyric\s*video|\bmv\b|音樂錄影帶|官方完整版|完整版|官方|高畫質)/gi, ' ')
+  // 【歌名】優先：常見寫法是「歌手【歌名】…」
+  const bracket = t.match(/[【《]([^】》]+)[】》]/)
+  if (bracket) return bracket[1].trim()
+  return t.replace(/\s{2,}/g, ' ').trim()
+}
+
+/**
+ * 歌手頁「影片」架上的官方 MV，對回專輯曲目（用 nameKey 判斷同一首歌）。
+ * 對得上的曲目加上 mv（YouTube videoId），專輯頁就能標註並連過去。
+ * 必須在 addNameKeys 之後執行。
+ */
+export function linkVideos(albums, videos = []) {
+  if (!videos.length) return 0
+  const byKey = new Map()
+  for (const v of videos) {
+    const key = trackNameKey(cleanVideoTitle(v.title))
+    if (key && !byKey.has(key)) byKey.set(key, v.videoId)
+  }
+  let linked = 0
+  for (const album of albums)
+    for (const t of album.tracks) {
+      const id = t.nameKey && byKey.get(t.nameKey)
+      if (id) {
+        t.mv = id
+        linked++
+      }
+    }
+  return linked
+}
+
 export function addNameKeys(albums) {
   const parts = (title) => title.split(/\s+-\s+/)
   // 標題只有一段中文的曲目，拿來判斷「巨星金曲 - 心跳 - …」這種夾了專輯名的標題哪一段才是歌名
@@ -533,8 +635,7 @@ export function addNameKeys(albums) {
       // 中文名只是原標題的簡轉繁（「最后一夜」→「最後一夜」）：前端只顯示中文名，不把原名當副標
       if (t.titleZh && same(t.titleZh.replace(/ \(Live\)$/, ''), parts(t.title)[0].replace(/\s*\(Live\)$/i, ''))) t.titleZhVariant = true
       const title = t.titleZh ?? parts(t.title).find(hasCJK) ?? parts(t.title)[0]
-      const base = title.replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ' ').trim() || title
-      t.nameKey = normalizeTitle(jpToTW(base)) + (live ? '#live' : '')
+      t.nameKey = trackNameKey(title)
     }
   }
 }
@@ -615,6 +716,8 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
     const extra = await fetchArtist(id)
     const seen = new Set(artist.releases.map((r) => r.browseId))
     artist.releases.push(...extra.releases.filter((r) => !seen.has(r.browseId)))
+    const seenVideos = new Set(artist.videos.map((v) => v.videoId))
+    artist.videos.push(...extra.videos.filter((v) => !seenVideos.has(v.videoId)))
     artist.thumbnail ??= extra.thumbnail
     log(`合併頻道 ${extra.name}：${extra.releases.length} 張`)
   }
@@ -658,6 +761,10 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
   await applyReleaseDates(albums, artistConfig, log, extra)
   const wikiWritten = await fetchWrittenWorks(artistConfig, log).catch(() => [])
   addNameKeys(albums)
+  const filledCredits = fillCreditsByNameKey(albums)
+  if (filledCredits) log(`  同名曲目互補詞曲：${filledCredits} 首`)
+  const linkedMv = linkVideos(albums, artist.videos)
+  if (linkedMv) log(`  對應到官方 MV：${linkedMv} 首`)
   const { releases, ...artistInfo } = artist
 
   return {

@@ -1,6 +1,6 @@
 {
   "slug": "sam-lee",
-  "fetchedAt": "2026-09-17T15:04:42.758Z",
+  "fetchedAt": "2026-09-17T23:06:27.066Z",
   "wiki": "李聖傑",
   "bio": {
     "born": {
@@ -24,13 +24,24 @@
         "date": "2005-02-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [],
       "venues": [
         "西門紅樓"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2005-02-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "西門紅樓",
+          "lat": 25.0421376,
+          "lon": 121.5062818,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "李聖傑愛世代關於妳的歌漁人碼頭演唱會",
@@ -44,13 +55,21 @@
         "date": "2006-07-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [],
       "venues": [
         "漁人碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-07-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "漁人碼頭"
+        }
+      ]
     },
     {
       "name": "李聖傑2008萬人迷演唱會",
@@ -61,16 +80,53 @@
         "precision": "day"
       },
       "end": {
-        "date": "2008-10-25",
+        "date": "2008-11-08",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [],
       "venues": [
-        "臺北國際會議中心"
+        "臺北國際會議中心",
+        "臺中中興大學蕙孫堂",
+        "高雄縣勞工育樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-10-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-10-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-11-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺中中興大學蕙孫堂"
+        },
+        {
+          "date": "2008-11-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄縣勞工育樂中心"
+        }
+      ]
     },
     {
       "name": "李聖傑Listen to me巡迴演唱會",
@@ -81,16 +137,39 @@
         "precision": "day"
       },
       "end": {
-        "date": "2011-12-22",
+        "date": "2011-12-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [],
       "venues": [
-        "ATT SHOW BOX文創立方"
+        "ATT SHOW BOX文創立方",
+        "高雄市立社教館演藝廳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-12-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "ATT SHOW BOX文創立方"
+        },
+        {
+          "date": "2011-12-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "ATT SHOW BOX文創立方"
+        },
+        {
+          "date": "2011-12-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄市立社教館演藝廳"
+        }
+      ]
     },
     {
       "name": "李聖傑QQ音樂線上演唱會",
@@ -104,13 +183,24 @@
         "date": "2014-10-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [],
       "venues": [
         "北京"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-10-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "北京",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "李聖傑FACE 20週年世界巡迴演唱會",
@@ -124,13 +214,24 @@
         "date": "2019-12-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [],
       "venues": [
         "高雄巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-12-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "李聖傑最美的遺憾生日音樂會",
@@ -144,13 +245,24 @@
         "date": "2023-03-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [],
       "venues": [
         "Zepp New Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-03-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Zepp New Taipei",
+          "lat": 43.049309,
+          "lon": 141.353194,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "一人一首李聖傑 演唱會",
@@ -161,16 +273,74 @@
         "precision": "day"
       },
       "end": {
-        "date": "2023-05-26",
+        "date": "2024-05-01",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 6,
       "regions": [],
       "cities": [],
       "venues": [
-        "雲頂雲星劇場"
+        "雲頂雲星劇場",
+        "聖淘沙名勝世界會議中心 名勝世界宴會廳",
+        "澳門倫敦人綜藝館",
+        "Union Hall, Bangkok"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-05-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-05-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "聖淘沙名勝世界會議中心 名勝世界宴會廳",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "聖淘沙名勝世界會議中心 名勝世界宴會廳",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-01-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳門倫敦人綜藝館"
+        },
+        {
+          "date": "2024-05-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "Union Hall, Bangkok"
+        }
+      ]
     },
     {
       "name": "李聖傑“痴心絕對”世界巡迴演唱會",
@@ -181,16 +351,86 @@
         "precision": "day"
       },
       "end": {
-        "date": "2024-06-29",
+        "date": "2025-09-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 7,
       "regions": [],
       "cities": [],
       "venues": [
-        "武漢洪山體育館"
+        "武漢洪山體育館",
+        "杭州黃龍體育館",
+        "廣州體育館1號館",
+        "合肥少荃體育中心體育館",
+        "濱海灣金沙",
+        "雲頂雲星劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-06-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "武漢洪山體育館"
+        },
+        {
+          "date": "2024-08-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "杭州黃龍體育館",
+          "lat": 30.2683,
+          "lon": 120.129,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廣州體育館1號館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-10-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "合肥少荃體育中心體育館"
+        },
+        {
+          "date": "2025-03-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "濱海灣金沙",
+          "lat": 1.2825,
+          "lon": 103.86,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-09-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-09-07",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "李聖傑 One Day直到那一天 世界巡迴演唱會",
@@ -201,16 +441,67 @@
         "precision": "day"
       },
       "end": {
-        "date": "2025-12-26",
+        "date": "2026-09-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 5,
       "regions": [],
       "cities": [],
       "venues": [
-        "臺北小巨蛋"
+        "臺北小巨蛋",
+        "亞通體育館",
+        "倫敦人綜藝館",
+        "新加坡室內體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-12-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-12-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-02-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "亞通體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-05-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "倫敦人綜藝館"
+        },
+        {
+          "date": "2026-09-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }
