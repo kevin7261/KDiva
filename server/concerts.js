@@ -77,7 +77,8 @@ function splitLeg(name) {
   let end = -1
   for (const m of s.matchAll(LEG_HEAD_RE)) end = m.index + m[0].length
   if (end < 0) return null
-  const city = s.slice(end).trim().replace(/站$/, '')
+  // 「…巡迴演唱會-香港站」：關鍵字和城市之間可能夾著連字號／冒號
+  const city = s.slice(end).replace(/^[\s\-－—–:：·、]+/, '').trim().replace(/站$/, '')
   if (!/^[\u3400-\u9fff]{2,6}$/.test(city)) return null
   const base = cleanName(s.slice(0, end))
   return base.length >= 2 ? { base, city } : null
@@ -511,14 +512,19 @@ async function lookupCoords(titles) {
 /** 替每一場補上座標：優先用場館，找不到用城市（「臺北」是消歧義頁，再試「臺北市」） */
 async function addCoords(tours) {
   const shows = tours.flatMap((t) => t.shows)
-  const candidates = (s) => [
+  // 「上海，臺北，西安，雲頂」這種一格多個城市，查出來的座標是其中之一，等於亂放；寧可不標
+  const isList = (t) => String(t ?? '').split(/[，,、]/).filter((x) => x.trim()).length >= 3
+  const candidates = (s) =>
+    isList(s.city) || isList(s.venue)
+      ? []
+      : [
     ['venue', s.venuePage],
     ['venue', s.venue],
     ['city', s.cityPage],
     ['city', s.city],
     ['city', s.city && !/[市縣县州區区]$/.test(s.city) ? `${s.city}市` : ''],
     ['city', s.city ? toTW(s.city.replace(/^.*?(?:省|自治區|自治区|州)/, '')) : ''],
-  ].filter(([, t]) => t)
+      ].filter(([, t]) => t)
   await lookupCoords(shows.flatMap((s) => candidates(s).map(([, t]) => t)))
   // 兩點相距超過 150 公里就當成不是同一個地方
   const far = (a, b) => {
