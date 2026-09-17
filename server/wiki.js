@@ -337,7 +337,7 @@ export function readTables(wikitext) {
 
 // 詞曲欄位（歌曲表、專輯條目的曲目表）
 const LYRICS_HEAD = /作詞|作词|填詞|填词|詞|词|lyric/i
-const MUSIC_HEAD = /作曲|曲(?!目|名)|music|compos/i
+const MUSIC_HEAD = /作曲|曲(?!目|名|序|號|号)|music|compos/i
 const ARRANGER_HEAD = /編曲|编曲|arrang/i
 const WRITER_HEAD = /詞曲|词曲|writer/i
 
@@ -347,8 +347,8 @@ function creditsFromRow(header, row) {
   const get = (i) => (i >= 0 && row[i] != null ? cleanCredit(row[i]) : '')
   const writer = get(col(WRITER_HEAD))
   const credits = {
-    lyrics: get(col(LYRICS_HEAD, /曲|编|編|arrang/i)) || writer,
-    music: get(col(MUSIC_HEAD, /詞|词|編|编|名|目|歌|題|题|插|片|arrang/i)) || writer,
+    lyrics: get(col(LYRICS_HEAD, /曲|编|編|序|號|号|arrang/i)) || writer,
+    music: get(col(MUSIC_HEAD, /詞|词|編|编|名|目|歌|題|题|插|片|序|號|号|arrang/i)) || writer,
     arranger: get(col(ARRANGER_HEAD)),
   }
   return credits.lyrics || credits.music || credits.arranger ? credits : null
@@ -372,13 +372,16 @@ const stripNote = (s) =>
     .replace(/《[^》]*》/g, '')
     .trim()
 
-const cleanCredit = (text) =>
-  stripNote(nameToTW(toPlain(String(text))))
+const cleanCredit = (text) => {
+  const out = stripNote(nameToTW(toPlain(String(text))))
     .split(/\n+/)
     .map((s) => s.trim())
     .filter(Boolean)
     .join('、')
     .replace(/^[－—–-]+$/, '')
+  // 表頭沒對準時會把曲序欄當成作曲欄（「01」「02」）；人名不會只有數字或標點
+  return /[\p{L}]/u.test(out) ? out : ''
+}
 
 /** 表頭用「|」加粗體寫的表格（「| '''年份''' || '''專輯名稱'''」）：第一列是短欄名、看得出日期欄與名稱欄時當成表頭 */
 function guessHeader(table) {
