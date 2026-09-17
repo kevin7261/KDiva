@@ -59,7 +59,7 @@ function cleanName(text) {
     .replace(/^\s*(?:19|20)\d{2}(?:\s*[-–—－~～至]\s*(?:(?:19|20)?\d{2}|今|至今))?\s*年?\s*/, '')
     .replace(/^\s*第[一二三四五六七八九十\d]+(?:階段|阶段|部分|章)\s*[:：]?\s*/, '')
     .replace(/[《》「」〈〉]/g, '')
-    .replace(/^[:：\s]+/, '')
+    .replace(/^[-–—:：\s]+/, '')
     .replace(/\s+/g, ' ')
     .trim()
 }
@@ -525,11 +525,19 @@ export async function fetchConcerts(artistConfig, log = () => {}) {
         page: mainLink ? toTW(mainLink) : null,
       }
       if (context.name && !CONCERT_RE.test(sec.path.at(-1) ?? '') && !/(?:19|20)\d{2}/.test(sec.path.at(-1) ?? '')) context.name = null
-      for (const table of readTables(sec.text)) {
-        const { header, rows } = withHeader(table)
-        if (header) found.push(...parseTourTable(header, rows, context))
+      // 折疊區塊的標題也是演唱會名稱（「{{hideH|2002 單身日誌（2場）}}」後面接場次表）
+      const chunks = sec.text.split(/\{\{\s*(?:hideH|hidden begin|collapse top|cot)\s*\|\s*(?:title\s*=\s*)?([^|{}]+?)\s*(?:\|[^{}]*)?\}\}/i)
+      for (let c = 0; c < chunks.length; c += 2) {
+        const title = c > 0 ? cleanName(chunks[c - 1]) : null
+        const ctx = title ? { name: title, page: null } : context
+        for (const table of readTables(chunks[c])) {
+          const { header, rows } = withHeader(table)
+          if (header) found.push(...parseTourTable(header, rows, ctx))
+        }
       }
       found.push(...parseTourList(sec.text))
+      // 章節的「主條目」（{{Main|劉若英我敢Renext世界巡迴演唱會}}）
+      for (const m of sec.text.matchAll(/\{\{\s*main\s*\|([^}]+)\}\}/gi)) for (const t of m[1].split('|')) if (t.trim() && !/=/.test(t)) links.add(t.trim())
       // 章節裡連到的演唱會條目
       for (const m of sec.text.matchAll(/\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]/g)) {
         const t = m[1].trim()

@@ -194,7 +194,7 @@ const TITLE_HEAD_NAME = /名稱|名称|標題|标题|title/i
 const TITLE_HEAD = /專輯|专辑|唱片|單曲|单曲|作品|歌曲|曲名|album|single|song/i
 const TITLE_HEAD_NOT = /#|曲目|類型|类型|語言|语言|公司|發行商|发行商|廠牌|厂牌|銷量|销量|序|編號|编号|備註|备注|格式|演唱|作詞|作词|作曲/
 const DATE_HEAD = /發行日期|发行日期|發行時間|发行时间|日期|年份|發行|发行|released|date|year/i
-const DATE_HEAD_NOT = /公司|商|廠牌|厂牌/
+const DATE_HEAD_NOT = /公司|商|廠牌|厂牌|順序|顺序|次序|序號|序号|編號|编号/
 const PERFORMER_HEAD = /演唱|歌手|藝人|艺人|演出者|artist/i
 const SONG_HEAD = /歌曲|曲名|song/i
 const ALBUM_HEAD = /收錄專輯|收录专辑|專輯|专辑|album/i
@@ -326,9 +326,19 @@ const cleanCredit = (text) =>
     .join('、')
     .replace(/^[－—–-]+$/, '')
 
+/** 表頭用「|」加粗體寫的表格（「| '''年份''' || '''專輯名稱'''」）：第一列是短欄名、看得出日期欄與名稱欄時當成表頭 */
+function guessHeader(table) {
+  if (table.header || !table.rows.length) return table
+  const first = table.rows[0].map((c) => toPlain(splitCell(c).content).trim())
+  const short = first.length >= 2 && first.every((c) => c.length <= 12)
+  const hasDate = first.some((c) => DATE_HEAD.test(c) && !DATE_HEAD_NOT.test(c))
+  const hasTitle = first.some((c) => (TITLE_HEAD_NAME.test(c) || TITLE_HEAD.test(c)) && !TITLE_HEAD_NOT.test(c))
+  return short && hasDate && hasTitle && !first.some((c) => /(?:19|20)\d{2}/.test(c)) ? { header: first, rows: table.rows.slice(1) } : table
+}
+
 function parseTables(wikitext, page, artistKeys) {
   const out = []
-  for (const { header, rows } of readTables(wikitext)) {
+  for (const { header, rows } of readTables(wikitext).map(guessHeader)) {
     for (const row of rows) {
       const titleOk = (h) => !TITLE_HEAD_NOT.test(h)
       let titleCol = header ? header.findIndex((h) => TITLE_HEAD_NAME.test(h) && titleOk(h)) : -1
@@ -504,6 +514,7 @@ export async function fetchPages(titles) {
       rvprop: 'content',
       rvslots: 'main',
       redirects: '1',
+      converttitles: '1', // 繁簡標題自動轉換（「林俊杰音樂作品列表」找得到「林俊傑音樂作品列表」）
       titles: titles.slice(i, i + 50).join('|'),
     })
     for (const p of json.query?.pages ?? []) {
@@ -525,10 +536,22 @@ async function fromWikipedia(pageTitle, albumKeys, artistKeys, log, albumPinyin 
   const realTitle = main.parse.title
 
   // 作品列表頁：歌手條目裡連到、名稱含歌手名且像列表的頁面，外加慣用名稱
-  const listPages = new Set([`${realTitle}音樂作品列表`, `${realTitle}音樂作品`, `${realTitle}專輯列表`, `${realTitle}唱片列表`, `${realTitle}作品列表`])
+  // 條目標題可能是簡體（「林俊杰」），列表頁是繁體（「林俊傑音樂作品列表」）：兩種寫法都試
+  const bases = [...new Set([realTitle, toTW(realTitle), pageTitle].map((t) => t.replace(/\s*[（(][^）)]*[）)]\s*$/, '')))]
+  const listPages = new Set(bases.flatMap((b) => [`${b}音樂作品列表`, `${b}音樂作品`, `${b}專輯列表`, `${b}唱片列表`, `${b}作品列表`]))
   for (const l of main.parse.links ?? []) {
     const t = l.title ?? l['*']
-    if (l.exists !== false && t?.includes(realTitle) && /列表|作品|唱片|專輯|专辑|discography/i.test(t)) listPages.add(t)
+    // 獲獎與提名列表的年份是頒獎年份，不是發行日期
+    if (l.exists !== false && bases.some((b) => toTW(t ?? '').includes(toTW(b))) && /列表|作品|唱片|專輯|专辑|discography/i.test(t) && !/獲獎|获奖|得獎|提名|影視|影视|演唱會|演唱会/.test(t)) listPages.add(t)
+  }
+  // 站內搜尋補找作品列表頁
+  try {
+    const found = await wikiApi({ action: 'query', list: 'search', srsearch: `${toTW(bases[0])} 音樂作品列表`, srlimit: '5' })
+    for (const r of found.query?.search ?? []) {
+      if (bases.some((b) => toTW(r.title).includes(toTW(b))) && /列表|唱片|discography/i.test(r.title) && !/影視|電影|電視|獲獎|得獎|演唱會/.test(r.title)) listPages.add(r.title)
+    }
+  } catch {
+    /* 搜尋失敗就只用慣用名稱 */
   }
   const pages = [{ title: realTitle, content: main.parse.wikitext }]
   pages.push(...(await fetchPages([...listPages].filter((t) => t !== realTitle))))
@@ -588,6 +611,47 @@ export async function fetchReleaseCatalog(artistConfig, albums, log = () => {}) 
   }))
 }
 
+/**
+ * 第一輪沒對到日期的專輯／單曲：用「名稱＋歌手」搜尋 Wikipedia，打開搜到的條目讀資訊框日期。
+ * 條目的演唱者要是這位歌手（資訊框沒寫就看開頭有沒有提到），回傳的條目帶 forAlbum，比對時名稱互相包含就算對到。
+ */
+export async function searchReleasePages(artistConfig, albums, log = () => {}) {
+  const artistKeys = [artistConfig.name, artistConfig.en, artistConfig.wiki].map((n) => (n ? normalizeTitle(n) : '')).filter(Boolean)
+  const wanted = new Map() // 條目名稱 → [browseId]
+  for (const album of albums) {
+    // 搜尋用的名稱：中文那段、去掉括號註記
+    const parts = String(album.titleZh ?? album.title).split(/\s+-\s+/)
+    const name = (parts.find(hasCJK) ?? parts[0]).replace(/\s*[（(【\[][^）)】\]]*[）)】\]]\s*/g, ' ').trim()
+    if (!name) continue
+    let json
+    try {
+      json = await wikiApi({ action: 'query', list: 'search', srsearch: `${name} ${artistConfig.name}`, srlimit: '3', srnamespace: '0' })
+    } catch {
+      continue
+    }
+    for (const r of json.query?.search ?? []) {
+      if (/列表|^第\d+屆/.test(r.title) || normalizeTitle(r.title) === normalizeTitle(artistConfig.wiki ?? '')) continue
+      if (!wanted.has(r.title)) wanted.set(r.title, [])
+      wanted.get(r.title).push(album.browseId)
+    }
+  }
+  const entries = []
+  for (const { title, content } of await fetchPages([...wanted.keys()])) {
+    const entry = parseAlbumPage(title, content, artistKeys)
+    if (!entry) continue
+    const artist = content.match(INFOBOX_ARTIST)?.[1]
+    if (!artist && !artistKeys.some((k) => normalizeTitle(toPlain(content.slice(0, 2500))).includes(k))) continue
+    const ids = wanted.get(title) ?? [...wanted].find(([t]) => toTW(t) === toTW(title))?.[1] ?? []
+    for (const id of ids) entries.push({ ...entry, source: 'search-page', forAlbum: id })
+  }
+  log(`  Wikipedia 搜尋：${wanted.size} 個候選條目，${entries.length} 筆可用`)
+  return entries.map((e) => ({
+    ...e,
+    keys: e.titles.map((t) => stripArtist(normalizeTitle(t), artistKeys)).filter(Boolean),
+    pinyinKeys: e.titles.filter(hasCJK).map(pinyinKey).filter((k) => k.length >= 4),
+  }))
+}
+
 // 去掉名稱裡的歌手名（「絕版公主蔡依林-夢綺地精選」），避免干擾比對；名稱就是歌手名時保留
 function stripArtist(key, artistKeys) {
   const stripped = artistKeys.reduce((k, n) => (k.length > n.length ? k.replaceAll(n, '') : k), key)
@@ -595,8 +659,8 @@ function stripArtist(key, artistKeys) {
 }
 
 const PRECISION_RANK = { day: 0, month: 1, year: 2 }
-const SOURCE_RANK = { manual: -1, 'album-page': 0, table: 1, wikidata: 2, list: 3, prose: 4, 'song-table': 5 }
-const THRESHOLD = { 'album-page': 0.8, table: 0.85, wikidata: 0.72, list: 0.9, prose: 0.9, 'song-table': 0.9 }
+const SOURCE_RANK = { manual: -1, 'album-page': 0, 'search-page': 0, table: 1, wikidata: 2, list: 3, prose: 4, 'song-table': 5 }
+const THRESHOLD = { 'album-page': 0.8, 'search-page': 0.8, table: 0.85, wikidata: 0.72, list: 0.9, prose: 0.9, 'song-table': 0.9 }
 
 // 現場版、混音版等衍生發行不能沿用原專輯／原曲的日期
 const VARIANT_RE = /live|remix|first ?take|acoustic|演唱會|演唱会|實錄|实录|現場|现场|混音/i
@@ -621,6 +685,11 @@ export function matchRelease(album, catalog, artistNames = []) {
     // Wikipedia 有曲目表時，曲目數差太多就不是同一張（同名的精選輯不能拿到原專輯的日期）
     if (entry.tracks?.length && album.tracks?.length >= 5 && Math.abs(entry.tracks.length - album.tracks.length) > 3) continue
     let score = Math.max(0, ...entry.keys.map((k) => similarity(key, k)))
+    // 專為這張搜尋到的條目：名稱互相包含（「她說」與「她說 概念自選輯」）就算對到
+    if (entry.forAlbum) {
+      if (entry.forAlbum !== album.browseId) continue
+      if (entry.keys.some((k) => k.length >= 2 && key.length >= 2 && (k.includes(key) || key.includes(k)))) score = Math.max(score, 0.9)
+    }
     if (!hasCJK(album.title) && entry.pinyinKeys?.includes(pinyinKey(album.title))) score = 1
     if (score < THRESHOLD[entry.source]) continue
     const year = Number(entry.date.slice(0, 4))

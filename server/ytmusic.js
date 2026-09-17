@@ -4,7 +4,7 @@
 // 發行日期另外從 Wikipedia／Wikidata 比對（見 wiki.js）。
 
 import * as OpenCC from 'opencc-js'
-import { fetchReleaseCatalog, matchRelease, normalizeTitle, hasCJK, pinyinKey, toTW } from './wiki.js'
+import { fetchReleaseCatalog, matchRelease, normalizeTitle, hasCJK, pinyinKey, toTW, searchReleasePages } from './wiki.js'
 import { RELEASE_OVERRIDES } from './release-overrides.js'
 import { releaseSortKey } from '../src/lib/release.js'
 
@@ -449,6 +449,18 @@ export async function applyReleaseDates(albums, artistConfig, log = () => {}) {
       catalog = await fetchReleaseCatalog(artistConfig, albums, log)
     } catch (err) {
       log(`Wikipedia 讀取失敗，保留原本的發行日期：${err.message}`)
+    }
+  }
+  // 第一輪對不到的，用站內搜尋找專輯／歌曲條目補上
+  if (catalog) {
+    const names = [artistConfig.name, artistConfig.en, artistConfig.wiki]
+    const unmatched = albums.filter((a) => !(overrides[a.browseId] ?? overrides[a.title]) && !matchRelease(a, catalog, names))
+    if (unmatched.length) {
+      try {
+        catalog.push(...(await searchReleasePages(artistConfig, unmatched, log)))
+      } catch (err) {
+        log(`  Wikipedia 搜尋失敗：${err.message}`)
+      }
     }
   }
   let matched = 0

@@ -93,15 +93,23 @@ const goArtist = (slug) => router.push(`/artist/${slug}`)
 const photo = (model) => model?.artist.avatar ?? model?.artist.thumbnail ?? null
 
 // 左側「出道年份」清單：依出道年份分組
+// 左側清單跟著卡片的排序：出道年份依年份分組；其他排序照順序列出名字與數字
 const debutYears = computed(() => {
   const byYear = new Map()
-  for (const a of artists.value) {
+  for (const { artist: a } of sortedEntries.value) {
     const y = a.debut.slice(0, 4)
     if (!byYear.has(y)) byYear.set(y, [])
     byYear.get(y).push(a)
   }
-  return [...byYear].sort((a, b) => a[0].localeCompare(b[0]))
+  return [...byYear]
 })
+const sideLabel = (e) => {
+  if (!e.model) return ''
+  if (sortKey.value === 'plays') return formatCount(e.model.totalPlays)
+  if (sortKey.value === 'albums') return `${e.model.albums.length} 張`
+  if (sortKey.value === 'songs') return `${e.model.songs.length} 首`
+  return ''
+}
 const jumpTo = (slug) => {
   const el = document.getElementById(`card-${slug}`)
   if (!el) return
@@ -228,9 +236,18 @@ const openSong = (row) => row.song?.videoId && window.open(watchUrl(row.song.vid
       <p v-for="e in errors" :key="e" class="error card">{{ e }}</p>
 
       <div class="roster">
-      <aside class="years card" aria-label="出道年份">
-        <h2>出道年份</h2>
-        <ol>
+      <aside class="years card" :aria-label="sortInfo.label">
+        <h2>{{ sortInfo.label }}</h2>
+        <ol v-if="sortKey !== 'debut'" class="ranked">
+          <li v-for="(e, i) in sortedEntries" :key="e.artist.slug">
+            <span class="year num">{{ i + 1 }}</span>
+            <span class="names">
+              <button type="button" @click="jumpTo(e.artist.slug)">{{ e.artist.name }}</button>
+              <span class="num muted metric">{{ sideLabel(e) }}</span>
+            </span>
+          </li>
+        </ol>
+        <ol v-else>
           <li v-for="[year, list] in debutYears" :key="year">
             <span class="year num">{{ year }}</span>
             <span class="names">
@@ -501,6 +518,14 @@ h1 {
   cursor: pointer;
   font-size: 13px;
   line-height: 1.5;
+}
+.ranked .names {
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.ranked .metric {
+  font-size: 12px;
+  white-space: nowrap;
 }
 .names button:hover {
   color: var(--accent-ink);
