@@ -10,6 +10,7 @@ const props = defineProps({ slug: { type: String, required: true } })
 const data = shallowRef(null)
 const error = ref('')
 const role = ref('all')
+const order = ref('new')
 
 watch(
   () => props.slug,
@@ -23,7 +24,15 @@ watch(
 )
 
 const all = computed(() => data.value?.artists[props.slug] ?? [])
-const list = computed(() => (role.value === 'all' ? all.value : all.value.filter((s) => s.roles.includes(role.value))))
+const list = computed(() => {
+  const base = role.value === 'all' ? all.value : all.value.filter((s) => s.roles.includes(role.value))
+  const sorted = [...base]
+  // 年份排序：沒有年份的排最後
+  if (order.value === 'new') sorted.sort((a, b) => (b.year ?? -1) - (a.year ?? -1) || (b.plays ?? -1) - (a.plays ?? -1))
+  if (order.value === 'old') sorted.sort((a, b) => (a.year ?? 9999) - (b.year ?? 9999) || (b.plays ?? -1) - (a.plays ?? -1))
+  if (order.value === 'plays') sorted.sort((a, b) => (b.plays ?? -1) - (a.plays ?? -1))
+  return sorted
+})
 const singers = computed(() => new Set(list.value.map((s) => s.singerSlug)).size)
 const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
 </script>
@@ -46,6 +55,11 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
         </button>
       </div>
       <span class="muted count">{{ list.length }} 首 · {{ singers }} 位歌手演唱</span>
+      <select v-model="order" class="field" aria-label="排序">
+        <option value="new">年份：新 → 舊</option>
+        <option value="old">年份：舊 → 新</option>
+        <option value="plays">播放數</option>
+      </select>
     </div>
 
     <p v-if="!list.length" class="card empty muted">在網站收錄的歌手裡，沒有找到這位歌手寫給別人的歌。</p>
