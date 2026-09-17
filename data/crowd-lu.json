@@ -98,7 +98,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "早安，晨之美！",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "早安晨之美"
     },
     {
@@ -3445,6 +3445,26 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "愚人節快樂"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "勵志論",
+      "releaseDate": "2021-12-08",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "勵志論",
+      "source": "album-page",
+      "year": 2021
+    },
+    {
+      "title": "傷心早餐店",
+      "releaseDate": "2025-09-17",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "傷心早餐店",
+      "source": "album-page",
+      "year": 2025
     }
   ]
 }

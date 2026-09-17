@@ -4379,7 +4379,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "你曾是少年",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "你曾是少年"
     },
     {
@@ -5030,8 +5030,19 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "十七 (單曲)",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "17"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "小時帶 S.H.E's in Style",
+      "releaseDate": "2017-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "S.H.E",
+      "source": "list",
+      "year": 2017
     }
   ]
 }

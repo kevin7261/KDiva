@@ -18805,7 +18805,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "忘記和記",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "忘記和記"
     },
     {
@@ -22376,6 +22376,26 @@
       "wikiTitle": "黎明音樂作品列表",
       "wikiKind": "compilation",
       "nameKey": "黎明ii"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "99加州紅新力聲卡啦OK",
+      "releaseDate": "1999-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "黎明音樂作品列表",
+      "source": "table",
+      "year": 1999
+    },
+    {
+      "title": "The Red Shoes Evolution",
+      "releaseDate": "2001-08-07",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "黎明音樂作品列表",
+      "source": "table",
+      "year": 2001
     }
   ]
 }

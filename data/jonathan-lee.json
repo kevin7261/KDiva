@@ -495,7 +495,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "凡人歌",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "李宗盛的凡人歌"
     },
     {
@@ -2609,6 +2609,35 @@
       "wikiTitle": "李宗盛",
       "wikiKind": "single",
       "nameKey": "新寫的舊歌"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "的音樂旅程-不捨",
+      "releaseDate": "1994-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "李宗盛",
+      "source": "table",
+      "year": 1994
+    },
+    {
+      "title": "北上列車",
+      "releaseDate": "2009-09-11",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "李宗盛",
+      "source": "table",
+      "year": 2009
+    },
+    {
+      "title": "南下專線",
+      "releaseDate": "2010-04-30",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "李宗盛",
+      "source": "table",
+      "year": 2010
     }
   ]
 }

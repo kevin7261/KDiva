@@ -649,7 +649,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "島嶼天光",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "島嶼天光"
     },
     {
@@ -701,7 +701,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "島嶼天光",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "島嶼天光"
     },
     {
@@ -753,7 +753,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "島嶼天光",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "滅火器島嶼天光"
     },
     {
@@ -2823,6 +2823,17 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "牽亡歌再陪你多走一段reimagined"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "家和萬事興 Human Condition",
+      "releaseDate": "2023-01-01",
+      "releaseDatePrecision": "year",
+      "kind": "studio",
+      "wikiTitle": "滅火器樂團",
+      "source": "table",
+      "year": 2023
     }
   ]
 }

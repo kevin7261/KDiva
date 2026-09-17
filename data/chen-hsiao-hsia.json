@@ -168,10 +168,10 @@
           "playsText": "播放次數：18萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "還活著",
           "credits": {
             "lyrics": "陳小霞、李子恆"
           },
-          "nameKey": "還活著",
           "titleZh": "還活著",
           "titleZhVariant": true
         }
@@ -245,10 +245,10 @@
           "playsText": "播放次數：18萬",
           "duration": 247,
           "byOther": false,
+          "nameKey": "還活著",
           "credits": {
             "lyrics": "陳小霞、李子恆"
-          },
-          "nameKey": "還活著"
+          }
         },
         {
           "index": 6,
@@ -332,24 +332,6 @@
       "wikiTitle": "陳小霞",
       "source": "table",
       "year": 1993
-    },
-    {
-      "title": "我們啊!我們",
-      "releaseDate": "1997-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "陳小霞",
-      "source": "table",
-      "year": 1997
-    },
-    {
-      "title": "來去夏威夷",
-      "releaseDate": "1999-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "陳小霞",
-      "source": "table",
-      "year": 1999
     }
   ]
 }

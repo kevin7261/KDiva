@@ -78,7 +78,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "飛魚 (單曲)",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "飛魚"
     },
     {
@@ -380,7 +380,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "遲到千年",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "遲到千年"
     },
     {
@@ -1748,7 +1748,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "一起喔喔",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "一起喔喔"
     },
     {
@@ -1930,7 +1930,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "我賴你",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "我賴你"
     },
     {
@@ -2382,7 +2382,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Tomorrow Will Be Fine",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "tomorrowwillbefine",
       "titleZh": "Tomorrow will be fine. （二十年一刻Live）"
     },
@@ -6770,5 +6770,6 @@
       "nameKey": "silentangel",
       "titleZh": "Silent Angel (合作演出：鍾承洋)"
     }
-  ]
+  ],
+  "wikiOnly": []
 }

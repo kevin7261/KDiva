@@ -7299,7 +7299,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "十二生肖 (单曲)",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "12生肖"
     },
     {
@@ -10187,6 +10187,35 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "他們都是我們的孩子"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "Hear My Voice",
+      "releaseDate": "2004-06-23",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "王力宏音樂作品列表",
+      "source": "table",
+      "year": 2004
+    },
+    {
+      "title": "Heroes Of Earth",
+      "releaseDate": "2006-04-19",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "王力宏音樂作品列表",
+      "source": "table",
+      "year": 2006
+    },
+    {
+      "title": "非常幸运",
+      "releaseDate": "2013-09-17",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "非常幸运",
+      "source": "album-page",
+      "year": 2013
     }
   ]
 }

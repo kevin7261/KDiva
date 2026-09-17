@@ -4013,7 +4013,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "吻別 (歌曲)",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "吻別"
     },
     {
@@ -4407,7 +4407,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "祇想一生跟你走",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "一生跟你走"
     },
     {
@@ -16501,6 +16501,80 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "張學友"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "Smile",
+      "releaseDate": "1985-04-18",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1985
+    },
+    {
+      "title": "LINDA CDV",
+      "releaseDate": "1989-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1989
+    },
+    {
+      "title": "夕陽醉了 CDV",
+      "releaseDate": "1989-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1989
+    },
+    {
+      "title": "個人檔案 2",
+      "releaseDate": "1996-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1996
+    },
+    {
+      "title": "友情歌 個人檔案第三集",
+      "releaseDate": "1998-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 1998
+    },
+    {
+      "title": "熱",
+      "releaseDate": "2001-09-26",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 2001
+    },
+    {
+      "title": "1985-1999大碟全集",
+      "releaseDate": "2003-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 2003
+    },
+    {
+      "title": "寶麗金經典復黑特藏",
+      "releaseDate": "2014-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "張學友音樂作品列表",
+      "source": "table",
+      "year": 2014
     }
   ]
 }

@@ -223,8 +223,8 @@
           "playsText": "播放次數：1.3萬",
           "duration": 186,
           "byOther": false,
-          "titleZh": "Passion（與黃立行合唱）（第13届【金曲獎】Golden Melody Award指定主題曲）",
-          "nameKey": "passiongoldenmelodyaward指定主題曲"
+          "nameKey": "passiongoldenmelodyaward指定主題曲",
+          "titleZh": "Passion（與黃立行合唱）（第13届【金曲獎】Golden Melody Award指定主題曲）"
         },
         {
           "index": 8,
@@ -535,8 +535,8 @@
           "playsText": "播放次數：3萬",
           "duration": 299,
           "byOther": false,
-          "titleZh": "I Will Smile（與趙詠華合唱）",
-          "nameKey": "iwillsmile"
+          "nameKey": "iwillsmile",
+          "titleZh": "I Will Smile（與趙詠華合唱）"
         }
       ],
       "releaseDate": "2009-03-13",
@@ -1538,12 +1538,12 @@
           "playsText": "播放次數：116萬",
           "duration": 304,
           "byOther": false,
+          "nameKey": "要不要",
           "credits": {
             "lyrics": "蕭賀碩、陳海維、方炯嘉、鄭如川",
             "music": "陳海維、方炯嘉、鄭如川",
             "arranger": "鍾承洋"
-          },
-          "nameKey": "要不要"
+          }
         }
       ],
       "releaseDate": "2018-01-01",
@@ -1593,12 +1593,12 @@
           "playsText": "播放次數：125萬",
           "duration": 293,
           "byOther": false,
+          "nameKey": "暫時愛著我",
           "credits": {
             "lyrics": "易家揚",
             "music": "方炯嘉",
             "arranger": "鍾承洋"
-          },
-          "nameKey": "暫時愛著我"
+          }
         },
         {
           "index": 4,
@@ -1609,12 +1609,12 @@
           "playsText": "播放次數：2萬",
           "duration": 215,
           "byOther": false,
+          "nameKey": "愛戴",
           "credits": {
             "lyrics": "李焯雄",
             "music": "劉偉德、羅維真 Holly、劉明湘 Rose",
             "arranger": "劉偉"
-          },
-          "nameKey": "愛戴"
+          }
         },
         {
           "index": 5,
@@ -1625,12 +1625,12 @@
           "playsText": "播放次數：36萬",
           "duration": 284,
           "byOther": false,
+          "nameKey": "失物招領",
           "credits": {
             "lyrics": "Richard Harris、Kandace Ferrel",
             "music": "Richard Harris、Kandace Ferrel、SA: 葛大為",
             "arranger": "鍾承洋"
-          },
-          "nameKey": "失物招領"
+          }
         },
         {
           "index": 6,
@@ -1641,12 +1641,12 @@
           "playsText": "播放次數：1萬",
           "duration": 216,
           "byOther": false,
+          "nameKey": "你試試看",
           "credits": {
             "lyrics": "蕭賀碩、嚴雲農、戴愛玲",
             "music": "葉懷佩、呂孝廷、Oliver @ I - One Music",
             "arranger": "江尚謙、林奧迪、鍾承洋"
-          },
-          "nameKey": "你試試看"
+          }
         },
         {
           "index": 7,
@@ -1657,12 +1657,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 255,
           "byOther": false,
+          "nameKey": "我的腦袋瓜破了一個洞",
           "credits": {
             "lyrics": "張震嶽",
             "music": "張震嶽",
             "arranger": "高飛、Jack Ko、Joey Lee"
-          },
-          "nameKey": "我的腦袋瓜破了一個洞"
+          }
         },
         {
           "index": 8,
@@ -1673,12 +1673,12 @@
           "playsText": "播放次數：116萬",
           "duration": 305,
           "byOther": false,
+          "nameKey": "要不要",
           "credits": {
             "lyrics": "蕭賀碩、陳海維、方炯嘉、鄭如川",
             "music": "陳海維、方炯嘉、鄭如川",
             "arranger": "鍾承洋"
-          },
-          "nameKey": "要不要"
+          }
         },
         {
           "index": 9,
@@ -1689,12 +1689,12 @@
           "playsText": "播放次數：239萬",
           "duration": 279,
           "byOther": false,
+          "nameKey": "為你幸福過的我",
           "credits": {
             "lyrics": "杜花兒、嚴雲農、戴愛玲",
             "music": "杜花兒",
             "arranger": "張晁毓"
-          },
-          "nameKey": "為你幸福過的我"
+          }
         },
         {
           "index": 10,
@@ -1705,12 +1705,12 @@
           "playsText": "播放次數：3.6萬",
           "duration": 368,
           "byOther": false,
+          "nameKey": "給親愛的你",
           "credits": {
             "lyrics": "戴愛玲",
             "music": "吳鏑",
             "arranger": "保卜"
-          },
-          "nameKey": "給親愛的你"
+          }
         }
       ],
       "releaseDate": "2019-09-10",
@@ -1738,12 +1738,12 @@
           "playsText": "播放次數：36萬",
           "duration": 284,
           "byOther": false,
+          "nameKey": "失物招領",
           "credits": {
             "lyrics": "Richard Harris、Kandace Ferrel",
             "music": "Richard Harris、Kandace Ferrel、SA: 葛大為",
             "arranger": "鍾承洋"
-          },
-          "nameKey": "失物招領"
+          }
         },
         {
           "index": 2,
@@ -1878,69 +1878,6 @@
   ],
   "wikiOnly": [
     {
-      "title": "寂寞知道",
-      "releaseDate": "2010-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2010
-    },
-    {
-      "title": "感覺對了就愛呦",
-      "releaseDate": "2013-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2013
-    },
-    {
-      "title": "Maleva 媽樂法",
-      "releaseDate": "2019-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2019
-    },
-    {
-      "title": "燒",
-      "releaseDate": "2021-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2021
-    },
-    {
-      "title": "我不委屈？",
-      "releaseDate": "2021-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2021
-    },
-    {
-      "title": "我的她",
-      "releaseDate": "2022-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2022
-    },
-    {
-      "title": "那節課沒教的",
-      "releaseDate": "2022-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2022
-    },
-    {
       "title": "不想聽見的歌",
       "releaseDate": "2022-03-24",
       "releaseDatePrecision": "day",
@@ -1950,24 +1887,6 @@
       "year": 2022
     },
     {
-      "title": "瑪格麗特",
-      "releaseDate": "2023-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2023
-    },
-    {
-      "title": "逃生門",
-      "releaseDate": "2023-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2023
-    },
-    {
       "title": "巴古慕",
       "releaseDate": "2023-07-06",
       "releaseDatePrecision": "day",
@@ -1975,42 +1894,6 @@
       "wikiTitle": "戴愛玲",
       "source": "table",
       "year": 2023
-    },
-    {
-      "title": "更值得的人",
-      "releaseDate": "2024-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2024
-    },
-    {
-      "title": "讓我成為你的翅膀",
-      "releaseDate": "2024-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2024
-    },
-    {
-      "title": "過場人物",
-      "releaseDate": "2024-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2024
-    },
-    {
-      "title": "幸福是什麼",
-      "releaseDate": "2025-01-01",
-      "releaseDatePrecision": "year",
-      "kind": "single",
-      "wikiTitle": "戴愛玲",
-      "source": "list",
-      "year": 2025
     }
   ]
 }

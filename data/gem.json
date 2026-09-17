@@ -2596,7 +2596,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "平行世界 (歌曲)",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "平行世界"
     },
     {
@@ -4097,6 +4097,26 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "stillbreathing"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "18 plus",
+      "releaseDate": "2009-10-27",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "鄧紫棋音樂作品列表",
+      "source": "table",
+      "year": 2009
+    },
+    {
+      "title": "18 USB",
+      "releaseDate": "2009-11-24",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "鄧紫棋音樂作品列表",
+      "source": "table",
+      "year": 2009
     }
   ]
 }

@@ -5074,6 +5074,35 @@
       "nameKey": "遙寄"
     },
     {
+      "browseId": "manual:FH-TDnPwDVg",
+      "manual": true,
+      "note": "2021 大甲媽祖遶境主題曲，YouTube Music 沒有上架；播放數為 UberBee 有保庇線上祈福頻道三支官方影片的觀看次數合計",
+      "playlistId": null,
+      "videoUrl": "https://www.youtube.com/watch?v=FH-TDnPwDVg",
+      "title": "I Promise 我一定會勇敢",
+      "albumArtist": "辛曉琪",
+      "type": "Single",
+      "year": 2021,
+      "releaseDate": "2021-04-15",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/FH-TDnPwDVg/hqdefault.jpg",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "I Promise 我一定會勇敢",
+          "artists": "",
+          "videoId": "FH-TDnPwDVg",
+          "plays": 67737,
+          "playsText": "YouTube 影片觀看次數：67737",
+          "duration": 261,
+          "byOther": false,
+          "nameKey": "ipromise我一定會勇敢"
+        }
+      ],
+      "nameKey": "ipromise我一定會勇敢"
+    },
+    {
       "browseId": "MPREb_ZW2Uu6KL6OE",
       "playlistId": "OLAK5uy_lGjalL5LvJ7QFy4UEWwIlWFSdH_aF06aM",
       "title": "傷心預告",
@@ -5156,35 +5185,17 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "小城故事甜蜜蜜我只在乎你"
-    },
+    }
+  ],
+  "wikiOnly": [
     {
-      "browseId": "manual:FH-TDnPwDVg",
-      "manual": true,
-      "note": "2021 大甲媽祖遶境主題曲，YouTube Music 沒有上架；播放數為 UberBee 有保庇線上祈福頻道三支官方影片的觀看次數合計",
-      "playlistId": null,
-      "videoUrl": "https://www.youtube.com/watch?v=FH-TDnPwDVg",
-      "title": "I Promise 我一定會勇敢",
-      "albumArtist": "辛曉琪",
-      "type": "Single",
-      "year": 2021,
-      "releaseDate": "2021-04-15",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/FH-TDnPwDVg/hqdefault.jpg",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "I Promise 我一定會勇敢",
-          "artists": "",
-          "videoId": "FH-TDnPwDVg",
-          "plays": 67737,
-          "playsText": "YouTube 影片觀看次數：67737",
-          "duration": 261,
-          "byOther": false,
-          "nameKey": "ipromise我一定會勇敢"
-        }
-      ],
-      "nameKey": "ipromise我一定會勇敢"
+      "title": "梁祝音樂劇",
+      "releaseDate": "2003-01-01",
+      "releaseDatePrecision": "year",
+      "kind": null,
+      "wikiTitle": "辛曉琪",
+      "source": "table",
+      "year": 2003
     }
   ]
 }

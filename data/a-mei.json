@@ -7189,7 +7189,7 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "姊妹2016 (平行宇宙版)",
-      "wikiKind": null,
+      "wikiKind": "single",
       "nameKey": "姊妹2016"
     },
     {
@@ -8054,6 +8054,35 @@
       "wikiTitle": "張惠妹音樂作品列表",
       "wikiKind": "single",
       "nameKey": "我的存在就是愛你"
+    }
+  ],
+  "wikiOnly": [
+    {
+      "title": "阿密特",
+      "releaseDate": "2009-06-26",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "阿密特",
+      "source": "album-page",
+      "year": 2009
+    },
+    {
+      "title": "Damalagaw大巴六九部落傳唱歌謠",
+      "releaseDate": "2015-03-20",
+      "releaseDatePrecision": "day",
+      "kind": null,
+      "wikiTitle": "張惠妹音樂作品列表",
+      "source": "table",
+      "year": 2015
+    },
+    {
+      "title": "阿密特2",
+      "releaseDate": "2015-04-04",
+      "releaseDatePrecision": "day",
+      "kind": "studio",
+      "wikiTitle": "張惠妹音樂作品列表",
+      "source": "table",
+      "year": 2015
     }
   ]
 }
