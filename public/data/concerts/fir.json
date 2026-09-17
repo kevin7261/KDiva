@@ -1,6 +1,6 @@
 {
   "slug": "fir",
-  "fetchedAt": "2026-09-17T16:42:47.366Z",
+  "fetchedAt": "2026-09-17T23:09:46.446Z",
   "wiki": "F.I.R.飛兒樂團",
   "bio": {
     "born": null,
@@ -24,7 +24,7 @@
         "date": "2004-05-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "淡水漁人碼頭"
@@ -32,7 +32,18 @@
       "venues": [
         "淡水漁人碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2004-05-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "F.I.R. 無限 新歌發表會",
@@ -46,7 +57,7 @@
         "date": "2005-04-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中正紀念堂"
@@ -54,7 +65,18 @@
       "venues": [
         "中正紀念堂"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2005-04-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中正紀念堂",
+          "lat": 25.034444444444443,
+          "lon": 121.52166666666666,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "F.I.R. 飛行部落 萬人演唱會",
@@ -68,7 +90,7 @@
         "date": "2006-08-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "淡水漁人碼頭"
@@ -76,7 +98,18 @@
       "venues": [
         "淡水漁人碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-08-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "第十行星世界巡迴演唱會",
@@ -87,18 +120,73 @@
         "precision": "day"
       },
       "end": {
-        "date": "2007-10-20",
+        "date": "2009-11-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 5,
       "regions": [],
       "cities": [
         "臺北小巨蛋"
       ],
       "venues": [
-        "臺北小巨蛋"
+        "臺北小巨蛋",
+        "新加坡室內體育館",
+        "馬來西亞雲頂雲星劇場",
+        "香港亞洲國際博覽館",
+        "澳門金光綜藝館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-10-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-08-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-11-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞雲頂雲星劇場",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-12-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港亞洲國際博覽館",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-11-07",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳門金光綜藝館",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "F.I.R.讓我們一起微笑吧 新歌發表會",
@@ -109,18 +197,45 @@
         "precision": "day"
       },
       "end": {
-        "date": "2009-12-25",
+        "date": "2010-02-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "臺北New Life House 新生命教會B1"
       ],
       "venues": [
-        "臺北New Life House 新生命教會B1"
+        "臺北New Life House 新生命教會B1",
+        "臺北西門河岸留言",
+        "溫哥華"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-12-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北New Life House 新生命教會B1"
+        },
+        {
+          "date": "2010-01-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北西門河岸留言"
+        },
+        {
+          "date": "2010-02-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "溫哥華",
+          "lat": 49.26083333333333,
+          "lon": -123.1138888888889,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "讓我們一起微笑吧 不插電音樂巡迴座談會",
@@ -131,18 +246,42 @@
         "precision": "day"
       },
       "end": {
-        "date": "2010-01-28",
+        "date": "2010-01-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "高雄誠品書店"
       ],
       "venues": [
-        "高雄誠品書店"
+        "高雄誠品書店",
+        "臺南誠品書店",
+        "敦南誠品書店"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-01-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄誠品書店"
+        },
+        {
+          "date": "2010-01-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺南誠品書店"
+        },
+        {
+          "date": "2010-01-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "敦南誠品書店"
+        }
+      ]
     },
     {
       "name": "F.I.R. 微笑紀念日 演唱會",
@@ -156,7 +295,7 @@
         "date": "2010-03-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "北京展覽館劇場"
@@ -164,7 +303,18 @@
       "venues": [
         "北京展覽館劇場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-03-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "北京展覽館劇場",
+          "lat": 39.93939,
+          "lon": 116.33794,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "創‧世紀It's My Live 世界巡迴演唱會",
@@ -175,18 +325,81 @@
         "precision": "day"
       },
       "end": {
-        "date": "2010-07-05",
+        "date": "2012-06-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 6,
       "regions": [],
       "cities": [
         "香港紅磡體育館"
       ],
       "venues": [
-        "香港紅磡體育館"
+        "香港紅磡體育館",
+        "新加坡室內體育館",
+        "美國凱薩皇宮大賭場 CAESARS -Atlantic City-",
+        "臺北臺大綜合體育館",
+        "廣州體育館",
+        "佛山市嶺南明珠體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-07-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-07-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "2011-06-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "美國凱薩皇宮大賭場 CAESARS -Atlantic City-",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "venue"
+        },
+        {
+          "date": "2011-07-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北臺大綜合體育館"
+        },
+        {
+          "date": "2011-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-06-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "佛山市嶺南明珠體育館",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "今日\"R\"最大 沁生派對",
@@ -200,7 +413,7 @@
         "date": "2012-02-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺北這牆音樂藝文展演空間"
@@ -208,7 +421,15 @@
       "venues": [
         "臺北這牆音樂藝文展演空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-02-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北這牆音樂藝文展演空間"
+        }
+      ]
     },
     {
       "name": "光合之旅 Light Up The Way 世界巡迴演唱會",
@@ -219,18 +440,51 @@
         "precision": "day"
       },
       "end": {
-        "date": "2013-01-26",
+        "date": "2013-05-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "新加坡The Max Pavilion"
       ],
       "venues": [
-        "新加坡The Max Pavilion"
+        "新加坡The Max Pavilion",
+        "加拿大溫哥華 River Rock Theatre",
+        "美國大西洋城 凱撒皇宮大賭場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-01-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新加坡The Max Pavilion",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-05-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "加拿大溫哥華 River Rock Theatre",
+          "lat": 56,
+          "lon": -109,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-05-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "美國大西洋城 凱撒皇宮大賭場",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "我們的愛巡迴演唱會",
@@ -241,18 +495,37 @@
         "precision": "day"
       },
       "end": {
-        "date": "2025-05-24",
+        "date": "2025-09-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "馬來西亞雲頂雲星劇場"
       ],
       "venues": [
-        "馬來西亞雲頂雲星劇場"
+        "馬來西亞雲頂雲星劇場",
+        "中國 海寧市體育中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-05-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞雲頂雲星劇場",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-09-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國 海寧市體育中心體育館"
+        }
+      ]
     }
   ]
 }

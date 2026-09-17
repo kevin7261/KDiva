@@ -1,0 +1,431 @@
+{
+  "slug": "nan-quan-mama",
+  "fetchedAt": "2026-09-17T23:09:42.337Z",
+  "wiki": "南拳媽媽",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "我回來了巡迴演唱會 (詹宇豪、LARA梁心頤、AJ張傑)",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-01-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-01-11",
+        "precision": "day"
+      },
+      "showCount": 24,
+      "regions": [],
+      "cities": [
+        "海口",
+        "成都",
+        "貴陽",
+        "合肥",
+        "蘇州",
+        "廈門",
+        "泉州",
+        "珠海",
+        "佛山",
+        "武漢",
+        "青島",
+        "濟南",
+        "天津",
+        "鄭州",
+        "大連",
+        "沈陽",
+        "南寧",
+        "昆明",
+        "重慶",
+        "嘉興",
+        "吉隆坡",
+        "澳門威尼斯人，威尼斯人劇場"
+      ],
+      "venues": [
+        "Old School 海口",
+        "QIAO 翹音樂營地",
+        "Kai Livehouse",
+        "奕空間",
+        "山丘LIVEHOUSE (紅唐店)",
+        "福館",
+        "伍柒星球",
+        "對白SPACE",
+        "ALSO LIVE",
+        "不晚IN Time live",
+        "青島鳳凰之聲大劇院",
+        "Caper Land 雀躍之地",
+        "大麥66Livehouse",
+        "橙空間Orange Space",
+        "進步Livehouse",
+        "原料庫Livehouse (紅梅店)",
+        "福館Full House南寧店",
+        "Modern Sky Lab",
+        "PHASE 蜚聲LIVEHOUSE",
+        "536藝術空間（中山電影院）",
+        "Zepp Kuala Lumpur"
+      ],
+      "shows": [
+        {
+          "date": "2024-01-13",
+          "precision": "day",
+          "region": "",
+          "city": "海口",
+          "venue": "Old School 海口",
+          "lat": 20.02,
+          "lon": 110.32,
+          "geo": "city"
+        },
+        {
+          "date": "2024-05-17",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "QIAO 翹音樂營地",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2024-05-19",
+          "precision": "day",
+          "region": "",
+          "city": "貴陽",
+          "venue": "Kai Livehouse",
+          "lat": 26.579444444444,
+          "lon": 106.70777777778,
+          "geo": "city"
+        },
+        {
+          "date": "2024-05-24",
+          "precision": "day",
+          "region": "",
+          "city": "合肥",
+          "venue": "奕空間",
+          "lat": 31.86389,
+          "lon": 117.28083,
+          "geo": "city"
+        },
+        {
+          "date": "2024-05-26",
+          "precision": "day",
+          "region": "",
+          "city": "蘇州",
+          "venue": "山丘LIVEHOUSE (紅唐店)",
+          "lat": 31.3,
+          "lon": 120.61944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-14",
+          "precision": "day",
+          "region": "",
+          "city": "廈門",
+          "venue": "福館",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-16",
+          "precision": "day",
+          "region": "",
+          "city": "泉州",
+          "venue": "伍柒星球",
+          "lat": 24.91389,
+          "lon": 118.58583,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-21",
+          "precision": "day",
+          "region": "",
+          "city": "珠海",
+          "venue": "對白SPACE",
+          "lat": 22.274166666666666,
+          "lon": 113.57194444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-23",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "ALSO LIVE",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
+        },
+        {
+          "date": "2024-07-12",
+          "precision": "day",
+          "region": "",
+          "city": "武漢",
+          "venue": "不晚IN Time live",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2024-07-19",
+          "precision": "day",
+          "region": "",
+          "city": "青島",
+          "venue": "青島鳳凰之聲大劇院",
+          "lat": 36.116666666667,
+          "lon": 120.4,
+          "geo": "city"
+        },
+        {
+          "date": "2024-07-21",
+          "precision": "day",
+          "region": "",
+          "city": "濟南",
+          "venue": "Caper Land 雀躍之地",
+          "lat": 36.666666666667,
+          "lon": 116.98333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2024-07-27",
+          "precision": "day",
+          "region": "",
+          "city": "天津",
+          "venue": "大麥66Livehouse",
+          "lat": 39.146666666667,
+          "lon": 117.20555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-02",
+          "precision": "day",
+          "region": "",
+          "city": "鄭州",
+          "venue": "橙空間Orange Space",
+          "lat": 34.74919,
+          "lon": 113.66051,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-17",
+          "precision": "day",
+          "region": "",
+          "city": "大連",
+          "venue": "進步Livehouse",
+          "lat": 38.9,
+          "lon": 121.6,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-18",
+          "precision": "day",
+          "region": "",
+          "city": "沈陽",
+          "venue": "原料庫Livehouse (紅梅店)",
+          "lat": 41.8025,
+          "lon": 123.42805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "南寧",
+          "venue": "福館Full House南寧店",
+          "lat": 22.81918,
+          "lon": 108.31501,
+          "geo": "city"
+        },
+        {
+          "date": "2024-08-24",
+          "precision": "day",
+          "region": "",
+          "city": "南寧",
+          "venue": "福館Full House南寧店",
+          "lat": 22.81918,
+          "lon": 108.31501,
+          "geo": "city"
+        },
+        {
+          "date": "2024-09-06",
+          "precision": "day",
+          "region": "",
+          "city": "昆明",
+          "venue": "Modern Sky Lab",
+          "lat": 25.043333333333,
+          "lon": 102.70611111111,
+          "geo": "city"
+        },
+        {
+          "date": "2024-09-08",
+          "precision": "day",
+          "region": "",
+          "city": "重慶",
+          "venue": "PHASE 蜚聲LIVEHOUSE",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2024-09-21",
+          "precision": "day",
+          "region": "",
+          "city": "嘉興",
+          "venue": "536藝術空間（中山電影院）",
+          "lat": 30.7522,
+          "lon": 120.75,
+          "geo": "city"
+        },
+        {
+          "date": "2024-09-22",
+          "precision": "day",
+          "region": "",
+          "city": "嘉興",
+          "venue": "536藝術空間（中山電影院）",
+          "lat": 30.7522,
+          "lon": 120.75,
+          "geo": "city"
+        },
+        {
+          "date": "2024-10-17",
+          "precision": "day",
+          "region": "",
+          "city": "吉隆坡",
+          "venue": "Zepp Kuala Lumpur",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        },
+        {
+          "date": "2025-01-11",
+          "precision": "day",
+          "region": "",
+          "city": "澳門威尼斯人，威尼斯人劇場",
+          "venue": ""
+        }
+      ]
+    },
+    {
+      "name": "再見小時候巡迴演唱會 (詹宇豪、LARA梁心頤、AJ張傑)",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-07-12",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-11-22",
+        "precision": "day"
+      },
+      "showCount": 8,
+      "regions": [],
+      "cities": [
+        "上海",
+        "成都",
+        "深圳",
+        "福州",
+        "西安",
+        "南寧",
+        "杭州",
+        "南京"
+      ],
+      "venues": [
+        "迴響之地 MUSIC PARK",
+        "成都華熙 LIVE·528M空間",
+        "MAO Livehouse 深圳 (海上世界)",
+        "海藝xCH8 Livehouse",
+        "西演SPACE-車庫LIVE",
+        "福館Full House",
+        "MAO Livehouse 杭州",
+        "南京1701 LIVEHOUSE Max"
+      ],
+      "shows": [
+        {
+          "date": "2025-07-12",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "迴響之地 MUSIC PARK",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2025-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "成都",
+          "venue": "成都華熙 LIVE·528M空間",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-12",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "MAO Livehouse 深圳 (海上世界)",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-20",
+          "precision": "day",
+          "region": "",
+          "city": "福州",
+          "venue": "海藝xCH8 Livehouse",
+          "lat": 26.076944444444,
+          "lon": 119.29166666667,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-18",
+          "precision": "day",
+          "region": "",
+          "city": "西安",
+          "venue": "西演SPACE-車庫LIVE",
+          "lat": 34.26111111111111,
+          "lon": 108.94222222222223,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-25",
+          "precision": "day",
+          "region": "",
+          "city": "南寧",
+          "venue": "福館Full House",
+          "lat": 22.81918,
+          "lon": 108.31501,
+          "geo": "city"
+        },
+        {
+          "date": "2025-11-01",
+          "precision": "day",
+          "region": "",
+          "city": "杭州",
+          "venue": "MAO Livehouse 杭州",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2025-11-22",
+          "precision": "day",
+          "region": "",
+          "city": "南京",
+          "venue": "南京1701 LIVEHOUSE Max",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
+}

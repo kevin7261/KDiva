@@ -1,6 +1,6 @@
 {
   "slug": "william-wei",
-  "fetchedAt": "2026-09-17T15:06:57.674Z",
+  "fetchedAt": "2026-09-17T23:11:21.807Z",
   "wiki": "韋禮安",
   "bio": {
     "born": {
@@ -21,10 +21,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2015-12-31",
+        "date": "2023-12-31",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [],
       "cities": [
         "臺北市市民廣場"
@@ -32,7 +32,42 @@
       "venues": [
         "臺北市市民廣場"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市市民廣場",
+          "lat": 25.03832,
+          "lon": 121.56294,
+          "geo": "venue"
+        },
+        {
+          "date": "2017-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市市民廣場",
+          "lat": 25.03832,
+          "lon": 121.56294,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市市民廣場"
+        },
+        {
+          "date": "2023-12-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北市市民廣場"
+        }
+      ]
     },
     {
       "name": "超犀利趴9 小巨蛋主場SUPER STAGE",
@@ -43,10 +78,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2018-08-04",
+        "date": "2020-08-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺北小巨蛋"
@@ -54,21 +89,42 @@
       "venues": [
         "臺北小巨蛋"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-08-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2020-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "我期待 張雨生演唱會 致敬25",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2023-03-01",
-        "precision": "month"
+        "date": "2023-03-11",
+        "precision": "day"
       },
       "end": {
-        "date": "2023-03-01",
-        "precision": "month"
+        "date": "2023-03-12",
+        "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺北流行音樂中心表演廳"
@@ -76,7 +132,28 @@
       "venues": [
         "臺北流行音樂中心表演廳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-03-11",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北流行音樂中心表演廳",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-03-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北流行音樂中心表演廳",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "如果可以·我可以無錫演唱會",
@@ -90,7 +167,7 @@
         "date": "2026-05-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "江蘇無錫體育中心體育館"
@@ -98,7 +175,18 @@
       "venues": [
         "江蘇無錫體育中心體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-05-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "江蘇無錫體育中心體育館",
+          "lat": 33,
+          "lon": 120,
+          "geo": "venue"
+        }
+      ]
     }
   ]
 }

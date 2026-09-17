@@ -1,6 +1,6 @@
 {
   "slug": "a-do",
-  "fetchedAt": "2026-09-17T21:29:56.335Z",
+  "fetchedAt": "2026-09-17T23:08:56.832Z",
   "wiki": "阿杜 (新加坡歌手)",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2004-10-03",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -34,7 +34,18 @@
       "venues": [
         "淡水漁人碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2004-10-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "一根紅線·非常阿杜北京演唱會",
@@ -48,7 +59,7 @@
         "date": "2005-05-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -58,7 +69,18 @@
       "venues": [
         "首都體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2005-05-21",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "首都體育館",
+          "lat": 39.93888888888889,
+          "lon": 116.32111111111111,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "非常阿杜新加坡演唱會",
@@ -72,7 +94,7 @@
         "date": "2005-12-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "新加坡"
       ],
@@ -82,7 +104,18 @@
       "venues": [
         "林俊傑、金莎"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2005-12-23",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡室內體育館",
+          "venue": "林俊傑、金莎",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "city"
+        }
+      ]
     }
   ]
 }

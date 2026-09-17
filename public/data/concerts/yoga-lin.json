@@ -1,6 +1,6 @@
 {
   "slug": "yoga-lin",
-  "fetchedAt": "2026-09-17T15:06:36.646Z",
+  "fetchedAt": "2026-09-17T23:10:24.908Z",
   "wiki": "林宥嘉",
   "bio": {
     "born": {
@@ -742,7 +742,7 @@
         "date": "2014-02-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -750,7 +750,18 @@
         "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-02-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "口的形狀 巡迴演唱會",
@@ -872,7 +883,7 @@
         "date": "2015-09-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -880,7 +891,18 @@
         "高雄"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-09-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "如同悲傷被下載了兩次 巡迴演唱會",
@@ -894,7 +916,7 @@
         "date": "2015-09-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -902,7 +924,18 @@
         "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-09-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "THE GREAT YOGA 世界巡迴演唱會",
@@ -1299,7 +1332,7 @@
         "date": "2017-11-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -1307,7 +1340,18 @@
         "南京"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-11-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "青春住了誰 世界巡迴演唱會",
@@ -1321,7 +1365,7 @@
         "date": "2017-12-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -1329,7 +1373,18 @@
         "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-12-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "林宥嘉挽回你的心mini LIVE",
@@ -1413,7 +1468,7 @@
         "date": "2018-05-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -1421,7 +1476,18 @@
         "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-05-27",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "林宥嘉 idol 世界巡迴演唱會",
@@ -2355,7 +2421,7 @@
         "date": "2019-12-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -2363,7 +2429,18 @@
         "上海"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-12-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "XIANG YU YI YANG 線上演唱會",
@@ -2410,7 +2487,7 @@
         "date": "2022-07-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -2418,7 +2495,18 @@
         "高雄"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-07-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "顛倒世界 巡迴演唱會",
@@ -2432,7 +2520,7 @@
         "date": "2022-08-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -2440,7 +2528,18 @@
         "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-08-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "SUMMER BLUES 林家謙演唱會",
@@ -2454,7 +2553,7 @@
         "date": "2022-08-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "香港"
       ],
@@ -2462,7 +2561,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-08-27",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "原子少年2022飛向滿天星球演唱會",
@@ -2476,7 +2586,7 @@
         "date": "2022-10-08",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -2484,7 +2594,18 @@
         "高雄"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-10-08",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "JER LAU “ACROSS THE UNIVERSE” IN MY SIGHT SOLO CONCERT 2023",
@@ -2498,7 +2619,7 @@
         "date": "2023-07-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "香港"
       ],
@@ -2506,7 +2627,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-07-09",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "MDRT with Yoga Fly My Way",
@@ -2555,7 +2687,7 @@
         "date": "2024-09-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -2563,7 +2695,18 @@
         "上海"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-09-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "I Can’t Be Left Alone演唱會",
@@ -2577,7 +2720,7 @@
         "date": "2024-11-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -2585,7 +2728,18 @@
         "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-11-09",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Chace & The Aces演唱會",
@@ -2599,7 +2753,7 @@
         "date": "2025-11-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -2607,7 +2761,18 @@
         "上海"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-11-28",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Katch the Moment - TheMomentApart",

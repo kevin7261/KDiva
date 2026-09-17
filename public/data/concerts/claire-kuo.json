@@ -1,6 +1,6 @@
 {
   "slug": "claire-kuo",
-  "fetchedAt": "2026-09-17T16:42:49.615Z",
+  "fetchedAt": "2026-09-17T23:10:37.745Z",
   "wiki": "郭靜",
   "bio": {
     "born": {
@@ -24,7 +24,7 @@
         "date": "2008-06-07",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -34,7 +34,18 @@
       "venues": [
         "淡水漁人碼頭"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-06-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "淡水漁人碼頭",
+          "lat": 25.183,
+          "lon": 121.411,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "郭靜純愛音樂會-酷派之夜",
@@ -45,10 +56,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2011-11-25",
+        "date": "2011-11-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
@@ -58,7 +69,28 @@
       "venues": [
         "Legacy Taipei 傳音樂展演空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2011-11-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei 傳音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2011-11-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei 傳音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "幸福dudu好演唱會",
@@ -72,7 +104,7 @@
         "date": "2013-01-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -82,7 +114,18 @@
       "venues": [
         "Neo Studio"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2013-01-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Neo Studio",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【都市女聲】郭靜 2014豔遇音樂會",
@@ -96,7 +139,7 @@
         "date": "2014-07-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -106,55 +149,124 @@
       "venues": [
         "Legacy Taipei 傳音樂展演空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-07-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei 傳音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "咪咕音樂現場 郭靜專場",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2016-09-17",
         "precision": "day"
       },
       "end": {
-        "date": "2016-09-17",
+        "date": "2018-12-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "中國大陸"
       ],
       "cities": [
-        "成都"
+        "成都",
+        "北京",
+        "廣州"
       ],
       "venues": [
-        "世外桃源大劇院"
+        "世外桃源大劇院",
+        "糖果三層音樂廳",
+        "中央車站展演中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-09-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "世外桃源大劇院",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2016-12-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "糖果三層音樂廳",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2018-12-15",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "中央車站展演中心",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "咪咕音樂現場 郭靜“Less Is More”演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2017-06-17",
         "precision": "day"
       },
       "end": {
-        "date": "2017-06-17",
+        "date": "2017-09-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "中國大陸"
       ],
       "cities": [
-        "廣州"
+        "廣州",
+        "深圳"
       ],
       "venues": [
-        "中央車站展演中心"
+        "中央車站展演中心",
+        "蛇口大劇院"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-06-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "中央車站展演中心",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2017-09-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "蛇口大劇院",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "咪咕音樂現場花Young時光郭靜專場",
@@ -168,7 +280,7 @@
         "date": "2019-03-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -178,7 +290,18 @@
       "venues": [
         "大觀舞臺"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-03-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "大觀舞臺",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "遇見郭靜線上音樂會",
@@ -192,7 +315,7 @@
         "date": "2021-02-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "線上"
       ],
@@ -200,7 +323,15 @@
         "Yippi"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-02-27",
+          "precision": "day",
+          "region": "線上",
+          "city": "Yippi",
+          "venue": ""
+        }
+      ]
     },
     {
       "name": "AL!VE VOL 12 ft. Claire Kuo 郭靜",
@@ -214,7 +345,7 @@
         "date": "2021-11-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "新加坡"
       ],
@@ -222,7 +353,15 @@
         "Capitol Theater"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-11-13",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "Capitol Theater",
+          "venue": ""
+        }
+      ]
     },
     {
       "name": "Voice Up Concert 讚聲演唱會",
@@ -236,7 +375,7 @@
         "date": "2022-01-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -246,7 +385,18 @@
       "venues": [
         "Legacy Taipei 傳音樂展演空間"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-01-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei 傳音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "So Lucky ! 演唱會",
@@ -260,7 +410,7 @@
         "date": "2022-11-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -270,7 +420,18 @@
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-11-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "靚好時光巡迴演唱會",
@@ -281,20 +442,172 @@
         "precision": "day"
       },
       "end": {
-        "date": "2023-06-09",
+        "date": "2023-11-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 13,
       "regions": [
         "中國大陸"
       ],
       "cities": [
-        "上海"
+        "上海",
+        "杭州",
+        "天津",
+        "深圳",
+        "蘇州",
+        "上饒",
+        "武漢",
+        "長沙",
+        "廈門",
+        "廣州",
+        "成都",
+        "北京"
       ],
       "venues": [
-        "MODERN SKY LAB上海"
+        "MODERN SKY LAB上海",
+        "大麥66LiveHouse",
+        "SoFun Live",
+        "山丘livehouse紅唐店",
+        "雲谷田園生態小鎮",
+        "不晚IN TIME LIVEHOUSE（漢陽造店）",
+        "MAO Livehouse長沙（沙灣店）",
+        "WOKESHOW星巢沃克秀",
+        "大麥66LIVEHOUSE廣州",
+        "華熙LIVE·528M空間",
+        "本土王牌LIVE（北京）"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-06-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "MODERN SKY LAB上海",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2023-06-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "大麥66LiveHouse",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2023-06-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "天津",
+          "venue": "大麥66LiveHouse",
+          "lat": 39.146666666667,
+          "lon": 117.20555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2023-07-08",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "SoFun Live",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-07-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "SoFun Live",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-08-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "蘇州",
+          "venue": "山丘livehouse紅唐店",
+          "lat": 31.3,
+          "lon": 120.61944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-08-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上饒",
+          "venue": "雲谷田園生態小鎮",
+          "lat": 28.441944444444,
+          "lon": 117.96333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2023-09-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "不晚IN TIME LIVEHOUSE（漢陽造店）",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2023-09-24",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "長沙",
+          "venue": "MAO Livehouse長沙（沙灣店）",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "city"
+        },
+        {
+          "date": "2023-10-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廈門",
+          "venue": "WOKESHOW星巢沃克秀",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-10-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "大麥66LIVEHOUSE廣州",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-03",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "華熙LIVE·528M空間",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-05",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "本土王牌LIVE（北京）",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "喵喵咪呀演唱會 Miāo² Mia",
@@ -305,10 +618,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2023-08-19",
+        "date": "2023-08-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "臺灣"
       ],
@@ -318,7 +631,28 @@
       "venues": [
         "Zepp New Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-08-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新北",
+          "venue": "Zepp New Taipei",
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "city"
+        },
+        {
+          "date": "2023-08-20",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "新北",
+          "venue": "Zepp New Taipei",
+          "lat": 25.0125,
+          "lon": 121.465,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "喂？你在幹嘛演唱會（臺北場）",
@@ -332,7 +666,7 @@
         "date": "2024-03-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -342,7 +676,18 @@
       "venues": [
         "臺北流行音樂中心表演廳"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-03-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北流行音樂中心表演廳",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "郭靜 2025天亮之前巡迴演唱會",
@@ -353,20 +698,163 @@
         "precision": "day"
       },
       "end": {
-        "date": "2025-06-21",
+        "date": "2026-01-02",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 12,
       "regions": [
-        "臺灣"
+        "臺灣",
+        "中國大陸"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "廣州",
+        "高雄",
+        "成都",
+        "重慶",
+        "蘇州",
+        "南京",
+        "上海",
+        "青島",
+        "北京",
+        "武漢"
       ],
       "venues": [
-        "Legacy Taipei 傳音樂展演空間"
+        "Legacy Taipei 傳音樂展演空間",
+        "66LiveHouse廣州",
+        "Live Warehouse",
+        "華熙LIVE·528M空間",
+        "重慶重演LIVE",
+        "蘇州陽澄文體中心",
+        "南京太陽宮",
+        "回響之地Music Park",
+        "鳳凰之聲大劇院演藝廳",
+        "M空間",
+        "武漢客廳B館 中國（武漢）文化博覽中心",
+        "CH8蛙廠演藝中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-06-21",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei 傳音樂展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2025-07-26",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "66LiveHouse廣州",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2025-08-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "Live Warehouse",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2025-08-09",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "華熙LIVE·528M空間",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-13",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "重慶",
+          "venue": "重慶重演LIVE",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2025-09-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "蘇州",
+          "venue": "蘇州陽澄文體中心",
+          "lat": 31.3,
+          "lon": 120.61944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2025-10-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "南京",
+          "venue": "南京太陽宮",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2025-11-01",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "回響之地Music Park",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2025-11-07",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "青島",
+          "venue": "鳳凰之聲大劇院演藝廳",
+          "lat": 36.116666666667,
+          "lon": 120.4,
+          "geo": "city"
+        },
+        {
+          "date": "2025-11-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "M空間",
+          "lat": 39.90984,
+          "lon": 116.27474,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-12-27",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "武漢",
+          "venue": "武漢客廳B館 中國（武漢）文化博覽中心",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2026-01-02",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "CH8蛙廠演藝中心",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭靜 2026剛剛好的自己巡迴演唱會",
@@ -377,20 +865,43 @@
         "precision": "day"
       },
       "end": {
-        "date": "2026-08-29",
+        "date": "2026-09-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [
         "中國大陸"
       ],
       "cities": [
-        "上海"
+        "上海",
+        "廣州"
       ],
       "venues": [
-        "國家會展中心"
+        "國家會展中心",
+        "廣州亞運城綜合體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-08-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "國家會展中心",
+          "lat": 31.1916,
+          "lon": 121.2974,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-09-26",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州亞運城綜合體育館",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
     }
   ]
 }

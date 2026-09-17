@@ -1,6 +1,6 @@
 {
   "slug": "rainie-yang",
-  "fetchedAt": "2026-09-17T15:06:11.410Z",
+  "fetchedAt": "2026-09-17T23:10:08.813Z",
   "wiki": "楊丞琳",
   "bio": {
     "born": {
@@ -169,7 +169,7 @@
       "shows": []
     },
     {
-      "name": "南亞之門大型群星演唱會昆明站",
+      "name": "南亞之門大型群星演唱會",
       "page": null,
       "kind": "concert",
       "start": {
@@ -180,11 +180,24 @@
         "date": "2012-01-01",
         "precision": "year"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
-      "cities": [],
+      "cities": [
+        "昆明"
+      ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-01-01",
+          "precision": "year",
+          "region": "",
+          "city": "昆明",
+          "venue": "",
+          "lat": 25.043333333333,
+          "lon": 102.70611111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "為愛啟丞 世界巡迴演唱會",

@@ -186,6 +186,8 @@ export function buildModel(raw, artistConfig = {}) {
       duration: versions[0].duration,
       // 詞／曲／編曲（取自 Wikipedia）：任一版本有就用
       credits: versions.find((t) => t.credits)?.credits ?? null,
+      // 官方 MV（歌手頁「影片」架比對出來的 YouTube videoId）
+      mv: versions.find((t) => t.mv)?.mv ?? null,
       year: origin.displayYear,
       // 手動補的 YouTube 影片歌曲（song-overrides.js）
       manual: !!origin.manual,

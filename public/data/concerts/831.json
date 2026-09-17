@@ -1,0 +1,1030 @@
+{
+  "slug": "831",
+  "fetchedAt": "2026-09-17T23:10:33.265Z",
+  "wiki": "八三夭",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": {
+      "date": "2003-08-31",
+      "precision": "day"
+    },
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "LAST SHOT最後一擊演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-01-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-01-05",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺灣臺北"
+      ],
+      "venues": [
+        "臺灣臺北"
+      ],
+      "shows": [
+        {
+          "date": "2013-01-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北"
+        }
+      ]
+    },
+    {
+      "name": "ALL TOGETHER全員集合復出演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-02-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-02-22",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺灣臺北"
+      ],
+      "venues": [
+        "臺灣臺北"
+      ],
+      "shows": [
+        {
+          "date": "2014-02-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北"
+        }
+      ]
+    },
+    {
+      "name": "一事無成的偉大演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2018-09-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-10-26",
+        "precision": "day"
+      },
+      "showCount": 9,
+      "regions": [],
+      "cities": [
+        "臺灣臺北"
+      ],
+      "venues": [
+        "臺灣臺北",
+        "臺灣高雄",
+        "香港",
+        "中國大陸北京",
+        "中國大陸上海",
+        "日本東京",
+        "南韓首爾",
+        "中國大陸廈門"
+      ],
+      "shows": [
+        {
+          "date": "2018-09-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北"
+        },
+        {
+          "date": "2018-09-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北"
+        },
+        {
+          "date": "2019-03-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣高雄",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-07-24",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-08-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸北京",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-08-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸上海",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-09-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "日本東京",
+          "lat": 35.683889,
+          "lon": 139.774444,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-09-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南韓首爾",
+          "lat": 37.56,
+          "lon": 126.99,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-10-26",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸廈門",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "想見你想見你想見你 重返臺北小巨蛋萬人演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-11-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-11-23",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺灣臺北"
+      ],
+      "venues": [
+        "臺灣臺北"
+      ],
+      "shows": [
+        {
+          "date": "2019-11-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北"
+        }
+      ]
+    },
+    {
+      "name": "想見你想見你想見你 萬人生日趴",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2020-08-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2020-08-29",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺灣高雄"
+      ],
+      "venues": [
+        "臺灣高雄"
+      ],
+      "shows": [
+        {
+          "date": "2020-08-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣高雄",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "人生就是用來XX的 線上生日趴",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2021-08-28",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-08-28",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "——"
+      ],
+      "venues": [
+        "——"
+      ],
+      "shows": [
+        {
+          "date": "2021-08-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "——"
+        }
+      ]
+    },
+    {
+      "name": "想見你想見你想見你 春季巡迴",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-05-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-06-25",
+        "precision": "day"
+      },
+      "showCount": 12,
+      "regions": [],
+      "cities": [
+        "中國大陸廣州"
+      ],
+      "venues": [
+        "中國大陸廣州",
+        "中國大陸重慶",
+        "中國大陸西安",
+        "中國大陸南京",
+        "中國大陸深圳",
+        "中國大陸長沙",
+        "中國大陸廈門",
+        "中國大陸杭州",
+        "中國大陸福州",
+        "新加坡"
+      ],
+      "shows": [
+        {
+          "date": "2022-05-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸廣州",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-05-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸重慶",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-05-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸西安",
+          "lat": 34.26111111111111,
+          "lon": 108.94222222222223,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-05-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸南京",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-05-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸深圳",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-05-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸深圳",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-06-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸長沙",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-06-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸廈門",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-06-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸杭州",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-06-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸杭州",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-06-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸福州",
+          "lat": 26.076944444444,
+          "lon": 119.29166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-06-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新加坡",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "顛倒世界 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-08-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-10-25",
+        "precision": "day"
+      },
+      "showCount": 17,
+      "regions": [],
+      "cities": [
+        "臺灣臺北"
+      ],
+      "venues": [
+        "臺灣臺北",
+        "香港",
+        "澳門",
+        "臺灣高雄",
+        "馬來西亞",
+        "中國大陸北京",
+        "溫哥華",
+        "洛杉磯",
+        "紐約",
+        "多倫多",
+        "中國大陸成都",
+        "中國大陸杭州",
+        "中國大陸武漢",
+        "中國大陸廣州",
+        "中國大陸廈門",
+        "澳洲雪梨"
+      ],
+      "shows": [
+        {
+          "date": "2022-08-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-08-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-03-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-09-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳門",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-10-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣高雄",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-10-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-11-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸北京",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-02-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "溫哥華",
+          "lat": 49.26083333333333,
+          "lon": -123.1138888888889,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-02-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "洛杉磯",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-02-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "紐約",
+          "lat": 40.71277777777778,
+          "lon": -74.00611111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-02-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "多倫多",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-03-23",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸成都",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-03-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸杭州",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-04-13",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸武漢",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-04-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸廣州",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-05-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸廈門",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-10-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳洲雪梨",
+          "lat": -33.867777777777775,
+          "lon": 151.21,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "想見你想見你想見你 上海生日趴",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-09-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-09-09",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "中國大陸上海"
+      ],
+      "venues": [
+        "中國大陸上海"
+      ],
+      "shows": [
+        {
+          "date": "2023-09-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸上海",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "one love asia festival 2023",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-10-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-10-29",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "新加坡"
+      ],
+      "venues": [
+        "新加坡"
+      ],
+      "shows": [
+        {
+          "date": "2023-10-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新加坡",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "水啦水啦 2024生日趴",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2024-08-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-08-17",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺灣臺中"
+      ],
+      "venues": [
+        "臺灣臺中"
+      ],
+      "shows": [
+        {
+          "date": "2024-08-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺中",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "沒有翅膀的人 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-08-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-11-28",
+        "precision": "day"
+      },
+      "showCount": 12,
+      "regions": [],
+      "cities": [
+        "臺灣高雄"
+      ],
+      "venues": [
+        "臺灣高雄",
+        "中國大陸上海",
+        "中國大陸北京",
+        "馬來西亞雲頂",
+        "新加坡",
+        "南韓首爾",
+        "日本大阪",
+        "日本東京",
+        "臺灣臺北",
+        "中國大陸廣州",
+        "中國大陸廈門"
+      ],
+      "shows": [
+        {
+          "date": "2025-08-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣高雄",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-09-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸上海",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸北京",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-11-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞雲頂",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-12-07",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新加坡",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-07-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南韓首爾",
+          "lat": 37.56,
+          "lon": 126.99,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-07-31",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "日本大阪",
+          "lat": 34.69375,
+          "lon": 135.5021111111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-08-01",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "日本東京",
+          "lat": 35.68944444444445,
+          "lon": 139.69166666666666,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-08-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-08-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣臺北",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-09-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸廣州",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-11-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸廈門",
+          "lat": 24.479722222222,
+          "lon": 118.08194444444,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "LIVEHOUSE 春季巡迴 這是我的第一場",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2026-03-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-04-29",
+        "precision": "day"
+      },
+      "showCount": 14,
+      "regions": [],
+      "cities": [
+        "中國大陸深圳"
+      ],
+      "venues": [
+        "中國大陸深圳",
+        "中國大陸長沙",
+        "中國大陸武漢",
+        "中國大陸重慶",
+        "中國大陸成都",
+        "中國大陸寧波",
+        "中國大陸南京",
+        "中國大陸合肥",
+        "中國大陸濟南",
+        "中國大陸天津",
+        "中國大陸瀋陽",
+        "中國大陸哈爾濱"
+      ],
+      "shows": [
+        {
+          "date": "2026-03-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸深圳"
+        },
+        {
+          "date": "2026-03-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸深圳"
+        },
+        {
+          "date": "2026-03-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸長沙",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-03-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸武漢"
+        },
+        {
+          "date": "2026-03-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸武漢"
+        },
+        {
+          "date": "2026-03-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸重慶"
+        },
+        {
+          "date": "2026-03-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸成都"
+        },
+        {
+          "date": "2026-04-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸寧波"
+        },
+        {
+          "date": "2026-04-08",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸南京"
+        },
+        {
+          "date": "2026-04-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸合肥"
+        },
+        {
+          "date": "2026-04-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸濟南"
+        },
+        {
+          "date": "2026-04-16",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸天津"
+        },
+        {
+          "date": "2026-04-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸瀋陽"
+        },
+        {
+          "date": "2026-04-29",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸哈爾濱"
+        }
+      ]
+    }
+  ]
+}

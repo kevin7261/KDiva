@@ -1,6 +1,6 @@
 {
   "slug": "della-ding",
-  "fetchedAt": "2026-09-17T16:53:39.787Z",
+  "fetchedAt": "2026-09-17T23:10:41.347Z",
   "wiki": "丁噹",
   "bio": {
     "born": {
@@ -21,18 +21,145 @@
         "precision": "day"
       },
       "end": {
-        "date": "2008-08-03",
+        "date": "2022-11-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 12,
       "regions": [],
       "cities": [
         "臺灣"
       ],
       "venues": [
-        "第一場小型個人演唱會【我愛上的】"
+        "第一場小型個人演唱會【我愛上的】",
+        "第二場小型個人演唱會【夜貓】",
+        "丁噹「一半冷血一半熱情」完全LIVE演唱會",
+        "丁噹「ALOHA 愛囉哈」演唱會",
+        "丁噹超犀利趴「愛囉哈Hello!ALOHA2」演唱會",
+        "《想戀一個愛》一戀十年演唱會",
+        "丁當2022livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-08-03",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "第一場小型個人演唱會【我愛上的】",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2009-11-07",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "第二場小型個人演唱會【夜貓】",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2011-03-04",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "丁噹「一半冷血一半熱情」完全LIVE演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2011-03-06",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "丁噹「一半冷血一半熱情」完全LIVE演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2011-07-09",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "丁噹「ALOHA 愛囉哈」演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2011-07-10",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "丁噹「ALOHA 愛囉哈」演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2013-08-16",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "丁噹超犀利趴「愛囉哈Hello!ALOHA2」演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2013-08-17",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "丁噹超犀利趴「愛囉哈Hello!ALOHA2」演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2017-08-05",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "《想戀一個愛》一戀十年演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2017-08-06",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "《想戀一個愛》一戀十年演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2022-11-11",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "丁當2022livehouse巡演《當我們再一起》",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2022-11-12",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "丁當2022livehouse巡演《當我們再一起》",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "相信音樂相親相愛上海演唱會",
@@ -61,18 +188,50 @@
         "precision": "day"
       },
       "end": {
-        "date": "2009-12-25",
+        "date": "2021-12-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "中國大陸"
       ],
       "venues": [
-        "北京星光現場夜貓演唱會"
+        "北京星光現場夜貓演唱會",
+        "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-12-25",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "北京星光現場夜貓演唱會",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-10-04",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-12-11",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "Dream Girl 下一站天后演唱會 Della's 1st Live Concert",
@@ -765,18 +924,71 @@
         "precision": "day"
       },
       "end": {
-        "date": "2016-08-13",
+        "date": "2021-11-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 5,
       "regions": [],
       "cities": [
         "中國大陸"
       ],
       "venues": [
-        "《想戀一個愛》夏日情歌演唱會"
+        "《想戀一個愛》夏日情歌演唱會",
+        "丁噹2019愛到不要命巡迴演唱會",
+        "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2016-08-13",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "《想戀一個愛》夏日情歌演唱會",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2019-07-28",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁噹2019愛到不要命巡迴演唱會",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-06-11",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-11-27",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-11-28",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "第12屆KKBOX風雲榜記者會",
@@ -1291,10 +1503,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2017-11-04",
+        "date": "2017-11-05",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺灣"
@@ -1302,7 +1514,28 @@
       "venues": [
         "《想戀一個愛》一戀十年演唱會"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2017-11-04",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "《想戀一個愛》一戀十年演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        },
+        {
+          "date": "2017-11-05",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣",
+          "venue": "《想戀一個愛》一戀十年演唱會",
+          "lat": 23.766666666667,
+          "lon": 121,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "想戀一個愛一戀十年演唱會",
@@ -1316,7 +1549,7 @@
         "date": "2018-04-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "新加坡"
@@ -1324,7 +1557,18 @@
       "venues": [
         "星宇表演藝術中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-04-21",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "星宇表演藝術中心",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "吉隆坡",
@@ -1335,18 +1579,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2018-05-19",
+        "date": "2023-03-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "馬來西亞"
       ],
       "venues": [
-        "《想戀一個愛》一戀十年演唱會"
+        "《想戀一個愛》一戀十年演唱會",
+        "丁當2023livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-05-19",
+          "precision": "day",
+          "region": "",
+          "city": "馬來西亞",
+          "venue": "《想戀一個愛》一戀十年演唱會",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "city"
+        },
+        {
+          "date": "2023-03-18",
+          "precision": "day",
+          "region": "",
+          "city": "馬來西亞",
+          "venue": "丁當2023livehouse巡演《當我們再一起》",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "杭州",
@@ -1357,18 +1623,51 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-06-23",
+        "date": "2022-10-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "中國大陸"
       ],
       "venues": [
-        "丁噹2019愛到不要命巡迴演唱會"
+        "丁噹2019愛到不要命巡迴演唱會",
+        "丁當2021livehouse巡演《當我們再一起》",
+        "丁當2022livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-06-23",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁噹2019愛到不要命巡迴演唱會",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-06-06",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2022-10-04",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2022livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "重慶",
@@ -1379,18 +1678,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-06-29",
+        "date": "2021-09-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "中國大陸"
       ],
       "venues": [
-        "丁噹2019愛到不要命巡迴演唱會"
+        "丁噹2019愛到不要命巡迴演唱會",
+        "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-06-29",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁噹2019愛到不要命巡迴演唱會",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-09-19",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "武漢",
@@ -1401,18 +1722,40 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-07-26",
+        "date": "2021-05-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "中國大陸"
       ],
       "venues": [
-        "丁噹2019愛到不要命巡迴演唱會"
+        "丁噹2019愛到不要命巡迴演唱會",
+        "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-07-26",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁噹2019愛到不要命巡迴演唱會",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-05-29",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "上海",
@@ -1423,18 +1766,70 @@
         "precision": "day"
       },
       "end": {
-        "date": "2019-08-09",
+        "date": "2021-12-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 5,
       "regions": [],
       "cities": [
         "中國大陸"
       ],
       "venues": [
-        "丁噹2019愛到不要命巡迴演唱會"
+        "丁噹2019愛到不要命巡迴演唱會",
+        "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-08-09",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁噹2019愛到不要命巡迴演唱會",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-05-21",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-06-05",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-12-03",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2021-12-04",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "丁噹2019愛到不要命巡迴演唱會",
@@ -1448,7 +1843,7 @@
         "date": "2019-08-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
@@ -1456,7 +1851,18 @@
       "venues": [
         "旺角麥花臣場館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "旺角麥花臣場館",
+          "lat": 22.318,
+          "lon": 114.172,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "南京",
@@ -1467,18 +1873,50 @@
         "precision": "day"
       },
       "end": {
-        "date": "2021-05-22",
+        "date": "2022-09-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
         "中國大陸"
       ],
       "venues": [
-        "丁當2021livehouse巡演《當我們再一起》"
+        "丁當2021livehouse巡演《當我們再一起》",
+        "丁當2022livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-05-22",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2022-04-01",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2022livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2022-09-12",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2022livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "廈門",
@@ -1492,7 +1930,7 @@
         "date": "2021-06-04",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1500,7 +1938,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-06-04",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "深圳",
@@ -1514,7 +1963,7 @@
         "date": "2021-06-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1522,7 +1971,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-06-12",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "成都",
@@ -1536,7 +1996,7 @@
         "date": "2021-09-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1544,7 +2004,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-09-17",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "長沙",
@@ -1558,7 +2029,7 @@
         "date": "2021-09-25",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1566,7 +2037,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-09-25",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "西安",
@@ -1580,7 +2062,7 @@
         "date": "2021-09-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1588,7 +2070,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-09-26",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "濟南",
@@ -1602,7 +2095,7 @@
         "date": "2021-10-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1610,7 +2103,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-10-06",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "青島",
@@ -1624,7 +2128,7 @@
         "date": "2021-10-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1632,7 +2136,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-10-15",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "天津",
@@ -1646,7 +2161,7 @@
         "date": "2021-10-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1654,7 +2169,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-10-17",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "貴陽",
@@ -1668,7 +2194,7 @@
         "date": "2021-10-22",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1676,7 +2202,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-10-22",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "昆明",
@@ -1690,7 +2227,7 @@
         "date": "2021-10-24",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1698,7 +2235,18 @@
       "venues": [
         "丁當2021livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2021-10-24",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2021livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "蘇州",
@@ -1709,10 +2257,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2022-04-02",
+        "date": "2022-09-30",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "中國大陸"
@@ -1720,7 +2268,28 @@
       "venues": [
         "丁當2022livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-04-02",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2022livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        },
+        {
+          "date": "2022-09-30",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸",
+          "venue": "丁當2022livehouse巡演《當我們再一起》",
+          "lat": 36,
+          "lon": 106,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "丁當2022livehouse巡演當我們再一起",
@@ -1731,18 +2300,53 @@
         "precision": "day"
       },
       "end": {
-        "date": "2022-05-20",
+        "date": "2024-09-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [],
       "cities": [
-        "新加坡"
+        "新加坡",
+        "澳門",
+        "香港"
       ],
       "venues": [
-        "星宇表演藝術中心"
+        "星宇表演藝術中心",
+        "新濠天地 新濠演藝廳",
+        "香港·麥花臣場館 MacPherson Stadium"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-05-20",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "星宇表演藝術中心",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2023-08-26",
+          "precision": "day",
+          "region": "",
+          "city": "澳門",
+          "venue": "新濠天地 新濠演藝廳",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2024-09-21",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "香港·麥花臣場館 MacPherson Stadium",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "夜遊巡迴演唱會",
@@ -1774,7 +2378,7 @@
         "date": "2024-05-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "美國"
@@ -1782,10 +2386,21 @@
       "venues": [
         "丁當2024livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-05-11",
+          "precision": "day",
+          "region": "",
+          "city": "美國",
+          "venue": "丁當2024livehouse巡演《當我們再一起》",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "city"
+        }
+      ]
     },
     {
-      "name": "衛蘭 OUT OF FRAME 世界巡迴演唱會南寧站",
+      "name": "衛蘭 OUT OF FRAME 世界巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
@@ -1796,11 +2411,24 @@
         "date": "2025-09-06",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
-      "cities": [],
+      "cities": [
+        "南寧"
+      ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-09-06",
+          "precision": "day",
+          "region": "",
+          "city": "南寧",
+          "venue": "",
+          "lat": 22.81918,
+          "lon": 108.31501,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "古晉",
@@ -1814,7 +2442,7 @@
         "date": "2025-10-11",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "馬來西亞"
@@ -1822,7 +2450,18 @@
       "venues": [
         "丁當2025livehouse巡演《當我們再一起》"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2025-10-11",
+          "precision": "day",
+          "region": "",
+          "city": "馬來西亞",
+          "venue": "丁當2025livehouse巡演《當我們再一起》",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "丁當愛了一百萬次的我演唱會",
@@ -1836,7 +2475,7 @@
         "date": "2026-09-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "新加坡"
@@ -1844,7 +2483,18 @@
       "venues": [
         "Sands Theatre"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2026-09-18",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "Sands Theatre",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        }
+      ]
     }
   ]
 }

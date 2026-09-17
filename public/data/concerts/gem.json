@@ -1,6 +1,6 @@
 {
   "slug": "gem",
-  "fetchedAt": "2026-09-17T16:35:21.124Z",
+  "fetchedAt": "2026-09-17T23:11:05.981Z",
   "wiki": "鄧紫棋",
   "bio": {
     "born": {
@@ -24,13 +24,24 @@
         "date": "2008-11-21",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2008-11-21",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "復活節 G.E.M.奇妙音樂Party",
@@ -44,13 +55,24 @@
         "date": "2009-04-12",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-04-12",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "i.t loves G.E.M. Party迷你音樂會",
@@ -64,13 +86,24 @@
         "date": "2009-11-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-11-14",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "鐳射電器18 Live 2009 演唱會國際展貿中心－匯星",
@@ -84,13 +117,24 @@
         "date": "2009-11-20",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-11-20",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "G.E.M. 多倫多18才迷你音樂會",
@@ -104,13 +148,21 @@
         "date": "2009-12-28",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "加拿大 多倫多"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-12-28",
+          "precision": "day",
+          "region": "",
+          "city": "加拿大 多倫多",
+          "venue": ""
+        }
+      ]
     },
     {
       "name": "G.E.M. Live In Macau",
@@ -124,13 +176,24 @@
         "date": "2010-08-13",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "澳門"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-08-13",
+          "precision": "day",
+          "region": "",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "G.E.M. Get Everybody Moving 演唱會",
@@ -162,13 +225,21 @@
         "date": "2012-07-27",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "臺灣 臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-07-27",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北",
+          "venue": ""
+        }
+      ]
     },
     {
       "name": "G.E.M. X.X.X. Live 世界巡迴演唱會",
@@ -200,13 +271,24 @@
         "date": "2015-06-19",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-06-19",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "G.E.M. Queen Of Hearts 世界巡迴演唱會",
@@ -736,13 +818,24 @@
         "date": "2019-08-10",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [],
       "cities": [
         "深圳"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-08-10",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "巡演地點",

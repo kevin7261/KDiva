@@ -64,6 +64,9 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
             </span>
             <span v-else-if="t.song.alt" class="muted small">{{ t.song.alt }}</span>
             <span v-if="t.song.credits" class="muted small credits">{{ creditLines(t.song.credits).join('　') }}</span>
+            <a v-if="t.song.mv" class="mv" :href="watchUrl(t.song.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
+              <span class="mi tiny" aria-hidden="true">play_circle</span>MV
+            </a>
           </div>
           <div class="barcell" :title="`${approx ? '約 ' : ''}${formatFull(t.plays)} 次播放`">
             <div class="bar" :style="{ width: `${((t.plays ?? 0) / max) * 100}%` }" />
@@ -136,6 +139,27 @@ h2 {
 }
 .small {
   font-size: 12.5px;
+}
+/* 有官方 MV 的曲目 */
+.mv {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  margin-left: 8px;
+  padding: 1px 8px 1px 5px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  color: var(--accent-ink);
+  text-decoration: none;
+  font-size: 11.5px;
+  white-space: nowrap;
+  vertical-align: 1px;
+}
+.mv:hover {
+  background: var(--surface-2);
+}
+.mv .mi {
+  font-size: 14px;
 }
 .tracks {
   list-style: none;

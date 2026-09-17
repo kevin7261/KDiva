@@ -1,6 +1,6 @@
 {
   "slug": "princess-ai",
-  "fetchedAt": "2026-09-17T18:03:33.368Z",
+  "fetchedAt": "2026-09-17T23:09:05.610Z",
   "wiki": "戴愛玲",
   "bio": {
     "born": {
@@ -21,20 +21,55 @@
         "precision": "day"
       },
       "end": {
-        "date": "2010-07-16",
+        "date": "2010-08-14",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺東"
+        "臺東",
+        "高雄",
+        "臺北"
       ],
       "venues": [
-        "國立臺東高級商業職業學校(中興堂)"
+        "國立臺東高級商業職業學校(中興堂)",
+        "駁二藝術特區 月光劇場 (The WALL)",
+        "Y17 青少年育樂中心(10F)"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-07-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺東",
+          "venue": "國立臺東高級商業職業學校(中興堂)",
+          "lat": 22.758333333333,
+          "lon": 121.14444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2010-08-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "駁二藝術特區 月光劇場 (The WALL)",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2010-08-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Y17 青少年育樂中心(10F)",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【愛永遠】演唱會",
@@ -48,7 +83,7 @@
         "date": "2012-02-26",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -58,31 +93,85 @@
       "venues": [
         "臺北Legacy"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2012-02-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【我不離開】新歌演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2015-07-17",
         "precision": "day"
       },
       "end": {
-        "date": "2015-07-17",
+        "date": "2017-12-16",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 4,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "臺北"
+        "臺北",
+        "臺中"
       ],
       "venues": [
-        "臺北Legacy"
+        "臺北Legacy",
+        "臺中Legacy"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-07-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2015-08-01",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "臺中Legacy",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2017-11-25",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北Legacy",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2017-12-16",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "臺中Legacy",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "【我不離開】音樂分享會",
@@ -96,7 +185,7 @@
         "date": "2015-08-18",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -106,7 +195,18 @@
       "venues": [
         "北京愚公移山LiveHouse"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-08-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "北京",
+          "venue": "北京愚公移山LiveHouse",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "戴愛玲 愛戴2020演唱會",
@@ -120,7 +220,7 @@
         "date": "2020-05-23",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -130,7 +230,18 @@
       "venues": [
         "臺北國際會議中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-05-23",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北國際會議中心",
+          "lat": 25.033333,
+          "lon": 121.560556,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "【公主樂未眠】親密巡迴演唱會",
@@ -141,20 +252,55 @@
         "precision": "day"
       },
       "end": {
-        "date": "2022-03-26",
+        "date": "2022-04-09",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 3,
       "regions": [
         "臺灣"
       ],
       "cities": [
-        "高雄"
+        "高雄",
+        "臺北",
+        "臺中"
       ],
       "venues": [
-        "Backstage Live 後臺"
+        "Backstage Live 後臺",
+        "Legacy Taipei",
+        "Legacy Taichung"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2022-03-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "Backstage Live 後臺",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2022-04-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2022-04-09",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "愛爾麗集團 戴愛玲【故事的故事】巡迴演唱會",
@@ -168,7 +314,7 @@
         "date": "2023-07-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -178,7 +324,18 @@
       "venues": [
         "臺北流行音樂中心"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-07-15",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北流行音樂中心",
+          "lat": 25.0516338,
+          "lon": 121.5993892,
+          "geo": "venue"
+        }
+      ]
     },
     {
       "name": "戴愛玲故事的故事音樂會-成都場",
@@ -192,7 +349,7 @@
         "date": "2023-08-29",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "中國大陸"
       ],
@@ -202,7 +359,18 @@
       "venues": [
         "成都露天音樂公園QIAO翹音樂營地"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-08-29",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "成都",
+          "venue": "成都露天音樂公園QIAO翹音樂營地",
+          "lat": 30.66,
+          "lon": 104.06333333333333,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "戴愛玲故事的故事音樂會-新加坡場",
@@ -216,7 +384,7 @@
         "date": "2023-10-15",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "新加坡"
       ],
@@ -226,7 +394,18 @@
       "venues": [
         "10 Square"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-10-15",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "10 Square",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "戴愛玲FOREVER 21限定演唱會",
@@ -240,7 +419,7 @@
         "date": "2024-05-17",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "臺灣"
       ],
@@ -250,7 +429,18 @@
       "venues": [
         "Zepp New Taipei"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-05-17",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Zepp New Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "戴愛玲故事的故事音樂會-香港場",
@@ -264,7 +454,7 @@
         "date": "2024-12-08",
         "precision": "day"
       },
-      "showCount": null,
+      "showCount": 1,
       "regions": [
         "香港"
       ],
@@ -274,7 +464,18 @@
       "venues": [
         "東華三院東蒲胡李名靜體育館"
       ],
-      "shows": []
+      "shows": [
+        {
+          "date": "2024-12-08",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "東華三院東蒲胡李名靜體育館",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     }
   ]
 }

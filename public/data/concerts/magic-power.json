@@ -1,0 +1,1029 @@
+{
+  "slug": "magic-power",
+  "fetchedAt": "2026-09-17T23:11:30.751Z",
+  "wiki": "MP魔幻力量",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": {
+      "date": "2009-01-01",
+      "precision": "year"
+    },
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "Magic Power 魔幻力量霸佔街頭連續狂唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2010-01-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-02-28",
+        "precision": "day"
+      },
+      "showCount": 9,
+      "regions": [
+        "臺灣臺北市",
+        "臺灣新竹市",
+        "臺灣臺中市"
+      ],
+      "cities": [],
+      "venues": [
+        "臺北西門町武昌誠品",
+        "新竹新光三越",
+        "西門町河岸留言紅樓展演館",
+        "西門町 武昌誠品",
+        "天母 高島屋百貨",
+        "士林夜市",
+        "彩虹3C廣場",
+        "紐約紐約廣場",
+        "臺中中友百貨"
+      ],
+      "shows": [
+        {
+          "date": "2010-01-09",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "臺北西門町武昌誠品"
+        },
+        {
+          "date": "2010-01-17",
+          "precision": "day",
+          "region": "臺灣新竹市",
+          "city": "",
+          "venue": "新竹新光三越"
+        },
+        {
+          "date": "2010-02-05",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "西門町河岸留言紅樓展演館",
+          "lat": 25.0426,
+          "lon": 121.508,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-02-06",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "西門町 武昌誠品",
+          "lat": 25.0426,
+          "lon": 121.508,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-02-06",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "天母 高島屋百貨",
+          "lat": 25.1187072,
+          "lon": 121.5300015,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-02-06",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "士林夜市",
+          "lat": 25.0866,
+          "lon": 121.5254,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-02-07",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "彩虹3C廣場"
+        },
+        {
+          "date": "2010-02-07",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "紐約紐約廣場"
+        },
+        {
+          "date": "2010-02-28",
+          "precision": "day",
+          "region": "臺灣臺中市",
+          "city": "",
+          "venue": "臺中中友百貨"
+        }
+      ]
+    },
+    {
+      "name": "Swagger Party",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2010-03-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-03-06",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "LUXY大廳"
+      ],
+      "shows": [
+        {
+          "date": "2010-03-06",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "LUXY大廳"
+        }
+      ]
+    },
+    {
+      "name": "ROCK N MAGIC PARTY",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2010-03-13",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-03-13",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "BABE18"
+      ],
+      "shows": [
+        {
+          "date": "2010-03-13",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "BABE18"
+        }
+      ]
+    },
+    {
+      "name": "我是誰？ 我是Magic Power！",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2010-04-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-04-14",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "The Wall"
+      ],
+      "shows": [
+        {
+          "date": "2010-04-14",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "The Wall"
+        }
+      ]
+    },
+    {
+      "name": "MagicPower魔幻力量狂歡夏夜魔力派對",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2010-06-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-07-11",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "中國天津",
+        "中國北京",
+        "中國上海",
+        "中國南京"
+      ],
+      "cities": [],
+      "venues": [
+        "13CLUB",
+        "壹空間 . THE ONE CLUB",
+        "同樂坊芷江夢工廠",
+        "2010年古堡 PUB"
+      ],
+      "shows": [
+        {
+          "date": "2010-06-24",
+          "precision": "day",
+          "region": "中國天津",
+          "city": "",
+          "venue": "13CLUB"
+        },
+        {
+          "date": "2010-06-25",
+          "precision": "day",
+          "region": "中國北京",
+          "city": "",
+          "venue": "壹空間 . THE ONE CLUB"
+        },
+        {
+          "date": "2010-07-09",
+          "precision": "day",
+          "region": "中國上海",
+          "city": "",
+          "venue": "同樂坊芷江夢工廠"
+        },
+        {
+          "date": "2010-07-11",
+          "precision": "day",
+          "region": "中國南京",
+          "city": "",
+          "venue": "2010年古堡 PUB"
+        }
+      ]
+    },
+    {
+      "name": "MP魔幻力量週年慶Live巡演",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2011-01-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2011-01-15",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣 臺北市",
+        "臺灣高雄市"
+      ],
+      "cities": [],
+      "venues": [
+        "Legacy",
+        "The Wall 駁二特區"
+      ],
+      "shows": [
+        {
+          "date": "2011-01-14",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "Legacy"
+        },
+        {
+          "date": "2011-01-15",
+          "precision": "day",
+          "region": "臺灣高雄市",
+          "city": "",
+          "venue": "The Wall 駁二特區"
+        }
+      ]
+    },
+    {
+      "name": "MP魔幻力量黑白切 切兩半2in1演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2011-08-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-03-17",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣臺北市",
+        "香港"
+      ],
+      "cities": [],
+      "venues": [
+        "臺大綜合體育館",
+        "九龍灣國際展貿中心匯星（StarHall）"
+      ],
+      "shows": [
+        {
+          "date": "2011-08-20",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "臺大綜合體育館",
+          "lat": 25.0216088,
+          "lon": 121.5351757,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-03-17",
+          "precision": "day",
+          "region": "香港",
+          "city": "",
+          "venue": "九龍灣國際展貿中心匯星（StarHall）",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "滾石三十週年演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2011-10-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-11-17",
+        "precision": "day"
+      },
+      "showCount": 9,
+      "regions": [],
+      "cities": [
+        "上海梅賽德斯-奔馳文化中心"
+      ],
+      "venues": [
+        "上海梅賽德斯-奔馳文化中心",
+        "杭州黃龍體育場",
+        "成都市體育中心",
+        "陝西上實城開體育場",
+        "武漢體育中心",
+        "南京奧林匹克體育中心",
+        "重慶奧林匹克體育中心"
+      ],
+      "shows": [
+        {
+          "date": "2011-10-05",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海梅賽德斯-奔馳文化中心",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2011-10-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海梅賽德斯-奔馳文化中心",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2011-10-07",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "上海梅賽德斯-奔馳文化中心",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-07-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "杭州黃龍體育場",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-07-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "成都市體育中心",
+          "lat": 30.66555556,
+          "lon": 104.06472222,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-08-11",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "陝西上實城開體育場",
+          "lat": 34.233889,
+          "lon": 108.9375,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-10-02",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "武漢體育中心",
+          "lat": 30.502313,
+          "lon": 114.166253,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-11-10",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "南京奧林匹克體育中心",
+          "lat": 32.010642,
+          "lon": 118.7197,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-11-17",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "重慶奧林匹克體育中心",
+          "lat": 29.528723,
+          "lon": 106.502109,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "MP魔幻力量 不按牌理出牌演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2011-10-08",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-08-24",
+        "precision": "day"
+      },
+      "showCount": 7,
+      "regions": [
+        "中國上海",
+        "香港",
+        "中國杭州",
+        "中國北京",
+        "中國南京",
+        "臺灣 臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "Mao Live house",
+        "西九龍中心8樓溜冰場",
+        "CLUB IN BASE 根據地酒吧3號店",
+        "13CLUB",
+        "鼓樓區漢口西路61號61House",
+        "麻雀瓦舍",
+        "Legacy"
+      ],
+      "shows": [
+        {
+          "date": "2011-10-08",
+          "precision": "day",
+          "region": "中國上海",
+          "city": "",
+          "venue": "Mao Live house"
+        },
+        {
+          "date": "2011-12-01",
+          "precision": "day",
+          "region": "香港",
+          "city": "",
+          "venue": "西九龍中心8樓溜冰場"
+        },
+        {
+          "date": "2011-12-04",
+          "precision": "day",
+          "region": "中國杭州",
+          "city": "",
+          "venue": "CLUB IN BASE 根據地酒吧3號店"
+        },
+        {
+          "date": "2011-12-14",
+          "precision": "day",
+          "region": "中國北京",
+          "city": "",
+          "venue": "13CLUB"
+        },
+        {
+          "date": "2012-04-15",
+          "precision": "day",
+          "region": "中國南京",
+          "city": "",
+          "venue": "鼓樓區漢口西路61號61House"
+        },
+        {
+          "date": "2012-06-24",
+          "precision": "day",
+          "region": "中國北京",
+          "city": "",
+          "venue": "麻雀瓦舍"
+        },
+        {
+          "date": "2012-08-24",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "Legacy"
+        }
+      ]
+    },
+    {
+      "name": "MP第二週年演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2012-01-28",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-01-28",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣 臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "Legacy"
+      ],
+      "shows": [
+        {
+          "date": "2012-01-28",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "Legacy"
+        }
+      ]
+    },
+    {
+      "name": "神魔人世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2012-02-18",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-11-03",
+        "precision": "day"
+      },
+      "showCount": 5,
+      "regions": [],
+      "cities": [
+        "香港紅磡體育館"
+      ],
+      "venues": [
+        "香港紅磡體育館",
+        "澳門金光綜藝館",
+        "馬來西亞雲頂雲星劇場",
+        "印尼-Sky Convention Hall"
+      ],
+      "shows": [
+        {
+          "date": "2012-02-18",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港紅磡體育館",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-02-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港紅磡體育館",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-07-07",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳門金光綜藝館",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-10-12",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞雲頂雲星劇場",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2012-11-03",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "印尼-Sky Convention Hall",
+          "lat": -2,
+          "lon": 118,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "K歌馬拉松演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2012-04-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2012-04-21",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "臺北Legacy"
+      ],
+      "venues": [
+        "臺北Legacy"
+      ],
+      "shows": [
+        {
+          "date": "2012-04-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北Legacy"
+        },
+        {
+          "date": "2012-04-21",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北Legacy"
+        }
+      ]
+    },
+    {
+      "name": "MP魔幻力量射手演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2012-12-25",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-10-19",
+        "precision": "day"
+      },
+      "showCount": 10,
+      "regions": [
+        "臺灣 臺北市",
+        "中國上海",
+        "臺灣 高雄市",
+        "臺灣 臺中市",
+        "中國 南京",
+        "中國 北京",
+        "中國 杭州",
+        "中國 武漢",
+        "香港",
+        "新加坡"
+      ],
+      "cities": [],
+      "venues": [
+        "Legacy",
+        "Mao Live house",
+        "THE WALL駁二",
+        "臺中TADA方舟",
+        "61 HOUSE",
+        "酒球會",
+        "VOX LIVE HOUSE",
+        "九龍灣國際展貿中心 Music Zone@ E-Max",
+        "新加坡HARD ROCK 酒店 新加坡聖淘沙名勝世界"
+      ],
+      "shows": [
+        {
+          "date": "2012-12-25",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "Legacy"
+        },
+        {
+          "date": "2013-03-13",
+          "precision": "day",
+          "region": "中國上海",
+          "city": "",
+          "venue": "Mao Live house"
+        },
+        {
+          "date": "2013-03-17",
+          "precision": "day",
+          "region": "臺灣 高雄市",
+          "city": "",
+          "venue": "THE WALL駁二"
+        },
+        {
+          "date": "2013-04-14",
+          "precision": "day",
+          "region": "臺灣 臺中市",
+          "city": "",
+          "venue": "臺中TADA方舟"
+        },
+        {
+          "date": "2013-04-28",
+          "precision": "day",
+          "region": "中國 南京",
+          "city": "",
+          "venue": "61 HOUSE"
+        },
+        {
+          "date": "2013-05-19",
+          "precision": "day",
+          "region": "中國 北京",
+          "city": "",
+          "venue": "Mao Live house"
+        },
+        {
+          "date": "2013-07-12",
+          "precision": "day",
+          "region": "中國 杭州",
+          "city": "",
+          "venue": "酒球會"
+        },
+        {
+          "date": "2013-07-13",
+          "precision": "day",
+          "region": "中國 武漢",
+          "city": "",
+          "venue": "VOX LIVE HOUSE"
+        },
+        {
+          "date": "2013-09-07",
+          "precision": "day",
+          "region": "香港",
+          "city": "",
+          "venue": "九龍灣國際展貿中心 Music Zone@ E-Max",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-10-19",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "",
+          "venue": "新加坡HARD ROCK 酒店 新加坡聖淘沙名勝世界"
+        }
+      ]
+    },
+    {
+      "name": "Legacy presents: 【快樂生日系列】任賢齊 變裝生日趴",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-06-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-06-09",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺北Legacy"
+      ],
+      "venues": [
+        "臺北Legacy"
+      ],
+      "shows": [
+        {
+          "date": "2013-06-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北Legacy"
+        }
+      ]
+    },
+    {
+      "name": "MP魔幻力量 〔神射手〕萬箭齊發旗艦版 演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2013-06-29",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-06-29",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣 臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "臺大綜合體育館"
+      ],
+      "shows": [
+        {
+          "date": "2013-06-29",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "臺大綜合體育館",
+          "lat": 25.0216088,
+          "lon": 121.5351757,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "MP魔幻力量 蓄4待發週年演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-02-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-03-22",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "臺灣臺北市",
+        "臺灣臺中市",
+        "臺灣高雄市"
+      ],
+      "cities": [],
+      "venues": [
+        "華山legacy taipei 傳音樂展演空間",
+        "TADA方舟音樂藝文展演空間",
+        "駁二藝術特區The Wall"
+      ],
+      "shows": [
+        {
+          "date": "2014-02-23",
+          "precision": "day",
+          "region": "臺灣臺北市",
+          "city": "",
+          "venue": "華山legacy taipei 傳音樂展演空間"
+        },
+        {
+          "date": "2014-03-01",
+          "precision": "day",
+          "region": "臺灣臺中市",
+          "city": "",
+          "venue": "TADA方舟音樂藝文展演空間"
+        },
+        {
+          "date": "2014-03-22",
+          "precision": "day",
+          "region": "臺灣高雄市",
+          "city": "",
+          "venue": "駁二藝術特區The Wall"
+        }
+      ]
+    },
+    {
+      "name": "MP魔幻力量 戰神FIGHTING FOR LOVE演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2014-10-31",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-10-31",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "香港"
+      ],
+      "cities": [],
+      "venues": [
+        "九龍灣國際展貿中心 Music Zone@ E-Max"
+      ],
+      "shows": [
+        {
+          "date": "2014-10-31",
+          "precision": "day",
+          "region": "香港",
+          "city": "",
+          "venue": "九龍灣國際展貿中心 Music Zone@ E-Max",
+          "lat": 22.3239,
+          "lon": 114.204,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "MP魔幻力量我們的主場 OURS' MP 演唱會 Live",
+      "page": "我們的主場演唱會",
+      "kind": "concert",
+      "start": {
+        "date": "2014-12-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2014-12-20",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣 臺北市"
+      ],
+      "cities": [],
+      "venues": [
+        "臺北小巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2014-12-20",
+          "precision": "day",
+          "region": "臺灣 臺北市",
+          "city": "",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "MP魔幻力量THIS IS MAGIC POWER！～THE 1st JAPAN TOUR 2015～演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2015-11-27",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2015-11-29",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "日本大阪",
+        "日本東京"
+      ],
+      "cities": [],
+      "venues": [
+        "MUSE",
+        "原宿ASTRO HALL"
+      ],
+      "shows": [
+        {
+          "date": "2015-11-27",
+          "precision": "day",
+          "region": "日本大阪",
+          "city": "",
+          "venue": "MUSE"
+        },
+        {
+          "date": "2015-11-29",
+          "precision": "day",
+          "region": "日本東京",
+          "city": "",
+          "venue": "原宿ASTRO HALL"
+        }
+      ]
+    }
+  ]
+}
