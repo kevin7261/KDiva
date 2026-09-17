@@ -1,6 +1,6 @@
 <script setup>
 // 換歌手的對話框：213 位歌手排不進標題列，改成點按鈕打開，依華語／台語 × 男女團體分六區列出。
-// 打字可搜尋中文名、英文名與網址代稱（已是羅馬拼音）；Esc 或點背景關閉。
+// 打字可搜尋中文名、英文名、別名（本名／舊藝名）與網址代稱（已是羅馬拼音）；Esc 或點背景關閉。
 import { computed, nextTick, onBeforeUnmount, onMounted, ref } from 'vue'
 import { RouterLink } from 'vue-router'
 import { GROUPS, artistsIn } from '../artists.js'
@@ -16,7 +16,7 @@ const sections = computed(() => {
   const key = norm(q.value)
   return GROUPS.map((g) => ({
     ...g,
-    artists: artistsIn(g.key).filter((a) => !key || norm(a.name).includes(key) || norm(a.en).includes(key) || norm(a.slug).includes(key)),
+    artists: artistsIn(g.key).filter((a) => !key || [a.name, a.en, a.slug, ...(a.aliases ?? [])].some((v) => norm(v).includes(key))),
   })).filter((g) => g.artists.length)
 })
 const total = computed(() => sections.value.reduce((n, g) => n + g.artists.length, 0))
