@@ -120,6 +120,36 @@ async function fromWikidata(qid) {
   }))
 }
 
+/** Wikidata 的詞曲：演出者是這位歌手的作品，取「作詞者」(P676)、「作曲者」(P86)、「編曲者」(P1990) */
+async function creditsFromWikidata(qid) {
+  const query = `SELECT ?item ?label ?alias ?lyrLabel ?compLabel ?arrLabel WHERE {
+    ?item wdt:P175 wd:${qid}.
+    { ?item wdt:P676 ?lyr } UNION { ?item wdt:P86 ?comp } UNION { ?item wdt:P1990 ?arr }
+    OPTIONAL { ?item rdfs:label ?label FILTER(LANG(?label) IN ("zh-tw","zh-hant","zh","zh-hans")) }
+    OPTIONAL { ?item skos:altLabel ?alias FILTER(LANG(?alias) IN ("zh-tw","zh-hant","zh")) }
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "zh-hant,zh,zh-hans,en". }
+  }`
+  const json = await getJson(`https://query.wikidata.org/sparql?format=json&query=${encodeURIComponent(query)}`)
+  const items = new Map()
+  for (const row of json.results?.bindings ?? []) {
+    const id = row.item.value
+    if (!items.has(id)) items.set(id, { titles: new Set(), lyrics: new Set(), music: new Set(), arranger: new Set() })
+    const it = items.get(id)
+    if (row.label) it.titles.add(row.label.value)
+    if (row.alias) it.titles.add(row.alias.value)
+    if (row.lyrLabel) it.lyrics.add(row.lyrLabel.value)
+    if (row.compLabel) it.music.add(row.compLabel.value)
+    if (row.arrLabel) it.arranger.add(row.arrLabel.value)
+  }
+  const join = (set) => [...set].map((x) => nameToTW(x)).join('、')
+  return [...items.values()]
+    .filter((it) => it.titles.size)
+    .flatMap((it) =>
+      [...it.titles].map((title) => ({ title: nameToTW(title), lyrics: join(it.lyrics), music: join(it.music), arranger: join(it.arranger) })),
+    )
+    .filter((c) => c.lyrics || c.music || c.arranger)
+}
+
 // ---------- 來源 1、2、4、5：Wikipedia ----------
 
 const pad = (n) => String(n).padStart(2, '0')
@@ -332,8 +362,18 @@ export const nameToTW = (s) => {
   return toTW(masked).replace(/\uE000/g, () => kept.shift())
 }
 
+// 詞曲欄位裡的說明文字（「中島美雪，原曲由中島美雪演唱《波の上》」）只留人名
+const stripNote = (s) =>
+  s
+    .split(/\s*[，,]\s*/)
+    .filter((part) => !/原曲|翻唱|改編|改编|演唱|唱片|專輯|专辑|版本|同名|主唱/.test(part))
+    .join('、')
+    .replace(/[（(][^）)]*[）)]/g, (m) => (/編曲|编曲|作詞|作词|作曲|弦樂|弦乐/.test(m) ? m : ''))
+    .replace(/《[^》]*》/g, '')
+    .trim()
+
 const cleanCredit = (text) =>
-  nameToTW(toPlain(String(text)))
+  stripNote(nameToTW(toPlain(String(text))))
     .split(/\n+/)
     .map((s) => s.trim())
     .filter(Boolean)
@@ -458,8 +498,8 @@ export function parseCredits(wikitext) {
   const out = []
   for (const m of wikitext.matchAll(/\{\{\s*(?:Tracklist|Track listing)\b/gi)) {
     const params = {}
-    // 參數以行首的「|」分隔；值裡的模板、連結可能含「|」，所以只切行首
-    for (const part of templateBody(wikitext, m.index).split(/\n\s*\|/).slice(1)) {
+    // 參數以「|」分隔：行首的，或同一行裡「 |關鍵字 =」這種（值裡的模板、連結也有「|」，所以要限定後面接參數名）
+    for (const part of templateBody(wikitext, m.index).split(/\n\s*\||\s\|(?=\s*[A-Za-z_][\w ]*\s*=)/).slice(1)) {
       const kv = part.match(/^\s*([\w ]+?)\s*=([\s\S]*)$/)
       if (kv) params[kv[1].toLowerCase()] = kv[2].trim()
     }
@@ -594,6 +634,12 @@ async function fromWikipedia(pageTitle, albumKeys, artistKeys, log, albumPinyin 
     }
   }
 
+  // 歌手條目與作品列表頁裡有「作詞／作曲／編曲」欄的曲目表，也是詞曲來源
+  for (const { title, content } of pages) {
+    const credits = parseCredits(content)
+    if (credits.length) entries.push({ titles: [], date: '1900-01-01', precision: 'year', source: 'page-credits', page: title, credits })
+  }
+
   const albumPages = await fetchPages([...linkTargets.keys()])
   let fromPages = 0
   for (const { title, content } of albumPages) {
@@ -625,6 +671,18 @@ export async function fetchReleaseCatalog(artistConfig, albums, log = () => {}) 
     }
   }
   log(`  Wikidata：${wd.length} 筆`)
+  // Wikidata 的詞曲（獨立於 Wikipedia 條目，可補上沒有專輯條目的歌）
+  if (qid) {
+    try {
+      const credits = await creditsFromWikidata(qid)
+      if (credits.length) {
+        wp.push({ titles: [], date: '1900-01-01', precision: 'year', source: 'page-credits', page: 'Wikidata', credits })
+        log(`  Wikidata 詞曲：${credits.length} 筆`)
+      }
+    } catch (err) {
+      log(`  Wikidata 詞曲查詢失敗：${err.message}`)
+    }
+  }
   return [...wp, ...wd].map((e) => ({
     ...e,
     keys: e.titles.map((t) => stripArtist(normalizeTitle(t), artistKeys)).filter(Boolean),
@@ -758,8 +816,9 @@ function stripArtist(key, artistKeys) {
 }
 
 const PRECISION_RANK = { day: 0, month: 1, year: 2 }
-const SOURCE_RANK = { manual: -1, 'album-page': 0, 'search-page': 0, table: 1, wikidata: 2, list: 3, prose: 4, 'song-table': 5 }
-const THRESHOLD = { 'album-page': 0.8, 'search-page': 0.8, table: 0.85, wikidata: 0.72, list: 0.9, prose: 0.9, 'song-table': 0.9 }
+const SOURCE_RANK = { manual: -1, 'album-page': 0, 'search-page': 0, table: 1, wikidata: 2, list: 3, prose: 4, 'song-table': 5, 'page-credits': 9 }
+// page-credits 只提供詞曲，不拿來配發行日期（門檻設成不可能達到）
+const THRESHOLD = { 'album-page': 0.8, 'search-page': 0.8, table: 0.85, wikidata: 0.72, list: 0.9, prose: 0.9, 'song-table': 0.9, 'page-credits': 2 }
 
 // 現場版、混音版等衍生發行不能沿用原專輯／原曲的日期
 const VARIANT_RE = /live|remix|first ?take|acoustic|演唱會|演唱会|實錄|实录|現場|现场|混音/i
