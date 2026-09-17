@@ -146,7 +146,9 @@
       "releaseDate": "2008-06-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "神秘嘉賓"
+      "wikiTitle": "神秘嘉賓",
+      "wikiKind": "studio",
+      "nameKey": "神秘嘉賓"
     },
     {
       "browseId": "MPREb_g2hGY8fVcuk",
@@ -282,7 +284,9 @@
       "releaseDate": "2009-05-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "林宥嘉專輯列表"
+      "wikiTitle": "林宥嘉專輯列表",
+      "wikiKind": "live",
+      "nameKey": "香港迷宮演唱會數位精選特輯"
     },
     {
       "browseId": "MPREb_dsvnP83bc1N",
@@ -418,7 +422,9 @@
       "releaseDate": "2009-10-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "感官世界 (林宥嘉專輯)"
+      "wikiTitle": "感官世界 (林宥嘉專輯)",
+      "wikiKind": null,
+      "nameKey": "感官世界"
     },
     {
       "browseId": "MPREb_jUcGy0iTyDY",
@@ -543,7 +549,9 @@
       "releaseDate": "2010-06-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "林宥嘉專輯列表"
+      "wikiTitle": "林宥嘉專輯列表",
+      "wikiKind": "live",
+      "nameKey": "感官世界音樂會live精選"
     },
     {
       "browseId": "MPREb_lefOGbHK3U7",
@@ -679,7 +687,9 @@
       "releaseDate": "2011-05-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "美妙生活"
+      "wikiTitle": "美妙生活",
+      "wikiKind": null,
+      "nameKey": "美妙生活"
     },
     {
       "browseId": "MPREb_WypucLGnkg2",
@@ -858,8 +868,10 @@
       ],
       "releaseDate": "2012-06-22",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "大小說家"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "大小說家",
+      "wikiKind": null,
+      "nameKey": "大小說家"
     },
     {
       "browseId": "MPREb_uxUelparpJx",
@@ -1049,8 +1061,10 @@
       ],
       "releaseDate": "2013-02-05",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "Jazz Channel"
+      "releaseDateSource": "table",
+      "wikiTitle": "林宥嘉專輯列表",
+      "wikiKind": "live",
+      "nameKey": "jazzchannel"
     },
     {
       "browseId": "MPREb_yeB3fJd3b1w",
@@ -1483,7 +1497,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "神遊世界巡迴演唱會臺北旗鑑場"
     },
     {
       "browseId": "MPREb_nx26utABdlT",
@@ -1521,7 +1537,9 @@
       "releaseDate": "2014-05-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "口的形狀"
+      "wikiTitle": "口的形狀",
+      "wikiKind": "single",
+      "nameKey": "口的形狀"
     },
     {
       "browseId": "MPREb_UM7WXSTYCxz",
@@ -1679,7 +1697,9 @@
       "releaseDate": "2016-06-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "今日營業中"
+      "wikiTitle": "今日營業中",
+      "wikiKind": null,
+      "nameKey": "今日營業中"
     },
     {
       "browseId": "MPREb_afmoBsx0hKH",
@@ -1705,7 +1725,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "全世界誰傾聽你"
     },
     {
       "browseId": "MPREb_Xc4ucE7xNMm",
@@ -1732,7 +1754,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "巨人的肩膀"
     },
     {
       "browseId": "MPREb_FqExdOJ9ujS",
@@ -1758,7 +1782,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "新預感"
     },
     {
       "browseId": "MPREb_7u7MioPUKFM",
@@ -2026,7 +2052,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "有時thegreatyoga有時口的形狀林宥嘉演唱會自選livecd"
     },
     {
       "browseId": "MPREb_ULeAao5n83j",
@@ -2052,7 +2080,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "船"
     },
     {
       "browseId": "MPREb_dEGoDS7NKbc",
@@ -2243,7 +2273,9 @@
       "releaseDate": "2018-06-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "THE GREAT YOGA 世界巡迴演唱會"
+      "wikiTitle": "THE GREAT YOGA 世界巡迴演唱會",
+      "wikiKind": "live",
+      "nameKey": "thegreatyoga世界巡迴演唱會live精選"
     },
     {
       "browseId": "MPREb_ItsEIy8Mzep",
@@ -2269,7 +2301,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "火焰小溪"
     },
     {
       "browseId": "MPREb_cKt2w5rwpYM",
@@ -2296,7 +2330,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "脆弱一分鐘"
     },
     {
       "browseId": "MPREb_KKjgadIIlaB",
@@ -2322,7 +2358,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "別讓我走遠"
     },
     {
       "browseId": "MPREb_wpL2DGORfRm",
@@ -2348,7 +2386,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "少女"
     },
     {
       "browseId": "MPREb_7DLRZPkKmzX",
@@ -2374,7 +2414,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "追尋年少的光"
     },
     {
       "browseId": "MPREb_6l85ehGXzNX",
@@ -2400,7 +2442,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "完"
     },
     {
       "browseId": "MPREb_Lp5q2rc6FUS",
@@ -2426,7 +2470,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "垃圾寶貝garbagebaby"
     },
     {
       "browseId": "MPREb_Mq5Dj7NOr3H",
@@ -2452,7 +2498,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我不是神我只是平凡卻直拗愛著你的人"
     },
     {
       "browseId": "MPREb_vJ1NJpTOOug",
@@ -2478,7 +2526,9 @@
       "releaseDate": "2024-08-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "林宥嘉"
+      "wikiTitle": "林宥嘉",
+      "wikiKind": null,
+      "nameKey": "神愛世人"
     },
     {
       "browseId": "MPREb_uW1fvUt7CfG",
@@ -2703,7 +2753,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "xiangyuyiyang線上演唱會"
     },
     {
       "browseId": "MPREb_MmRkx0OjIdc",
@@ -2894,7 +2946,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "王"
     },
     {
       "browseId": "MPREb_r9vvNerLfO8",
@@ -3140,7 +3194,9 @@
       "releaseDate": "2025-07-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Apples of Thy Eye"
+      "wikiTitle": "Apples of Thy Eye",
+      "wikiKind": "studio",
+      "nameKey": "applesofthyeye"
     },
     {
       "browseId": "MPREb_IxbRcuOXnaq",
@@ -3166,7 +3222,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "寫未來的日記"
     },
     {
       "browseId": "MPREb_g3hyW6bndiY",
@@ -3192,7 +3250,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "怪情歌"
     },
     {
       "browseId": "MPREb_ZXK8YJSaZJU",
@@ -3218,7 +3278,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "打空氣的拳擊手"
     },
     {
       "browseId": "MPREb_lyX3gElj7lu",
@@ -3244,7 +3306,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "捉夢大師"
     },
     {
       "browseId": "MPREb_sD6145wrClT",
@@ -3270,7 +3334,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "新郞"
     },
     {
       "browseId": "MPREb_vZcRnOZyWSA",
@@ -3296,7 +3362,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "歌迷"
     },
     {
       "browseId": "MPREb_strP2Q9xih2",
@@ -3322,7 +3390,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "討罵的直到今天還是不願對你說髒話"
     },
     {
       "browseId": "MPREb_nhjCXjwBk40",
@@ -3348,7 +3418,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "鬼屋"
     }
   ]
 }

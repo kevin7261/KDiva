@@ -135,7 +135,9 @@
       "releaseDate": "2001-09-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "女生宿舍 (專輯)"
+      "wikiTitle": "女生宿舍 (專輯)",
+      "wikiKind": null,
+      "nameKey": "女生宿舍"
     },
     {
       "browseId": "MPREb_7NJDs47CAXr",
@@ -260,7 +262,9 @@
       "releaseDate": "2002-01-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "青春株式會社"
+      "wikiTitle": "青春株式會社",
+      "wikiKind": null,
+      "nameKey": "青春株式會社"
     },
     {
       "browseId": "MPREb_PmXjOqwGeem",
@@ -302,8 +306,8 @@
           "playsText": "701K plays",
           "duration": 200,
           "byOther": false,
-          "titleZh": "統一多果汁廣告",
-          "nameKey": "統一多果汁廣告"
+          "nameKey": "統一多果汁廣告",
+          "titleZh": "統一多果汁廣告"
         },
         {
           "index": 4,
@@ -386,7 +390,9 @@
       "releaseDate": "2002-08-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "美麗新世界 (專輯)"
+      "wikiTitle": "美麗新世界 (專輯)",
+      "wikiKind": null,
+      "nameKey": "美麗新世界"
     },
     {
       "browseId": "MPREb_PcjEBRJQgaT",
@@ -577,7 +583,9 @@
       "releaseDate": "2003-01-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Together 新歌+精選"
+      "wikiTitle": "Together 新歌+精選",
+      "wikiKind": "compilation",
+      "nameKey": "together新歌精選"
     },
     {
       "browseId": "MPREb_TOrLsXBbH3L",
@@ -597,8 +605,8 @@
           "playsText": "25M plays",
           "duration": 197,
           "byOther": false,
-          "titleZh": "Super Star (專輯)",
-          "nameKey": "superstar"
+          "nameKey": "superstar",
+          "titleZh": "Super Star (專輯)"
         },
         {
           "index": 2,
@@ -704,7 +712,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Super Star (專輯)",
-      "titleZh": "Super Star (專輯)"
+      "wikiKind": null,
+      "titleZh": "Super Star (專輯)",
+      "nameKey": "superstar"
     },
     {
       "browseId": "MPREb_NWuBzzXSRZe",
@@ -829,7 +839,9 @@
       "releaseDate": "2004-02-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "奇幻旅程"
+      "wikiTitle": "奇幻旅程",
+      "wikiKind": null,
+      "nameKey": "奇幻旅程"
     },
     {
       "browseId": "MPREb_S69NvwLzIwp",
@@ -954,7 +966,9 @@
       "releaseDate": "2004-11-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "安可！！"
+      "wikiTitle": "安可！！",
+      "wikiKind": null,
+      "nameKey": "encore安可"
     },
     {
       "browseId": "MPREb_0ObMO76VsLg",
@@ -1414,8 +1428,8 @@
           "playsText": "1.5K plays",
           "duration": 29,
           "byOther": false,
-          "titleZh": "Encore (專輯)",
-          "nameKey": "encore"
+          "nameKey": "encore",
+          "titleZh": "Encore (專輯)"
         },
         {
           "index": 42,
@@ -1426,8 +1440,8 @@
           "playsText": "5.2K plays",
           "duration": 198,
           "byOther": false,
-          "titleZh": "Super Star (專輯)",
-          "nameKey": "superstar"
+          "nameKey": "superstar",
+          "titleZh": "Super Star (專輯)"
         },
         {
           "index": 43,
@@ -1455,7 +1469,9 @@
       "releaseDate": "2005-01-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "奇幻樂園演唱會 (專輯)"
+      "wikiTitle": "奇幻樂園演唱會 (專輯)",
+      "wikiKind": "live",
+      "nameKey": "奇幻樂園演唱會"
     },
     {
       "browseId": "MPREb_nXK3QLcyzDG",
@@ -1580,7 +1596,9 @@
       "releaseDate": "2005-11-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "不想長大"
+      "wikiTitle": "不想長大",
+      "wikiKind": null,
+      "nameKey": "不想長大"
     },
     {
       "browseId": "MPREb_vawUeKsp9zT",
@@ -1655,8 +1673,8 @@
           "playsText": "25M plays",
           "duration": 195,
           "byOther": false,
-          "titleZh": "Super Star (專輯)",
-          "nameKey": "superstar"
+          "nameKey": "superstar",
+          "titleZh": "Super Star (專輯)"
         },
         {
           "index": 7,
@@ -1794,7 +1812,9 @@
       "releaseDate": "2006-07-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Forever 新歌+精選"
+      "wikiTitle": "Forever 新歌+精選",
+      "wikiKind": "compilation",
+      "nameKey": "forever新歌精選"
     },
     {
       "browseId": "MPREb_fzp5WNNRZLL",
@@ -2210,8 +2230,8 @@
           "playsText": "80K plays",
           "duration": 192,
           "byOther": false,
-          "titleZh": "Super Star (專輯)",
-          "nameKey": "superstar"
+          "nameKey": "superstar",
+          "titleZh": "Super Star (專輯)"
         },
         {
           "index": 38,
@@ -2228,7 +2248,9 @@
       "releaseDate": "2006-12-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "移動城堡演唱會Live@H.K.紅磡體育館"
+      "wikiTitle": "移動城堡演唱會Live@H.K.紅磡體育館",
+      "wikiKind": "live",
+      "nameKey": "移動城堡演唱會"
     },
     {
       "browseId": "MPREb_eY9LMErs6GT",
@@ -2303,8 +2325,8 @@
           "playsText": "1.1M plays",
           "duration": 207,
           "byOther": false,
-          "titleZh": "獨唱情歌 MV",
-          "nameKey": "獨唱情歌mv"
+          "nameKey": "獨唱情歌mv",
+          "titleZh": "獨唱情歌 MV"
         },
         {
           "index": 7,
@@ -2365,7 +2387,9 @@
       "releaseDate": "2007-05-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Play (S.H.E專輯)"
+      "wikiTitle": "Play (S.H.E專輯)",
+      "wikiKind": null,
+      "nameKey": "play"
     },
     {
       "browseId": "MPREb_PFLL38GqN6P",
@@ -2545,7 +2569,9 @@
       "releaseDate": "2008-09-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "S.H.E音樂作品列表"
+      "wikiTitle": "S.H.E音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "我的電臺fmshe"
     },
     {
       "browseId": "MPREb_uGVYUuUVlyK",
@@ -2582,7 +2608,9 @@
       "releaseDate": "2009-07-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "S.H.E影視作品列表"
+      "wikiTitle": "S.H.E影視作品列表",
+      "wikiKind": null,
+      "nameKey": "愛的3溫暖"
     },
     {
       "browseId": "MPREb_UBQCIBMGhqY",
@@ -2602,8 +2630,8 @@
           "playsText": "8.1M plays",
           "duration": 192,
           "byOther": false,
-          "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)",
-          "nameKey": "shero"
+          "nameKey": "shero",
+          "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)"
         },
         {
           "index": 2,
@@ -2709,7 +2737,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "SHERO",
-      "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)"
+      "wikiKind": "studio",
+      "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)",
+      "nameKey": "shero"
     },
     {
       "browseId": "MPREb_2AdovkaafG2",
@@ -2729,8 +2759,8 @@
           "playsText": "81K plays",
           "duration": 186,
           "byOther": false,
-          "titleZh": "Super Star (專輯)",
-          "nameKey": "superstar"
+          "nameKey": "superstar",
+          "titleZh": "Super Star (專輯)"
         },
         {
           "index": 2,
@@ -3148,14 +3178,16 @@
           "playsText": "93K plays",
           "duration": 298,
           "byOther": false,
-          "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)",
-          "nameKey": "shero"
+          "nameKey": "shero",
+          "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)"
         }
       ],
       "releaseDate": "2011-04-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "S.H.E音樂作品列表"
+      "wikiTitle": "S.H.E音樂作品列表",
+      "wikiKind": "live",
+      "nameKey": "愛而為一演唱會"
     },
     {
       "browseId": "MPREb_nRzNv52oljB",
@@ -3280,7 +3312,9 @@
       "releaseDate": "2012-11-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "花又開好了"
+      "wikiTitle": "花又開好了",
+      "wikiKind": "studio",
+      "nameKey": "花又開好了"
     },
     {
       "browseId": "MPREb_TX8RKacn8Uo",
@@ -3300,8 +3334,8 @@
           "playsText": "48K plays",
           "duration": 212,
           "byOther": false,
-          "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)",
-          "nameKey": "shero"
+          "nameKey": "shero",
+          "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)"
         },
         {
           "index": 2,
@@ -3620,8 +3654,8 @@
           "playsText": "13K plays",
           "duration": 482,
           "byOther": false,
-          "titleZh": "Super Star (專輯)",
-          "nameKey": "superstar"
+          "nameKey": "superstar",
+          "titleZh": "Super Star (專輯)"
         },
         {
           "index": 31,
@@ -3694,7 +3728,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
       "wikiTitle": "S.H.E音樂作品列表",
-      "titleZh": "2GETHER 4EVER World Tour 2013演唱會"
+      "wikiKind": "live",
+      "titleZh": "2GETHER 4EVER World Tour 2013演唱會",
+      "nameKey": "2gether4everworldtour2013演唱會"
     },
     {
       "browseId": "MPREb_DImNU3ZalhF",
@@ -3720,7 +3756,9 @@
       "releaseDate": "2015-05-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "你曾是少年"
+      "wikiTitle": "你曾是少年",
+      "wikiKind": null,
+      "nameKey": "你曾是少年"
     },
     {
       "browseId": "MPREb_FASp6CYkW3q",
@@ -3740,8 +3778,8 @@
           "playsText": "30K plays",
           "duration": 181,
           "byOther": false,
-          "titleZh": "Super Star (專輯)",
-          "nameKey": "superstar"
+          "nameKey": "superstar",
+          "titleZh": "Super Star (專輯)"
         },
         {
           "index": 2,
@@ -4005,8 +4043,8 @@
           "playsText": "9.6K plays",
           "duration": 191,
           "byOther": false,
-          "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)",
-          "nameKey": "shero"
+          "nameKey": "shero",
+          "titleZh": "SHERO (2010臺北國際花卉博覽會指定主題曲)"
         },
         {
           "index": 26,
@@ -4177,7 +4215,9 @@
       "releaseDate": "2015-07-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "S.H.E音樂作品列表"
+      "wikiTitle": "S.H.E音樂作品列表",
+      "wikiKind": "live",
+      "nameKey": "2gether4everencore"
     },
     {
       "browseId": "MPREb_DoVG4XuhIX5",
@@ -4247,7 +4287,9 @@
       "releaseDate": "2016-08-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "永遠都在"
+      "wikiTitle": "永遠都在",
+      "wikiKind": "single",
+      "nameKey": "永遠都在"
     },
     {
       "browseId": "MPREb_96I9YaL0Z65",
@@ -4273,7 +4315,9 @@
       "releaseDate": "2018-08-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "十七 (單曲)"
+      "wikiTitle": "十七 (單曲)",
+      "wikiKind": null,
+      "nameKey": "17"
     }
   ]
 }

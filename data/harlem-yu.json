@@ -176,10 +176,12 @@
           "nameKey": "多一點空間"
         }
       ],
-      "releaseDate": "1986-12-12",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "releaseDate": "1986-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "prose",
+      "wikiTitle": "庾澄慶",
+      "wikiKind": null,
+      "nameKey": "傷心歌手"
     },
     {
       "browseId": "MPREb_ksTidl8mInp",
@@ -345,10 +347,12 @@
           "nameKey": "我知道我已經長大"
         }
       ],
-      "releaseDate": "1988-08-02",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "錯過的愛"
     },
     {
       "browseId": "MPREb_UxBT4c7ShHQ",
@@ -514,10 +518,12 @@
           "nameKey": "碼頭之歌"
         }
       ],
-      "releaseDate": "1989-07-20",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "讓我一次愛個夠"
     },
     {
       "browseId": "MPREb_HE0SEpM0Lp9",
@@ -642,7 +648,9 @@
       "releaseDate": "1990-04-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "改變所有的錯"
     },
     {
       "browseId": "MPREb_j1ajdfxCIWF",
@@ -767,7 +775,9 @@
       "releaseDate": "1991-07-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "管不住自己"
     },
     {
       "browseId": "MPREb_n4zPUUTY1Gj",
@@ -903,7 +913,9 @@
       "releaseDate": "1993-09-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "老實情歌"
     },
     {
       "browseId": "MPREb_vkKlVGVBJ74",
@@ -1050,7 +1062,9 @@
       "releaseDate": "1994-01-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "live",
+      "nameKey": "原音重現"
     },
     {
       "browseId": "MPREb_N5VBvlSR84t",
@@ -1186,7 +1200,9 @@
       "releaseDate": "1995-06-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "靠近"
     },
     {
       "browseId": "MPREb_Rkv0tG5qtlO",
@@ -1344,7 +1360,9 @@
       "releaseDate": "1995-12-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "庾澄慶哈林夜總會"
     },
     {
       "browseId": "MPREb_gH4D9vlPxsL",
@@ -1491,7 +1509,9 @@
       "releaseDate": "1996-09-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "請開窗"
     },
     {
       "browseId": "MPREb_QuV4HicBVmO",
@@ -1649,7 +1669,9 @@
       "releaseDate": "1997-05-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "哈林音樂頻道"
     },
     {
       "browseId": "MPREb_1EyF81Y4qno",
@@ -1774,7 +1796,9 @@
       "releaseDate": "1997-11-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "只有為你"
     },
     {
       "browseId": "MPREb_uYZKfEkwh7q",
@@ -2009,7 +2033,9 @@
       "releaseDate": "1998-07-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "compilation",
+      "nameKey": "哈林no1精選輯"
     },
     {
       "browseId": "MPREb_pnFpRvpOF6y",
@@ -2189,7 +2215,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "哈寶寶來了"
     },
     {
       "browseId": "MPREb_ltzOpmPmDNF",
@@ -2314,7 +2342,9 @@
       "releaseDate": "1999-05-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "庾澄慶我最熟悉"
     },
     {
       "browseId": "MPREb_4mkAj9YYB1V",
@@ -2439,7 +2469,9 @@
       "releaseDate": "2001-05-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "海嘯 (庾澄慶專輯)"
+      "wikiTitle": "海嘯 (庾澄慶專輯)",
+      "wikiKind": null,
+      "nameKey": "海嘯"
     },
     {
       "browseId": "MPREb_GR4BpNsAuoh",
@@ -2720,7 +2752,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
       "wikiTitle": "庾澄慶",
-      "titleZh": "哈世紀 Live Show"
+      "wikiKind": "live",
+      "titleZh": "哈世紀 Live Show",
+      "nameKey": "哈世紀liveshow"
     },
     {
       "browseId": "MPREb_ouSlnUUsZAr",
@@ -2889,7 +2923,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "庾澄慶精選集"
     },
     {
       "browseId": "MPREb_NZfi6PArNql",
@@ -3025,7 +3061,9 @@
       "releaseDate": "2003-06-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "哈林天堂"
     },
     {
       "browseId": "MPREb_zbaxOUgnHfj",
@@ -3150,7 +3188,9 @@
       "releaseDate": "2006-07-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "戒不掉"
     },
     {
       "browseId": "MPREb_FoViAdaXZeh",
@@ -3286,7 +3326,9 @@
       "releaseDate": "2008-12-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "ladysnight"
     },
     {
       "browseId": "MPREb_0t4P5AYLVuO",
@@ -3829,7 +3871,9 @@
       "releaseDate": "2009-12-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "compilation",
+      "nameKey": "到死都要18歲"
     },
     {
       "browseId": "MPREb_Po1puYzWYfx",
@@ -3855,7 +3899,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "非常完美"
     },
     {
       "browseId": "MPREb_njFYOWixorE",
@@ -3980,7 +4026,9 @@
       "releaseDate": "2013-05-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "關不掉的月光"
     },
     {
       "browseId": "MPREb_XVre9Scruav",
@@ -4325,7 +4373,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我的哈林年代演唱會"
     },
     {
       "browseId": "MPREb_NfuENu5JeAh",
@@ -4527,7 +4577,9 @@
       "releaseDate": "2017-12-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "studio",
+      "nameKey": "西哈遊記庾澄慶的音樂奇幻之旅"
     },
     {
       "browseId": "MPREb_bKhCKYsn2Ho",
@@ -4553,7 +4605,9 @@
       "releaseDate": "2020-07-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "prose",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": null,
+      "nameKey": "音樂超氣派"
     },
     {
       "browseId": "MPREb_XlCyEPak6df",
@@ -4580,7 +4634,9 @@
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
       "wikiTitle": "庾澄慶",
-      "titleZh": "On My Way (影視劇《親愛壞蛋》片尾曲)"
+      "wikiKind": "single",
+      "titleZh": "On My Way (影視劇《親愛壞蛋》片尾曲)",
+      "nameKey": "onmyway"
     },
     {
       "browseId": "MPREb_DnS2QVbsigP",
@@ -4606,7 +4662,9 @@
       "releaseDate": "2023-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "single",
+      "nameKey": "神騎"
     },
     {
       "browseId": "MPREb_w6EKKx5XfMM",
@@ -4632,7 +4690,9 @@
       "releaseDate": "2026-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "庾澄慶"
+      "wikiTitle": "庾澄慶",
+      "wikiKind": "single",
+      "nameKey": "愛人啊"
     }
   ]
 }

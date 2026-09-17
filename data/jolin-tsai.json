@@ -30,8 +30,8 @@
           "playsText": "11K plays",
           "duration": 261,
           "byOther": false,
-          "titleZh": "我知道你很難過",
-          "nameKey": "我知道你很難過"
+          "nameKey": "我知道你很難過",
+          "titleZh": "我知道你很難過"
         },
         {
           "index": 2,
@@ -136,7 +136,9 @@
       "releaseDate": "1999-09-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "1019 (專輯)"
+      "wikiTitle": "1019 (專輯)",
+      "wikiKind": "studio",
+      "nameKey": "1019"
     },
     {
       "browseId": "MPREb_UDMRPHpc4iF",
@@ -156,8 +158,8 @@
           "playsText": "739K plays",
           "duration": 215,
           "byOther": false,
-          "titleZh": "Don't Stop+上街+Sugar Sugar",
-          "nameKey": "dontstop上街sugarsugar"
+          "nameKey": "dontstop上街sugarsugar",
+          "titleZh": "Don't Stop+上街+Sugar Sugar"
         },
         {
           "index": 2,
@@ -262,7 +264,9 @@
       "releaseDate": "2000-04-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Don't Stop"
+      "wikiTitle": "Don't Stop",
+      "wikiKind": "studio",
+      "nameKey": "dontstop"
     },
     {
       "browseId": "MPREb_7KjK4cGTKg4",
@@ -315,8 +319,8 @@
           "playsText": "52K plays",
           "duration": 226,
           "byOther": false,
-          "titleZh": "如果那天你說愛我",
-          "nameKey": "如果那天你說愛我"
+          "nameKey": "如果那天你說愛我",
+          "titleZh": "如果那天你說愛我"
         },
         {
           "index": 5,
@@ -388,7 +392,9 @@
       "releaseDate": "2000-12-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Show Your Love"
+      "wikiTitle": "Show Your Love",
+      "wikiKind": "studio",
+      "nameKey": "showyourlove"
     },
     {
       "browseId": "MPREb_wII596CEpWo",
@@ -513,7 +519,9 @@
       "releaseDate": "2001-07-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Lucky Number"
+      "wikiTitle": "Lucky Number",
+      "wikiKind": "studio",
+      "nameKey": "luckynumber"
     },
     {
       "browseId": "MPREb_i3J5Ccmm1Fn",
@@ -649,7 +657,9 @@
       "releaseDate": "2003-03-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "看我72變"
+      "wikiTitle": "看我72變",
+      "wikiKind": "studio",
+      "nameKey": "看我72變"
     },
     {
       "browseId": "MPREb_TXjChWxUZT4",
@@ -675,7 +685,9 @@
       "releaseDate": "2004-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "蔡依林影音作品"
+      "wikiTitle": "蔡依林影音作品",
+      "wikiKind": null,
+      "nameKey": "lovelovelove"
     },
     {
       "browseId": "MPREb_SDgYzBMhBk1",
@@ -800,7 +812,9 @@
       "releaseDate": "2004-02-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "城堡 (專輯)"
+      "wikiTitle": "城堡 (專輯)",
+      "wikiKind": "studio",
+      "nameKey": "城堡"
     },
     {
       "browseId": "MPREb_a16vV7CMP46",
@@ -936,7 +950,9 @@
       "releaseDate": "2004-11-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "J9 新歌+Party精選"
+      "wikiTitle": "J9 新歌+Party精選",
+      "wikiKind": "compilation",
+      "nameKey": "j9新歌party精選"
     },
     {
       "browseId": "MPREb_Dwltsxp237C",
@@ -1072,7 +1088,9 @@
       "releaseDate": "2005-04-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "野蠻遊戲"
+      "wikiTitle": "野蠻遊戲",
+      "wikiKind": "single",
+      "nameKey": "野蠻遊戲"
     },
     {
       "browseId": "MPREb_TuAnfj02EGE",
@@ -1263,7 +1281,9 @@
       "releaseDate": "2005-09-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "J1演唱會 影音全記錄"
+      "wikiTitle": "J1演唱會 影音全記錄",
+      "wikiKind": null,
+      "nameKey": "蔡依林j1首次個人演唱會影音全記錄"
     },
     {
       "browseId": "MPREb_S4ouF6XYAAY",
@@ -1399,7 +1419,9 @@
       "releaseDate": "2006-05-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "舞孃 (專輯)"
+      "wikiTitle": "舞孃 (專輯)",
+      "wikiKind": "studio",
+      "nameKey": "舞孃"
     },
     {
       "browseId": "MPREb_k1BkwPAlzsw",
@@ -1557,7 +1579,9 @@
       "releaseDate": "2006-09-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "唯舞獨尊 演唱會鮮聽版&混音"
+      "wikiTitle": "唯舞獨尊 演唱會鮮聽版&混音",
+      "wikiKind": null,
+      "nameKey": "唯舞獨尊演唱會鮮聽版特別混音專輯"
     },
     {
       "browseId": "MPREb_hxBRYOcsZVD",
@@ -1781,8 +1805,10 @@
       ],
       "releaseDate": "2006-11-03",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "最愛 Live Concert音樂精選"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "最愛 Live Concert音樂精選",
+      "wikiKind": null,
+      "nameKey": "jolin最愛liveconcert音樂精選"
     },
     {
       "browseId": "MPREb_QmigENYDnBX",
@@ -2237,8 +2263,10 @@
       ],
       "releaseDate": "2007-09-19",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "夢綺地精選"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "夢綺地精選",
+      "wikiKind": null,
+      "nameKey": "絕版公主蔡依林夢綺地精選"
     },
     {
       "browseId": "MPREb_xFHNE4mX5K4",
@@ -2385,7 +2413,9 @@
       "releaseDate": "2007-09-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "特務J"
+      "wikiTitle": "特務J",
+      "wikiKind": "studio",
+      "nameKey": "特務j"
     },
     {
       "browseId": "MPREb_4yRPD1Hpwhd",
@@ -2566,7 +2596,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "cuxi蔡依林特務j慶功演唱會現場實錄盤"
     },
     {
       "browseId": "MPREb_O3TiKwMo6Xw",
@@ -2691,7 +2723,9 @@
       "releaseDate": "2008-10-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛的練習語"
+      "wikiTitle": "愛的練習語",
+      "wikiKind": "studio",
+      "nameKey": "愛的練習語"
     },
     {
       "browseId": "MPREb_RCqhL2qaRHC",
@@ -2816,7 +2850,9 @@
       "releaseDate": "2009-03-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "花蝴蝶 (專輯)"
+      "wikiTitle": "花蝴蝶 (專輯)",
+      "wikiKind": "studio",
+      "nameKey": "花蝴蝶"
     },
     {
       "browseId": "MPREb_9LfNA0XQxx6",
@@ -2897,7 +2933,9 @@
       "releaseDate": "2009-10-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "單身情歌·萬人舞台 2009特別紀念版"
+      "wikiTitle": "單身情歌·萬人舞台 2009特別紀念版",
+      "wikiKind": null,
+      "nameKey": "蔡依林單身情歌萬人舞臺2009特別紀念版"
     },
     {
       "browseId": "MPREb_3evUQhS9Omv",
@@ -3242,7 +3280,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "j世紀jeneration大牌新曲精選盤20062009"
     },
     {
       "browseId": "MPREb_PHd78kN6YJP",
@@ -3422,7 +3462,9 @@
       "releaseDate": "2010-08-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "Myself"
+      "wikiTitle": "Myself",
+      "wikiKind": null,
+      "nameKey": "蔡依林myself2010槪念專輯"
     },
     {
       "browseId": "MPREb_v37rkrrhCUb",
@@ -3503,7 +3545,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "jolin"
     },
     {
       "browseId": "MPREb_b1oDGrBLg0L",
@@ -3529,7 +3573,9 @@
       "releaseDate": "2012-08-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "大藝術家 (歌曲)"
+      "wikiTitle": "大藝術家 (歌曲)",
+      "wikiKind": "single",
+      "nameKey": "大藝術家"
     },
     {
       "browseId": "MPREb_WrUDtYsMUrZ",
@@ -3818,8 +3864,10 @@
       ],
       "releaseDate": "2012-08-28",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "J女神 影音典藏精選"
+      "releaseDateSource": "table",
+      "wikiTitle": "蔡依林影音作品",
+      "wikiKind": null,
+      "nameKey": "j女神影音典藏精選"
     },
     {
       "browseId": "MPREb_YQxz7Ihpj1G",
@@ -3850,8 +3898,8 @@
           "playsText": "13M plays",
           "duration": 226,
           "byOther": true,
-          "titleZh": "詩人漫步",
-          "nameKey": "詩人漫步"
+          "nameKey": "詩人漫步",
+          "titleZh": "詩人漫步"
         },
         {
           "index": 3,
@@ -3884,8 +3932,8 @@
           "playsText": "1.2M plays",
           "duration": 160,
           "byOther": true,
-          "titleZh": "柵欄繼續偷窺你",
-          "nameKey": "柵欄繼續偷窺你"
+          "nameKey": "柵欄繼續偷窺你",
+          "titleZh": "柵欄繼續偷窺你"
         },
         {
           "index": 6,
@@ -3957,7 +4005,9 @@
       "releaseDate": "2012-09-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Muse (蔡依林專輯)"
+      "wikiTitle": "Muse (蔡依林專輯)",
+      "wikiKind": "studio",
+      "nameKey": "muse"
     },
     {
       "browseId": "MPREb_lffRtb5okeR",
@@ -4214,7 +4264,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "museinlive"
     },
     {
       "browseId": "MPREb_dEal6Dacx6f",
@@ -4240,7 +4292,9 @@
       "releaseDate": "2013-09-11",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "旅程 (蔡依林歌曲)"
+      "wikiTitle": "旅程 (蔡依林歌曲)",
+      "wikiKind": "single",
+      "nameKey": "旅程"
     },
     {
       "browseId": "MPREb_tOwn9LHqzn7",
@@ -4267,7 +4321,9 @@
       "releaseDate": "2014-07-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "小時代：刺金時代"
+      "wikiTitle": "小時代：刺金時代",
+      "wikiKind": null,
+      "nameKey": "萬花瞳小時代3刺金時代"
     },
     {
       "browseId": "MPREb_s5FRYWo6Ecs",
@@ -4298,8 +4354,8 @@
           "playsText": "Play",
           "duration": 194,
           "byOther": false,
-          "titleZh": "第三人稱",
-          "nameKey": "第三人稱"
+          "nameKey": "第三人稱",
+          "titleZh": "第三人稱"
         },
         {
           "index": 3,
@@ -4332,8 +4388,8 @@
           "playsText": "59M plays",
           "duration": 222,
           "byOther": false,
-          "titleZh": "第二性",
-          "nameKey": "第二性"
+          "nameKey": "第二性",
+          "titleZh": "第二性"
         },
         {
           "index": 6,
@@ -4355,8 +4411,8 @@
           "playsText": "520K plays",
           "duration": 194,
           "byOther": false,
-          "titleZh": "唇語",
-          "nameKey": "唇語"
+          "nameKey": "唇語",
+          "titleZh": "唇語"
         },
         {
           "index": 8,
@@ -4395,7 +4451,9 @@
       "releaseDate": "2014-11-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "呸"
+      "wikiTitle": "呸",
+      "wikiKind": "studio",
+      "nameKey": "呸"
     },
     {
       "browseId": "MPREb_ngT9H55O6lC",
@@ -4421,85 +4479,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
-      "browseId": "MPREb_PqgXHQT9LEp",
-      "playlistId": "OLAK5uy_lSF4_jCIuWhXd1E2SELN1SQc1oZnSRcD0",
-      "title": "Play我呸 (Alesso Remix Version) - Play (Alesso Remix Version)",
-      "albumArtist": "JOLIN & Alesso",
-      "type": "Single",
-      "year": 2014,
-      "thumbnail": "https://yt3.googleusercontent.com/Dj8W-XRGIyYAK4mUWYfIQwbHE9IhKdFTMhzXAk2PPSLeRQKxkGXu4fbP3ycE4IFKaFrtz8Y3m5No_opC=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "Play我呸 (Alesso Remix Version) - Play (Alesso Remix Version)",
-          "artists": "",
-          "videoId": "HTSJ_gQGZJw",
-          "plays": 994000,
-          "playsText": "994K plays",
-          "duration": 228,
-          "byOther": true,
-          "nameKey": "play我呸"
-        }
-      ],
-      "releaseDate": "2016-01-01",
-      "releaseDatePrecision": "year",
-      "releaseDateSource": "table",
-      "wikiTitle": "蔡依林單曲作品"
-    },
-    {
-      "browseId": "MPREb_sMfqxOHWD5p",
-      "playlistId": "OLAK5uy_ncPvCK5sVrgpgxe4R32psC9oLwRR235pE",
-      "title": "讓愛傳出去 - Rang Ai Chuan Chu Qu (2017 Da Ai Dian Shi \"1+1 Ni Jia Wo\" Zhu Ti Qu)",
-      "albumArtist": "Jolin Tsai",
-      "type": "Single",
-      "year": 2017,
-      "thumbnail": "https://yt3.googleusercontent.com/vLjng9I8JUso8dBMTihK0YR2Weu-oM-XfDFrTlx1AY9rgVVQtc1whFcbYHM-cd4B8C7v5rWP_0x5Xlm-=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "讓愛傳出去 (2017大愛電視\"1+1你加我\"主題曲) - Rang Ai Chuan Chu Qu (2017 Da Ai Dian Shi \"1+1 Ni Jia Wo\" Zhu Ti Qu)",
-          "artists": "",
-          "videoId": "dLE5PXmqhS4",
-          "plays": 1300000,
-          "playsText": "1.3M plays",
-          "duration": 279,
-          "byOther": false,
-          "nameKey": "讓愛傳出去"
-        }
-      ],
-      "releaseDate": "2017-05-12",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "讓愛傳出去 (歌曲)"
-    },
-    {
-      "browseId": "MPREb_cQVSedYuiyP",
-      "playlistId": "OLAK5uy_kEP6rNkahwRJTJoso0TpUp5S6BaHv-gTQ",
-      "title": "什麼什麼 (電影\"捉妖記2\"主題曲) - Stand up (Theme Song of \"Monster Hunt 2\")",
-      "albumArtist": "JOLIN",
-      "type": "Single",
-      "year": 2017,
-      "thumbnail": "https://yt3.googleusercontent.com/c2LMItsmXaWZ6k9_4dgfXeSH8zHEw_LnXF6v0kqPDlCk0Sf2SnRRTPUwYp2F5n0uWan4kA91JCKa3EZ0=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "什麼什麼 (電影\"捉妖記2\"主題曲) - Stand up (Theme Song of \"Monster Hunt 2\")",
-          "artists": "",
-          "videoId": "zUhxzZkCixI",
-          "plays": 6500000,
-          "playsText": "6.5M plays",
-          "duration": 201,
-          "byOther": true,
-          "nameKey": "什麼什麼"
-        }
-      ],
-      "releaseDate": "2017-12-29",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "什麼什麼"
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我對我"
     },
     {
       "browseId": "MPREb_YkcUvob78tK",
@@ -4808,10 +4790,96 @@
           "nameKey": "play我呸#live"
         }
       ],
-      "releaseDate": "2018-01-30",
+      "releaseDate": "2015-05-22",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "table",
+      "wikiTitle": "蔡依林演唱會列表",
+      "wikiKind": "live",
+      "nameKey": "蔡依林play世界巡迴演唱會"
+    },
+    {
+      "browseId": "MPREb_PqgXHQT9LEp",
+      "playlistId": "OLAK5uy_lSF4_jCIuWhXd1E2SELN1SQc1oZnSRcD0",
+      "title": "Play我呸 (Alesso Remix Version) - Play (Alesso Remix Version)",
+      "albumArtist": "JOLIN & Alesso",
+      "type": "Single",
+      "year": 2014,
+      "thumbnail": "https://yt3.googleusercontent.com/Dj8W-XRGIyYAK4mUWYfIQwbHE9IhKdFTMhzXAk2PPSLeRQKxkGXu4fbP3ycE4IFKaFrtz8Y3m5No_opC=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Play我呸 (Alesso Remix Version) - Play (Alesso Remix Version)",
+          "artists": "",
+          "videoId": "HTSJ_gQGZJw",
+          "plays": 994000,
+          "playsText": "994K plays",
+          "duration": 228,
+          "byOther": true,
+          "nameKey": "play我呸"
+        }
+      ],
+      "releaseDate": "2016-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "table",
+      "wikiTitle": "蔡依林單曲作品",
+      "wikiKind": "single",
+      "nameKey": "play我呸"
+    },
+    {
+      "browseId": "MPREb_sMfqxOHWD5p",
+      "playlistId": "OLAK5uy_ncPvCK5sVrgpgxe4R32psC9oLwRR235pE",
+      "title": "讓愛傳出去 - Rang Ai Chuan Chu Qu (2017 Da Ai Dian Shi \"1+1 Ni Jia Wo\" Zhu Ti Qu)",
+      "albumArtist": "Jolin Tsai",
+      "type": "Single",
+      "year": 2017,
+      "thumbnail": "https://yt3.googleusercontent.com/vLjng9I8JUso8dBMTihK0YR2Weu-oM-XfDFrTlx1AY9rgVVQtc1whFcbYHM-cd4B8C7v5rWP_0x5Xlm-=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "讓愛傳出去 (2017大愛電視\"1+1你加我\"主題曲) - Rang Ai Chuan Chu Qu (2017 Da Ai Dian Shi \"1+1 Ni Jia Wo\" Zhu Ti Qu)",
+          "artists": "",
+          "videoId": "dLE5PXmqhS4",
+          "plays": 1300000,
+          "playsText": "1.3M plays",
+          "duration": 279,
+          "byOther": false,
+          "nameKey": "讓愛傳出去"
+        }
+      ],
+      "releaseDate": "2017-05-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Play世界巡迴演唱會 (專輯)"
+      "wikiTitle": "讓愛傳出去 (歌曲)",
+      "wikiKind": "single",
+      "nameKey": "讓愛傳出去"
+    },
+    {
+      "browseId": "MPREb_cQVSedYuiyP",
+      "playlistId": "OLAK5uy_kEP6rNkahwRJTJoso0TpUp5S6BaHv-gTQ",
+      "title": "什麼什麼 (電影\"捉妖記2\"主題曲) - Stand up (Theme Song of \"Monster Hunt 2\")",
+      "albumArtist": "JOLIN",
+      "type": "Single",
+      "year": 2017,
+      "thumbnail": "https://yt3.googleusercontent.com/c2LMItsmXaWZ6k9_4dgfXeSH8zHEw_LnXF6v0kqPDlCk0Sf2SnRRTPUwYp2F5n0uWan4kA91JCKa3EZ0=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "什麼什麼 (電影\"捉妖記2\"主題曲) - Stand up (Theme Song of \"Monster Hunt 2\")",
+          "artists": "",
+          "videoId": "zUhxzZkCixI",
+          "plays": 6500000,
+          "playsText": "6.5M plays",
+          "duration": 201,
+          "byOther": true,
+          "nameKey": "什麼什麼"
+        }
+      ],
+      "releaseDate": "2017-12-29",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "什麼什麼",
+      "wikiKind": "single",
+      "nameKey": "什麼什麼"
     },
     {
       "browseId": "MPREb_fJDYJKVSvTP",
@@ -4837,7 +4905,9 @@
       "releaseDate": "2018-12-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "怪美的"
+      "wikiTitle": "怪美的",
+      "wikiKind": "single",
+      "nameKey": "怪美的"
     },
     {
       "browseId": "MPREb_ooTpHCRsS9v",
@@ -4973,7 +5043,9 @@
       "releaseDate": "2018-12-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Ugly Beauty"
+      "wikiTitle": "Ugly Beauty",
+      "wikiKind": "studio",
+      "nameKey": "uglybeauty"
     },
     {
       "browseId": "MPREb_eTXKM6kXYyd",
@@ -4999,7 +5071,9 @@
       "releaseDate": "2019-11-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "心引力"
+      "wikiTitle": "心引力",
+      "wikiKind": "single",
+      "nameKey": "心引力"
     },
     {
       "browseId": "MPREb_LBzmNh4MpOj",
@@ -5113,7 +5187,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "地才"
     },
     {
       "browseId": "MPREb_CEzlmOT3YPq",
@@ -5139,7 +5215,9 @@
       "releaseDate": "2021-03-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Stars Align"
+      "wikiTitle": "Stars Align",
+      "wikiKind": "single",
+      "nameKey": "starsalign"
     },
     {
       "browseId": "MPREb_pbC3gCshtLF",
@@ -5176,7 +5254,9 @@
       "releaseDate": "2021-10-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Equal in the Darkness"
+      "wikiTitle": "Equal in the Darkness",
+      "wikiKind": "single",
+      "nameKey": "equalinthedarkness"
     },
     {
       "browseId": "MPREb_M7Ww5asVH6A",
@@ -5202,7 +5282,9 @@
       "releaseDate": "2021-10-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Equal in the Darkness"
+      "wikiTitle": "Equal in the Darkness",
+      "wikiKind": "single",
+      "nameKey": "equalinthedarkness"
     },
     {
       "browseId": "MPREb_hqLPDPqj2Fh",
@@ -5239,7 +5321,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "equalinthedarknesstheremixes"
     },
     {
       "browseId": "MPREb_8ndCdvCDlMQ",
@@ -5265,7 +5349,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "starsalign"
     },
     {
       "browseId": "MPREb_58w6YBG5iNL",
@@ -5291,7 +5377,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "starsalign"
     },
     {
       "browseId": "MPREb_9z0JQkYFUIW",
@@ -5318,7 +5406,9 @@
       "releaseDate": "2022-12-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "親愛的對象"
+      "wikiTitle": "親愛的對象",
+      "wikiKind": "single",
+      "nameKey": "親愛的對象"
     },
     {
       "browseId": "MPREb_IBx9AztS9s4",
@@ -5344,7 +5434,9 @@
       "releaseDate": "2022-12-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "親愛的對象"
+      "wikiTitle": "親愛的對象",
+      "wikiKind": "single",
+      "nameKey": "親愛的對象"
     },
     {
       "browseId": "MPREb_VxJAGDuIO6v",
@@ -5370,7 +5462,9 @@
       "releaseDate": "2023-10-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Someday, Somewhere"
+      "wikiTitle": "Someday, Somewhere",
+      "wikiKind": "single",
+      "nameKey": "somedaysomewhere"
     },
     {
       "browseId": "MPREb_Wd5wgnR3KGI",
@@ -5396,7 +5490,9 @@
       "releaseDate": "2023-11-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Oh La La La"
+      "wikiTitle": "Oh La La La",
+      "wikiKind": "single",
+      "nameKey": "ohlalala"
     },
     {
       "browseId": "MPREb_XbWJ1VYMqsS",
@@ -5423,7 +5519,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "玫瑰少年"
     },
     {
       "browseId": "MPREb_LuaFEz3Y1Ff",
@@ -5476,8 +5574,8 @@
           "playsText": "11M plays",
           "duration": 167,
           "byOther": true,
-          "titleZh": "Pleasure (歌曲)",
-          "nameKey": "pleasure"
+          "nameKey": "pleasure",
+          "titleZh": "Pleasure (歌曲)"
         },
         {
           "index": 5,
@@ -5532,8 +5630,8 @@
           "playsText": "7.9M plays",
           "duration": 181,
           "byOther": true,
-          "titleZh": "DIY (歌曲)",
-          "nameKey": "diy"
+          "nameKey": "diy",
+          "titleZh": "DIY (歌曲)"
         },
         {
           "index": 10,
@@ -5584,7 +5682,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Pleasure (蔡依林歌曲)",
-      "titleZh": "Pleasure (歌曲)"
+      "wikiKind": "single",
+      "titleZh": "Pleasure (歌曲)",
+      "nameKey": "pleasure"
     },
     {
       "browseId": "MPREb_rNsmj96qI7k",
@@ -5604,15 +5704,17 @@
           "playsText": "11M plays",
           "duration": 169,
           "byOther": true,
-          "titleZh": "Pleasure (歌曲)",
-          "nameKey": "pleasure"
+          "nameKey": "pleasure",
+          "titleZh": "Pleasure (歌曲)"
         }
       ],
       "releaseDate": "2025-05-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Pleasure (蔡依林歌曲)",
-      "titleZh": "Pleasure (歌曲)"
+      "wikiKind": "single",
+      "titleZh": "Pleasure (歌曲)",
+      "nameKey": "pleasure"
     },
     {
       "browseId": "MPREb_jP6bImZ3pxD",
@@ -5632,15 +5734,17 @@
           "playsText": "7.9M plays",
           "duration": 185,
           "byOther": true,
-          "titleZh": "DIY (歌曲)",
-          "nameKey": "diy"
+          "nameKey": "diy",
+          "titleZh": "DIY (歌曲)"
         }
       ],
       "releaseDate": "2025-06-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "DIY (歌曲)",
-      "titleZh": "DIY (歌曲)"
+      "wikiKind": "single",
+      "titleZh": "DIY (歌曲)",
+      "nameKey": "diy"
     },
     {
       "browseId": "MPREb_Iq32gJ6xPFL",
@@ -5666,7 +5770,9 @@
       "releaseDate": "2026-02-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "布拉格廣場 (歌曲)"
+      "wikiTitle": "布拉格廣場 (歌曲)",
+      "wikiKind": "single",
+      "nameKey": "布拉格廣場"
     }
   ]
 }

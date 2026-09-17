@@ -13,132 +13,6 @@
   },
   "albums": [
     {
-      "browseId": "MPREb_VPCEvCnNAoB",
-      "playlistId": "OLAK5uy_nYL0x4MU3uyQtAXnYgn1QdXQXSHj-yHCI",
-      "title": "故鄉的門口埕",
-      "albumArtist": "許富凱",
-      "type": "Album",
-      "year": 2026,
-      "thumbnail": "https://yt3.googleusercontent.com/iwHjswpmuM1AImvPFoklhqU1TCRD8L87IZt6DA6H_GgP-wsXvTV7uI16beu945RGlvzspJd8Ur8LdPg_=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "故鄉的門口埕",
-          "artists": "許富凱",
-          "videoId": "kZni6n5jA3M",
-          "plays": 273,
-          "playsText": "273 plays",
-          "duration": 310,
-          "byOther": false,
-          "nameKey": "故鄉的門口埕"
-        },
-        {
-          "index": 2,
-          "title": "玫瑰香",
-          "artists": "許富凱",
-          "videoId": "TQMBQ9IVIWQ",
-          "plays": 24,
-          "playsText": "24 plays",
-          "duration": 274,
-          "byOther": false,
-          "nameKey": "玫瑰香"
-        },
-        {
-          "index": 3,
-          "title": "阿里加多",
-          "artists": "許富凱",
-          "videoId": "R0px2x5I4SM",
-          "plays": 40,
-          "playsText": "40 plays",
-          "duration": 269,
-          "byOther": false,
-          "nameKey": "阿里加多"
-        },
-        {
-          "index": 4,
-          "title": "最後尾班車",
-          "artists": "許富凱 & 曹雅雯",
-          "videoId": "-cU9NB9A4TU",
-          "plays": 186,
-          "playsText": "186 plays",
-          "duration": 273,
-          "byOther": false,
-          "nameKey": "最後尾班車"
-        },
-        {
-          "index": 5,
-          "title": "癡心等待你",
-          "artists": "許富凱",
-          "videoId": "lRofDHZmlHA",
-          "plays": 214,
-          "playsText": "214 plays",
-          "duration": 243,
-          "byOther": false,
-          "nameKey": "癡心等待你",
-          "titleZh": "痴心等待你"
-        },
-        {
-          "index": 6,
-          "title": "隨風離開愛的人",
-          "artists": "許富凱",
-          "videoId": "oF9YEVpAgIY",
-          "plays": 38,
-          "playsText": "38 plays",
-          "duration": 291,
-          "byOther": false,
-          "nameKey": "隨風離開愛的人"
-        },
-        {
-          "index": 7,
-          "title": "流行的情歌",
-          "artists": "許富凱",
-          "videoId": "548aKeRurhc",
-          "plays": 205,
-          "playsText": "205 plays",
-          "duration": 260,
-          "byOther": false,
-          "nameKey": "流行的情歌"
-        },
-        {
-          "index": 8,
-          "title": "來生緣",
-          "artists": "許富凱",
-          "videoId": "S4uiB8UNYOU",
-          "plays": 145,
-          "playsText": "145 plays",
-          "duration": 284,
-          "byOther": false,
-          "nameKey": "來生緣"
-        },
-        {
-          "index": 9,
-          "title": "人在做天在看",
-          "artists": "許富凱",
-          "videoId": "HoCd_7g65Ts",
-          "plays": 256,
-          "playsText": "256 plays",
-          "duration": 255,
-          "byOther": false,
-          "nameKey": "人在做天在看"
-        },
-        {
-          "index": 10,
-          "title": "也許愛你",
-          "artists": "許富凱",
-          "videoId": "R-R0w69wWxQ",
-          "plays": 56,
-          "playsText": "56 plays",
-          "duration": 322,
-          "byOther": false,
-          "nameKey": "也許愛你"
-        }
-      ],
-      "releaseDate": "2013-07-09",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "許富凱"
-    },
-    {
       "browseId": "MPREb_0PNafOds3Lf",
       "playlistId": "OLAK5uy_lJBqWCr4_avOSh2CcL6Gn4IE61gSYgbLc",
       "title": "少年夢",
@@ -258,10 +132,12 @@
           "nameKey": "三月望露"
         }
       ],
-      "releaseDate": "2015-09-17",
+      "releaseDate": "2015-01-01",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "許富凱"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "少年夢",
+      "wikiKind": null,
+      "nameKey": "少年夢"
     },
     {
       "browseId": "MPREb_cezhbEQ8wWv",
@@ -398,7 +274,9 @@
       "releaseDate": "2016-09-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": null,
+      "nameKey": "等無愛"
     },
     {
       "browseId": "MPREb_SB2RGinvYFC",
@@ -523,7 +401,9 @@
       "releaseDate": "2017-12-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": null,
+      "nameKey": "縫夢"
     },
     {
       "browseId": "MPREb_qOswNCCqXsZ",
@@ -648,7 +528,9 @@
       "releaseDate": "2018-12-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": null,
+      "nameKey": "我毋是你想的遐爾快樂"
     },
     {
       "browseId": "MPREb_JUv7R5eoxNH",
@@ -773,7 +655,9 @@
       "releaseDate": "2020-12-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": null,
+      "nameKey": "拾歌"
     },
     {
       "browseId": "MPREb_8YUEKIy3lHr",
@@ -799,7 +683,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "祝福"
     },
     {
       "browseId": "MPREb_FTReJn8cGwV",
@@ -825,7 +711,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "雨傘情"
     },
     {
       "browseId": "MPREb_aoSWP7fvjou",
@@ -851,7 +739,9 @@
       "releaseDate": "2021-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": "single",
+      "nameKey": "無聲"
     },
     {
       "browseId": "MPREb_e0CxxW78Iu5",
@@ -888,7 +778,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "大愛劇場阿英的成長日記主題曲"
     },
     {
       "browseId": "MPREb_zVuncx4I8U7",
@@ -914,7 +806,9 @@
       "releaseDate": "2022-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": "single",
+      "nameKey": "百樣人"
     },
     {
       "browseId": "MPREb_SEY6dg23hiN",
@@ -940,7 +834,9 @@
       "releaseDate": "2023-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": "single",
+      "nameKey": "南風"
     },
     {
       "browseId": "MPREb_H61oWho95Pq",
@@ -1066,7 +962,9 @@
       "releaseDate": "2023-12-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": null,
+      "nameKey": "五木大學"
     },
     {
       "browseId": "MPREb_xGz4q5RMGWO",
@@ -1092,7 +990,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "伊的身邊已經有別人2023"
     },
     {
       "browseId": "MPREb_GegElcTXeBZ",
@@ -1119,7 +1019,9 @@
       "releaseDate": "2025-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": "single",
+      "nameKey": "ブラジル吃茶店的歌"
     },
     {
       "browseId": "MPREb_h3ebhHPn37F",
@@ -1145,7 +1047,9 @@
       "releaseDate": "2025-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": "single",
+      "nameKey": "最好安排"
     },
     {
       "browseId": "MPREb_uFMXrqXbNxZ",
@@ -1171,7 +1075,9 @@
       "releaseDate": "2025-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": "single",
+      "nameKey": "對我祝福"
     },
     {
       "browseId": "MPREb_CFa3ppF2YM2",
@@ -1197,7 +1103,9 @@
       "releaseDate": "2025-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": "single",
+      "nameKey": "會記得喔"
     },
     {
       "browseId": "MPREb_4VTWxQtA2WO",
@@ -1223,7 +1131,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "滿滿的瓜田冠軍的誕生宣傳曲"
     },
     {
       "browseId": "MPREb_XFmRzW5DXS9",
@@ -1360,7 +1270,9 @@
       "releaseDate": "2026-04-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "許富凱"
+      "wikiTitle": "許富凱",
+      "wikiKind": null,
+      "nameKey": "尪仔物"
     },
     {
       "browseId": "MPREb_kAmkwd0s1pK",
@@ -1386,7 +1298,137 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "愛你敢有望"
+    },
+    {
+      "browseId": "MPREb_VPCEvCnNAoB",
+      "playlistId": "OLAK5uy_nYL0x4MU3uyQtAXnYgn1QdXQXSHj-yHCI",
+      "title": "故鄉的門口埕",
+      "albumArtist": "許富凱",
+      "type": "Album",
+      "year": 2026,
+      "thumbnail": "https://yt3.googleusercontent.com/iwHjswpmuM1AImvPFoklhqU1TCRD8L87IZt6DA6H_GgP-wsXvTV7uI16beu945RGlvzspJd8Ur8LdPg_=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "故鄉的門口埕",
+          "artists": "許富凱",
+          "videoId": "kZni6n5jA3M",
+          "plays": 273,
+          "playsText": "273 plays",
+          "duration": 310,
+          "byOther": false,
+          "nameKey": "故鄉的門口埕"
+        },
+        {
+          "index": 2,
+          "title": "玫瑰香",
+          "artists": "許富凱",
+          "videoId": "TQMBQ9IVIWQ",
+          "plays": 24,
+          "playsText": "24 plays",
+          "duration": 274,
+          "byOther": false,
+          "nameKey": "玫瑰香"
+        },
+        {
+          "index": 3,
+          "title": "阿里加多",
+          "artists": "許富凱",
+          "videoId": "R0px2x5I4SM",
+          "plays": 40,
+          "playsText": "40 plays",
+          "duration": 269,
+          "byOther": false,
+          "nameKey": "阿里加多"
+        },
+        {
+          "index": 4,
+          "title": "最後尾班車",
+          "artists": "許富凱 & 曹雅雯",
+          "videoId": "-cU9NB9A4TU",
+          "plays": 186,
+          "playsText": "186 plays",
+          "duration": 273,
+          "byOther": false,
+          "nameKey": "最後尾班車"
+        },
+        {
+          "index": 5,
+          "title": "癡心等待你",
+          "artists": "許富凱",
+          "videoId": "lRofDHZmlHA",
+          "plays": 214,
+          "playsText": "214 plays",
+          "duration": 243,
+          "byOther": false,
+          "nameKey": "癡心等待你",
+          "titleZh": "痴心等待你"
+        },
+        {
+          "index": 6,
+          "title": "隨風離開愛的人",
+          "artists": "許富凱",
+          "videoId": "oF9YEVpAgIY",
+          "plays": 38,
+          "playsText": "38 plays",
+          "duration": 291,
+          "byOther": false,
+          "nameKey": "隨風離開愛的人"
+        },
+        {
+          "index": 7,
+          "title": "流行的情歌",
+          "artists": "許富凱",
+          "videoId": "548aKeRurhc",
+          "plays": 205,
+          "playsText": "205 plays",
+          "duration": 260,
+          "byOther": false,
+          "nameKey": "流行的情歌"
+        },
+        {
+          "index": 8,
+          "title": "來生緣",
+          "artists": "許富凱",
+          "videoId": "S4uiB8UNYOU",
+          "plays": 145,
+          "playsText": "145 plays",
+          "duration": 284,
+          "byOther": false,
+          "nameKey": "來生緣"
+        },
+        {
+          "index": 9,
+          "title": "人在做天在看",
+          "artists": "許富凱",
+          "videoId": "HoCd_7g65Ts",
+          "plays": 256,
+          "playsText": "256 plays",
+          "duration": 255,
+          "byOther": false,
+          "nameKey": "人在做天在看"
+        },
+        {
+          "index": 10,
+          "title": "也許愛你",
+          "artists": "許富凱",
+          "videoId": "R-R0w69wWxQ",
+          "plays": 56,
+          "playsText": "56 plays",
+          "duration": 322,
+          "byOther": false,
+          "nameKey": "也許愛你"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "故鄉的門口埕"
     },
     {
       "browseId": "MPREb_FITKjSOw35K",
@@ -1412,7 +1454,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "講袂出喙的情話"
     }
   ]
 }

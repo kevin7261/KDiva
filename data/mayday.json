@@ -157,7 +157,9 @@
       "releaseDate": "1999-07-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "五月天第一張創作專輯"
+      "wikiTitle": "五月天第一張創作專輯",
+      "wikiKind": null,
+      "nameKey": "第一張創作專輯"
     },
     {
       "browseId": "MPREb_EfSCPQxr5yY",
@@ -348,7 +350,9 @@
       "releaseDate": "1999-11-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": null,
+      "nameKey": "五月天第168場演唱會"
     },
     {
       "browseId": "MPREb_v6qfneBkA9E",
@@ -495,7 +499,9 @@
       "releaseDate": "2000-07-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛情萬歲 (專輯)"
+      "wikiTitle": "愛情萬歲 (專輯)",
+      "wikiKind": null,
+      "nameKey": "愛情萬歲"
     },
     {
       "browseId": "MPREb_cUkt1PALvfc",
@@ -797,7 +803,9 @@
       "releaseDate": "2000-12-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": null,
+      "nameKey": "五月天10萬青年站出來live巡迴演唱會全紀錄"
     },
     {
       "browseId": "MPREb_GqxCPMpLg0L",
@@ -944,7 +952,9 @@
       "releaseDate": "2001-07-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "人生海海"
+      "wikiTitle": "人生海海",
+      "wikiKind": null,
+      "nameKey": "人生海海"
     },
     {
       "browseId": "MPREb_DY79lfhrzm7",
@@ -1344,7 +1354,9 @@
       "releaseDate": "2001-12-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "你要去哪裡 Live全紀錄"
+      "wikiTitle": "你要去哪裡 Live全紀錄",
+      "wikiKind": "live",
+      "nameKey": "五月天你要去哪裡臺灣巡迴演唱會live全紀錄"
     },
     {
       "browseId": "MPREb_yOubPanzi2n",
@@ -1502,176 +1514,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
-    },
-    {
-      "browseId": "MPREb_6Q42fgzuELl",
-      "playlistId": "OLAK5uy_l4IVfbldC0DzUWtwrqalvloYSpr4Wckwk",
-      "title": "我們是五月天",
-      "albumArtist": "五月天",
-      "type": "Album",
-      "year": 2003,
-      "thumbnail": "https://yt3.googleusercontent.com/u6ZMcEtopaKWLWknJ4xq1v_TG_pIrsc0oNCBv1H4JlaOe2kgQ6b9PT6ZMuIx5fp1pFl3kl6q-BeWV60U=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "終結孤單",
-          "artists": "五月天",
-          "videoId": "bwB4KYblxsY",
-          "plays": 4500000,
-          "playsText": "4.5M plays",
-          "duration": 190,
-          "byOther": false,
-          "nameKey": "終結孤單"
-        },
-        {
-          "index": 2,
-          "title": "溫柔",
-          "artists": "五月天",
-          "videoId": "nWb_X3ZJQjw",
-          "plays": 36000000,
-          "playsText": "36M plays",
-          "duration": 270,
-          "byOther": false,
-          "nameKey": "溫柔"
-        },
-        {
-          "index": 3,
-          "title": "瘋狂世界",
-          "artists": "五月天",
-          "videoId": "YrB6zsbeEr8",
-          "plays": 5400000,
-          "playsText": "5.4M plays",
-          "duration": 212,
-          "byOther": false,
-          "nameKey": "瘋狂世界"
-        },
-        {
-          "index": 4,
-          "title": "擁抱",
-          "artists": "五月天",
-          "videoId": "lvDa3r1pNuE",
-          "plays": 18000000,
-          "playsText": "18M plays",
-          "duration": 253,
-          "byOther": false,
-          "nameKey": "擁抱"
-        },
-        {
-          "index": 5,
-          "title": "彩虹",
-          "artists": "五月天",
-          "videoId": "7WQFI_wiEIk",
-          "plays": 5300000,
-          "playsText": "5.3M plays",
-          "duration": 297,
-          "byOther": false,
-          "nameKey": "彩虹"
-        },
-        {
-          "index": 6,
-          "title": "愛情的模樣",
-          "artists": "五月天",
-          "videoId": "8Zr6QKytnmU",
-          "plays": 5600000,
-          "playsText": "5.6M plays",
-          "duration": 306,
-          "byOther": false,
-          "nameKey": "愛情的模樣"
-        },
-        {
-          "index": 7,
-          "title": "在這一秒",
-          "artists": "五月天/羽泉",
-          "videoId": "36gzV3HfbfQ",
-          "plays": 188000,
-          "playsText": "188K plays",
-          "duration": 154,
-          "byOther": false,
-          "nameKey": "在這一秒"
-        },
-        {
-          "index": 8,
-          "title": "搖滾本事",
-          "artists": "五月天",
-          "videoId": "wlxffEX8WNI",
-          "plays": 258000,
-          "playsText": "258K plays",
-          "duration": 187,
-          "byOther": false,
-          "nameKey": "搖滾本事"
-        },
-        {
-          "index": 9,
-          "title": "人生海海",
-          "artists": "五月天",
-          "videoId": "yarOcdANK50",
-          "plays": 9400000,
-          "playsText": "9.4M plays",
-          "duration": 280,
-          "byOther": false,
-          "nameKey": "人生海海"
-        },
-        {
-          "index": 10,
-          "title": "生命有一種絕對",
-          "artists": "五月天",
-          "videoId": "crc0JH42Lwk",
-          "plays": 5100000,
-          "playsText": "5.1M plays",
-          "duration": 239,
-          "byOther": false,
-          "nameKey": "生命有一種絕對"
-        },
-        {
-          "index": 11,
-          "title": "愛情萬歲",
-          "artists": "五月天",
-          "videoId": "QKkQU4lzIbc",
-          "plays": 3600000,
-          "playsText": "3.6M plays",
-          "duration": 363,
-          "byOther": false,
-          "nameKey": "愛情萬歲"
-        },
-        {
-          "index": 12,
-          "title": "透露",
-          "artists": "五月天",
-          "videoId": "pPiYz-hAhl4",
-          "plays": 1600000,
-          "playsText": "1.6M plays",
-          "duration": 214,
-          "byOther": false,
-          "nameKey": "透露"
-        },
-        {
-          "index": 13,
-          "title": "我",
-          "artists": "五月天",
-          "videoId": "KQBOJcniVvg",
-          "plays": 750000,
-          "playsText": "750K plays",
-          "duration": 270,
-          "byOther": false,
-          "nameKey": "我"
-        },
-        {
-          "index": 14,
-          "title": "闖",
-          "artists": "五月天",
-          "videoId": "xxuz6tbta-o",
-          "plays": 538000,
-          "playsText": "538K plays",
-          "duration": 302,
-          "byOther": false,
-          "nameKey": "闖"
-        }
-      ],
-      "releaseDate": "2003-04-17",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "我們是五月天"
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "候鳥五月天電影音樂作品"
     },
     {
       "browseId": "MPREb_r0lrYPz2o53",
@@ -1848,10 +1693,183 @@
           "nameKey": "小時候"
         }
       ],
-      "releaseDate": "2003-11-11",
+      "releaseDate": "2003-01-01",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "時光機 (專輯)",
+      "wikiKind": null,
+      "nameKey": "時光機"
+    },
+    {
+      "browseId": "MPREb_6Q42fgzuELl",
+      "playlistId": "OLAK5uy_l4IVfbldC0DzUWtwrqalvloYSpr4Wckwk",
+      "title": "我們是五月天",
+      "albumArtist": "五月天",
+      "type": "Album",
+      "year": 2003,
+      "thumbnail": "https://yt3.googleusercontent.com/u6ZMcEtopaKWLWknJ4xq1v_TG_pIrsc0oNCBv1H4JlaOe2kgQ6b9PT6ZMuIx5fp1pFl3kl6q-BeWV60U=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "終結孤單",
+          "artists": "五月天",
+          "videoId": "bwB4KYblxsY",
+          "plays": 4500000,
+          "playsText": "4.5M plays",
+          "duration": 190,
+          "byOther": false,
+          "nameKey": "終結孤單"
+        },
+        {
+          "index": 2,
+          "title": "溫柔",
+          "artists": "五月天",
+          "videoId": "nWb_X3ZJQjw",
+          "plays": 36000000,
+          "playsText": "36M plays",
+          "duration": 270,
+          "byOther": false,
+          "nameKey": "溫柔"
+        },
+        {
+          "index": 3,
+          "title": "瘋狂世界",
+          "artists": "五月天",
+          "videoId": "YrB6zsbeEr8",
+          "plays": 5400000,
+          "playsText": "5.4M plays",
+          "duration": 212,
+          "byOther": false,
+          "nameKey": "瘋狂世界"
+        },
+        {
+          "index": 4,
+          "title": "擁抱",
+          "artists": "五月天",
+          "videoId": "lvDa3r1pNuE",
+          "plays": 18000000,
+          "playsText": "18M plays",
+          "duration": 253,
+          "byOther": false,
+          "nameKey": "擁抱"
+        },
+        {
+          "index": 5,
+          "title": "彩虹",
+          "artists": "五月天",
+          "videoId": "7WQFI_wiEIk",
+          "plays": 5300000,
+          "playsText": "5.3M plays",
+          "duration": 297,
+          "byOther": false,
+          "nameKey": "彩虹"
+        },
+        {
+          "index": 6,
+          "title": "愛情的模樣",
+          "artists": "五月天",
+          "videoId": "8Zr6QKytnmU",
+          "plays": 5600000,
+          "playsText": "5.6M plays",
+          "duration": 306,
+          "byOther": false,
+          "nameKey": "愛情的模樣"
+        },
+        {
+          "index": 7,
+          "title": "在這一秒",
+          "artists": "五月天/羽泉",
+          "videoId": "36gzV3HfbfQ",
+          "plays": 188000,
+          "playsText": "188K plays",
+          "duration": 154,
+          "byOther": false,
+          "nameKey": "在這一秒"
+        },
+        {
+          "index": 8,
+          "title": "搖滾本事",
+          "artists": "五月天",
+          "videoId": "wlxffEX8WNI",
+          "plays": 258000,
+          "playsText": "258K plays",
+          "duration": 187,
+          "byOther": false,
+          "nameKey": "搖滾本事"
+        },
+        {
+          "index": 9,
+          "title": "人生海海",
+          "artists": "五月天",
+          "videoId": "yarOcdANK50",
+          "plays": 9400000,
+          "playsText": "9.4M plays",
+          "duration": 280,
+          "byOther": false,
+          "nameKey": "人生海海"
+        },
+        {
+          "index": 10,
+          "title": "生命有一種絕對",
+          "artists": "五月天",
+          "videoId": "crc0JH42Lwk",
+          "plays": 5100000,
+          "playsText": "5.1M plays",
+          "duration": 239,
+          "byOther": false,
+          "nameKey": "生命有一種絕對"
+        },
+        {
+          "index": 11,
+          "title": "愛情萬歲",
+          "artists": "五月天",
+          "videoId": "QKkQU4lzIbc",
+          "plays": 3600000,
+          "playsText": "3.6M plays",
+          "duration": 363,
+          "byOther": false,
+          "nameKey": "愛情萬歲"
+        },
+        {
+          "index": 12,
+          "title": "透露",
+          "artists": "五月天",
+          "videoId": "pPiYz-hAhl4",
+          "plays": 1600000,
+          "playsText": "1.6M plays",
+          "duration": 214,
+          "byOther": false,
+          "nameKey": "透露"
+        },
+        {
+          "index": 13,
+          "title": "我",
+          "artists": "五月天",
+          "videoId": "KQBOJcniVvg",
+          "plays": 750000,
+          "playsText": "750K plays",
+          "duration": 270,
+          "byOther": false,
+          "nameKey": "我"
+        },
+        {
+          "index": 14,
+          "title": "闖",
+          "artists": "五月天",
+          "videoId": "xxuz6tbta-o",
+          "plays": 538000,
+          "playsText": "538K plays",
+          "duration": 302,
+          "byOther": false,
+          "nameKey": "闖"
+        }
+      ],
+      "releaseDate": "2003-04-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "時光機 (專輯)"
+      "wikiTitle": "我們是五月天",
+      "wikiKind": "compilation",
+      "nameKey": "我們是五月天"
     },
     {
       "browseId": "MPREb_EgZs5ifUOhN",
@@ -2163,7 +2181,9 @@
       "releaseDate": "2004-03-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "天空之城復出演唱會 Live全紀錄"
+      "wikiTitle": "天空之城復出演唱會 Live全紀錄",
+      "wikiKind": "live",
+      "nameKey": "天空之城復出演唱會livecd全紀錄"
     },
     {
       "browseId": "MPREb_Gza5DGyxUdY",
@@ -2321,7 +2341,9 @@
       "releaseDate": "2004-11-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "神的孩子都在跳舞 (專輯)"
+      "wikiTitle": "神的孩子都在跳舞 (專輯)",
+      "wikiKind": null,
+      "nameKey": "神的孩子都在跳舞"
     },
     {
       "browseId": "MPREb_8RH37fVJMPp",
@@ -2663,10 +2685,12 @@
           "nameKey": "鹹魚"
         }
       ],
-      "releaseDate": "2005-08-26",
+      "releaseDate": "2005-01-01",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "知足 最真傑作選"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "知足just my pride最真傑作選",
+      "wikiKind": null,
+      "nameKey": "知足justmypride最眞傑作選"
     },
     {
       "browseId": "MPREb_1m1cnsJsR90",
@@ -3110,7 +3134,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "2005世界巡迴演唱會finalhomelivecd"
     },
     {
       "browseId": "MPREb_XgJUylh9GEP",
@@ -3268,7 +3294,9 @@
       "releaseDate": "2006-12-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "為愛而生"
+      "wikiTitle": "為愛而生",
+      "wikiKind": null,
+      "nameKey": "為愛而生"
     },
     {
       "browseId": "MPREb_m836PbUrhhD",
@@ -3471,7 +3499,9 @@
       "releaseDate": "2007-07-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "離開地球表面 2007極限大碟"
+      "wikiTitle": "離開地球表面 2007極限大碟",
+      "wikiKind": "live",
+      "nameKey": "離開地球表面jumptheworld2007極限大碟"
     },
     {
       "browseId": "MPREb_VR3mJLwiu1K",
@@ -3497,7 +3527,9 @@
       "releaseDate": "2008-03-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "song-table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "小太陽"
     },
     {
       "browseId": "MPREb_tkp9iiYlhu9",
@@ -3644,7 +3676,9 @@
       "releaseDate": "2008-10-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "後青春期的詩"
+      "wikiTitle": "後青春期的詩",
+      "wikiKind": null,
+      "nameKey": "後青春期的詩"
     },
     {
       "browseId": "MPREb_KaSVnP4twcj",
@@ -3824,7 +3858,9 @@
       "releaseDate": "2009-03-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "十萬人·出頭天 Live全紀錄"
+      "wikiTitle": "十萬人·出頭天 Live全紀錄",
+      "wikiKind": "live",
+      "nameKey": "10萬人出頭天live"
     },
     {
       "browseId": "MPREb_fJFhtMddPA5",
@@ -3863,7 +3899,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
       "wikiTitle": "五月天音樂作品列表",
-      "titleZh": "DNA(3DNA LIVE 版)"
+      "wikiKind": "single",
+      "titleZh": "DNA(3DNA LIVE 版)",
+      "nameKey": "dna"
     },
     {
       "browseId": "MPREb_s9Ooc4eMcvo",
@@ -4165,7 +4203,9 @@
       "releaseDate": "2009-12-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "創造 小巨蛋演唱會創紀錄音"
+      "wikiTitle": "創造 小巨蛋演唱會創紀錄音",
+      "wikiKind": "live",
+      "nameKey": "五月天創造小巨蛋dnalive創紀錄音"
     },
     {
       "browseId": "MPREb_VqMc8Zxi61N",
@@ -4334,7 +4374,9 @@
       "releaseDate": "2011-12-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "第二人生 (專輯)"
+      "wikiTitle": "第二人生 (專輯)",
+      "wikiKind": null,
+      "nameKey": "第二人生nowhere末日版"
     },
     {
       "browseId": "MPREb_CoHXZRMesvf",
@@ -4503,7 +4545,9 @@
       "releaseDate": "2011-12-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "第二人生 (專輯)"
+      "wikiTitle": "第二人生 (專輯)",
+      "wikiKind": null,
+      "nameKey": "第二人生nowhere明日版"
     },
     {
       "browseId": "MPREb_Jniih4WD9U3",
@@ -4694,7 +4738,274 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "五月天電影原聲音樂專輯"
+    },
+    {
+      "browseId": "MPREb_Hs4YubQpGOK",
+      "playlistId": "OLAK5uy_kmZEJrXXkfyNpSlVCeq_JAJGKzQi5l_LY",
+      "title": "五月天 | 步步 | 自選作品輯 the Best of 1999-2013",
+      "albumArtist": "五月天",
+      "type": "Album",
+      "year": 2013,
+      "thumbnail": "https://yt3.googleusercontent.com/A3OgMPUy6Q38x16lr3VDNlWlHJKTokkSp-xeNVmOz-WRZdxygYB55-GgncdjQYcNptwMR9iVfOL9c73Vzg=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "步步",
+          "artists": "",
+          "videoId": "97axrS3Npxk",
+          "plays": 65000000,
+          "playsText": "65M plays",
+          "duration": 274,
+          "byOther": false,
+          "nameKey": "步步"
+        },
+        {
+          "index": 2,
+          "title": "擁抱",
+          "artists": "",
+          "videoId": "hEgc1mS0_Ms",
+          "plays": 9000000,
+          "playsText": "9M plays",
+          "duration": 287,
+          "byOther": false,
+          "nameKey": "擁抱"
+        },
+        {
+          "index": 3,
+          "title": "傷心的人別聽慢歌",
+          "artists": "",
+          "videoId": "xWTiOqJqkk0",
+          "plays": 80000000,
+          "playsText": "80M plays",
+          "duration": 214,
+          "byOther": false,
+          "nameKey": "傷心的人別聽慢歌"
+        },
+        {
+          "index": 4,
+          "title": "洋蔥",
+          "artists": "",
+          "videoId": "jGqpz3stgzY",
+          "plays": 46000000,
+          "playsText": "46M plays",
+          "duration": 276,
+          "byOther": false,
+          "nameKey": "洋蔥"
+        },
+        {
+          "index": 5,
+          "title": "乾杯",
+          "artists": "",
+          "videoId": "FkCoCbs84GY",
+          "plays": 73000000,
+          "playsText": "73M plays",
+          "duration": 286,
+          "byOther": false,
+          "nameKey": "乾杯"
+        },
+        {
+          "index": 6,
+          "title": "入陣曲",
+          "artists": "",
+          "videoId": "DDs5bXh4erM",
+          "plays": 84000000,
+          "playsText": "84M plays",
+          "duration": 208,
+          "byOther": false,
+          "nameKey": "入陣曲"
+        },
+        {
+          "index": 7,
+          "title": "突然好想你",
+          "artists": "",
+          "videoId": "GtDRcXtDg-4",
+          "plays": 66000000,
+          "playsText": "66M plays",
+          "duration": 263,
+          "byOther": false,
+          "nameKey": "突然好想你"
+        },
+        {
+          "index": 8,
+          "title": "離開地球表面",
+          "artists": "",
+          "videoId": "OpvbkAgcdIo",
+          "plays": 10000000,
+          "playsText": "10M plays",
+          "duration": 272,
+          "byOther": false,
+          "nameKey": "離開地球表面"
+        },
+        {
+          "index": 9,
+          "title": "星空",
+          "artists": "",
+          "videoId": "RTUwaCImChM",
+          "plays": 60000000,
+          "playsText": "60M plays",
+          "duration": 279,
+          "byOther": false,
+          "nameKey": "星空"
+        },
+        {
+          "index": 10,
+          "title": "我不願讓你一個人",
+          "artists": "",
+          "videoId": "38lcQsEMGrk",
+          "plays": 154000000,
+          "playsText": "154M plays",
+          "duration": 266,
+          "byOther": false,
+          "nameKey": "我不願讓你一個人"
+        },
+        {
+          "index": 11,
+          "title": "知足",
+          "artists": "",
+          "videoId": "CqN1NgsB-v0",
+          "plays": 3700000,
+          "playsText": "3.7M plays",
+          "duration": 314,
+          "byOther": false,
+          "nameKey": "知足"
+        },
+        {
+          "index": 12,
+          "title": "你是唯一",
+          "artists": "",
+          "videoId": "X1w3JU5dIAg",
+          "plays": 9600000,
+          "playsText": "9.6M plays",
+          "duration": 216,
+          "byOther": false,
+          "nameKey": "你是唯一"
+        },
+        {
+          "index": 13,
+          "title": "夜訪吸血鬼",
+          "artists": "",
+          "videoId": "03-ge__OaIU",
+          "plays": 12000000,
+          "playsText": "12M plays",
+          "duration": 251,
+          "byOther": false,
+          "nameKey": "夜訪吸血鬼"
+        },
+        {
+          "index": 14,
+          "title": "如煙",
+          "artists": "",
+          "videoId": "FTrV_DnL5d8",
+          "plays": 15000000,
+          "playsText": "15M plays",
+          "duration": 314,
+          "byOther": false,
+          "nameKey": "如煙"
+        },
+        {
+          "index": 15,
+          "title": "盛夏光年",
+          "artists": "",
+          "videoId": "jpsyk-5jGwY",
+          "plays": 32000000,
+          "playsText": "32M plays",
+          "duration": 283,
+          "byOther": false,
+          "nameKey": "盛夏光年"
+        },
+        {
+          "index": 16,
+          "title": "三個傻瓜",
+          "artists": "",
+          "videoId": "NbtaaTfINaM",
+          "plays": 4400000,
+          "playsText": "4.4M plays",
+          "duration": 255,
+          "byOther": false,
+          "nameKey": "三個傻瓜"
+        },
+        {
+          "index": 17,
+          "title": "摩記車日記",
+          "artists": "",
+          "videoId": "x_RFWp9omTI",
+          "plays": 453000,
+          "playsText": "453K plays",
+          "duration": 286,
+          "byOther": false,
+          "nameKey": "摩記車日記"
+        },
+        {
+          "index": 18,
+          "title": "最重要的小事",
+          "artists": "",
+          "videoId": "pMrPsDlGpN0",
+          "plays": 1800000,
+          "playsText": "1.8M plays",
+          "duration": 289,
+          "byOther": false,
+          "nameKey": "最重要的小事"
+        },
+        {
+          "index": 19,
+          "title": "諾亞方舟",
+          "artists": "",
+          "videoId": "V46K7apDziA",
+          "plays": 12000000,
+          "playsText": "12M plays",
+          "duration": 345,
+          "byOther": false,
+          "nameKey": "諾亞方舟"
+        },
+        {
+          "index": 20,
+          "title": "我心中尚未崩壞的地方",
+          "artists": "",
+          "videoId": "GDjFEYwezo8",
+          "plays": 9900000,
+          "playsText": "9.9M plays",
+          "duration": 326,
+          "byOther": false,
+          "nameKey": "我心中尚未崩壞的地方"
+        }
+      ],
+      "releaseDate": "2013-01-01",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "步步自選作品輯 The Best of 1999-2013",
+      "wikiKind": null,
+      "nameKey": "五月天步步自選作品輯thebestof19992013"
+    },
+    {
+      "browseId": "MPREb_gaP2CAjtPnE",
+      "playlistId": "OLAK5uy_kjj-JqiHbijTumvkXxr0thvoSM1kuBJ28",
+      "title": "Dancin' Dancin'  feat.TERU",
+      "albumArtist": "五月天",
+      "type": "Single",
+      "year": 2013,
+      "thumbnail": "https://yt3.googleusercontent.com/K2sR1Xdn_CsHmEqzcbnREjr0uuoAwGyt1mKECDbYm5JptvUjoSkOxXGVeR2AUV4hIBme_W1w60K4HDmz=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Dancin' Dancin'  feat.TERU (feat. TERU)",
+          "artists": "",
+          "videoId": "UVsoL2VEwhI",
+          "plays": 1700000,
+          "playsText": "1.7M plays",
+          "duration": 215,
+          "byOther": false,
+          "nameKey": "dancindancinfeatteru"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "dancindancinfeatteru"
     },
     {
       "browseId": "MPREb_FlhL4g1RLbZ",
@@ -4992,271 +5303,12 @@
           "nameKey": "傷心的人別聽慢歌"
         }
       ],
-      "releaseDate": "2013-09-27",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "諾亞方舟 世界巡迴演唱會Live"
-    },
-    {
-      "browseId": "MPREb_Hs4YubQpGOK",
-      "playlistId": "OLAK5uy_kmZEJrXXkfyNpSlVCeq_JAJGKzQi5l_LY",
-      "title": "五月天 | 步步 | 自選作品輯 the Best of 1999-2013",
-      "albumArtist": "五月天",
-      "type": "Album",
-      "year": 2013,
-      "thumbnail": "https://yt3.googleusercontent.com/A3OgMPUy6Q38x16lr3VDNlWlHJKTokkSp-xeNVmOz-WRZdxygYB55-GgncdjQYcNptwMR9iVfOL9c73Vzg=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "步步",
-          "artists": "",
-          "videoId": "97axrS3Npxk",
-          "plays": 65000000,
-          "playsText": "65M plays",
-          "duration": 274,
-          "byOther": false,
-          "nameKey": "步步"
-        },
-        {
-          "index": 2,
-          "title": "擁抱",
-          "artists": "",
-          "videoId": "hEgc1mS0_Ms",
-          "plays": 9000000,
-          "playsText": "9M plays",
-          "duration": 287,
-          "byOther": false,
-          "nameKey": "擁抱"
-        },
-        {
-          "index": 3,
-          "title": "傷心的人別聽慢歌",
-          "artists": "",
-          "videoId": "xWTiOqJqkk0",
-          "plays": 80000000,
-          "playsText": "80M plays",
-          "duration": 214,
-          "byOther": false,
-          "nameKey": "傷心的人別聽慢歌"
-        },
-        {
-          "index": 4,
-          "title": "洋蔥",
-          "artists": "",
-          "videoId": "jGqpz3stgzY",
-          "plays": 46000000,
-          "playsText": "46M plays",
-          "duration": 276,
-          "byOther": false,
-          "nameKey": "洋蔥"
-        },
-        {
-          "index": 5,
-          "title": "乾杯",
-          "artists": "",
-          "videoId": "FkCoCbs84GY",
-          "plays": 73000000,
-          "playsText": "73M plays",
-          "duration": 286,
-          "byOther": false,
-          "nameKey": "乾杯"
-        },
-        {
-          "index": 6,
-          "title": "入陣曲",
-          "artists": "",
-          "videoId": "DDs5bXh4erM",
-          "plays": 84000000,
-          "playsText": "84M plays",
-          "duration": 208,
-          "byOther": false,
-          "nameKey": "入陣曲"
-        },
-        {
-          "index": 7,
-          "title": "突然好想你",
-          "artists": "",
-          "videoId": "GtDRcXtDg-4",
-          "plays": 66000000,
-          "playsText": "66M plays",
-          "duration": 263,
-          "byOther": false,
-          "nameKey": "突然好想你"
-        },
-        {
-          "index": 8,
-          "title": "離開地球表面",
-          "artists": "",
-          "videoId": "OpvbkAgcdIo",
-          "plays": 10000000,
-          "playsText": "10M plays",
-          "duration": 272,
-          "byOther": false,
-          "nameKey": "離開地球表面"
-        },
-        {
-          "index": 9,
-          "title": "星空",
-          "artists": "",
-          "videoId": "RTUwaCImChM",
-          "plays": 60000000,
-          "playsText": "60M plays",
-          "duration": 279,
-          "byOther": false,
-          "nameKey": "星空"
-        },
-        {
-          "index": 10,
-          "title": "我不願讓你一個人",
-          "artists": "",
-          "videoId": "38lcQsEMGrk",
-          "plays": 154000000,
-          "playsText": "154M plays",
-          "duration": 266,
-          "byOther": false,
-          "nameKey": "我不願讓你一個人"
-        },
-        {
-          "index": 11,
-          "title": "知足",
-          "artists": "",
-          "videoId": "CqN1NgsB-v0",
-          "plays": 3700000,
-          "playsText": "3.7M plays",
-          "duration": 314,
-          "byOther": false,
-          "nameKey": "知足"
-        },
-        {
-          "index": 12,
-          "title": "你是唯一",
-          "artists": "",
-          "videoId": "X1w3JU5dIAg",
-          "plays": 9600000,
-          "playsText": "9.6M plays",
-          "duration": 216,
-          "byOther": false,
-          "nameKey": "你是唯一"
-        },
-        {
-          "index": 13,
-          "title": "夜訪吸血鬼",
-          "artists": "",
-          "videoId": "03-ge__OaIU",
-          "plays": 12000000,
-          "playsText": "12M plays",
-          "duration": 251,
-          "byOther": false,
-          "nameKey": "夜訪吸血鬼"
-        },
-        {
-          "index": 14,
-          "title": "如煙",
-          "artists": "",
-          "videoId": "FTrV_DnL5d8",
-          "plays": 15000000,
-          "playsText": "15M plays",
-          "duration": 314,
-          "byOther": false,
-          "nameKey": "如煙"
-        },
-        {
-          "index": 15,
-          "title": "盛夏光年",
-          "artists": "",
-          "videoId": "jpsyk-5jGwY",
-          "plays": 32000000,
-          "playsText": "32M plays",
-          "duration": 283,
-          "byOther": false,
-          "nameKey": "盛夏光年"
-        },
-        {
-          "index": 16,
-          "title": "三個傻瓜",
-          "artists": "",
-          "videoId": "NbtaaTfINaM",
-          "plays": 4400000,
-          "playsText": "4.4M plays",
-          "duration": 255,
-          "byOther": false,
-          "nameKey": "三個傻瓜"
-        },
-        {
-          "index": 17,
-          "title": "摩記車日記",
-          "artists": "",
-          "videoId": "x_RFWp9omTI",
-          "plays": 453000,
-          "playsText": "453K plays",
-          "duration": 286,
-          "byOther": false,
-          "nameKey": "摩記車日記"
-        },
-        {
-          "index": 18,
-          "title": "最重要的小事",
-          "artists": "",
-          "videoId": "pMrPsDlGpN0",
-          "plays": 1800000,
-          "playsText": "1.8M plays",
-          "duration": 289,
-          "byOther": false,
-          "nameKey": "最重要的小事"
-        },
-        {
-          "index": 19,
-          "title": "諾亞方舟",
-          "artists": "",
-          "videoId": "V46K7apDziA",
-          "plays": 12000000,
-          "playsText": "12M plays",
-          "duration": 345,
-          "byOther": false,
-          "nameKey": "諾亞方舟"
-        },
-        {
-          "index": 20,
-          "title": "我心中尚未崩壞的地方",
-          "artists": "",
-          "videoId": "GDjFEYwezo8",
-          "plays": 9900000,
-          "playsText": "9.9M plays",
-          "duration": 326,
-          "byOther": false,
-          "nameKey": "我心中尚未崩壞的地方"
-        }
-      ],
-      "releaseDate": "2013-12-30",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "步步 自選作品輯"
-    },
-    {
-      "browseId": "MPREb_gaP2CAjtPnE",
-      "playlistId": "OLAK5uy_kjj-JqiHbijTumvkXxr0thvoSM1kuBJ28",
-      "title": "Dancin' Dancin'  feat.TERU",
-      "albumArtist": "五月天",
-      "type": "Single",
-      "year": 2013,
-      "thumbnail": "https://yt3.googleusercontent.com/K2sR1Xdn_CsHmEqzcbnREjr0uuoAwGyt1mKECDbYm5JptvUjoSkOxXGVeR2AUV4hIBme_W1w60K4HDmz=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "Dancin' Dancin'  feat.TERU (feat. TERU)",
-          "artists": "",
-          "videoId": "UVsoL2VEwhI",
-          "plays": 1700000,
-          "playsText": "1.7M plays",
-          "duration": 215,
-          "byOther": false,
-          "nameKey": "dancindancinfeatteru"
-        }
-      ],
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "五月天諾亞方舟世界巡迴演唱會live2cd"
     },
     {
       "browseId": "MPREb_pFDhiPKre18",
@@ -5341,7 +5393,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Do You Ever Shine?",
-      "titleZh": "Do You Ever Shine?（中文版）"
+      "wikiKind": "single",
+      "titleZh": "Do You Ever Shine?（中文版）",
+      "nameKey": "doyouevershine"
     },
     {
       "browseId": "MPREb_jdlmScP9ECS",
@@ -5367,7 +5421,9 @@
       "releaseDate": "2014-06-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "由我們主宰"
     },
     {
       "browseId": "MPREb_Nhg65a5q9OO",
@@ -5393,7 +5449,9 @@
       "releaseDate": "2014-11-04",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "將軍令 (五月天歌曲)"
+      "wikiTitle": "將軍令 (五月天歌曲)",
+      "wikiKind": null,
+      "nameKey": "將軍令"
     },
     {
       "browseId": "MPREb_Ljud9L3WeCM",
@@ -5474,7 +5532,9 @@
       "releaseDate": "2015-06-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "YOUR LEGEND～燃燒的生命～"
+      "wikiTitle": "YOUR LEGEND～燃燒的生命～",
+      "wikiKind": null,
+      "nameKey": "yourlegend燃ゆる命"
     },
     {
       "browseId": "MPREb_cvveGeDX9TR",
@@ -5500,7 +5560,9 @@
       "releaseDate": "2015-12-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "勇敢"
     },
     {
       "browseId": "MPREb_emvKeMwRU81",
@@ -5657,8 +5719,10 @@
       ],
       "releaseDate": "2016-07-21",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "自傳 (五月天專輯)"
+      "releaseDateSource": "table",
+      "wikiTitle": "自傳 (五月天專輯)",
+      "wikiKind": null,
+      "nameKey": "自傳"
     },
     {
       "browseId": "MPREb_3L9mmi4sS31",
@@ -5684,7 +5748,9 @@
       "releaseDate": "2017-03-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "凡人歌"
     },
     {
       "browseId": "MPREb_7xdO5aRiV4p",
@@ -5710,7 +5776,9 @@
       "releaseDate": "2018-01-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "什麼歌"
+      "wikiTitle": "什麼歌",
+      "wikiKind": null,
+      "nameKey": "什麼歌"
     },
     {
       "browseId": "MPREb_nBnMMsRZsCd",
@@ -5736,7 +5804,9 @@
       "releaseDate": "2018-04-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "自傳 (五月天專輯)"
+      "wikiTitle": "自傳 (五月天專輯)",
+      "wikiKind": null,
+      "nameKey": "後來的我們"
     },
     {
       "browseId": "MPREb_ElnJ6h9SWm8",
@@ -5762,7 +5832,9 @@
       "releaseDate": "2018-05-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "iwillcarryyou"
     },
     {
       "browseId": "MPREb_FdDgqaHs3H0",
@@ -5788,7 +5860,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "轉眼"
     },
     {
       "browseId": "MPREb_YFkFBiOvpI6",
@@ -5814,7 +5888,9 @@
       "releaseDate": "2019-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "五月天獲獎與提名列表"
+      "wikiTitle": "五月天獲獎與提名列表",
+      "wikiKind": null,
+      "nameKey": "玫瑰少年"
     },
     {
       "browseId": "MPREb_p2IfmDsE89i",
@@ -5961,7 +6037,9 @@
       "releaseDate": "2019-05-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "五月天 人生無限公司 LiFE LiVE 3CD"
+      "wikiTitle": "五月天 人生無限公司 LiFE LiVE 3CD",
+      "wikiKind": null,
+      "nameKey": "五月天人生無限公司lifelive好友加班篇"
     },
     {
       "browseId": "MPREb_hzS4IWolOCK",
@@ -6240,7 +6318,9 @@
       "releaseDate": "2019-05-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "五月天 人生無限公司 LiFE LiVE 3CD"
+      "wikiTitle": "五月天 人生無限公司 LiFE LiVE 3CD",
+      "wikiKind": null,
+      "nameKey": "五月天人生無限公司lifelive完整收錄篇"
     },
     {
       "browseId": "MPREb_eh0x4SrWKUz",
@@ -6266,7 +6346,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "瘋狂世界maydayblue20th"
     },
     {
       "browseId": "MPREb_VOL3sS5iqhf",
@@ -6292,7 +6374,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "純眞maydayblue20th"
     },
     {
       "browseId": "MPREb_k907GfC4HF5",
@@ -6318,7 +6402,9 @@
       "releaseDate": "2020-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "五月天獲獎與提名列表"
+      "wikiTitle": "五月天獲獎與提名列表",
+      "wikiKind": null,
+      "nameKey": "溫柔maydayblue20th"
     },
     {
       "browseId": "MPREb_27ndWY9eEBp",
@@ -6344,7 +6430,9 @@
       "releaseDate": "2020-12-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "因為你 所以我"
+      "wikiTitle": "因為你 所以我",
+      "wikiKind": null,
+      "nameKey": "因為你所以我"
     },
     {
       "browseId": "MPREb_QqdE4yD59U4",
@@ -6491,7 +6579,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "五月天突然好想見到你liveinthesky"
     },
     {
       "browseId": "MPREb_Dv8GIw42Iyu",
@@ -6517,7 +6607,9 @@
       "releaseDate": "2021-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "五月天獲獎與提名列表"
+      "wikiTitle": "五月天獲獎與提名列表",
+      "wikiKind": null,
+      "nameKey": "刻在我心底的名字"
     },
     {
       "browseId": "MPREb_0dNCavQNEaF",
@@ -6543,7 +6635,9 @@
       "releaseDate": "2022-11-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "你的神曲"
     },
     {
       "browseId": "MPREb_XAspS8MVusi",
@@ -6569,7 +6663,9 @@
       "releaseDate": "2022-12-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "為你寫下這首情歌"
     },
     {
       "browseId": "MPREb_xAeZjZX403w",
@@ -6694,7 +6790,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "五月天好好好想見到你maydayflyto2022線上特別版live"
     },
     {
       "browseId": "MPREb_XTp1wzsBjvT",
@@ -6819,7 +6917,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "五月天flyto2023諾亞方舟10週年線上特別版live"
     },
     {
       "browseId": "MPREb_Nm3cKZSPTXj",
@@ -6845,7 +6945,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "唯一"
     },
     {
       "browseId": "MPREb_UqelIIzCTCJ",
@@ -6871,7 +6973,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "知足"
     },
     {
       "browseId": "MPREb_IhASCuclYUL",
@@ -6897,7 +7001,9 @@
       "releaseDate": "2024-12-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "五月天音樂作品列表"
+      "wikiTitle": "五月天音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "任性"
     },
     {
       "browseId": "MPREb_7lV9oeILWWM",
@@ -6923,7 +7029,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "星期五晚上"
     },
     {
       "browseId": "MPREb_EmxetLcrzyR",
@@ -6949,7 +7057,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "如煙"
     },
     {
       "browseId": "MPREb_KWdnLeVlupE",
@@ -6975,7 +7085,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "達拉崩吧"
     }
   ]
 }

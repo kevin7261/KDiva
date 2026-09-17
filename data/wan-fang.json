@@ -135,7 +135,9 @@
       "releaseDate": "1992-01-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "放心 (萬芳專輯)"
+      "wikiTitle": "放心 (萬芳專輯)",
+      "wikiKind": null,
+      "nameKey": "放心"
     },
     {
       "browseId": "MPREb_8LHoWCOLnvg",
@@ -260,7 +262,9 @@
       "releaseDate": "1992-11-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "真情 (萬芳專輯)"
+      "wikiTitle": "真情 (萬芳專輯)",
+      "wikiKind": null,
+      "nameKey": "眞情"
     },
     {
       "browseId": "MPREb_DhCDQaV1o7z",
@@ -386,7 +390,9 @@
       "releaseDate": "1993-09-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "貼心"
+      "wikiTitle": "貼心",
+      "wikiKind": null,
+      "nameKey": "貼心"
     },
     {
       "browseId": "MPREb_yI52MYLDeQA",
@@ -512,7 +518,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "Tea for Two",
-      "titleZh": "Tea For Two (兩人喝的茶)"
+      "wikiKind": "studio",
+      "titleZh": "Tea For Two (兩人喝的茶)",
+      "nameKey": "teafortwo"
     },
     {
       "browseId": "MPREb_ApE9a0WCidu",
@@ -637,7 +645,9 @@
       "releaseDate": "1994-08-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "斷線"
+      "wikiTitle": "斷線",
+      "wikiKind": null,
+      "nameKey": "斷線"
     },
     {
       "browseId": "MPREb_RCIjpFvw0ax",
@@ -785,7 +795,9 @@
       "releaseDate": "1995-03-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "一切如新"
+      "wikiTitle": "一切如新",
+      "wikiKind": "compilation",
+      "nameKey": "一切如新"
     },
     {
       "browseId": "MPREb_5KjJb7M3de5",
@@ -910,7 +922,9 @@
       "releaseDate": "1996-01-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "割愛"
+      "wikiTitle": "割愛",
+      "wikiKind": null,
+      "nameKey": "割愛"
     },
     {
       "browseId": "MPREb_SeaBVLoHuP2",
@@ -1035,7 +1049,9 @@
       "releaseDate": "1996-10-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "就值得了愛"
+      "wikiTitle": "就值得了愛",
+      "wikiKind": null,
+      "nameKey": "就值得了愛"
     },
     {
       "browseId": "MPREb_8MBMBJBDPX2",
@@ -1183,7 +1199,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "萬芳精選集"
     },
     {
       "browseId": "MPREb_aY4l4e5weSj",
@@ -1330,7 +1348,9 @@
       "releaseDate": "1997-07-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "左手 (專輯)"
+      "wikiTitle": "左手 (專輯)",
+      "wikiKind": null,
+      "nameKey": "左手"
     },
     {
       "browseId": "MPREb_Z0bOBxoMPcy",
@@ -1477,7 +1497,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "林萬芳歌本答案"
     },
     {
       "browseId": "MPREb_ZE54uKXmwVX",
@@ -1635,7 +1657,9 @@
       "releaseDate": "1999-05-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "不換"
+      "wikiTitle": "不換",
+      "wikiKind": null,
+      "nameKey": "不換"
     },
     {
       "browseId": "MPREb_fR83a1U7JLb",
@@ -1760,7 +1784,9 @@
       "releaseDate": "2000-11-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "這天"
+      "wikiTitle": "這天",
+      "wikiKind": null,
+      "nameKey": "這天"
     },
     {
       "browseId": "MPREb_4XEIh2IV0K2",
@@ -1797,7 +1823,9 @@
       "releaseDate": "2001-12-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "收信快樂"
+      "wikiTitle": "收信快樂",
+      "wikiKind": "single",
+      "nameKey": "收信快樂"
     },
     {
       "browseId": "MPREb_SMTPWubcURs",
@@ -1922,7 +1950,9 @@
       "releaseDate": "2002-12-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "相愛的運氣"
+      "wikiTitle": "相愛的運氣",
+      "wikiKind": null,
+      "nameKey": "相愛的運氣"
     },
     {
       "browseId": "MPREb_H4AKe3FnVmM",
@@ -2103,7 +2133,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "滾石香港黃金10年萬芳精選"
     },
     {
       "browseId": "MPREb_1Q6igBjzfRM",
@@ -2449,7 +2481,9 @@
       "releaseDate": "2005-01-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "One［芳］"
+      "wikiTitle": "One［芳］",
+      "wikiKind": null,
+      "nameKey": "one芳新歌精選"
     },
     {
       "browseId": "MPREb_yci4rODBWuk",
@@ -2574,7 +2608,9 @@
       "releaseDate": "2011-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "萬芳"
+      "wikiTitle": "萬芳",
+      "wikiKind": null,
+      "nameKey": "我們不要傷心了"
     },
     {
       "browseId": "MPREb_fwnNUDgwKYV",
@@ -2710,7 +2746,9 @@
       "releaseDate": "2012-08-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "原來我們都是愛著的"
+      "wikiTitle": "原來我們都是愛著的",
+      "wikiKind": null,
+      "nameKey": "原來我們都是愛著的"
     },
     {
       "browseId": "MPREb_wimzqTOdvEi",
@@ -2780,7 +2818,9 @@
       "releaseDate": "2016-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "萬芳"
+      "wikiTitle": "萬芳",
+      "wikiKind": null,
+      "nameKey": "一半萬芳的小劇場"
     },
     {
       "browseId": "MPREb_jXd0nCkDHVa",
@@ -2806,7 +2846,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "夏天的秘密"
     },
     {
       "browseId": "MPREb_cERFgWqupUu",
@@ -2832,7 +2874,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "時間仍然繼續在走2018"
     },
     {
       "browseId": "MPREb_12ctKAAHjtP",
@@ -2968,7 +3012,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "那些美麗的相遇"
     },
     {
       "browseId": "MPREb_2yAExlw7yO6",
@@ -2994,7 +3040,9 @@
       "releaseDate": "2020-09-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "給你們"
+      "wikiTitle": "給你們",
+      "wikiKind": null,
+      "nameKey": "給妳們dearall"
     },
     {
       "browseId": "MPREb_kDsSpJH5eDU",
@@ -3020,7 +3068,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "什麼將把你帶走"
     },
     {
       "browseId": "MPREb_db81yML9BNj",
@@ -3046,7 +3096,9 @@
       "releaseDate": "2021-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "萬芳"
+      "wikiTitle": "萬芳",
+      "wikiKind": null,
+      "nameKey": "時間梯"
     },
     {
       "browseId": "MPREb_dv4rLfI5Lta",
@@ -3072,7 +3124,9 @@
       "releaseDate": "2021-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "萬芳"
+      "wikiTitle": "萬芳",
+      "wikiKind": null,
+      "nameKey": "阿峰今天沒有來"
     },
     {
       "browseId": "MPREb_RfGiHl4Rf2D",
@@ -3197,7 +3251,9 @@
       "releaseDate": "2021-08-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "prose",
-      "wikiTitle": "萬芳"
+      "wikiTitle": "萬芳",
+      "wikiKind": null,
+      "nameKey": "給你們dearall"
     },
     {
       "browseId": "MPREb_ZFM0hE6rcPU",
@@ -3598,7 +3654,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "時間仍然繼續在走演唱會"
     },
     {
       "browseId": "MPREb_Bra5sBGkQIH",
@@ -3624,7 +3682,9 @@
       "releaseDate": "2023-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "song-table",
-      "wikiTitle": "萬芳"
+      "wikiTitle": "萬芳",
+      "wikiKind": "single",
+      "nameKey": "五月的人"
     },
     {
       "browseId": "MPREb_3wfprq6Sv2h",
@@ -3650,7 +3710,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "everydaysunday"
     },
     {
       "browseId": "MPREb_PJcJeRVsS5U",
@@ -3676,7 +3738,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "夜光影集成名在望主題曲"
     }
   ]
 }

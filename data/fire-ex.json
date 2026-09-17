@@ -30,8 +30,8 @@
           "playsText": "15K plays",
           "duration": 82,
           "byOther": false,
-          "titleZh": "前戲",
-          "nameKey": "前戲"
+          "nameKey": "前戲",
+          "titleZh": "前戲"
         },
         {
           "index": 2,
@@ -42,8 +42,8 @@
           "playsText": "24K plays",
           "duration": 213,
           "byOther": false,
-          "titleZh": "爆衝吧",
-          "nameKey": "爆衝吧"
+          "nameKey": "爆衝吧",
+          "titleZh": "爆衝吧"
         },
         {
           "index": 3,
@@ -54,8 +54,8 @@
           "playsText": "68K plays",
           "duration": 217,
           "byOther": false,
-          "titleZh": "死掉的過去",
-          "nameKey": "死掉的過去"
+          "nameKey": "死掉的過去",
+          "titleZh": "死掉的過去"
         },
         {
           "index": 4,
@@ -66,8 +66,8 @@
           "playsText": "19K plays",
           "duration": 186,
           "byOther": false,
-          "titleZh": "站起來我的朋友",
-          "nameKey": "站起來我的朋友"
+          "nameKey": "站起來我的朋友",
+          "titleZh": "站起來我的朋友"
         },
         {
           "index": 5,
@@ -78,8 +78,8 @@
           "playsText": "20K plays",
           "duration": 164,
           "byOther": false,
-          "titleZh": "新歌一號",
-          "nameKey": "新歌一號"
+          "nameKey": "新歌一號",
+          "titleZh": "新歌一號"
         },
         {
           "index": 6,
@@ -90,8 +90,8 @@
           "playsText": "21K plays",
           "duration": 175,
           "byOther": false,
-          "titleZh": "螺旋",
-          "nameKey": "螺旋"
+          "nameKey": "螺旋",
+          "titleZh": "螺旋"
         },
         {
           "index": 7,
@@ -102,8 +102,8 @@
           "playsText": "25K plays",
           "duration": 207,
           "byOther": false,
-          "titleZh": "悲歌",
-          "nameKey": "悲歌"
+          "nameKey": "悲歌",
+          "titleZh": "悲歌"
         },
         {
           "index": 8,
@@ -114,8 +114,8 @@
           "playsText": "66K plays",
           "duration": 196,
           "byOther": false,
-          "titleZh": "人生",
-          "nameKey": "人生"
+          "nameKey": "人生",
+          "titleZh": "人生"
         },
         {
           "index": 9,
@@ -126,8 +126,8 @@
           "playsText": "49K plays",
           "duration": 181,
           "byOther": false,
-          "titleZh": "新歌二號",
-          "nameKey": "新歌二號"
+          "nameKey": "新歌二號",
+          "titleZh": "新歌二號"
         },
         {
           "index": 10,
@@ -138,8 +138,8 @@
           "playsText": "17K plays",
           "duration": 206,
           "byOther": false,
-          "titleZh": "革命",
-          "nameKey": "革命"
+          "nameKey": "革命",
+          "titleZh": "革命"
         },
         {
           "index": 11,
@@ -150,8 +150,8 @@
           "playsText": "17K plays",
           "duration": 222,
           "byOther": false,
-          "titleZh": "麻痺",
-          "nameKey": "麻痺"
+          "nameKey": "麻痺",
+          "titleZh": "麻痺"
         },
         {
           "index": 12,
@@ -162,8 +162,8 @@
           "playsText": "14K plays",
           "duration": 136,
           "byOther": false,
-          "titleZh": "我們的墮落",
-          "nameKey": "我們的墮落"
+          "nameKey": "我們的墮落",
+          "titleZh": "我們的墮落"
         },
         {
           "index": 13,
@@ -174,8 +174,8 @@
           "playsText": "24K plays",
           "duration": 238,
           "byOther": false,
-          "titleZh": "十九",
-          "nameKey": "19"
+          "nameKey": "19",
+          "titleZh": "十九"
         },
         {
           "index": 14,
@@ -186,8 +186,8 @@
           "playsText": "31K plays",
           "duration": 164,
           "byOther": false,
-          "titleZh": "光明的路",
-          "nameKey": "光明的路"
+          "nameKey": "光明的路",
+          "titleZh": "光明的路"
         },
         {
           "index": 15,
@@ -198,14 +198,16 @@
           "playsText": "148K plays",
           "duration": 178,
           "byOther": false,
-          "titleZh": "我在哪裡",
-          "nameKey": "我在哪裡"
+          "nameKey": "我在哪裡",
+          "titleZh": "我在哪裡"
         }
       ],
       "releaseDate": "2007-07-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Let's Go!"
+      "wikiTitle": "Let's Go!",
+      "wikiKind": null,
+      "nameKey": "letsgo"
     },
     {
       "browseId": "MPREb_s9prYZii4n8",
@@ -353,7 +355,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "Standing Here",
-      "titleZh": "海上的人"
+      "wikiKind": null,
+      "titleZh": "海上的人",
+      "nameKey": "海上的人"
     },
     {
       "browseId": "MPREb_H6VaMfR34ov",
@@ -489,7 +493,9 @@
       "releaseDate": "2013-05-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "再會！青春"
+      "wikiTitle": "再會！青春",
+      "wikiKind": null,
+      "nameKey": "再會青春"
     },
     {
       "browseId": "MPREb_9PLgGv2zWdi",
@@ -538,7 +544,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "島嶼天光",
-      "titleZh": "島嶼天光"
+      "wikiKind": null,
+      "titleZh": "島嶼天光",
+      "nameKey": "島嶼天光"
     },
     {
       "browseId": "MPREb_EQMB22D5AY1",
@@ -564,7 +572,9 @@
       "releaseDate": "2014-03-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "島嶼天光"
+      "wikiTitle": "島嶼天光",
+      "wikiKind": null,
+      "nameKey": "島嶼天光"
     },
     {
       "browseId": "MPREb_vD1elrwky6p",
@@ -613,7 +623,9 @@
       "releaseDate": "2014-03-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "島嶼天光"
+      "wikiTitle": "島嶼天光",
+      "wikiKind": null,
+      "nameKey": "島嶼天光"
     },
     {
       "browseId": "MPREb_zaZn3nNnVWf",
@@ -662,7 +674,9 @@
       "releaseDate": "2014-03-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "島嶼天光"
+      "wikiTitle": "島嶼天光",
+      "wikiKind": null,
+      "nameKey": "滅火器島嶼天光"
     },
     {
       "browseId": "MPREb_tr0i8xL7r5I",
@@ -688,7 +702,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "backtotheworld"
     },
     {
       "browseId": "MPREb_1QhiLLo9PcC",
@@ -742,8 +758,8 @@
           "playsText": "636K plays",
           "duration": 185,
           "byOther": false,
-          "titleZh": "Don't You Fight (feat. 細美武士)",
-          "nameKey": "dontyoufight"
+          "nameKey": "dontyoufight",
+          "titleZh": "Don't You Fight (feat. 細美武士)"
         },
         {
           "index": 5,
@@ -860,7 +876,9 @@
       "releaseDate": "2016-03-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Reborn (滅火器樂團專輯)"
+      "wikiTitle": "Reborn (滅火器樂團專輯)",
+      "wikiKind": null,
+      "nameKey": "reborn"
     },
     {
       "browseId": "MPREb_nTYG11bt3Ip",
@@ -1009,7 +1027,9 @@
       "releaseDate": "2016-03-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Reborn (滅火器樂團專輯)"
+      "wikiTitle": "Reborn (滅火器樂團專輯)",
+      "wikiKind": null,
+      "nameKey": "reborn"
     },
     {
       "browseId": "MPREb_y9oElhFU2lE",
@@ -1035,7 +1055,9 @@
       "releaseDate": "2016-09-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "曾經瘋狂"
+      "wikiTitle": "曾經瘋狂",
+      "wikiKind": "single",
+      "nameKey": "曾經瘋狂"
     },
     {
       "browseId": "MPREb_GRwKKHzBu0Q",
@@ -1282,7 +1304,9 @@
       "releaseDate": "2017-04-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "list",
-      "wikiTitle": "滅火器樂團"
+      "wikiTitle": "滅火器樂團",
+      "wikiKind": "compilation",
+      "nameKey": "進擊下半場"
     },
     {
       "browseId": "MPREb_6ituvFQYx7M",
@@ -1308,7 +1332,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "桃猿戰士"
     },
     {
       "browseId": "MPREb_vFsRqaEglHQ",
@@ -1334,7 +1360,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一九四五"
     },
     {
       "browseId": "MPREb_QIJhQI5NoUh",
@@ -1360,7 +1388,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "更遠的前方"
     },
     {
       "browseId": "MPREb_7gfSlP92sN6",
@@ -1485,7 +1515,9 @@
       "releaseDate": "2019-12-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "無名英雄 (滅火器樂團專輯)"
+      "wikiTitle": "無名英雄 (滅火器樂團專輯)",
+      "wikiKind": null,
+      "nameKey": "無名英雄"
     },
     {
       "browseId": "MPREb_D7ZFuFTWNtg",
@@ -1511,7 +1543,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "永遠的lamigo"
     },
     {
       "browseId": "MPREb_PwADTlWrAwe",
@@ -1531,8 +1565,8 @@
           "playsText": "136K plays",
           "duration": 258,
           "byOther": false,
-          "titleZh": "The Light (FIRE NEXT Live) (feat. 後藤正文)",
-          "nameKey": "thelight"
+          "nameKey": "thelight",
+          "titleZh": "The Light (FIRE NEXT Live) (feat. 後藤正文)"
         },
         {
           "index": 2,
@@ -1681,7 +1715,9 @@
       "releaseDate": "2020-12-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "prose",
-      "wikiTitle": "無名英雄 (滅火器樂團專輯)"
+      "wikiTitle": "無名英雄 (滅火器樂團專輯)",
+      "wikiKind": null,
+      "nameKey": "unsungheroes"
     },
     {
       "browseId": "MPREb_frBngBCkPVW",
@@ -1707,7 +1743,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "戰勝是唯一的路"
     },
     {
       "browseId": "MPREb_aWe5QKrXY3m",
@@ -2087,7 +2125,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "firenext新篇章滅火器20週年演唱會"
     },
     {
       "browseId": "MPREb_lvEOgvfqtCq",
@@ -2113,7 +2153,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一起更強"
     },
     {
       "browseId": "MPREb_fUGQgsYdvK1",
@@ -2139,7 +2181,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "好膽來技較"
     },
     {
       "browseId": "MPREb_OM7NiXpdOhj",
@@ -2165,7 +2209,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "希望的明日"
     },
     {
       "browseId": "MPREb_NMbEXFhSEn0",
@@ -2191,7 +2237,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "本性倔強"
     },
     {
       "browseId": "MPREb_4anorAgFxl0",
@@ -2217,7 +2265,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "高雄驛起飛"
     },
     {
       "browseId": "MPREb_uRRd6cd1js9",
@@ -2243,7 +2293,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "riseup"
     },
     {
       "browseId": "MPREb_42q97UQbEuZ",
@@ -2269,7 +2321,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "來坐"
     },
     {
       "browseId": "MPREb_4bq7eBXg9Yx",
@@ -2295,7 +2349,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "時鐘霆矣"
     },
     {
       "browseId": "MPREb_fzdPSq0zixX",
@@ -2420,7 +2476,9 @@
       "releaseDate": "2023-06-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "家和萬事興 (專輯)"
+      "wikiTitle": "家和萬事興 (專輯)",
+      "wikiKind": "studio",
+      "nameKey": "家和萬事興"
     },
     {
       "browseId": "MPREb_mVSix9fUKmN",
@@ -2446,7 +2504,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "人間條件"
     },
     {
       "browseId": "MPREb_2QcyuWtO7JL",
@@ -2472,7 +2532,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "新歌六號"
     },
     {
       "browseId": "MPREb_vLkilA7WWmP",
@@ -2498,7 +2560,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "超級英雄antibiotic"
     },
     {
       "browseId": "MPREb_Sd4UQyljvy0",
@@ -2546,7 +2610,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "paymoneytowonderland"
     },
     {
       "browseId": "MPREb_Ou7mP6cuqkM",
@@ -2572,7 +2638,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "今天的我"
     },
     {
       "browseId": "MPREb_zabEkPM4qAt",
@@ -2598,7 +2666,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "公賣局的酒香"
     },
     {
       "browseId": "MPREb_XAm0JoiTJW0",
@@ -2624,7 +2694,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "最重要的事"
     },
     {
       "browseId": "MPREb_hc3bs3uIf18",
@@ -2651,7 +2723,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "牽亡歌再陪你多走一段reimagined"
     }
   ]
 }

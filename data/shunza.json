@@ -146,7 +146,9 @@
       "releaseDate": "1997-11-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "Shunza"
+      "wikiTitle": "Shunza",
+      "wikiKind": null,
+      "nameKey": "順子shunza"
     },
     {
       "browseId": "MPREb_nM6kNJe4Bjg",
@@ -282,7 +284,9 @@
       "releaseDate": "1999-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "順子"
+      "wikiTitle": "順子",
+      "wikiKind": null,
+      "nameKey": "iamnotastar"
     },
     {
       "browseId": "MPREb_n7V4nDn5LEA",
@@ -477,7 +481,9 @@
       "releaseDatePrecision": "month",
       "releaseDateSource": "prose",
       "wikiTitle": "順子",
-      "titleZh": "Open Up(英文版)"
+      "wikiKind": null,
+      "titleZh": "Open Up(英文版)",
+      "nameKey": "openup"
     },
     {
       "browseId": "MPREb_e0ljNPxJ4UX",
@@ -670,7 +676,9 @@
       "releaseDate": "2001-03-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "順子"
+      "wikiTitle": "順子",
+      "wikiKind": "compilation",
+      "nameKey": "昨日唯一更多順子精選"
     },
     {
       "browseId": "MPREb_jWgefeyIMyj",
@@ -846,7 +854,9 @@
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
       "wikiTitle": "順子",
-      "titleZh": "And Music's There (英文)"
+      "wikiKind": "studio",
+      "titleZh": "And Music's There (英文)",
+      "nameKey": "andmusicsthere"
     },
     {
       "browseId": "MPREb_UGCwmJt5Bi3",
@@ -999,7 +1009,9 @@
       "releaseDate": "2002-01-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "順子"
+      "wikiTitle": "順子",
+      "wikiKind": "studio",
+      "nameKey": "dearshunza"
     },
     {
       "browseId": "MPREb_Zs00nNE7Zke",
@@ -1118,7 +1130,9 @@
       "releaseDate": "2003-04-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "順子"
+      "wikiTitle": "順子",
+      "wikiKind": "studio",
+      "nameKey": "我的朋友bettysu"
     },
     {
       "browseId": "MPREb_ImaAIN6pwXb",
@@ -1298,7 +1312,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "滾石香港黃金10年順子精選"
     },
     {
       "browseId": "MPREb_1pVx52DHJys",
@@ -1626,7 +1642,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "日日夜夜我最愛的順子"
     }
   ]
 }

@@ -146,7 +146,9 @@
       "releaseDate": "2000-11-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "一個人的Tomorrow"
+      "wikiTitle": "一個人的Tomorrow",
+      "wikiKind": null,
+      "nameKey": "一個人的tomorrow"
     },
     {
       "browseId": "MPREb_5FXZbb0gaER",
@@ -271,7 +273,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "吳克群個人首張創作專輯"
     },
     {
       "browseId": "MPREb_l4Y0KHBVGEx",
@@ -407,7 +411,9 @@
       "releaseDate": "2005-10-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "大頑家"
+      "wikiTitle": "大頑家",
+      "wikiKind": null,
+      "nameKey": "大頑家"
     },
     {
       "browseId": "MPREb_QEKMQ5ZdssX",
@@ -543,7 +549,9 @@
       "releaseDate": "2006-10-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "將軍令 (吳克群專輯)"
+      "wikiTitle": "將軍令 (吳克群專輯)",
+      "wikiKind": null,
+      "nameKey": "將軍令"
     },
     {
       "browseId": "MPREb_F719CS8Bt5f",
@@ -668,7 +676,9 @@
       "releaseDate": "2008-03-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "為你寫詩"
+      "wikiTitle": "為你寫詩",
+      "wikiKind": null,
+      "nameKey": "為你寫詩"
     },
     {
       "browseId": "MPREb_CXhFBSLTvCt",
@@ -980,8 +990,10 @@
       ],
       "releaseDate": "2008-03-14",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "為你寫詩"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "為你寫詩",
+      "wikiKind": null,
+      "nameKey": "電影為你寫詩原聲帶"
     },
     {
       "browseId": "MPREb_LbAZLSQmJox",
@@ -1078,8 +1090,8 @@
           "playsText": "1.3M plays",
           "duration": 213,
           "byOther": false,
-          "titleZh": "Na Na Na (新歌)",
-          "nameKey": "nanana"
+          "nameKey": "nanana",
+          "titleZh": "Na Na Na (新歌)"
         },
         {
           "index": 9,
@@ -1349,7 +1361,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "magik新歌精選"
     },
     {
       "browseId": "MPREb_aIbxz7HXoFl",
@@ -1408,7 +1422,9 @@
       "releaseDate": "2009-05-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "把心拉近"
+      "wikiTitle": "把心拉近",
+      "wikiKind": "single",
+      "nameKey": "把心拉近"
     },
     {
       "browseId": "MPREb_QnhURvzNURP",
@@ -1578,7 +1594,9 @@
       "releaseDate": "2010-10-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛我 恨我"
+      "wikiTitle": "愛我 恨我",
+      "wikiKind": null,
+      "nameKey": "愛我恨我"
     },
     {
       "browseId": "MPREb_YotH66nCbWa",
@@ -1692,7 +1710,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "料理情人夢電視原聲帶"
     },
     {
       "browseId": "MPREb_4olP9oWaMv7",
@@ -1712,8 +1732,8 @@
           "playsText": "3.7K plays",
           "duration": 75,
           "byOther": false,
-          "titleZh": "Intro 狂歡",
-          "nameKey": "intro狂歡"
+          "nameKey": "intro狂歡",
+          "titleZh": "Intro 狂歡"
         },
         {
           "index": 2,
@@ -1885,7 +1905,9 @@
       "releaseDate": "2012-07-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "寂寞來了怎麼辦？"
+      "wikiTitle": "寂寞來了怎麼辦？",
+      "wikiKind": null,
+      "nameKey": "寂寞來了怎麼辦"
     },
     {
       "browseId": "MPREb_SyyQeZvTyE5",
@@ -2010,7 +2032,9 @@
       "releaseDate": "2013-05-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "吳克群音樂作品列表"
+      "wikiTitle": "吳克群音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "吳克群精選創作輯"
     },
     {
       "browseId": "MPREb_gq6F4aKRTlf",
@@ -2047,7 +2071,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "冰的啦"
     },
     {
       "browseId": "MPREb_yzsLDycUv38",
@@ -2084,7 +2110,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "冰的啦"
     },
     {
       "browseId": "MPREb_cBBEapdXYHE",
@@ -2121,7 +2149,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "如果不能好好愛"
     },
     {
       "browseId": "MPREb_bQTjm9kiLXB",
@@ -2246,7 +2276,9 @@
       "releaseDate": "2015-04-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "數星星的人"
+      "wikiTitle": "數星星的人",
+      "wikiKind": null,
+      "nameKey": "數星星的人"
     },
     {
       "browseId": "MPREb_kViIuBcyNbD",
@@ -2371,7 +2403,9 @@
       "releaseDate": "2016-12-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "人生超幽默"
+      "wikiTitle": "人生超幽默",
+      "wikiKind": "studio",
+      "nameKey": "人生超幽默"
     },
     {
       "browseId": "MPREb_xa9H30WMY4J",
@@ -2397,7 +2431,9 @@
       "releaseDate": "2016-12-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "人生超幽默"
+      "wikiTitle": "人生超幽默",
+      "wikiKind": "studio",
+      "nameKey": "人生超幽默"
     },
     {
       "browseId": "MPREb_0CIxOob6hSG",
@@ -2423,7 +2459,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "孤獨是會上癮的"
     },
     {
       "browseId": "MPREb_p7Lof3IYS5h",
@@ -2449,7 +2487,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "奇怪的你"
     },
     {
       "browseId": "MPREb_QTg6bujaPJp",
@@ -2761,7 +2801,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "crazylittlethings"
     },
     {
       "browseId": "MPREb_kapN6jkf91y",
@@ -2787,7 +2829,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我在思念的車上"
     },
     {
       "browseId": "MPREb_uMZE8h2Rpzg",
@@ -2923,7 +2967,9 @@
       "releaseDate": "2020-08-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "你說 我聽著呢"
+      "wikiTitle": "你說 我聽著呢",
+      "wikiKind": null,
+      "nameKey": "你說我聽著呢"
     },
     {
       "browseId": "MPREb_n6eMwOve4Ei",
@@ -2949,7 +2995,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "咁有風在吹"
     },
     {
       "browseId": "MPREb_cF5oi2HON89",
@@ -2975,7 +3023,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "天命"
     },
     {
       "browseId": "MPREb_BHuzNHAwi4V",
@@ -3001,7 +3051,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "摩擦"
     },
     {
       "browseId": "MPREb_AeVLxnLbIqf",
@@ -3040,7 +3092,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "最好的寶藏"
     },
     {
       "browseId": "MPREb_fEUix9ig7sy",
@@ -3066,7 +3120,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "國王密室"
     },
     {
       "browseId": "MPREb_YtCmRbpgere",
@@ -3092,7 +3148,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "奇異博士"
     },
     {
       "browseId": "MPREb_DBkaGXiDvtp",
@@ -3118,7 +3176,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "抽象"
     },
     {
       "browseId": "MPREb_HpkQpa1CVbr",
@@ -3144,7 +3204,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "斯德哥爾摩"
     },
     {
       "browseId": "MPREb_TBHpeFpjjdX",
@@ -3313,7 +3375,9 @@
       "releaseDate": "2022-06-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "銀河裡擁抱"
+      "wikiTitle": "銀河裡擁抱",
+      "wikiKind": null,
+      "nameKey": "銀河裡擁抱"
     },
     {
       "browseId": "MPREb_PTMySfRR8mU",
@@ -3339,7 +3403,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "相信愛情的笨蛋"
     },
     {
       "browseId": "MPREb_KXUc1gEsIc4",
@@ -3365,7 +3431,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "銀河裡擁抱"
     },
     {
       "browseId": "MPREb_RQ1hOt6KFC0",
@@ -3479,7 +3547,9 @@
       "releaseDate": "2023-09-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "今天很OK"
+      "wikiTitle": "今天很OK",
+      "wikiKind": "studio",
+      "nameKey": "今天很ok"
     },
     {
       "browseId": "MPREb_zC2YsanLe9D",
@@ -3505,7 +3575,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "最最幸運的事情"
     },
     {
       "browseId": "MPREb_2Ql06oIEyvj",
@@ -3531,7 +3603,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "就讓我喝醉"
     },
     {
       "browseId": "MPREb_awTupfvOiFX",
@@ -3558,7 +3632,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "心動的信號"
     },
     {
       "browseId": "MPREb_yzkadxTcnXq",
@@ -3584,7 +3660,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我們只活一次啊"
     },
     {
       "browseId": "MPREb_pCWKcCGuRKR",
@@ -3610,7 +3688,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我愛你只是不再喜歡你了"
     },
     {
       "browseId": "MPREb_EPeh9TQby5w",
@@ -3636,7 +3716,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "整個夏天都愛不完"
     },
     {
       "browseId": "MPREb_eHQsrHLkzug",
@@ -3662,7 +3744,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "時光機"
     },
     {
       "browseId": "MPREb_ronTfy47Z2Q",
@@ -3688,7 +3772,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "環遊世界"
     },
     {
       "browseId": "MPREb_dbartXlMFku",
@@ -3714,7 +3800,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "色號99"
     },
     {
       "browseId": "MPREb_podIdn3bVFq",
@@ -3751,7 +3839,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "花"
     },
     {
       "browseId": "MPREb_L4CNo1yKeMK",
@@ -3810,7 +3900,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "seedsofwinterloveman"
     },
     {
       "browseId": "MPREb_mdYVGWk3Yex",
@@ -3836,7 +3928,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一場痛能多久"
     },
     {
       "browseId": "MPREb_YnbplXLihKK",
@@ -3862,7 +3956,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一定要再見"
     },
     {
       "browseId": "MPREb_1CTx5ASkkLz",
@@ -3901,7 +3997,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "別在ktv裡唱情歌"
     },
     {
       "browseId": "MPREb_JzM2L5rUpJI",
@@ -3940,7 +4038,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "卽興的誓爛尾的詩"
     },
     {
       "browseId": "MPREb_WOAnCPR1xXp",
@@ -3977,7 +4077,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "原來只能走到這"
     },
     {
       "browseId": "MPREb_FJILzz0SpFk",
@@ -4003,7 +4105,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "大舌頭"
     },
     {
       "browseId": "MPREb_hrUi2PdlFk3",
@@ -4040,7 +4144,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "嫌"
     },
     {
       "browseId": "MPREb_i8mOTerS8Wl",
@@ -4066,7 +4172,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "將軍令2024"
     },
     {
       "browseId": "MPREb_oavmVPiF52H",
@@ -4092,7 +4200,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "就算會老去也要火熱"
     },
     {
       "browseId": "MPREb_ZeqNGeVOfVL",
@@ -4118,7 +4228,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "愛太痛"
     },
     {
       "browseId": "MPREb_rr6lmmkmjRS",
@@ -4144,7 +4256,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "愛盡餘生"
     },
     {
       "browseId": "MPREb_3StrYyov5S0",
@@ -4170,7 +4284,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我願像那奮不顧身的盛夏"
     },
     {
       "browseId": "MPREb_uyFrKWYpPmg",
@@ -4209,7 +4325,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "撒嬌只對你有效"
     },
     {
       "browseId": "MPREb_gYHP4OO7v2F",
@@ -4235,7 +4353,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "為你寫詩2024"
     },
     {
       "browseId": "MPREb_GN21ujH9UGn",
@@ -4871,7 +4991,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "玫瑰的故事電視劇原聲帶"
     },
     {
       "browseId": "MPREb_f25iICyITQT",
@@ -4897,7 +5019,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "男傭2024"
     },
     {
       "browseId": "MPREb_8UiMnmBNLvT",
@@ -4923,7 +5047,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "男友求生欲"
     },
     {
       "browseId": "MPREb_3iYNa6b7Qac",
@@ -4971,7 +5097,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "老子說"
     },
     {
       "browseId": "MPREb_zHT3TPaOQeb",
@@ -4997,7 +5125,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "薛定諤的貓"
     },
     {
       "browseId": "MPREb_f9YpK6LxrKL",
@@ -5023,7 +5153,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "謝謝你愛我2024"
     },
     {
       "browseId": "MPREb_cGMp2ALr0Cp",
@@ -5049,7 +5181,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "ifeelyou"
     },
     {
       "browseId": "MPREb_fCV8URyWJY1",
@@ -5076,7 +5210,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一場痛能多久"
     },
     {
       "browseId": "MPREb_DiE0y8eqc25",
@@ -5103,7 +5239,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "一定要再見"
     },
     {
       "browseId": "MPREb_elXJA1H245U",
@@ -5129,7 +5267,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "下班下班"
     },
     {
       "browseId": "MPREb_6O64YSGVftx",
@@ -5156,7 +5296,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "為你寫詩2024"
     },
     {
       "browseId": "MPREb_nU0ZVwoUpit",
@@ -5195,7 +5337,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "人生小事"
     },
     {
       "browseId": "MPREb_hR15jm5uhO2",
@@ -5232,7 +5376,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "吃愛情的苦"
     },
     {
       "browseId": "MPREb_AaQg16edjh4",
@@ -5258,7 +5404,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "地球上最後一首情歌"
     },
     {
       "browseId": "MPREb_jjpnV68tSVr",
@@ -5285,7 +5433,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "大舌頭"
     },
     {
       "browseId": "MPREb_OYhQEClnzFd",
@@ -5312,7 +5462,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "將軍令2024"
     },
     {
       "browseId": "MPREb_Q7hHVIKRe6U",
@@ -5339,7 +5491,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我願像那奮不顧身的盛夏"
     },
     {
       "browseId": "MPREb_LC4WKIjqFRN",
@@ -5365,7 +5519,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "沒了命愛你"
     },
     {
       "browseId": "MPREb_V68O6lbezFC",
@@ -5392,7 +5548,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "愛太痛"
     },
     {
       "browseId": "MPREb_NJLOsxAbqYe",
@@ -5419,7 +5577,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "男傭"
     },
     {
       "browseId": "MPREb_S69tW895Ei3",
@@ -5446,7 +5606,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "薛定諤的貓"
     },
     {
       "browseId": "MPREb_znqgOeTziew",
@@ -5483,7 +5645,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "跌跌撞撞"
     },
     {
       "browseId": "MPREb_JzWVHz82z9O",
@@ -5509,7 +5673,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "失控行星"
     },
     {
       "browseId": "MPREb_kAsqXKyKCpN",
@@ -5536,7 +5702,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "帽子反戴"
     },
     {
       "browseId": "MPREb_VR063r1jyTL",
@@ -5562,7 +5730,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "念念"
     },
     {
       "browseId": "MPREb_D6qxcat0aTT",
@@ -5613,7 +5783,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "是我不夠好"
     },
     {
       "browseId": "MPREb_JKhZFXnC9VP",
@@ -5639,7 +5811,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "癲"
     },
     {
       "browseId": "MPREb_0TQV5gOLdKS",
@@ -5666,7 +5840,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "請記得我"
     }
   ]
 }

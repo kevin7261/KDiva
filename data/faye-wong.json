@@ -135,7 +135,9 @@
       "releaseDate": "1989-11-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "王靖雯 (專輯)"
+      "wikiTitle": "王靖雯 (專輯)",
+      "wikiKind": null,
+      "nameKey": "王靖雯"
     },
     {
       "browseId": "MPREb_sMZDI1et6iy",
@@ -260,7 +262,9 @@
       "releaseDate": "1989-11-02",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "王靖雯 (專輯)"
+      "wikiTitle": "王靖雯 (專輯)",
+      "wikiKind": null,
+      "nameKey": "王靖雯"
     },
     {
       "browseId": "MPREb_inSF3AYyRHg",
@@ -387,7 +391,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "Everything (王靖雯專輯)",
-      "titleZh": "Everything (王靖雯專輯)"
+      "wikiKind": null,
+      "titleZh": "Everything (王靖雯專輯)",
+      "nameKey": "everything"
     },
     {
       "browseId": "MPREb_88PH76SCDUG",
@@ -512,7 +518,9 @@
       "releaseDate": "1990-12-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "You're the Only One"
+      "wikiTitle": "You're the Only One",
+      "wikiKind": null,
+      "nameKey": "youretheonlyone"
     },
     {
       "browseId": "MPREb_cZExuCX2pyQ",
@@ -671,7 +679,9 @@
       "releaseDate": "1991-10-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "Shirley Once More"
+      "wikiTitle": "Shirley Once More",
+      "wikiKind": null,
+      "nameKey": "shirleyoncemore"
     },
     {
       "browseId": "MPREb_00fe2HEKwva",
@@ -851,7 +861,9 @@
       "releaseDate": "1992-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "moreshirley"
     },
     {
       "browseId": "MPREb_hcigfYOcV6r",
@@ -976,7 +988,9 @@
       "releaseDate": "1992-08-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Coming Home"
+      "wikiTitle": "Coming Home",
+      "wikiKind": null,
+      "nameKey": "cominghome"
     },
     {
       "browseId": "MPREb_Givrl3Wv90l",
@@ -1101,7 +1115,9 @@
       "releaseDate": "1992-08-13",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Coming Home"
+      "wikiTitle": "Coming Home",
+      "wikiKind": null,
+      "nameKey": "cominghome"
     },
     {
       "browseId": "MPREb_6c8XyohUz4q",
@@ -1226,7 +1242,9 @@
       "releaseDate": "1993-02-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "執迷不悔"
     },
     {
       "browseId": "MPREb_XZp5mLoQgD3",
@@ -1362,7 +1380,9 @@
       "releaseDate": "1993-09-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "十萬個為什麼？"
+      "wikiTitle": "十萬個為什麼？",
+      "wikiKind": null,
+      "nameKey": "10萬個為什麼"
     },
     {
       "browseId": "MPREb_45MtM0PnvDB",
@@ -1421,7 +1441,9 @@
       "releaseDate": "1993-10-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "如風 Autumn Version"
+      "wikiTitle": "如風 Autumn Version",
+      "wikiKind": null,
+      "nameKey": "如風autumnversion"
     },
     {
       "browseId": "MPREb_RfVpo38eoJ3",
@@ -1623,7 +1645,9 @@
       "releaseDate": "1994-02-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "最菲"
+      "wikiTitle": "最菲",
+      "wikiKind": null,
+      "nameKey": "最菲"
     },
     {
       "browseId": "MPREb_qoUrDZl58Vp",
@@ -1748,8 +1772,10 @@
       ],
       "releaseDate": "1994-04-08",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "迷 (專輯)"
+      "releaseDateSource": "table",
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "迷"
     },
     {
       "browseId": "MPREb_Cwkf7Lim814",
@@ -1874,8 +1900,10 @@
       ],
       "releaseDate": "1994-04-08",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "迷 (專輯)"
+      "releaseDateSource": "table",
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "迷"
     },
     {
       "browseId": "MPREb_Vqg80uGKAY3",
@@ -1934,7 +1962,9 @@
       "releaseDate": "1994-05-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "list",
-      "wikiTitle": "王菲得獎與提名列表"
+      "wikiTitle": "王菲得獎與提名列表",
+      "wikiKind": "single",
+      "nameKey": "菲碟"
     },
     {
       "browseId": "MPREb_7WwAte1c4Mm",
@@ -2058,9 +2088,11 @@
       ],
       "releaseDate": "1994-06-29",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "胡思亂想",
-      "titleZh": "胡思亂想"
+      "releaseDateSource": "table",
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "studio",
+      "titleZh": "胡思亂想",
+      "nameKey": "胡思亂想"
     },
     {
       "browseId": "MPREb_HDVWJnqYzXQ",
@@ -2184,8 +2216,10 @@
       ],
       "releaseDate": "1994-06-29",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "胡思亂想"
+      "releaseDateSource": "table",
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "胡思亂想"
     },
     {
       "browseId": "MPREb_nvOVkYE5xiA",
@@ -2309,8 +2343,10 @@
       ],
       "releaseDate": "1994-11-10",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "天空 (王靖雯專輯)"
+      "releaseDateSource": "table",
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "天空"
     },
     {
       "browseId": "MPREb_nLX5beFSXzn",
@@ -2435,7 +2471,9 @@
       "releaseDate": "1994-12-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "討好自己"
+      "wikiTitle": "討好自己",
+      "wikiKind": null,
+      "nameKey": "討好自己"
     },
     {
       "browseId": "MPREb_Q5ZwcMfxOWV",
@@ -2703,7 +2741,9 @@
       "releaseDate": "1995-01-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "王菲最精彩的演唱會"
+      "wikiTitle": "王菲最精彩的演唱會",
+      "wikiKind": null,
+      "nameKey": "王菲最精彩的演唱會"
     },
     {
       "browseId": "MPREb_CWB6zshMof4",
@@ -2773,7 +2813,9 @@
       "releaseDate": "1995-09-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "一人分飾兩角"
+      "wikiTitle": "一人分飾兩角",
+      "wikiKind": null,
+      "nameKey": "一人分飾兩角"
     },
     {
       "browseId": "MPREb_gdZkK3AsfVg",
@@ -2898,7 +2940,9 @@
       "releaseDate": "1995-12-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Di-Dar"
+      "wikiTitle": "Di-Dar",
+      "wikiKind": null,
+      "nameKey": "didar"
     },
     {
       "browseId": "MPREb_RtWcnKF2fpZ",
@@ -3023,7 +3067,9 @@
       "releaseDate": "1996-06-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "浮躁"
+      "wikiTitle": "浮躁",
+      "wikiKind": "studio",
+      "nameKey": "浮躁"
     },
     {
       "browseId": "MPREb_8mEHOKILL6P",
@@ -3214,7 +3260,9 @@
       "releaseDate": "1996-09-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
-      "wikiTitle": "樂樂精選"
+      "wikiTitle": "樂樂精選",
+      "wikiKind": null,
+      "nameKey": "樂樂精選"
     },
     {
       "browseId": "MPREb_XQk0BtSiE4w",
@@ -3284,7 +3332,9 @@
       "releaseDate": "1997-02-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "玩具 (迷你專輯)"
+      "wikiTitle": "玩具 (迷你專輯)",
+      "wikiKind": "single",
+      "nameKey": "玩具"
     },
     {
       "browseId": "MPREb_GLBZ40jxEkG",
@@ -3365,7 +3415,9 @@
       "releaseDate": "1997-05-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "自便"
+      "wikiTitle": "自便",
+      "wikiKind": "single",
+      "nameKey": "自便"
     },
     {
       "browseId": "MPREb_3qoOIiTnpgj",
@@ -3557,7 +3609,9 @@
       "releaseDate": "1997-09-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "菲賣品"
+      "wikiTitle": "菲賣品",
+      "wikiKind": "compilation",
+      "nameKey": "菲賣品"
     },
     {
       "browseId": "MPREb_sehAFvxTP3x",
@@ -3759,7 +3813,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "新藝寶88優質音響系列"
     },
     {
       "browseId": "MPREb_7oM4KCfj9Jb",
@@ -4093,7 +4149,9 @@
       "releaseDate": "1998-12-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": null,
+      "nameKey": "mixmatch"
     },
     {
       "browseId": "MPREb_vfVyUvkGhQa",
@@ -4318,7 +4376,9 @@
       "releaseDate": "1999-02-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "thebestofbest"
     },
     {
       "browseId": "MPREb_li7eRC0GQ6j",
@@ -4686,7 +4746,9 @@
       "releaseDate": "1999-06-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "但願人長久"
     },
     {
       "browseId": "MPREb_Y9OFFXG9EiO",
@@ -4921,7 +4983,9 @@
       "releaseDate": "1999-09-01",
       "releaseDatePrecision": "month",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "菲感情生活"
     },
     {
       "browseId": "MPREb_hzbNN2R9c1N",
@@ -5113,7 +5177,9 @@
       "releaseDate": "2001-11-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "我的王菲時代"
     },
     {
       "browseId": "MPREb_neZ7eZPxgxl",
@@ -5460,7 +5526,9 @@
       "releaseDate": "2002-09-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "fayebest"
     },
     {
       "browseId": "MPREb_38lNRxHSYsd",
@@ -5807,7 +5875,9 @@
       "releaseDate": "2004-06-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "環球巨星影音啟示錄"
     },
     {
       "browseId": "MPREb_tWtfdmR59MU",
@@ -5999,7 +6069,9 @@
       "releaseDate": "2005-01-27",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "國語眞經典"
     },
     {
       "browseId": "MPREb_lESJLHq4tSe",
@@ -6433,8 +6505,10 @@
       ],
       "releaseDate": "2005-06-23",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "情菲得意"
+      "releaseDateSource": "table",
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "情菲得意"
     },
     {
       "browseId": "MPREb_EfVcPvsHPdy",
@@ -6592,7 +6666,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "k2hd菲蘼蘼之音"
     },
     {
       "browseId": "MPREb_JRLOjaEzBQ9",
@@ -6958,8 +7034,10 @@
       ],
       "releaseDate": "2009-06-24",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "阿菲正傳"
+      "releaseDateSource": "table",
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "阿菲正傳"
     },
     {
       "browseId": "MPREb_IfNDzArcFXr",
@@ -6985,7 +7063,9 @@
       "releaseDate": "2010-03-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "傳奇"
     },
     {
       "browseId": "MPREb_fSdovPR0kzh",
@@ -7011,7 +7091,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "legend"
     },
     {
       "browseId": "MPREb_atTCnEKd5Ck",
@@ -7213,7 +7295,9 @@
       "releaseDate": "2011-12-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "極品天碟王菲"
     },
     {
       "browseId": "MPREb_4Um42MdK4B9",
@@ -7239,7 +7323,9 @@
       "releaseDate": "2012-01-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "願"
     },
     {
       "browseId": "MPREb_hp5gyiuYUro",
@@ -7453,7 +7539,9 @@
       "releaseDate": "2012-01-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "極品天碟王菲"
     },
     {
       "browseId": "MPREb_GTM5bixmmVJ",
@@ -7578,7 +7666,9 @@
       "releaseDate": "2015-11-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "敷衍"
+      "wikiTitle": "敷衍",
+      "wikiKind": null,
+      "nameKey": "敷衍"
     },
     {
       "browseId": "MPREb_AhHbcxY1dY4",
@@ -7604,7 +7694,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "gentlebreezeandlightdrizzle"
     },
     {
       "browseId": "MPREb_rbThNewjcyO",
@@ -7630,7 +7722,9 @@
       "releaseDate": "2016-07-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "塵埃"
     },
     {
       "browseId": "MPREb_fLIjj6CtL7j",
@@ -7657,7 +7751,9 @@
       "releaseDate": "2019-09-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "我和我的祖国 (电影)"
+      "wikiTitle": "我和我的祖国 (电影)",
+      "wikiKind": null,
+      "nameKey": "我和我的祖國"
     },
     {
       "browseId": "MPREb_aCg8DMaOVuG",
@@ -7684,7 +7780,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "信物交換"
     },
     {
       "browseId": "MPREb_TeNRah5hqyH",
@@ -7711,7 +7809,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "龍的血脈子孫傳"
     },
     {
       "browseId": "MPREb_f9o9h3DEeGJ",
@@ -7891,7 +7991,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "morefayewong"
     },
     {
       "browseId": "MPREb_SzpPAdrv6PI",
@@ -7917,7 +8019,9 @@
       "releaseDate": "2021-09-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "灣"
     },
     {
       "browseId": "MPREb_MoZ0uNGurnZ",
@@ -7944,7 +8048,9 @@
       "releaseDate": "2021-09-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "如愿"
+      "wikiTitle": "如愿",
+      "wikiKind": "single",
+      "nameKey": "如願"
     },
     {
       "browseId": "MPREb_qG9ViDKbPoH",
@@ -7971,7 +8077,9 @@
       "releaseDate": "2022-09-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "归途有风"
+      "wikiTitle": "归途有风",
+      "wikiKind": "single",
+      "nameKey": "歸途有風"
     },
     {
       "browseId": "MPREb_Eo7rfSEJ9NI",
@@ -7997,7 +8105,9 @@
       "releaseDate": "2025-01-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "世界贈予我的"
+      "wikiTitle": "世界贈予我的",
+      "wikiKind": "single",
+      "nameKey": "世界贈豫我的"
     },
     {
       "browseId": "MPREb_8eNCoP7GhzX",
@@ -8343,7 +8453,9 @@
       "releaseDate": "2025-10-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "compilation",
+      "nameKey": "王菲"
     },
     {
       "browseId": "MPREb_7UI1RNhAKjX",
@@ -8369,7 +8481,9 @@
       "releaseDate": "2026-02-17",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表"
+      "wikiTitle": "王菲音樂作品列表",
+      "wikiKind": "single",
+      "nameKey": "你我經歷的一刻"
     },
     {
       "browseId": "MPREb_94fPV67B0d7",
@@ -8395,7 +8509,9 @@
       "releaseDate": "2026-05-07",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "主角 (歌曲)"
+      "wikiTitle": "主角 (歌曲)",
+      "wikiKind": "single",
+      "nameKey": "主角"
     },
     {
       "browseId": "MPREb_GehrCdFYidX",
@@ -8422,7 +8538,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "你我經歷的一刻"
     }
   ]
 }

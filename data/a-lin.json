@@ -135,7 +135,9 @@
       "releaseDate": "2006-02-10",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "失戀無罪"
+      "wikiTitle": "失戀無罪",
+      "wikiKind": "studio",
+      "nameKey": "失戀無罪"
     },
     {
       "browseId": "MPREb_TKNkLzQ0Mah",
@@ -260,7 +262,9 @@
       "releaseDate": "2008-08-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "天生歌姬 (黃麗玲專輯)"
+      "wikiTitle": "天生歌姬 (黃麗玲專輯)",
+      "wikiKind": "studio",
+      "nameKey": "天生歌姬"
     },
     {
       "browseId": "MPREb_K7aIWMUF6aU",
@@ -396,7 +400,9 @@
       "releaseDate": "2009-12-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "以前，以後"
+      "wikiTitle": "以前，以後",
+      "wikiKind": "studio",
+      "nameKey": "以前以後"
     },
     {
       "browseId": "MPREb_KZs0Uyz66bA",
@@ -521,7 +527,9 @@
       "releaseDate": "2010-12-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "寂寞不痛"
+      "wikiTitle": "寂寞不痛",
+      "wikiKind": null,
+      "nameKey": "寂寞不痛"
     },
     {
       "browseId": "MPREb_qs5kIBWjlro",
@@ -657,7 +665,9 @@
       "releaseDate": "2012-12-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "幸福了 然後呢"
+      "wikiTitle": "幸福了 然後呢",
+      "wikiKind": null,
+      "nameKey": "幸福了然後呢"
     },
     {
       "browseId": "MPREb_FLecnu47zeN",
@@ -683,7 +693,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "kissshite"
     },
     {
       "browseId": "MPREb_6lbYeMJos2f",
@@ -709,7 +721,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "magicoflove"
     },
     {
       "browseId": "MPREb_bbm27k7lZSZ",
@@ -735,7 +749,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "saiai"
     },
     {
       "browseId": "MPREb_lnOz3uCESlb",
@@ -761,7 +777,164 @@
       "releaseDate": "2014-07-31",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "往前飛"
+    },
+    {
+      "browseId": "MPREb_5khoxElL6EK",
+      "playlistId": "OLAK5uy_k_FoyFAPVerxIPkNrGYDEGxX4lpIrW-f8",
+      "title": "罪惡感 - Guilt",
+      "albumArtist": "A-Lin",
+      "type": "Album",
+      "year": 2014,
+      "thumbnail": "https://yt3.googleusercontent.com/ftLI9xhlqafrAPZohejYNd0boN6wsKC7t-7gkZrebl6dNMPt38JQbpAutLlUIh2FlinRghAbOMDwD39bOg=w544-h544-s-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "我值得 - Wo Zhi De",
+          "artists": "",
+          "videoId": "xeIfnm_LLmY",
+          "plays": 2500000,
+          "playsText": "2.5M plays",
+          "duration": 236,
+          "byOther": false,
+          "nameKey": "我值得"
+        },
+        {
+          "index": 2,
+          "title": "我笑到都哭了 - Wo Xiao Dao Dou Ku Le",
+          "artists": "",
+          "videoId": "7H7tPkxayrk",
+          "plays": 235000,
+          "playsText": "235K plays",
+          "duration": 230,
+          "byOther": false,
+          "nameKey": "我笑到都哭了"
+        },
+        {
+          "index": 3,
+          "title": "罪惡感 - Zui E Gan",
+          "artists": "",
+          "videoId": "yRWXRTcfnhk",
+          "plays": 8700000,
+          "playsText": "8.7M plays",
+          "duration": 287,
+          "byOther": false,
+          "nameKey": "罪惡感"
+        },
+        {
+          "index": 4,
+          "title": "難得孤寂 - Nan De Gu Ji",
+          "artists": "",
+          "videoId": "kkxcx-iroc0",
+          "plays": 5500000,
+          "playsText": "5.5M plays",
+          "duration": 259,
+          "byOther": false,
+          "nameKey": "難得孤寂"
+        },
+        {
+          "index": 5,
+          "title": "All In",
+          "artists": "",
+          "videoId": "pI-M6QdNj2I",
+          "plays": 2400000,
+          "playsText": "2.4M plays",
+          "duration": 307,
+          "byOther": false,
+          "nameKey": "allin"
+        },
+        {
+          "index": 6,
+          "title": "平衡感 - Ping Heng Gan",
+          "artists": "",
+          "videoId": "cvf_HMkTk14",
+          "plays": 1400000,
+          "playsText": "1.4M plays",
+          "duration": 227,
+          "byOther": false,
+          "nameKey": "平衡感"
+        },
+        {
+          "index": 7,
+          "title": "我心已打烊 - Wo Xin Yi Da Yang",
+          "artists": "",
+          "videoId": "POsXqVJU8gQ",
+          "plays": 181000,
+          "playsText": "181K plays",
+          "duration": 197,
+          "byOther": false,
+          "nameKey": "我心已打烊"
+        },
+        {
+          "index": 8,
+          "title": "Gentlewoman",
+          "artists": "",
+          "videoId": "u_mH6YLXIIs",
+          "plays": 122000,
+          "playsText": "122K plays",
+          "duration": 217,
+          "byOther": false,
+          "nameKey": "gentlewoman"
+        },
+        {
+          "index": 9,
+          "title": "拿走了什麼 - Na Zou Le Shen Mo",
+          "artists": "",
+          "videoId": "ELScjuBfGYQ",
+          "plays": 16000000,
+          "playsText": "16M plays",
+          "duration": 297,
+          "byOther": false,
+          "nameKey": "拿走了什麼"
+        },
+        {
+          "index": 10,
+          "title": "最後的晚餐 - Zui Hou De Wan Can",
+          "artists": "",
+          "videoId": "_-FeTfnlJoE",
+          "plays": 647000,
+          "playsText": "647K plays",
+          "duration": 396,
+          "byOther": false,
+          "nameKey": "最後的晚餐"
+        }
+      ],
+      "releaseDate": "2014-12-30",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "罪惡感 (專輯)",
+      "wikiKind": null,
+      "nameKey": "罪惡感"
+    },
+    {
+      "browseId": "MPREb_Tkn1cYEMVgk",
+      "playlistId": "OLAK5uy_nj27pa7w8xdhjog8u3Vjj0tZuyGsLSPlc",
+      "title": "All In",
+      "albumArtist": "A-Lin",
+      "type": "Single",
+      "year": 2014,
+      "thumbnail": "https://yt3.googleusercontent.com/gUya60KMMfcbI0mIeE4Z0mUT2FfKSzPIetcUYXFEewcDvT2Z99JKo-iIcF4FVNcMDXovSB-q2KaCp7U4ew=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "All In",
+          "artists": "",
+          "videoId": "pI-M6QdNj2I",
+          "plays": 2400000,
+          "playsText": "2.4M plays",
+          "duration": 304,
+          "byOther": false,
+          "nameKey": "allin"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "allin"
     },
     {
       "browseId": "MPREb_FR769e0XObn",
@@ -1103,161 +1276,12 @@
           "nameKey": "等你"
         }
       ],
-      "releaseDate": "2014-10-29",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "table",
-      "wikiTitle": "A-Lin"
-    },
-    {
-      "browseId": "MPREb_5khoxElL6EK",
-      "playlistId": "OLAK5uy_k_FoyFAPVerxIPkNrGYDEGxX4lpIrW-f8",
-      "title": "罪惡感 - Guilt",
-      "albumArtist": "A-Lin",
-      "type": "Album",
-      "year": 2014,
-      "thumbnail": "https://yt3.googleusercontent.com/ftLI9xhlqafrAPZohejYNd0boN6wsKC7t-7gkZrebl6dNMPt38JQbpAutLlUIh2FlinRghAbOMDwD39bOg=w544-h544-s-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "我值得 - Wo Zhi De",
-          "artists": "",
-          "videoId": "xeIfnm_LLmY",
-          "plays": 2500000,
-          "playsText": "2.5M plays",
-          "duration": 236,
-          "byOther": false,
-          "nameKey": "我值得"
-        },
-        {
-          "index": 2,
-          "title": "我笑到都哭了 - Wo Xiao Dao Dou Ku Le",
-          "artists": "",
-          "videoId": "7H7tPkxayrk",
-          "plays": 235000,
-          "playsText": "235K plays",
-          "duration": 230,
-          "byOther": false,
-          "nameKey": "我笑到都哭了"
-        },
-        {
-          "index": 3,
-          "title": "罪惡感 - Zui E Gan",
-          "artists": "",
-          "videoId": "yRWXRTcfnhk",
-          "plays": 8700000,
-          "playsText": "8.7M plays",
-          "duration": 287,
-          "byOther": false,
-          "nameKey": "罪惡感"
-        },
-        {
-          "index": 4,
-          "title": "難得孤寂 - Nan De Gu Ji",
-          "artists": "",
-          "videoId": "kkxcx-iroc0",
-          "plays": 5500000,
-          "playsText": "5.5M plays",
-          "duration": 259,
-          "byOther": false,
-          "nameKey": "難得孤寂"
-        },
-        {
-          "index": 5,
-          "title": "All In",
-          "artists": "",
-          "videoId": "pI-M6QdNj2I",
-          "plays": 2400000,
-          "playsText": "2.4M plays",
-          "duration": 307,
-          "byOther": false,
-          "nameKey": "allin"
-        },
-        {
-          "index": 6,
-          "title": "平衡感 - Ping Heng Gan",
-          "artists": "",
-          "videoId": "cvf_HMkTk14",
-          "plays": 1400000,
-          "playsText": "1.4M plays",
-          "duration": 227,
-          "byOther": false,
-          "nameKey": "平衡感"
-        },
-        {
-          "index": 7,
-          "title": "我心已打烊 - Wo Xin Yi Da Yang",
-          "artists": "",
-          "videoId": "POsXqVJU8gQ",
-          "plays": 181000,
-          "playsText": "181K plays",
-          "duration": 197,
-          "byOther": false,
-          "nameKey": "我心已打烊"
-        },
-        {
-          "index": 8,
-          "title": "Gentlewoman",
-          "artists": "",
-          "videoId": "u_mH6YLXIIs",
-          "plays": 122000,
-          "playsText": "122K plays",
-          "duration": 217,
-          "byOther": false,
-          "nameKey": "gentlewoman"
-        },
-        {
-          "index": 9,
-          "title": "拿走了什麼 - Na Zou Le Shen Mo",
-          "artists": "",
-          "videoId": "ELScjuBfGYQ",
-          "plays": 16000000,
-          "playsText": "16M plays",
-          "duration": 297,
-          "byOther": false,
-          "nameKey": "拿走了什麼"
-        },
-        {
-          "index": 10,
-          "title": "最後的晚餐 - Zui Hou De Wan Can",
-          "artists": "",
-          "videoId": "_-FeTfnlJoE",
-          "plays": 647000,
-          "playsText": "647K plays",
-          "duration": 396,
-          "byOther": false,
-          "nameKey": "最後的晚餐"
-        }
-      ],
-      "releaseDate": "2014-12-30",
-      "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "罪惡感 (專輯)"
-    },
-    {
-      "browseId": "MPREb_Tkn1cYEMVgk",
-      "playlistId": "OLAK5uy_nj27pa7w8xdhjog8u3Vjj0tZuyGsLSPlc",
-      "title": "All In",
-      "albumArtist": "A-Lin",
-      "type": "Single",
-      "year": 2014,
-      "thumbnail": "https://yt3.googleusercontent.com/gUya60KMMfcbI0mIeE4Z0mUT2FfKSzPIetcUYXFEewcDvT2Z99JKo-iIcF4FVNcMDXovSB-q2KaCp7U4ew=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "All In",
-          "artists": "",
-          "videoId": "pI-M6QdNj2I",
-          "plays": 2400000,
-          "playsText": "2.4M plays",
-          "duration": 304,
-          "byOther": false,
-          "nameKey": "allin"
-        }
-      ],
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "精選alineverlastingbestandmore"
     },
     {
       "browseId": "MPREb_iThEw92MPcH",
@@ -1283,7 +1307,9 @@
       "releaseDate": "2015-01-16",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "我都記得"
     },
     {
       "browseId": "MPREb_VMjv0Wk3auT",
@@ -1309,7 +1335,9 @@
       "releaseDate": "2015-08-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "忘記擁抱"
     },
     {
       "browseId": "MPREb_IMpxfaBaGLC",
@@ -1335,7 +1363,9 @@
       "releaseDate": "2015-11-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "morelikeme"
     },
     {
       "browseId": "MPREb_2DNYu95HN9M",
@@ -1361,7 +1391,9 @@
       "releaseDate": "2016-03-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "迷霧"
     },
     {
       "browseId": "MPREb_EFIAcODMsAU",
@@ -1387,7 +1419,9 @@
       "releaseDate": "2016-04-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "幸福太短"
     },
     {
       "browseId": "MPREb_YxKljt56SvR",
@@ -1919,7 +1953,9 @@
       "releaseDate": "2016-04-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "魔宫魅影"
+      "wikiTitle": "魔宫魅影",
+      "wikiKind": null,
+      "nameKey": "魔宮魅影電影原聲大碟"
     },
     {
       "browseId": "MPREb_ZCZCw6NvaNW",
@@ -1945,7 +1981,9 @@
       "releaseDate": "2016-08-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "夢話"
     },
     {
       "browseId": "MPREb_jXvsRNVpWcF",
@@ -1971,7 +2009,9 @@
       "releaseDate": "2016-11-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "天若有情"
     },
     {
       "browseId": "MPREb_PzRkUhU8Kbb",
@@ -1997,7 +2037,9 @@
       "releaseDate": "2016-11-30",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "隨心所遇"
     },
     {
       "browseId": "MPREb_8ZDcfzo7Zfx",
@@ -2023,7 +2065,9 @@
       "releaseDate": "2017-07-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin (專輯)"
+      "wikiTitle": "A-Lin (專輯)",
+      "wikiKind": null,
+      "nameKey": "一直走"
     },
     {
       "browseId": "MPREb_HOJAzQwFC2W",
@@ -2049,7 +2093,9 @@
       "releaseDate": "2017-08-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin (專輯)"
+      "wikiTitle": "A-Lin (專輯)",
+      "wikiKind": null,
+      "nameKey": "未單身"
     },
     {
       "browseId": "MPREb_e8pd7BawBek",
@@ -2186,7 +2232,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "A-Lin (專輯)",
-      "titleZh": "A-Lin同名專輯"
+      "wikiKind": null,
+      "titleZh": "A-Lin同名專輯",
+      "nameKey": "alin同名專輯"
     },
     {
       "browseId": "MPREb_2f5VQh6mGlD",
@@ -2212,7 +2260,9 @@
       "releaseDate": "2017-10-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin (專輯)"
+      "wikiTitle": "A-Lin (專輯)",
+      "wikiKind": null,
+      "nameKey": "你點的歌救了我"
     },
     {
       "browseId": "MPREb_CTEHgxguRkU",
@@ -2326,7 +2376,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "聲吶"
     },
     {
       "browseId": "MPREb_I2QsxYnVDbF",
@@ -2352,7 +2404,9 @@
       "releaseDate": "2018-06-20",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "一舞鍾情"
     },
     {
       "browseId": "MPREb_LvFV5isaxI4",
@@ -2378,7 +2432,9 @@
       "releaseDate": "2018-08-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "最好的朋友在身邊"
     },
     {
       "browseId": "MPREb_NR5BkY4tO48",
@@ -2404,7 +2460,9 @@
       "releaseDate": "2018-10-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "有一種悲傷"
     },
     {
       "browseId": "MPREb_KqvdWBeTwXU",
@@ -2430,7 +2488,9 @@
       "releaseDate": "2018-10-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "恰好"
     },
     {
       "browseId": "MPREb_AYVgL3RZDzX",
@@ -2456,7 +2516,9 @@
       "releaseDate": "2019-01-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "雨後彩虹"
     },
     {
       "browseId": "MPREb_JuIEJmqexXq",
@@ -2625,7 +2687,9 @@
       "releaseDate": "2019-08-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "A-Lin原聲帶"
+      "wikiTitle": "A-Lin原聲帶",
+      "wikiKind": "compilation",
+      "nameKey": "不二兄弟電影原聲帶"
     },
     {
       "browseId": "MPREb_C6pS0OLuVNF",
@@ -2728,7 +2792,9 @@
       "releaseDate": "2019-08-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "A-Lin原聲帶"
+      "wikiTitle": "A-Lin原聲帶",
+      "wikiKind": "compilation",
+      "nameKey": "alin原聲帶"
     },
     {
       "browseId": "MPREb_pGSHnU9Jd2X",
@@ -3085,8 +3151,10 @@
       ],
       "releaseDate": "2019-08-23",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "A-Lin原聲帶"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "A-Lin原聲帶",
+      "wikiKind": null,
+      "nameKey": "千古玦塵電視劇影視原聲帶"
     },
     {
       "browseId": "MPREb_tsmZtYhmUCO",
@@ -3536,8 +3604,10 @@
       ],
       "releaseDate": "2019-08-23",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "A-Lin原聲帶"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "A-Lin原聲帶",
+      "wikiKind": null,
+      "nameKey": "電視劇狙擊蝴蝶原聲帶"
     },
     {
       "browseId": "MPREb_JR77cBGZ6dv",
@@ -3771,8 +3841,10 @@
       ],
       "releaseDate": "2019-08-23",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "A-Lin原聲帶"
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "A-Lin原聲帶",
+      "wikiKind": null,
+      "nameKey": "電視劇小夫妻原聲帶"
     },
     {
       "browseId": "MPREb_dKfu7T7pRrl",
@@ -3798,7 +3870,9 @@
       "releaseDate": "2019-11-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "旅課"
     },
     {
       "browseId": "MPREb_G9s1ovodfCm",
@@ -3824,7 +3898,9 @@
       "releaseDate": "2020-09-25",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "抱歉我不抱歉"
     },
     {
       "browseId": "MPREb_PeO1ahjYw4Y",
@@ -3850,7 +3926,9 @@
       "releaseDate": "2021-05-05",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "遠在心中的你"
     },
     {
       "browseId": "MPREb_YOAKV1BlLVk",
@@ -3876,7 +3954,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "romadiw"
     },
     {
       "browseId": "MPREb_rBWkwlA1RGb",
@@ -3915,7 +3995,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "雲與海"
     },
     {
       "browseId": "MPREb_74hLyq1PJMM",
@@ -3941,7 +4023,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "盡情旋轉"
     },
     {
       "browseId": "MPREb_qJ5TzHVAKHW",
@@ -3967,7 +4051,9 @@
       "releaseDate": "2022-01-14",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "我想用力忘記你"
     },
     {
       "browseId": "MPREb_AceMtsEIfbK",
@@ -4148,7 +4234,9 @@
       "releaseDate": "2022-04-08",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "LINK"
+      "wikiTitle": "LINK",
+      "wikiKind": null,
+      "nameKey": "link"
     },
     {
       "browseId": "MPREb_nXJ1f601n2L",
@@ -4196,7 +4284,9 @@
       "releaseDate": "2022-09-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "哀情記"
     },
     {
       "browseId": "MPREb_PtNl4nScOsl",
@@ -4247,7 +4337,9 @@
       "releaseDate": "2022-09-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "哀情記"
     },
     {
       "browseId": "MPREb_Nz1y0gwhsz3",
@@ -4298,7 +4390,9 @@
       "releaseDate": "2022-09-15",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "哀情記"
     },
     {
       "browseId": "MPREb_23OyjrLWWTD",
@@ -4324,7 +4418,9 @@
       "releaseDate": "2022-10-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "查無此心"
+      "wikiTitle": "查無此心",
+      "wikiKind": null,
+      "nameKey": "查無此心"
     },
     {
       "browseId": "MPREb_OrRtcMLzsCC",
@@ -4350,7 +4446,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我怨"
     },
     {
       "browseId": "MPREb_AipygzzUU5H",
@@ -4387,7 +4485,9 @@
       "releaseDate": "2023-04-22",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "給月亮的三行詩"
     },
     {
       "browseId": "MPREb_Tyae9mm5Vko",
@@ -4413,7 +4513,9 @@
       "releaseDate": "2023-05-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "撲火"
     },
     {
       "browseId": "MPREb_vDNrfyLycYO",
@@ -4450,7 +4552,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "八尺門的辯護人主題曲原聲帶"
     },
     {
       "browseId": "MPREb_5uYKqliRjz6",
@@ -4487,7 +4591,9 @@
       "releaseDate": "2024-02-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "吹不熄的我"
     },
     {
       "browseId": "MPREb_eAURTZQb7xo",
@@ -4524,7 +4630,9 @@
       "releaseDate": "2024-08-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "不簡單的我們"
     },
     {
       "browseId": "MPREb_GgA1yat2SNj",
@@ -4551,7 +4659,9 @@
       "releaseDate": "2024-10-09",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "安寧"
     },
     {
       "browseId": "MPREb_FOGVQ2XJctp",
@@ -4578,7 +4688,9 @@
       "releaseDatePrecision": null,
       "releaseDateSource": null,
       "wikiTitle": null,
-      "titleZh": "No Label (影集《妮波自由式》片頭曲)"
+      "wikiKind": null,
+      "titleZh": "No Label (影集《妮波自由式》片頭曲)",
+      "nameKey": "nolabel"
     },
     {
       "browseId": "MPREb_GVWO9xua4TK",
@@ -4605,7 +4717,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "摯友"
     },
     {
       "browseId": "MPREb_h1oXuMYoQQ2",
@@ -4632,7 +4746,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "有一種悲傷"
     },
     {
       "browseId": "MPREb_0GmNOlDe6RL",
@@ -4658,7 +4774,9 @@
       "releaseDate": "2025-07-06",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "在月蝕裡抱緊我"
+      "wikiTitle": "在月蝕裡抱緊我",
+      "wikiKind": "single",
+      "nameKey": "在月蝕裡抱緊我"
     },
     {
       "browseId": "MPREb_EWtq6W5ArK2",
@@ -4684,7 +4802,9 @@
       "releaseDate": "2025-12-26",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "幸福在歌唱"
     },
     {
       "browseId": "MPREb_VUL5XWIG5Gj",
@@ -4710,7 +4830,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "糾結重啟"
     },
     {
       "browseId": "MPREb_05eci2Kmd14",
@@ -4737,7 +4859,9 @@
       "releaseDate": "2026-01-23",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "當鋒"
     },
     {
       "browseId": "MPREb_IR2J37qCZZE",
@@ -4763,7 +4887,9 @@
       "releaseDate": "2026-04-24",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "繞路"
     },
     {
       "browseId": "MPREb_k6H0tdYUNzz",
@@ -4789,7 +4915,9 @@
       "releaseDate": "2026-06-12",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "一個人"
     },
     {
       "browseId": "MPREb_EATmgz988gy",
@@ -4816,7 +4944,9 @@
       "releaseDate": "2026-09-01",
       "releaseDatePrecision": "day",
       "releaseDateSource": "song-table",
-      "wikiTitle": "A-Lin"
+      "wikiTitle": "A-Lin",
+      "wikiKind": "single",
+      "nameKey": "刪了一百遍"
     }
   ]
 }

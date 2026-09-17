@@ -146,7 +146,9 @@
       "releaseDate": "1985-07-03",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "回到未来"
+      "wikiTitle": "回到未来",
+      "wikiKind": null,
+      "nameKey": "回到未來"
     },
     {
       "browseId": "MPREb_8LcfUmQaSrG",
@@ -315,7 +317,9 @@
       "releaseDate": "2005-11-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "Soulboy"
+      "wikiTitle": "Soulboy",
+      "wikiKind": "studio",
+      "nameKey": "soulboy"
     },
     {
       "browseId": "MPREb_XHDA58swYZ3",
@@ -473,7 +477,9 @@
       "releaseDate": "2006-12-29",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "愛愛愛"
+      "wikiTitle": "愛愛愛",
+      "wikiKind": null,
+      "nameKey": "愛愛愛"
     },
     {
       "browseId": "MPREb_9QjYfpczOjM",
@@ -499,7 +505,9 @@
       "releaseDate": "2007-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "未來 (方大同專輯)"
+      "wikiTitle": "未來 (方大同專輯)",
+      "wikiKind": null,
+      "nameKey": "lovesong"
     },
     {
       "browseId": "MPREb_VwD9O1MiuO1",
@@ -746,7 +754,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "This Love Live 2007",
-      "titleZh": "This Love Live 2007（現場實況專輯）"
+      "wikiKind": "live",
+      "titleZh": "This Love Live 2007（現場實況專輯）",
+      "nameKey": "thislovelive2007"
     },
     {
       "browseId": "MPREb_9Ae63adaa18",
@@ -882,7 +892,9 @@
       "releaseDate": "2007-12-28",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "未來 (方大同專輯)"
+      "wikiTitle": "未來 (方大同專輯)",
+      "wikiKind": null,
+      "nameKey": "未來"
     },
     {
       "browseId": "MPREb_0Og3TAbW3dC",
@@ -1041,7 +1053,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
       "wikiTitle": "方大同",
-      "titleZh": "Wonderland Live 2008（現場實況專輯）"
+      "wikiKind": null,
+      "titleZh": "Wonderland Live 2008（現場實況專輯）",
+      "nameKey": "wonderlandlive2008"
     },
     {
       "browseId": "MPREb_RIqSOG7UePV",
@@ -1188,7 +1202,9 @@
       "releaseDate": "2008-12-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "橙月"
+      "wikiTitle": "橙月",
+      "wikiKind": null,
+      "nameKey": "橙月"
     },
     {
       "browseId": "MPREb_f4XBhQkxzvu",
@@ -1214,7 +1230,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "如果愛"
     },
     {
       "browseId": "MPREb_AGd823Wms6L",
@@ -1240,7 +1258,9 @@
       "releaseDate": "2009-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同音乐作品列表"
+      "wikiTitle": "方大同音乐作品列表",
+      "wikiKind": "single",
+      "nameKey": "玩樂"
     },
     {
       "browseId": "MPREb_XedoxtXgU9r",
@@ -1260,8 +1280,8 @@
           "playsText": "478K plays",
           "duration": 184,
           "byOther": false,
-          "titleZh": "You Are The Sunshine of My Life （Feat. 黃韻玲）",
-          "nameKey": "youarethesunshineofmylife"
+          "nameKey": "youarethesunshineofmylife",
+          "titleZh": "You Are The Sunshine of My Life （Feat. 黃韻玲）"
         },
         {
           "index": 2,
@@ -1356,7 +1376,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "Timeless 可啦思刻",
-      "titleZh": "Timeless 可啦思刻"
+      "wikiKind": null,
+      "titleZh": "Timeless 可啦思刻",
+      "nameKey": "timeless可啦思刻"
     },
     {
       "browseId": "MPREb_fcevyliGINT",
@@ -1712,7 +1734,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "khaliltimelessconcertlive2009"
     },
     {
       "browseId": "MPREb_3YbW0zClhlR",
@@ -1738,7 +1762,9 @@
       "releaseDate": "2011-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同榮譽及獎項列表"
+      "wikiTitle": "方大同榮譽及獎項列表",
+      "wikiKind": null,
+      "nameKey": "好不容易"
     },
     {
       "browseId": "MPREb_FJvFwied7BP",
@@ -1885,7 +1911,9 @@
       "releaseDate": "2011-04-21",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
-      "wikiTitle": "15 (專輯)"
+      "wikiTitle": "15 (專輯)",
+      "wikiKind": null,
+      "nameKey": "15"
     },
     {
       "browseId": "MPREb_PzZQzeSGHoQ",
@@ -2180,8 +2208,8 @@
           "playsText": "1.2M plays",
           "duration": 260,
           "byOther": false,
-          "titleZh": "Rosy（首次發表新歌） (Live)",
-          "nameKey": "rosy#live"
+          "nameKey": "rosy#live",
+          "titleZh": "Rosy（首次發表新歌） (Live)"
         },
         {
           "index": 27,
@@ -2232,7 +2260,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "wikidata",
       "wikiTitle": "15 香港演唱會2011",
-      "titleZh": "15 香港演唱會2011"
+      "wikiKind": null,
+      "titleZh": "15 香港演唱會2011",
+      "nameKey": "15香港演唱會2011"
     },
     {
       "browseId": "MPREb_rQmr97njMdx",
@@ -2258,7 +2288,9 @@
       "releaseDate": "2012-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同榮譽及獎項列表"
+      "wikiTitle": "方大同榮譽及獎項列表",
+      "wikiKind": null,
+      "nameKey": "bb88"
     },
     {
       "browseId": "MPREb_rmuLUAhKetT",
@@ -2284,7 +2316,9 @@
       "releaseDate": "2012-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同榮譽及獎項列表"
+      "wikiTitle": "方大同榮譽及獎項列表",
+      "wikiKind": null,
+      "nameKey": "因為你"
     },
     {
       "browseId": "MPREb_fYeVIH5q6F2",
@@ -2310,7 +2344,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "千紙鶴"
     },
     {
       "browseId": "MPREb_lKivmQgxUOx",
@@ -2594,8 +2630,8 @@
           "playsText": "478K plays",
           "duration": 184,
           "byOther": false,
-          "titleZh": "You Are The Sunshine of My Life （Feat. 黃韻玲）",
-          "nameKey": "youarethesunshineofmylife"
+          "nameKey": "youarethesunshineofmylife",
+          "titleZh": "You Are The Sunshine of My Life （Feat. 黃韻玲）"
         },
         {
           "index": 26,
@@ -2721,9 +2757,11 @@
       ],
       "releaseDate": "2013-11-26",
       "releaseDatePrecision": "day",
-      "releaseDateSource": "album-page",
-      "wikiTitle": "The Soulboy Collection",
-      "titleZh": "The SOULBOY Collection（精選輯）"
+      "releaseDateSource": "table",
+      "wikiTitle": "方大同",
+      "wikiKind": null,
+      "titleZh": "The SOULBOY Collection（精選輯）",
+      "nameKey": "thesoulboycollection"
     },
     {
       "browseId": "MPREb_o8teL9zDUWD",
@@ -2750,7 +2788,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "椰殼"
     },
     {
       "browseId": "MPREb_1l0McIAQjdx",
@@ -2776,7 +2816,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "聽"
     },
     {
       "browseId": "MPREb_KTy6L34LUyD",
@@ -2802,7 +2844,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "catchadream"
     },
     {
       "browseId": "MPREb_hLEmZEftQU5",
@@ -2828,7 +2872,9 @@
       "releaseDate": "2018-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同榮譽及獎項列表"
+      "wikiTitle": "方大同榮譽及獎項列表",
+      "wikiKind": null,
+      "nameKey": "tenreasons"
     },
     {
       "browseId": "MPREb_DPkrFYLInQQ",
@@ -2854,7 +2900,9 @@
       "releaseDate": "2018-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同音乐作品列表"
+      "wikiTitle": "方大同音乐作品列表",
+      "wikiKind": "single",
+      "nameKey": "throwitoff"
     },
     {
       "browseId": "MPREb_bkZzefm5HjO",
@@ -2880,7 +2928,9 @@
       "releaseDate": "2018-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同音乐作品列表"
+      "wikiTitle": "方大同音乐作品列表",
+      "wikiKind": "single",
+      "nameKey": "假行僧"
     },
     {
       "browseId": "MPREb_7yjLxuYsTHQ",
@@ -2906,7 +2956,9 @@
       "releaseDate": "2018-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同音乐作品列表"
+      "wikiTitle": "方大同音乐作品列表",
+      "wikiKind": "single",
+      "nameKey": "雲南里"
     },
     {
       "browseId": "MPREb_a8wVB96o9n5",
@@ -2932,7 +2984,9 @@
       "releaseDate": "2018-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同音乐作品列表"
+      "wikiTitle": "方大同音乐作品列表",
+      "wikiKind": "single",
+      "nameKey": "頌海"
     },
     {
       "browseId": "MPREb_qqCGvsZbA9Z",
@@ -2981,7 +3035,9 @@
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
       "wikiTitle": "方大同",
-      "titleZh": "EMI The Dream Catcher #1（數位EP）"
+      "wikiKind": null,
+      "titleZh": "EMI The Dream Catcher #1（數位EP）",
+      "nameKey": "emithedreamcatcher1"
     },
     {
       "browseId": "MPREb_oz4l0HFkwzO",
@@ -3007,7 +3063,9 @@
       "releaseDate": "2019-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同音乐作品列表"
+      "wikiTitle": "方大同音乐作品列表",
+      "wikiKind": "single",
+      "nameKey": "白髮"
     },
     {
       "browseId": "MPREb_VrLtsHAsB3V",
@@ -3033,7 +3091,9 @@
       "releaseDate": "2020-01-01",
       "releaseDatePrecision": "year",
       "releaseDateSource": "list",
-      "wikiTitle": "方大同音乐作品列表"
+      "wikiTitle": "方大同音乐作品列表",
+      "wikiKind": "single",
+      "nameKey": "twiocamic"
     },
     {
       "browseId": "MPREb_C5iv2OVykkx",
@@ -3081,7 +3141,9 @@
       "releaseDate": "2020-06-19",
       "releaseDatePrecision": "day",
       "releaseDateSource": "table",
-      "wikiTitle": "方大同"
+      "wikiTitle": "方大同",
+      "wikiKind": null,
+      "nameKey": "宅這"
     },
     {
       "browseId": "MPREb_JbdmXb6e1VG",
@@ -3201,15 +3263,17 @@
           "playsText": "2.2M plays",
           "duration": 210,
           "byOther": false,
-          "titleZh": "沒啥好說",
-          "nameKey": "沒啥好說"
+          "nameKey": "沒啥好說",
+          "titleZh": "沒啥好說"
         }
       ],
       "releaseDate": "2024-10-18",
       "releaseDatePrecision": "day",
       "releaseDateSource": "album-page",
       "wikiTitle": "夢想家 The Dreamer",
-      "titleZh": "夢想家 The Dreamer"
+      "wikiKind": null,
+      "titleZh": "夢想家 The Dreamer",
+      "nameKey": "夢想家thedreamer"
     },
     {
       "browseId": "MPREb_8u9i3TqWwQC",
@@ -3235,7 +3299,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我不是農人"
     },
     {
       "browseId": "MPREb_XglcRdBembH",
@@ -3261,7 +3327,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "才23"
     },
     {
       "browseId": "MPREb_8g0lVGpM1ao",
@@ -3342,7 +3410,9 @@
       "releaseDate": null,
       "releaseDatePrecision": null,
       "releaseDateSource": null,
-      "wikiTitle": null
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "艾美夢遊圖畫小說16專輯"
     }
   ]
 }
