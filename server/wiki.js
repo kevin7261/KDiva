@@ -783,9 +783,12 @@ export function findWikiOnly(albums, catalog, artistNames = []) {
   const haveSet = new Set(have.filter(Boolean))
   // 中文名也比拼音（「11月的肖邦」與「11月的蕭邦」）
   for (const k of have.filter((h) => h && hasCJK(h))) if (k.length >= 3) havePinyin.add(pinyinKey(k))
+  // 再版／改版把原名包在裡面（「許茹芸1999你是最愛 珍愛大碟」⊃「你是最愛」），相似度比不出來，改用包含關係。
+  // 門檻 4 字以免「愛」「家」這種短名到處誤中
+  const containsHave = (k) => k.length >= 4 && have.some((h) => h && h.length >= 4 && (k.includes(h) || h.includes(k)))
   const covered = (e) =>
     (e.page && havePages.has(normalizeTitle(e.page))) ||
-    e.keys.some((k) => haveSet.has(k) || have.some((h) => h && similarity(k, h) >= 0.85)) ||
+    e.keys.some((k) => haveSet.has(k) || have.some((h) => h && similarity(k, h) >= 0.85) || containsHave(k)) ||
     e.titles.some((t) => pinyinKey(cleanWikiTitle(t)).length >= 4 && havePinyin.has(pinyinKey(cleanWikiTitle(t))))
   const RANK = { 'album-page': 0, 'search-page': 0, table: 1, list: 2 }
   // 只留正規專輯與 EP：單曲、精選、合輯、影音產品、特殊版本、兩首歌的單曲唱片（「雲河、夜來香」）都不算

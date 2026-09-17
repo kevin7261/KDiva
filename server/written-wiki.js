@@ -2,7 +2,7 @@
 // 網站收錄的歌手的詞曲資料只涵蓋有 Wikipedia 專輯條目的歌，這裡補上寫給沒收錄歌手的作品。
 import { wikiApi, fetchPages, readTables, toPlain, nameToTW, toTW } from './wiki.js'
 
-const SECTION = /詞曲創作|词曲创作|創作作品|创作作品|音樂創作|音乐创作|詞曲作品|词曲作品|他人演唱|為他人|为他人|作詞作曲|作词作曲/
+const SECTION = /詞曲創作|词曲创作|創作詞曲|创作词曲|創作作品|创作作品|音樂創作|音乐创作|詞曲作品|词曲作品|他人演唱|為他人|为他人|作詞作曲|作词作曲/
 const YEAR_HEAD = /年份|年度|時間|时间|發行|发行|date|year/i
 const SONG_HEAD = /曲名|歌曲|歌名|作品|單曲|单曲|song|title/i
 const SINGER_HEAD = /演唱|歌手|藝人|艺人|主唱|singer|artist/i
@@ -79,6 +79,19 @@ function parseWrittenList(text, selfNames) {
     if (!/^[*#]+\s*/.test(raw)) continue
     const line = plain(raw.replace(/^[*#]+\s*/, ''))
     if (!line || /^\s*$/.test(line)) continue
+    // 格式二：「歌手：歌名、歌名、歌名」（謝銘祐的條目這樣寫，和格式一剛好左右相反）
+    const colon = line.match(/^([^：:]{1,20})\s*[：:]\s*(.+)$/)
+    if (colon && !/^\d/.test(colon[1])) {
+      const who = colon[1].replace(/[（(].*$/, '').trim()
+      if (who && !NOT_SINGER.test(who) && !selfNames.some((n) => n && who === n)) {
+        for (const part of splitSongs(colon[2])) {
+          const { song, roles } = splitRoles(part)
+          if (!song || song.length > 40 || /^\d/.test(song)) continue
+          out.push({ song, singer: who, roles: roles.length ? roles : ['創作'], album: '', year: null })
+        }
+        continue
+      }
+    }
     // 自己的唱片那一段是「專輯名（年份，公司）」，沒有「-歌手」結構
     const cut = Math.max(line.lastIndexOf('-'), line.lastIndexOf('－'), line.lastIndexOf('—'), line.lastIndexOf('–'))
     if (cut <= 0 || cut === line.length - 1) continue
