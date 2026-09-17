@@ -1,0 +1,280 @@
+{
+  "slug": "gary-chaw",
+  "fetchedAt": "2026-09-17T21:25:17.774Z",
+  "wiki": "曹格",
+  "bio": {
+    "born": {
+      "date": "1979-07-09",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "WELCOME TO MY WORLD 亞洲巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2008-06-28",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2010-02-06",
+        "precision": "day"
+      },
+      "showCount": 5,
+      "regions": [],
+      "cities": [
+        "吉隆坡",
+        "新加坡",
+        "臺北",
+        "香港",
+        "澳門"
+      ],
+      "venues": [
+        "布特拉室內體育館",
+        "新加坡室內體育館",
+        "臺北小巨蛋",
+        "亞洲國際博覽館",
+        "金光綜藝館"
+      ],
+      "shows": [
+        {
+          "date": "2008-06-28",
+          "precision": "day",
+          "region": "",
+          "city": "吉隆坡",
+          "venue": "布特拉室內體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-07-12",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "新加坡室內體育館",
+          "lat": 1.3005555555555555,
+          "lon": 103.87444444444445,
+          "geo": "venue"
+        },
+        {
+          "date": "2008-11-08",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2009-08-21",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "亞洲國際博覽館",
+          "lat": 22.32136446128948,
+          "lon": 113.94375298172237,
+          "geo": "venue"
+        },
+        {
+          "date": "2010-02-06",
+          "precision": "day",
+          "region": "",
+          "city": "澳門",
+          "venue": "金光綜藝館",
+          "lat": 22.147589,
+          "lon": 113.558863,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "Sensation World Asia Live Tour 2010世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2010-11-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2011-07-16",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "香港",
+        "吉隆坡"
+      ],
+      "venues": [
+        "亞洲國際博覽館",
+        "布特拉室內體育館"
+      ],
+      "shows": [
+        {
+          "date": "2010-11-20",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "亞洲國際博覽館",
+          "lat": 22.32136446128948,
+          "lon": 113.94375298172237,
+          "geo": "venue"
+        },
+        {
+          "date": "2011-07-16",
+          "precision": "day",
+          "region": "",
+          "city": "吉隆坡",
+          "venue": "布特拉室內體育館",
+          "lat": 3.0537361111111,
+          "lon": 101.69355555556,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "我是曹格世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2014-11-08",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2016-05-14",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "北京",
+        "深圳",
+        "上海"
+      ],
+      "venues": [
+        "華熙LIVE-五棵松體育館",
+        "深圳灣華潤體育館",
+        "梅賽德斯-奔馳文化中心"
+      ],
+      "shows": [
+        {
+          "date": "2014-11-08",
+          "precision": "day",
+          "region": "",
+          "city": "北京",
+          "venue": "華熙LIVE-五棵松體育館",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2016-04-23",
+          "precision": "day",
+          "region": "",
+          "city": "深圳",
+          "venue": "深圳灣華潤體育館",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2016-05-14",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "梅賽德斯-奔馳文化中心",
+          "lat": 31.191291,
+          "lon": 121.489391,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "打開耳朵聽我說 世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2026-04-11",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-06-27",
+        "precision": "day"
+      },
+      "showCount": 5,
+      "regions": [],
+      "cities": [
+        "上海",
+        "廣州",
+        "長沙",
+        "重慶",
+        "合肥"
+      ],
+      "venues": [
+        "上海虹館EH",
+        "廣州體育館",
+        "長沙國際會展演藝中心",
+        "華熙生物.潤百顏ECM中心",
+        "少荃體育中心體育館"
+      ],
+      "shows": [
+        {
+          "date": "2026-04-11",
+          "precision": "day",
+          "region": "",
+          "city": "上海",
+          "venue": "上海虹館EH",
+          "lat": 31.1916,
+          "lon": 121.2974,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-04-25",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "廣州體育館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-05-16",
+          "precision": "day",
+          "region": "",
+          "city": "長沙",
+          "venue": "長沙國際會展演藝中心",
+          "lat": 28.15,
+          "lon": 113.09,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-06-13",
+          "precision": "day",
+          "region": "",
+          "city": "重慶",
+          "venue": "華熙生物.潤百顏ECM中心",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2026-06-27",
+          "precision": "day",
+          "region": "",
+          "city": "合肥",
+          "venue": "少荃體育中心體育館",
+          "lat": 31.86389,
+          "lon": 117.28083,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
+}

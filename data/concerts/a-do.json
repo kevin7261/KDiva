@@ -1,0 +1,88 @@
+{
+  "slug": "a-do",
+  "fetchedAt": "2026-09-17T21:29:56.335Z",
+  "wiki": "阿杜 (新加坡歌手)",
+  "bio": {
+    "born": {
+      "date": "1974-03-11",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "阿杜 醇情歌演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2004-10-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2004-10-03",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "淡水漁人碼頭"
+      ],
+      "shows": []
+    },
+    {
+      "name": "一根紅線·非常阿杜北京演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2005-05-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2005-05-21",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "中國大陸"
+      ],
+      "cities": [
+        "北京"
+      ],
+      "venues": [
+        "首都體育館"
+      ],
+      "shows": []
+    },
+    {
+      "name": "非常阿杜新加坡演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2005-12-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2005-12-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [
+        "新加坡"
+      ],
+      "cities": [
+        "新加坡室內體育館"
+      ],
+      "venues": [
+        "林俊傑、金莎"
+      ],
+      "shows": []
+    }
+  ]
+}

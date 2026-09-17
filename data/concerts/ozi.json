@@ -1,0 +1,82 @@
+{
+  "slug": "ozi",
+  "fetchedAt": "2026-09-17T21:30:04.633Z",
+  "wiki": "ØZI",
+  "bio": {
+    "born": {
+      "date": "1997-03-27",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "LOST IN PARADISE 天堂中迷航首場演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-01-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-01-23",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "華山Legacy"
+      ],
+      "venues": [
+        "華山Legacy"
+      ],
+      "shows": []
+    },
+    {
+      "name": "ADICA",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-03-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-03-04",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺北流行音樂中心"
+      ],
+      "venues": [
+        "臺北流行音樂中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "SWIRL",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2025-03-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-03-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺北流行音樂中心"
+      ],
+      "venues": [
+        "臺北流行音樂中心"
+      ],
+      "shows": []
+    }
+  ]
+}
