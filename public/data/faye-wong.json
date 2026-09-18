@@ -2,13 +2,13 @@
   "slug": "faye-wong",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T23:57:13.190Z",
+  "fetchedAt": "2026-09-18T21:07:15.852Z",
   "artist": {
     "channelId": "UCnAmvOfJxmcMd5q48BEIuPQ",
     "name": "王菲",
     "thumbnail": "https://yt3.googleusercontent.com/Nb3d0PSY7yezrX-jWF9I4lCPF4P-KW8O_x3Y1bfACgWgym5Ke_s-arO6T3EcBJsJcX4d0mDOUsYVi1nA=w2880-h1200-p-l90-rj",
     "subscribers": 209000,
-    "monthlyAudience": 3440000,
+    "monthlyAudience": 3360000,
     "videos": [
       {
         "title": "如愿",
@@ -254,6 +254,9 @@
         "title": "從明日開始 (Live in Hong Kong / 1995)",
         "videoId": "bvKXDSN-jlg"
       }
+    ],
+    "songListIds": [
+      "VLOLAK5uy_nkjjFpAy2IO87V5A19DYqoLQGhWEQYvvY"
     ],
     "avatar": "https://yt3.googleusercontent.com/3zXdGx1T_8tEgQixHFhvPPWf_dEq0fx58UzLvIE1nN6AmTA5GRELmkExmriWYuW7JqA2bmNI=s800-c-k-c0x00ffffff-no-rj"
   },
@@ -792,6 +795,380 @@
       "titleZh": "Everything",
       "titleZhVariant": true,
       "nameKey": "everything"
+    },
+    {
+      "browseId": "MPREb_xLlidZZlPqf",
+      "playlistId": "OLAK5uy_mhtrLvzorpJIKRFCMJGZtfXjeZNy89uOM",
+      "title": "Everything (Remastered 2019)",
+      "albumArtist": "王菲",
+      "type": "Album",
+      "year": 1990,
+      "thumbnail": "https://yt3.googleusercontent.com/ZPNEmp67kCTMRt7j5tv3yZPY_Q5u8x9rXJaAeuMcFLqKaGjCWhtc013r2REG0FQo0Bw-nqoDv12X7o1ySg=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "巴黎塔尖",
+          "artists": "",
+          "videoId": "0dKEb27AFOc",
+          "plays": 130000,
+          "playsText": "播放次數：13萬",
+          "duration": 269,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "EPO",
+            "arranger": "鮑比達"
+          },
+          "nameKey": "巴黎塔尖"
+        },
+        {
+          "index": 2,
+          "title": "Everything",
+          "artists": "",
+          "videoId": "5jwDSl_ae6o",
+          "plays": 130000,
+          "playsText": "播放次數：13萬",
+          "duration": 267,
+          "byOther": false,
+          "titleZh": "Everything (王靖雯專輯)",
+          "credits": {
+            "lyrics": "林振強",
+            "music": "Gardner Cole、James Newton Howard",
+            "arranger": "王利名"
+          },
+          "titleZhVariant": true,
+          "nameKey": "everything"
+        },
+        {
+          "index": 3,
+          "title": "遊蕩",
+          "artists": "",
+          "videoId": "FYfx2ItSkf0",
+          "plays": 16000,
+          "playsText": "播放次數：1.6萬",
+          "duration": 287,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "Henry Gaffney、Madeline Stone",
+            "arranger": "林鑛培"
+          },
+          "nameKey": "遊蕩"
+        },
+        {
+          "index": 4,
+          "title": "可否抱緊我",
+          "artists": "",
+          "videoId": "lfHvI08L7Lo",
+          "plays": 240000,
+          "playsText": "播放次數：24萬",
+          "duration": 254,
+          "byOther": false,
+          "credits": {
+            "lyrics": "綠葉",
+            "music": "黃家駒",
+            "arranger": "林鑛培"
+          },
+          "nameKey": "可否抱緊我"
+        },
+        {
+          "index": 5,
+          "title": "鬥快說笑話 (電影\"快樂的小雞\"主題曲)",
+          "artists": "",
+          "videoId": "EuA0WaP4jFY",
+          "plays": 16000,
+          "playsText": "播放次數：1.6萬",
+          "duration": 248,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "林敏怡",
+            "arranger": "林敏怡"
+          },
+          "nameKey": "鬥快說笑話"
+        },
+        {
+          "index": 6,
+          "title": "My Loneliness",
+          "artists": "",
+          "videoId": "1LOh2-uPvns",
+          "plays": 44000,
+          "playsText": "播放次數：4.4萬",
+          "duration": 251,
+          "byOther": false,
+          "credits": {
+            "lyrics": "綠葉",
+            "music": "王利名",
+            "arranger": "王利名"
+          },
+          "nameKey": "myloneliness"
+        },
+        {
+          "index": 7,
+          "title": "哭牆",
+          "artists": "",
+          "videoId": "1JW4D0jR80o",
+          "plays": 20000,
+          "playsText": "播放次數：2萬",
+          "duration": 275,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Jay Gruska、Jon Astley、Marilyn Martin",
+            "arranger": "鮑比達"
+          },
+          "nameKey": "哭牆"
+        },
+        {
+          "index": 8,
+          "title": "無悔今夜",
+          "artists": "",
+          "videoId": "4yzIg1qd0DY",
+          "plays": 11000,
+          "playsText": "播放次數：1.1萬",
+          "duration": 233,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "鮑比達",
+            "arranger": "鮑比達"
+          },
+          "nameKey": "無悔今夜"
+        },
+        {
+          "index": 9,
+          "title": "一剎那",
+          "artists": "",
+          "videoId": "SKwirWu9134",
+          "plays": 11000,
+          "playsText": "播放次數：1.1萬",
+          "duration": 267,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "梁榮駿",
+            "arranger": "王利名"
+          },
+          "nameKey": "一剎那"
+        },
+        {
+          "index": 10,
+          "title": "激流",
+          "artists": "",
+          "videoId": "AtvuFL0CRDk",
+          "plays": 11000,
+          "playsText": "播放次數：1.1萬",
+          "duration": 303,
+          "byOther": false,
+          "credits": {
+            "lyrics": "文井一",
+            "music": "林敏怡",
+            "arranger": "林敏怡"
+          },
+          "nameKey": "激流"
+        },
+        {
+          "index": 11,
+          "title": "巴黎塔尖",
+          "artists": "",
+          "videoId": "cHKxAqTSCYQ",
+          "plays": 3219,
+          "playsText": "播放次數：3219",
+          "duration": 61,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "EPO",
+            "arranger": "鮑比達"
+          },
+          "nameKey": "巴黎塔尖"
+        }
+      ],
+      "releaseDate": "1990-06-01",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "Everything (王靖雯專輯)",
+      "wikiKind": null,
+      "titleZh": "Everything",
+      "titleZhVariant": true,
+      "nameKey": "everything"
+    },
+    {
+      "browseId": "MPREb_mC4dqJxbCmH",
+      "playlistId": "OLAK5uy_np6xFInR7wSTSuCJqwrLtKzRO_sLlA_zc",
+      "title": "You're The Only One",
+      "albumArtist": "王菲",
+      "type": "Album",
+      "year": 1990,
+      "thumbnail": "https://yt3.googleusercontent.com/3zq9G0DLASaD4tXAlDgDOVLdMv7f8yZspzDxvXHk0_dKByAS_6fQZ3bdXiXoohd73TMCzNqG8wTk7U-z=w544-h544-s-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "美麗的震盪",
+          "artists": "",
+          "videoId": "gCxA83kHqzo",
+          "plays": 33000,
+          "playsText": "播放次數：3.3萬",
+          "duration": 277,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "Lewis A. Martinee",
+            "arranger": "Stephen Hogg"
+          },
+          "nameKey": "美麗的震盪"
+        },
+        {
+          "index": 2,
+          "title": "又繼續等",
+          "artists": "",
+          "videoId": "wob3oMtBrK0",
+          "plays": 110000,
+          "playsText": "播放次數：11萬",
+          "duration": 283,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "Deke Richards",
+            "arranger": "王利名"
+          },
+          "nameKey": "又繼續等"
+        },
+        {
+          "index": 3,
+          "title": "然後某天",
+          "artists": "",
+          "videoId": "m_pXAgcTco8",
+          "plays": 11000,
+          "playsText": "播放次數：1.1萬",
+          "duration": 264,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Chris White",
+            "arranger": "Richard Yuen"
+          },
+          "nameKey": "然後某天"
+        },
+        {
+          "index": 4,
+          "title": "悶人咖啡",
+          "artists": "",
+          "videoId": "MIbd2jWg_SU",
+          "plays": 46000,
+          "playsText": "播放次數：4.6萬",
+          "duration": 266,
+          "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "唐奕聰",
+            "arranger": "唐奕聰"
+          },
+          "nameKey": "悶人咖啡"
+        },
+        {
+          "index": 5,
+          "title": "無原因",
+          "artists": "",
+          "videoId": "wSF6Httw5mA",
+          "plays": 18000,
+          "playsText": "播放次數：1.8萬",
+          "duration": 249,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "區新明",
+            "arranger": "林鑛培"
+          },
+          "nameKey": "無原因"
+        },
+        {
+          "index": 6,
+          "title": "多得他",
+          "artists": "",
+          "videoId": "odYDZIi3oAc",
+          "plays": 3310000,
+          "playsText": "播放次數：331萬",
+          "duration": 291,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Babyface、L.A. Reid、Daryl Simmons",
+            "arranger": "唐奕聰"
+          },
+          "nameKey": "多得他"
+        },
+        {
+          "index": 7,
+          "title": "只有你",
+          "artists": "",
+          "videoId": "gVUHvxsv12w",
+          "plays": 20000,
+          "playsText": "播放次數：2萬",
+          "duration": 265,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "EPO",
+            "arranger": "林鑛培"
+          },
+          "nameKey": "只有你"
+        },
+        {
+          "index": 8,
+          "title": "靜夜的單簧管",
+          "artists": "",
+          "videoId": "OiZwkSltRmo",
+          "plays": 480000,
+          "playsText": "播放次數：48萬",
+          "duration": 265,
+          "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "倫永亮",
+            "arranger": "倫永亮"
+          },
+          "nameKey": "靜夜的單簧管"
+        },
+        {
+          "index": 9,
+          "title": "明年今夜",
+          "artists": "",
+          "videoId": "okziqbjr_bI",
+          "plays": 53000,
+          "playsText": "播放次數：5.3萬",
+          "duration": 256,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "EPO",
+            "arranger": "鮑比達"
+          },
+          "nameKey": "明年今夜"
+        },
+        {
+          "index": 10,
+          "title": "不裝飾",
+          "artists": "",
+          "videoId": "600gi0ZxUYw",
+          "plays": 49000,
+          "playsText": "播放次數：4.9萬",
+          "duration": 296,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "EPO",
+            "arranger": "Richard Yuen"
+          },
+          "nameKey": "不裝飾"
+        }
+      ],
+      "releaseDate": "1990-12-01",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "You're the Only One",
+      "wikiKind": null,
+      "nameKey": "youretheonlyone"
     },
     {
       "browseId": "MPREb_88PH76SCDUG",
@@ -1993,7 +2370,8 @@
           "duration": 228,
           "byOther": false,
           "credits": {
-            "music": "C.Y. Kong|lyrics1 = 莫可欣、郭可盈",
+            "lyrics": "莫可欣、郭可盈",
+            "music": "C.Y. Kong",
             "arranger": "C.Y. Kong"
           },
           "nameKey": "流非飛",
@@ -2009,7 +2387,9 @@
           "duration": 280,
           "byOther": false,
           "credits": {
-            "music": "Simon Burton、Helen Hoffner|lyrics2 = 周禮茂|arranger2 =王利名"
+            "lyrics": "周禮茂",
+            "music": "Simon Burton、Helen Hoffner",
+            "arranger": "王利名"
           },
           "nameKey": "summeroflove",
           "mv": "IGTZdIuPPJg"
@@ -2024,7 +2404,9 @@
           "duration": 271,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -2039,7 +2421,9 @@
           "duration": 254,
           "byOther": false,
           "credits": {
-            "music": "Tori Amos|lyrics4 = 林夕|arranger4 =盧東尼"
+            "lyrics": "林夕",
+            "music": "Tori Amos",
+            "arranger": "盧東尼"
           },
           "nameKey": "冷戰"
         },
@@ -2053,7 +2437,9 @@
           "duration": 267,
           "byOther": false,
           "credits": {
-            "music": "鄧建明|lyrics5 = 陳少琪|arranger5 =唐奕聰"
+            "lyrics": "陳少琪",
+            "music": "鄧建明",
+            "arranger": "唐奕聰"
           },
           "nameKey": "長大"
         },
@@ -2067,7 +2453,8 @@
           "duration": 273,
           "byOther": false,
           "credits": {
-            "music": "Miyuki Nakajima| lyrics6 = 潘源良",
+            "lyrics": "潘源良",
+            "music": "中島美雪",
             "arranger": "C.Y. Kong"
           },
           "nameKey": "若你眞愛我"
@@ -2082,7 +2469,9 @@
           "duration": 245,
           "byOther": false,
           "credits": {
-            "music": "王靖雯|lyrics7 = 王靖雯|arranger7 = 唐奕聰"
+            "lyrics": "王靖雯",
+            "music": "王靖雯",
+            "arranger": "唐奕聰"
           },
           "nameKey": "動心"
         },
@@ -2096,7 +2485,9 @@
           "duration": 214,
           "byOther": false,
           "credits": {
-            "music": "Barry White|lyrics8 = 潘源良|arranger8 = C.Y. Kong"
+            "lyrics": "潘源良",
+            "music": "Barry White",
+            "arranger": "C.Y. Kong"
           },
           "nameKey": "雨天沒有你"
         },
@@ -2110,7 +2501,9 @@
           "duration": 240,
           "byOther": false,
           "credits": {
-            "music": "劉以達|lyrics9 = 周耀輝|arranger9 = 劉以達"
+            "lyrics": "周耀輝",
+            "music": "劉以達",
+            "arranger": "劉以達"
           },
           "nameKey": "誘惑我",
           "mv": "KEoB2yNaAFY"
@@ -2125,7 +2518,9 @@
           "duration": 228,
           "byOther": false,
           "credits": {
-            "music": "Sting|lyrics10 = 周禮茂|arranger10 = C.Y. Kong"
+            "lyrics": "周禮茂",
+            "music": "Sting",
+            "arranger": "C.Y. Kong"
           },
           "nameKey": "dododada"
         },
@@ -2139,7 +2534,9 @@
           "duration": 265,
           "byOther": false,
           "credits": {
-            "music": "鄧建明|lyrics11 = 梁榮駿|arranger11 = 唐奕聰"
+            "lyrics": "梁榮駿",
+            "music": "鄧建明",
+            "arranger": "唐奕聰"
           },
           "nameKey": "dowereallycare"
         }
@@ -2170,7 +2567,9 @@
           "duration": 274,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -2180,8 +2579,8 @@
           "title": "誘惑我 (電影「誘僧」主題曲)",
           "artists": "",
           "videoId": "EaskxxcfJB0",
-          "plays": 5009,
-          "playsText": "播放次數：5009",
+          "plays": 5012,
+          "playsText": "播放次數：5012",
           "duration": 228,
           "byOther": false,
           "credits": {
@@ -2444,8 +2843,8 @@
           "title": "我永遠珍惜你我",
           "artists": "",
           "videoId": "R0JSyqwJPnU",
-          "plays": 81000,
-          "playsText": "播放次數：8.1萬",
+          "plays": 82000,
+          "playsText": "播放次數：8.2萬",
           "duration": 223,
           "byOther": false,
           "credits": {
@@ -2465,7 +2864,9 @@
           "duration": 262,
           "byOther": false,
           "credits": {
-            "music": "鄧建明|lyrics11 = 梁榮駿|arranger11 = 唐奕聰"
+            "lyrics": "梁榮駿",
+            "music": "鄧建明",
+            "arranger": "唐奕聰"
           },
           "nameKey": "dowereallycare"
         },
@@ -3252,6 +3653,261 @@
       "nameKey": "胡思亂想"
     },
     {
+      "browseId": "MPREb_muX4JOCL7CQ",
+      "playlistId": "OLAK5uy_lhAKO686jqRzYLZsHi2ZrkIPp3zesBX5k",
+      "title": "胡思亂想",
+      "albumArtist": "王菲",
+      "type": "Album",
+      "year": 1994,
+      "thumbnail": "https://yt3.googleusercontent.com/AZe2DD4vsyrRmPm2_eQucOE4qXrYxSgCIwC9_9_ShRv9dSEu1bqhHntOBStfG8oabZS8aMzmpY6xEngq=w544-h544-s-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "胡思亂想",
+          "artists": "王菲",
+          "videoId": "NLROj5WjYfc",
+          "plays": 380000,
+          "playsText": "播放次數：38萬",
+          "duration": 233,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Elizabeth Fraser、Robin Guthrie、Simon Raymonde",
+            "arranger": "Adrian Chan"
+          },
+          "nameKey": "胡思亂想"
+        },
+        {
+          "index": 2,
+          "title": "誓言",
+          "artists": "王菲",
+          "videoId": "EzE2XuuZSi0",
+          "plays": 1670000,
+          "playsText": "播放次數：167萬",
+          "duration": 261,
+          "byOther": false,
+          "credits": {
+            "lyrics": "王菲",
+            "music": "竇唯、王菲",
+            "arranger": "竇唯"
+          },
+          "nameKey": "誓言"
+        },
+        {
+          "index": 3,
+          "title": "天與地",
+          "artists": "王菲",
+          "videoId": "bYr9-O5kNYs",
+          "plays": 840000,
+          "playsText": "播放次數：84萬",
+          "duration": 282,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "Alex San"
+          },
+          "nameKey": "天與地",
+          "mv": "bYr9-O5kNYs"
+        },
+        {
+          "index": 4,
+          "title": "夢中人 (電影《重慶森林》歌曲)",
+          "artists": "王菲",
+          "videoId": "bdKdpyLH-IM",
+          "plays": 15620000,
+          "playsText": "播放次數：1562萬",
+          "duration": 262,
+          "byOther": false,
+          "nameKey": "夢中人",
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "Dolores O'Riordan、Noel Hogan",
+            "arranger": "Adrian Chan"
+          }
+        },
+        {
+          "index": 5,
+          "title": "知己知彼",
+          "artists": "王菲",
+          "videoId": "iYqhHM19He0",
+          "plays": 660000,
+          "playsText": "播放次數：66萬",
+          "duration": 215,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Elizabeth Fraser、Robin Guthrie、Simon Raymonde",
+            "arranger": "Adrian Chan"
+          },
+          "nameKey": "知己知彼",
+          "mv": "iYqhHM19He0"
+        },
+        {
+          "index": 6,
+          "title": "純情",
+          "artists": "王菲",
+          "videoId": "fbEbtRitKdU",
+          "plays": 160000,
+          "playsText": "播放次數：16萬",
+          "duration": 272,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "C.Y. Kong",
+            "arranger": "C.Y. Kong"
+          },
+          "nameKey": "純情"
+        },
+        {
+          "index": 7,
+          "title": "遊戲的終點",
+          "artists": "王菲",
+          "videoId": "63Gvy5GLBV0",
+          "plays": 190000,
+          "playsText": "播放次數：19萬",
+          "duration": 297,
+          "byOther": false,
+          "credits": {
+            "lyrics": "潘源良",
+            "music": "張宇",
+            "arranger": "Alex San"
+          },
+          "nameKey": "遊戲的終點"
+        },
+        {
+          "index": 8,
+          "title": "夢遊",
+          "artists": "王菲",
+          "videoId": "dudFxeNhWlg",
+          "plays": 220000,
+          "playsText": "播放次數：22萬",
+          "duration": 280,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "C.Y. Kong",
+            "arranger": "C.Y. Kong"
+          },
+          "nameKey": "夢遊"
+        },
+        {
+          "index": 9,
+          "title": "藍色時份",
+          "artists": "王菲",
+          "videoId": "JelahRdqt70",
+          "plays": 240000,
+          "playsText": "播放次數：24萬",
+          "duration": 252,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "陳小霞",
+            "arranger": "Alex San"
+          },
+          "nameKey": "藍色時份"
+        },
+        {
+          "index": 10,
+          "title": "回憶是紅色天空",
+          "artists": "王菲",
+          "videoId": "erKB8oDeJKo",
+          "plays": 230000,
+          "playsText": "播放次數：23萬",
+          "duration": 254,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "梁榮駿",
+            "arranger": "C.Y. Kong、Adrian Chan"
+          },
+          "nameKey": "回憶是紅色天空",
+          "mv": "erKB8oDeJKo"
+        },
+        {
+          "index": 11,
+          "title": "愛一次給不完",
+          "artists": "王菲 和 張學友",
+          "videoId": "GcxLDX_O4V0",
+          "plays": 130000,
+          "playsText": "播放次數：13萬",
+          "duration": 237,
+          "byOther": false,
+          "credits": {
+            "lyrics": "何啟弘",
+            "music": "陳迪匡、湯家驥",
+            "arranger": "C.Y. Kong"
+          },
+          "nameKey": "愛一次給不完"
+        },
+        {
+          "index": 12,
+          "title": "知己之彼 (Europe Mix)",
+          "artists": "王菲",
+          "videoId": "ZLUJljPRhwU",
+          "plays": 25000,
+          "playsText": "播放次數：2.5萬",
+          "duration": 198,
+          "byOther": false,
+          "nameKey": "知己之彼"
+        },
+        {
+          "index": 13,
+          "title": "容易受傷的女人 (國語版)",
+          "artists": "王菲",
+          "videoId": "LKUs8ihMlT4",
+          "plays": 3100000,
+          "playsText": "播放次數：310萬",
+          "duration": 258,
+          "byOther": false,
+          "credits": {
+            "lyrics": "何啟弘",
+            "music": "中島美雪",
+            "arranger": "Tony A"
+          },
+          "nameKey": "容易受傷的女人",
+          "mv": "UKAHwVsRrjA"
+        },
+        {
+          "index": 14,
+          "title": "忘掉你像忘掉我",
+          "artists": "王菲",
+          "videoId": "9nDio0UmMpk",
+          "plays": 3230000,
+          "playsText": "播放次數：323萬",
+          "duration": 261,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "張國榮"
+          },
+          "nameKey": "忘掉你像忘掉我"
+        },
+        {
+          "index": 15,
+          "title": "非常夏日",
+          "artists": "王菲 和 張學友",
+          "videoId": "XtQYASMXs6g",
+          "plays": 130000,
+          "playsText": "播放次數：13萬",
+          "duration": 237,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "陳迪匡、湯家驥",
+            "arranger": "C.Y. Kong"
+          },
+          "nameKey": "非常夏日"
+        }
+      ],
+      "releaseDate": "1994-06-29",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "胡思亂想",
+      "wikiKind": null,
+      "nameKey": "胡思亂想"
+    },
+    {
       "browseId": "MPREb_nvOVkYE5xiA",
       "playlistId": "OLAK5uy_lLNyGGszbovUcFs38ncReIGYD13c1yIbQ",
       "title": "天空",
@@ -3888,6 +4544,232 @@
       "nameKey": "王菲最精彩的演唱會"
     },
     {
+      "browseId": "MPREb_sIuD54qAa3Z",
+      "playlistId": "OLAK5uy_lrCIuAEG0kBEUTMG7Py7IKO9dQE9Skvpk",
+      "title": "菲靡靡之音",
+      "albumArtist": "王菲",
+      "type": "Album",
+      "year": 2006,
+      "thumbnail": "https://yt3.googleusercontent.com/izYWo8TjnL7eSbxMAF63devxh3MN123LfOPcQJQepnVfvzP8JCODF90LQTt_KPLlvE0coawz83Occoz-=w544-h544-s-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "雪中蓮",
+          "artists": "",
+          "videoId": "pWlk6AexcSk",
+          "plays": 630000,
+          "playsText": "播放次數：63萬",
+          "duration": 208,
+          "byOther": false,
+          "credits": {
+            "lyrics": "黃敏",
+            "music": "黃敏",
+            "arranger": "Adrian Chan"
+          },
+          "nameKey": "雪中蓮"
+        },
+        {
+          "index": 2,
+          "title": "你在我心中",
+          "artists": "",
+          "videoId": "L2PRF2Gd1Z8",
+          "plays": 900000,
+          "playsText": "播放次數：90萬",
+          "duration": 264,
+          "byOther": false,
+          "credits": {
+            "lyrics": "王文元",
+            "music": "井上忠夫",
+            "arranger": "Adrian Chan"
+          },
+          "nameKey": "你在我心中"
+        },
+        {
+          "index": 3,
+          "title": "但願人長久",
+          "artists": "",
+          "videoId": "wCREDfUEd3Y",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
+          "duration": 261,
+          "byOther": false,
+          "credits": {
+            "lyrics": "蘇軾",
+            "music": "梁弘志",
+            "arranger": "Alex San"
+          },
+          "nameKey": "但願人長久",
+          "mv": "wCREDfUEd3Y"
+        },
+        {
+          "index": 4,
+          "title": "君心我心",
+          "artists": "",
+          "videoId": "LW52OSYCAd4",
+          "plays": 290000,
+          "playsText": "播放次數：29萬",
+          "duration": 241,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林煌坤",
+            "music": "安蒂",
+            "arranger": "Alex San"
+          },
+          "nameKey": "君心我心"
+        },
+        {
+          "index": 5,
+          "title": "初戀的地方",
+          "artists": "",
+          "videoId": "bivSDOvtdYw",
+          "plays": 160000,
+          "playsText": "播放次數：16萬",
+          "duration": 217,
+          "byOther": false,
+          "credits": {
+            "lyrics": "孫儀",
+            "music": "劉家昌",
+            "arranger": "Adrian Chan"
+          },
+          "nameKey": "初戀的地方"
+        },
+        {
+          "index": 6,
+          "title": "南海姑娘",
+          "artists": "",
+          "videoId": "o5NeihMxumE",
+          "plays": 890000,
+          "playsText": "播放次數：89萬",
+          "duration": 189,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳藝華",
+            "music": "陳藝華",
+            "arranger": "Alex San"
+          },
+          "nameKey": "南海姑娘"
+        },
+        {
+          "index": 7,
+          "title": "假如我是真的",
+          "artists": "",
+          "videoId": "NO_MLLo3rIA",
+          "plays": 790000,
+          "playsText": "播放次數：79萬",
+          "duration": 180,
+          "byOther": false,
+          "credits": {
+            "lyrics": "莊奴",
+            "music": "欣逸",
+            "arranger": "Alex San"
+          },
+          "nameKey": "假如我是眞的"
+        },
+        {
+          "index": 8,
+          "title": "翠湖寒",
+          "artists": "",
+          "videoId": "MXbruisDwHo",
+          "plays": 110000,
+          "playsText": "播放次數：11萬",
+          "duration": 222,
+          "byOther": false,
+          "credits": {
+            "lyrics": "孫儀",
+            "music": "駱明道",
+            "arranger": "Adrian Chan"
+          },
+          "nameKey": "翠湖寒"
+        },
+        {
+          "index": 9,
+          "title": "黃昏裡",
+          "artists": "",
+          "videoId": "q3ZH_IQSbvk",
+          "plays": 170000,
+          "playsText": "播放次數：17萬",
+          "duration": 198,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林煌坤",
+            "music": "井上忠夫",
+            "arranger": "Alex San"
+          },
+          "nameKey": "黃昏裡"
+        },
+        {
+          "index": 10,
+          "title": "奈何",
+          "artists": "",
+          "videoId": "Q-USOUn7NnI",
+          "plays": 250000,
+          "playsText": "播放次數：25萬",
+          "duration": 228,
+          "byOther": false,
+          "credits": {
+            "lyrics": "李達濤",
+            "music": "李達濤",
+            "arranger": "Alex San"
+          },
+          "nameKey": "奈何"
+        },
+        {
+          "index": 11,
+          "title": "一個小心願",
+          "artists": "",
+          "videoId": "ANfTRuZXR-Q",
+          "plays": 230000,
+          "playsText": "播放次數：23萬",
+          "duration": 220,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳雲山",
+            "music": "鈴木邦彥",
+            "arranger": "Adrian Chan"
+          },
+          "nameKey": "一個小心願"
+        },
+        {
+          "index": 12,
+          "title": "又見炊煙",
+          "artists": "",
+          "videoId": "FCvYdUkemL0",
+          "plays": 1260000,
+          "playsText": "播放次數：126萬",
+          "duration": 219,
+          "byOther": false,
+          "credits": {
+            "lyrics": "莊奴",
+            "music": "海沼實",
+            "arranger": "Adrian Chan"
+          },
+          "nameKey": "又見炊煙"
+        },
+        {
+          "index": 13,
+          "title": "原鄉情濃",
+          "artists": "",
+          "videoId": "ZOvqn3YrCP4",
+          "plays": 77000,
+          "playsText": "播放次數：7.7萬",
+          "duration": 195,
+          "byOther": false,
+          "credits": {
+            "lyrics": "黃河",
+            "music": "翁清溪",
+            "arranger": "Alex San"
+          },
+          "nameKey": "原鄉情濃"
+        }
+      ],
+      "releaseDate": "1995-07-03",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "菲靡靡之音",
+      "wikiKind": "studio",
+      "nameKey": "菲靡靡之音"
+    },
+    {
       "browseId": "MPREb_CWB6zshMof4",
       "playlistId": "OLAK5uy_mhWW2Io6r8e9G6IxeSZAUeHN3Whq4oEMU",
       "title": "一人分飾兩角",
@@ -3917,8 +4799,8 @@
           "title": "愛與痛的邊緣",
           "artists": "",
           "videoId": "pQgxvna1UN8",
-          "plays": 10500000,
-          "playsText": "播放次數：1050萬",
+          "plays": 10510000,
+          "playsText": "播放次數：1051萬",
           "duration": 274,
           "byOther": false,
           "credits": {
@@ -4342,8 +5224,8 @@
           "title": "曖昧",
           "artists": "",
           "videoId": "bR8u65g_t7o",
-          "plays": 14600000,
-          "playsText": "播放次數：1460萬",
+          "plays": 14610000,
+          "playsText": "播放次數：1461萬",
           "duration": 283,
           "byOther": false,
           "credits": {
@@ -4412,7 +5294,9 @@
           "duration": 279,
           "byOther": false,
           "credits": {
-            "music": "Simon Burton、Helen Hoffner|lyrics2 = 周禮茂|arranger2 =王利名"
+            "lyrics": "周禮茂",
+            "music": "Simon Burton、Helen Hoffner",
+            "arranger": "王利名"
           },
           "nameKey": "summeroflove",
           "mv": "IGTZdIuPPJg"
@@ -4477,7 +5361,9 @@
           "duration": 270,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -4636,8 +5522,8 @@
           "title": "約定",
           "artists": "",
           "videoId": "ygf2uiEUg64",
-          "plays": 14430000,
-          "playsText": "播放次數：1443萬",
+          "plays": 14450000,
+          "playsText": "播放次數：1445萬",
           "duration": 268,
           "byOther": false,
           "credits": {
@@ -4948,8 +5834,8 @@
           "title": "但願人長久",
           "artists": "",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 259,
           "byOther": false,
           "credits": {
@@ -5062,8 +5948,8 @@
           "title": "矜持",
           "artists": "",
           "videoId": "zSZ1-BEMzZo",
-          "plays": 8410000,
-          "playsText": "播放次數：841萬",
+          "plays": 8420000,
+          "playsText": "播放次數：842萬",
           "duration": 280,
           "byOther": false,
           "credits": {
@@ -5329,7 +6215,9 @@
           "duration": 264,
           "byOther": false,
           "credits": {
-            "music": "鄧建明|lyrics11 = 梁榮駿|arranger11 = 唐奕聰"
+            "lyrics": "梁榮駿",
+            "music": "鄧建明",
+            "arranger": "唐奕聰"
           },
           "nameKey": "dowereallycare"
         },
@@ -5354,8 +6242,8 @@
           "title": "容易受傷的女人",
           "artists": "",
           "videoId": "TlOH1K4iuPU",
-          "plays": 26560000,
-          "playsText": "播放次數：2656萬",
+          "plays": 26600000,
+          "playsText": "播放次數：2660萬",
           "duration": 261,
           "byOther": false,
           "credits": {
@@ -5415,8 +6303,8 @@
           "title": "夢中人",
           "artists": "",
           "videoId": "4YpK-CKEtCg",
-          "plays": 6312,
-          "playsText": "播放次數：6312",
+          "plays": 6316,
+          "playsText": "播放次數：6316",
           "duration": 105,
           "byOther": false,
           "credits": {
@@ -5447,8 +6335,8 @@
           "title": "天與地",
           "artists": "",
           "videoId": "TWpDZoDx1JU",
-          "plays": 1923,
-          "playsText": "播放次數：1923",
+          "plays": 1924,
+          "playsText": "播放次數：1924",
           "duration": 90,
           "byOther": false,
           "credits": {
@@ -5496,8 +6384,8 @@
           "title": "流非飛",
           "artists": "",
           "videoId": "S5didFWfpQ4",
-          "plays": 1339,
-          "playsText": "播放次數：1339",
+          "plays": 1340,
+          "playsText": "播放次數：1340",
           "duration": 153,
           "byOther": false,
           "credits": {
@@ -5561,12 +6449,14 @@
           "title": "Summer Of Love",
           "artists": "",
           "videoId": "Teu7ibDIEKA",
-          "plays": 1464,
-          "playsText": "播放次數：1464",
+          "plays": 1465,
+          "playsText": "播放次數：1465",
           "duration": 178,
           "byOther": false,
           "credits": {
-            "music": "Simon Burton、Helen Hoffner|lyrics2 = 周禮茂|arranger2 =王利名"
+            "lyrics": "周禮茂",
+            "music": "Simon Burton、Helen Hoffner",
+            "arranger": "王利名"
           },
           "nameKey": "summeroflove",
           "mv": "IGTZdIuPPJg"
@@ -5592,8 +6482,8 @@
           "title": "曖昧",
           "artists": "",
           "videoId": "Sw-rPZUK-iI",
-          "plays": 2195,
-          "playsText": "播放次數：2195",
+          "plays": 2197,
+          "playsText": "播放次數：2197",
           "duration": 145,
           "byOther": false,
           "credits": {
@@ -5630,7 +6520,9 @@
           "duration": 179,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -5640,8 +6532,8 @@
           "title": "約定",
           "artists": "",
           "videoId": "yISS-m8B9_0",
-          "plays": 1291,
-          "playsText": "播放次數：1291",
+          "plays": 1292,
+          "playsText": "播放次數：1292",
           "duration": 118,
           "byOther": false,
           "credits": {
@@ -5705,8 +6597,8 @@
           "title": "我願意",
           "artists": "",
           "videoId": "aKfsafpjjYY",
-          "plays": 1964,
-          "playsText": "播放次數：1964",
+          "plays": 1967,
+          "playsText": "播放次數：1967",
           "duration": 122,
           "byOther": false,
           "credits": {
@@ -5754,8 +6646,8 @@
           "title": "誓言",
           "artists": "",
           "videoId": "0P22TaMyQ2Q",
-          "plays": 752,
-          "playsText": "播放次數：752",
+          "plays": 753,
+          "playsText": "播放次數：753",
           "duration": 176,
           "byOther": false,
           "credits": {
@@ -5802,8 +6694,8 @@
           "title": "但願人長久",
           "artists": "",
           "videoId": "A1vgBqExYA0",
-          "plays": 1612,
-          "playsText": "播放次數：1612",
+          "plays": 1613,
+          "playsText": "播放次數：1613",
           "duration": 90,
           "byOther": false,
           "credits": {
@@ -5850,8 +6742,8 @@
           "title": "執迷不悔",
           "artists": "",
           "videoId": "4NVva3f9reI",
-          "plays": 964,
-          "playsText": "播放次數：964",
+          "plays": 965,
+          "playsText": "播放次數：965",
           "duration": 233,
           "byOther": false,
           "credits": {
@@ -5970,8 +6862,8 @@
           "title": "夢中人 (電影《重慶森林》歌曲)",
           "artists": "",
           "videoId": "d30I9U7Hofc",
-          "plays": 15600000,
-          "playsText": "播放次數：1560萬",
+          "plays": 15620000,
+          "playsText": "播放次數：1562萬",
           "duration": 263,
           "byOther": false,
           "nameKey": "夢中人",
@@ -6240,8 +7132,8 @@
           "title": "愛與痛的邊緣",
           "artists": "",
           "videoId": "Mq2OBEBwxtI",
-          "plays": 10500000,
-          "playsText": "播放次數：1050萬",
+          "plays": 10510000,
+          "playsText": "播放次數：1051萬",
           "duration": 275,
           "byOther": false,
           "credits": {
@@ -6502,8 +7394,8 @@
           "title": "曖昧",
           "artists": "",
           "videoId": "bR8u65g_t7o",
-          "plays": 14600000,
-          "playsText": "播放次數：1460萬",
+          "plays": 14610000,
+          "playsText": "播放次數：1461萬",
           "duration": 283,
           "byOther": false,
           "credits": {
@@ -6518,8 +7410,8 @@
           "title": "但願人長久",
           "artists": "",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 261,
           "byOther": false,
           "credits": {
@@ -6649,8 +7541,8 @@
           "title": "棋子",
           "artists": "",
           "videoId": "aMVnE0WAcuQ",
-          "plays": 7970000,
-          "playsText": "播放次數：797萬",
+          "plays": 7980000,
+          "playsText": "播放次數：798萬",
           "duration": 291,
           "byOther": false,
           "credits": {
@@ -6671,7 +7563,9 @@
           "duration": 269,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -6726,9 +7620,9 @@
         }
       ],
       "releaseDate": "1999-06-01",
-      "releaseDatePrecision": "month",
-      "releaseDateSource": "table",
-      "wikiTitle": "王菲音樂作品列表",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "《但愿人长久》（王菲专辑）",
       "wikiKind": "compilation",
       "nameKey": "但願人長久"
     },
@@ -6794,8 +7688,8 @@
           "title": "天空",
           "artists": "",
           "videoId": "OD5ENqZMKsQ",
-          "plays": 3360000,
-          "playsText": "播放次數：336萬",
+          "plays": 3370000,
+          "playsText": "播放次數：337萬",
           "duration": 264,
           "byOther": false,
           "credits": {
@@ -6810,8 +7704,8 @@
           "title": "但願人長久",
           "artists": "",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 263,
           "byOther": false,
           "credits": {
@@ -6876,8 +7770,8 @@
           "title": "愛與痛的邊緣",
           "artists": "",
           "videoId": "UYdxrgU9wV0",
-          "plays": 10500000,
-          "playsText": "播放次數：1050萬",
+          "plays": 10510000,
+          "playsText": "播放次數：1051萬",
           "duration": 277,
           "byOther": false,
           "credits": {
@@ -7061,8 +7955,8 @@
           "title": "我願意 (管弦樂版)",
           "artists": "",
           "videoId": "4Ah5gsjXVgo",
-          "plays": 8120000,
-          "playsText": "播放次數：812萬",
+          "plays": 8130000,
+          "playsText": "播放次數：813萬",
           "duration": 270,
           "byOther": false,
           "credits": {
@@ -7114,8 +8008,8 @@
           "title": "但願人長久",
           "artists": "",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 258,
           "byOther": false,
           "credits": {
@@ -7356,8 +8250,8 @@
           "title": "但願人長久",
           "artists": "",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 262,
           "byOther": false,
           "credits": {
@@ -7458,8 +8352,8 @@
           "title": "曖昧",
           "artists": "",
           "videoId": "bR8u65g_t7o",
-          "plays": 14600000,
-          "playsText": "播放次數：1460萬",
+          "plays": 14610000,
+          "playsText": "播放次數：1461萬",
           "duration": 283,
           "byOther": false,
           "credits": {
@@ -7681,7 +8575,9 @@
           "duration": 271,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -8096,8 +8992,8 @@
           "title": "執迷不悔",
           "artists": "",
           "videoId": "4FccAajZYUI",
-          "plays": 8670000,
-          "playsText": "播放次數：867萬",
+          "plays": 8680000,
+          "playsText": "播放次數：868萬",
           "duration": 269,
           "byOther": false,
           "credits": {
@@ -8118,7 +9014,9 @@
           "duration": 268,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -8228,8 +9126,8 @@
           "title": "棋子",
           "artists": "",
           "videoId": "aMVnE0WAcuQ",
-          "plays": 7970000,
-          "playsText": "播放次數：797萬",
+          "plays": 7980000,
+          "playsText": "播放次數：798萬",
           "duration": 290,
           "byOther": false,
           "credits": {
@@ -8344,8 +9242,8 @@
           "title": "天空",
           "artists": "",
           "videoId": "FoqXegzXRTc",
-          "plays": 3360000,
-          "playsText": "播放次數：336萬",
+          "plays": 3370000,
+          "playsText": "播放次數：337萬",
           "duration": 262,
           "byOther": false,
           "credits": {
@@ -8395,8 +9293,8 @@
           "title": "但願人長久",
           "artists": "",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 261,
           "byOther": false,
           "credits": {
@@ -8526,8 +9424,8 @@
           "title": "矜持",
           "artists": "",
           "videoId": "Gfy1vp8cuXg",
-          "plays": 8410000,
-          "playsText": "播放次數：841萬",
+          "plays": 8420000,
+          "playsText": "播放次數：842萬",
           "duration": 281,
           "byOther": false,
           "credits": {
@@ -8824,7 +9722,9 @@
           "duration": 276,
           "byOther": false,
           "credits": {
-            "music": "Simon Burton、Helen Hoffner|lyrics2 = 周禮茂|arranger2 =王利名"
+            "lyrics": "周禮茂",
+            "music": "Simon Burton、Helen Hoffner",
+            "arranger": "王利名"
           },
           "nameKey": "summeroflove",
           "mv": "IGTZdIuPPJg"
@@ -8888,7 +9788,9 @@
           "duration": 269,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -8935,7 +9837,9 @@
           "duration": 265,
           "byOther": false,
           "credits": {
-            "music": "鄧建明|lyrics11 = 梁榮駿|arranger11 = 唐奕聰"
+            "lyrics": "梁榮駿",
+            "music": "鄧建明",
+            "arranger": "唐奕聰"
           },
           "nameKey": "dowereallycare"
         },
@@ -9110,8 +10014,8 @@
           "title": "但願人長久",
           "artists": "王菲",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 262,
           "byOther": false,
           "credits": {
@@ -9285,8 +10189,8 @@
           "title": "但願人長久",
           "artists": "",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 261,
           "byOther": false,
           "credits": {
@@ -9719,8 +10623,8 @@
           "title": "執迷不悔",
           "artists": "王菲",
           "videoId": "2zW44VGrNGc",
-          "plays": 8670000,
-          "playsText": "播放次數：867萬",
+          "plays": 8680000,
+          "playsText": "播放次數：868萬",
           "duration": 270,
           "byOther": false,
           "credits": {
@@ -9772,7 +10676,9 @@
           "duration": 264,
           "byOther": false,
           "credits": {
-            "music": "鄧建明|lyrics5 = 陳少琪|arranger5 =唐奕聰"
+            "lyrics": "陳少琪",
+            "music": "鄧建明",
+            "arranger": "唐奕聰"
           },
           "nameKey": "長大"
         },
@@ -9803,7 +10709,9 @@
           "duration": 270,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -10081,8 +10989,8 @@
           "title": "傳奇",
           "artists": "",
           "videoId": "xD5tBzfa-VA",
-          "plays": 26530000,
-          "playsText": "播放次數：2653萬",
+          "plays": 26540000,
+          "playsText": "播放次數：2654萬",
           "duration": 292,
           "byOther": false,
           "nameKey": "傳奇"
@@ -10275,7 +11183,9 @@
           "duration": 271,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -10493,8 +11403,8 @@
           "title": "我願意 (管弦樂版)",
           "artists": "",
           "videoId": "4Ah5gsjXVgo",
-          "plays": 8120000,
-          "playsText": "播放次數：812萬",
+          "plays": 8130000,
+          "playsText": "播放次數：813萬",
           "duration": 274,
           "byOther": false,
           "credits": {
@@ -10528,8 +11438,8 @@
           "title": "容易受傷的女人 (國語版)",
           "artists": "",
           "videoId": "RVF-5JUJhoY",
-          "plays": 3090000,
-          "playsText": "播放次數：309萬",
+          "plays": 3100000,
+          "playsText": "播放次數：310萬",
           "duration": 262,
           "byOther": false,
           "credits": {
@@ -10545,8 +11455,8 @@
           "title": "但願人長久",
           "artists": "",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 263,
           "byOther": false,
           "credits": {
@@ -11071,8 +11981,8 @@
           "title": "龙的血脉子孙传",
           "artists": "",
           "videoId": "PBpm5H4qorY",
-          "plays": 481,
-          "playsText": "播放次數：481",
+          "plays": 484,
+          "playsText": "播放次數：484",
           "duration": 212,
           "byOther": false,
           "titleZh": "龍的血脈子孫傳",
@@ -11150,8 +12060,8 @@
           "title": "愛侶",
           "artists": "王菲",
           "videoId": "2SOKmaPWcGI",
-          "plays": 9342,
-          "playsText": "播放次數：9342",
+          "plays": 9351,
+          "playsText": "播放次數：9351",
           "duration": 209,
           "byOther": false,
           "nameKey": "愛侶"
@@ -11301,8 +12211,8 @@
           "title": "將愛實現",
           "artists": "邰正宵 和 王菲",
           "videoId": "1g6_XHnzZHA",
-          "plays": 4481,
-          "playsText": "播放次數：4481",
+          "plays": 4494,
+          "playsText": "播放次數：4494",
           "duration": 286,
           "byOther": false,
           "nameKey": "將愛實現"
@@ -11357,8 +12267,8 @@
           "title": "如愿",
           "artists": "",
           "videoId": "ZoJCN0pV7Qs",
-          "plays": 75850000,
-          "playsText": "播放次數：7585萬",
+          "plays": 75940000,
+          "playsText": "播放次數：7594萬",
           "duration": 266,
           "byOther": false,
           "titleZh": "如願",
@@ -11419,8 +12329,8 @@
           "title": "世界贈予我的",
           "artists": "",
           "videoId": "CwwQvC_JiN4",
-          "plays": 9050000,
-          "playsText": "播放次數：905萬",
+          "plays": 9060000,
+          "playsText": "播放次數：906萬",
           "duration": 245,
           "byOther": false,
           "nameKey": "世界贈豫我的",
@@ -11585,7 +12495,9 @@
           "duration": 278,
           "byOther": false,
           "credits": {
-            "music": "Simon Burton、Helen Hoffner|lyrics2 = 周禮茂|arranger2 =王利名"
+            "lyrics": "周禮茂",
+            "music": "Simon Burton、Helen Hoffner",
+            "arranger": "王利名"
           },
           "nameKey": "summeroflove",
           "mv": "IGTZdIuPPJg"
@@ -11600,7 +12512,9 @@
           "duration": 270,
           "byOther": false,
           "credits": {
-            "music": "張宇|lyrics3 = 林振強|arranger3 =盧東尼"
+            "lyrics": "林振強",
+            "music": "張宇",
+            "arranger": "盧東尼"
           },
           "nameKey": "如風",
           "mv": "1kX8iPC8Yvs"
@@ -11724,8 +12638,8 @@
           "title": "棋子",
           "artists": "王菲",
           "videoId": "aMVnE0WAcuQ",
-          "plays": 7970000,
-          "playsText": "播放次數：797萬",
+          "plays": 7980000,
+          "playsText": "播放次數：798萬",
           "duration": 292,
           "byOther": false,
           "credits": {
@@ -11774,8 +12688,8 @@
           "title": "但願人長久",
           "artists": "王菲",
           "videoId": "wCREDfUEd3Y",
-          "plays": 14050000,
-          "playsText": "播放次數：1405萬",
+          "plays": 14060000,
+          "playsText": "播放次數：1406萬",
           "duration": 262,
           "byOther": false,
           "credits": {
@@ -11980,8 +12894,8 @@
           "title": "主角",
           "artists": "",
           "videoId": "adsrNFdIxLg",
-          "plays": 2120000,
-          "playsText": "播放次數：212萬",
+          "plays": 2130000,
+          "playsText": "播放次數：213萬",
           "duration": 301,
           "byOther": false,
           "nameKey": "主角",
@@ -12098,15 +13012,6 @@
       "wikiTitle": "王菲音樂作品列表",
       "source": "table",
       "year": 1993
-    },
-    {
-      "title": "菲靡靡之音",
-      "releaseDate": "1995-07-03",
-      "releaseDatePrecision": "day",
-      "kind": "studio",
-      "wikiTitle": "王菲音樂作品列表",
-      "source": "table",
-      "year": 1995
     },
     {
       "title": "唱遊",

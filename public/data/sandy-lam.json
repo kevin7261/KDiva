@@ -2,13 +2,13 @@
   "slug": "sandy-lam",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T23:44:04.072Z",
+  "fetchedAt": "2026-09-18T20:48:06.105Z",
   "artist": {
     "channelId": "UChwNyOQOnJ6n1H5EDnkpXhw",
     "name": "林憶蓮",
     "thumbnail": "https://yt3.googleusercontent.com/bb4i17HZx2B2YjEZkIOMHUm4YBg4dctbxjmLD3eOLhiPZX4RtOVXu6z3Lsd8XFwljcDVvk0C3A=w770-h320-l90-rj-dcoWWI7akH",
-    "subscribers": 46800,
-    "monthlyAudience": 1390000,
+    "subscribers": 46900,
+    "monthlyAudience": 1360000,
     "videos": [
       {
         "title": "至少還有你",
@@ -391,6 +391,9 @@
         "videoId": "R1w6-mjlSLw"
       }
     ],
+    "songListIds": [
+      "VLOLAK5uy_nEir_bCDTJT1ij2Njm3-ZLyEMlw1dP2XA"
+    ],
     "avatar": "https://yt3.googleusercontent.com/IJTGrxPBaOpGTAi2ayAjie8TygdJ9DSzSrpomMUrG_a8VAVtfs1QdWtFVRFop0YEvXJ9gP7LS5s=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -558,6 +561,219 @@
             "arranger": "Richard Yuen"
           },
           "nameKey": "無聲約會"
+        }
+      ],
+      "releaseDate": "1985-01-01",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "林憶蓮 (林憶蓮專輯)",
+      "wikiKind": null,
+      "nameKey": "林憶蓮"
+    },
+    {
+      "browseId": "MPREb_1OuIo4zzdEC",
+      "playlistId": "OLAK5uy_kVIumNwthZsyWCvdhBWWHGPWJ_2vGx6_8",
+      "title": "林憶蓮",
+      "albumArtist": "林憶蓮",
+      "type": "Album",
+      "year": 2014,
+      "thumbnail": "https://yt3.googleusercontent.com/zjFYVLMpmu1A1uCzcktd66D_AOp9M9nchCBHU-33o9-duLAxtBrQ1vdgCUf6465HesRULZMu9JuNBiQ0-Q=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "盼你在此",
+          "artists": "",
+          "videoId": "W68AsgrJCi0",
+          "plays": 100000,
+          "playsText": "播放次數：10萬",
+          "duration": 280,
+          "byOther": false,
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "陶喆",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "盼你在此",
+          "mv": "W68AsgrJCi0"
+        },
+        {
+          "index": 2,
+          "title": "至少還有你",
+          "artists": "",
+          "videoId": "pQlAWZLOpgo",
+          "plays": 76750000,
+          "playsText": "播放次數：7675萬",
+          "duration": 275,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Davy Chan",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "至少還有你",
+          "mv": "pQlAWZLOpgo"
+        },
+        {
+          "index": 3,
+          "title": "沒有人抽煙",
+          "artists": "",
+          "videoId": "rZbxEEGCMGw",
+          "plays": 64000,
+          "playsText": "播放次數：6.4萬",
+          "duration": 239,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Edwin McCain",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "沒有人抽煙"
+        },
+        {
+          "index": 4,
+          "title": "愛過我的每一天",
+          "artists": "",
+          "videoId": "4UNM_q7r2zk",
+          "plays": 41000,
+          "playsText": "播放次數：4.1萬",
+          "duration": 235,
+          "byOther": false,
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "Russ DeSalvo、Audrey Martells",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "愛過我的每一天"
+        },
+        {
+          "index": 5,
+          "title": "失蹤",
+          "artists": "",
+          "videoId": "h-m-in0p_iw",
+          "plays": 1590000,
+          "playsText": "播放次數：159萬",
+          "duration": 201,
+          "byOther": false,
+          "credits": {
+            "lyrics": "何啟弘",
+            "music": "柯肇雷",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "失蹤",
+          "mv": "h-m-in0p_iw"
+        },
+        {
+          "index": 6,
+          "title": "飛的理由",
+          "artists": "",
+          "videoId": "UWlH329ERJk",
+          "plays": 290000,
+          "playsText": "播放次數：29萬",
+          "duration": 204,
+          "byOther": false,
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "黃韻玲",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "飛的理由"
+        },
+        {
+          "index": 7,
+          "title": "我坐在這裡",
+          "artists": "",
+          "videoId": "iNO_LrCfy9s",
+          "plays": 440000,
+          "playsText": "播放次數：44萬",
+          "duration": 267,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Lene Marlin",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "我坐在這裡"
+        },
+        {
+          "index": 8,
+          "title": "不會結束的故事",
+          "artists": "",
+          "videoId": "pzfx1X7IVDk",
+          "plays": 98000,
+          "playsText": "播放次數：9.8萬",
+          "duration": 274,
+          "byOther": false,
+          "credits": {
+            "lyrics": "姚謙",
+            "music": "陳韋伶",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "不會結束的故事"
+        },
+        {
+          "index": 9,
+          "title": "Now Or Never",
+          "artists": "",
+          "videoId": "_wL7Mipg2mU",
+          "plays": 27000,
+          "playsText": "播放次數：2.7萬",
+          "duration": 214,
+          "byOther": false,
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "Jae Chong",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "nowornever"
+        },
+        {
+          "index": 10,
+          "title": "對不起謝謝你",
+          "artists": "",
+          "videoId": "sngERl5izMY",
+          "plays": 69000,
+          "playsText": "播放次數：6.9萬",
+          "duration": 223,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "柯肇雷",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "對不起謝謝你"
+        },
+        {
+          "index": 11,
+          "title": "千禧願",
+          "artists": "",
+          "videoId": "k2kJYCLsamk",
+          "plays": 9451,
+          "playsText": "播放次數：9451",
+          "duration": 241,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "Edwin McCain",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "千禧願"
+        },
+        {
+          "index": 12,
+          "title": "至少還有你 (鋼琴版)",
+          "artists": "",
+          "videoId": "pQlAWZLOpgo",
+          "plays": 76750000,
+          "playsText": "播放次數：7675萬",
+          "duration": 208,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Davy Chan",
+            "arranger": "劉志遠"
+          },
+          "nameKey": "至少還有你",
+          "mv": "pQlAWZLOpgo"
         }
       ],
       "releaseDate": "1985-01-01",
@@ -804,8 +1020,8 @@
           "title": "快快救我",
           "artists": "",
           "videoId": "9_VzXFrC1to",
-          "plays": 9147,
-          "playsText": "播放次數：9147",
+          "plays": 9153,
+          "playsText": "播放次數：9153",
           "duration": 249,
           "byOther": false,
           "credits": {
@@ -1027,8 +1243,8 @@
           "title": "為你我受冷風吹",
           "artists": "林憶蓮",
           "videoId": "ZD57Fv_V74s",
-          "plays": 12670000,
-          "playsText": "播放次數：1267萬",
+          "plays": 12680000,
+          "playsText": "播放次數：1268萬",
           "duration": 258,
           "byOther": false,
           "credits": {
@@ -1078,8 +1294,8 @@
           "title": "鏗鏘玫瑰",
           "artists": "林憶蓮",
           "videoId": "_aC-5cMtKSo",
-          "plays": 4060000,
-          "playsText": "播放次數：406萬",
+          "plays": 4070000,
+          "playsText": "播放次數：407萬",
           "duration": 275,
           "byOther": false,
           "credits": {
@@ -1190,8 +1406,8 @@
           "title": "當愛已成往事",
           "artists": "林憶蓮+李宗盛",
           "videoId": "IKA47rEDVSs",
-          "plays": 22630000,
-          "playsText": "播放次數：2263萬",
+          "plays": 22640000,
+          "playsText": "播放次數：2264萬",
           "duration": 280,
           "byOther": false,
           "credits": {
@@ -1893,8 +2109,8 @@
           "title": "滴汗 (Guitar Mix)",
           "artists": "",
           "videoId": "ypdNy2FNX8E",
-          "plays": 5068,
-          "playsText": "播放次數：5068",
+          "plays": 5070,
+          "playsText": "播放次數：5070",
           "duration": 365,
           "byOther": false,
           "nameKey": "滴汗",
@@ -2451,8 +2667,8 @@
           "title": "05'盛放憶蓮 (Mega Mix)",
           "artists": "林憶蓮",
           "videoId": "2mASM8RU8Ro",
-          "plays": 5651,
-          "playsText": "播放次數：5651",
+          "plays": 5657,
+          "playsText": "播放次數：5657",
           "duration": 421,
           "byOther": false,
           "nameKey": "05盛放憶蓮"
@@ -2473,8 +2689,8 @@
           "title": "燒之印度火西施 (Indian Beauty Mix)",
           "artists": "林憶蓮",
           "videoId": "4ITY36FqlJo",
-          "plays": 8224,
-          "playsText": "播放次數：8224",
+          "plays": 8228,
+          "playsText": "播放次數：8228",
           "duration": 378,
           "byOther": false,
           "nameKey": "燒之印度火西施",
@@ -3941,8 +4157,8 @@
           "title": "再生戀 (Multi-Dimensional Mix)",
           "artists": "",
           "videoId": "1KhR0G8e_CI",
-          "plays": 9494,
-          "playsText": "播放次數：9494",
+          "plays": 9510,
+          "playsText": "播放次數：9510",
           "duration": 360,
           "byOther": false,
           "nameKey": "再生戀",
@@ -3959,6 +4175,200 @@
       "wikiTitle": "野花 (林憶蓮專輯)",
       "wikiKind": null,
       "nameKey": "野花"
+    },
+    {
+      "browseId": "MPREb_UwMGpd4Qrbg",
+      "playlistId": "OLAK5uy_l7GSv3_0vNLoTep226KyEMFADNNHqLERw",
+      "title": "回來愛的身邊",
+      "albumArtist": "林憶蓮",
+      "type": "Album",
+      "year": 1992,
+      "thumbnail": "https://yt3.googleusercontent.com/FBMotaSF4pyzagrKs3QvgpBRwkuX_guLVoOuQpM6iV1sYb0eDz7fJEykzNpr5iBSUdeFIL_pvGhKv_o=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "醒醒",
+          "artists": "",
+          "videoId": "arMjBeueleI",
+          "plays": 73000,
+          "playsText": "播放次數：7.3萬",
+          "duration": 284,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "倫永亮",
+            "arranger": "倫永亮、許願、趙增熹"
+          },
+          "nameKey": "醒醒"
+        },
+        {
+          "index": 2,
+          "title": "沒結果",
+          "artists": "",
+          "videoId": "doHgt6VE-ak",
+          "plays": 190000,
+          "playsText": "播放次數：19萬",
+          "duration": 308,
+          "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "Dick Lee",
+            "arranger": "杜自持"
+          },
+          "nameKey": "沒結果"
+        },
+        {
+          "index": 3,
+          "title": "由你開始",
+          "artists": "",
+          "videoId": "r1_CJk3Ussg",
+          "plays": 19000,
+          "playsText": "播放次數：1.9萬",
+          "duration": 256,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Burt Bacharach、Mack David、Barney Williams",
+            "arranger": "Roel Garcia"
+          },
+          "nameKey": "由你開始"
+        },
+        {
+          "index": 4,
+          "title": "回來愛的身邊",
+          "artists": "",
+          "videoId": "PxLIWHMpIaA",
+          "plays": 28000,
+          "playsText": "播放次數：2.8萬",
+          "duration": 306,
+          "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "David Koven、Darice Homs",
+            "arranger": "趙增熹"
+          },
+          "nameKey": "回來愛的身邊"
+        },
+        {
+          "index": 5,
+          "title": "躱起來",
+          "artists": "",
+          "videoId": "E7a-lfPU0Ls",
+          "plays": 19000,
+          "playsText": "播放次數：1.9萬",
+          "duration": 293,
+          "byOther": false,
+          "nameKey": "躱起來"
+        },
+        {
+          "index": 6,
+          "title": "要是有緣 (音樂)",
+          "artists": "",
+          "videoId": "tHbdmaMak2g",
+          "plays": 5299,
+          "playsText": "播放次數：5299",
+          "duration": 57,
+          "byOther": false,
+          "nameKey": "要是有緣"
+        },
+        {
+          "index": 7,
+          "title": "寵愛",
+          "artists": "",
+          "videoId": "NSP2386V7Pw",
+          "plays": 70000,
+          "playsText": "播放次數：7萬",
+          "duration": 339,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "陳秀男",
+            "arranger": "萬恩全"
+          },
+          "nameKey": "寵愛"
+        },
+        {
+          "index": 8,
+          "title": "暖暖紅塵",
+          "artists": "",
+          "videoId": "uHVgUd0kbC8",
+          "plays": 14000,
+          "playsText": "播放次數：1.4萬",
+          "duration": 289,
+          "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "Dick Lee",
+            "arranger": "黃偉年"
+          },
+          "nameKey": "暖暖紅塵"
+        },
+        {
+          "index": 9,
+          "title": "始終一天",
+          "artists": "",
+          "videoId": "zrqazVnauxg",
+          "plays": 13000,
+          "playsText": "播放次數：1.3萬",
+          "duration": 227,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "George Michael",
+            "arranger": "趙增熹"
+          },
+          "nameKey": "始終一天"
+        },
+        {
+          "index": 10,
+          "title": "愛的世界",
+          "artists": "",
+          "videoId": "BQpYdAguHGI",
+          "plays": 25000,
+          "playsText": "播放次數：2.5萬",
+          "duration": 262,
+          "byOther": false,
+          "credits": {
+            "lyrics": "周耀輝",
+            "music": "杜自持",
+            "arranger": "杜自持"
+          },
+          "nameKey": "愛的世界"
+        },
+        {
+          "index": 11,
+          "title": "不捨不棄",
+          "artists": "",
+          "videoId": "em0B58ilhUA",
+          "plays": 33000,
+          "playsText": "播放次數：3.3萬",
+          "duration": 320,
+          "byOther": false,
+          "credits": {
+            "lyrics": "周耀輝",
+            "music": "倫永亮、林憶蓮",
+            "arranger": "Alexander De La Cruz"
+          },
+          "nameKey": "不捨不棄"
+        },
+        {
+          "index": 12,
+          "title": "回到愛的世界 (音樂)",
+          "artists": "",
+          "videoId": "vgE_S6lBz6Q",
+          "plays": 63,
+          "playsText": "播放次數：63",
+          "duration": 163,
+          "byOther": false,
+          "nameKey": "回到愛的世界"
+        }
+      ],
+      "releaseDate": "1992-10-08",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "回來愛的身邊",
+      "wikiKind": null,
+      "nameKey": "回來愛的身邊"
     },
     {
       "browseId": "MPREb_4YJfkgdC5pW",
@@ -4370,6 +4780,199 @@
       "nameKey": "不如重新開始"
     },
     {
+      "browseId": "MPREb_Hsum1n6WlNN",
+      "playlistId": "OLAK5uy_m7kNtiDlE516tVHtKaA9I0yNgW_v2hGBU",
+      "title": "不如重新開始",
+      "albumArtist": "林憶蓮",
+      "type": "Album",
+      "year": 1993,
+      "thumbnail": "https://yt3.googleusercontent.com/h1A7BzJPF-45OAlA4fvys2Mx4XGbI1ueO-PisdOl0uCEPAolPHMLZWGrKIvgE_M_qa0J2W7trpy23aiFvQ=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "不如重新開始",
+          "artists": "林憶蓮",
+          "videoId": "vU71fVpegU8",
+          "plays": 75000,
+          "playsText": "播放次數：7.5萬",
+          "duration": 258,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "許願",
+            "arranger": "趙增熹"
+          },
+          "nameKey": "不如重新開始"
+        },
+        {
+          "index": 2,
+          "title": "天大地大",
+          "artists": "林憶蓮",
+          "videoId": "fZnJNTsaBlo",
+          "plays": 240000,
+          "playsText": "播放次數：24萬",
+          "duration": 249,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "L.A. Reid、Babyface、Daryl Simmons",
+            "arranger": "陳明道"
+          },
+          "nameKey": "天大地大"
+        },
+        {
+          "index": 3,
+          "title": "紅顏未老",
+          "artists": "林憶蓮",
+          "videoId": "8Y2EGs96TRI",
+          "plays": 110000,
+          "playsText": "播放次數：11萬",
+          "duration": 291,
+          "byOther": false,
+          "credits": {
+            "lyrics": "周耀輝",
+            "music": "Dick Lee",
+            "arranger": "趙增熹"
+          },
+          "nameKey": "紅顏未老"
+        },
+        {
+          "index": 4,
+          "title": "當我眼前只有你",
+          "artists": "林憶蓮",
+          "videoId": "nC6dkrgd83U",
+          "plays": 120000,
+          "playsText": "播放次數：12萬",
+          "duration": 246,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "許願、胡偉立",
+            "arranger": "趙增熹"
+          },
+          "nameKey": "當我眼前只有你"
+        },
+        {
+          "index": 5,
+          "title": "始終一天 (93翻天覆地版)",
+          "artists": "林憶蓮",
+          "videoId": "BxcjXRp9iGQ",
+          "plays": 15000,
+          "playsText": "播放次數：1.5萬",
+          "duration": 329,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "George Michael",
+            "arranger": "陳澤忠"
+          },
+          "nameKey": "始終一天"
+        },
+        {
+          "index": 6,
+          "title": "震撼 (合作演出：風火海)",
+          "artists": "林憶蓮",
+          "videoId": "-SLqhM6-Fs0",
+          "plays": 93000,
+          "playsText": "播放次數：9.3萬",
+          "duration": 236,
+          "byOther": false,
+          "nameKey": "震撼",
+          "credits": {
+            "lyrics": "林振強",
+            "music": "中西圭三",
+            "arranger": "黃偉年"
+          }
+        },
+        {
+          "index": 7,
+          "title": "寂寞派對 (音樂)",
+          "artists": "林憶蓮",
+          "videoId": "87Jrz8inqWE",
+          "plays": 9432,
+          "playsText": "播放次數：9432",
+          "duration": 151,
+          "byOther": false,
+          "nameKey": "寂寞派對",
+          "credits": {
+            "music": "李宗盛",
+            "arranger": "Joshua Wan"
+          }
+        },
+        {
+          "index": 8,
+          "title": "假如讓你吻下去",
+          "artists": "林憶蓮",
+          "videoId": "ywJsVT3gn-k",
+          "plays": 570000,
+          "playsText": "播放次數：57萬",
+          "duration": 266,
+          "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "李宗盛",
+            "arranger": "Jenny Chin、Mac Chew"
+          },
+          "nameKey": "假如讓你吻下去"
+        },
+        {
+          "index": 9,
+          "title": "戀愛在不遠處等我",
+          "artists": "林憶蓮",
+          "videoId": "_deyqoppI0I",
+          "plays": 18000,
+          "playsText": "播放次數：1.8萬",
+          "duration": 307,
+          "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "浦田博信",
+            "arranger": "浦田博信"
+          },
+          "nameKey": "戀愛在不遠處等我"
+        },
+        {
+          "index": 10,
+          "title": "當愛已成往事",
+          "artists": "林憶蓮 和 李宗盛",
+          "videoId": "IKA47rEDVSs",
+          "plays": 22630000,
+          "playsText": "播放次數：2263萬",
+          "duration": 280,
+          "byOther": false,
+          "credits": {
+            "lyrics": "李宗盛",
+            "music": "李宗盛",
+            "arranger": "Jenny Chin、Mac Chew"
+          },
+          "nameKey": "當愛已成往事",
+          "mv": "IKA47rEDVSs"
+        },
+        {
+          "index": 11,
+          "title": "風中的歌",
+          "artists": "林憶蓮",
+          "videoId": "iKDBGQvOy6I",
+          "plays": 20000,
+          "playsText": "播放次數：2萬",
+          "duration": 254,
+          "byOther": false,
+          "credits": {
+            "lyrics": "潘源良",
+            "music": "Dick Lee、許願",
+            "arranger": "杜自持"
+          },
+          "nameKey": "風中的歌"
+        }
+      ],
+      "releaseDate": "1993-04-29",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "不如重新開始",
+      "wikiKind": null,
+      "nameKey": "不如重新開始"
+    },
+    {
       "browseId": "MPREb_0Vd0Gp3iyvY",
       "playlistId": "OLAK5uy_l4ziwLoZJMAU04a3Grv7BaN2iMITgbSzc",
       "title": "不必在乎我是誰",
@@ -4511,8 +5114,8 @@
           "title": "醒醒",
           "artists": "",
           "videoId": "0amf6-1B_yM",
-          "plays": 2261,
-          "playsText": "播放次數：2261",
+          "plays": 2265,
+          "playsText": "播放次數：2265",
           "duration": 281,
           "byOther": false,
           "credits": {
@@ -4641,8 +5244,8 @@
           "title": "出會わずにいられない",
           "artists": "",
           "videoId": "CDQ4_BA8ysU",
-          "plays": 458,
-          "playsText": "播放次數：458",
+          "plays": 460,
+          "playsText": "播放次數：460",
           "duration": 299,
           "byOther": false,
           "credits": {
@@ -4657,8 +5260,8 @@
           "title": "I Love You につつまれて",
           "artists": "",
           "videoId": "av8t6fgmfK8",
-          "plays": 483,
-          "playsText": "播放次數：483",
+          "plays": 485,
+          "playsText": "播放次數：485",
           "duration": 306,
           "byOther": false,
           "credits": {
@@ -4689,8 +5292,8 @@
           "title": "My Dear My Love",
           "artists": "",
           "videoId": "iAJzb2sE1gY",
-          "plays": 316,
-          "playsText": "播放次數：316",
+          "plays": 317,
+          "playsText": "播放次數：317",
           "duration": 311,
           "byOther": false,
           "credits": {
@@ -4753,8 +5356,8 @@
           "title": "シンプル",
           "artists": "",
           "videoId": "WVrDhmYe9jY",
-          "plays": 313,
-          "playsText": "播放次數：313",
+          "plays": 314,
+          "playsText": "播放次數：314",
           "duration": 271,
           "byOther": false,
           "credits": {
@@ -5208,8 +5811,8 @@
           "title": "愛情.童真.夢想 (音樂)",
           "artists": "許願",
           "videoId": "8XyE0iAFM7g",
-          "plays": 1580,
-          "playsText": "播放次數：1580",
+          "plays": 1584,
+          "playsText": "播放次數：1584",
           "duration": 124,
           "byOther": true,
           "nameKey": "愛情童眞夢想"
@@ -5258,8 +5861,8 @@
           "title": "破曉 (Live)",
           "artists": "林憶蓮",
           "videoId": "jv6snWGQhP4",
-          "plays": 577,
-          "playsText": "播放次數：577",
+          "plays": 578,
+          "playsText": "播放次數：578",
           "duration": 85,
           "byOther": false,
           "nameKey": "破曉#live"
@@ -5269,8 +5872,8 @@
           "title": "不如重新開始 (Live)",
           "artists": "林憶蓮",
           "videoId": "2PMeYhqf3eM",
-          "plays": 674,
-          "playsText": "播放次數：674",
+          "plays": 676,
+          "playsText": "播放次數：676",
           "duration": 199,
           "byOther": false,
           "nameKey": "不如重新開始#live"
@@ -5291,8 +5894,8 @@
           "title": "傾斜 (Live)",
           "artists": "林憶蓮",
           "videoId": "a-4KtiITVE8",
-          "plays": 2075,
-          "playsText": "播放次數：2075",
+          "plays": 2081,
+          "playsText": "播放次數：2081",
           "duration": 295,
           "byOther": false,
           "nameKey": "傾斜#live"
@@ -5379,8 +5982,8 @@
           "title": "再生戀 (Multidimentional Mix Live)",
           "artists": "林憶蓮",
           "videoId": "JD9grGW-bqY",
-          "plays": 771,
-          "playsText": "播放次數：771",
+          "plays": 772,
+          "playsText": "播放次數：772",
           "duration": 247,
           "byOther": false,
           "nameKey": "再生戀#live"
@@ -5401,8 +6004,8 @@
           "title": "沙沙的雨 (Live)",
           "artists": "林憶蓮 和 倫永亮",
           "videoId": "IZMC3iVE0wk",
-          "plays": 3508,
-          "playsText": "播放次數：3508",
+          "plays": 3514,
+          "playsText": "播放次數：3514",
           "duration": 293,
           "byOther": false,
           "nameKey": "沙沙的雨#live"
@@ -5452,8 +6055,8 @@
           "title": "震撼 (Live) (合作演出：風火海)",
           "artists": "林憶蓮",
           "videoId": "_uUtXuRUhec",
-          "plays": 762,
-          "playsText": "播放次數：762",
+          "plays": 763,
+          "playsText": "播放次數：763",
           "duration": 282,
           "byOther": false,
           "nameKey": "震撼#live"
@@ -5463,8 +6066,8 @@
           "title": "醒醒 / ⼀分鐘都市⼀分鐘戀愛 / 住家男人 / 推搪 (Live)",
           "artists": "林憶蓮",
           "videoId": "nFTb7Uv2i4w",
-          "plays": 485,
-          "playsText": "播放次數：485",
+          "plays": 486,
+          "playsText": "播放次數：486",
           "duration": 469,
           "byOther": false,
           "nameKey": "醒醒分鐘都市分鐘戀愛住家男人推搪#live"
@@ -5485,8 +6088,8 @@
           "title": "野花 (Instrumental Live)",
           "artists": "林憶蓮",
           "videoId": "Ux43xaGdl5Q",
-          "plays": 303,
-          "playsText": "播放次數：303",
+          "plays": 304,
+          "playsText": "播放次數：304",
           "duration": 136,
           "byOther": false,
           "nameKey": "野花#live"
@@ -5523,8 +6126,8 @@
           "title": "天大地大 (Live)",
           "artists": "林憶蓮",
           "videoId": "CFs6Yuhnrbw",
-          "plays": 1241,
-          "playsText": "播放次數：1241",
+          "plays": 1242,
+          "playsText": "播放次數：1242",
           "duration": 348,
           "byOther": false,
           "nameKey": "天大地大#live"
@@ -5735,8 +6338,8 @@
           "title": "Rememeber (Overtrue)",
           "artists": "",
           "videoId": "-IIiYnIZeGc",
-          "plays": 2706,
-          "playsText": "播放次數：2706",
+          "plays": 2719,
+          "playsText": "播放次數：2719",
           "duration": 49,
           "byOther": false,
           "nameKey": "rememeber"
@@ -5874,8 +6477,8 @@
           "title": "I'll Never Forget You",
           "artists": "",
           "videoId": "80bt7qHdAY0",
-          "plays": 5608,
-          "playsText": "播放次數：5608",
+          "plays": 5614,
+          "playsText": "播放次數：5614",
           "duration": 267,
           "byOther": false,
           "credits": {
@@ -5890,8 +6493,8 @@
           "title": "Remember",
           "artists": "",
           "videoId": "JDNuS4wm3VU",
-          "plays": 9981,
-          "playsText": "播放次數：9981",
+          "plays": 9988,
+          "playsText": "播放次數：9988",
           "duration": 313,
           "byOther": false,
           "credits": {
@@ -6021,8 +6624,8 @@
           "title": "Pieces Of Mind (Incognito Remix 2022 Remastered Version)",
           "artists": "",
           "videoId": "vQPns4fO7qo",
-          "plays": 4286,
-          "playsText": "播放次數：4286",
+          "plays": 4289,
+          "playsText": "播放次數：4289",
           "duration": 324,
           "byOther": false,
           "credits": {
@@ -6085,8 +6688,8 @@
           "title": "盡在不言中",
           "artists": "",
           "videoId": "F5DgIxKqS48",
-          "plays": 4417,
-          "playsText": "播放次數：4417",
+          "plays": 4420,
+          "playsText": "播放次數：4420",
           "duration": 50,
           "byOther": false,
           "nameKey": "盡在不言中"
@@ -6096,8 +6699,8 @@
           "title": "花之色",
           "artists": "",
           "videoId": "0QcSfzGU16o",
-          "plays": 5952,
-          "playsText": "播放次數：5952",
+          "plays": 5960,
+          "playsText": "播放次數：5960",
           "duration": 293,
           "byOther": false,
           "credits": {
@@ -6128,8 +6731,8 @@
           "title": "芝加哥的故事",
           "artists": "",
           "videoId": "nhwqrYlST0w",
-          "plays": 6635,
-          "playsText": "播放次數：6635",
+          "plays": 6637,
+          "playsText": "播放次數：6637",
           "duration": 264,
           "byOther": false,
           "credits": {
@@ -6144,8 +6747,8 @@
           "title": "心野夜",
           "artists": "",
           "videoId": "eL8RM7hNEho",
-          "plays": 6373,
-          "playsText": "播放次數：6373",
+          "plays": 6375,
+          "playsText": "播放次數：6375",
           "duration": 229,
           "byOther": false,
           "credits": {
@@ -6193,8 +6796,8 @@
           "title": "無論在什麼地方",
           "artists": "",
           "videoId": "7NxFmyQ_8Io",
-          "plays": 2554,
-          "playsText": "播放次數：2554",
+          "plays": 2555,
+          "playsText": "播放次數：2555",
           "duration": 95,
           "byOther": false,
           "nameKey": "無論在什麼地方"
@@ -6252,8 +6855,8 @@
           "title": "震撼",
           "artists": "",
           "videoId": "RS4q4u_7oD4",
-          "plays": 5970,
-          "playsText": "播放次數：5970",
+          "plays": 5972,
+          "playsText": "播放次數：5972",
           "duration": 237,
           "byOther": false,
           "credits": {
@@ -6327,8 +6930,8 @@
           "title": "這一夜回憶盛放",
           "artists": "",
           "videoId": "gw-hL3BY_r8",
-          "plays": 2228,
-          "playsText": "播放次數：2228",
+          "plays": 2229,
+          "playsText": "播放次數：2229",
           "duration": 35,
           "byOther": false,
           "nameKey": "這一夜回憶盛放"
@@ -6349,8 +6952,8 @@
           "title": "轉新",
           "artists": "",
           "videoId": "89GYCYlgqGs",
-          "plays": 1833,
-          "playsText": "播放次數：1833",
+          "plays": 1834,
+          "playsText": "播放次數：1834",
           "duration": 45,
           "byOther": false,
           "nameKey": "轉新"
@@ -6372,8 +6975,8 @@
           "title": "WHATEVER",
           "artists": "",
           "videoId": "-r1UdzhntBo",
-          "plays": 1771,
-          "playsText": "播放次數：1771",
+          "plays": 1772,
+          "playsText": "播放次數：1772",
           "duration": 236,
           "byOther": false,
           "credits": {
@@ -6386,8 +6989,8 @@
           "title": "轉身",
           "artists": "",
           "videoId": "AbC3SyVINz8",
-          "plays": 2540,
-          "playsText": "播放次數：2540",
+          "plays": 2541,
+          "playsText": "播放次數：2541",
           "duration": 151,
           "byOther": false,
           "credits": {
@@ -6401,8 +7004,8 @@
           "title": "世界快樂",
           "artists": "",
           "videoId": "vSu2c9kIaJY",
-          "plays": 1973,
-          "playsText": "播放次數：1973",
+          "plays": 1974,
+          "playsText": "播放次數：1974",
           "duration": 229,
           "byOther": false,
           "credits": {
@@ -6415,8 +7018,8 @@
           "title": "感覺完美",
           "artists": "",
           "videoId": "iBnaGpZON58",
-          "plays": 5862,
-          "playsText": "播放次數：5862",
+          "plays": 5872,
+          "playsText": "播放次數：5872",
           "duration": 344,
           "byOther": false,
           "credits": {
@@ -6429,8 +7032,8 @@
           "title": "ENCORE",
           "artists": "",
           "videoId": "FcCg9cDIkd0",
-          "plays": 1668,
-          "playsText": "播放次數：1668",
+          "plays": 1669,
+          "playsText": "播放次數：1669",
           "duration": 72,
           "byOther": false,
           "titleZh": "Encore (林憶蓮專輯)",
@@ -6576,8 +7179,8 @@
           "title": "有緣千里",
           "artists": "",
           "videoId": "zGiSIMV9R3o",
-          "plays": 9870,
-          "playsText": "播放次數：9870",
+          "plays": 9878,
+          "playsText": "播放次數：9878",
           "duration": 266,
           "byOther": false,
           "credits": {
@@ -7006,8 +7609,8 @@
           "title": "夜太黑 (黑版)",
           "artists": "",
           "videoId": "Zq7Diun62io",
-          "plays": 2145,
-          "playsText": "播放次數：2145",
+          "plays": 2146,
+          "playsText": "播放次數：2146",
           "duration": 460,
           "byOther": false,
           "credits": {
@@ -7023,8 +7626,8 @@
           "title": "世界快樂 (手足舞蹈版)",
           "artists": "",
           "videoId": "I2NzHb8WGJU",
-          "plays": 1658,
-          "playsText": "播放次數：1658",
+          "plays": 1660,
+          "playsText": "播放次數：1660",
           "duration": 248,
           "byOther": false,
           "credits": {
@@ -7188,8 +7791,8 @@
           "title": "這些那些",
           "artists": "林憶蓮",
           "videoId": "-uIVeV2jfN4",
-          "plays": 5065,
-          "playsText": "播放次數：5065",
+          "plays": 5067,
+          "playsText": "播放次數：5067",
           "duration": 183,
           "byOther": false,
           "credits": {
@@ -7205,8 +7808,8 @@
           "title": "夜太黑",
           "artists": "林憶蓮",
           "videoId": "e434Xk4p_fU",
-          "plays": 7601,
-          "playsText": "播放次數：7601",
+          "plays": 7605,
+          "playsText": "播放次數：7605",
           "duration": 280,
           "byOther": false,
           "credits": {
@@ -7241,8 +7844,8 @@
           "title": "誘惑的街",
           "artists": "林憶蓮",
           "videoId": "OZTPHgVTfBQ",
-          "plays": 17000,
-          "playsText": "播放次數：1.7萬",
+          "plays": 18000,
+          "playsText": "播放次數：1.8萬",
           "duration": 315,
           "byOther": false,
           "credits": {
@@ -7476,8 +8079,8 @@
           "title": "再生戀 (Multi-dimensional Mix)",
           "artists": "",
           "videoId": "67ySgLqbivg",
-          "plays": 9494,
-          "playsText": "播放次數：9494",
+          "plays": 9510,
+          "playsText": "播放次數：9510",
           "duration": 356,
           "byOther": false,
           "nameKey": "再生戀",
@@ -8064,8 +8667,8 @@
           "title": "台北",
           "artists": "",
           "videoId": "AFHVOT83Wjk",
-          "plays": 8795,
-          "playsText": "播放次數：8795",
+          "plays": 8797,
+          "playsText": "播放次數：8797",
           "duration": 36,
           "byOther": false,
           "credits": {
@@ -8504,8 +9107,8 @@
           "title": "當愛已成往事",
           "artists": "林憶蓮 和 李宗盛",
           "videoId": "IKA47rEDVSs",
-          "plays": 22630000,
-          "playsText": "播放次數：2263萬",
+          "plays": 22640000,
+          "playsText": "播放次數：2264萬",
           "duration": 279,
           "byOther": false,
           "credits": {
@@ -8592,8 +9195,8 @@
           "title": "光輝歲月",
           "artists": "林憶蓮",
           "videoId": "aiJ9SlMMQXI",
-          "plays": 6100,
-          "playsText": "播放次數：6100",
+          "plays": 6107,
+          "playsText": "播放次數：6107",
           "duration": 207,
           "byOther": false,
           "nameKey": "光輝歲月"
@@ -8924,8 +9527,8 @@
           "title": "少女的心",
           "artists": "林憶蓮",
           "videoId": "X8x3NGAAaUg",
-          "plays": 5677,
-          "playsText": "播放次數：5677",
+          "plays": 5679,
+          "playsText": "播放次數：5679",
           "duration": 255,
           "byOther": false,
           "credits": {
@@ -9343,8 +9946,8 @@
           "title": "Prelude",
           "artists": "林憶蓮",
           "videoId": "YbPR-TX_Hlg",
-          "plays": 324,
-          "playsText": "播放次數：324",
+          "plays": 325,
+          "playsText": "播放次數：325",
           "duration": 29,
           "byOther": false,
           "nameKey": "prelude"
@@ -9354,8 +9957,8 @@
           "title": "Encore",
           "artists": "林憶蓮",
           "videoId": "TuLoxBemrZ4",
-          "plays": 2684,
-          "playsText": "播放次數：2684",
+          "plays": 2692,
+          "playsText": "播放次數：2692",
           "duration": 255,
           "byOther": false,
           "titleZh": "Encore (林憶蓮專輯)",
@@ -9437,8 +10040,8 @@
           "title": "不不不",
           "artists": "林憶蓮",
           "videoId": "BcBb2Xt_KSQ",
-          "plays": 1366,
-          "playsText": "播放次數：1366",
+          "plays": 1371,
+          "playsText": "播放次數：1371",
           "duration": 286,
           "byOther": false,
           "credits": {
@@ -10047,8 +10650,8 @@
           "title": "推搪",
           "artists": "林憶蓮",
           "videoId": "QBMCIm5aDis",
-          "plays": 2755,
-          "playsText": "播放次數：2755",
+          "plays": 2756,
+          "playsText": "播放次數：2756",
           "duration": 356,
           "byOther": false,
           "credits": {
@@ -10106,8 +10709,8 @@
           "title": "心野夜",
           "artists": "林憶蓮",
           "videoId": "CpeSWEtGykk",
-          "plays": 1623,
-          "playsText": "播放次數：1623",
+          "plays": 1624,
+          "playsText": "播放次數：1624",
           "duration": 241,
           "byOther": false,
           "credits": {
@@ -10122,8 +10725,8 @@
           "title": "點唱機",
           "artists": "林憶蓮",
           "videoId": "dDZb-_snKYk",
-          "plays": 1495,
-          "playsText": "播放次數：1495",
+          "plays": 1498,
+          "playsText": "播放次數：1498",
           "duration": 391,
           "byOther": false,
           "credits": {
@@ -10154,8 +10757,8 @@
           "title": "決心",
           "artists": "林憶蓮",
           "videoId": "GeohzgBsaIY",
-          "plays": 1404,
-          "playsText": "播放次數：1404",
+          "plays": 1406,
+          "playsText": "播放次數：1406",
           "duration": 242,
           "byOther": false,
           "credits": {
@@ -10218,8 +10821,8 @@
           "title": "住家男人",
           "artists": "林憶蓮",
           "videoId": "Dp2BJHKDUFM",
-          "plays": 1122,
-          "playsText": "播放次數：1122",
+          "plays": 1123,
+          "playsText": "播放次數：1123",
           "duration": 186,
           "byOther": false,
           "credits": {
@@ -10235,8 +10838,8 @@
           "title": "Family Man",
           "artists": "Solar",
           "videoId": "9UEJzi-NkLs",
-          "plays": 842,
-          "playsText": "播放次數：842",
+          "plays": 843,
+          "playsText": "播放次數：843",
           "duration": 143,
           "byOther": true,
           "nameKey": "familyman"
@@ -10262,8 +10865,8 @@
           "title": "再生戀",
           "artists": "林憶蓮",
           "videoId": "qsrpRivU_so",
-          "plays": 1347,
-          "playsText": "播放次數：1347",
+          "plays": 1350,
+          "playsText": "播放次數：1350",
           "duration": 191,
           "byOther": false,
           "credits": {
@@ -10355,8 +10958,8 @@
           "title": "多謝",
           "artists": "林憶蓮",
           "videoId": "y-vfLrdmiL8",
-          "plays": 1616,
-          "playsText": "播放次數：1616",
+          "plays": 1618,
+          "playsText": "播放次數：1618",
           "duration": 319,
           "byOther": false,
           "credits": {
@@ -10371,8 +10974,8 @@
           "title": "Diva",
           "artists": "林憶蓮",
           "videoId": "cXdwspM224A",
-          "plays": 2572,
-          "playsText": "播放次數：2572",
+          "plays": 2579,
+          "playsText": "播放次數：2579",
           "duration": 198,
           "byOther": false,
           "credits": {
@@ -10387,8 +10990,8 @@
           "title": "不還你",
           "artists": "林憶蓮",
           "videoId": "3NNqkrUyV7o",
-          "plays": 1293,
-          "playsText": "播放次數：1293",
+          "plays": 1296,
+          "playsText": "播放次數：1296",
           "duration": 154,
           "byOther": false,
           "credits": {
@@ -10463,8 +11066,8 @@
           "title": "微雨撲巴黎",
           "artists": "林憶蓮",
           "videoId": "YPc7yB5UhZw",
-          "plays": 1092,
-          "playsText": "播放次數：1092",
+          "plays": 1095,
+          "playsText": "播放次數：1095",
           "duration": 232,
           "byOther": false,
           "credits": {
@@ -10507,8 +11110,8 @@
           "title": "瘋了",
           "artists": "林憶蓮",
           "videoId": "lutezH7IBVo",
-          "plays": 2887,
-          "playsText": "播放次數：2887",
+          "plays": 2889,
+          "playsText": "播放次數：2889",
           "duration": 341,
           "byOther": false,
           "credits": {
@@ -11351,8 +11954,8 @@
           "title": "一分鐘都市一分鐘戀愛",
           "artists": "",
           "videoId": "UdPm68izr70",
-          "plays": 3514,
-          "playsText": "播放次數：3514",
+          "plays": 3515,
+          "playsText": "播放次數：3515",
           "duration": 255,
           "byOther": false,
           "credits": {
@@ -11476,8 +12079,8 @@
           "title": "下雨天",
           "artists": "林憶蓮 和 藍戰士",
           "videoId": "miThnQEHc1k",
-          "plays": 4260000,
-          "playsText": "播放次數：426萬",
+          "plays": 4270000,
+          "playsText": "播放次數：427萬",
           "duration": 307,
           "byOther": false,
           "credits": {
@@ -11703,8 +12306,8 @@
           "title": "序幕",
           "artists": "",
           "videoId": "2vsGuHM5yso",
-          "plays": 6349,
-          "playsText": "播放次數：6349",
+          "plays": 6351,
+          "playsText": "播放次數：6351",
           "duration": 37,
           "byOther": false,
           "credits": {
@@ -11857,8 +12460,8 @@
           "title": "流聲掠影",
           "artists": "",
           "videoId": "i-fkppf3Ku8",
-          "plays": 3843,
-          "playsText": "播放次數：3843",
+          "plays": 3844,
+          "playsText": "播放次數：3844",
           "duration": 141,
           "byOther": false,
           "nameKey": "流聲掠影"
@@ -12186,8 +12789,8 @@
           "title": "由你開始",
           "artists": "",
           "videoId": "zTmLc1HdEPY",
-          "plays": 3402,
-          "playsText": "播放次數：3402",
+          "plays": 3409,
+          "playsText": "播放次數：3409",
           "duration": 256,
           "byOther": false,
           "credits": {
@@ -12426,8 +13029,8 @@
           "title": "玩伴",
           "artists": "",
           "videoId": "A4dtl8bKRJI",
-          "plays": 1398,
-          "playsText": "播放次數：1398",
+          "plays": 1399,
+          "playsText": "播放次數：1399",
           "duration": 232,
           "byOther": false,
           "credits": {
@@ -12443,8 +13046,8 @@
           "title": "天衣無縫",
           "artists": "",
           "videoId": "SEyfMMmjZzI",
-          "plays": 1660,
-          "playsText": "播放次數：1660",
+          "plays": 1663,
+          "playsText": "播放次數：1663",
           "duration": 309,
           "byOther": false,
           "credits": {
@@ -12459,8 +13062,8 @@
           "title": "夢了",
           "artists": "",
           "videoId": "RtUpmkS9e9o",
-          "plays": 1561,
-          "playsText": "播放次數：1561",
+          "plays": 1562,
+          "playsText": "播放次數：1562",
           "duration": 208,
           "byOther": false,
           "credits": {
@@ -12577,8 +13180,8 @@
           "title": "燒之印度火西施 (Indian Beauty Mix)",
           "artists": "林憶蓮",
           "videoId": "Wr--yBSZnhI",
-          "plays": 8224,
-          "playsText": "播放次數：8224",
+          "plays": 8228,
+          "playsText": "播放次數：8228",
           "duration": 378,
           "byOther": false,
           "nameKey": "燒之印度火西施",
@@ -12610,8 +13213,8 @@
           "title": "灰色 (Double Mix (Live))",
           "artists": "林憶蓮",
           "videoId": "_HvJghwXdIQ",
-          "plays": 5987,
-          "playsText": "播放次數：5987",
+          "plays": 5990,
+          "playsText": "播放次數：5990",
           "duration": 664,
           "byOther": false,
           "nameKey": "灰色#live"
@@ -12742,8 +13345,8 @@
           "title": "伴你一億里",
           "artists": "林志美 和 藍戰士",
           "videoId": "nO_WMigk3_I",
-          "plays": 5408,
-          "playsText": "播放次數：5408",
+          "plays": 5411,
+          "playsText": "播放次數：5411",
           "duration": 300,
           "byOther": true,
           "titleZh": "伴你一億裡",
@@ -12821,8 +13424,8 @@
           "title": "時光影印機 (Extended Mix)",
           "artists": "林志美",
           "videoId": "_GUWlRkGim0",
-          "plays": 4381,
-          "playsText": "播放次數：4381",
+          "plays": 4385,
+          "playsText": "播放次數：4385",
           "duration": 362,
           "byOther": true,
           "nameKey": "時光影印機"
@@ -13562,8 +14165,8 @@
           "title": "無淚眼",
           "artists": "",
           "videoId": "bSJVGg2u3B0",
-          "plays": 4328,
-          "playsText": "播放次數：4328",
+          "plays": 4332,
+          "playsText": "播放次數：4332",
           "duration": 216,
           "byOther": false,
           "credits": {
@@ -13691,8 +14294,8 @@
           "title": "Earth Destruction (Live in Hong Kong/2011)",
           "artists": "林憶蓮",
           "videoId": "-MVHLKJnMiw",
-          "plays": 5047,
-          "playsText": "播放次數：5047",
+          "plays": 5050,
+          "playsText": "播放次數：5050",
           "duration": 132,
           "byOther": false,
           "nameKey": "earthdestruction#live"
@@ -13702,8 +14305,8 @@
           "title": "柿子 (Live in Hong Kong/2011)",
           "artists": "林憶蓮",
           "videoId": "ew1Zfm5lrOg",
-          "plays": 5481,
-          "playsText": "播放次數：5481",
+          "plays": 5486,
+          "playsText": "播放次數：5486",
           "duration": 298,
           "byOther": false,
           "nameKey": "柿子#live"
@@ -13724,8 +14327,8 @@
           "title": "戲假情真 (Live in Hong Kong/2011)",
           "artists": "林憶蓮",
           "videoId": "tAHnSyOYdZs",
-          "plays": 7454,
-          "playsText": "播放次數：7454",
+          "plays": 7460,
+          "playsText": "播放次數：7460",
           "duration": 249,
           "byOther": false,
           "nameKey": "戲假情眞#live"
@@ -13735,8 +14338,8 @@
           "title": "微雨撲巴黎 (Live in Hong Kong/2011) (合作演出：Angelita Li和Silver Ko)",
           "artists": "林憶蓮",
           "videoId": "sTvKQlynKT4",
-          "plays": 7822,
-          "playsText": "播放次數：7822",
+          "plays": 7825,
+          "playsText": "播放次數：7825",
           "duration": 219,
           "byOther": false,
           "nameKey": "微雨撲巴黎#live"
@@ -13817,8 +14420,8 @@
           "title": "All By Myself (Live in Hong Kong/2011)",
           "artists": "倫永亮",
           "videoId": "yxTev6FgnF0",
-          "plays": 5138,
-          "playsText": "播放次數：5138",
+          "plays": 5142,
+          "playsText": "播放次數：5142",
           "duration": 76,
           "byOther": true,
           "credits": {
@@ -13843,8 +14446,8 @@
           "title": "一接觸  | 逃離鋼筋森林 (Live in Hong Kong/2011)",
           "artists": "林憶蓮",
           "videoId": "uKId8WsAlmU",
-          "plays": 7539,
-          "playsText": "播放次數：7539",
+          "plays": 7542,
+          "playsText": "播放次數：7542",
           "duration": 364,
           "byOther": false,
           "nameKey": "一接觸逃離鋼筋森林#live"
@@ -13865,8 +14468,8 @@
           "title": "為你我受冷風吹 (Live in Hong Kong/2011)",
           "artists": "林憶蓮",
           "videoId": "Cp-3cbI6miI",
-          "plays": 5970000,
-          "playsText": "播放次數：597萬",
+          "plays": 5980000,
+          "playsText": "播放次數：598萬",
           "duration": 261,
           "byOther": false,
           "nameKey": "為你我受冷風吹#live"
@@ -14304,8 +14907,8 @@
           "title": "推搪 (Extended Dance Mix)",
           "artists": "林憶蓮",
           "videoId": "yNxx5bNL_vA",
-          "plays": 6481,
-          "playsText": "播放次數：6481",
+          "plays": 6482,
+          "playsText": "播放次數：6482",
           "duration": 390,
           "byOther": false,
           "nameKey": "推搪",
@@ -14320,8 +14923,8 @@
           "title": "卡拉依然OK",
           "artists": "林憶蓮",
           "videoId": "1wtUpctUYiE",
-          "plays": 3996,
-          "playsText": "播放次數：3996",
+          "plays": 3997,
+          "playsText": "播放次數：3997",
           "duration": 294,
           "byOther": false,
           "nameKey": "卡拉依然ok"
@@ -14581,8 +15184,8 @@
           "title": "愛的味道 (國)",
           "artists": "",
           "videoId": "LoknUyoAESY",
-          "plays": 7341,
-          "playsText": "播放次數：7341",
+          "plays": 7346,
+          "playsText": "播放次數：7346",
           "duration": 220,
           "byOther": false,
           "nameKey": "愛的味道"
@@ -15135,8 +15738,8 @@
           "title": "灰色 (Double Mix (Live))",
           "artists": "林憶蓮",
           "videoId": "2eUQdGqRNE0",
-          "plays": 5987,
-          "playsText": "播放次數：5987",
+          "plays": 5990,
+          "playsText": "播放次數：5990",
           "duration": 666,
           "byOther": false,
           "nameKey": "灰色#live"
@@ -15476,8 +16079,8 @@
           "title": "哈囉感覺",
           "artists": "林憶蓮",
           "videoId": "Af08A9wuNGM",
-          "plays": 45000,
-          "playsText": "播放次數：4.5萬",
+          "plays": 46000,
+          "playsText": "播放次數：4.6萬",
           "duration": 224,
           "byOther": false,
           "credits": {
@@ -15583,8 +16186,8 @@
           "title": "三更夜半",
           "artists": "林憶蓮",
           "videoId": "CvGBQh5aVSw",
-          "plays": 83000,
-          "playsText": "播放次數：8.3萬",
+          "plays": 84000,
+          "playsText": "播放次數：8.4萬",
           "duration": 252,
           "byOther": false,
           "nameKey": "三更夜半"
@@ -15918,8 +16521,8 @@
           "title": "埃及玫瑰1,000打",
           "artists": "林憶蓮",
           "videoId": "jWni8NkK3rg",
-          "plays": 1517,
-          "playsText": "播放次數：1517",
+          "plays": 1523,
+          "playsText": "播放次數：1523",
           "duration": 382,
           "byOther": false,
           "nameKey": "埃及玫瑰1000打"
@@ -15993,8 +16596,8 @@
           "title": "瘋了 Psychotherapy Mix",
           "artists": "林憶蓮",
           "videoId": "KMc3_vbLSKI",
-          "plays": 4568,
-          "playsText": "播放次數：4568",
+          "plays": 4573,
+          "playsText": "播放次數：4573",
           "duration": 355,
           "byOther": false,
           "nameKey": "瘋了psychotherapymix"
@@ -16099,8 +16702,8 @@
           "title": "情人的眼淚 (Live)",
           "artists": "林憶蓮 和 Dick Lee",
           "videoId": "Mz3B6gwRols",
-          "plays": 5513,
-          "playsText": "播放次數：5513",
+          "plays": 5514,
+          "playsText": "播放次數：5514",
           "duration": 280,
           "byOther": false,
           "nameKey": "情人的眼淚#live",
@@ -16237,8 +16840,8 @@
           "title": "多謝 (Live)",
           "artists": "林憶蓮",
           "videoId": "ZcgiSMwJmXU",
-          "plays": 3280,
-          "playsText": "播放次數：3280",
+          "plays": 3282,
+          "playsText": "播放次數：3282",
           "duration": 413,
           "byOther": false,
           "nameKey": "多謝#live"
