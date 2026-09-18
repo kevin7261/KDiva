@@ -2,7 +2,7 @@
   "slug": "hey-girl",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T06:45:53.653Z",
+  "fetchedAt": "2026-09-18T22:15:32.819Z",
   "artist": {
     "channelId": "UCoQVyEia0rK1Baf4rDZRNVA",
     "name": "黑Girl",
@@ -106,6 +106,9 @@
         "title": "Hey Girl (黑Girl) - 哈库呐玛塔塔 (Hakuna Matata) Inst. + Lyrics",
         "videoId": "IQrDO7YN6fU"
       }
+    ],
+    "songListIds": [
+      "VLOLAK5uy_kA6zQRnajQxBs180wwvCqsztgOntiPQOk"
     ],
     "avatar": "https://yt3.googleusercontent.com/4-44U7mNdC5BJGvEMvyVcVTjCFBjHn11XeCdk2KjymRgtlvisdApp13mygeBp3yTZ4ZDh3CQTw=s800-c-k-c0x00ffffff-no-rj"
   },
@@ -238,6 +241,52 @@
       "wikiTitle": "黑Girl首張同名專輯",
       "wikiKind": null,
       "nameKey": "黑girl同名專輯"
+    },
+    {
+      "browseId": "MPREb_Afyl9mubx6n",
+      "playlistId": "OLAK5uy_kvYk3-l8zbeaXFWoRVrTtlz0c2UeA7MRo",
+      "title": "Hey Girl",
+      "albumArtist": "黑Girl",
+      "type": "Single",
+      "year": 2011,
+      "thumbnail": "https://yt3.googleusercontent.com/kHsVAJmyZvTkz8JfEp5H1fzyEY7Mg9S8KYhNzcwBsEW6Lo5U8JXhLKZs3o3-fVxqZapQ--FQxFsV6hqnhQ=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Hey Girl",
+          "artists": "",
+          "videoId": "qrwqRIJ6FzM",
+          "plays": 52000,
+          "playsText": "播放次數：5.2萬",
+          "duration": 220,
+          "byOther": false,
+          "credits": {
+            "lyrics": "張彰",
+            "music": "郭庭毓",
+            "arranger": "Wave G"
+          },
+          "nameKey": "heygirl",
+          "mv": "S8wwA6CLesw"
+        },
+        {
+          "index": 2,
+          "title": "是情人也是朋友",
+          "artists": "",
+          "videoId": "9xcVgDrffoU",
+          "plays": 290000,
+          "playsText": "播放次數：29萬",
+          "duration": 240,
+          "byOther": false,
+          "nameKey": "是情人也是朋友",
+          "mv": "v2QxSWt_-pw"
+        }
+      ],
+      "releaseDate": "2011-10-18",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "Hey Girl (EP)",
+      "wikiKind": "single",
+      "nameKey": "heygirl"
     },
     {
       "browseId": "MPREb_FsAi7w0yNY3",

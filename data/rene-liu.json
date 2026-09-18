@@ -2,13 +2,13 @@
   "slug": "rene-liu",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T00:09:22.857Z",
+  "fetchedAt": "2026-09-18T21:28:46.146Z",
   "artist": {
     "channelId": "UCWY-I1axwr3X9YiouSwHf5Q",
     "name": "劉若英",
     "thumbnail": "https://lh3.googleusercontent.com/CV-Ar3ix0LEiR73GnyJxppv1yfMOuxJTClBTPqgPXzwcx6r0rOs5Ev2uHUMFXQOuJb2mmmsPp74IuzZF=w1500-h625-p-l90-rj",
     "subscribers": 33700,
-    "monthlyAudience": 1260000,
+    "monthlyAudience": 1220000,
     "videos": [
       {
         "title": "後來",
@@ -391,6 +391,9 @@
         "videoId": "x0PXXqX8ACc"
       }
     ],
+    "songListIds": [
+      "VLOLAK5uy_nvMy7qFR_gSLeX03fxv3YloDXH4BDa5Ws"
+    ],
     "avatar": "https://yt3.googleusercontent.com/oM7M_uU2nR1OVlpCTA2HNwPwCXvqwjvb1KdobTrDQ4gGS7nqBIPYlN5h-oxI_pon2BUbqNg8=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -423,6 +426,11 @@
           "playsText": "播放次數：29萬",
           "duration": 464,
           "byOther": false,
+          "credits": {
+            "lyrics": "陸泓宇",
+            "music": "陸泓宇",
+            "arranger": "王繼康"
+          },
           "nameKey": "決定"
         },
         {
@@ -434,6 +442,11 @@
           "playsText": "播放次數：6544",
           "duration": 336,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "王繼康"
+          },
           "nameKey": "冰點",
           "mv": "9_8QAlHr-0w"
         },
@@ -446,6 +459,11 @@
           "playsText": "播放次數：4.1萬",
           "duration": 498,
           "byOther": false,
+          "credits": {
+            "lyrics": "林志明、陳昇",
+            "music": "陳昇",
+            "arranger": "李正帆"
+          },
           "nameKey": "國界"
         },
         {
@@ -457,8 +475,12 @@
           "playsText": "播放次數：1464萬",
           "duration": 353,
           "byOther": false,
-          "nameKey": "為愛癡狂",
-          "mv": "cYchjzfQ2RU"
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "李正帆"
+          },
+          "nameKey": "為愛癡狂"
         },
         {
           "index": 6,
@@ -469,6 +491,11 @@
           "playsText": "播放次數：8555",
           "duration": 299,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "劉若英",
+            "arranger": "王繼康"
+          },
           "nameKey": "思念"
         },
         {
@@ -480,8 +507,12 @@
           "playsText": "播放次數：30萬",
           "duration": 342,
           "byOther": false,
-          "nameKey": "世間情歌",
-          "mv": "J7l27quOgW8"
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "余大豪"
+          },
+          "nameKey": "世間情歌"
         },
         {
           "index": 8,
@@ -492,6 +523,11 @@
           "playsText": "播放次數：1.7萬",
           "duration": 481,
           "byOther": false,
+          "credits": {
+            "lyrics": "陸泓宇",
+            "music": "陸泓宇",
+            "arranger": "王繼康"
+          },
           "nameKey": "決定"
         }
       ],
@@ -520,8 +556,7 @@
           "playsText": "播放次數：31萬",
           "duration": 308,
           "byOther": false,
-          "nameKey": "打了一把鑰匙給你",
-          "mv": "KJlR3ET7pU8"
+          "nameKey": "打了一把鑰匙給你"
         },
         {
           "index": 2,
@@ -539,8 +574,8 @@
           "title": "蒲公英",
           "artists": "",
           "videoId": "rtyaJiGoRmU",
-          "plays": 3345,
-          "playsText": "播放次數：3345",
+          "plays": 3349,
+          "playsText": "播放次數：3349",
           "duration": 229,
           "byOther": false,
           "nameKey": "蒲公英",
@@ -574,8 +609,8 @@
           "title": "男人的皮衣",
           "artists": "",
           "videoId": "VbZTMGx07pU",
-          "plays": 2047,
-          "playsText": "播放次數：2047",
+          "plays": 2048,
+          "playsText": "播放次數：2048",
           "duration": 367,
           "byOther": false,
           "nameKey": "男人的皮衣"
@@ -622,8 +657,7 @@
           "playsText": "播放次數：4.5萬",
           "duration": 317,
           "byOther": false,
-          "nameKey": "說話",
-          "mv": "WgpZK9E0TIc"
+          "nameKey": "說話"
         }
       ],
       "releaseDate": "1995-12-28",
@@ -651,8 +685,7 @@
           "playsText": "播放次數：4.1萬",
           "duration": 318,
           "byOther": false,
-          "nameKey": "到處亂走",
-          "mv": "C0q4tRp6Gdg"
+          "nameKey": "到處亂走"
         },
         {
           "index": 2,
@@ -663,8 +696,7 @@
           "playsText": "播放次數：4.7萬",
           "duration": 233,
           "byOther": false,
-          "nameKey": "愛人說話",
-          "mv": "1MTzjvlCU_4"
+          "nameKey": "愛人說話"
         },
         {
           "index": 3,
@@ -693,8 +725,8 @@
           "title": "小精靈",
           "artists": "",
           "videoId": "wLjmwnA4bLk",
-          "plays": 1327,
-          "playsText": "播放次數：1327",
+          "plays": 1329,
+          "playsText": "播放次數：1329",
           "duration": 239,
           "byOther": false,
           "nameKey": "小精靈"
@@ -708,16 +740,15 @@
           "playsText": "播放次數：6.6萬",
           "duration": 287,
           "byOther": false,
-          "nameKey": "玫瑰天空",
-          "mv": "prjOiPKk7dY"
+          "nameKey": "玫瑰天空"
         },
         {
           "index": 7,
           "title": "失戀Party",
           "artists": "",
           "videoId": "XXDY74qzPGs",
-          "plays": 960,
-          "playsText": "播放次數：960",
+          "plays": 961,
+          "playsText": "播放次數：961",
           "duration": 243,
           "byOther": false,
           "nameKey": "失戀party"
@@ -727,8 +758,8 @@
           "title": "閣樓",
           "artists": "",
           "videoId": "D_K9NF5mCwk",
-          "plays": 1528,
-          "playsText": "播放次數：1528",
+          "plays": 1529,
+          "playsText": "播放次數：1529",
           "duration": 273,
           "byOther": false,
           "nameKey": "閣樓"
@@ -738,8 +769,8 @@
           "title": "門",
           "artists": "",
           "videoId": "nmcWPk0UMLA",
-          "plays": 1948,
-          "playsText": "播放次數：1948",
+          "plays": 1949,
+          "playsText": "播放次數：1949",
           "duration": 280,
           "byOther": false,
           "nameKey": "門"
@@ -749,8 +780,8 @@
           "title": "H.K.",
           "artists": "",
           "videoId": "of0KQFs5T5c",
-          "plays": 2036,
-          "playsText": "播放次數：2036",
+          "plays": 2040,
+          "playsText": "播放次數：2040",
           "duration": 215,
           "byOther": false,
           "titleZh": "H.K.／詞：陳昇，曲：殷文琦",
@@ -778,12 +809,16 @@
           "title": "為愛痴狂",
           "artists": "",
           "videoId": "cYchjzfQ2RU",
-          "plays": 14640000,
-          "playsText": "播放次數：1464萬",
+          "plays": 14650000,
+          "playsText": "播放次數：1465萬",
           "duration": 305,
           "byOther": false,
-          "nameKey": "為愛癡狂",
-          "mv": "cYchjzfQ2RU"
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "李正帆"
+          },
+          "nameKey": "為愛癡狂"
         },
         {
           "index": 2,
@@ -794,6 +829,11 @@
           "playsText": "播放次數：1.7萬",
           "duration": 298,
           "byOther": false,
+          "credits": {
+            "lyrics": "陸泓宇",
+            "music": "陸泓宇",
+            "arranger": "王繼康"
+          },
           "nameKey": "決定"
         },
         {
@@ -805,8 +845,7 @@
           "playsText": "播放次數：31萬",
           "duration": 304,
           "byOther": false,
-          "nameKey": "打了一把鑰匙給你",
-          "mv": "KJlR3ET7pU8"
+          "nameKey": "打了一把鑰匙給你"
         },
         {
           "index": 4,
@@ -822,8 +861,7 @@
             "music": "玉城千春",
             "arranger": "梁伯君"
           },
-          "nameKey": "很愛很愛你",
-          "mv": "3znMCsScCxo"
+          "nameKey": "很愛很愛你"
         },
         {
           "index": 5,
@@ -839,8 +877,7 @@
             "music": "郭子",
             "arranger": "王繼康"
           },
-          "nameKey": "花季未了",
-          "mv": "LaWQUGafWo8"
+          "nameKey": "花季未了"
         },
         {
           "index": 6,
@@ -856,8 +893,7 @@
             "music": "Michael Kolster",
             "arranger": "梁伯君"
           },
-          "nameKey": "flying",
-          "mv": "5Q4a7I5uc_s"
+          "nameKey": "flying"
         },
         {
           "index": 7,
@@ -872,8 +908,7 @@
             "lyrics": "文康",
             "music": "光良"
           },
-          "nameKey": "好久好久",
-          "mv": "P-hGvwBz0rQ"
+          "nameKey": "好久好久"
         },
         {
           "index": 8,
@@ -904,16 +939,15 @@
             "lyrics": "瑞業",
             "music": "品冠"
           },
-          "nameKey": "透明",
-          "mv": "eu20WH2acvM"
+          "nameKey": "透明"
         },
         {
           "index": 10,
           "title": "你說的對",
           "artists": "",
           "videoId": "CfrjV-o6qnc",
-          "plays": 9465,
-          "playsText": "播放次數：9465",
+          "plays": 9470,
+          "playsText": "播放次數：9470",
           "duration": 318,
           "byOther": false,
           "credits": {
@@ -928,8 +962,8 @@
           "title": "夢童",
           "artists": "",
           "videoId": "0E-4hNH00Kw",
-          "plays": 3680,
-          "playsText": "播放次數：3680",
+          "plays": 3681,
+          "playsText": "播放次數：3681",
           "duration": 232,
           "byOther": false,
           "credits": {
@@ -997,8 +1031,7 @@
             "music": "光良",
             "arranger": "梁伯君"
           },
-          "nameKey": "我等你",
-          "mv": "bToTopHwr60"
+          "nameKey": "我等你"
         },
         {
           "index": 2,
@@ -1014,8 +1047,7 @@
             "music": "玉城千春",
             "arranger": "王繼康"
           },
-          "nameKey": "後來",
-          "mv": "t0igPuDjYUE"
+          "nameKey": "後來"
         },
         {
           "index": 3,
@@ -1031,8 +1063,7 @@
             "music": "蔡健雅",
             "arranger": "Lude Mason"
           },
-          "nameKey": "love",
-          "mv": "-s5l4xdFqXc"
+          "nameKey": "love"
         },
         {
           "index": 4,
@@ -1064,8 +1095,7 @@
             "music": "劉若英",
             "arranger": "梁伯君"
           },
-          "nameKey": "坦白",
-          "mv": "osYlyLJg11U"
+          "nameKey": "坦白"
         },
         {
           "index": 6,
@@ -1081,8 +1111,7 @@
             "music": "陳小霞",
             "arranger": "王豫民"
           },
-          "nameKey": "人之初",
-          "mv": "TMAnICLy2Ew"
+          "nameKey": "人之初"
         },
         {
           "index": 7,
@@ -1161,8 +1190,7 @@
             "music": "郭子",
             "arranger": "Nathan Wang"
           },
-          "nameKey": "四月天",
-          "mv": "KLaSSwCqmng"
+          "nameKey": "四月天"
         }
       ],
       "releaseDate": "2000-01-07",
@@ -1195,8 +1223,7 @@
             "music": "陳小霞",
             "arranger": "Martin Tang"
           },
-          "nameKey": "成全",
-          "mv": "gVuo3X3Ygpg"
+          "nameKey": "成全"
         },
         {
           "index": 2,
@@ -1212,8 +1239,7 @@
             "music": "袁惟仁",
             "arranger": "江建民"
           },
-          "nameKey": "遺忘的城市",
-          "mv": "a7tzbs_9Wjw"
+          "nameKey": "遺忘的城市"
         },
         {
           "index": 3,
@@ -1229,8 +1255,7 @@
             "music": "陳昇",
             "arranger": "Mac Chew"
           },
-          "nameKey": "我曾愛過一個男孩",
-          "mv": "9lsCeDkXB9s"
+          "nameKey": "我曾愛過一個男孩"
         },
         {
           "index": 4,
@@ -1246,8 +1271,7 @@
             "music": "五月天阿信",
             "arranger": "五月天"
           },
-          "nameKey": "年華",
-          "mv": "PufZef7N7KY"
+          "nameKey": "年華"
         },
         {
           "index": 5,
@@ -1263,8 +1287,7 @@
             "music": "品冠",
             "arranger": "王繼康"
           },
-          "nameKey": "對面男生的房間",
-          "mv": "MK_siLW6dKc"
+          "nameKey": "對面男生的房間"
         },
         {
           "index": 6,
@@ -1304,8 +1327,8 @@
           "title": "秘密",
           "artists": "",
           "videoId": "PE6w09OES-g",
-          "plays": 4108,
-          "playsText": "播放次數：4108",
+          "plays": 4114,
+          "playsText": "播放次數：4114",
           "duration": 259,
           "byOther": false,
           "credits": {
@@ -1406,8 +1429,7 @@
           "playsText": "播放次數：7.3萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "ibelieve",
-          "mv": "1BslHeOYQ3k"
+          "nameKey": "ibelieve"
         },
         {
           "index": 5,
@@ -1429,8 +1451,12 @@
           "playsText": "播放次數：1464萬",
           "duration": 305,
           "byOther": false,
-          "nameKey": "為愛癡狂",
-          "mv": "cYchjzfQ2RU"
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "李正帆"
+          },
+          "nameKey": "為愛癡狂"
         },
         {
           "index": 7,
@@ -1446,8 +1472,7 @@
             "music": "玉城千春",
             "arranger": "梁伯君"
           },
-          "nameKey": "很愛很愛你",
-          "mv": "3znMCsScCxo"
+          "nameKey": "很愛很愛你"
         },
         {
           "index": 8,
@@ -1474,8 +1499,7 @@
             "music": "光良",
             "arranger": "梁伯君"
           },
-          "nameKey": "我等你",
-          "mv": "bToTopHwr60"
+          "nameKey": "我等你"
         },
         {
           "index": 10,
@@ -1490,8 +1514,7 @@
             "lyrics": "瑞業",
             "music": "品冠"
           },
-          "nameKey": "透明",
-          "mv": "eu20WH2acvM"
+          "nameKey": "透明"
         },
         {
           "index": 11,
@@ -1513,8 +1536,7 @@
           "playsText": "播放次數：31萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "打了一把鑰匙給你",
-          "mv": "KJlR3ET7pU8"
+          "nameKey": "打了一把鑰匙給你"
         },
         {
           "index": 13,
@@ -1525,6 +1547,11 @@
           "playsText": "播放次數：29萬",
           "duration": 315,
           "byOther": false,
+          "credits": {
+            "lyrics": "陸泓宇",
+            "music": "陸泓宇",
+            "arranger": "王繼康"
+          },
           "nameKey": "決定"
         },
         {
@@ -1552,8 +1579,7 @@
             "music": "陳小霞",
             "arranger": "Martin Tang"
           },
-          "nameKey": "成全",
-          "mv": "gVuo3X3Ygpg"
+          "nameKey": "成全"
         },
         {
           "index": 16,
@@ -1569,8 +1595,7 @@
             "music": "玉城千春",
             "arranger": "王繼康"
           },
-          "nameKey": "後來",
-          "mv": "t0igPuDjYUE"
+          "nameKey": "後來"
         },
         {
           "index": 17,
@@ -1592,8 +1617,7 @@
           "playsText": "播放次數：6.6萬",
           "duration": 285,
           "byOther": false,
-          "nameKey": "玫瑰天空",
-          "mv": "prjOiPKk7dY"
+          "nameKey": "玫瑰天空"
         },
         {
           "index": 19,
@@ -1620,18 +1644,22 @@
             "music": "陳小霞",
             "arranger": "王豫民"
           },
-          "nameKey": "人之初",
-          "mv": "TMAnICLy2Ew"
+          "nameKey": "人之初"
         },
         {
           "index": 21,
           "title": "冰點",
           "artists": "劉若英 和 陳昇",
           "videoId": "0Fg6fO6TCPY",
-          "plays": 6544,
-          "playsText": "播放次數：6544",
+          "plays": 6551,
+          "playsText": "播放次數：6551",
           "duration": 306,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "王繼康"
+          },
           "nameKey": "冰點",
           "mv": "9_8QAlHr-0w"
         },
@@ -1655,8 +1683,7 @@
           "playsText": "播放次數：4.5萬",
           "duration": 312,
           "byOther": false,
-          "nameKey": "說話",
-          "mv": "WgpZK9E0TIc"
+          "nameKey": "說話"
         },
         {
           "index": 24,
@@ -1672,8 +1699,7 @@
             "music": "品冠",
             "arranger": "王繼康"
           },
-          "nameKey": "對面男生的房間",
-          "mv": "MK_siLW6dKc"
+          "nameKey": "對面男生的房間"
         },
         {
           "index": 25,
@@ -1689,8 +1715,7 @@
             "music": "郭子",
             "arranger": "王繼康"
           },
-          "nameKey": "花季未了",
-          "mv": "LaWQUGafWo8"
+          "nameKey": "花季未了"
         },
         {
           "index": 26,
@@ -1734,8 +1759,7 @@
             "music": "深白色",
             "arranger": "李雨寰"
           },
-          "nameKey": "一輩子的孤單",
-          "mv": "ms9CcQXYj3s"
+          "nameKey": "一輩子的孤單"
         },
         {
           "index": 2,
@@ -1750,8 +1774,7 @@
             "music": "潘協慶",
             "arranger": "李宗盛"
           },
-          "nameKey": "當愛在靠近",
-          "mv": "fIjDpHiT6kY"
+          "nameKey": "當愛在靠近"
         },
         {
           "index": 3,
@@ -1767,8 +1790,7 @@
             "music": "李雨寰",
             "arranger": "李雨寰"
           },
-          "nameKey": "說你永遠都不離開我",
-          "mv": "ha6EUtc1MUU"
+          "nameKey": "說你永遠都不離開我"
         },
         {
           "index": 4,
@@ -1784,8 +1806,7 @@
             "music": "陳小霞",
             "arranger": "黃中嶽"
           },
-          "nameKey": "孤寂",
-          "mv": "e2X6xvO_nMI"
+          "nameKey": "孤寂"
         },
         {
           "index": 5,
@@ -1801,8 +1822,7 @@
             "music": "張瑀容",
             "arranger": "Mac Chew"
           },
-          "nameKey": "她的溫柔",
-          "mv": "22Z8w8wYS6k"
+          "nameKey": "她的溫柔"
         },
         {
           "index": 6,
@@ -1813,8 +1833,7 @@
           "playsText": "播放次數：8萬",
           "duration": 258,
           "byOther": false,
-          "nameKey": "說",
-          "mv": "AC0rRmuVpZ8"
+          "nameKey": "說"
         },
         {
           "index": 7,
@@ -1829,8 +1848,7 @@
             "music": "楊鎮丞",
             "arranger": "Mac Chew"
           },
-          "nameKey": "濾過性病毒",
-          "mv": "RgwNpmLEPWU"
+          "nameKey": "濾過性病毒"
         },
         {
           "index": 8,
@@ -1846,8 +1864,7 @@
             "music": "黃韻仁",
             "arranger": "Jenny Chin"
           },
-          "nameKey": "明年此時",
-          "mv": "dCcXyNvCgYw"
+          "nameKey": "明年此時"
         },
         {
           "index": 9,
@@ -1863,8 +1880,7 @@
             "music": "郭文賢",
             "arranger": "鐘興民"
           },
-          "nameKey": "如果我有一雙翅膀",
-          "mv": "HSPm8B7Pbxw"
+          "nameKey": "如果我有一雙翅膀"
         },
         {
           "index": 10,
@@ -1879,8 +1895,7 @@
             "music": "非非",
             "arranger": "Mac Chew"
           },
-          "nameKey": "一切",
-          "mv": "77HmazhY8vM"
+          "nameKey": "一切"
         }
       ],
       "releaseDate": "2002-06-21",
@@ -1913,8 +1928,7 @@
             "music": "五月天阿信",
             "arranger": "五月天"
           },
-          "nameKey": "年華",
-          "mv": "PufZef7N7KY"
+          "nameKey": "年華"
         },
         {
           "index": 2,
@@ -1930,8 +1944,7 @@
             "music": "陳小霞",
             "arranger": "Martin Tang"
           },
-          "nameKey": "成全",
-          "mv": "gVuo3X3Ygpg"
+          "nameKey": "成全"
         },
         {
           "index": 3,
@@ -1958,8 +1971,7 @@
             "music": "品冠",
             "arranger": "王繼康"
           },
-          "nameKey": "對面男生的房間",
-          "mv": "MK_siLW6dKc"
+          "nameKey": "對面男生的房間"
         },
         {
           "index": 5,
@@ -1975,8 +1987,7 @@
             "music": "玉城千春",
             "arranger": "梁伯君"
           },
-          "nameKey": "很愛很愛你",
-          "mv": "3znMCsScCxo"
+          "nameKey": "很愛很愛你"
         },
         {
           "index": 6,
@@ -1992,8 +2003,7 @@
             "music": "光良",
             "arranger": "梁伯君"
           },
-          "nameKey": "我等你",
-          "mv": "bToTopHwr60"
+          "nameKey": "我等你"
         },
         {
           "index": 7,
@@ -2009,8 +2019,7 @@
             "music": "玉城千春",
             "arranger": "王繼康"
           },
-          "nameKey": "後來",
-          "mv": "t0igPuDjYUE"
+          "nameKey": "後來"
         },
         {
           "index": 8,
@@ -2026,8 +2035,7 @@
             "music": "郭子",
             "arranger": "王繼康"
           },
-          "nameKey": "花季未了",
-          "mv": "LaWQUGafWo8"
+          "nameKey": "花季未了"
         },
         {
           "index": 9,
@@ -2038,8 +2046,12 @@
           "playsText": "播放次數：1464萬",
           "duration": 304,
           "byOther": false,
-          "nameKey": "為愛癡狂",
-          "mv": "cYchjzfQ2RU"
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "李正帆"
+          },
+          "nameKey": "為愛癡狂"
         },
         {
           "index": 10,
@@ -2050,8 +2062,7 @@
           "playsText": "播放次數：31萬",
           "duration": 305,
           "byOther": false,
-          "nameKey": "打了一把鑰匙給你",
-          "mv": "KJlR3ET7pU8"
+          "nameKey": "打了一把鑰匙給你"
         },
         {
           "index": 11,
@@ -2077,8 +2088,7 @@
             "lyrics": "文康",
             "music": "光良"
           },
-          "nameKey": "好久好久",
-          "mv": "P-hGvwBz0rQ"
+          "nameKey": "好久好久"
         },
         {
           "index": 13,
@@ -2094,8 +2104,7 @@
             "music": "劉若英",
             "arranger": "梁伯君"
           },
-          "nameKey": "坦白",
-          "mv": "osYlyLJg11U"
+          "nameKey": "坦白"
         },
         {
           "index": 14,
@@ -2106,8 +2115,7 @@
           "playsText": "播放次數：4.1萬",
           "duration": 316,
           "byOther": false,
-          "nameKey": "到處亂走",
-          "mv": "C0q4tRp6Gdg"
+          "nameKey": "到處亂走"
         },
         {
           "index": 15,
@@ -2118,6 +2126,11 @@
           "playsText": "播放次數：29萬",
           "duration": 315,
           "byOther": false,
+          "credits": {
+            "lyrics": "陸泓宇",
+            "music": "陸泓宇",
+            "arranger": "王繼康"
+          },
           "nameKey": "決定"
         }
       ],
@@ -2254,8 +2267,8 @@
           "title": "換我先吻你",
           "artists": "劉若英",
           "videoId": "UGjW_rjBc-w",
-          "plays": 7029,
-          "playsText": "播放次數：7029",
+          "plays": 7035,
+          "playsText": "播放次數：7035",
           "duration": 209,
           "byOther": false,
           "credits": {
@@ -2319,8 +2332,8 @@
           "title": "Intro",
           "artists": "劉若英",
           "videoId": "vCA5ihf0zUw",
-          "plays": 4225,
-          "playsText": "播放次數：4225",
+          "plays": 4227,
+          "playsText": "播放次數：4227",
           "duration": 74,
           "byOther": false,
           "nameKey": "intro"
@@ -2330,8 +2343,8 @@
           "title": "夢童",
           "artists": "劉若英",
           "videoId": "8J2ObHKOv-A",
-          "plays": 1873,
-          "playsText": "播放次數：1873",
+          "plays": 1874,
+          "playsText": "播放次數：1874",
           "duration": 155,
           "byOther": false,
           "credits": {
@@ -2350,16 +2363,15 @@
           "playsText": "播放次數：3.7萬",
           "duration": 188,
           "byOther": false,
-          "nameKey": "蒲公英",
-          "mv": "B3onNPOrjRA"
+          "nameKey": "蒲公英"
         },
         {
           "index": 4,
           "title": "Flying",
           "artists": "劉若英",
           "videoId": "rkXmw3OmjOk",
-          "plays": 989,
-          "playsText": "播放次數：989",
+          "plays": 990,
+          "playsText": "播放次數：990",
           "duration": 165,
           "byOther": false,
           "credits": {
@@ -2375,8 +2387,8 @@
           "title": "Talking1",
           "artists": "劉若英",
           "videoId": "b7d23dp55V4",
-          "plays": 854,
-          "playsText": "播放次數：854",
+          "plays": 855,
+          "playsText": "播放次數：855",
           "duration": 118,
           "byOther": false,
           "nameKey": "talking1"
@@ -2386,8 +2398,8 @@
           "title": "閣樓",
           "artists": "劉若英",
           "videoId": "RNdfw1AlpaQ",
-          "plays": 1093,
-          "playsText": "播放次數：1093",
+          "plays": 1094,
+          "playsText": "播放次數：1094",
           "duration": 176,
           "byOther": false,
           "nameKey": "閣樓"
@@ -2397,8 +2409,8 @@
           "title": "我曾愛過一個男孩",
           "artists": "劉若英",
           "videoId": "VlZW2pDtVVs",
-          "plays": 2659,
-          "playsText": "播放次數：2659",
+          "plays": 2662,
+          "playsText": "播放次數：2662",
           "duration": 229,
           "byOther": false,
           "credits": {
@@ -2414,8 +2426,8 @@
           "title": "Talking2",
           "artists": "劉若英",
           "videoId": "7v7lDCBAni4",
-          "plays": 686,
-          "playsText": "播放次數：686",
+          "plays": 687,
+          "playsText": "播放次數：687",
           "duration": 48,
           "byOther": false,
           "nameKey": "talking2"
@@ -2425,8 +2437,8 @@
           "title": "對面男生的房間",
           "artists": "劉若英",
           "videoId": "OOTYGVPWgIA",
-          "plays": 1723,
-          "playsText": "播放次數：1723",
+          "plays": 1725,
+          "playsText": "播放次數：1725",
           "duration": 175,
           "byOther": false,
           "credits": {
@@ -2442,8 +2454,8 @@
           "title": "Talking3",
           "artists": "劉若英",
           "videoId": "VbQR2FRXpwY",
-          "plays": 648,
-          "playsText": "播放次數：648",
+          "plays": 649,
+          "playsText": "播放次數：649",
           "duration": 73,
           "byOther": false,
           "nameKey": "talking3"
@@ -2453,8 +2465,8 @@
           "title": "說你永遠都不離開我",
           "artists": "劉若英",
           "videoId": "Ecye9M8I6Io",
-          "plays": 1947,
-          "playsText": "播放次數：1947",
+          "plays": 1950,
+          "playsText": "播放次數：1950",
           "duration": 234,
           "byOther": false,
           "credits": {
@@ -2470,8 +2482,8 @@
           "title": "Talking4",
           "artists": "劉若英",
           "videoId": "PSbIAYYKSac",
-          "plays": 587,
-          "playsText": "播放次數：587",
+          "plays": 588,
+          "playsText": "播放次數：588",
           "duration": 39,
           "byOther": false,
           "nameKey": "talking4"
@@ -2501,16 +2513,15 @@
             "music": "張玫潔",
             "arranger": "王豫民"
           },
-          "nameKey": "你說的對",
-          "mv": "ovUQ2a39vKk"
+          "nameKey": "你說的對"
         },
         {
           "index": 15,
           "title": "我等你",
           "artists": "劉若英",
           "videoId": "a0IW5DDuKA4",
-          "plays": 2086,
-          "playsText": "播放次數：2086",
+          "plays": 2087,
+          "playsText": "播放次數：2087",
           "duration": 272,
           "byOther": false,
           "credits": {
@@ -2554,8 +2565,8 @@
           "title": "自由",
           "artists": "劉若英",
           "videoId": "QzOruMhYn-M",
-          "plays": 1052,
-          "playsText": "播放次數：1052",
+          "plays": 1053,
+          "playsText": "播放次數：1053",
           "duration": 169,
           "byOther": false,
           "nameKey": "自由"
@@ -2576,8 +2587,8 @@
           "title": "因為寂寞",
           "artists": "劉若英",
           "videoId": "5c0PYJbZuyM",
-          "plays": 3788,
-          "playsText": "播放次數：3788",
+          "plays": 3789,
+          "playsText": "播放次數：3789",
           "duration": 211,
           "byOther": false,
           "nameKey": "因為寂寞"
@@ -2637,10 +2648,15 @@
           "title": "決定",
           "artists": "劉若英",
           "videoId": "eoKg-Pszeno",
-          "plays": 1648,
-          "playsText": "播放次數：1648",
+          "plays": 1650,
+          "playsText": "播放次數：1650",
           "duration": 295,
           "byOther": false,
+          "credits": {
+            "lyrics": "陸泓宇",
+            "music": "陸泓宇",
+            "arranger": "王繼康"
+          },
           "nameKey": "決定"
         },
         {
@@ -2648,8 +2664,8 @@
           "title": "花季未了",
           "artists": "劉若英",
           "videoId": "TptQVz8vCME",
-          "plays": 1587,
-          "playsText": "播放次數：1587",
+          "plays": 1590,
+          "playsText": "播放次數：1590",
           "duration": 277,
           "byOther": false,
           "credits": {
@@ -2693,8 +2709,8 @@
           "title": "一輩子的孤單",
           "artists": "劉若英",
           "videoId": "dhSygTJVuFI",
-          "plays": 5669,
-          "playsText": "播放次數：5669",
+          "plays": 5672,
+          "playsText": "播放次數：5672",
           "duration": 273,
           "byOther": false,
           "credits": {
@@ -2714,6 +2730,11 @@
           "playsText": "播放次數：10萬",
           "duration": 329,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "李正帆"
+          },
           "nameKey": "為愛癡狂",
           "mv": "cYchjzfQ2RU"
         },
@@ -2744,8 +2765,8 @@
           "title": "透明",
           "artists": "劉若英",
           "videoId": "cbVTr8c5elE",
-          "plays": 1435,
-          "playsText": "播放次數：1435",
+          "plays": 1436,
+          "playsText": "播放次數：1436",
           "duration": 237,
           "byOther": false,
           "credits": {
@@ -2771,8 +2792,8 @@
           "title": "綠島小夜曲",
           "artists": "劉若英",
           "videoId": "m0PRdmmyvgA",
-          "plays": 8637,
-          "playsText": "播放次數：8637",
+          "plays": 8639,
+          "playsText": "播放次數：8639",
           "duration": 207,
           "byOther": false,
           "nameKey": "綠島小夜曲"
@@ -2782,8 +2803,8 @@
           "title": "年華",
           "artists": "劉若英",
           "videoId": "rVBG5qExTGE",
-          "plays": 1222,
-          "playsText": "播放次數：1222",
+          "plays": 1223,
+          "playsText": "播放次數：1223",
           "duration": 284,
           "byOther": false,
           "credits": {
@@ -2799,8 +2820,8 @@
           "title": "到處亂走",
           "artists": "劉若英",
           "videoId": "gMpuRNeClZk",
-          "plays": 799,
-          "playsText": "播放次數：799",
+          "plays": 800,
+          "playsText": "播放次數：800",
           "duration": 423,
           "byOther": false,
           "nameKey": "到處亂走",
@@ -2811,8 +2832,8 @@
           "title": "成全",
           "artists": "劉若英",
           "videoId": "qEengbGB23A",
-          "plays": 5453,
-          "playsText": "播放次數：5453",
+          "plays": 5457,
+          "playsText": "播放次數：5457",
           "duration": 308,
           "byOther": false,
           "credits": {
@@ -2828,8 +2849,8 @@
           "title": "很愛很愛你",
           "artists": "劉若英",
           "videoId": "RpefzLFKZOA",
-          "plays": 4871,
-          "playsText": "播放次數：4871",
+          "plays": 4873,
+          "playsText": "播放次數：4873",
           "duration": 321,
           "byOther": false,
           "credits": {
@@ -3012,8 +3033,8 @@
           "title": "學習忘記",
           "artists": "劉若英",
           "videoId": "J3iHRdIGX5g",
-          "plays": 3383,
-          "playsText": "播放次數：3383",
+          "plays": 3389,
+          "playsText": "播放次數：3389",
           "duration": 213,
           "byOther": false,
           "credits": {
@@ -3030,6 +3051,178 @@
       "wikiTitle": "一整夜",
       "wikiKind": null,
       "nameKey": "一整夜"
+    },
+    {
+      "browseId": "MPREb_M5D6G05VM3J",
+      "playlistId": "OLAK5uy_kr8cpydCt5WkLmnU_iH7oUn5X1U_ZMXik",
+      "title": "我很好",
+      "albumArtist": "劉若英",
+      "type": "Album",
+      "year": 2008,
+      "thumbnail": "https://yt3.googleusercontent.com/VdQ74xMBqYcwavcjTm6xzLpTq_NLxUe2JP_6G69CkV7p0FNrOWrpegcol86zpp36CXwgxX5ssZX-pNZ0IA=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "我很好",
+          "artists": "",
+          "videoId": "THr2CDfkNk0",
+          "plays": 230000,
+          "playsText": "播放次數：23萬",
+          "duration": 273,
+          "byOther": false,
+          "credits": {
+            "lyrics": "五月天阿信",
+            "music": "陳忠義",
+            "arranger": "周恆毅"
+          },
+          "nameKey": "我很好"
+        },
+        {
+          "index": 2,
+          "title": "熊",
+          "artists": "",
+          "videoId": "z3jYRgQhYpk",
+          "plays": 3251,
+          "playsText": "播放次數：3251",
+          "duration": 239,
+          "byOther": false,
+          "nameKey": "熊"
+        },
+        {
+          "index": 3,
+          "title": "落跑新娘",
+          "artists": "",
+          "videoId": "sFzw2RDLQnk",
+          "plays": 4718,
+          "playsText": "播放次數：4718",
+          "duration": 232,
+          "byOther": false,
+          "credits": {
+            "lyrics": "葛大為",
+            "music": "歐陽業鴻",
+            "arranger": "李燕飛"
+          },
+          "nameKey": "落跑新娘"
+        },
+        {
+          "index": 4,
+          "title": "給你",
+          "artists": "",
+          "videoId": "HpHIoK1DedM",
+          "plays": 65000,
+          "playsText": "播放次數：6.5萬",
+          "duration": 248,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陶晶瑩",
+            "music": "袁惟仁",
+            "arranger": "蔡科俊"
+          },
+          "nameKey": "給你"
+        },
+        {
+          "index": 5,
+          "title": "還是一樣",
+          "artists": "",
+          "videoId": "8k8HAa9oft4",
+          "plays": 6215,
+          "playsText": "播放次數：6215",
+          "duration": 249,
+          "byOther": false,
+          "credits": {
+            "lyrics": "韋禮安",
+            "music": "韋禮安",
+            "arranger": "李燕飛"
+          },
+          "nameKey": "還是一樣"
+        },
+        {
+          "index": 6,
+          "title": "梔子花",
+          "artists": "",
+          "videoId": "oNd8pgVREnE",
+          "plays": 12000,
+          "playsText": "播放次數：1.2萬",
+          "duration": 228,
+          "byOther": false,
+          "credits": {
+            "lyrics": "劉若英",
+            "music": "劉若英",
+            "arranger": "李燕飛"
+          },
+          "nameKey": "梔子花"
+        },
+        {
+          "index": 7,
+          "title": "靜靜坐著",
+          "artists": "",
+          "videoId": "HfIZyrsgfbg",
+          "plays": 5604,
+          "playsText": "播放次數：5604",
+          "duration": 282,
+          "byOther": false,
+          "credits": {
+            "lyrics": "劉若英",
+            "music": "劉若英",
+            "arranger": "李燕飛"
+          },
+          "nameKey": "靜靜坐著"
+        },
+        {
+          "index": 8,
+          "title": "口香糖",
+          "artists": "",
+          "videoId": "7muZb06NyiI",
+          "plays": 913,
+          "playsText": "播放次數：913",
+          "duration": 282,
+          "byOther": false,
+          "credits": {
+            "lyrics": "施立",
+            "music": "陳小霞",
+            "arranger": "呂聖斐、李燕飛"
+          },
+          "nameKey": "口香糖"
+        },
+        {
+          "index": 9,
+          "title": "12月3日,北京",
+          "artists": "",
+          "videoId": "EiKKVb-JMPY",
+          "plays": 5304,
+          "playsText": "播放次數：5304",
+          "duration": 317,
+          "byOther": false,
+          "credits": {
+            "lyrics": "袁惟仁",
+            "music": "袁惟仁",
+            "arranger": "蔡科俊"
+          },
+          "nameKey": "12月3日北京"
+        },
+        {
+          "index": 10,
+          "title": "訓練",
+          "artists": "",
+          "videoId": "47_2pI5rcdA",
+          "plays": 1968,
+          "playsText": "播放次數：1968",
+          "duration": 235,
+          "byOther": false,
+          "credits": {
+            "lyrics": "劉若英",
+            "music": "劉若英",
+            "arranger": "李燕飛"
+          },
+          "nameKey": "訓練"
+        }
+      ],
+      "releaseDate": "2008-01-11",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "我很好",
+      "wikiKind": null,
+      "nameKey": "我很好"
     },
     {
       "browseId": "MPREb_rHe4cjQZBkV",
@@ -3098,8 +3291,7 @@
             "music": "藍奕邦",
             "arranger": "八三夭阿璞"
           },
-          "nameKey": "風和日麗",
-          "mv": "a70mYFeC8v8"
+          "nameKey": "風和日麗"
         },
         {
           "index": 5,
@@ -3115,8 +3307,7 @@
             "music": "張起政",
             "arranger": "陳建騏"
           },
-          "nameKey": "直接",
-          "mv": "S_bL6cDHAso"
+          "nameKey": "直接"
         },
         {
           "index": 6,
@@ -3224,8 +3415,7 @@
           "playsText": "播放次數：146萬",
           "duration": 210,
           "byOther": false,
-          "nameKey": "經過",
-          "mv": "u22bbjkc8dY"
+          "nameKey": "經過"
         },
         {
           "index": 2,
@@ -3243,8 +3433,8 @@
           "title": "愛情限定",
           "artists": "",
           "videoId": "vCgaP7PZd3s",
-          "plays": 1308,
-          "playsText": "播放次數：1308",
+          "plays": 1309,
+          "playsText": "播放次數：1309",
           "duration": 119,
           "byOther": false,
           "nameKey": "愛情限定"
@@ -3315,8 +3505,8 @@
           "title": "聽！是誰在唱歌/年華",
           "artists": "",
           "videoId": "cWMkSHqj1q8",
-          "plays": 4871,
-          "playsText": "播放次數：4871",
+          "plays": 4873,
+          "playsText": "播放次數：4873",
           "duration": 272,
           "byOther": false,
           "nameKey": "聽是誰在唱歌年華"
@@ -3326,10 +3516,15 @@
           "title": "為愛癡狂",
           "artists": "",
           "videoId": "GuHDnPejZOY",
-          "plays": 3784,
-          "playsText": "播放次數：3784",
+          "plays": 3785,
+          "playsText": "播放次數：3785",
           "duration": 251,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "李正帆"
+          },
           "titleZh": "為愛痴狂",
           "titleZhVariant": true,
           "nameKey": "為愛癡狂",
@@ -3340,8 +3535,8 @@
           "title": "我等你",
           "artists": "",
           "videoId": "22DB9aP4TQc",
-          "plays": 3702,
-          "playsText": "播放次數：3702",
+          "plays": 3710,
+          "playsText": "播放次數：3710",
           "duration": 260,
           "byOther": false,
           "credits": {
@@ -3357,10 +3552,15 @@
           "title": "給你",
           "artists": "",
           "videoId": "-uDImP5nyZk",
-          "plays": 2734,
-          "playsText": "播放次數：2734",
+          "plays": 2749,
+          "playsText": "播放次數：2749",
           "duration": 164,
           "byOther": false,
+          "credits": {
+            "lyrics": "陶晶瑩",
+            "music": "袁惟仁",
+            "arranger": "蔡科俊"
+          },
           "nameKey": "給你"
         },
         {
@@ -3368,8 +3568,8 @@
           "title": "我的失敗與偉大/倒帶",
           "artists": "",
           "videoId": "zSzq7H-eSHI",
-          "plays": 2368,
-          "playsText": "播放次數：2368",
+          "plays": 2373,
+          "playsText": "播放次數：2373",
           "duration": 352,
           "byOther": false,
           "nameKey": "我的失敗與偉大倒帶"
@@ -3399,8 +3599,7 @@
           "playsText": "播放次數：27萬",
           "duration": 205,
           "byOther": false,
-          "nameKey": "10年",
-          "mv": "RWbyEfa5Fgk"
+          "nameKey": "10年"
         },
         {
           "index": 8,
@@ -3411,6 +3610,11 @@
           "playsText": "播放次數：1742",
           "duration": 286,
           "byOther": false,
+          "credits": {
+            "lyrics": "陸泓宇",
+            "music": "陸泓宇",
+            "arranger": "王繼康"
+          },
           "nameKey": "決定"
         },
         {
@@ -3429,8 +3633,8 @@
           "title": "我曾愛過一個男孩",
           "artists": "",
           "videoId": "Ycq4cbdVlp8",
-          "plays": 1827,
-          "playsText": "播放次數：1827",
+          "plays": 1831,
+          "playsText": "播放次數：1831",
           "duration": 254,
           "byOther": false,
           "credits": {
@@ -3457,8 +3661,8 @@
           "title": "知道不知道",
           "artists": "",
           "videoId": "esqnq_UDjW4",
-          "plays": 4950,
-          "playsText": "播放次數：4950",
+          "plays": 4953,
+          "playsText": "播放次數：4953",
           "duration": 208,
           "byOther": false,
           "nameKey": "知道不知道"
@@ -3472,8 +3676,7 @@
           "playsText": "播放次數：23萬",
           "duration": 311,
           "byOther": false,
-          "nameKey": "成全解脫",
-          "mv": "N7FV6KBjb_s"
+          "nameKey": "成全解脫"
         },
         {
           "index": 14,
@@ -3496,10 +3699,15 @@
           "title": "我很好",
           "artists": "",
           "videoId": "xI5aMFyMZGI",
-          "plays": 2428,
-          "playsText": "播放次數：2428",
+          "plays": 2429,
+          "playsText": "播放次數：2429",
           "duration": 270,
           "byOther": false,
+          "credits": {
+            "lyrics": "五月天阿信",
+            "music": "陳忠義",
+            "arranger": "周恆毅"
+          },
           "nameKey": "我很好"
         },
         {
@@ -3562,8 +3770,8 @@
           "title": "原來你也在這裡",
           "artists": "",
           "videoId": "D_rIa2yttVo",
-          "plays": 5770,
-          "playsText": "播放次數：5770",
+          "plays": 5771,
+          "playsText": "播放次數：5771",
           "duration": 239,
           "byOther": false,
           "credits": {
@@ -3578,8 +3786,8 @@
           "title": "很愛很愛你",
           "artists": "",
           "videoId": "E9ByFoVQU5M",
-          "plays": 3729,
-          "playsText": "播放次數：3729",
+          "plays": 3734,
+          "playsText": "播放次數：3734",
           "duration": 325,
           "byOther": false,
           "credits": {
@@ -3604,8 +3812,7 @@
             "music": "Angela Aki",
             "arranger": "阿滾"
           },
-          "nameKey": "繼續給15歲的自己",
-          "mv": "scOhmJEQ77Q"
+          "nameKey": "繼續給15歲的自己"
         },
         {
           "index": 23,
@@ -3629,8 +3836,8 @@
           "title": "後來",
           "artists": "",
           "videoId": "b_UIYVyuhpM",
-          "plays": 5424,
-          "playsText": "播放次數：5424",
+          "plays": 5427,
+          "playsText": "播放次數：5427",
           "duration": 311,
           "byOther": false,
           "credits": {
@@ -3650,8 +3857,7 @@
           "playsText": "播放次數：33萬",
           "duration": 413,
           "byOther": false,
-          "nameKey": "生命有一種絕對",
-          "mv": "MSsQ7CTN7JM"
+          "nameKey": "生命有一種絕對"
         }
       ],
       "releaseDate": null,
@@ -3684,8 +3890,7 @@
             "music": "木村充利",
             "arranger": "澤近泰輔"
           },
-          "nameKey": "親愛的路人",
-          "mv": "5UzWEtOkpCc"
+          "nameKey": "親愛的路人"
         },
         {
           "index": 2,
@@ -3765,8 +3970,7 @@
             "music": "8輛",
             "arranger": "先知瑪莉"
           },
-          "nameKey": "yesido",
-          "mv": "ExuYE2ToVwc"
+          "nameKey": "yesido"
         },
         {
           "index": 7,
@@ -3814,8 +4018,7 @@
             "music": "楊淽",
             "arranger": "鍾成虎"
           },
-          "nameKey": "跳車",
-          "mv": "nCP11ldf8SE"
+          "nameKey": "跳車"
         },
         {
           "index": 10,
@@ -3847,8 +4050,7 @@
             "music": "木蘭號aka陳韋伶",
             "arranger": "屠穎"
           },
-          "nameKey": "滿滿",
-          "mv": "qVcLR1hSxLc"
+          "nameKey": "滿滿"
         },
         {
           "index": 12,
@@ -3925,8 +4127,7 @@
             "music": "阿超",
             "arranger": "阿超"
           },
-          "nameKey": "我懂了",
-          "mv": "TMChCThZp_Y"
+          "nameKey": "我懂了"
         },
         {
           "index": 2,
@@ -3942,8 +4143,7 @@
             "music": "艾怡良",
             "arranger": "于京延、王漢威"
           },
-          "nameKey": "相看兩不厭",
-          "mv": "31XJgZtsFhU"
+          "nameKey": "相看兩不厭"
         },
         {
           "index": 3,
@@ -3959,8 +4159,7 @@
             "music": "陳昱勳",
             "arranger": "狩野良昭"
           },
-          "nameKey": "寫信回家",
-          "mv": "C2a4lI5242M"
+          "nameKey": "寫信回家"
         },
         {
           "index": 4,
@@ -3975,8 +4174,7 @@
             "music": "咖啡因樂隊",
             "arranger": "阿滾"
           },
-          "nameKey": "我要你好好的",
-          "mv": "TxemOZuhpXI"
+          "nameKey": "我要你好好的"
         },
         {
           "index": 5,
@@ -3992,8 +4190,7 @@
             "music": "木村充利",
             "arranger": "澤近泰輔"
           },
-          "nameKey": "我敢在你懷裡孤獨",
-          "mv": "7BgkFlmzwzM"
+          "nameKey": "我敢在你懷裡孤獨"
         },
         {
           "index": 6,
@@ -4009,8 +4206,7 @@
             "music": "陳韋伶",
             "arranger": "五十嵐宏治"
           },
-          "nameKey": "陪伴者",
-          "mv": "XRGFYNHXmJE"
+          "nameKey": "陪伴者"
         },
         {
           "index": 7,
@@ -4042,8 +4238,7 @@
             "music": "朱敬然",
             "arranger": "澤近泰輔"
           },
-          "nameKey": "一路走下去",
-          "mv": "ztFNbpasg-c"
+          "nameKey": "一路走下去"
         },
         {
           "index": 9,
@@ -4075,8 +4270,7 @@
             "music": "陳建騏",
             "arranger": "陳建騏"
           },
-          "nameKey": "念念",
-          "mv": "nwGSLJBdPPM"
+          "nameKey": "念念"
         },
         {
           "index": 11,
@@ -4103,6 +4297,50 @@
       "nameKey": "我要你好好的"
     },
     {
+      "browseId": "MPREb_BJls6Us6lSc",
+      "playlistId": "OLAK5uy_l24BuNAm6riK6xi7uM-Xo3YhwQpe-kYTY",
+      "title": "電影【念念】",
+      "albumArtist": "Various Artists",
+      "type": "Single",
+      "year": 2015,
+      "thumbnail": "https://yt3.googleusercontent.com/YxLMivV7vqJ42-W1mq05CqyXvCJdaieKq8qUA6j-ALVZdPOr6wyFJE4ESHV9HH9AzxSzpyU8o1iah5jN=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "愛的代價",
+          "artists": "張艾嘉",
+          "videoId": "oobEG1z3FqU",
+          "plays": 4317,
+          "playsText": "播放次數：4317",
+          "duration": 241,
+          "byOther": true,
+          "nameKey": "愛的代價"
+        },
+        {
+          "index": 2,
+          "title": "念念",
+          "artists": "劉若英",
+          "videoId": "nwGSLJBdPPM",
+          "plays": 910000,
+          "playsText": "播放次數：91萬",
+          "duration": 187,
+          "byOther": false,
+          "credits": {
+            "lyrics": "黃婷、陳建騏",
+            "music": "陳建騏",
+            "arranger": "陳建騏"
+          },
+          "nameKey": "念念"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "電影"
+    },
+    {
       "browseId": "MPREb_6OMSddNq2St",
       "playlistId": "OLAK5uy_lWEpRHclbPmvOGnZ9K9glu6lOSkeLBsQk",
       "title": "你有沒有深愛過",
@@ -4120,8 +4358,7 @@
           "playsText": "播放次數：138萬",
           "duration": 255,
           "byOther": false,
-          "nameKey": "你有沒有深愛過",
-          "mv": "7O3E57DhtYc"
+          "nameKey": "你有沒有深愛過"
         }
       ],
       "releaseDate": null,
@@ -4149,6 +4386,11 @@
           "playsText": "播放次數：3.8萬",
           "duration": 257,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳昇",
+            "music": "陳昇",
+            "arranger": "李正帆"
+          },
           "titleZh": "為愛痴狂",
           "titleZhVariant": true,
           "nameKey": "為愛癡狂",
@@ -4219,8 +4461,8 @@
           "title": "我等你",
           "artists": "",
           "videoId": "bpnaT7zR0ok",
-          "plays": 17000,
-          "playsText": "播放次數：1.7萬",
+          "plays": 18000,
+          "playsText": "播放次數：1.8萬",
           "duration": 266,
           "byOther": false,
           "credits": {
@@ -4314,8 +4556,8 @@
           "title": "我懂了",
           "artists": "",
           "videoId": "axSmbeQp-Po",
-          "plays": 7761,
-          "playsText": "播放次數：7761",
+          "plays": 7763,
+          "playsText": "播放次數：7763",
           "duration": 284,
           "byOther": false,
           "credits": {
@@ -4402,6 +4644,11 @@
           "playsText": "播放次數：1萬",
           "duration": 299,
           "byOther": false,
+          "credits": {
+            "lyrics": "陸泓宇",
+            "music": "陸泓宇",
+            "arranger": "王繼康"
+          },
           "nameKey": "決定"
         },
         {
@@ -4441,8 +4688,8 @@
           "title": "歌",
           "artists": "",
           "videoId": "hZuxGSwegfA",
-          "plays": 4690,
-          "playsText": "播放次數：4690",
+          "plays": 4695,
+          "playsText": "播放次數：4695",
           "duration": 120,
           "byOther": false,
           "nameKey": "歌"
@@ -4485,8 +4732,8 @@
           "title": "光(OT:HIKARI)+收穫(OT:AITAI)",
           "artists": "",
           "videoId": "YaUjyN0P2RI",
-          "plays": 9527,
-          "playsText": "播放次數：9527",
+          "plays": 9537,
+          "playsText": "播放次數：9537",
           "duration": 322,
           "byOther": false,
           "nameKey": "光收穫"
@@ -4496,8 +4743,8 @@
           "title": "離開地球表面+三天三夜",
           "artists": "",
           "videoId": "-T8-aIb5vGU",
-          "plays": 6272,
-          "playsText": "播放次數：6272",
+          "plays": 6280,
+          "playsText": "播放次數：6280",
           "duration": 236,
           "byOther": false,
           "nameKey": "離開地球表面三天三夜"
@@ -4507,8 +4754,8 @@
           "title": "自由",
           "artists": "",
           "videoId": "E-yRI_-wyFI",
-          "plays": 5182,
-          "playsText": "播放次數：5182",
+          "plays": 5184,
+          "playsText": "播放次數：5184",
           "duration": 177,
           "byOther": false,
           "nameKey": "自由"
@@ -4651,8 +4898,7 @@
           "playsText": "播放次數：29萬",
           "duration": 227,
           "byOther": false,
-          "nameKey": "shallwetalk",
-          "mv": "zxh4ARKVtzs"
+          "nameKey": "shallwetalk"
         },
         {
           "index": 7,
@@ -4753,8 +4999,7 @@
             "music": "蔡旻佑",
             "arranger": "黃中嶽、蔡旻佑"
           },
-          "nameKey": "不營業的日常",
-          "mv": "mU5UO3KXOlg"
+          "nameKey": "不營業的日常"
         }
       ],
       "releaseDate": null,
@@ -4862,8 +5107,7 @@
             "music": "火星電臺",
             "arranger": "火星電臺"
           },
-          "nameKey": "所有相愛的人啊",
-          "mv": "9-4bOwIc2gQ"
+          "nameKey": "所有相愛的人啊"
         },
         {
           "index": 3,
@@ -4879,8 +5123,7 @@
             "music": "廖羽",
             "arranger": "溫奕哲"
           },
-          "nameKey": "飛行日",
-          "mv": "ZxCofVrgpkI"
+          "nameKey": "飛行日"
         },
         {
           "index": 4,
@@ -4896,8 +5139,7 @@
             "music": "HUSH",
             "arranger": "袁偉翔"
           },
-          "nameKey": "黃金年代",
-          "mv": "UX7oP6HJlwI"
+          "nameKey": "黃金年代"
         },
         {
           "index": 5,
@@ -4924,8 +5166,7 @@
             "music": "陳建騏",
             "arranger": "陳建騏、羅恩妮"
           },
-          "nameKey": "誠實",
-          "mv": "GvV0NBEn974"
+          "nameKey": "誠實"
         },
         {
           "index": 7,
@@ -4941,8 +5182,7 @@
             "music": "蔡旻佑",
             "arranger": "黃中嶽、蔡旻佑"
           },
-          "nameKey": "不營業的日常",
-          "mv": "mU5UO3KXOlg"
+          "nameKey": "不營業的日常"
         },
         {
           "index": 8,
@@ -5074,8 +5314,7 @@
             "music": "HUSH",
             "arranger": "袁偉翔"
           },
-          "nameKey": "黃金年代",
-          "mv": "UX7oP6HJlwI"
+          "nameKey": "黃金年代"
         }
       ],
       "releaseDate": null,
@@ -5084,6 +5323,56 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "黃金年代"
+    },
+    {
+      "browseId": "MPREb_deinSNyu7dH",
+      "playlistId": "OLAK5uy_kXjlbFf-WRhTDWtsDCJz05c9TkM4OdN9A",
+      "title": "Re：小花盛開的回音",
+      "albumArtist": "群星",
+      "type": "Single",
+      "year": 2022,
+      "thumbnail": "https://yt3.googleusercontent.com/xzDfp58BTCmmxx2xNVc7vno46frjEd1irVLabGSfizi8fNceLSp99Gnvshe7w8t18dQbxUyeU-W0xQNdFA=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "夜晚的光明",
+          "artists": "劉若英",
+          "videoId": "4rRSjK9sJPk",
+          "plays": 440000,
+          "playsText": "播放次數：44萬",
+          "duration": 212,
+          "byOther": false,
+          "nameKey": "夜晚的光明"
+        },
+        {
+          "index": 2,
+          "title": "無所事事",
+          "artists": "宇宙人",
+          "videoId": "-XDMyD1l9_M",
+          "plays": 1830000,
+          "playsText": "播放次數：183萬",
+          "duration": 302,
+          "byOther": true,
+          "nameKey": "無所事事"
+        },
+        {
+          "index": 3,
+          "title": "地板內早餐",
+          "artists": "YILE LIN 林以樂",
+          "videoId": "vLWVHo5D7pI",
+          "plays": 38000,
+          "playsText": "播放次數：3.8萬",
+          "duration": 351,
+          "byOther": true,
+          "nameKey": "地板內早餐"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "re小花盛開的迴音"
     },
     {
       "browseId": "MPREb_lsL6Ab1DJHg",
@@ -5189,8 +5478,7 @@
           "playsText": "播放次數：128萬",
           "duration": 238,
           "byOther": false,
-          "nameKey": "你從春天走來",
-          "mv": "1-xOeZrO0PI"
+          "nameKey": "你從春天走來"
         }
       ],
       "releaseDate": null,

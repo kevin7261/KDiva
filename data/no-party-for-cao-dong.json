@@ -2,34 +2,37 @@
   "slug": "no-party-for-cao-dong",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T07:17:00.755Z",
+  "fetchedAt": "2026-09-18T22:32:56.726Z",
   "artist": {
     "channelId": "UC-1kIjeEOX6NkWWKX3Y1W8Q",
     "name": "草東沒有派對",
     "thumbnail": "https://lh3.googleusercontent.com/PUH2N6beqZxdrwrSw6mXq5U7zSmS_wmbz0pE0NihFbWJpEEvAtUMugFv2mvQ8LtJreWiZ4Ou8P8ss-rg=w2048-h853-p-l90-rj",
     "subscribers": 246000,
-    "monthlyAudience": 305000,
+    "monthlyAudience": 297000,
     "videos": [
       {
-        "title": "山海",
-        "videoId": "j2311FZWoFQ"
-      },
-      {
-        "title": "大風吹",
-        "videoId": "HqmpIQ9l-uA"
+        "title": "床",
+        "videoId": "yq5KovCxq8o"
       },
       {
         "title": "但",
         "videoId": "ovTiSA9T-RU"
       },
       {
-        "title": "床",
-        "videoId": "yq5KovCxq8o"
+        "title": "大風吹",
+        "videoId": "HqmpIQ9l-uA"
+      },
+      {
+        "title": "山海",
+        "videoId": "j2311FZWoFQ"
       },
       {
         "title": "白日夢",
         "videoId": "uV2ex9L1j9I"
       }
+    ],
+    "songListIds": [
+      "VLOLAK5uy_k9XPwKPKFbQjEWMgWjhsylR1D9aaI2-wk"
     ],
     "avatar": "https://yt3.googleusercontent.com/JoNW0J7Unbu5EpVA15asm1t6jbmjiY0Eht0E0vdzLiwderLTHJDbLa2aQc7i1jHPnvtNYIY6qaM=s800-c-k-c0x00ffffff-no-rj"
   },
@@ -75,8 +78,8 @@
           "title": "爛泥",
           "artists": "",
           "videoId": "2fQ5es-qLaY",
-          "plays": 5730000,
-          "playsText": "播放次數：573萬",
+          "plays": 5740000,
+          "playsText": "播放次數：574萬",
           "duration": 150,
           "byOther": false,
           "credits": {
@@ -116,8 +119,7 @@
             "music": "草東沒有派對",
             "arranger": "草東沒有派對"
           },
-          "nameKey": "大風吹",
-          "mv": "HqmpIQ9l-uA"
+          "nameKey": "大風吹"
         },
         {
           "index": 6,
@@ -182,8 +184,7 @@
             "music": "草東沒有派對",
             "arranger": "草東沒有派對"
           },
-          "nameKey": "山海",
-          "mv": "j2311FZWoFQ"
+          "nameKey": "山海"
         },
         {
           "index": 11,
@@ -341,8 +342,7 @@
             "music": "草東沒有派對",
             "arranger": "草東沒有派對"
           },
-          "nameKey": "白日夢",
-          "mv": "uV2ex9L1j9I"
+          "nameKey": "白日夢"
         },
         {
           "index": 7,
@@ -353,8 +353,7 @@
           "playsText": "播放次數：1319萬",
           "duration": 233,
           "byOther": false,
-          "nameKey": "床",
-          "mv": "yq5KovCxq8o"
+          "nameKey": "床"
         },
         {
           "index": 8,
@@ -403,8 +402,7 @@
           "playsText": "播放次數：849萬",
           "duration": 143,
           "byOther": false,
-          "nameKey": "但",
-          "mv": "ovTiSA9T-RU"
+          "nameKey": "但"
         }
       ],
       "releaseDate": "2023-05-20",

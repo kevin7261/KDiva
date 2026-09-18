@@ -2,14 +2,17 @@
   "slug": "chang-hung-liang",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T23:58:24.438Z",
+  "fetchedAt": "2026-09-18T21:09:05.786Z",
   "artist": {
     "channelId": "UCbps6I6U8foTtJiBFctZxIw",
     "name": "張洪量",
     "thumbnail": "https://yt3.googleusercontent.com/ZCSheSTFOurgDfklPbviNYx5-r0nTOfpURlHmfd6DObIatvCODYmhSB7uuhf86I1MFO3Ioj3S8w6bCg=w1440-h600-p-l90-rj",
-    "subscribers": 656,
+    "subscribers": 657,
     "monthlyAudience": null,
     "videos": [],
+    "songListIds": [
+      "VLOLAK5uy_mNFoGaBGQIuZhCqHxlfCIMWV_zaaU4YTo"
+    ],
     "avatar": "https://yt3.googleusercontent.com/SEINYdgJsoVF8d4FUQ0Nq3m6QO5NyjGHkfkZERiKj2es_236t7jKI9hZPUhUEwvjG62NmMR1DA=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -27,8 +30,8 @@
           "title": "在意的並不是妳的美",
           "artists": "",
           "videoId": "j01t6R7qAJ0",
-          "plays": 8119,
-          "playsText": "播放次數：8119",
+          "plays": 8121,
+          "playsText": "播放次數：8121",
           "duration": 274,
           "byOther": false,
           "nameKey": "在意的竝不是妳的美"
@@ -82,8 +85,8 @@
           "title": "從一而終對妳",
           "artists": "",
           "videoId": "oJdwjK9aprI",
-          "plays": 3813,
-          "playsText": "播放次數：3813",
+          "plays": 3814,
+          "playsText": "播放次數：3814",
           "duration": 256,
           "byOther": false,
           "nameKey": "從一而終對妳"
@@ -93,8 +96,8 @@
           "title": "早該知道",
           "artists": "",
           "videoId": "zQ0UFfYWSGo",
-          "plays": 2567,
-          "playsText": "播放次數：2567",
+          "plays": 2568,
+          "playsText": "播放次數：2568",
           "duration": 246,
           "byOther": false,
           "nameKey": "早該知道"
@@ -154,8 +157,8 @@
           "title": "廣島之戀",
           "artists": "莫文蔚;張洪量",
           "videoId": "_DhHqophAao",
-          "plays": 8535,
-          "playsText": "播放次數：8535",
+          "plays": 8538,
+          "playsText": "播放次數：8538",
           "duration": 321,
           "byOther": false,
           "nameKey": "廣島之戀"
@@ -215,8 +218,8 @@
           "title": "廣島之戀",
           "artists": "張洪量/莫文蔚",
           "videoId": "03DuyL9R1Nc",
-          "plays": 8535,
-          "playsText": "播放次數：8535",
+          "plays": 8538,
+          "playsText": "播放次數：8538",
           "duration": 323,
           "byOther": false,
           "nameKey": "廣島之戀"
@@ -433,6 +436,64 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "廣島之戀"
+    },
+    {
+      "browseId": "MPREb_upJEUt5e6NM",
+      "playlistId": "OLAK5uy_n-_BDOebDvUaTAl5YNJyzXdOvqvfTWU4A",
+      "title": "馬里亞納海溝",
+      "albumArtist": "張洪量",
+      "type": "Single",
+      "year": 2023,
+      "thumbnail": "https://yt3.googleusercontent.com/CbIMoR89y9CjTeZWbx9Y5xFGkcHCo1WnbzNqT76Uj46J1NHMgEnUQ6ETspzIJPsJMA5kXDMEgyNx2mYS=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "馬里亞納海溝",
+          "artists": "",
+          "videoId": "gHrRpCa6QG0",
+          "plays": 679,
+          "playsText": "播放次數：679",
+          "duration": 298,
+          "byOther": false,
+          "titleZh": "馬裡亞納海溝",
+          "titleZhVariant": true,
+          "nameKey": "馬裡亞納海溝"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "馬裡亞納海溝"
+    },
+    {
+      "browseId": "MPREb_oEobolcvnzl",
+      "playlistId": "OLAK5uy_kMQ9DzqDgPevRimc51r-_5ia6232OeFP8",
+      "title": "黃山始信峰",
+      "albumArtist": "張洪量",
+      "type": "Single",
+      "year": 2023,
+      "thumbnail": "https://yt3.googleusercontent.com/NkfwLrDVqEZ78kD904XdFnoMcXHVeDZVfiE54pfmrqHv0XjGyFuDQUbCSFVHnHg50dIUUW4cJh9a7snw=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "黃山始信峰",
+          "artists": "",
+          "videoId": "2sN5ZKN5c58",
+          "plays": 2166,
+          "playsText": "播放次數：2166",
+          "duration": 244,
+          "byOther": false,
+          "nameKey": "黃山始信峰"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "黃山始信峰"
     }
   ],
   "wikiOnly": [],

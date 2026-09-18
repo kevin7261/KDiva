@@ -2,7 +2,7 @@
   "slug": "sandee-chan",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T00:08:37.279Z",
+  "fetchedAt": "2026-09-18T21:27:55.026Z",
   "artist": {
     "channelId": "UCUXXjp6SaJb0gT3NQH3d03Q",
     "name": "陳珊妮",
@@ -287,6 +287,9 @@
         "videoId": "ejF3Zb0b5d4"
       }
     ],
+    "songListIds": [
+      "VLOLAK5uy_k2IB-6u3zoKVNujldVwDDA-kLYOg1WtBg"
+    ],
     "avatar": "https://yt3.googleusercontent.com/qcpVYM1PKCbws7ZdNJ72wID1HCWf6-ewEScEWTlKSh5KNwitE6G1Ge3Ro75Y74kHg6knwKuXZ6w=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -304,8 +307,8 @@
           "title": "海邊",
           "artists": "",
           "videoId": "Ng1ZLxsofSg",
-          "plays": 4575,
-          "playsText": "播放次數：4575",
+          "plays": 4577,
+          "playsText": "播放次數：4577",
           "duration": 190,
           "byOther": false,
           "credits": {
@@ -320,8 +323,8 @@
           "title": "The Entertainer (Instrumental)",
           "artists": "",
           "videoId": "kPNesH8LLIE",
-          "plays": 1281,
-          "playsText": "播放次數：1281",
+          "plays": 1283,
+          "playsText": "播放次數：1283",
           "duration": 37,
           "byOther": false,
           "nameKey": "theentertainer"
@@ -331,8 +334,8 @@
           "title": "茫然",
           "artists": "",
           "videoId": "9Z7E6ac6oNw",
-          "plays": 5930,
-          "playsText": "播放次數：5930",
+          "plays": 5931,
+          "playsText": "播放次數：5931",
           "duration": 233,
           "byOther": false,
           "nameKey": "茫然"
@@ -468,8 +471,200 @@
           "title": "最後一班公車",
           "artists": "",
           "videoId": "twPgz8caHjo",
-          "plays": 1348,
-          "playsText": "播放次數：1348",
+          "plays": 1624,
+          "playsText": "播放次數：1624",
+          "duration": 307,
+          "byOther": false,
+          "nameKey": "最後一班公車"
+        }
+      ],
+      "releaseDate": "1994-05-01",
+      "releaseDatePrecision": "month",
+      "releaseDateSource": "table",
+      "wikiTitle": "陳珊妮音樂作品列表",
+      "wikiKind": "studio",
+      "nameKey": "華盛頓砍倒櫻桃樹"
+    },
+    {
+      "browseId": "MPREb_Be5uvhcFwEa",
+      "playlistId": "OLAK5uy_lb7apZxdjoJjy7jJiZIXXMBL3Rza6jrog",
+      "title": "華盛頓砍倒櫻桃樹",
+      "albumArtist": "陳珊妮",
+      "type": "Album",
+      "year": 1994,
+      "thumbnail": "https://yt3.googleusercontent.com/gQcNg05s-NXLC_Q9l_yP8Emxx-CPwwiO-Eg3citNRxXsJ8lZVxK8cLFeynS2p7MGS8KUVpaGHedBTK7S=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "海邊",
+          "artists": "",
+          "videoId": "pG2K6AlauZs",
+          "plays": 4,
+          "playsText": "播放次數：4",
+          "duration": 190,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳珊妮",
+            "music": "陳珊妮",
+            "arranger": "陳珊妮"
+          },
+          "nameKey": "海邊"
+        },
+        {
+          "index": 2,
+          "title": "The Entertainer",
+          "artists": "",
+          "videoId": "JHrjOf4SyVE",
+          "plays": 2,
+          "playsText": "播放次數：2",
+          "duration": 37,
+          "byOther": false,
+          "nameKey": "theentertainer"
+        },
+        {
+          "index": 3,
+          "title": "茫然",
+          "artists": "",
+          "videoId": "zwU9Z0j0A_Y",
+          "plays": 4,
+          "playsText": "播放次數：4",
+          "duration": 233,
+          "byOther": false,
+          "nameKey": "茫然"
+        },
+        {
+          "index": 4,
+          "title": "生病",
+          "artists": "",
+          "videoId": "KlfkV80lNrc",
+          "plays": 0,
+          "playsText": "播放次數：0",
+          "duration": 233,
+          "byOther": false,
+          "nameKey": "生病"
+        },
+        {
+          "index": 5,
+          "title": "一線天",
+          "artists": "",
+          "videoId": "1dTDal4I-jA",
+          "plays": 0,
+          "playsText": "播放次數：0",
+          "duration": 197,
+          "byOther": false,
+          "nameKey": "一線天"
+        },
+        {
+          "index": 6,
+          "title": "不夠放肆",
+          "artists": "",
+          "videoId": "xjTtoMTlOug",
+          "plays": 1,
+          "playsText": "播放次數：1",
+          "duration": 290,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳珊妮",
+            "music": "陳珊妮",
+            "arranger": "陳珊妮"
+          },
+          "nameKey": "不夠放肆"
+        },
+        {
+          "index": 7,
+          "title": "陶醫生的柳丁",
+          "artists": "",
+          "videoId": "qeUunCJM2Uw",
+          "plays": 0,
+          "playsText": "播放次數：0",
+          "duration": 266,
+          "byOther": false,
+          "nameKey": "陶醫生的柳丁"
+        },
+        {
+          "index": 8,
+          "title": "三個瓶子",
+          "artists": "",
+          "videoId": "im_wpKKBx1M",
+          "plays": 1,
+          "playsText": "播放次數：1",
+          "duration": 83,
+          "byOther": false,
+          "nameKey": "三個甁子"
+        },
+        {
+          "index": 9,
+          "title": "聽美人魚唱歌",
+          "artists": "",
+          "videoId": "T7bBJ1Kmxxo",
+          "plays": 5,
+          "playsText": "播放次數：5",
+          "duration": 210,
+          "byOther": false,
+          "nameKey": "聽美人魚唱歌"
+        },
+        {
+          "index": 10,
+          "title": "情歌",
+          "artists": "",
+          "videoId": "xzdStptIGEs",
+          "plays": 110,
+          "playsText": "播放次數：110",
+          "duration": 358,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳珊妮",
+            "music": "陳珊妮",
+            "arranger": "李雨寰"
+          },
+          "nameKey": "情歌",
+          "mv": "9IYCCxM2T2c"
+        },
+        {
+          "index": 11,
+          "title": "比較",
+          "artists": "",
+          "videoId": "T57y9QJX6d4",
+          "plays": 0,
+          "playsText": "播放次數：0",
+          "duration": 220,
+          "byOther": false,
+          "nameKey": "比較"
+        },
+        {
+          "index": 12,
+          "title": "女人肚子餓的時候",
+          "artists": "",
+          "videoId": "j2rw3WJlGEM",
+          "plays": 707,
+          "playsText": "播放次數：707",
+          "duration": 220,
+          "byOther": false,
+          "nameKey": "女人肚子餓的時候"
+        },
+        {
+          "index": 13,
+          "title": "看場電影",
+          "artists": "",
+          "videoId": "hCvXpewMlgU",
+          "plays": 1,
+          "playsText": "播放次數：1",
+          "duration": 171,
+          "byOther": false,
+          "credits": {
+            "lyrics": "陳珊妮",
+            "music": "陳珊妮",
+            "arranger": "陳珊妮"
+          },
+          "nameKey": "看場電影"
+        },
+        {
+          "index": 14,
+          "title": "最後一班公車",
+          "artists": "",
+          "videoId": "cWqQwi6ukCY",
+          "plays": 735,
+          "playsText": "播放次數：735",
           "duration": 307,
           "byOther": false,
           "nameKey": "最後一班公車"
@@ -496,8 +691,8 @@
           "title": "黃色女孩",
           "artists": "",
           "videoId": "Z-mbj9q2NBU",
-          "plays": 2153,
-          "playsText": "播放次數：2153",
+          "plays": 2155,
+          "playsText": "播放次數：2155",
           "duration": 108,
           "byOther": false,
           "nameKey": "黃色女孩"
@@ -507,8 +702,8 @@
           "title": "找到愛情",
           "artists": "",
           "videoId": "PjsH6J2bICI",
-          "plays": 1516,
-          "playsText": "播放次數：1516",
+          "plays": 1517,
+          "playsText": "播放次數：1517",
           "duration": 199,
           "byOther": false,
           "nameKey": "找到愛情"
@@ -518,8 +713,8 @@
           "title": "找一雙鞋",
           "artists": "",
           "videoId": "AvYOjHoGYGg",
-          "plays": 5564,
-          "playsText": "播放次數：5564",
+          "plays": 5565,
+          "playsText": "播放次數：5565",
           "duration": 234,
           "byOther": false,
           "credits": {
@@ -534,8 +729,8 @@
           "title": "愛人有問題",
           "artists": "",
           "videoId": "WSRammY58sU",
-          "plays": 1434,
-          "playsText": "播放次數：1434",
+          "plays": 1437,
+          "playsText": "播放次數：1437",
           "duration": 210,
           "byOther": false,
           "nameKey": "愛人有問題"
@@ -605,8 +800,8 @@
           "title": "你想幹嘛就幹嘛",
           "artists": "",
           "videoId": "t049nR5GN-4",
-          "plays": 1421,
-          "playsText": "播放次數：1421",
+          "plays": 1422,
+          "playsText": "播放次數：1422",
           "duration": 157,
           "byOther": false,
           "nameKey": "你想幹嘛就幹嘛"
@@ -616,8 +811,8 @@
           "title": "乘噴射機離去",
           "artists": "",
           "videoId": "YwmJiP5m3tE",
-          "plays": 6709,
-          "playsText": "播放次數：6709",
+          "plays": 6710,
+          "playsText": "播放次數：6710",
           "duration": 483,
           "byOther": false,
           "credits": {
@@ -649,8 +844,8 @@
           "title": "咖啡因",
           "artists": "",
           "videoId": "WmuMEGjXa_g",
-          "plays": 3285,
-          "playsText": "播放次數：3285",
+          "plays": 3289,
+          "playsText": "播放次數：3289",
           "duration": 158,
           "byOther": false,
           "credits": {
@@ -665,8 +860,8 @@
           "title": "抽菸",
           "artists": "",
           "videoId": "qTW2ETlR0iI",
-          "plays": 4809,
-          "playsText": "播放次數：4809",
+          "plays": 4814,
+          "playsText": "播放次數：4814",
           "duration": 246,
           "byOther": false,
           "nameKey": "抽菸"
@@ -725,8 +920,8 @@
           "title": "衛生紙與我",
           "artists": "",
           "videoId": "_bCVyPKDT2Y",
-          "plays": 1109,
-          "playsText": "播放次數：1109",
+          "plays": 1111,
+          "playsText": "播放次數：1111",
           "duration": 238,
           "byOther": false,
           "nameKey": "衞生紙與我"
@@ -736,8 +931,8 @@
           "title": "咖啡",
           "artists": "",
           "videoId": "Ix3obcT8J1U",
-          "plays": 843,
-          "playsText": "播放次數：843",
+          "plays": 845,
+          "playsText": "播放次數：845",
           "duration": 143,
           "byOther": false,
           "nameKey": "咖啡"
@@ -747,8 +942,8 @@
           "title": "我愛光頭",
           "artists": "",
           "videoId": "fsxOGnwScbE",
-          "plays": 1128,
-          "playsText": "播放次數：1128",
+          "plays": 1129,
+          "playsText": "播放次數：1129",
           "duration": 222,
           "byOther": false,
           "nameKey": "我愛光頭"
@@ -758,8 +953,8 @@
           "title": "超速",
           "artists": "",
           "videoId": "qjFQdlKN0nE",
-          "plays": 1014,
-          "playsText": "播放次數：1014",
+          "plays": 1016,
+          "playsText": "播放次數：1016",
           "duration": 419,
           "byOther": false,
           "nameKey": "超速"
@@ -786,8 +981,8 @@
           "title": "海邊 (精選輯版)",
           "artists": "",
           "videoId": "46SyMGGLXRA",
-          "plays": 1,
-          "playsText": "播放次數：1",
+          "plays": 2,
+          "playsText": "播放次數：2",
           "duration": 193,
           "byOther": false,
           "credits": {
@@ -802,8 +997,8 @@
           "title": "不夠放肆 (精選輯版)",
           "artists": "",
           "videoId": "NslUThMXAho",
-          "plays": 148,
-          "playsText": "播放次數：148",
+          "plays": 175,
+          "playsText": "播放次數：175",
           "duration": 290,
           "byOther": false,
           "credits": {
@@ -850,8 +1045,8 @@
           "title": "乘噴射機離去 (精選輯版)",
           "artists": "",
           "videoId": "gm6R6lhF-B8",
-          "plays": 0,
-          "playsText": "播放次數：0",
+          "plays": 1,
+          "playsText": "播放次數：1",
           "duration": 476,
           "byOther": false,
           "credits": {
@@ -930,8 +1125,8 @@
           "title": "忽略 (精選輯版)",
           "artists": "",
           "videoId": "v_LUE8xGEBM",
-          "plays": 1,
-          "playsText": "播放次數：1",
+          "plays": 3,
+          "playsText": "播放次數：3",
           "duration": 274,
           "byOther": false,
           "credits": {
@@ -945,8 +1140,8 @@
           "title": "不得不愛自己 (精選輯版)",
           "artists": "",
           "videoId": "VevTXv0c1w4",
-          "plays": 0,
-          "playsText": "播放次數：0",
+          "plays": 2,
+          "playsText": "播放次數：2",
           "duration": 289,
           "byOther": false,
           "nameKey": "不得不愛自己"
@@ -1054,8 +1249,8 @@
           "title": "綁架你的最愛 (Live)",
           "artists": "",
           "videoId": "40igTpkiuus",
-          "plays": 1,
-          "playsText": "播放次數：1",
+          "plays": 2,
+          "playsText": "播放次數：2",
           "duration": 274,
           "byOther": false,
           "nameKey": "綁架你的最愛#live"
@@ -1087,8 +1282,8 @@
           "title": "當壞人還沒變壞 (Live)",
           "artists": "",
           "videoId": "zsBExwvoaf4",
-          "plays": 464,
-          "playsText": "播放次數：464",
+          "plays": 658,
+          "playsText": "播放次數：658",
           "duration": 240,
           "byOther": false,
           "nameKey": "當壞人還沒變壞#live"
@@ -1126,8 +1321,8 @@
           "title": "忽略[Studio Version]",
           "artists": "",
           "videoId": "b_gp2RLYPT8",
-          "plays": 1941,
-          "playsText": "播放次數：1941",
+          "plays": 1944,
+          "playsText": "播放次數：1944",
           "duration": 274,
           "byOther": false,
           "nameKey": "忽略",
@@ -1141,8 +1336,8 @@
           "title": "不得不不愛自己[Studio Version]",
           "artists": "",
           "videoId": "ZAIS-q91Rdw",
-          "plays": 970,
-          "playsText": "播放次數：970",
+          "plays": 971,
+          "playsText": "播放次數：971",
           "duration": 289,
           "byOther": false,
           "nameKey": "不得不不愛自己"
@@ -1195,8 +1390,8 @@
           "title": "忽略 (Live)",
           "artists": "",
           "videoId": "U--4hk8eocw",
-          "plays": 1952,
-          "playsText": "播放次數：1952",
+          "plays": 1953,
+          "playsText": "播放次數：1953",
           "duration": 253,
           "byOther": false,
           "nameKey": "忽略#live"
@@ -1239,8 +1434,8 @@
           "title": "長頭髮的狗 (Live)",
           "artists": "",
           "videoId": "HEMqz-FXt7g",
-          "plays": 841,
-          "playsText": "播放次數：841",
+          "plays": 844,
+          "playsText": "播放次數：844",
           "duration": 186,
           "byOther": false,
           "nameKey": "長頭髮的狗#live"
@@ -1354,8 +1549,8 @@
           "title": "夏雪",
           "artists": "",
           "videoId": "8x5kZn4wgR4",
-          "plays": 1412,
-          "playsText": "播放次數：1412",
+          "plays": 1415,
+          "playsText": "播放次數：1415",
           "duration": 245,
           "byOther": false,
           "credits": {
@@ -1402,8 +1597,8 @@
           "title": "ㄐㄧㄢ視",
           "artists": "",
           "videoId": "w8LZ5RFM_tk",
-          "plays": 2250,
-          "playsText": "播放次數：2250",
+          "plays": 2251,
+          "playsText": "播放次數：2251",
           "duration": 250,
           "byOther": false,
           "credits": {
@@ -1540,8 +1735,7 @@
             "music": "陳珊妮",
             "arranger": "Minimal＠人山人海"
           },
-          "nameKey": "完美",
-          "mv": "u_yjpTu0sdQ"
+          "nameKey": "完美"
         },
         {
           "index": 4,
@@ -1573,8 +1767,7 @@
             "music": "陳珊妮",
             "arranger": "Minimal＠人山人海"
           },
-          "nameKey": "幻覺",
-          "mv": "tLxCcmkw7HU"
+          "nameKey": "幻覺"
         },
         {
           "index": 6,
@@ -1590,8 +1783,7 @@
             "music": "陳珊妮",
             "arranger": "Minimal＠人山人海"
           },
-          "nameKey": "呻吟",
-          "mv": "eYsYQtVX6Ow"
+          "nameKey": "呻吟"
         },
         {
           "index": 7,
@@ -1690,8 +1882,8 @@
           "title": "固執 (Live)",
           "artists": "",
           "videoId": "T3EQgkVW0rg",
-          "plays": 697,
-          "playsText": "播放次數：697",
+          "plays": 698,
+          "playsText": "播放次數：698",
           "duration": 297,
           "byOther": false,
           "nameKey": "固執#live"
@@ -1701,8 +1893,8 @@
           "title": "應該 (Live)",
           "artists": "",
           "videoId": "CYWz-OJA1_w",
-          "plays": 1669,
-          "playsText": "播放次數：1669",
+          "plays": 1676,
+          "playsText": "播放次數：1676",
           "duration": 346,
           "byOther": false,
           "nameKey": "應該#live"
@@ -1855,8 +2047,8 @@
           "title": "不做夢 (Live)",
           "artists": "",
           "videoId": "3ZfXctYsA00",
-          "plays": 579,
-          "playsText": "播放次數：579",
+          "plays": 580,
+          "playsText": "播放次數：580",
           "duration": 285,
           "byOther": false,
           "nameKey": "不做夢#live"
@@ -1877,8 +2069,8 @@
           "title": "你太好看 (Live)",
           "artists": "",
           "videoId": "dccUnMilnz4",
-          "plays": 620,
-          "playsText": "播放次數：620",
+          "plays": 621,
+          "playsText": "播放次數：621",
           "duration": 202,
           "byOther": false,
           "nameKey": "你太好看#live"
@@ -1989,8 +2181,8 @@
           "title": "完美 [Live]",
           "artists": "",
           "videoId": "-1QmGPwxAag",
-          "plays": 503,
-          "playsText": "播放次數：503",
+          "plays": 513,
+          "playsText": "播放次數：513",
           "duration": 230,
           "byOther": false,
           "nameKey": "完美#live"
@@ -2256,16 +2448,15 @@
             "music": "陳珊妮",
             "arranger": "徐千秀"
           },
-          "nameKey": "尼可拉斯",
-          "mv": "vHYNciyKx9A"
+          "nameKey": "尼可拉斯"
         },
         {
           "index": 5,
           "title": "鏡子",
           "artists": "",
           "videoId": "0n_XIslR3as",
-          "plays": 6289,
-          "playsText": "播放次數：6289",
+          "plays": 6290,
+          "playsText": "播放次數：6290",
           "duration": 282,
           "byOther": false,
           "credits": {
@@ -2289,8 +2480,7 @@
             "music": "陳珊妮",
             "arranger": "徐千秀"
           },
-          "nameKey": "驗傷",
-          "mv": "YaHjrZ7k44Y"
+          "nameKey": "驗傷"
         },
         {
           "index": 7,
@@ -2306,8 +2496,7 @@
             "music": "陳珊妮",
             "arranger": "李雨寰"
           },
-          "nameKey": "情歌",
-          "mv": "9IYCCxM2T2c"
+          "nameKey": "情歌"
         },
         {
           "index": 8,
@@ -2406,8 +2595,8 @@
           "title": "小鳥探戈",
           "artists": "陳珊妮 和 李端嫻",
           "videoId": "xNNr07OmqXc",
-          "plays": 3649,
-          "playsText": "播放次數：3649",
+          "plays": 3655,
+          "playsText": "播放次數：3655",
           "duration": 253,
           "byOther": false,
           "nameKey": "小鳥探戈"
@@ -2428,8 +2617,8 @@
           "title": "清晨音樂",
           "artists": "陳珊妮 和 李端嫻",
           "videoId": "c1nc2kJDWQ0",
-          "plays": 1568,
-          "playsText": "播放次數：1568",
+          "plays": 1572,
+          "playsText": "播放次數：1572",
           "duration": 194,
           "byOther": false,
           "nameKey": "清晨音樂"
@@ -2439,8 +2628,8 @@
           "title": "一種簡單的輝煌",
           "artists": "陳珊妮、李端嫻 和 黃貫中",
           "videoId": "RjNeml5_-Gs",
-          "plays": 1020,
-          "playsText": "播放次數：1020",
+          "plays": 1023,
+          "playsText": "播放次數：1023",
           "duration": 194,
           "byOther": false,
           "nameKey": "一種簡單的輝煌"
@@ -2472,8 +2661,8 @@
           "title": "哈拉全年無休",
           "artists": "陳珊妮 和 李端嫻",
           "videoId": "B-gN0f1NNbM",
-          "plays": 1601,
-          "playsText": "播放次數：1601",
+          "plays": 1603,
+          "playsText": "播放次數：1603",
           "duration": 208,
           "byOther": false,
           "nameKey": "哈拉全年無休"
@@ -2483,8 +2672,8 @@
           "title": "那感覺是微風",
           "artists": "陳珊妮 和 李端嫻",
           "videoId": "KwqsvqX4Pic",
-          "plays": 1345,
-          "playsText": "播放次數：1345",
+          "plays": 1348,
+          "playsText": "播放次數：1348",
           "duration": 208,
           "byOther": false,
           "nameKey": "那感覺是微風"
@@ -2505,8 +2694,8 @@
           "title": "黑妞馬子",
           "artists": "陳珊妮 和 李端嫻",
           "videoId": "moN9Dssl8s8",
-          "plays": 687,
-          "playsText": "播放次數：687",
+          "plays": 688,
+          "playsText": "播放次數：688",
           "duration": 193,
           "byOther": false,
           "nameKey": "黑妞馬子"
@@ -2699,8 +2888,8 @@
           "title": "驗傷[Live]",
           "artists": "",
           "videoId": "-e0Qd__HQ5Y",
-          "plays": 1123,
-          "playsText": "播放次數：1123",
+          "plays": 1124,
+          "playsText": "播放次數：1124",
           "duration": 183,
           "byOther": false,
           "nameKey": "驗傷#live"
@@ -2710,8 +2899,8 @@
           "title": "完美 [Live]",
           "artists": "",
           "videoId": "z4sHMcgfGyc",
-          "plays": 1542,
-          "playsText": "播放次數：1542",
+          "plays": 1543,
+          "playsText": "播放次數：1543",
           "duration": 246,
           "byOther": false,
           "nameKey": "完美#live"
@@ -2820,8 +3009,8 @@
           "title": "呻吟",
           "artists": "",
           "videoId": "dqmwBG9zBXY",
-          "plays": 2706,
-          "playsText": "播放次數：2706",
+          "plays": 2707,
+          "playsText": "播放次數：2707",
           "duration": 275,
           "byOther": false,
           "credits": {
@@ -2859,8 +3048,8 @@
           "title": "尼可拉斯 [Live]",
           "artists": "",
           "videoId": "pxEOBJjUHhY",
-          "plays": 1824,
-          "playsText": "播放次數：1824",
+          "plays": 1826,
+          "playsText": "播放次數：1826",
           "duration": 285,
           "byOther": false,
           "nameKey": "尼可拉斯#live"
@@ -2936,8 +3125,8 @@
           "title": "花樣年華 [Live]",
           "artists": "",
           "videoId": "XN5-2qUboG0",
-          "plays": 2060,
-          "playsText": "播放次數：2060",
+          "plays": 2062,
+          "playsText": "播放次數：2062",
           "duration": 247,
           "byOther": false,
           "nameKey": "花樣年華#live"
@@ -2947,8 +3136,8 @@
           "title": "不做夢 [Live]",
           "artists": "",
           "videoId": "YL3qzE0Bv-A",
-          "plays": 1181,
-          "playsText": "播放次數：1181",
+          "plays": 1183,
+          "playsText": "播放次數：1183",
           "duration": 304,
           "byOther": false,
           "nameKey": "不做夢#live"
@@ -3121,8 +3310,7 @@
             "music": "陳珊妮",
             "arranger": "DJ小四"
           },
-          "nameKey": "演歌",
-          "mv": "L4TZ322I7ow"
+          "nameKey": "演歌"
         },
         {
           "index": 5,
@@ -3242,8 +3430,8 @@
           "title": "雙陳記",
           "artists": "",
           "videoId": "RoUxbrQB-T4",
-          "plays": 1380,
-          "playsText": "播放次數：1380",
+          "plays": 1381,
+          "playsText": "播放次數：1381",
           "duration": 271,
           "byOther": false,
           "nameKey": "雙陳記"
@@ -3253,8 +3441,8 @@
           "title": "A Tale of Two Cities (English Version)",
           "artists": "",
           "videoId": "kGvm5ZRtT3s",
-          "plays": 293,
-          "playsText": "播放次數：293",
+          "plays": 294,
+          "playsText": "播放次數：294",
           "duration": 271,
           "byOther": false,
           "nameKey": "ataleoftwocities"
@@ -3380,8 +3568,8 @@
           "title": "Nighttide Allure",
           "artists": "",
           "videoId": "gMVRDSoEqSM",
-          "plays": 8839,
-          "playsText": "播放次數：8839",
+          "plays": 8841,
+          "playsText": "播放次數：8841",
           "duration": 197,
           "byOther": false,
           "nameKey": "nighttideallure"
@@ -3447,8 +3635,8 @@
           "title": "OK",
           "artists": "",
           "videoId": "2abxH4gunhk",
-          "plays": 2618,
-          "playsText": "播放次數：2618",
+          "plays": 2621,
+          "playsText": "播放次數：2621",
           "duration": 247,
           "byOther": false,
           "credits": {
@@ -3463,8 +3651,8 @@
           "title": "青春",
           "artists": "",
           "videoId": "zKrLida0xcY",
-          "plays": 4751,
-          "playsText": "播放次數：4751",
+          "plays": 4762,
+          "playsText": "播放次數：4762",
           "duration": 211,
           "byOther": false,
           "credits": {
@@ -3479,8 +3667,8 @@
           "title": "B級動作片",
           "artists": "",
           "videoId": "BVIycT6F3pw",
-          "plays": 1598,
-          "playsText": "播放次數：1598",
+          "plays": 1599,
+          "playsText": "播放次數：1599",
           "duration": 264,
           "byOther": false,
           "credits": {
@@ -3522,8 +3710,8 @@
           "title": "晚安曲",
           "artists": "",
           "videoId": "1nzRX0RJFZc",
-          "plays": 1312,
-          "playsText": "播放次數：1312",
+          "plays": 1313,
+          "playsText": "播放次數：1313",
           "duration": 213,
           "byOther": false,
           "credits": {
@@ -3538,8 +3726,8 @@
           "title": "美好人生",
           "artists": "",
           "videoId": "px9hrdkQpz8",
-          "plays": 1292,
-          "playsText": "播放次數：1292",
+          "plays": 1294,
+          "playsText": "播放次數：1294",
           "duration": 225,
           "byOther": false,
           "credits": {
@@ -3554,8 +3742,8 @@
           "title": "Bitte",
           "artists": "",
           "videoId": "lL7CA7-Ml4k",
-          "plays": 765,
-          "playsText": "播放次數：765",
+          "plays": 766,
+          "playsText": "播放次數：766",
           "duration": 263,
           "byOther": false,
           "credits": {
@@ -3570,8 +3758,8 @@
           "title": "愛情",
           "artists": "",
           "videoId": "1LjcaC7Clvg",
-          "plays": 1465,
-          "playsText": "播放次數：1465",
+          "plays": 1467,
+          "playsText": "播放次數：1467",
           "duration": 222,
           "byOther": false,
           "credits": {
@@ -3595,8 +3783,7 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "雙人體操",
-          "mv": "2QB8Zuk5f0Y"
+          "nameKey": "雙人體操"
         }
       ],
       "releaseDate": "2011-06-17",
@@ -3677,8 +3864,7 @@
           "credits": {
             "lyrics": "焦安溥"
           },
-          "nameKey": "dearyouandtheboy",
-          "mv": "jNz8AisYa08"
+          "nameKey": "dearyouandtheboy"
         },
         {
           "index": 2,
@@ -3762,8 +3948,8 @@
           "title": "破碎的人",
           "artists": "",
           "videoId": "eRsElHY5zSk",
-          "plays": 942,
-          "playsText": "播放次數：942",
+          "plays": 944,
+          "playsText": "播放次數：944",
           "duration": 240,
           "byOther": false,
           "credits": {
@@ -3794,8 +3980,8 @@
           "title": "出軌",
           "artists": "",
           "videoId": "rAhsvE4G2ug",
-          "plays": 864,
-          "playsText": "播放次數：864",
+          "plays": 868,
+          "playsText": "播放次數：868",
           "duration": 214,
           "byOther": false,
           "credits": {
@@ -3826,8 +4012,8 @@
           "title": "禮物",
           "artists": "",
           "videoId": "SiC90WmJtPk",
-          "plays": 480,
-          "playsText": "播放次數：480",
+          "plays": 484,
+          "playsText": "播放次數：484",
           "duration": 238,
           "byOther": false,
           "credits": {
@@ -3842,8 +4028,8 @@
           "title": "無常",
           "artists": "",
           "videoId": "D6kByf09O3c",
-          "plays": 591,
-          "playsText": "播放次數：591",
+          "plays": 592,
+          "playsText": "播放次數：592",
           "duration": 280,
           "byOther": false,
           "credits": {
@@ -3867,8 +4053,7 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "啟示路",
-          "mv": "vb4BuBIu1C8"
+          "nameKey": "啟示路"
         },
         {
           "index": 11,
@@ -3882,8 +4067,7 @@
           "nameKey": "dearyouandtheboy",
           "credits": {
             "lyrics": "焦安溥"
-          },
-          "mv": "jNz8AisYa08"
+          }
         },
         {
           "index": 12,
@@ -3929,8 +4113,7 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "漫天紛飛的銀杏森林",
-          "mv": "vWad0JhUQhE"
+          "nameKey": "漫天紛飛的銀杏森林"
         },
         {
           "index": 2,
@@ -3962,8 +4145,7 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "那日下午",
-          "mv": "k5Rdnh1fpww"
+          "nameKey": "那日下午"
         },
         {
           "index": 4,
@@ -3979,8 +4161,7 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "我不是在悲傷的想念你",
-          "mv": "wuMCX2_sTVI"
+          "nameKey": "我不是在悲傷的想念你"
         },
         {
           "index": 5,
@@ -4087,8 +4268,7 @@
           "playsText": "播放次數：247萬",
           "duration": 261,
           "byOther": false,
-          "nameKey": "如同悲傷被下載了兩次",
-          "mv": "CssPPy8pXJI"
+          "nameKey": "如同悲傷被下載了兩次"
         }
       ],
       "releaseDate": "2015-09-21",
@@ -4121,8 +4301,7 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "獨處",
-          "mv": "vqV9fz-G9FU"
+          "nameKey": "獨處"
         },
         {
           "index": 2,
@@ -4138,8 +4317,7 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "他是末日預言中的宇宙碎片",
-          "mv": "6LCCM5b8szI"
+          "nameKey": "他是末日預言中的宇宙碎片"
         },
         {
           "index": 3,
@@ -4187,8 +4365,7 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "亂碼",
-          "mv": "GZVH9l1eLOU"
+          "nameKey": "亂碼"
         },
         {
           "index": 6,
@@ -4204,16 +4381,15 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "戰神卡爾迪亞",
-          "mv": "S3CKKge4dfc"
+          "nameKey": "戰神卡爾迪亞"
         },
         {
           "index": 7,
           "title": "靜電",
           "artists": "",
           "videoId": "ryRQrtlhfE8",
-          "plays": 1270,
-          "playsText": "播放次數：1270",
+          "plays": 1271,
+          "playsText": "播放次數：1271",
           "duration": 249,
           "byOther": false,
           "credits": {
@@ -4269,8 +4445,7 @@
             "music": "陳珊妮",
             "arranger": "陳珊妮"
           },
-          "nameKey": "三天兩夜",
-          "mv": "Au06pAvy9Tk"
+          "nameKey": "三天兩夜"
         },
         {
           "index": 11,
@@ -4368,8 +4543,7 @@
             "music": "陳珊妮",
             "arranger": "米奇林"
           },
-          "nameKey": "恐怖谷",
-          "mv": "_nIxvfOaIeI"
+          "nameKey": "恐怖谷"
         }
       ],
       "releaseDate": "2019-01-01",
@@ -4421,8 +4595,8 @@
           "title": "惡靈武士",
           "artists": "陳珊妮",
           "videoId": "-QR3LZABx_E",
-          "plays": 4380,
-          "playsText": "播放次數：4380",
+          "plays": 4381,
+          "playsText": "播放次數：4381",
           "duration": 82,
           "byOther": false,
           "credits": {
@@ -4462,8 +4636,7 @@
             "music": "陳珊妮",
             "arranger": "米奇林"
           },
-          "nameKey": "恐怖谷",
-          "mv": "_nIxvfOaIeI"
+          "nameKey": "恐怖谷"
         },
         {
           "index": 4,
@@ -4486,8 +4659,8 @@
           "title": "構圖",
           "artists": "陳珊妮",
           "videoId": "6b5M1f__1i4",
-          "plays": 4567,
-          "playsText": "播放次數：4567",
+          "plays": 4568,
+          "playsText": "播放次數：4568",
           "duration": 124,
           "byOther": false,
           "credits": {
@@ -4502,8 +4675,8 @@
           "title": "35",
           "artists": "陳珊妮 和 柯震東",
           "videoId": "jgu3uDgz5B8",
-          "plays": 4924,
-          "playsText": "播放次數：4924",
+          "plays": 4925,
+          "playsText": "播放次數：4925",
           "duration": 201,
           "byOther": false,
           "credits": {
@@ -4518,8 +4691,8 @@
           "title": "漢娜怎麼說",
           "artists": "陳珊妮",
           "videoId": "g9ut6Dlk-aQ",
-          "plays": 6116,
-          "playsText": "播放次數：6116",
+          "plays": 6120,
+          "playsText": "播放次數：6120",
           "duration": 254,
           "byOther": false,
           "credits": {
@@ -4658,8 +4831,7 @@
           "playsText": "播放次數：10萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "痛癮painaddict",
-          "mv": "EMqzXb8B66A"
+          "nameKey": "痛癮painaddict"
         },
         {
           "index": 3,
@@ -4670,8 +4842,7 @@
           "playsText": "播放次數：27萬",
           "duration": 205,
           "byOther": false,
-          "nameKey": "他說shesaid",
-          "mv": "Lw6mfEdRzT8"
+          "nameKey": "他說shesaid"
         },
         {
           "index": 4,
@@ -4693,8 +4864,7 @@
           "playsText": "播放次數：2.9萬",
           "duration": 252,
           "byOther": false,
-          "nameKey": "訪客theguest",
-          "mv": "fA7AlpSnhcI"
+          "nameKey": "訪客theguest"
         },
         {
           "index": 6,
@@ -4705,8 +4875,7 @@
           "playsText": "播放次數：2.1萬",
           "duration": 215,
           "byOther": false,
-          "nameKey": "確幸bliss",
-          "mv": "4l3DILm1egI"
+          "nameKey": "確幸bliss"
         },
         {
           "index": 7,
@@ -4717,16 +4886,15 @@
           "playsText": "播放次數：8.1萬",
           "duration": 204,
           "byOther": false,
-          "nameKey": "罪美beautifulsin",
-          "mv": "CfkombfHmNA"
+          "nameKey": "罪美beautifulsin"
         },
         {
           "index": 8,
           "title": "少女 Girl",
           "artists": "",
           "videoId": "HBjYd8_nh30",
-          "plays": 8792,
-          "playsText": "播放次數：8792",
+          "plays": 8799,
+          "playsText": "播放次數：8799",
           "duration": 181,
           "byOther": false,
           "nameKey": "少女girl"
@@ -4736,8 +4904,8 @@
           "title": "少年 Boy",
           "artists": "",
           "videoId": "KJ7-CtgKi14",
-          "plays": 9000,
-          "playsText": "播放次數：9000",
+          "plays": 9002,
+          "playsText": "播放次數：9002",
           "duration": 229,
           "byOther": false,
           "nameKey": "少年boy"
@@ -4751,8 +4919,7 @@
           "playsText": "播放次數：3.2萬",
           "duration": 222,
           "byOther": false,
-          "nameKey": "理想ideal",
-          "mv": "nrvc6sDEtlU"
+          "nameKey": "理想ideal"
         }
       ],
       "releaseDate": "2022-05-20",
@@ -4780,8 +4947,7 @@
           "playsText": "播放次數：27萬",
           "duration": 205,
           "byOther": false,
-          "nameKey": "他說shesaid",
-          "mv": "Lw6mfEdRzT8"
+          "nameKey": "他說shesaid"
         }
       ],
       "releaseDate": null,
@@ -4865,8 +5031,7 @@
           "playsText": "播放次數：8.1萬",
           "duration": 204,
           "byOther": false,
-          "nameKey": "罪美beautifulsin",
-          "mv": "CfkombfHmNA"
+          "nameKey": "罪美beautifulsin"
         }
       ],
       "releaseDate": null,
@@ -4894,8 +5059,7 @@
           "playsText": "播放次數：14萬",
           "duration": 258,
           "byOther": false,
-          "nameKey": "教我如何做你的愛人",
-          "mv": "nWTuZIRU80A"
+          "nameKey": "教我如何做你的愛人"
         }
       ],
       "releaseDate": "2023-01-01",
@@ -4958,8 +5122,8 @@
           "title": "電車上的情侶",
           "artists": "",
           "videoId": "4aJj245J9Ds",
-          "plays": 6551,
-          "playsText": "播放次數：6551",
+          "plays": 6554,
+          "playsText": "播放次數：6554",
           "duration": 284,
           "byOther": false,
           "credits": {
@@ -4974,8 +5138,8 @@
           "title": "咖啡因",
           "artists": "",
           "videoId": "yN3xOvQgid0",
-          "plays": 3860,
-          "playsText": "播放次數：3860",
+          "plays": 3863,
+          "playsText": "播放次數：3863",
           "duration": 195,
           "byOther": false,
           "credits": {
@@ -4990,8 +5154,8 @@
           "title": "我從來不是幽默的女生",
           "artists": "",
           "videoId": "E2mT0QIOzH4",
-          "plays": 3647,
-          "playsText": "播放次數：3647",
+          "plays": 3649,
+          "playsText": "播放次數：3649",
           "duration": 163,
           "byOther": false,
           "credits": {
@@ -5006,8 +5170,8 @@
           "title": "愛情",
           "artists": "",
           "videoId": "E4s43QQTwAs",
-          "plays": 4832,
-          "playsText": "播放次數：4832",
+          "plays": 4835,
+          "playsText": "播放次數：4835",
           "duration": 219,
           "byOther": false,
           "credits": {
@@ -5022,8 +5186,8 @@
           "title": "夏雪",
           "artists": "",
           "videoId": "bLgBtMVDvo8",
-          "plays": 3059,
-          "playsText": "播放次數：3059",
+          "plays": 3061,
+          "playsText": "播放次數：3061",
           "duration": 264,
           "byOther": false,
           "credits": {
@@ -5038,8 +5202,8 @@
           "title": "情歌",
           "artists": "",
           "videoId": "fZ6SC9fSP9A",
-          "plays": 5353,
-          "playsText": "播放次數：5353",
+          "plays": 5369,
+          "playsText": "播放次數：5369",
           "duration": 330,
           "byOther": false,
           "credits": {
@@ -5055,8 +5219,8 @@
           "title": "破碎的人",
           "artists": "",
           "videoId": "YSiS2V4o1W8",
-          "plays": 2930,
-          "playsText": "播放次數：2930",
+          "plays": 2932,
+          "playsText": "播放次數：2932",
           "duration": 261,
           "byOther": false,
           "credits": {
@@ -5071,8 +5235,8 @@
           "title": "沒用的傘",
           "artists": "",
           "videoId": "WKEHAszERBI",
-          "plays": 5446,
-          "playsText": "播放次數：5446",
+          "plays": 5450,
+          "playsText": "播放次數：5450",
           "duration": 257,
           "byOther": false,
           "nameKey": "沒用的傘"
@@ -5082,8 +5246,8 @@
           "title": "幻覺",
           "artists": "",
           "videoId": "evIl24TTIhE",
-          "plays": 4880,
-          "playsText": "播放次數：4880",
+          "plays": 4884,
+          "playsText": "播放次數：4884",
           "duration": 291,
           "byOther": false,
           "credits": {
@@ -5099,8 +5263,8 @@
           "title": "野火",
           "artists": "",
           "videoId": "zAHwXV6aMQk",
-          "plays": 2276,
-          "playsText": "播放次數：2276",
+          "plays": 2278,
+          "playsText": "播放次數：2278",
           "duration": 226,
           "byOther": false,
           "credits": {
@@ -5115,8 +5279,8 @@
           "title": "天冷怕黑",
           "artists": "",
           "videoId": "h-_9_OHqcks",
-          "plays": 6811,
-          "playsText": "播放次數：6811",
+          "plays": 6814,
+          "playsText": "播放次數：6814",
           "duration": 270,
           "byOther": false,
           "credits": {
@@ -5130,8 +5294,8 @@
           "title": "茫然",
           "artists": "",
           "videoId": "AeGOkLG3yCE",
-          "plays": 2396,
-          "playsText": "播放次數：2396",
+          "plays": 2407,
+          "playsText": "播放次數：2407",
           "duration": 290,
           "byOther": false,
           "nameKey": "茫然"
@@ -5141,8 +5305,8 @@
           "title": "四季",
           "artists": "",
           "videoId": "tgiTXws9U-8",
-          "plays": 3205,
-          "playsText": "播放次數：3205",
+          "plays": 3207,
+          "playsText": "播放次數：3207",
           "duration": 284,
           "byOther": false,
           "credits": {
@@ -5157,8 +5321,8 @@
           "title": "抽煙",
           "artists": "",
           "videoId": "4DE0O2TTru0",
-          "plays": 2068,
-          "playsText": "播放次數：2068",
+          "plays": 2069,
+          "playsText": "播放次數：2069",
           "duration": 291,
           "byOther": false,
           "credits": {
@@ -5173,8 +5337,8 @@
           "title": "小鳥探戈",
           "artists": "",
           "videoId": "nRnC_K9WE3g",
-          "plays": 1977,
-          "playsText": "播放次數：1977",
+          "plays": 1978,
+          "playsText": "播放次數：1978",
           "duration": 285,
           "byOther": false,
           "nameKey": "小鳥探戈"
@@ -5184,8 +5348,8 @@
           "title": "肥胖者的悲哀",
           "artists": "",
           "videoId": "zEf9XhPmLr0",
-          "plays": 1765,
-          "playsText": "播放次數：1765",
+          "plays": 1767,
+          "playsText": "播放次數：1767",
           "duration": 216,
           "byOther": false,
           "credits": {
@@ -5200,8 +5364,8 @@
           "title": "一個只有屁股的人",
           "artists": "",
           "videoId": "1dX6Wc4_EfI",
-          "plays": 1807,
-          "playsText": "播放次數：1807",
+          "plays": 1809,
+          "playsText": "播放次數：1809",
           "duration": 291,
           "byOther": false,
           "credits": {
@@ -5215,8 +5379,8 @@
           "title": "乘噴射機離去",
           "artists": "",
           "videoId": "5IQrrNNzsc0",
-          "plays": 2275,
-          "playsText": "播放次數：2275",
+          "plays": 2280,
+          "playsText": "播放次數：2280",
           "duration": 599,
           "byOther": false,
           "credits": {
@@ -5248,8 +5412,8 @@
           "title": "還有人在",
           "artists": "",
           "videoId": "5-msyIQWOsw",
-          "plays": 4850,
-          "playsText": "播放次數：4850",
+          "plays": 4865,
+          "playsText": "播放次數：4865",
           "duration": 294,
           "byOther": false,
           "nameKey": "還有人在"

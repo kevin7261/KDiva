@@ -2,7 +2,7 @@
   "slug": "sunset-rollercoaster",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T07:16:51.201Z",
+  "fetchedAt": "2026-09-18T22:26:30.582Z",
   "artist": {
     "channelId": "UCuuF4aW1yEQqlTwu8u5zLYw",
     "name": "落日飛車",
@@ -10,6 +10,10 @@
     "subscribers": 188000,
     "monthlyAudience": 1120000,
     "videos": [
+      {
+        "title": "Believe U",
+        "videoId": "nXSGLcdlc24"
+      },
       {
         "title": "My Jinji",
         "videoId": "5xwFCtDc0fI"
@@ -27,10 +31,6 @@
         "videoId": "zPoId89NOM4"
       },
       {
-        "title": "Candlelight (合作演出：吳赫)",
-        "videoId": "kb0whVogBkI"
-      },
-      {
         "title": "Sunset Rollercoaster - Vanilla Villa (Official Video), 2019",
         "videoId": "2DcCAC2m_CU"
       },
@@ -39,8 +39,8 @@
         "videoId": "wNp7WJusiHQ"
       },
       {
-        "title": "Coffee's on Me",
-        "videoId": "vHIVzPtQbBk"
+        "title": "Candlelight (合作演出：吳赫)",
+        "videoId": "kb0whVogBkI"
       },
       {
         "title": "Under the Skin",
@@ -55,6 +55,10 @@
         "videoId": "6tG3B8Cewm4"
       },
       {
+        "title": "Coffee's on Me",
+        "videoId": "vHIVzPtQbBk"
+      },
+      {
         "title": "金牛座的牢騷",
         "videoId": "5AK_ysNVkco"
       },
@@ -63,20 +67,20 @@
         "videoId": "yqy5aQjFxOQ"
       },
       {
-        "title": "Cool of Lullaby",
-        "videoId": "3BuBiTikkJk"
-      },
-      {
         "title": "雷頓狗 Layton Wu - Miss You / Paul Cherry - Between Me and Chicago (Official Video), 2022",
         "videoId": "ThUaWsFrKP8"
       },
       {
-        "title": "Overlove",
-        "videoId": "GnJOxq0flo4"
-      },
-      {
         "title": "Sunset Rollercoaster - Little Balcony / Phum Viphurit - Little Balcony (Official Video), 2022",
         "videoId": "fENijKaEi60"
+      },
+      {
+        "title": "Cool of Lullaby",
+        "videoId": "3BuBiTikkJk"
+      },
+      {
+        "title": "Overlove",
+        "videoId": "GnJOxq0flo4"
       },
       {
         "title": "Sunset Rollercoaster - Levia feat. Rhydian Vaughan 鳳小岳, 2023 ｜「黑的教育」電影主題曲",
@@ -98,6 +102,9 @@
         "title": "qir+ bad  車飛日落",
         "videoId": "MCimzZTXNx0"
       }
+    ],
+    "songListIds": [
+      "VLOLAK5uy_nPUn8PXYs72LEcOddf38BJ9cIiZTPzCXE"
     ],
     "avatar": "https://yt3.googleusercontent.com/pzPlMFnrJqGLM3i6-QHkx1w7XwlNWpi2HqlImg_deit9Yhd6QY-7-marqLUTs4M9SXydjLdcig4=s800-c-k-c0x00ffffff-no-rj"
   },
@@ -138,8 +145,8 @@
           "title": "Hogi Hogi LaLa Jo",
           "artists": "",
           "videoId": "uOaF--qvyqs",
-          "plays": 88000,
-          "playsText": "播放次數：8.8萬",
+          "plays": 89000,
+          "playsText": "播放次數：8.9萬",
           "duration": 186,
           "byOther": false,
           "nameKey": "hogihogilalajo"
@@ -280,8 +287,7 @@
           "playsText": "播放次數：2337萬",
           "duration": 401,
           "byOther": false,
-          "nameKey": "myjinji",
-          "mv": "5xwFCtDc0fI"
+          "nameKey": "myjinji"
         },
         {
           "index": 3,
@@ -370,8 +376,7 @@
           "playsText": "播放次數：44萬",
           "duration": 323,
           "byOther": false,
-          "nameKey": "cooloflullaby",
-          "mv": "3BuBiTikkJk"
+          "nameKey": "cooloflullaby"
         },
         {
           "index": 4,
@@ -404,8 +409,7 @@
           "playsText": "播放次數：128萬",
           "duration": 160,
           "byOther": false,
-          "nameKey": "oriental",
-          "mv": "Dxq0IqhT3XI"
+          "nameKey": "oriental"
         },
         {
           "index": 7,
@@ -416,8 +420,7 @@
           "playsText": "播放次數：227萬",
           "duration": 282,
           "byOther": false,
-          "nameKey": "summumbonum",
-          "mv": "wNp7WJusiHQ"
+          "nameKey": "summumbonum"
         },
         {
           "index": 8,
@@ -547,8 +550,7 @@
           "playsText": "播放次數：6.3萬",
           "duration": 177,
           "byOther": false,
-          "nameKey": "villa",
-          "mv": "9Vx4WDX2Dh8"
+          "nameKey": "villa"
         }
       ],
       "releaseDate": null,
@@ -576,8 +578,7 @@
           "playsText": "播放次數：84萬",
           "duration": 228,
           "byOther": false,
-          "nameKey": "undertheskin",
-          "mv": "BeDWWYpD5M4"
+          "nameKey": "undertheskin"
         }
       ],
       "releaseDate": "2020-01-01",
@@ -601,12 +602,11 @@
           "title": "Candlelight (合作演出：吳赫)",
           "artists": "",
           "videoId": "kb0whVogBkI",
-          "plays": 5330000,
-          "playsText": "播放次數：533萬",
+          "plays": 5340000,
+          "playsText": "播放次數：534萬",
           "duration": 198,
           "byOther": false,
-          "nameKey": "candlelight",
-          "mv": "kb0whVogBkI"
+          "nameKey": "candlelight"
         }
       ],
       "releaseDate": null,
@@ -663,8 +663,7 @@
           "playsText": "播放次數：186萬",
           "duration": 223,
           "byOther": false,
-          "nameKey": "coffeesonme",
-          "mv": "vHIVzPtQbBk"
+          "nameKey": "coffeesonme"
         }
       ],
       "releaseDate": "2021-01-01",
@@ -692,8 +691,7 @@
           "playsText": "播放次數：357萬",
           "duration": 228,
           "byOther": false,
-          "nameKey": "lettherebelightagain",
-          "mv": "03uDc9m4NcQ"
+          "nameKey": "lettherebelightagain"
         }
       ],
       "releaseDate": "2021-01-01",
@@ -732,6 +730,62 @@
       "nameKey": "小薇"
     },
     {
+      "browseId": "MPREb_smFmYbfeL4a",
+      "playlistId": "OLAK5uy_kashkm2N1dena-XEnln0nvNQCv1nl_s_w",
+      "title": "小薇",
+      "albumArtist": "落日飛車",
+      "type": "Single",
+      "year": 2021,
+      "thumbnail": "https://yt3.googleusercontent.com/gZmpglgoX-cdMkAd2LM2tn6FMmYFmfLi2OHEeMrutt0ct9Pu8v1MUAPs1vhRqPnap1HwSdk-V_qlc-s=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "小薇",
+          "artists": "",
+          "videoId": "hvs11gOcT9Y",
+          "plays": 780000,
+          "playsText": "播放次數：78萬",
+          "duration": 260,
+          "byOther": false,
+          "nameKey": "小薇"
+        }
+      ],
+      "releaseDate": "2021-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "table",
+      "wikiTitle": "落日飛車",
+      "wikiKind": "single",
+      "nameKey": "小薇"
+    },
+    {
+      "browseId": "MPREb_n6vP5onFoUl",
+      "playlistId": "OLAK5uy_k32s6kXOPbN_4z7yfOs4AaSfG8wIDMBww",
+      "title": "忘情水",
+      "albumArtist": "落日飞车",
+      "type": "Single",
+      "year": 2021,
+      "thumbnail": "https://yt3.googleusercontent.com/yt31xb6garqJd9r0OVXkFB1yJiPLSYPhwbgEY8atzRRpS_bBXW4e1j0QPRSFsE6fjn8cHPYMMC6UTDjRlw=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "忘情水",
+          "artists": "",
+          "videoId": "7ssLwfW7sd4",
+          "plays": 310000,
+          "playsText": "播放次數：31萬",
+          "duration": 266,
+          "byOther": false,
+          "nameKey": "忘情水"
+        }
+      ],
+      "releaseDate": "2021-01-01",
+      "releaseDatePrecision": "year",
+      "releaseDateSource": "table",
+      "wikiTitle": "落日飛車",
+      "wikiKind": "single",
+      "nameKey": "忘情水"
+    },
+    {
       "browseId": "MPREb_4sRiOZ5Ge9P",
       "playlistId": "OLAK5uy_m5Z3HYAXfq4QCvrnLNhpzx59o06aKstl4",
       "title": "冷空气",
@@ -760,6 +814,34 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "冷空氣"
+    },
+    {
+      "browseId": "MPREb_5NgAe5YqVUo",
+      "playlistId": "OLAK5uy_nZ1X61qutRO287_bFoHnoTTlRCwXUa1vA",
+      "title": "滾石40 滾石撞樂隊 40團拚經典 - 愛錯",
+      "albumArtist": "落日飛車 Sunset Rollercoaster",
+      "type": "Single",
+      "year": 2021,
+      "thumbnail": "https://yt3.googleusercontent.com/7snlDLpnytvR1Zh1xILIl9OGzCwm-9KhB_GUtHOXYTc-IS5V6Vmd6s4KiB-f8epAFP9hqz_MjIZmHOFuNA=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "愛錯",
+          "artists": "",
+          "videoId": "1Qi3tO6wpb8",
+          "plays": 740000,
+          "playsText": "播放次數：74萬",
+          "duration": 365,
+          "byOther": false,
+          "nameKey": "愛錯"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "滾石40滾石撞樂隊40團拚經典"
     },
     {
       "browseId": "MPREb_r4CsxSbTL3j",
@@ -818,8 +900,7 @@
           "playsText": "播放次數：82萬",
           "duration": 207,
           "byOther": false,
-          "nameKey": "金牛座的牢騷",
-          "mv": "5AK_ysNVkco"
+          "nameKey": "金牛座的牢騷"
         }
       ],
       "releaseDate": "2022-01-01",
@@ -886,8 +967,7 @@
           "playsText": "播放次數：338萬",
           "duration": 222,
           "byOther": false,
-          "nameKey": "jellyfish",
-          "mv": "RLULD4LEN-I"
+          "nameKey": "jellyfish"
         },
         {
           "index": 2,
@@ -1103,8 +1183,7 @@
           "playsText": "播放次數：30萬",
           "duration": 238,
           "byOther": false,
-          "nameKey": "overlove",
-          "mv": "GnJOxq0flo4"
+          "nameKey": "overlove"
         },
         {
           "index": 3,
@@ -1115,8 +1194,7 @@
           "playsText": "播放次數：84萬",
           "duration": 228,
           "byOther": false,
-          "nameKey": "undertheskin",
-          "mv": "BeDWWYpD5M4"
+          "nameKey": "undertheskin"
         },
         {
           "index": 4,
@@ -1184,8 +1262,7 @@
           "playsText": "播放次數：533萬",
           "duration": 198,
           "byOther": false,
-          "nameKey": "candlelight",
-          "mv": "kb0whVogBkI"
+          "nameKey": "candlelight"
         }
       ],
       "releaseDate": null,
@@ -1248,8 +1325,8 @@
           "title": "Kite War (Live)",
           "artists": "",
           "videoId": "WYDbvO1KhlY",
-          "plays": 6812,
-          "playsText": "播放次數：6812",
+          "plays": 6824,
+          "playsText": "播放次數：6824",
           "duration": 345,
           "byOther": false,
           "nameKey": "kitewar#live"
@@ -1270,8 +1347,8 @@
           "title": "Young Man (Live)",
           "artists": "",
           "videoId": "3LLdvztT8aA",
-          "plays": 8956,
-          "playsText": "播放次數：8956",
+          "plays": 8966,
+          "playsText": "播放次數：8966",
           "duration": 364,
           "byOther": false,
           "nameKey": "youngman#live"
@@ -1349,8 +1426,8 @@
           "title": "Tokyo Inn (Live)",
           "artists": "",
           "videoId": "tlFIy3q1CRY",
-          "plays": 3849,
-          "playsText": "播放次數：3849",
+          "plays": 3856,
+          "playsText": "播放次數：3856",
           "duration": 204,
           "byOther": false,
           "nameKey": "tokyoinn#live"
@@ -1393,8 +1470,8 @@
           "title": "Glue (Live)",
           "artists": "",
           "videoId": "ikrlf4tAtzw",
-          "plays": 3645,
-          "playsText": "播放次數：3645",
+          "plays": 3652,
+          "playsText": "播放次數：3652",
           "duration": 269,
           "byOther": false,
           "nameKey": "glue#live"
@@ -1404,8 +1481,8 @@
           "title": "Y (Live)",
           "artists": "",
           "videoId": "CtO8W-o9oBo",
-          "plays": 4540,
-          "playsText": "播放次數：4540",
+          "plays": 4550,
+          "playsText": "播放次數：4550",
           "duration": 354,
           "byOther": false,
           "nameKey": "y#live"
@@ -1426,8 +1503,8 @@
           "title": "Antenna (Live)",
           "artists": "",
           "videoId": "buNatBQShr0",
-          "plays": 98000,
-          "playsText": "播放次數：9.8萬",
+          "plays": 99000,
+          "playsText": "播放次數：9.9萬",
           "duration": 206,
           "byOther": false,
           "nameKey": "antenna#live"
@@ -1471,8 +1548,8 @@
           "title": "Villa (Live)",
           "artists": "",
           "videoId": "GSddu2VeQqY",
-          "plays": 180000,
-          "playsText": "播放次數：18萬",
+          "plays": 190000,
+          "playsText": "播放次數：19萬",
           "duration": 245,
           "byOther": false,
           "nameKey": "villa#live"
@@ -1482,8 +1559,8 @@
           "title": "TOMBOY (Live)",
           "artists": "",
           "videoId": "buJYZA3w5Nw",
-          "plays": 4463,
-          "playsText": "播放次數：4463",
+          "plays": 4473,
+          "playsText": "播放次數：4473",
           "duration": 314,
           "byOther": false,
           "nameKey": "tomboy#live"
@@ -1493,8 +1570,8 @@
           "title": "Aaaannnnteeeeennnaaaaaa (Live)",
           "artists": "",
           "videoId": "mBM0l0mluDg",
-          "plays": 2163,
-          "playsText": "播放次數：2163",
+          "plays": 2167,
+          "playsText": "播放次數：2167",
           "duration": 487,
           "byOther": false,
           "nameKey": "aaaannnnteeeeennnaaaaaa#live"
@@ -1559,8 +1636,8 @@
           "title": "2F 年轻人 (Live)",
           "artists": "",
           "videoId": "Ac_EHvwvnEo",
-          "plays": 1540,
-          "playsText": "播放次數：1540",
+          "plays": 1542,
+          "playsText": "播放次數：1542",
           "duration": 167,
           "byOther": false,
           "titleZh": "2F 年輕人 (Live)",
