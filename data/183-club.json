@@ -2,7 +2,7 @@
   "slug": "183-club",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T00:38:06.143Z",
+  "fetchedAt": "2026-09-18T19:22:20.804Z",
   "artist": {
     "channelId": "UCRwfu77EOx73l4lp5cLNbMw",
     "name": "183club",
@@ -144,6 +144,11 @@
           "playsText": "播放次數：1.5萬",
           "duration": 243,
           "byOther": false,
+          "credits": {
+            "lyrics": "柯呈雄",
+            "music": "Skot Suyama",
+            "arranger": "Kenn C"
+          },
           "nameKey": "兩個人的西洋棋"
         },
         {
@@ -155,6 +160,10 @@
           "playsText": "播放次數：30萬",
           "duration": 244,
           "byOther": false,
+          "credits": {
+            "lyrics": "Jeong、Hoon、You、Sung Kyou、中文詞：嚴惟妮、柯呈雄",
+            "music": "Jeong、Hoon、You、Sung Kyou"
+          },
           "nameKey": "一把傘"
         },
         {
@@ -162,10 +171,15 @@
           "title": "欺騙",
           "artists": "",
           "videoId": "mvp24aS2XdA",
-          "plays": 2670,
-          "playsText": "播放次數：2670",
+          "plays": 2674,
+          "playsText": "播放次數：2674",
           "duration": 232,
           "byOther": false,
+          "credits": {
+            "lyrics": "柯呈雄",
+            "music": "Ty Lacy、Tony Bruno",
+            "arranger": "小安"
+          },
           "nameKey": "欺騙"
         },
         {
@@ -177,6 +191,11 @@
           "playsText": "播放次數：1萬",
           "duration": 228,
           "byOther": false,
+          "credits": {
+            "lyrics": "柯呈雄、楊立德",
+            "music": "Lars Quang、祝鏘博",
+            "arranger": "Lars Quang"
+          },
           "nameKey": "為你征服全世界"
         },
         {
@@ -188,6 +207,11 @@
           "playsText": "播放次數：3.7萬",
           "duration": 274,
           "byOther": false,
+          "credits": {
+            "lyrics": "Toro、柯呈雄",
+            "music": "Terry Lee",
+            "arranger": "Terry Lee"
+          },
           "nameKey": "紀念日"
         },
         {
@@ -199,6 +223,11 @@
           "playsText": "播放次數：3279",
           "duration": 253,
           "byOther": false,
+          "credits": {
+            "lyrics": "柯呈雄",
+            "music": "Lars Quang、祝鏘博",
+            "arranger": "林於賢"
+          },
           "nameKey": "夢裡"
         },
         {
@@ -210,6 +239,11 @@
           "playsText": "播放次數：28萬",
           "duration": 188,
           "byOther": false,
+          "credits": {
+            "lyrics": "柯呈雄",
+            "music": "呂紹淳",
+            "arranger": "呂紹淳、陳歆儒"
+          },
           "nameKey": "imsohot"
         },
         {
@@ -221,6 +255,11 @@
           "playsText": "播放次數：6.7萬",
           "duration": 247,
           "byOther": false,
+          "credits": {
+            "lyrics": "柯呈雄",
+            "music": "祝鏘博、Lars Quang",
+            "arranger": "呂紹淳、蔡庭貴"
+          },
           "nameKey": "愛情特賣"
         },
         {
@@ -232,6 +271,11 @@
           "playsText": "播放次數：33萬",
           "duration": 267,
           "byOther": false,
+          "credits": {
+            "lyrics": "祝鏘博、劉偉德",
+            "music": "祝鏘博、劉偉德",
+            "arranger": "Kenn C"
+          },
           "nameKey": "再一遍"
         },
         {
@@ -239,13 +283,23 @@
           "title": "Hero",
           "artists": "",
           "videoId": "INFX53lAQqo",
-          "plays": 3468,
-          "playsText": "播放次數：3468",
+          "plays": 3479,
+          "playsText": "播放次數：3479",
           "duration": 270,
           "byOther": false,
+          "credits": {
+            "lyrics": "柯呈雄",
+            "music": "新之助",
+            "arranger": "林於賢"
+          },
           "nameKey": "hero"
         }
       ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
       "nameKey": "183首張專輯"
     }
   ],
