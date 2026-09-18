@@ -1,0 +1,313 @@
+{
+  "slug": "sweet-john",
+  "fetchedAt": "2026-09-18T07:18:36.019Z",
+  "wiki": "甜約翰",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "Nice to Meet You Again",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2018-03-17",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-22",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [],
+      "cities": [
+        "臺灣 高雄",
+        "臺灣 臺北"
+      ],
+      "venues": [
+        "LIVE WAREHOUSE",
+        "Legacy Taipei"
+      ],
+      "shows": [
+        {
+          "date": "2018-03-17",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 高雄",
+          "venue": "LIVE WAREHOUSE"
+        },
+        {
+          "date": "2018-03-22",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北",
+          "venue": "Legacy Taipei"
+        }
+      ]
+    },
+    {
+      "name": "Middle of a Two-way Street",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2020-07-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2020-07-19",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "臺灣 高雄",
+        "臺灣 臺中",
+        "臺灣 臺北"
+      ],
+      "venues": [
+        "LIVE WAREHOUSE",
+        "Legacy Taichung",
+        "Legacy Taipei"
+      ],
+      "shows": [
+        {
+          "date": "2020-07-05",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 高雄",
+          "venue": "LIVE WAREHOUSE"
+        },
+        {
+          "date": "2020-07-12",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺中",
+          "venue": "Legacy Taichung"
+        },
+        {
+          "date": "2020-07-19",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北",
+          "venue": "Legacy Taipei"
+        }
+      ]
+    },
+    {
+      "name": "Search by a Kiss",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-04-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-04-22",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "臺灣 臺北",
+        "臺灣 高雄",
+        "臺灣 臺中"
+      ],
+      "venues": [
+        "Legacy Taipei",
+        "後臺Backstage Live",
+        "Legacy Taichung"
+      ],
+      "shows": [
+        {
+          "date": "2022-04-09",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北",
+          "venue": "Legacy Taipei"
+        },
+        {
+          "date": "2022-04-10",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 高雄",
+          "venue": "後臺Backstage Live"
+        },
+        {
+          "date": "2022-04-22",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺中",
+          "venue": "Legacy Taichung"
+        }
+      ]
+    },
+    {
+      "name": "Baila, Baila!",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2025-04-05",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-04-05",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "臺灣 臺北"
+      ],
+      "venues": [
+        "Legacy Taipei (與Toconoma共同演出)"
+      ],
+      "shows": [
+        {
+          "date": "2025-04-05",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北",
+          "venue": "Legacy Taipei (與Toconoma共同演出)"
+        }
+      ]
+    },
+    {
+      "name": "A Plus Tour",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-05-11",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-05-24",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "臺灣 高雄",
+        "臺灣 臺北",
+        "臺灣 臺中"
+      ],
+      "venues": [
+        "LIVE WAREHOUSE",
+        "野地方",
+        "Legacy Taichung"
+      ],
+      "shows": [
+        {
+          "date": "2025-05-11",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 高雄",
+          "venue": "LIVE WAREHOUSE"
+        },
+        {
+          "date": "2025-05-17",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北",
+          "venue": "野地方"
+        },
+        {
+          "date": "2025-05-24",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺中",
+          "venue": "Legacy Taichung"
+        }
+      ]
+    },
+    {
+      "name": "GOOD AFTERNIGHT",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2025-12-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-04-04",
+        "precision": "day"
+      },
+      "showCount": 7,
+      "regions": [],
+      "cities": [
+        "臺灣 臺北",
+        "香港",
+        "臺灣 臺中",
+        "臺灣 高雄",
+        "中國大陸 上海",
+        "中國大陸 杭州",
+        "中國大陸 成都"
+      ],
+      "venues": [
+        "Legacy TERA",
+        "麥花臣場館",
+        "Legacy Taichung",
+        "後臺 Backstage Live",
+        "蜚聲上海",
+        "LiveShop Uni由你現場",
+        "CH8冇獨空間（完美店）"
+      ],
+      "shows": [
+        {
+          "date": "2025-12-06",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺北",
+          "venue": "Legacy TERA"
+        },
+        {
+          "date": "2025-12-24",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "麥花臣場館",
+          "lat": 22.318,
+          "lon": 114.172,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-01-10",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 臺中",
+          "venue": "Legacy Taichung"
+        },
+        {
+          "date": "2026-01-24",
+          "precision": "day",
+          "region": "",
+          "city": "臺灣 高雄",
+          "venue": "後臺 Backstage Live"
+        },
+        {
+          "date": "2026-03-20",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 上海",
+          "venue": "蜚聲上海"
+        },
+        {
+          "date": "2026-03-21",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 杭州",
+          "venue": "LiveShop Uni由你現場"
+        },
+        {
+          "date": "2026-04-04",
+          "precision": "day",
+          "region": "",
+          "city": "中國大陸 成都",
+          "venue": "CH8冇獨空間（完美店）"
+        }
+      ]
+    }
+  ]
+}
