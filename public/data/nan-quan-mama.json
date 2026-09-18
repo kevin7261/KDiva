@@ -2,21 +2,21 @@
   "slug": "nan-quan-mama",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T00:36:22.214Z",
+  "fetchedAt": "2026-09-18T22:09:43.391Z",
   "artist": {
     "channelId": "UCVem-YjIgnJPXZtBknopxog",
     "name": "南拳媽媽",
     "thumbnail": "https://lh3.googleusercontent.com/sn6QRensHqAb4UH8WOeSIUrVZIUPapFoIgA46tQIhBt9E7LKubvkxeMKznulT4lb7vbo5a-05XJ7YI4P=w2880-h1200-p-l90-rj",
     "subscribers": 17900,
-    "monthlyAudience": 246000,
+    "monthlyAudience": 239000,
     "videos": [
-      {
-        "title": "我回來了",
-        "videoId": "yIMY0ITy_2o"
-      },
       {
         "title": "心型圈 (伴奏)",
         "videoId": "j5L6YsWllqA"
+      },
+      {
+        "title": "我回來了",
+        "videoId": "yIMY0ITy_2o"
       },
       {
         "title": "你的步頻",
@@ -26,6 +26,9 @@
         "title": "明朝之前",
         "videoId": "d_S_XAjeMsE"
       }
+    ],
+    "songListIds": [
+      "VLOLAK5uy_kNvgxAzGKJysciLEuvAdCfE8wrT6D37WY"
     ],
     "avatar": "https://yt3.googleusercontent.com/8-FFc3MY3Xy_PwvEox4seY15CAb7KYXmEWdGKC13XACLbJeSz73Zrx-BGUFRVlPQFB6JACfyiH0=s800-c-k-c0x00ffffff-no-rj"
   },
@@ -248,8 +251,8 @@
           "title": "橘子汽水",
           "artists": "",
           "videoId": "m_DWcnWV_qU",
-          "plays": 12160000,
-          "playsText": "播放次數：1216萬",
+          "plays": 12170000,
+          "playsText": "播放次數：1217萬",
           "duration": 213,
           "byOther": false,
           "nameKey": "橘子汽水"
@@ -963,8 +966,8 @@
           "title": "宅男的夏天",
           "artists": "",
           "videoId": "t3ZIEfDTy_E",
-          "plays": 5126,
-          "playsText": "播放次數：5126",
+          "plays": 5135,
+          "playsText": "播放次數：5135",
           "duration": 209,
           "byOther": false,
           "nameKey": "宅男的夏天"
@@ -1055,6 +1058,37 @@
       "nameKey": "決鬥巴哈"
     },
     {
+      "browseId": "MPREb_YCt3HLROu7t",
+      "playlistId": "OLAK5uy_mBiZZ0Y7duJs3KMMLUGAAaEdb4c8jiESI",
+      "title": "一瞥餘光",
+      "albumArtist": "南拳媽媽",
+      "type": "Single",
+      "year": 2019,
+      "thumbnail": "https://yt3.googleusercontent.com/lhkDVt79UZcrlV8MniZf5tFC7QnISSSkSz8Qj8XIiPvli8u0alJyyaFEcLyqkuRtS0rs8KxghVZRBJ5q=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "一瞥餘光",
+          "artists": "",
+          "videoId": "bRkOsy65G-4",
+          "plays": 1476,
+          "playsText": "播放次數：1476",
+          "duration": 237,
+          "byOther": false,
+          "credits": {
+            "music": "單曲"
+          },
+          "nameKey": "一瞥餘光"
+        }
+      ],
+      "releaseDate": "2019-05-13",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "南拳媽媽",
+      "wikiKind": "single",
+      "nameKey": "一瞥餘光"
+    },
+    {
       "browseId": "MPREb_DO4Il7z9ItY",
       "playlistId": "OLAK5uy_matBVxlKp81bTB3tecjoO9BVKhlop4gP0",
       "title": "聖誕夜的雪",
@@ -1113,8 +1147,8 @@
           "title": "不是不懂爱",
           "artists": "",
           "videoId": "4IoX5iSGKDA",
-          "plays": 6842,
-          "playsText": "播放次數：6842",
+          "plays": 6846,
+          "playsText": "播放次數：6846",
           "duration": 204,
           "byOther": false,
           "titleZh": "不是不懂愛",
@@ -1128,6 +1162,51 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "不是不懂愛"
+    },
+    {
+      "browseId": "MPREb_qMyWmx3xEIk",
+      "playlistId": "OLAK5uy_kDLnQAvvl7zlHsg2o7qVfiQgq6-PiK5QU",
+      "title": "深深",
+      "albumArtist": "南拳妈妈",
+      "type": "Single",
+      "year": 2022,
+      "thumbnail": "https://yt3.googleusercontent.com/gWLio78sV-2L5dnpNreEb1bVhwmjMY9CRfzc_88IJ80fNNFhQmfiox-fCDEfqxPGF--c9bt7CYlQJfB9=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "深深",
+          "artists": "",
+          "videoId": "NGWI29jlhX0",
+          "plays": 5113,
+          "playsText": "播放次數：5113",
+          "duration": 181,
+          "byOther": false,
+          "credits": {
+            "music": "單曲"
+          },
+          "nameKey": "深深"
+        },
+        {
+          "index": 2,
+          "title": "深深 (伴奏)",
+          "artists": "",
+          "videoId": "VS_wUHxApV8",
+          "plays": 374,
+          "playsText": "播放次數：374",
+          "duration": 181,
+          "byOther": false,
+          "nameKey": "深深",
+          "credits": {
+            "music": "單曲"
+          }
+        }
+      ],
+      "releaseDate": "2022-09-29",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "南拳媽媽",
+      "wikiKind": "single",
+      "nameKey": "深深"
     },
     {
       "browseId": "MPREb_2jNnLTT482Z",
@@ -1192,6 +1271,220 @@
       "wikiTitle": "南拳媽媽",
       "wikiKind": "single",
       "nameKey": "你的步頻"
+    },
+    {
+      "browseId": "MPREb_VmwOaXLbyuv",
+      "playlistId": "OLAK5uy_n56DriuoJAG1m96k2fQ7s_v32cf3VewuU",
+      "title": "時光女伶",
+      "albumArtist": "南拳媽媽彈頭",
+      "type": "Album",
+      "year": 2023,
+      "thumbnail": "https://yt3.googleusercontent.com/33IhDloT0_f7Blybd77eP_vNumKHycrhNdxBWKnAvffSo_A8r_y9abpQZAmmMmcStQSPMbW3abwGI10tLw=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "時光女伶",
+          "artists": "",
+          "videoId": "h4h--keN-GQ",
+          "plays": 12000,
+          "playsText": "播放次數：1.2萬",
+          "duration": 269,
+          "byOther": false,
+          "nameKey": "時光女伶"
+        },
+        {
+          "index": 2,
+          "title": "花襯衫騎野狼",
+          "artists": "",
+          "videoId": "vCBN4huLljg",
+          "plays": 707,
+          "playsText": "播放次數：707",
+          "duration": 268,
+          "byOther": false,
+          "nameKey": "花襯衫騎野狼"
+        },
+        {
+          "index": 3,
+          "title": "曾經",
+          "artists": "",
+          "videoId": "EmtEcYF4UC0",
+          "plays": 643,
+          "playsText": "播放次數：643",
+          "duration": 259,
+          "byOther": false,
+          "nameKey": "曾經"
+        },
+        {
+          "index": 4,
+          "title": "臺南碗粿",
+          "artists": "",
+          "videoId": "qvRvUF3q3CU",
+          "plays": 530,
+          "playsText": "播放次數：530",
+          "duration": 220,
+          "byOther": false,
+          "nameKey": "臺南碗粿"
+        },
+        {
+          "index": 5,
+          "title": "寂寞太近妳太遠",
+          "artists": "",
+          "videoId": "aMjFloWgAQs",
+          "plays": 150000,
+          "playsText": "播放次數：15萬",
+          "duration": 217,
+          "byOther": false,
+          "nameKey": "寂寞太近妳太遠"
+        },
+        {
+          "index": 6,
+          "title": "塞席爾的午後",
+          "artists": "",
+          "videoId": "BpcNCGzRjkM",
+          "plays": 3595,
+          "playsText": "播放次數：3595",
+          "duration": 243,
+          "byOther": false,
+          "nameKey": "塞席爾的午後"
+        },
+        {
+          "index": 7,
+          "title": "妳真的離開我了",
+          "artists": "",
+          "videoId": "0D7Ww4W3nCc",
+          "plays": 91000,
+          "playsText": "播放次數：9.1萬",
+          "duration": 253,
+          "byOther": false,
+          "nameKey": "妳眞的離開我了"
+        },
+        {
+          "index": 8,
+          "title": "愛你一夜",
+          "artists": "",
+          "videoId": "G78owkznuZg",
+          "plays": 14000,
+          "playsText": "播放次數：1.4萬",
+          "duration": 230,
+          "byOther": false,
+          "nameKey": "愛你一夜"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "時光女伶"
+    },
+    {
+      "browseId": "MPREb_MNf7tFzNAWo",
+      "playlistId": "OLAK5uy_kOU6Bx2CO7UpXkVIDVtPH9N4jB8dFfimc",
+      "title": "心型圈",
+      "albumArtist": "南拳媽媽",
+      "type": "Single",
+      "year": 2025,
+      "thumbnail": "https://yt3.googleusercontent.com/n5-auggTizcZbcEuhCME5WQlOk8Vn_togxg07YtMks4PS201BRFGjlbTskmFZWJP8dd9iuv2GEeUDSpG=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "心型圈",
+          "artists": "",
+          "videoId": "j5L6YsWllqA",
+          "plays": 460000,
+          "playsText": "播放次數：46萬",
+          "duration": 236,
+          "byOther": false,
+          "credits": {
+            "music": "單曲"
+          },
+          "nameKey": "心型圈",
+          "mv": "j5L6YsWllqA"
+        },
+        {
+          "index": 2,
+          "title": "心型圈 (伴奏)",
+          "artists": "",
+          "videoId": "rqqcz8OR7bM",
+          "plays": 422,
+          "playsText": "播放次數：422",
+          "duration": 236,
+          "byOther": false,
+          "nameKey": "心型圈",
+          "credits": {
+            "music": "單曲"
+          },
+          "mv": "j5L6YsWllqA"
+        }
+      ],
+      "releaseDate": "2025-10-19",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "南拳媽媽",
+      "wikiKind": "single",
+      "nameKey": "心型圈"
+    },
+    {
+      "browseId": "MPREb_ZbLKInx8oZk",
+      "playlistId": "OLAK5uy_mynlRYlG_EBS7vRlQmVCAy0TkTU-Jx2d0",
+      "title": "明朝之前",
+      "albumArtist": "南拳媽媽",
+      "type": "Single",
+      "year": 2025,
+      "thumbnail": "https://yt3.googleusercontent.com/gGmOM3wDC8yxLQNSFq1VZzrGrBxmyOjPO41lnEZu0MGJPsUS4_BpoF8ToQXivgamlqDckAheHbAOZOM4uw=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "明朝之前",
+          "artists": "",
+          "videoId": "P-xtajzmUwg",
+          "plays": 2804,
+          "playsText": "播放次數：2804",
+          "duration": 261,
+          "byOther": false,
+          "credits": {
+            "music": "單曲"
+          },
+          "nameKey": "明朝之前",
+          "mv": "d_S_XAjeMsE"
+        },
+        {
+          "index": 2,
+          "title": "明朝之前 (伴奏)",
+          "artists": "",
+          "videoId": "MKESdSCS2uI",
+          "plays": 154,
+          "playsText": "播放次數：154",
+          "duration": 261,
+          "byOther": false,
+          "nameKey": "明朝之前",
+          "credits": {
+            "music": "單曲"
+          },
+          "mv": "d_S_XAjeMsE"
+        },
+        {
+          "index": 3,
+          "title": "明朝之前",
+          "artists": "",
+          "videoId": "d_S_XAjeMsE",
+          "plays": 640000,
+          "playsText": "播放次數：64萬",
+          "duration": 267,
+          "byOther": false,
+          "credits": {
+            "music": "單曲"
+          },
+          "nameKey": "明朝之前",
+          "mv": "d_S_XAjeMsE"
+        }
+      ],
+      "releaseDate": "2025-11-23",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "song-table",
+      "wikiTitle": "南拳媽媽",
+      "wikiKind": "single",
+      "nameKey": "明朝之前"
     }
   ],
   "wikiOnly": [

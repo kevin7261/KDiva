@@ -674,7 +674,8 @@ export function linkVideos(albums, videos = []) {
   for (const album of albums)
     for (const t of album.tracks) {
       const id = t.nameKey && byKey.get(t.nameKey)
-      if (id) {
+      // 影片架上的常常就是歌曲本身那支上傳，標了也只是連到同一個地方，沒有意義
+      if (id && id !== t.videoId) {
         t.mv = id
         linked++
       }

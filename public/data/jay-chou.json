@@ -2,49 +2,53 @@
   "slug": "jay-chou",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T00:27:46.440Z",
+  "fetchedAt": "2026-09-18T21:58:10.352Z",
   "artist": {
     "channelId": "UCL2MDNdwEtV6aYUgNjFQGZA",
     "name": "周杰倫",
     "thumbnail": "https://yt3.googleusercontent.com/5vqNE8l4iYKmNCHd_YIgknhMF-W4ROcG5H7ZbdfOudxTcNSIIJrf9WpctLh43GlzFLmmcpMUxRQ918Kv=w2456-h1023-p-l90-rj",
     "subscribers": 3410000,
-    "monthlyAudience": 15400000,
+    "monthlyAudience": 15100000,
     "videos": [
+      {
+        "title": "西西里",
+        "videoId": "yCWTHQ3_O-I"
+      },
       {
         "title": "晴天",
         "videoId": "DYptgVvkVLQ"
-      },
-      {
-        "title": "擱淺",
-        "videoId": "YJfHuATJYsQ"
-      },
-      {
-        "title": "夜曲",
-        "videoId": "6Q0Pd53mojY"
-      },
-      {
-        "title": "青花瓷",
-        "videoId": "Z8Mqw0b9ADs"
-      },
-      {
-        "title": "楓",
-        "videoId": "qzwsQTY-99o"
       },
       {
         "title": "七里香",
         "videoId": "Bbp9ZaJD_eA"
       },
       {
-        "title": "稻香",
-        "videoId": "sHD_z90ZKV0"
+        "title": "青花瓷",
+        "videoId": "Z8Mqw0b9ADs"
+      },
+      {
+        "title": "擱淺",
+        "videoId": "YJfHuATJYsQ"
+      },
+      {
+        "title": "不該",
+        "videoId": "_VxLOj3TB5k"
+      },
+      {
+        "title": "楓",
+        "videoId": "qzwsQTY-99o"
+      },
+      {
+        "title": "蒲公英的約定",
+        "videoId": "VitJnr3IySc"
       },
       {
         "title": "說好的幸福呢",
         "videoId": "mLFhTFiX0uM"
       },
       {
-        "title": "蒲公英的約定",
-        "videoId": "VitJnr3IySc"
+        "title": "軌跡(KALA)",
+        "videoId": "SdBwt6pyNwE"
       },
       {
         "title": "一路向北",
@@ -55,140 +59,156 @@
         "videoId": "bu7nU9Mhpyo"
       },
       {
-        "title": "說了再見",
-        "videoId": "KKsioz-zaZY"
+        "title": "髮如雪",
+        "videoId": "aaM7qG2ycjk"
       },
       {
         "title": "珊瑚海",
         "videoId": "kYhh1PpsOg4"
       },
       {
-        "title": "給我一首歌的時間",
-        "videoId": "wt0RKW3aC84"
-      },
-      {
-        "title": "不該",
-        "videoId": "_VxLOj3TB5k"
-      },
-      {
-        "title": "愛你沒差",
-        "videoId": "miBGaUagOz8"
-      },
-      {
-        "title": "髮如雪",
-        "videoId": "aaM7qG2ycjk"
-      },
-      {
-        "title": "安靜",
-        "videoId": "1hI-7vj2FhE"
-      },
-      {
-        "title": "不能說的秘密",
-        "videoId": "uIWypArI73w"
-      },
-      {
-        "title": "退後",
-        "videoId": "0-4mm0e2h44"
-      },
-      {
-        "title": "軌跡(KALA)",
-        "videoId": "SdBwt6pyNwE"
-      },
-      {
         "title": "愛在西元前",
         "videoId": "5XK2C9w6oVk"
-      },
-      {
-        "title": "周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV",
-        "videoId": "UBySINroNkw"
-      },
-      {
-        "title": "蘭亭序",
-        "videoId": "s5Xl5MXboas"
-      },
-      {
-        "title": "Not Good Enough for You",
-        "videoId": "s-VFpsrbWLk"
-      },
-      {
-        "title": "等你下課",
-        "videoId": "kfXdP7nZIiE"
-      },
-      {
-        "title": "最長的電影",
-        "videoId": "2zxc27bvrO8"
-      },
-      {
-        "title": "藉口",
-        "videoId": "KcK8WurGpEQ"
       },
       {
         "title": "I Do",
         "videoId": "wIgduzASI6A"
       },
       {
-        "title": "聽媽媽的話",
-        "videoId": "_B8RaLCNUZw"
+        "title": "愛你沒差",
+        "videoId": "miBGaUagOz8"
+      },
+      {
+        "title": "退後",
+        "videoId": "0-4mm0e2h44"
+      },
+      {
+        "title": "等你下課",
+        "videoId": "kfXdP7nZIiE"
+      },
+      {
+        "title": "藉口",
+        "videoId": "KcK8WurGpEQ"
+      },
+      {
+        "title": "給我一首歌的時間",
+        "videoId": "wt0RKW3aC84"
       },
       {
         "title": "說好不哭",
         "videoId": "HK7SPnGSxLM"
       },
       {
-        "title": "花海",
-        "videoId": "q1ww6bDjfiI"
+        "title": "Not Good Enough for You",
+        "videoId": "s-VFpsrbWLk"
+      },
+      {
+        "title": "不能說的秘密",
+        "videoId": "uIWypArI73w"
+      },
+      {
+        "title": "最長的電影",
+        "videoId": "2zxc27bvrO8"
+      },
+      {
+        "title": "稻香",
+        "videoId": "sHD_z90ZKV0"
       },
       {
         "title": "可愛女人",
         "videoId": "87VUC4J_0Ps"
       },
       {
+        "title": "蘭亭序",
+        "videoId": "s5Xl5MXboas"
+      },
+      {
         "title": "回到過去",
         "videoId": "MKNrnSsIwf8"
       },
       {
-        "title": "開不了口",
-        "videoId": "H7hpK6cm-6k"
+        "title": "花海",
+        "videoId": "q1ww6bDjfiI"
       },
       {
         "title": "簡單愛",
         "videoId": "Y4xCVlyCvX4"
       },
       {
-        "title": "紅塵客棧",
-        "videoId": "L6joGUdc6y4"
+        "title": "周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV",
+        "videoId": "UBySINroNkw"
       },
       {
-        "title": "手寫的從前",
-        "videoId": "TMB6-YflpA4"
+        "title": "說了再見",
+        "videoId": "KKsioz-zaZY"
       },
       {
-        "title": "龍捲風",
-        "videoId": "RPWDeLqsN0g"
-      },
-      {
-        "title": "陽光宅男",
-        "videoId": "qQ7g1tfEGFc"
-      },
-      {
-        "title": "愛琴海",
-        "videoId": "ZLldhJXp7iw"
-      },
-      {
-        "title": "Broken Hearts and Tears / 我落涙・情緒零碎",
-        "videoId": "6d0v2InyN_w"
+        "title": "聽媽媽的話",
+        "videoId": "_B8RaLCNUZw"
       },
       {
         "title": "彩虹",
         "videoId": "WxZvXPTBC0A"
       },
       {
+        "title": "龍捲風",
+        "videoId": "RPWDeLqsN0g"
+      },
+      {
+        "title": "君には聞こえる",
+        "videoId": "kLY11fv7fUk"
+      },
+      {
+        "title": "紅塵客棧",
+        "videoId": "L6joGUdc6y4"
+      },
+      {
         "title": "半島鐵盒",
         "videoId": "duZDsG3tvoA"
       },
       {
+        "title": "算什麼男人",
+        "videoId": "v489sYYjtHI"
+      },
+      {
+        "title": "安靜",
+        "videoId": "1hI-7vj2FhE"
+      },
+      {
+        "title": "陽光宅男",
+        "videoId": "qQ7g1tfEGFc"
+      },
+      {
+        "title": "周杰倫 Jay Chou【聽見下雨的聲音 Rhythm of the Rain】MV Lyrics Ver.",
+        "videoId": "Imxftp0SZtE"
+      },
+      {
+        "title": "反方向的鐘",
+        "videoId": "fuM1aVCGR8c"
+      },
+      {
+        "title": "霍元甲",
+        "videoId": "wr-6wwt8RXk"
+      },
+      {
+        "title": "斷了的弦",
+        "videoId": "n_KlMpP0vdw"
+      },
+      {
         "title": "千里之外",
         "videoId": "ocDo3ySyHSI"
+      },
+      {
+        "title": "周杰倫 Jay Chou【大笨鐘 Big Ben】Official MV",
+        "videoId": "-u4sPnpaFEA"
+      },
+      {
+        "title": "誰稀罕",
+        "videoId": "a7ziV-RjqBo"
+      },
+      {
+        "title": "夜曲",
+        "videoId": "6Q0Pd53mojY"
       },
       {
         "title": "我是如此相信: 電影《天火》主題曲",
@@ -199,404 +219,308 @@
         "videoId": "bX33UI9ZPLk"
       },
       {
-        "title": "周杰倫 Jay Chou【聽見下雨的聲音 Rhythm of the Rain】MV Lyrics Ver.",
-        "videoId": "Imxftp0SZtE"
-      },
-      {
-        "title": "算什麼男人",
-        "videoId": "v489sYYjtHI"
-      },
-      {
-        "title": "白色風車",
-        "videoId": "K9CbHZLXPIA"
-      },
-      {
-        "title": "An Hao",
-        "videoId": "CYT9DPJdtS4"
-      },
-      {
-        "title": "霍元甲",
-        "videoId": "wr-6wwt8RXk"
-      },
-      {
-        "title": "君には聞こえる",
-        "videoId": "kLY11fv7fUk"
-      },
-      {
-        "title": "煙花易冷",
-        "videoId": "COMHDRqAvYE"
-      },
-      {
-        "title": "誰稀罕",
-        "videoId": "a7ziV-RjqBo"
-      },
-      {
-        "title": "園遊會",
-        "videoId": "IoCoIxkGkVw"
-      },
-      {
-        "title": "浪漫手機",
-        "videoId": "Kbvu9Vt5_eE"
-      },
-      {
-        "title": "斷了的弦",
-        "videoId": "n_KlMpP0vdw"
-      },
-      {
-        "title": "菊花台",
-        "videoId": "PdjbRvvJAzg"
-      },
-      {
-        "title": "以父之名",
-        "videoId": "9q7JOQfcJQM"
-      },
-      {
-        "title": "夜的第七章",
-        "videoId": "AdkkF6MT0R0"
-      },
-      {
-        "title": "星晴",
-        "videoId": "sTNJsIcPSvE"
-      },
-      {
-        "title": "Her Eyelashes (Ta De Jie Mao)",
-        "videoId": "gqzlB7Gla2E"
-      },
-      {
-        "title": "周杰倫 Jay Chou【大笨鐘 Big Ben】Official MV",
-        "videoId": "-u4sPnpaFEA"
+        "title": "七月的極光",
+        "videoId": "PJyFND4-zR4"
       },
       {
         "title": "東風破",
         "videoId": "qct0JLjaHDc"
       },
       {
-        "title": "愛情廢柴",
-        "videoId": "2kdYSeoHChg"
-      },
-      {
-        "title": "止戰之殤",
-        "videoId": "qIZ5MAwbeCg"
-      },
-      {
-        "title": "七月的極光",
-        "videoId": "PJyFND4-zR4"
-      },
-      {
-        "title": "反方向的鐘",
-        "videoId": "fuM1aVCGR8c"
-      },
-      {
-        "title": "黑色幽默",
-        "videoId": "wRT-5heURhY"
-      },
-      {
-        "title": "甜甜的",
-        "videoId": "mm8T-lBXQXA"
-      },
-      {
-        "title": "女兒殿下",
-        "videoId": "aGsrg1NO1cM"
-      },
-      {
-        "title": "還在流浪",
-        "videoId": "BSlMAJ7SkMA"
-      },
-      {
-        "title": "Mojito",
-        "videoId": "-biOGdYiF-I"
-      },
-      {
-        "title": "聽爸爸的話",
-        "videoId": "eS2T9IiOYbc"
-      },
-      {
-        "title": "Six Degrees",
-        "videoId": "s__iJysWkCY"
+        "title": "外婆",
+        "videoId": "Ur-x4pZT1Rk"
       },
       {
         "title": "爺爺泡的茶",
         "videoId": "LdPjnubLRN0"
       },
       {
-        "title": "外婆",
-        "videoId": "Ur-x4pZT1Rk"
+        "title": "白色風車",
+        "videoId": "K9CbHZLXPIA"
       },
       {
-        "title": "哪裡都是你",
-        "videoId": "yfn8sE9obWU"
+        "title": "聽爸爸的話",
+        "videoId": "eS2T9IiOYbc"
       },
       {
         "title": "Fen Lie",
         "videoId": "eM6mF4RWhe0"
       },
       {
-        "title": "超人不會飛",
-        "videoId": "4j0Fgmsxr-o"
+        "title": "An Hao",
+        "videoId": "CYT9DPJdtS4"
       },
       {
-        "title": "一點點",
-        "videoId": "COhiu3c7Sgc"
-      },
-      {
-        "title": "紅顏如霜",
-        "videoId": "APgx1k-2Tqc"
-      },
-      {
-        "title": "本草綱目",
-        "videoId": "8CD06hC1KGU"
+        "title": "菊花台",
+        "videoId": "PdjbRvvJAzg"
       },
       {
         "title": "世界末日",
         "videoId": "NDFULbHgL6E"
       },
       {
-        "title": "Heart's Rain",
-        "videoId": "xVTI5eSzwzQ"
+        "title": "Six Degrees",
+        "videoId": "s__iJysWkCY"
       },
       {
-        "title": "愛的飛行日記",
-        "videoId": "odNYK272RtQ"
+        "title": "還在流浪",
+        "videoId": "BSlMAJ7SkMA"
       },
       {
-        "title": "錯過的煙火",
-        "videoId": "9tN1xixvYOc"
+        "title": "甜甜的",
+        "videoId": "mm8T-lBXQXA"
       },
       {
-        "title": "Shanghai 1943",
-        "videoId": "CcfnZOJpbM4"
+        "title": "愛情廢柴",
+        "videoId": "2kdYSeoHChg"
       },
       {
-        "title": "最偉大的作品",
-        "videoId": "1emA1EFsPMM"
+        "title": "以父之名",
+        "videoId": "9q7JOQfcJQM"
       },
       {
         "title": "Mine Mine",
         "videoId": "me7jfhFIZvk"
       },
       {
-        "title": "Gold Rush Town 淘金小鎮",
-        "videoId": "SW3OQ0ijUCI"
+        "title": "最偉大的作品",
+        "videoId": "1emA1EFsPMM"
       },
       {
-        "title": "飄移",
-        "videoId": "X2njc8is50o"
+        "title": "一點點",
+        "videoId": "COhiu3c7Sgc"
+      },
+      {
+        "title": "Broken Hearts and Tears / 我落涙・情緒零碎",
+        "videoId": "6d0v2InyN_w"
       },
       {
         "title": "鄉間的路",
         "videoId": "XAhKFiPqGRQ"
       },
       {
-        "title": "周大俠",
-        "videoId": "EZxhW-uSN_I"
+        "title": "手寫的從前",
+        "videoId": "TMB6-YflpA4"
       },
       {
-        "title": "最後的戰役",
-        "videoId": "ZcShYmOhHM0"
+        "title": "本草綱目",
+        "videoId": "8CD06hC1KGU"
       },
       {
-        "title": "不愛我就拉倒",
-        "videoId": "MAjY8mCTXWk"
+        "title": "超人不會飛",
+        "videoId": "4j0Fgmsxr-o"
       },
       {
-        "title": "忍者",
-        "videoId": "55yJh4SHUBY"
-      },
-      {
-        "title": "時光機 / タイムマシン",
-        "videoId": "nCfrfCzaB2A"
+        "title": "飄移",
+        "videoId": "X2njc8is50o"
       },
       {
         "title": "粉色海洋",
         "videoId": "F_dGEjzRG_Y"
       },
       {
+        "title": "黑色幽默",
+        "videoId": "wRT-5heURhY"
+      },
+      {
+        "title": "園遊會",
+        "videoId": "IoCoIxkGkVw"
+      },
+      {
+        "title": "Mojito",
+        "videoId": "-biOGdYiF-I"
+      },
+      {
+        "title": "開不了口",
+        "videoId": "H7hpK6cm-6k"
+      },
+      {
+        "title": "夜的第七章",
+        "videoId": "AdkkF6MT0R0"
+      },
+      {
         "title": "雙截棍",
         "videoId": "OR-0wptI_u0"
-      },
-      {
-        "title": "傻笑 (合作演出：袁詠琳)",
-        "videoId": "rKFtivD7Rvw"
-      },
-      {
-        "title": "牛仔很忙",
-        "videoId": "9o20U91aJdg"
-      },
-      {
-        "title": "雨下一整晚",
-        "videoId": "jOxzAsnx9-0"
       },
       {
         "title": "Long Time No See / 好久不見",
         "videoId": "uAUBexRRFr0"
       },
       {
+        "title": "傻笑 (合作演出：袁詠琳)",
+        "videoId": "rKFtivD7Rvw"
+      },
+      {
+        "title": "女兒殿下",
+        "videoId": "aGsrg1NO1cM"
+      },
+      {
         "title": "聖誕星 (合作演出：楊瑞代)",
         "videoId": "IXuhdnB2dAY"
       },
       {
-        "title": "稻香 (Remix搖滾版)",
-        "videoId": "_8OdiGdWJec"
+        "title": "Her Eyelashes (Ta De Jie Mao)",
+        "videoId": "gqzlB7Gla2E"
       },
       {
-        "title": "倒影",
-        "videoId": "a0AyNzV3yk8"
+        "title": "錯過的煙火",
+        "videoId": "9tN1xixvYOc"
       },
       {
-        "title": "公主病",
-        "videoId": "S-p4gXbIifo"
+        "title": "Heart's Rain",
+        "videoId": "xVTI5eSzwzQ"
       },
       {
-        "title": "愛の断崖",
-        "videoId": "H5VQdhYh9rc"
+        "title": "煙花易冷",
+        "videoId": "COMHDRqAvYE"
       },
       {
-        "title": "No Way Out/四面楚歌",
-        "videoId": "JljURsMOLmc"
+        "title": "哪裡都是你",
+        "videoId": "yfn8sE9obWU"
       },
       {
-        "title": "半獸人",
-        "videoId": "3I27c6t-0No"
+        "title": "時光機 / タイムマシン",
+        "videoId": "nCfrfCzaB2A"
+      },
+      {
+        "title": "不愛我就拉倒",
+        "videoId": "MAjY8mCTXWk"
+      },
+      {
+        "title": "最後的戰役",
+        "videoId": "ZcShYmOhHM0"
+      },
+      {
+        "title": "浪漫手機",
+        "videoId": "Kbvu9Vt5_eE"
+      },
+      {
+        "title": "紅顏如霜",
+        "videoId": "APgx1k-2Tqc"
+      },
+      {
+        "title": "愛琴海",
+        "videoId": "ZLldhJXp7iw"
+      },
+      {
+        "title": "星晴",
+        "videoId": "sTNJsIcPSvE"
       },
       {
         "title": "周杰倫 JAY CHOU & 五月天 MAYDAY【稻香 搖滾版】",
         "videoId": "4dIiSXT8oYk"
       },
       {
-        "title": "三年二班",
-        "videoId": "_trE3M24kQY"
-      },
-      {
-        "title": "怎麼了",
-        "videoId": "RcdscWaat_w"
-      },
-      {
-        "title": "杰倫心目中的完美cover-蔡健雅(愛情廢柴X說好不哭)",
-        "videoId": "biSB9_Z3VUw"
+        "title": "牛仔很忙",
+        "videoId": "9o20U91aJdg"
       },
       {
         "title": "周杰倫 Jay Chou【美人魚 Mermaid】Official MV",
         "videoId": "nHtW9w12uYc"
       },
       {
-        "title": "太陽之子",
-        "videoId": "Hgnpi3eBQ9o"
+        "title": "愛的飛行日記",
+        "videoId": "odNYK272RtQ"
       },
       {
-        "title": "蝸牛",
-        "videoId": "H7pOrQEnc3c"
+        "title": "止戰之殤",
+        "videoId": "qIZ5MAwbeCg"
+      },
+      {
+        "title": "雨下一整晚",
+        "videoId": "jOxzAsnx9-0"
+      },
+      {
+        "title": "忍者",
+        "videoId": "55yJh4SHUBY"
+      },
+      {
+        "title": "怎麼了",
+        "videoId": "RcdscWaat_w"
+      },
+      {
+        "title": "倒影",
+        "videoId": "a0AyNzV3yk8"
       },
       {
         "title": "威廉古堡",
         "videoId": "lCzWCxVAkfc"
       },
       {
+        "title": "稻香 (Remix搖滾版)",
+        "videoId": "_8OdiGdWJec"
+      },
+      {
+        "title": "周大俠",
+        "videoId": "EZxhW-uSN_I"
+      },
+      {
+        "title": "三年二班",
+        "videoId": "_trE3M24kQY"
+      },
+      {
         "title": "你比從前快樂",
         "videoId": "X_XqvQJi_6E"
       },
       {
-        "title": "說走就走",
-        "videoId": "NH43WjeoVgs"
-      },
-      {
-        "title": "Milan's Small Ironsmith",
-        "videoId": "KmaqqnLGUG0"
-      },
-      {
-        "title": "【周杰倫地表最強演唱會LIVE-晴天】 Jay Chou's The Invincible Concert LIVE (Sunny Day)",
-        "videoId": "JKPVRyg01gg"
-      },
-      {
-        "title": "周杰倫 Jay Chou【龍拳 Dragon Fist】Official MV",
-        "videoId": "_byK6M95hTc"
+        "title": "公主病",
+        "videoId": "S-p4gXbIifo"
       },
       {
         "title": "對不起",
         "videoId": "N2DkKFxijv0"
       },
       {
-        "title": "烏克麗麗",
-        "videoId": "-QqpEvN2Xd8"
-      },
-      {
-        "title": "周杰倫 Jay Chou【公公偏頭痛 Eunuch with a Headache】Official MV",
-        "videoId": "FbqBv7Tz1QY"
-      },
-      {
-        "title": "將軍",
-        "videoId": "PaJdceSx4JA"
-      },
-      {
         "title": "Istanbel",
         "videoId": "s9wvjSkR_Ms"
       },
       {
-        "title": "紅模仿",
-        "videoId": "LL50Fu4UvG0"
+        "title": "Gold Rush Town 淘金小鎮",
+        "videoId": "SW3OQ0ijUCI"
       },
       {
-        "title": "黃金甲",
-        "videoId": "DuErkkiCaZU"
-      },
-      {
-        "title": "超跑女神",
-        "videoId": "CllkiAZajJI"
-      },
-      {
-        "title": "周杰倫 Jay Chou【亂舞春秋 Chaotic Dance】-Official Music Video",
-        "videoId": "2Tg3uzSAkXk"
-      },
-      {
-        "title": "你好嗎",
-        "videoId": "Wrbjahfg8RM"
-      },
-      {
-        "title": "父さん 帰ってきたよ",
-        "videoId": "nhyT8HDT4lg"
-      },
-      {
-        "title": "Yi Ju Dao Wei",
-        "videoId": "K5qKpFLWaoA"
-      },
-      {
-        "title": "Wo De Di Pan",
-        "videoId": "RJerfq6MqY0"
+        "title": "說走就走",
+        "videoId": "NH43WjeoVgs"
       },
       {
         "title": "青花瓷",
         "videoId": "cXZkjQSgoFw"
       },
       {
-        "title": "床邊故事",
-        "videoId": "-7r6VqSllNg"
+        "title": "父さん 帰ってきたよ",
+        "videoId": "nhyT8HDT4lg"
       },
       {
-        "title": "The Era",
-        "videoId": "-WkecBaA4z8"
+        "title": "周杰倫 Jay Chou【龍拳 Dragon Fist】Official MV",
+        "videoId": "_byK6M95hTc"
       },
       {
-        "title": "水手怕水",
-        "videoId": "wUJ37I6au2w"
+        "title": "將軍",
+        "videoId": "PaJdceSx4JA"
       },
       {
-        "title": "世界未末日",
-        "videoId": "IteE-HMVJ1M"
+        "title": "蝸牛",
+        "videoId": "H7pOrQEnc3c"
       },
       {
-        "title": "開不了口",
-        "videoId": "Ltx4C2uxz8M"
+        "title": "Shanghai 1943",
+        "videoId": "CcfnZOJpbM4"
       },
       {
-        "title": "Mai Ya Tang",
-        "videoId": "Hq47d-ouX_Y"
+        "title": "紅模仿",
+        "videoId": "LL50Fu4UvG0"
       },
       {
-        "title": "迷迭香",
-        "videoId": "K0Myfz5phlY"
+        "title": "流浪詩人",
+        "videoId": "-ytYpXm3cv0"
       },
       {
-        "title": "印地安老斑鳩",
-        "videoId": "hnmWCmR6o7A"
+        "title": "半獸人",
+        "videoId": "3I27c6t-0No"
+      },
+      {
+        "title": "Wo De Di Pan",
+        "videoId": "RJerfq6MqY0"
       },
       {
         "title": "鬥牛",
@@ -607,9 +531,88 @@
         "videoId": "D0x09XJgyO4"
       },
       {
-        "title": "流浪詩人",
-        "videoId": "-ytYpXm3cv0"
+        "title": "烏克麗麗",
+        "videoId": "-QqpEvN2Xd8"
+      },
+      {
+        "title": "床邊故事",
+        "videoId": "-7r6VqSllNg"
+      },
+      {
+        "title": "娘子",
+        "videoId": "MpP9dw_j2PI"
+      },
+      {
+        "title": "Self Directed / 自導自演",
+        "videoId": "pbyWurQZ948"
+      },
+      {
+        "title": "臆病者",
+        "videoId": "Xi_RBDWZaT0"
+      },
+      {
+        "title": "周杰倫 Jay Chou【亂舞春秋 Chaotic Dance】-Official Music Video",
+        "videoId": "2Tg3uzSAkXk"
+      },
+      {
+        "title": "太陽之子",
+        "videoId": "Hgnpi3eBQ9o"
+      },
+      {
+        "title": "困獸之鬥",
+        "videoId": "pm91leB_P8c"
+      },
+      {
+        "title": "竊愛",
+        "videoId": "6ZeE3vgwQSI"
+      },
+      {
+        "title": "【周杰倫地表最強演唱會LIVE-晴天】 Jay Chou's The Invincible Concert LIVE (Sunny Day)",
+        "videoId": "JKPVRyg01gg"
+      },
+      {
+        "title": "Yi Ju Dao Wei",
+        "videoId": "K5qKpFLWaoA"
+      },
+      {
+        "title": "你好嗎",
+        "videoId": "Wrbjahfg8RM"
+      },
+      {
+        "title": "琴傷",
+        "videoId": "yHoadRoVF-U"
+      },
+      {
+        "title": "Mai Ya Tang",
+        "videoId": "Hq47d-ouX_Y"
+      },
+      {
+        "title": "The Era",
+        "videoId": "-WkecBaA4z8"
+      },
+      {
+        "title": "愛の断崖",
+        "videoId": "H5VQdhYh9rc"
+      },
+      {
+        "title": "明明就",
+        "videoId": "mL3Ecc-PNRk"
+      },
+      {
+        "title": "黃金甲",
+        "videoId": "DuErkkiCaZU"
+      },
+      {
+        "title": "即興曲",
+        "videoId": "yjYkxdXd7EA"
+      },
+      {
+        "title": "雙刀",
+        "videoId": "T4qPsRLjGCY"
       }
+    ],
+    "songListIds": [
+      "VLOLAK5uy_lsLIti8r4lQPmdUdikOs-7pBd02nM4F1o"
     ],
     "avatar": "https://yt3.googleusercontent.com/3aPzdQNT1NkbAuUOQjynzhBHrZibhZ0UrpQec9R7mmPvvnckpeYs1XjcBG3NCk6HoTzlHAFxyg=s800-c-k-c0x00ffffff-no-rj"
   },
@@ -687,7 +690,8 @@
             "music": "周杰倫",
             "arranger": "周杰倫"
           },
-          "nameKey": "娘子"
+          "nameKey": "娘子",
+          "mv": "MpP9dw_j2PI"
         },
         {
           "index": 5,
@@ -753,8 +757,7 @@
             "music": "周杰倫",
             "arranger": "洪敬堯"
           },
-          "nameKey": "印地安老斑鳩",
-          "mv": "hnmWCmR6o7A"
+          "nameKey": "印地安老斑鳩"
         },
         {
           "index": 9,
@@ -1027,8 +1030,8 @@
           "title": "世界末日",
           "artists": "",
           "videoId": "NDFULbHgL6E",
-          "plays": 19660000,
-          "playsText": "播放次數：1966萬",
+          "plays": 19670000,
+          "playsText": "播放次數：1967萬",
           "duration": 266,
           "byOther": false,
           "credits": {
@@ -1157,8 +1160,8 @@
           "title": "爺爺泡的茶",
           "artists": "",
           "videoId": "LdPjnubLRN0",
-          "plays": 15180000,
-          "playsText": "播放次數：1518萬",
+          "plays": 15190000,
+          "playsText": "播放次數：1519萬",
           "duration": 239,
           "byOther": false,
           "credits": {
@@ -1652,8 +1655,8 @@
           "title": "東風破",
           "artists": "",
           "videoId": "qct0JLjaHDc",
-          "plays": 33610000,
-          "playsText": "播放次數：3361萬",
+          "plays": 33620000,
+          "playsText": "播放次數：3362萬",
           "duration": 316,
           "byOther": false,
           "credits": {
@@ -1759,7 +1762,8 @@
             "music": "周杰倫",
             "arranger": "鍾興民"
           },
-          "nameKey": "雙刀"
+          "nameKey": "雙刀",
+          "mv": "T4qPsRLjGCY"
         }
       ],
       "releaseDate": "2003-07-31",
@@ -2120,7 +2124,8 @@
             "music": "周杰倫",
             "arranger": "蔡科俊"
           },
-          "nameKey": "困獸之鬥"
+          "nameKey": "困獸之鬥",
+          "mv": "pm91leB_P8c"
         },
         {
           "index": 19,
@@ -2376,7 +2381,8 @@
             "music": "周杰倫",
             "arranger": "蔡科俊"
           },
-          "nameKey": "困獸之鬥"
+          "nameKey": "困獸之鬥",
+          "mv": "pm91leB_P8c"
         },
         {
           "index": 9,
@@ -2797,8 +2803,8 @@
           "title": "心雨",
           "artists": "周杰倫",
           "videoId": "xVTI5eSzwzQ",
-          "plays": 17660000,
-          "playsText": "播放次數：1766萬",
+          "plays": 17670000,
+          "playsText": "播放次數：1767萬",
           "duration": 270,
           "byOther": false,
           "credits": {
@@ -2839,16 +2845,15 @@
             "music": "周杰倫",
             "arranger": "鍾興民"
           },
-          "nameKey": "迷迭香",
-          "mv": "K0Myfz5phlY"
+          "nameKey": "迷迭香"
         },
         {
           "index": 10,
           "title": "菊花台",
           "artists": "周杰倫",
           "videoId": "PdjbRvvJAzg",
-          "plays": 51330000,
-          "playsText": "播放次數：5133萬",
+          "plays": 51350000,
+          "playsText": "播放次數：5135萬",
           "duration": 294,
           "byOther": false,
           "credits": {
@@ -2985,8 +2990,8 @@
           "title": "心雨",
           "artists": "",
           "videoId": "xVTI5eSzwzQ",
-          "plays": 17660000,
-          "playsText": "播放次數：1766萬",
+          "plays": 17670000,
+          "playsText": "播放次數：1767萬",
           "duration": 270,
           "byOther": false,
           "credits": {
@@ -3027,16 +3032,15 @@
             "music": "周杰倫",
             "arranger": "鍾興民"
           },
-          "nameKey": "迷迭香",
-          "mv": "K0Myfz5phlY"
+          "nameKey": "迷迭香"
         },
         {
           "index": 10,
           "title": "菊花台",
           "artists": "",
           "videoId": "PdjbRvvJAzg",
-          "plays": 51330000,
-          "playsText": "播放次數：5133萬",
+          "plays": 51350000,
+          "playsText": "播放次數：5135萬",
           "duration": 294,
           "byOther": false,
           "credits": {
@@ -3458,8 +3462,8 @@
           "title": "陽光宅男",
           "artists": "",
           "videoId": "qQ7g1tfEGFc",
-          "plays": 39990000,
-          "playsText": "播放次數：3999萬",
+          "plays": 40000000,
+          "playsText": "播放次數：4000萬",
           "duration": 223,
           "byOther": false,
           "credits": {
@@ -3845,8 +3849,7 @@
             "music": "周杰倫",
             "arranger": "鍾興民"
           },
-          "nameKey": "迷迭香",
-          "mv": "K0Myfz5phlY"
+          "nameKey": "迷迭香"
         },
         {
           "index": 17,
@@ -4071,8 +4074,8 @@
           "title": "蘭亭序",
           "artists": "",
           "videoId": "s5Xl5MXboas",
-          "plays": 46920000,
-          "playsText": "播放次數：4692萬",
+          "plays": 46950000,
+          "playsText": "播放次數：4695萬",
           "duration": 254,
           "byOther": false,
           "credits": {
@@ -4925,7 +4928,8 @@
             "music": "周杰倫",
             "arranger": "黃雨勳"
           },
-          "nameKey": "琴傷"
+          "nameKey": "琴傷",
+          "mv": "yHoadRoVF-U"
         },
         {
           "index": 8,
@@ -4941,8 +4945,7 @@
             "music": "周杰倫",
             "arranger": "周杰倫"
           },
-          "nameKey": "水手怕水",
-          "mv": "wUJ37I6au2w"
+          "nameKey": "水手怕水"
         },
         {
           "index": 9,
@@ -4958,8 +4961,7 @@
             "music": "周杰倫",
             "arranger": "林邁可"
           },
-          "nameKey": "世界未末日",
-          "mv": "IteE-HMVJ1M"
+          "nameKey": "世界未末日"
         },
         {
           "index": 10,
@@ -4991,8 +4993,7 @@
             "music": "周杰倫",
             "arranger": "林邁可"
           },
-          "nameKey": "超跑女神",
-          "mv": "CllkiAZajJI"
+          "nameKey": "超跑女神"
         }
       ],
       "releaseDate": "2011-11-11",
@@ -5073,7 +5074,8 @@
             "music": "周杰倫",
             "arranger": "黃雨勛"
           },
-          "nameKey": "明明就"
+          "nameKey": "明明就",
+          "mv": "mL3Ecc-PNRk"
         },
         {
           "index": 5,
@@ -5113,8 +5115,8 @@
           "title": "愛你沒差",
           "artists": "",
           "videoId": "miBGaUagOz8",
-          "plays": 63640000,
-          "playsText": "播放次數：6364萬",
+          "plays": 63700000,
+          "playsText": "播放次數：6370萬",
           "duration": 281,
           "byOther": false,
           "credits": {
@@ -5395,7 +5397,8 @@
             "music": "周杰倫",
             "arranger": "黃雨勛"
           },
-          "nameKey": "明明就"
+          "nameKey": "明明就",
+          "mv": "mL3Ecc-PNRk"
         },
         {
           "index": 13,
@@ -5642,8 +5645,8 @@
           "title": "氣勢",
           "artists": "周杰倫",
           "videoId": "vQ0MW3OYRp4",
-          "plays": 9429,
-          "playsText": "播放次數：9429",
+          "plays": 9437,
+          "playsText": "播放次數：9437",
           "duration": 71,
           "byOther": false,
           "nameKey": "氣勢"
@@ -5653,8 +5656,8 @@
           "title": "龍門澡堂",
           "artists": "周杰倫",
           "videoId": "lXCSViggwwk",
-          "plays": 9369,
-          "playsText": "播放次數：9369",
+          "plays": 9374,
+          "playsText": "播放次數：9374",
           "duration": 79,
           "byOther": false,
           "nameKey": "龍門澡堂"
@@ -5686,8 +5689,8 @@
           "title": "阿郎的童年",
           "artists": "周杰倫",
           "videoId": "aTwvqiJsQwg",
-          "plays": 7874,
-          "playsText": "播放次數：7874",
+          "plays": 7876,
+          "playsText": "播放次數：7876",
           "duration": 67,
           "byOther": false,
           "nameKey": "阿郞的童年"
@@ -5697,8 +5700,8 @@
           "title": "Strike",
           "artists": "周杰倫",
           "videoId": "yKHzIAOAp8k",
-          "plays": 7216,
-          "playsText": "播放次數：7216",
+          "plays": 7222,
+          "playsText": "播放次數：7222",
           "duration": 48,
           "byOther": false,
           "nameKey": "strike"
@@ -5708,8 +5711,8 @@
           "title": "熱血碼頭",
           "artists": "周杰倫",
           "videoId": "ElrDZKXfyRk",
-          "plays": 6276,
-          "playsText": "播放次數：6276",
+          "plays": 6278,
+          "playsText": "播放次數：6278",
           "duration": 53,
           "byOther": false,
           "nameKey": "熱血碼頭"
@@ -5752,8 +5755,8 @@
           "title": "情人湖夜市",
           "artists": "唐從聖",
           "videoId": "5USKBDQP5m0",
-          "plays": 6373,
-          "playsText": "播放次數：6373",
+          "plays": 6378,
+          "playsText": "播放次數：6378",
           "duration": 62,
           "byOther": true,
           "nameKey": "情人湖夜市"
@@ -5763,8 +5766,8 @@
           "title": "撈金魚",
           "artists": "周杰倫",
           "videoId": "J00u10gTZoo",
-          "plays": 7085,
-          "playsText": "播放次數：7085",
+          "plays": 7089,
+          "playsText": "播放次數：7089",
           "duration": 48,
           "byOther": false,
           "nameKey": "撈金魚"
@@ -5774,8 +5777,8 @@
           "title": "骰子",
           "artists": "周杰倫",
           "videoId": "JHYzb_1L8GQ",
-          "plays": 5884,
-          "playsText": "播放次數：5884",
+          "plays": 5890,
+          "playsText": "播放次數：5890",
           "duration": 62,
           "byOther": false,
           "nameKey": "骰子"
@@ -5807,8 +5810,8 @@
           "title": "英雄之歌",
           "artists": "周杰倫",
           "videoId": "IvEVa-R_5E8",
-          "plays": 6588,
-          "playsText": "播放次數：6588",
+          "plays": 6593,
+          "playsText": "播放次數：6593",
           "duration": 55,
           "byOther": false,
           "nameKey": "英雄之歌"
@@ -5851,8 +5854,8 @@
           "title": "威少的陷阱",
           "artists": "周杰倫",
           "videoId": "5zU_RJKwjag",
-          "plays": 6423,
-          "playsText": "播放次數：6423",
+          "plays": 6430,
+          "playsText": "播放次數：6430",
           "duration": 107,
           "byOther": false,
           "nameKey": "威少的陷阱"
@@ -5862,8 +5865,8 @@
           "title": "哪裡都是你",
           "artists": "周杰倫",
           "videoId": "yfn8sE9obWU",
-          "plays": 23640000,
-          "playsText": "播放次數：2364萬",
+          "plays": 23650000,
+          "playsText": "播放次數：2365萬",
           "duration": 281,
           "byOther": false,
           "credits": {
@@ -5879,8 +5882,8 @@
           "title": "兄弟的安慰",
           "artists": "周杰倫",
           "videoId": "3KxNCL2SUTo",
-          "plays": 8564,
-          "playsText": "播放次數：8564",
+          "plays": 8571,
+          "playsText": "播放次數：8571",
           "duration": 89,
           "byOther": false,
           "nameKey": "兄弟的安慰"
@@ -5890,8 +5893,8 @@
           "title": "悲劇的序幕",
           "artists": "周杰倫",
           "videoId": "ubBAiDXAjmc",
-          "plays": 6329,
-          "playsText": "播放次數：6329",
+          "plays": 6332,
+          "playsText": "播放次數：6332",
           "duration": 90,
           "byOther": false,
           "nameKey": "悲劇的序幕"
@@ -5901,8 +5904,8 @@
           "title": "無助",
           "artists": "周杰倫",
           "videoId": "iD5M4lGJ8z4",
-          "plays": 6743,
-          "playsText": "播放次數：6743",
+          "plays": 6744,
+          "playsText": "播放次數：6744",
           "duration": 70,
           "byOther": false,
           "nameKey": "無助"
@@ -5912,8 +5915,8 @@
           "title": "亡命追逐",
           "artists": "周杰倫",
           "videoId": "aMnV6_2aXSo",
-          "plays": 6338,
-          "playsText": "播放次數：6338",
+          "plays": 6339,
+          "playsText": "播放次數：6339",
           "duration": 235,
           "byOther": false,
           "nameKey": "亡命追逐"
@@ -5923,8 +5926,8 @@
           "title": "Goodbye",
           "artists": "周杰倫",
           "videoId": "pout1jNLWMI",
-          "plays": 8216,
-          "playsText": "播放次數：8216",
+          "plays": 8218,
+          "playsText": "播放次數：8218",
           "duration": 128,
           "byOther": false,
           "nameKey": "goodbye"
@@ -5984,8 +5987,8 @@
           "title": "孤單",
           "artists": "楊瑞代",
           "videoId": "_HOtJ_tFskQ",
-          "plays": 8657,
-          "playsText": "播放次數：8657",
+          "plays": 8658,
+          "playsText": "播放次數：8658",
           "duration": 235,
           "byOther": true,
           "nameKey": "孤單"
@@ -5995,8 +5998,8 @@
           "title": "美麗的消失",
           "artists": "楊瑞代",
           "videoId": "LSi2ht7b4cY",
-          "plays": 6804,
-          "playsText": "播放次數：6804",
+          "plays": 6808,
+          "playsText": "播放次數：6808",
           "duration": 341,
           "byOther": true,
           "nameKey": "美麗的消失"
@@ -6006,8 +6009,8 @@
           "title": "過場",
           "artists": "楊瑞代",
           "videoId": "tjApd9tFA4M",
-          "plays": 5186,
-          "playsText": "播放次數：5186",
+          "plays": 5188,
+          "playsText": "播放次數：5188",
           "duration": 70,
           "byOther": true,
           "nameKey": "過場"
@@ -6017,8 +6020,8 @@
           "title": "熱鬧的寧靜",
           "artists": "楊瑞代",
           "videoId": "QTr22yN691Y",
-          "plays": 5843,
-          "playsText": "播放次數：5843",
+          "plays": 5845,
+          "playsText": "播放次數：5845",
           "duration": 226,
           "byOther": true,
           "nameKey": "熱鬧的寧靜"
@@ -6028,8 +6031,8 @@
           "title": "歸途",
           "artists": "楊瑞代",
           "videoId": "3lrcZa5AhTI",
-          "plays": 5513,
-          "playsText": "播放次數：5513",
+          "plays": 5517,
+          "playsText": "播放次數：5517",
           "duration": 205,
           "byOther": true,
           "nameKey": "歸途"
@@ -6092,7 +6095,8 @@
             "music": "周杰倫",
             "arranger": "黃雨勳"
           },
-          "nameKey": "竊愛"
+          "nameKey": "竊愛",
+          "mv": "6ZeE3vgwQSI"
         },
         {
           "index": 3,
@@ -6736,8 +6740,8 @@
           "title": "青花瓷",
           "artists": "周杰倫",
           "videoId": "cXZkjQSgoFw",
-          "plays": 1860000,
-          "playsText": "播放次數：186萬",
+          "plays": 1870000,
+          "playsText": "播放次數：187萬",
           "duration": 240,
           "byOther": false,
           "credits": {
@@ -6839,8 +6843,7 @@
             "music": "周杰倫",
             "arranger": "洪敬堯"
           },
-          "nameKey": "印地安老斑鳩",
-          "mv": "hnmWCmR6o7A"
+          "nameKey": "印地安老斑鳩"
         },
         {
           "index": 19,
@@ -7009,8 +7012,8 @@
           "title": "Mojito",
           "artists": "",
           "videoId": "-biOGdYiF-I",
-          "plays": 60110000,
-          "playsText": "播放次數：6011萬",
+          "plays": 60130000,
+          "playsText": "播放次數：6013萬",
           "duration": 186,
           "byOther": false,
           "credits": {
@@ -7144,8 +7147,8 @@
           "title": "Mojito",
           "artists": "周杰倫",
           "videoId": "-biOGdYiF-I",
-          "plays": 60110000,
-          "playsText": "播放次數：6011萬",
+          "plays": 60130000,
+          "playsText": "播放次數：6013萬",
           "duration": 186,
           "byOther": false,
           "credits": {
@@ -7392,7 +7395,8 @@
           "playsText": "播放次數：77萬",
           "duration": 99,
           "byOther": false,
-          "nameKey": "卽興曲"
+          "nameKey": "卽興曲",
+          "mv": "yjYkxdXd7EA"
         }
       ],
       "releaseDate": "2025-06-04",
@@ -7469,8 +7473,8 @@
           "title": "太陽之子",
           "artists": "",
           "videoId": "Hgnpi3eBQ9o",
-          "plays": 9990000,
-          "playsText": "播放次數：999萬",
+          "plays": 10000000,
+          "playsText": "播放次數：1000萬",
           "duration": 298,
           "byOther": false,
           "credits": {
@@ -7486,8 +7490,8 @@
           "title": "西西里",
           "artists": "",
           "videoId": "yCWTHQ3_O-I",
-          "plays": 11150000,
-          "playsText": "播放次數：1115萬",
+          "plays": 11240000,
+          "playsText": "播放次數：1124萬",
           "duration": 230,
           "byOther": false,
           "credits": {
@@ -7495,15 +7499,16 @@
             "music": "周杰倫",
             "arranger": "黃雨勳"
           },
-          "nameKey": "西西里"
+          "nameKey": "西西里",
+          "mv": "yCWTHQ3_O-I"
         },
         {
           "index": 3,
           "title": "那天下雨了",
           "artists": "",
           "videoId": "lNCQbx-y9V8",
-          "plays": 9970000,
-          "playsText": "播放次數：997萬",
+          "plays": 10010000,
+          "playsText": "播放次數：1001萬",
           "duration": 224,
           "byOther": false,
           "credits": {
@@ -7602,8 +7607,8 @@
           "title": "聖徒",
           "artists": "",
           "videoId": "D9HPxcbV-2k",
-          "plays": 1610000,
-          "playsText": "播放次數：161萬",
+          "plays": 1620000,
+          "playsText": "播放次數：162萬",
           "duration": 176,
           "byOther": false,
           "credits": {
@@ -7635,8 +7640,8 @@
           "title": "淘金小鎮",
           "artists": "",
           "videoId": "SW3OQ0ijUCI",
-          "plays": 12330000,
-          "playsText": "播放次數：1233萬",
+          "plays": 12340000,
+          "playsText": "播放次數：1234萬",
           "duration": 251,
           "byOther": false,
           "credits": {

@@ -92,15 +92,28 @@ function buildSongKeys(albums) {
 
   // 歌名不同但播放數完全相同、長度差 3 秒內 → 同一首（「晚安」＝「晚安曲」、「Hsin Suan De Shing Ke」＝「心酸的情歌」）；
   // 播放數太少容易撞數字，只看 1 萬次以上。合併後以有中文的歌名為準。
+  // 但光看播放數與長度會誤併：「47萬」是四捨五入的粗略數字，不同歌很容易撞
+  // （〈適合相愛的時辰〉曾被併進〈真愛無敵〉），所以歌名也要有關聯才算同一首：
   const parent = new Map()
   const find = (k) => (parent.get(k) === k || !parent.has(k) ? k : find(parent.get(k)))
+  // 一邊是另一邊的一部分（「晚安」⊂「晚安曲」），或一邊是羅馬拼音、另一邊是中文
+  // （「Hsin Suan De Shing Ke」＝「心酸的情歌」）才算同一首；兩邊都是中文又互不包含的不併
+  const sameSong = (a, b) => {
+    if (!a.name || !b.name) return false
+    if (a.name === b.name) return true
+    // 一邊羅馬拼音、一邊中日文：同一個錄音長度會分秒不差，差一秒就不是同一首
+    // （翁倩玉〈Love Is Calling Me〉曾被併進〈魅せられて〉）
+    if (a.cjk !== b.cjk) return a.duration === b.duration
+    const [short, long] = a.name.length <= b.name.length ? [a.name, b.name] : [b.name, a.name]
+    return short.length >= 2 && long.includes(short)
+  }
   const bySignature = new Map() // playsText → [{ key, duration, cjk }]
   for (const album of albums) {
     for (const t of album.tracks) {
       if (!t.playsText || parseApprox(t.playsText) < 1e4 || t.duration == null) continue
       const key = keyOf.get(`${trackKey(t)}|${t.playsText}`)
       if (!bySignature.has(t.playsText)) bySignature.set(t.playsText, [])
-      bySignature.get(t.playsText).push({ key, duration: t.duration, cjk: hasCJK(t.title) })
+      bySignature.get(t.playsText).push({ key, name: trackKey(t), duration: t.duration, cjk: hasCJK(t.title) })
     }
   }
   for (const list of bySignature.values()) {
@@ -109,6 +122,7 @@ function buildSongKeys(albums) {
         const a = list[i]
         const b = list[j]
         if (Math.abs(a.duration - b.duration) > 3) continue
+        if (!sameSong(a, b)) continue
         const ra = find(a.key)
         const rb = find(b.key)
         if (ra === rb) continue

@@ -2,12 +2,12 @@
   "slug": "5566",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T00:32:34.091Z",
+  "fetchedAt": "2026-09-18T22:04:51.061Z",
   "artist": {
     "channelId": "UCNZAgq42kWS1YIdo43WJEwA",
     "name": "5566",
     "thumbnail": "https://yt3.googleusercontent.com/u-72uLKajeUuptDqsJ1WZlSyyHNmCAYoDVKK5ISbtHs2Gn0C1j3Gmyb5BLER2Qew84Cirida9-rPf2s=w2880-h1200-p-l90-rj",
-    "subscribers": 6150,
+    "subscribers": 6160,
     "monthlyAudience": null,
     "videos": [
       {
@@ -595,6 +595,9 @@
         "videoId": "0TfCua4yyAg"
       }
     ],
+    "songListIds": [
+      "VLOLAK5uy_kFupnZkrIUBsJJbusYgNwiSarh--bIELI"
+    ],
     "avatar": "https://yt3.googleusercontent.com/lzaFPySfHRDR9cCQmKLEg677oeVBa__N-X2ltcTCxHt0uEUhi-T8eS9Vj5zGdCvH49TRYNuAPQ=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -753,8 +756,8 @@
           "title": "我難過",
           "artists": "",
           "videoId": "FNHv8upzUxc",
-          "plays": 29820000,
-          "playsText": "播放次數：2982萬",
+          "plays": 29850000,
+          "playsText": "播放次數：2985萬",
           "duration": 285,
           "byOther": false,
           "nameKey": "我難過",
@@ -809,8 +812,8 @@
           "title": "愛情漫遊(Remix)",
           "artists": "",
           "videoId": "_8kEHrBuF58",
-          "plays": 3655,
-          "playsText": "播放次數：3655",
+          "plays": 3672,
+          "playsText": "播放次數：3672",
           "duration": 262,
           "byOther": false,
           "nameKey": "愛情漫遊"
@@ -881,8 +884,8 @@
           "title": "Bounce",
           "artists": "",
           "videoId": "JPFsvwYRMDs",
-          "plays": 3013,
-          "playsText": "播放次數：3013",
+          "plays": 3029,
+          "playsText": "播放次數：3029",
           "duration": 207,
           "byOther": false,
           "nameKey": "bounce"
@@ -949,6 +952,56 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "55662ndalbum"
+    },
+    {
+      "browseId": "MPREb_1PllmfTIcdb",
+      "playlistId": "OLAK5uy_mdWRs6UeNUukyoCqeW32gyzPrFtp7W8Sw",
+      "title": "C'est si bon 最棒冠軍精選",
+      "albumArtist": "群星",
+      "type": "Single",
+      "year": 2004,
+      "thumbnail": "https://yt3.googleusercontent.com/wx7HYE2j4yNJJuTuGLxib7FwnG9x6GSp14VWDoXBfMDrCxO19F4ZU-57zgBlI2EhXcXV8b6JntFa0ftQ=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "因為愛 (Love)",
+          "artists": "J-Stars喬傑立巨星",
+          "videoId": "EC8wNw7xImo",
+          "plays": 830000,
+          "playsText": "播放次數：83萬",
+          "duration": 298,
+          "byOther": true,
+          "nameKey": "因為愛"
+        },
+        {
+          "index": 2,
+          "title": "It's our party time",
+          "artists": "5566",
+          "videoId": "kpaPqbl4uvg",
+          "plays": 70000,
+          "playsText": "播放次數：7萬",
+          "duration": 262,
+          "byOther": false,
+          "nameKey": "itsourpartytime"
+        },
+        {
+          "index": 3,
+          "title": "C'est si bon",
+          "artists": "5566 和 7朵花",
+          "videoId": "fMSLSobhPMs",
+          "plays": 830000,
+          "playsText": "播放次數：83萬",
+          "duration": 231,
+          "byOther": false,
+          "nameKey": "cestsibon"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "cestsibon最棒冠軍精選"
     },
     {
       "browseId": "MPREb_Lf7PjDo0TAO",
@@ -1169,8 +1222,8 @@
           "title": "誤會大啦",
           "artists": "",
           "videoId": "4sSNdxpv6XI",
-          "plays": 3322,
-          "playsText": "播放次數：3322",
+          "plays": 3327,
+          "playsText": "播放次數：3327",
           "duration": 225,
           "byOther": false,
           "nameKey": "誤會大啦"
@@ -1237,6 +1290,46 @@
           "byOther": false,
           "titleZh": "我們 (Live)",
           "titleZhVariant": true,
+          "nameKey": "我們#live"
+        }
+      ],
+      "releaseDate": "2021-01-01",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "album-page",
+      "wikiTitle": "我們 (5566單曲)",
+      "wikiKind": "single",
+      "nameKey": "我們"
+    },
+    {
+      "browseId": "MPREb_U07P5EnL9Lp",
+      "playlistId": "OLAK5uy_kgcre_D8xVu7zizKsyYqGkBluV6LPzlUU",
+      "title": "我們",
+      "albumArtist": "5566",
+      "type": "Single",
+      "year": 2021,
+      "thumbnail": "https://yt3.googleusercontent.com/Lab3dQqwRY1zFcFLSLQvYD3rAjT4acZOCNvKOPatpNarleyTuR0DiXo2bHQWy8MvMmyZzB_qUvFfbDngpw=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "我們",
+          "artists": "",
+          "videoId": "dtS3BQaf_P0",
+          "plays": 31000,
+          "playsText": "播放次數：3.1萬",
+          "duration": 244,
+          "byOther": false,
+          "nameKey": "我們",
+          "mv": "X3Ma2vhc-M0"
+        },
+        {
+          "index": 2,
+          "title": "我們 (演唱會現場版)",
+          "artists": "",
+          "videoId": "-n2ohtd7mIA",
+          "plays": 31000,
+          "playsText": "播放次數：3.1萬",
+          "duration": 259,
+          "byOther": false,
           "nameKey": "我們#live"
         }
       ],
