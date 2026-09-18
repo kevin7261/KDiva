@@ -1,0 +1,80 @@
+{
+  "slug": "the-boys",
+  "fetchedAt": "2026-09-18T06:19:47.329Z",
+  "wiki": "紅孩兒 (團體)",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "青春的故事",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1992-03-01",
+        "precision": "month"
+      },
+      "end": {
+        "date": "1992-03-01",
+        "precision": "month"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺灣 臺北縣 板橋體育場"
+      ],
+      "venues": [
+        "臺灣 臺北縣 板橋體育場"
+      ],
+      "shows": []
+    },
+    {
+      "name": "音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-10-06",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-11-02",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣",
+        "中國大陸"
+      ],
+      "cities": [],
+      "venues": [
+        "臺北市 花漾Hana展演空間",
+        "上海市 VASLIVE瓦肆現場"
+      ],
+      "shows": [
+        {
+          "date": "2019-10-06",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "臺北市 花漾Hana展演空間",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "venue"
+        },
+        {
+          "date": "2019-11-02",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "",
+          "venue": "上海市 VASLIVE瓦肆現場",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
+}
