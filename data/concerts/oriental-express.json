@@ -1,9 +1,12 @@
 {
   "slug": "oriental-express",
-  "fetchedAt": "2026-09-18T07:18:06.257Z",
+  "fetchedAt": "2026-09-18T17:56:02.410Z",
   "wiki": "搖滾東方",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1967-10-25",
+      "precision": "day"
+    },
     "died": null,
     "formed": null,
     "disbanded": null

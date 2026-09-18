@@ -1,9 +1,12 @@
 {
   "slug": "accusefive",
-  "fetchedAt": "2026-09-18T01:17:02.253Z",
+  "fetchedAt": "2026-09-18T18:08:16.041Z",
   "wiki": "告五人",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1997-02-02",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "2017-01-01",

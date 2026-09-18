@@ -1,9 +1,12 @@
 {
   "slug": "831",
-  "fetchedAt": "2026-09-18T01:14:22.782Z",
+  "fetchedAt": "2026-09-18T18:04:50.681Z",
   "wiki": "八三夭",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1982-11-25",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "2003-08-31",
@@ -432,27 +435,57 @@
       ]
     },
     {
+      "name": "想見你想見你想見你 上海生日趴",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2023-09-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-09-09",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "中國大陸上海"
+      ],
+      "venues": [
+        "中國大陸上海"
+      ],
+      "shows": [
+        {
+          "date": "2023-09-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "中國大陸上海",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
       "name": "顛倒世界 世界巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2022-08-20",
+        "date": "2023-09-25",
         "precision": "day"
       },
       "end": {
         "date": "2024-10-25",
         "precision": "day"
       },
-      "showCount": 17,
+      "showCount": 13,
       "regions": [],
       "cities": [
-        "臺灣臺北"
+        "澳門"
       ],
       "venues": [
-        "臺灣臺北",
-        "香港",
         "澳門",
-        "臺灣高雄",
         "馬來西亞",
         "中國大陸北京",
         "溫哥華",
@@ -468,36 +501,6 @@
       ],
       "shows": [
         {
-          "date": "2022-08-20",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "臺灣臺北",
-          "lat": 25.0375,
-          "lon": 121.5625,
-          "geo": "venue"
-        },
-        {
-          "date": "2022-08-21",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "臺灣臺北",
-          "lat": 25.0375,
-          "lon": 121.5625,
-          "geo": "venue"
-        },
-        {
-          "date": "2023-03-25",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
           "date": "2023-09-25",
           "precision": "day",
           "region": "",
@@ -505,16 +508,6 @@
           "venue": "澳門",
           "lat": 22.19,
           "lon": 113.53805555555556,
-          "geo": "venue"
-        },
-        {
-          "date": "2023-10-14",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "臺灣高雄",
-          "lat": 22.615,
-          "lon": 120.2975,
           "geo": "venue"
         },
         {
@@ -635,39 +628,6 @@
           "venue": "澳洲雪梨",
           "lat": -33.867777777777775,
           "lon": 151.21,
-          "geo": "venue"
-        }
-      ]
-    },
-    {
-      "name": "想見你想見你想見你 上海生日趴",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2023-09-09",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2023-09-09",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [],
-      "cities": [
-        "中國大陸上海"
-      ],
-      "venues": [
-        "中國大陸上海"
-      ],
-      "shows": [
-        {
-          "date": "2023-09-09",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "中國大陸上海",
-          "lat": 31.2325,
-          "lon": 121.46916666666667,
           "geo": "venue"
         }
       ]

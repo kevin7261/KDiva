@@ -1,9 +1,12 @@
 {
   "slug": "bad",
-  "fetchedAt": "2026-09-18T01:11:44.702Z",
+  "fetchedAt": "2026-09-18T18:02:16.872Z",
   "wiki": "B.A.D",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1979-08-02",
+      "precision": "day"
+    },
     "died": null,
     "formed": null,
     "disbanded": null

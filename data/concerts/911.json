@@ -1,9 +1,12 @@
 {
   "slug": "911",
-  "fetchedAt": "2026-09-18T01:15:21.351Z",
+  "fetchedAt": "2026-09-18T18:06:08.082Z",
   "wiki": "玖壹壹",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1986-10-09",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "2009-09-11",

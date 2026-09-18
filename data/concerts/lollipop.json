@@ -1,9 +1,12 @@
 {
   "slug": "lollipop",
-  "fetchedAt": "2026-09-18T01:14:10.626Z",
+  "fetchedAt": "2026-09-18T18:04:38.411Z",
   "wiki": "棒棒堂",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1982-10-30",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "2006-01-01",

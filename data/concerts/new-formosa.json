@@ -1,9 +1,12 @@
 {
   "slug": "new-formosa",
-  "fetchedAt": "2026-09-18T01:07:12.959Z",
+  "fetchedAt": "2026-09-18T17:57:28.999Z",
   "wiki": "新寶島康樂隊",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1958-10-29",
+      "precision": "day"
+    },
     "died": null,
     "formed": null,
     "disbanded": null

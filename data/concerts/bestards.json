@@ -1,9 +1,12 @@
 {
   "slug": "bestards",
-  "fetchedAt": "2026-09-18T06:20:07.516Z",
+  "fetchedAt": "2026-09-18T18:08:44.141Z",
   "wiki": "理想混蛋",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1995-10-03",
+      "precision": "day"
+    },
     "died": null,
     "formed": null,
     "disbanded": null

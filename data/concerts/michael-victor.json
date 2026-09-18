@@ -1,9 +1,12 @@
 {
   "slug": "michael-victor",
-  "fetchedAt": "2026-09-18T01:08:22.222Z",
+  "fetchedAt": "2026-09-18T17:58:49.201Z",
   "wiki": "無印良品 (樂團)",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1970-08-30",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "1995-01-01",

@@ -1,9 +1,12 @@
 {
   "slug": "power-station",
-  "fetchedAt": "2026-09-18T01:20:11.064Z",
+  "fetchedAt": "2026-09-18T18:00:08.963Z",
   "wiki": "動力火車",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1969-02-15",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "1996-01-01",

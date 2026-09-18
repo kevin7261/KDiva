@@ -1,10 +1,16 @@
 {
   "slug": "comic-boyz",
-  "fetchedAt": "2026-09-18T01:12:32.544Z",
+  "fetchedAt": "2026-09-18T18:03:02.282Z",
   "wiki": "可米小子",
   "bio": {
-    "born": null,
-    "died": null,
+    "born": {
+      "date": "1983-01-27",
+      "precision": "day"
+    },
+    "died": {
+      "date": "2012-10-19",
+      "precision": "day"
+    },
     "formed": {
       "date": "2001-01-01",
       "precision": "year"

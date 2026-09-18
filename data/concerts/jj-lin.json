@@ -1,6 +1,6 @@
 {
   "slug": "jj-lin",
-  "fetchedAt": "2026-09-18T01:13:17.414Z",
+  "fetchedAt": "2026-09-18T18:03:45.324Z",
   "wiki": "林俊傑",
   "bio": {
     "born": {
@@ -156,76 +156,6 @@
       ]
     },
     {
-      "name": "二王一後聖誕演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2008-12-25",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2008-12-25",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "美國"
-      ],
-      "cities": [
-        "拉斯維加斯"
-      ],
-      "venues": [
-        "凱撒皇宮酒店羅馬大劇場"
-      ],
-      "shows": [
-        {
-          "date": "2008-12-25",
-          "precision": "day",
-          "region": "美國",
-          "city": "拉斯維加斯",
-          "venue": "凱撒皇宮酒店羅馬大劇場",
-          "lat": 36.16722222222222,
-          "lon": -115.14861111111111,
-          "geo": "city"
-        }
-      ]
-    },
-    {
-      "name": "新城唱好極品男聲音樂會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2009-03-15",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2009-03-15",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "香港"
-      ],
-      "cities": [
-        "香港"
-      ],
-      "venues": [
-        "香港會議展覽中心"
-      ],
-      "shows": [
-        {
-          "date": "2009-03-15",
-          "precision": "day",
-          "region": "香港",
-          "city": "香港",
-          "venue": "香港會議展覽中心",
-          "lat": 22.283661111111,
-          "lon": 114.17284722222,
-          "geo": "venue"
-        }
-      ]
-    },
-    {
       "name": "傑伴2009世界巡迴演唱會 JJ Lin World Tour 2009",
       "page": "傑伴2009世界巡迴演唱會",
       "kind": "tour",
@@ -368,7 +298,7 @@
       ]
     },
     {
-      "name": "林俊傑墨爾本演唱會 （JJ Lin Melbourne Concert）",
+      "name": "轉動世界 墨爾本演唱會",
       "page": null,
       "kind": "concert",
       "start": {
@@ -379,87 +309,11 @@
         "date": "2010-04-24",
         "precision": "day"
       },
-      "showCount": 1,
-      "regions": [
-        "澳洲"
-      ],
-      "cities": [
-        "墨爾本"
-      ],
-      "venues": [
-        "墨爾本會展中心"
-      ],
-      "shows": [
-        {
-          "date": "2010-04-24",
-          "precision": "day",
-          "region": "澳洲",
-          "city": "墨爾本",
-          "venue": "墨爾本會展中心",
-          "lat": -37.814166666666665,
-          "lon": 144.96305555555554,
-          "geo": "city"
-        }
-      ]
-    },
-    {
-      "name": "APAHM巡迴演唱會",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2010-05-26",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2010-05-29",
-        "precision": "day"
-      },
-      "showCount": 3,
-      "regions": [
-        "美國"
-      ],
-      "cities": [
-        "華盛頓",
-        "舊金山",
-        "洛杉磯"
-      ],
-      "venues": [
-        "GW Lisner Auditorium",
-        "Palace of Fine Arts Theatre",
-        "The Novo"
-      ],
-      "shows": [
-        {
-          "date": "2010-05-26",
-          "precision": "day",
-          "region": "美國",
-          "city": "華盛頓",
-          "venue": "GW Lisner Auditorium",
-          "lat": 38.895,
-          "lon": -77.036666666667,
-          "geo": "city"
-        },
-        {
-          "date": "2010-05-27",
-          "precision": "day",
-          "region": "美國",
-          "city": "舊金山",
-          "venue": "Palace of Fine Arts Theatre",
-          "lat": 37.775,
-          "lon": -122.41944444444445,
-          "geo": "city"
-        },
-        {
-          "date": "2010-05-29",
-          "precision": "day",
-          "region": "美國",
-          "city": "洛杉磯",
-          "venue": "The Novo",
-          "lat": 34.05223,
-          "lon": -118.24368,
-          "geo": "city"
-        }
-      ]
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
     },
     {
       "name": "I AM世界巡迴演唱會 JJ Lin I AM World Tour",
@@ -613,111 +467,6 @@
           "lat": 25.0506985,
           "lon": 121.5501221,
           "geo": "venue"
-        }
-      ]
-    },
-    {
-      "name": "林俊傑大西洋城聖誕演唱會 （JJ Lin Christmas Concert）",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2010-12-25",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2010-12-25",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "美國"
-      ],
-      "cities": [
-        "大西洋城"
-      ],
-      "venues": [
-        "Circus Maximus Theater"
-      ],
-      "shows": [
-        {
-          "date": "2010-12-25",
-          "precision": "day",
-          "region": "美國",
-          "city": "大西洋城",
-          "venue": "Circus Maximus Theater",
-          "lat": 39.3625,
-          "lon": -74.425,
-          "geo": "city"
-        }
-      ]
-    },
-    {
-      "name": "溫哥華閃耀之星演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2011-05-06",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2011-05-06",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "加拿大"
-      ],
-      "cities": [
-        "溫哥華"
-      ],
-      "venues": [
-        "The Centre For Performing Arts"
-      ],
-      "shows": [
-        {
-          "date": "2011-05-06",
-          "precision": "day",
-          "region": "加拿大",
-          "city": "溫哥華",
-          "venue": "The Centre For Performing Arts",
-          "lat": 49.26083333333333,
-          "lon": -123.1138888888889,
-          "geo": "city"
-        }
-      ]
-    },
-    {
-      "name": "We Together新歌演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2012-02-17",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-02-17",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "臺灣"
-      ],
-      "cities": [
-        "新北"
-      ],
-      "venues": [
-        "新北市政府前廣場"
-      ],
-      "shows": [
-        {
-          "date": "2012-02-17",
-          "precision": "day",
-          "region": "臺灣",
-          "city": "新北",
-          "venue": "新北市政府前廣場",
-          "lat": 25.0125,
-          "lon": 121.465,
-          "geo": "city"
         }
       ]
     },
@@ -1278,54 +1027,6 @@
           "lat": 22.6686073,
           "lon": 120.3019101,
           "geo": "venue"
-        }
-      ]
-    },
-    {
-      "name": "和自己對話微距音樂會",
-      "page": "和自己對話",
-      "kind": "tour",
-      "start": {
-        "date": "2016-01-02",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2016-01-11",
-        "precision": "day"
-      },
-      "showCount": 2,
-      "regions": [
-        "臺灣",
-        "中國大陸"
-      ],
-      "cities": [
-        "臺北",
-        "北京"
-      ],
-      "venues": [
-        "臺北國際會議中心",
-        "光華路五號國際會展中心"
-      ],
-      "shows": [
-        {
-          "date": "2016-01-02",
-          "precision": "day",
-          "region": "臺灣",
-          "city": "臺北",
-          "venue": "臺北國際會議中心",
-          "lat": 25.033333,
-          "lon": 121.560556,
-          "geo": "venue"
-        },
-        {
-          "date": "2016-01-11",
-          "precision": "day",
-          "region": "中國大陸",
-          "city": "北京",
-          "venue": "光華路五號國際會展中心",
-          "lat": 39.90403,
-          "lon": 116.407526,
-          "geo": "city"
         }
       ]
     },

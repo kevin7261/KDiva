@@ -1,9 +1,12 @@
 {
   "slug": "little-tigers",
-  "fetchedAt": "2026-09-18T01:04:36.835Z",
+  "fetchedAt": "2026-09-18T17:54:59.608Z",
   "wiki": "小虎隊",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1970-10-31",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "1989-01-01",
