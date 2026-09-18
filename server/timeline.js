@@ -114,16 +114,25 @@ export async function buildTimeline() {
   // 團體沒有「年紀」，只有成軍與解散年份
   const bio = Object.fromEntries(
     artists
-      .filter((a) => a.bio?.born || a.bio?.died || a.bio?.formed || a.bio?.disbanded)
+      .filter((a) => (a.group === 'group' ? a.bio?.formed || a.bio?.disbanded : a.bio?.born || a.bio?.died))
       .map((a) => [
         a.slug,
-        {
-          born: a.bio.born?.date ?? null,
-          died: a.bio.died?.date ?? null,
-          formed: a.bio.formed?.date ?? null,
-          disbanded: a.bio.disbanded?.date ?? null,
-          group: a.group === 'group' || undefined,
-        },
+        // 團體的 wiki 有時指向某位團員的個人條目（金門王與李炳輝 → 金門王），
+        // 那個生卒年是那個人的、不是團體的，不能收
+        a.group === 'group'
+          ? {
+              born: null,
+              died: null,
+              formed: a.bio.formed?.date ?? null,
+              disbanded: a.bio.disbanded?.date ?? null,
+              group: true,
+            }
+          : {
+              born: a.bio.born?.date ?? null,
+              died: a.bio.died?.date ?? null,
+              formed: a.bio.formed?.date ?? null,
+              disbanded: a.bio.disbanded?.date ?? null,
+            },
       ]),
   )
   await writeFile(bioFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists: bio }))

@@ -11,6 +11,9 @@ import { fetchWrittenWorks } from './written-wiki.js'
 import { releaseSortKey } from '../src/lib/release.js'
 
 const BROWSE_URL = 'https://music.youtube.com/youtubei/v1/browse?prettyPrint=false'
+const SEARCH_URL = 'https://music.youtube.com/youtubei/v1/search?prettyPrint=false'
+// 只搜「歌曲」分頁的參數
+const SONGS_FILTER = 'EgWKAQIIAWoKEAkQChAFEAMQBA=='
 
 function clientVersion() {
   const d = new Date()
@@ -41,6 +44,31 @@ async function browse(body, attempt = 1) {
       return browse(body, attempt + 1)
     }
     throw new Error(`YouTube Music 回應 ${res.status}（${JSON.stringify(body).slice(0, 80)}）`)
+  }
+  return res.json()
+}
+
+async function search(query, params, continuation = null, attempt = 1) {
+  const res = await fetch(SEARCH_URL, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+      origin: 'https://music.youtube.com',
+      referer: 'https://music.youtube.com/',
+      'user-agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36',
+    },
+    body: JSON.stringify({
+      context: { client: { clientName: 'WEB_REMIX', clientVersion: clientVersion(), hl: 'zh-TW', gl: 'TW' } },
+      ...(continuation ? { continuation } : { query, params }),
+    }),
+  })
+  if (!res.ok) {
+    if (attempt < 3 && (res.status === 429 || res.status >= 500)) {
+      await new Promise((r) => setTimeout(r, 1000 * attempt))
+      return search(query, params, continuation, attempt + 1)
+    }
+    throw new Error(`YouTube Music 搜尋回應 ${res.status}（${query}）`)
   }
   return res.json()
 }
@@ -167,6 +195,72 @@ async function collectVideos(shelf) {
     .filter((v) => v.title && v.videoId)
 }
 
+/**
+ * 頻道架上沒列、但確實掛在這位歌手名下的發行。
+ * YouTube Music 有時不把單曲放進歌手頁的「單曲與迷你專輯」架（許茹芸〈廢墟之燼〉就是），
+ * 只有歌曲搜尋找得到。演出者欄要對得上本人才收，避免拉進同名歌手的作品；
+ * 真的混進別人的曲目，後面的 markOtherArtists 還會再擋一次。
+ */
+/** 歌手頁「熱門歌曲」的完整播放清單，裡面的曲目會帶出所屬發行 */
+async function releasesFromSongList(playlistId) {
+  const out = new Map()
+  let page = await browse({ browseId: playlistId })
+  for (let guard = 0; guard < 12; guard++) {
+    for (const item of findAll(page, 'musicResponsiveListItemRenderer')) {
+      const id = [...findAll(item, 'browseId')].find((b) => typeof b === 'string' && b.startsWith('MPRE'))
+      if (id) out.set(id, true)
+    }
+    const token = findFirst(page, 'continuationCommand')?.token ?? findFirst(page, 'nextContinuationData')?.continuation
+    if (!token) break
+    page = await browse({ continuation: token })
+  }
+  return [...out.keys()]
+}
+
+async function discoverReleases(artistConfig, known, log = () => {}) {
+  const names = [artistConfig.name, artistConfig.en, ...(artistConfig.aliases ?? []), ...(artistConfig.names ?? [])]
+    .filter(Boolean)
+    .map((n) => normalizeTitle(n))
+    .filter((k) => k.length >= 2)
+  if (!names.length) return []
+  const queries = [...new Set([artistConfig.name, artistConfig.en].filter(Boolean))]
+  const found = new Map()
+  // 先用歌手頁「熱門歌曲」的完整清單（最可靠），再用搜尋補
+  for (const pl of artistConfig._songListIds ?? []) {
+    try {
+      for (const id of await releasesFromSongList(pl)) if (!known.has(id)) found.set(id, '')
+    } catch {
+      /* 清單讀不到就算了，下面還有搜尋 */
+    }
+  }
+  for (const q of queries) {
+    let page
+    try {
+      page = await search(q, SONGS_FILTER)
+    } catch {
+      continue
+    }
+    for (let guard = 0; guard < 3; guard++) {
+      for (const item of findAll(page, 'musicResponsiveListItemRenderer')) {
+        const cols = (item.flexColumns ?? []).map((c) => text(c.musicResponsiveListItemFlexColumnRenderer?.text))
+        const by = normalizeTitle(cols.slice(1).join(' '))
+        if (!names.some((n) => by.includes(n))) continue
+        const id = [...findAll(item, 'browseId')].find((b) => typeof b === 'string' && b.startsWith('MPRE'))
+        if (id && !known.has(id)) found.set(id, cols[0] ?? '')
+      }
+      const token = findFirst(page, 'continuationCommand')?.token ?? findFirst(page, 'nextContinuationData')?.continuation
+      if (!token) break
+      try {
+        page = await search(q, SONGS_FILTER, token)
+      } catch {
+        break
+      }
+    }
+  }
+  if (found.size) log(`  頻道架上沒列、搜尋補到的發行：${found.size} 張`)
+  return [...found.keys()].map((browseId) => ({ browseId, title: '', type: 'Single', year: null, thumbnail: null }))
+}
+
 async function fetchArtist(channelId) {
   const page = await browse({ browseId: channelId })
   const header = page.header?.musicImmersiveHeaderRenderer ?? page.header?.musicVisualHeaderRenderer ?? {}
@@ -184,6 +278,13 @@ async function fetchArtist(channelId) {
       videos.push(...(await collectVideos(shelf)))
     }
   }
+  // 「熱門歌曲」不是輪播架，是一般的 shelf；它的「顯示全部」是一份完整歌曲清單
+  const songListIds = []
+  for (const section of sections) {
+    const ms = section.musicShelfRenderer
+    const id = ms && (ms.bottomEndpoint?.browseEndpoint?.browseId ?? findFirst(ms, 'browseEndpoint')?.browseId)
+    if (id?.startsWith('VL')) songListIds.push(id)
+  }
 
   const subscribersText = text(findFirst(header.subscriptionButton, 'longSubscriberCountText')) ||
     text(findFirst(header.subscriptionButton, 'subscriberCountText'))
@@ -196,6 +297,7 @@ async function fetchArtist(channelId) {
     monthlyAudience: parseCount(text(header.monthlyListenerCount)),
     releases: [...new Map(releases.map((r) => [r.browseId, r])).values()],
     videos: [...new Map(videos.map((v) => [v.videoId, v])).values()],
+    songListIds,
   }
 }
 
@@ -725,6 +827,23 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
   if (artistConfig.cjkOnly) artist.releases = artist.releases.filter((r) => hasCJK(r.title))
   // 頻道混了很多同名歌手、只有少數幾張是這位歌手的（GoGoMeMe）：只收指定的專輯
   if (artistConfig.releases) artist.releases = artist.releases.filter((r) => artistConfig.releases.includes(r.browseId))
+  // 頻道架上沒列的發行，用歌曲搜尋補。
+  // cjkOnly / releases 這兩個設定代表頻道本來就混了同名歌手，那種情況再去搜尋補漏風險太高，跳過
+  if (!artistConfig.cjkOnly && !artistConfig.releases) {
+    const known = new Set(artist.releases.map((r) => r.browseId))
+    try {
+      artist.releases.push(...(await discoverReleases({ ...artistConfig, _songListIds: artist.songListIds ?? [] }, known, log)))
+    } catch (err) {
+      log(`  搜尋補漏失敗：${err.message}`)
+    }
+  }
+  // 連歌手頁與搜尋都撈不到的發行（許茹芸〈廢墟之燼〉），只能手動指定 browseId
+  if (artistConfig.extraReleases) {
+    const known = new Set(artist.releases.map((r) => r.browseId))
+    const add = artistConfig.extraReleases.filter((id) => !known.has(id))
+    artist.releases.push(...add.map((browseId) => ({ browseId, title: '', type: 'Single', year: null, thumbnail: null })))
+    if (add.length) log(`  手動補上的發行：${add.length} 張`)
+  }
   // YouTube Music 偶爾把別人的作品掛到這位歌手名下（羅大佑名下的 1989 單曲〈故鄉〉），上游標錯只能手動排除
   if (artistConfig.excludeReleases) {
     const drop = new Set(artistConfig.excludeReleases)

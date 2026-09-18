@@ -11,6 +11,7 @@
 // photo：頻道照片不對時指定，'wikipedia' 用 Wikipedia 條目主圖，或直接填圖片網址
 // releases：頻道混了很多同名歌手時，只收這些專輯（YouTube Music 的 browseId）
 // excludeReleases：YouTube Music 把別人的作品標成這位歌手時，排除這些 browseId
+// extraReleases：歌手頁與搜尋都撈不到、但確實是他的發行，手動補上 browseId
 export const ARTISTS = [
   { slug: 'chi-lu-hsia', group: 'female', lang: 'tw', name: '紀露霞', en: 'Chi Lu-hsia', debut: '1956', channelId: 'UClGlbgq9Gy3mmdEde-ekQeA', wiki: '紀露霞', aliases: ['邱秋英'] },
   { slug: 'judy-ongg', group: 'female', name: '翁倩玉', en: 'Judy Ongg', debut: '1960', channelId: 'UC9NKMcJmtnmXhsq0RwUEYEw', extraChannelIds: ['UCLQJWIKWHdYbAtkIG6tPJZA'], wiki: '翁倩玉', aliases: ['ジュディ・オング'] },
@@ -155,7 +156,7 @@ export const ARTISTS = [
   { slug: 'kelly-chen', group: 'female', name: '陳慧琳', en: 'Kelly Chen', debut: '1995', channelId: 'UCQFTe1obSoLmWiTbyx2wfkA', wiki: '陳慧琳', aliases: ['陈慧琳'] },
   { slug: 'may-sun', group: 'female', lang: 'tw', name: '孫淑媚', en: 'May Sun', debut: '1995', channelId: 'UC2T8pvxEjmmZag8oL9eNGMA', extraChannelIds: ['UC1q9hUU3J6e0qGrKNFw0eRA'], wiki: '孫淑媚', aliases: ['孫向晴'] },
   { slug: 'su-ming-yuan', group: 'male', lang: 'tw', name: '蘇明淵', en: 'Justin Su', debut: '1995-05', channelId: 'UCOHfYkEfs3qF8NYkzAdmoUw', wiki: '蘇明淵' },
-  { slug: 'valen-hsu', group: 'female', name: '許茹芸', en: 'Valen Hsu', debut: '1995-06', channelId: 'UCZgpCUQ69DOR8OUKAxD8exw', wiki: '許茹芸' },
+  { slug: 'valen-hsu', group: 'female', name: '許茹芸', en: 'Valen Hsu', debut: '1995-06', channelId: 'UCZgpCUQ69DOR8OUKAxD8exw', extraReleases: ['MPREb_i3AObzwLRwe'], wiki: '許茹芸' },
   { slug: 'daniel-chan', group: 'male', name: '陳曉東', en: 'Daniel Chan', debut: '1995-12-01', channelId: 'UC0MsG_EpoTYroJTVQKFRJEw', wiki: '陳曉東 (藝人)', aliases: ['陈晓东'] },
   { slug: 'julia-peng', group: 'female', name: '彭佳慧', en: 'Julia Peng', debut: '1996', channelId: 'UC1tBiwuyXgWNLWiUpx53TRA', wiki: '彭佳慧' },
   { slug: 'gigi-leung', group: 'female', name: '梁詠琪', en: 'Gigi Leung', debut: '1996', channelId: 'UC_yk6-0jRw__Ys5cakYotcg', wiki: '梁詠琪' },
@@ -243,7 +244,7 @@ export const ARTISTS = [
   { slug: 'sodagreen', group: 'group', name: '蘇打綠', en: 'sodagreen', debut: '2004-05', channelId: 'UC_hqZWcuNgQnRTulFy6BN7w', extraChannelIds: ['UCUK1GVEFFX9Xv4mJjz8m55g'], wiki: '蘇打綠', aliases: ['魚丁糸', 'Oaeen'], members: ['吳青峰', '謝馨儀', '史俊威', '龔鈺祺', '劉家凱', '何景揚'] },
   { slug: 'ric-jan', group: 'male', lang: 'tw', name: '荒山亮', en: 'Ric Jan', debut: '2005', channelId: 'UCImdJ9Rjmn-xW4cjME94GNg', wiki: '荒山亮' },
   { slug: 'khalil-fong', group: 'male', name: '方大同', en: 'Khalil Fong', debut: '2005', channelId: 'UC_PRHIP9cby-5TBzhl4Oytg', wiki: '方大同' },
-  { slug: '183-club', group: 'group', name: '183 Club', en: '', debut: '2005', channelId: 'UCRwfu77EOx73l4lp5cLNbMw', wiki: '183 Club' },
+  { slug: '183-club', group: 'group', name: '183 Club', en: '', debut: '2005', channelId: 'UCRwfu77EOx73l4lp5cLNbMw', wiki: '183club' },
   { slug: 'yisa-yu', group: 'female', name: '郁可唯', en: 'Yisa Yu', debut: '2005', channelId: 'UCnXm2v7mhygE66HX9x3ituA', wiki: '郁可唯' },
   { slug: 'kimbo', group: 'male', name: '胡德夫', en: 'Kimbo Hu', debut: '2005-04', channelId: 'UCK860HsPUhFnfy3CiedIq5w', wiki: '胡德夫' },
   { slug: 'rainie-yang', group: 'female', name: '楊丞琳', en: 'Rainie Yang', debut: '2005-09', channelId: 'UC0WDze0vAMrLxULTWMlSuRA', wiki: '楊丞琳', groups: ['4 In Love'] },
