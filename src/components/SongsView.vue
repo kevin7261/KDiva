@@ -96,12 +96,14 @@ function sortBy(key) {
         <tr v-for="s in rows" :key="s.id">
           <td class="num col-rank muted">{{ s.rank }}</td>
           <td class="col-name" v-tip="[s.name, ...creditLines(s.credits), ...(s.manual ? ['來源：YouTube 影片觀看次數'] : [])]">
-            <a v-if="s.videoId" :href="songUrl(s)" target="_blank" rel="noopener">{{ s.name }}</a>
-            <span v-else>{{ s.name }}</span>
-            <a v-if="s.mv" class="mv-tag" :href="watchUrl(s.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
-              <span class="mi tiny" aria-hidden="true">play_circle</span>MV
-            </a>
-            <span v-if="s.manual" class="tag yt">YouTube 影片</span>
+            <span class="title-row">
+              <a v-if="s.videoId" :href="songUrl(s)" target="_blank" rel="noopener">{{ s.name }}</a>
+              <span v-else>{{ s.name }}</span>
+              <a v-if="s.mv" class="mv-tag" :href="watchUrl(s.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
+                <span class="mi tiny" aria-hidden="true">play_circle</span>MV
+              </a>
+              <span v-if="s.manual" class="tag yt">YouTube 影片</span>
+            </span>
             <div v-if="s.alt" class="muted small">{{ s.alt }}</div>
           </td>
           <td class="col-album">
@@ -202,7 +204,7 @@ tbody tr:hover {
   font-weight: 500;
 }
 .col-name a:hover {
-  text-decoration: underline;
+  color: var(--accent-ink);
 }
 .small {
   font-size: 12px;
@@ -216,7 +218,7 @@ tbody tr:hover {
   color: var(--accent-ink);
 }
 .link:hover {
-  text-decoration: underline;
+  opacity: 0.7;
 }
 .plays-cell {
   display: flex;

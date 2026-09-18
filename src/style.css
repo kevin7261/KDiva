@@ -141,7 +141,7 @@ select {
   text-decoration: none;
   font-size: 11.5px;
   white-space: nowrap;
-  vertical-align: 1px;
+  flex: none;
 }
 .mv-tag:hover {
   background: var(--surface-2);
@@ -149,12 +149,24 @@ select {
 .mv-tag .mi {
   font-size: 14px;
 }
+/* 歌名與 MV 標記排成一列：用 flex 垂直置中，行內排版靠基線對齊會讓膠囊看起來偏高 */
+.title-row {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  min-width: 0;
+}
+.title-row > :first-child {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 /* 表格裡的歌名：有沒有連結都長一樣，滑過才出現底線 */
 .data-table td a {
   text-decoration: none;
 }
 .data-table td a:hover {
-  text-decoration: underline;
+  color: var(--accent-ink);
 }
 
 .mi.fill {

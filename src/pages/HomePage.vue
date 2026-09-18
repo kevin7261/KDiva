@@ -563,7 +563,6 @@ h1 {
 }
 .names button:hover {
   color: var(--accent-ink);
-  text-decoration: underline;
 }
 .cards {
   min-width: 0;

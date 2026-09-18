@@ -93,11 +93,13 @@ const withCredits = computed(() => props.model.songs.filter((s) => s.credits).le
         <tbody>
           <tr v-for="x in list" :key="x.song.id">
             <td>
-              <a v-if="x.song.videoId" :href="watchUrl(x.song.videoId)" target="_blank" rel="noopener">{{ x.song.name }}</a>
-              <span v-else>{{ x.song.name }}</span>
-              <a v-if="x.song.mv" class="mv-tag" :href="watchUrl(x.song.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
-                <span class="mi tiny" aria-hidden="true">play_circle</span>MV
-              </a>
+              <span class="title-row">
+                <a v-if="x.song.videoId" :href="watchUrl(x.song.videoId)" target="_blank" rel="noopener">{{ x.song.name }}</a>
+                <span v-else>{{ x.song.name }}</span>
+                <a v-if="x.song.mv" class="mv-tag" :href="watchUrl(x.song.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
+                  <span class="mi tiny" aria-hidden="true">play_circle</span>MV
+                </a>
+              </span>
             </td>
             <td class="roles">{{ x.roles.join('、') }}</td>
             <td class="muted">
@@ -207,7 +209,7 @@ tbody tr:hover {
   font: inherit;
 }
 .link:hover {
-  text-decoration: underline;
+  opacity: 0.7;
 }
 .note {
   margin: 10px 2px 0;

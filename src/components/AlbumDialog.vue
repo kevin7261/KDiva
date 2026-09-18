@@ -56,17 +56,19 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
         <li v-for="t in album.songs" :key="t.index + t.title" :class="{ reissue: !t.isOriginal }">
           <span class="idx num muted">{{ t.index }}</span>
           <div class="info" v-tip="[t.song.name, ...creditLines(t.song.credits)]">
-            <a v-if="t.videoId" :href="album.manual ? albumUrl(album) : watchUrl(t.videoId)" target="_blank" rel="noopener" class="name">{{ t.song.name }}</a>
-            <span v-else class="name">{{ t.song.name }}</span>
+            <span class="title-row">
+              <a v-if="t.videoId" :href="album.manual ? albumUrl(album) : watchUrl(t.videoId)" target="_blank" rel="noopener" class="name">{{ t.song.name }}</a>
+              <span v-else class="name">{{ t.song.name }}</span>
+              <a v-if="t.song.mv" class="mv-tag" :href="watchUrl(t.song.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
+                <span class="mi tiny" aria-hidden="true">play_circle</span>MV
+              </a>
+            </span>
             <span v-if="!t.isOriginal" class="muted small">
               首發於
               <button class="link" @click="emit('open-album', t.song.origin)">《{{ t.song.origin.name }}》{{ t.song.origin.releaseLabel }}</button>
             </span>
             <span v-else-if="t.song.alt" class="muted small">{{ t.song.alt }}</span>
             <span v-if="t.song.credits" class="muted small credits">{{ creditLines(t.song.credits).join('　') }}</span>
-            <a v-if="t.song.mv" class="mv-tag" :href="watchUrl(t.song.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
-              <span class="mi tiny" aria-hidden="true">play_circle</span>MV
-            </a>
           </div>
           <div class="barcell" :title="`${approx ? '約 ' : ''}${formatFull(t.plays)} 次播放`">
             <div class="bar" :style="{ width: `${((t.plays ?? 0) / max) * 100}%` }" />
@@ -162,9 +164,11 @@ h2 {
 .info {
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   min-width: 0;
   line-height: 1.3;
 }
+
 .name {
   text-decoration: none;
   font-weight: 500;
@@ -173,7 +177,7 @@ h2 {
   white-space: nowrap;
 }
 a.name:hover {
-  text-decoration: underline;
+  color: var(--accent-ink);
 }
 .credits {
   white-space: normal;

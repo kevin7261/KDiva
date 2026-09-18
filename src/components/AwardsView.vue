@@ -153,7 +153,7 @@ const others = (r) => {
   text-decoration: none;
 }
 .head:hover .year {
-  text-decoration: underline;
+  color: var(--accent-ink);
 }
 .year {
   font-size: 20px;

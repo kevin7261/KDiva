@@ -79,11 +79,13 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
         <tbody>
           <tr v-for="(s, i) in list" :key="i">
             <td>
-              <a v-if="s.videoId" :href="watchUrl(s.videoId)" target="_blank" rel="noopener">{{ s.song }}</a>
-              <span v-else>{{ s.song }}</span>
-              <a v-if="s.mv" class="mv-tag" :href="watchUrl(s.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
-                <span class="mi tiny" aria-hidden="true">play_circle</span>MV
-              </a>
+              <span class="title-row">
+                <a v-if="s.videoId" :href="watchUrl(s.videoId)" target="_blank" rel="noopener">{{ s.song }}</a>
+                <span v-else>{{ s.song }}</span>
+                <a v-if="s.mv" class="mv-tag" :href="watchUrl(s.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
+                  <span class="mi tiny" aria-hidden="true">play_circle</span>MV
+                </a>
+              </span>
             </td>
             <td>
               <RouterLink v-if="s.singerSlug" :to="`/artist/${s.singerSlug}`">{{ s.singer }}</RouterLink>
@@ -173,7 +175,7 @@ td a {
   text-decoration: none;
 }
 td a:hover {
-  text-decoration: underline;
+  color: var(--accent-ink);
 }
 .roles {
   white-space: nowrap;

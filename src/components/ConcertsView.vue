@@ -194,7 +194,7 @@ function toggle(t) {
   text-decoration: none;
 }
 .title a:hover {
-  text-decoration: underline;
+  color: var(--accent-ink);
 }
 .period {
   color: var(--text-secondary);
@@ -222,7 +222,7 @@ function toggle(t) {
   color: var(--accent-ink);
 }
 .link:hover {
-  text-decoration: underline;
+  opacity: 0.7;
 }
 .more {
   margin-top: 10px;

@@ -653,7 +653,6 @@ h1 {
 }
 .name:hover .n {
   color: var(--accent-ink);
-  text-decoration: underline;
 }
 .name .n {
   font-size: 13.5px;

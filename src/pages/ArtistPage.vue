@@ -303,7 +303,6 @@ h1 {
 }
 .sources a:hover {
   color: #fff;
-  text-decoration: underline;
 }
 .members {
   margin: 6px 0 0;

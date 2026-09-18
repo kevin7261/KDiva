@@ -172,7 +172,7 @@ h2 {
   color: var(--accent-ink);
 }
 .link:hover {
-  text-decoration: underline;
+  opacity: 0.7;
 }
 .canvas {
   height: 420px;
