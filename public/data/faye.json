@@ -2,13 +2,91 @@
   "slug": "faye",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T16:41:47.101Z",
+  "fetchedAt": "2026-09-18T00:57:46.916Z",
   "artist": {
     "channelId": "UCjA1vzKnKAOztVU_XUYAWVg",
     "name": "Faye 詹雯婷",
     "thumbnail": "https://yt3.googleusercontent.com/Ia9dAFLszmaJpPRI9hW3vTsthG8v1Zv58JV0JEpgHXngoOGH05tJiOMPAHmqbBMpWsKj__1wi6c=w934-h389-l90-rj-dcLVaWzSEJ",
-    "subscribers": 68800,
+    "subscribers": 68900,
     "monthlyAudience": 1340000,
+    "videos": [
+      {
+        "title": "詠愛",
+        "videoId": "taDRMp82Qas"
+      },
+      {
+        "title": "預言石",
+        "videoId": "lJ5fDJPsZhk"
+      },
+      {
+        "title": "焚風",
+        "videoId": "50FiUur-rEQ"
+      },
+      {
+        "title": "Riverside",
+        "videoId": "0c7NXujdqUw"
+      },
+      {
+        "title": "蒼穹",
+        "videoId": "4HWb_dPw9qw"
+      },
+      {
+        "title": "煮沙",
+        "videoId": "x2dCTT0kV_0"
+      },
+      {
+        "title": "Faye詹雯婷 2019《你說Remix》官方歌詞版MV",
+        "videoId": "JIQ2F2pmJdw"
+      },
+      {
+        "title": "Cave",
+        "videoId": "tiQ5PTtveTM"
+      },
+      {
+        "title": "象牙塔",
+        "videoId": "FZNTMZxtgNo"
+      },
+      {
+        "title": "山海盟",
+        "videoId": "RvzvSceaSCw"
+      },
+      {
+        "title": "Riverside",
+        "videoId": "HYv484y_JkI"
+      },
+      {
+        "title": "Faye詹雯婷 在雲彩上跳舞 嘰嘰喳喳 全專輯試聽 Album Preview",
+        "videoId": "v-yydOZH57w"
+      },
+      {
+        "title": "Faye 2012 1115 小天空 女巫店 Live -- 花瘋",
+        "videoId": "OZSrIpejZ2c"
+      },
+      {
+        "title": "Faye 2012 1115 小天空 女巫店 Live -- 1002夜",
+        "videoId": "lnzM8gwDhe4"
+      },
+      {
+        "title": "Faye 2012 1115 小天空 女巫店 Live -- 1979",
+        "videoId": "m3EH42cwzzQ"
+      },
+      {
+        "title": "Faye 2012 1115 小天空 女巫店 Live -- 像一封情書",
+        "videoId": "a-2VpiP-Og0"
+      },
+      {
+        "title": "Faye 2012 1115 小天空 女巫店 Live -- WISH YOU WERE HERE",
+        "videoId": "D1CR3Apf3H4"
+      },
+      {
+        "title": "wish u were here 10/12  in egacy mini 八十八顆芭樂籽 與 faye",
+        "videoId": "wO5rB_Z83vU"
+      },
+      {
+        "title": "＜比獸還帥＞2013／10／12@legacy mini 八十八顆芭樂籽+Faye",
+        "videoId": "INXe79AV8XA"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/eibXwj-HLFQI4r5xXoOgGvRgQBFCe0WCD-OF-rSCrmvFScZTpXidAfnbCV3vNdmZYxMGSdZpZg=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -41,12 +119,12 @@
           "playsText": "播放次數：49萬",
           "duration": 325,
           "byOther": false,
-          "nameKey": "河畔",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          }
+          },
+          "nameKey": "河畔"
         },
         {
           "index": 3,
@@ -57,12 +135,13 @@
           "playsText": "播放次數：31萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "象牙塔",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          }
+          },
+          "nameKey": "象牙塔",
+          "mv": "FZNTMZxtgNo"
         },
         {
           "index": 4,
@@ -73,12 +152,12 @@
           "playsText": "播放次數：7.6萬",
           "duration": 279,
           "byOther": false,
-          "nameKey": "原罪",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          }
+          },
+          "nameKey": "原罪"
         },
         {
           "index": 5,
@@ -89,12 +168,12 @@
           "playsText": "播放次數：11萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "你說",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          }
+          },
+          "nameKey": "你說"
         },
         {
           "index": 6,
@@ -105,11 +184,11 @@
           "playsText": "播放次數：2.5萬",
           "duration": 224,
           "byOther": false,
-          "nameKey": "繁華市集",
           "credits": {
             "music": "詹雯婷",
             "arranger": "程振興"
-          }
+          },
+          "nameKey": "繁華市集"
         },
         {
           "index": 7,
@@ -120,12 +199,12 @@
           "playsText": "播放次數：3.2萬",
           "duration": 227,
           "byOther": false,
-          "nameKey": "firedancer",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "餘佳倫"
-          }
+          },
+          "nameKey": "firedancer"
         },
         {
           "index": 8,
@@ -136,11 +215,11 @@
           "playsText": "播放次數：3.9萬",
           "duration": 280,
           "byOther": false,
-          "nameKey": "奔跑",
           "credits": {
             "lyrics": "謝銘祐",
             "music": "詹雯婷"
-          }
+          },
+          "nameKey": "奔跑"
         },
         {
           "index": 9,
@@ -151,10 +230,11 @@
           "playsText": "播放次數：41萬",
           "duration": 233,
           "byOther": false,
-          "nameKey": "蒼穹",
           "credits": {
             "music": "詹雯婷"
-          }
+          },
+          "nameKey": "蒼穹",
+          "mv": "4HWb_dPw9qw"
         },
         {
           "index": 10,
@@ -165,12 +245,12 @@
           "playsText": "播放次數：2.5萬",
           "duration": 203,
           "byOther": false,
-          "nameKey": "另一端",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          }
+          },
+          "nameKey": "另一端"
         }
       ],
       "releaseDate": "2017-06-19",
@@ -226,12 +306,12 @@
           "playsText": "播放次數：11萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "你說",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          }
+          },
+          "nameKey": "你說"
         }
       ],
       "releaseDate": null,
@@ -259,12 +339,12 @@
           "playsText": "播放次數：49萬",
           "duration": 325,
           "byOther": false,
-          "nameKey": "河畔",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          }
+          },
+          "nameKey": "河畔"
         }
       ],
       "releaseDate": null,
@@ -292,12 +372,13 @@
           "playsText": "播放次數：31萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "象牙塔",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "程振興"
-          }
+          },
+          "nameKey": "象牙塔",
+          "mv": "FZNTMZxtgNo"
         }
       ],
       "releaseDate": null,
@@ -325,9 +406,13 @@
           "playsText": "播放次數：1987",
           "duration": 229,
           "byOther": false,
-          "nameKey": "蒼穹",
           "titleZh": "蒼穹（小老虎 Remix） (合作演出：小老虎)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "蒼穹",
+          "credits": {
+            "music": "詹雯婷"
+          },
+          "mv": "4HWb_dPw9qw"
         },
         {
           "index": 2,
@@ -366,9 +451,9 @@
           "playsText": "播放次數：5.4萬",
           "duration": 254,
           "byOther": false,
-          "nameKey": "但願人長久",
           "titleZh": "但願人長久",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "但願人長久"
         }
       ],
       "releaseDate": "2020-06-01",
@@ -396,7 +481,8 @@
           "playsText": "播放次數：157萬",
           "duration": 215,
           "byOther": false,
-          "nameKey": "詠愛"
+          "nameKey": "詠愛",
+          "mv": "taDRMp82Qas"
         }
       ],
       "releaseDate": "2021-01-01",
@@ -424,11 +510,11 @@
           "playsText": "播放次數：11萬",
           "duration": 216,
           "byOther": false,
-          "nameKey": "融雪",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷"
-          }
+          },
+          "nameKey": "融雪"
         },
         {
           "index": 2,
@@ -439,11 +525,12 @@
           "playsText": "播放次數：103萬",
           "duration": 242,
           "byOther": false,
-          "nameKey": "焚風",
           "credits": {
             "lyrics": "余琛懋",
             "arranger": "徐　平"
-          }
+          },
+          "nameKey": "焚風",
+          "mv": "50FiUur-rEQ"
         },
         {
           "index": 3,
@@ -454,7 +541,8 @@
           "playsText": "播放次數：157萬",
           "duration": 215,
           "byOther": false,
-          "nameKey": "詠愛"
+          "nameKey": "詠愛",
+          "mv": "taDRMp82Qas"
         },
         {
           "index": 4,
@@ -465,11 +553,12 @@
           "playsText": "播放次數：56萬",
           "duration": 238,
           "byOther": false,
-          "nameKey": "預言石",
           "credits": {
             "lyrics": "葛大為",
             "music": "詹雯婷"
-          }
+          },
+          "nameKey": "預言石",
+          "mv": "lJ5fDJPsZhk"
         },
         {
           "index": 5,
@@ -491,11 +580,11 @@
           "playsText": "播放次數：5.2萬",
           "duration": 271,
           "byOther": false,
-          "nameKey": "alle",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷"
-          }
+          },
+          "nameKey": "alle"
         },
         {
           "index": 7,
@@ -517,10 +606,10 @@
           "playsText": "播放次數：13萬",
           "duration": 244,
           "byOther": false,
-          "nameKey": "tears",
           "credits": {
             "arranger": "陳君豪"
-          }
+          },
+          "nameKey": "tears"
         },
         {
           "index": 9,
@@ -531,12 +620,13 @@
           "playsText": "播放次數：17萬",
           "duration": 259,
           "byOther": false,
-          "nameKey": "煮沙",
           "credits": {
             "lyrics": "李格弟",
             "music": "詹雯婷",
             "arranger": "李化迪"
-          }
+          },
+          "nameKey": "煮沙",
+          "mv": "x2dCTT0kV_0"
         },
         {
           "index": 10,
@@ -547,11 +637,12 @@
           "playsText": "播放次數：31萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "山海盟",
           "credits": {
             "music": "詹雯婷",
             "arranger": "李化迪"
-          }
+          },
+          "nameKey": "山海盟",
+          "mv": "RvzvSceaSCw"
         },
         {
           "index": 11,
@@ -562,12 +653,12 @@
           "playsText": "播放次數：4.1萬",
           "duration": 250,
           "byOther": false,
-          "nameKey": "aalleeeeeee",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "李化迪"
-          }
+          },
+          "nameKey": "aalleeeeeee"
         }
       ],
       "releaseDate": "2021-12-30",
@@ -602,8 +693,8 @@
           "title": "荒羽 (伴奏版)",
           "artists": "",
           "videoId": "lnT4FRIxh6E",
-          "plays": 3268,
-          "playsText": "播放次數：3268",
+          "plays": 3270,
+          "playsText": "播放次數：3270",
           "duration": 215,
           "byOther": false,
           "nameKey": "荒羽"
@@ -802,9 +893,9 @@
           "playsText": "播放次數：604萬",
           "duration": 200,
           "byOther": false,
-          "nameKey": "唯愛",
           "titleZh": "唯愛 (《七時吉祥》劇集燃愛主題曲)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "唯愛"
         },
         {
           "index": 2,
@@ -815,9 +906,9 @@
           "playsText": "播放次數：1.3萬",
           "duration": 200,
           "byOther": false,
-          "nameKey": "唯愛",
           "titleZh": "唯愛 (伴奏)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "唯愛"
         },
         {
           "index": 3,
@@ -828,9 +919,9 @@
           "playsText": "播放次數：9257",
           "duration": 200,
           "byOther": false,
-          "nameKey": "唯愛",
           "titleZh": "唯愛 (和聲伴奏)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "唯愛"
         }
       ],
       "releaseDate": "2023-08-01",
@@ -854,13 +945,13 @@
           "title": "唯爱 (《七时吉祥》剧集燃爱主题曲)",
           "artists": "",
           "videoId": "fWl-RKInyus",
-          "plays": 6030000,
-          "playsText": "播放次數：603萬",
+          "plays": 6040000,
+          "playsText": "播放次數：604萬",
           "duration": 200,
           "byOther": false,
-          "nameKey": "唯愛",
           "titleZh": "唯愛 (《七時吉祥》劇集燃愛主題曲)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "唯愛"
         },
         {
           "index": 2,
@@ -871,9 +962,9 @@
           "playsText": "播放次數：9257",
           "duration": 200,
           "byOther": false,
-          "nameKey": "唯愛",
           "titleZh": "唯愛 (伴奏)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "唯愛"
         },
         {
           "index": 3,
@@ -884,9 +975,9 @@
           "playsText": "播放次數：9257",
           "duration": 200,
           "byOther": false,
-          "nameKey": "唯愛",
           "titleZh": "唯愛 (和聲伴奏)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "唯愛"
         }
       ],
       "releaseDate": "2023-08-01",

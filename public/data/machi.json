@@ -2,13 +2,103 @@
   "slug": "machi",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T22:32:48.448Z",
+  "fetchedAt": "2026-09-18T01:21:24.334Z",
   "artist": {
     "channelId": "UCuBJZVnCZEYpyw4oGCNHmeQ",
     "name": "黃立成",
     "thumbnail": "https://yt3.googleusercontent.com/UHf69xynKRQZIEXvQk6lQqgycI9UsgX79HP6_kT5VAsQd3am6DRHIzWriDlD7uyGipdwELESidRqXgQ=w1459-h607-p-l90-rj",
     "subscribers": 470,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "沒辦法",
+        "videoId": "fK-eLQ-FRmY"
+      },
+      {
+        "title": "Jump 2003 (Instrumental)",
+        "videoId": "9_z0z5mpvs4"
+      },
+      {
+        "title": "Machi",
+        "videoId": "mCtF2pQSZuQ"
+      },
+      {
+        "title": "爽",
+        "videoId": "QeV3hFPOhpg"
+      },
+      {
+        "title": "我是為你活",
+        "videoId": "8YaVNF2nEn0"
+      },
+      {
+        "title": "台灣之子",
+        "videoId": "B0EfHF9u7kw"
+      },
+      {
+        "title": "緣投與阿醜2004",
+        "videoId": "d-WX3UlqL7k"
+      },
+      {
+        "title": "超人",
+        "videoId": "cJcuF8kW8PE"
+      },
+      {
+        "title": "屌",
+        "videoId": "EAf6RAu2u-g"
+      },
+      {
+        "title": "OH ! 社會",
+        "videoId": "Blt5lRJ_ucc"
+      },
+      {
+        "title": "Hey,Baby",
+        "videoId": "9ae3k4EvIvY"
+      },
+      {
+        "title": "報應",
+        "videoId": "r_zaCCRD5TU"
+      },
+      {
+        "title": "最愛",
+        "videoId": "UFcmhUXVMUg"
+      },
+      {
+        "title": "911",
+        "videoId": "Wx3UNsH5OGQ"
+      },
+      {
+        "title": "麻吉 - Jump, Work it!!! Machi - Jump, Work it!!!",
+        "videoId": "JuhN4WskxGc"
+      },
+      {
+        "title": "Lift It Up",
+        "videoId": "QiVLtQxOrzM"
+      },
+      {
+        "title": "Machi JUMP 2003高雄场",
+        "videoId": "uEkfXNtLokY"
+      },
+      {
+        "title": "Reason",
+        "videoId": "An45W-dpCfI"
+      },
+      {
+        "title": "麻吉 - You can't do it Machi - You can't do it",
+        "videoId": "C33AisdYmjs"
+      },
+      {
+        "title": "麻吉Machi - 麻吉Machi(台語)   無人聲伴奏KTV字幕+繁體Mandarin+拼音Pinyin",
+        "videoId": "sb3vc7dZ9CQ"
+      },
+      {
+        "title": "麻吉 & 黃立成 Machi - Playboy (English version)",
+        "videoId": "1Yg8ps7I3Ek"
+      },
+      {
+        "title": "Google翻譯唱-麻吉「Jump 2003」",
+        "videoId": "Phad2JDRUHo"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/3GwwhcRS2FLCHJDvhExvITsSAp9eVs614rn5P8-BGfxuyB3z2dkal7DOw_fCZzDNXMdPZmXUEA=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -29,8 +119,9 @@
           "plays": 190000,
           "playsText": "播放次數：19萬",
           "duration": 214,
-          "byOther": true,
-          "nameKey": "屌"
+          "byOther": false,
+          "nameKey": "屌",
+          "mv": "EAf6RAu2u-g"
         },
         {
           "index": 2,
@@ -40,8 +131,9 @@
           "plays": 780000,
           "playsText": "播放次數：78萬",
           "duration": 204,
-          "byOther": true,
-          "nameKey": "沒辦法"
+          "byOther": false,
+          "nameKey": "沒辦法",
+          "mv": "fK-eLQ-FRmY"
         },
         {
           "index": 3,
@@ -51,8 +143,9 @@
           "plays": 230000,
           "playsText": "播放次數：23萬",
           "duration": 209,
-          "byOther": true,
-          "nameKey": "超人"
+          "byOther": false,
+          "nameKey": "超人",
+          "mv": "cJcuF8kW8PE"
         },
         {
           "index": 4,
@@ -62,7 +155,7 @@
           "plays": 4846,
           "playsText": "播放次數：4846",
           "duration": 189,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "繞舌大俠"
         },
         {
@@ -73,7 +166,7 @@
           "plays": 4165,
           "playsText": "播放次數：4165",
           "duration": 216,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "givinguwhatuwant"
         },
         {
@@ -84,8 +177,9 @@
           "plays": 18000,
           "playsText": "播放次數：1.8萬",
           "duration": 251,
-          "byOther": true,
-          "nameKey": "reason"
+          "byOther": false,
+          "nameKey": "reason",
+          "mv": "An45W-dpCfI"
         },
         {
           "index": 7,
@@ -95,7 +189,7 @@
           "plays": 8499,
           "playsText": "播放次數：8499",
           "duration": 258,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "石頭變黃金"
         },
         {
@@ -103,10 +197,10 @@
           "title": "決戰夜",
           "artists": "",
           "videoId": "CvIj3ppWh-s",
-          "plays": 2152,
-          "playsText": "播放次數：2152",
+          "plays": 2153,
+          "playsText": "播放次數：2153",
           "duration": 226,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "決戰夜"
         },
         {
@@ -117,8 +211,9 @@
           "plays": 100000,
           "playsText": "播放次數：10萬",
           "duration": 208,
-          "byOther": true,
-          "nameKey": "報應"
+          "byOther": false,
+          "nameKey": "報應",
+          "mv": "r_zaCCRD5TU"
         },
         {
           "index": 10,
@@ -128,7 +223,7 @@
           "plays": 380000,
           "playsText": "播放次數：38萬",
           "duration": 260,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "我愛周星星"
         },
         {
@@ -139,7 +234,7 @@
           "plays": 17000,
           "playsText": "播放次數：1.7萬",
           "duration": 591,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "supermachi"
         }
       ],
@@ -167,7 +262,7 @@
           "plays": 2681,
           "playsText": "播放次數：2681",
           "duration": 30,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "jeff宣言"
         },
         {
@@ -178,8 +273,9 @@
           "plays": 680000,
           "playsText": "播放次數：68萬",
           "duration": 242,
-          "byOther": true,
-          "nameKey": "爽"
+          "byOther": false,
+          "nameKey": "爽",
+          "mv": "QeV3hFPOhpg"
         },
         {
           "index": 3,
@@ -189,8 +285,9 @@
           "plays": 300000,
           "playsText": "播放次數：30萬",
           "duration": 267,
-          "byOther": true,
-          "nameKey": "oh社會"
+          "byOther": false,
+          "nameKey": "oh社會",
+          "mv": "Blt5lRJ_ucc"
         },
         {
           "index": 4,
@@ -200,7 +297,7 @@
           "plays": 5973,
           "playsText": "播放次數：5973",
           "duration": 237,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "印度神遊"
         },
         {
@@ -211,7 +308,7 @@
           "plays": 1997,
           "playsText": "播放次數：1997",
           "duration": 51,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "緣投與阿醜1979"
         },
         {
@@ -222,8 +319,9 @@
           "plays": 180000,
           "playsText": "播放次數：18萬",
           "duration": 208,
-          "byOther": true,
-          "nameKey": "緣投與阿醜2004"
+          "byOther": false,
+          "nameKey": "緣投與阿醜2004",
+          "mv": "d-WX3UlqL7k"
         },
         {
           "index": 7,
@@ -233,8 +331,9 @@
           "plays": 120000,
           "playsText": "播放次數：12萬",
           "duration": 255,
-          "byOther": true,
-          "nameKey": "heybaby"
+          "byOther": false,
+          "nameKey": "heybaby",
+          "mv": "9ae3k4EvIvY"
         },
         {
           "index": 8,
@@ -244,7 +343,7 @@
           "plays": 12000,
           "playsText": "播放次數：1.2萬",
           "duration": 217,
-          "byOther": true,
+          "byOther": false,
           "titleZh": "PlayBoy (英文版)",
           "titleZhVariant": true,
           "nameKey": "playboy"
@@ -257,7 +356,7 @@
           "plays": 5600,
           "playsText": "播放次數：5600",
           "duration": 190,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "紅不讓"
         },
         {
@@ -268,7 +367,7 @@
           "plays": 4459,
           "playsText": "播放次數：4459",
           "duration": 237,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "我的世界"
         },
         {
@@ -279,7 +378,7 @@
           "plays": 62000,
           "playsText": "播放次數：6.2萬",
           "duration": 217,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "youcantdoit"
         },
         {
@@ -290,7 +389,7 @@
           "plays": 28000,
           "playsText": "播放次數：2.8萬",
           "duration": 202,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "嘸你麥按怎"
         },
         {
@@ -301,7 +400,7 @@
           "plays": 35000,
           "playsText": "播放次數：3.5萬",
           "duration": 198,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "舉起來"
         },
         {
@@ -312,7 +411,7 @@
           "plays": 12000,
           "playsText": "播放次數：1.2萬",
           "duration": 218,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "playboy"
         },
         {
@@ -323,7 +422,7 @@
           "plays": 5973,
           "playsText": "播放次數：5973",
           "duration": 237,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "印度神遊"
         }
       ],
@@ -351,7 +450,7 @@
           "plays": 48000,
           "playsText": "播放次數：4.8萬",
           "duration": 224,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "intro"
         },
         {
@@ -362,8 +461,9 @@
           "plays": 2040000,
           "playsText": "播放次數：204萬",
           "duration": 188,
-          "byOther": true,
-          "nameKey": "machi"
+          "byOther": false,
+          "nameKey": "machi",
+          "mv": "mCtF2pQSZuQ"
         },
         {
           "index": 3,
@@ -373,8 +473,9 @@
           "plays": 2190000,
           "playsText": "播放次數：219萬",
           "duration": 219,
-          "byOther": true,
-          "nameKey": "jump2003"
+          "byOther": false,
+          "nameKey": "jump2003",
+          "mv": "9_z0z5mpvs4"
         },
         {
           "index": 4,
@@ -384,8 +485,9 @@
           "plays": 63000,
           "playsText": "播放次數：6.3萬",
           "duration": 206,
-          "byOther": true,
-          "nameKey": "最愛"
+          "byOther": false,
+          "nameKey": "最愛",
+          "mv": "UFcmhUXVMUg"
         },
         {
           "index": 5,
@@ -395,8 +497,9 @@
           "plays": 380000,
           "playsText": "播放次數：38萬",
           "duration": 207,
-          "byOther": true,
-          "nameKey": "我是為你活"
+          "byOther": false,
+          "nameKey": "我是為你活",
+          "mv": "8YaVNF2nEn0"
         },
         {
           "index": 6,
@@ -406,8 +509,9 @@
           "plays": 88000,
           "playsText": "播放次數：8.8萬",
           "duration": 221,
-          "byOther": true,
-          "nameKey": "911"
+          "byOther": false,
+          "nameKey": "911",
+          "mv": "Wx3UNsH5OGQ"
         },
         {
           "index": 7,
@@ -417,10 +521,11 @@
           "plays": 270000,
           "playsText": "播放次數：27萬",
           "duration": 203,
-          "byOther": true,
+          "byOther": false,
           "titleZh": "臺灣之子",
           "titleZhVariant": true,
-          "nameKey": "臺灣之子"
+          "nameKey": "臺灣之子",
+          "mv": "B0EfHF9u7kw"
         },
         {
           "index": 8,
@@ -430,7 +535,7 @@
           "plays": 970000,
           "playsText": "播放次數：97萬",
           "duration": 166,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "麻吉弟弟"
         },
         {
@@ -441,8 +546,9 @@
           "plays": 31000,
           "playsText": "播放次數：3.1萬",
           "duration": 207,
-          "byOther": true,
-          "nameKey": "麻吉"
+          "byOther": false,
+          "nameKey": "麻吉",
+          "mv": "JuhN4WskxGc"
         },
         {
           "index": 10,
@@ -452,10 +558,11 @@
           "plays": 20000,
           "playsText": "播放次數：2萬",
           "duration": 201,
-          "byOther": true,
+          "byOther": false,
           "titleZh": "臺灣之子 (Remix)",
           "titleZhVariant": true,
-          "nameKey": "臺灣之子"
+          "nameKey": "臺灣之子",
+          "mv": "B0EfHF9u7kw"
         },
         {
           "index": 11,
@@ -465,7 +572,7 @@
           "plays": 110000,
           "playsText": "播放次數：11萬",
           "duration": 333,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "jumpworkit"
         },
         {
@@ -476,8 +583,9 @@
           "plays": 7542,
           "playsText": "播放次數：7542",
           "duration": 189,
-          "byOther": true,
-          "nameKey": "麻吉"
+          "byOther": false,
+          "nameKey": "麻吉",
+          "mv": "JuhN4WskxGc"
         },
         {
           "index": 13,
@@ -487,8 +595,9 @@
           "plays": 2190000,
           "playsText": "播放次數：219萬",
           "duration": 218,
-          "byOther": true,
-          "nameKey": "jump2003"
+          "byOther": false,
+          "nameKey": "jump2003",
+          "mv": "9_z0z5mpvs4"
         }
       ],
       "releaseDate": null,

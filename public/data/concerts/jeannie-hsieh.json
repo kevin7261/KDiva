@@ -1,0 +1,422 @@
+{
+  "slug": "jeannie-hsieh",
+  "fetchedAt": "2026-09-18T01:06:22.383Z",
+  "wiki": "謝金燕",
+  "bio": {
+    "born": {
+      "date": "1974-12-25",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "一級棒世界巡迴演唱會",
+      "page": "一级棒世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2012-05-12",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2013-08-10",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [
+        "臺北市",
+        "高雄市"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "高雄巨蛋"
+      ],
+      "shows": [
+        {
+          "date": "2012-05-12",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2013-08-10",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄市",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "謝金燕巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2016-04-23",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2016-04-23",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "康州"
+      ],
+      "venues": [
+        "美國 Foxwoods Resort Casino"
+      ],
+      "shows": [
+        {
+          "date": "2016-04-23",
+          "precision": "day",
+          "region": "",
+          "city": "康州",
+          "venue": "美國 Foxwoods Resort Casino"
+        }
+      ]
+    },
+    {
+      "name": "蹦蹦趴巡迴演唱會",
+      "page": "蹦蹦趴巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2016-05-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-31",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [
+        "臺灣",
+        "新加坡"
+      ],
+      "cities": [
+        "臺北市",
+        "高雄市",
+        "新加坡"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "高雄巨蛋",
+        "聖淘沙名勝世界會議中心"
+      ],
+      "shows": [
+        {
+          "date": "2016-05-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北市",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2016-06-04",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄市",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2018-03-31",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "聖淘沙名勝世界會議中心",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "謝金燕520演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-05-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-05-20",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "美國 紐約市立大學皇后學院Colden Auditorium"
+      ],
+      "venues": [
+        "美國 紐約市立大學皇后學院Colden Auditorium"
+      ],
+      "shows": [
+        {
+          "date": "2017-05-20",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "美國 紐約市立大學皇后學院Colden Auditorium",
+          "lat": 40.737,
+          "lon": -73.817,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "姐姐愛你巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2018-03-31",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2018-03-31",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "新加坡"
+      ],
+      "venues": [
+        "新加坡 聖淘沙名勝世界會議中心"
+      ],
+      "shows": [
+        {
+          "date": "2018-03-31",
+          "precision": "day",
+          "region": "",
+          "city": "新加坡",
+          "venue": "新加坡 聖淘沙名勝世界會議中心",
+          "lat": 1.253232,
+          "lon": 103.821081,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "謝金燕X黃品源 黃金音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2019-12-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-12-14",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "澳門 永利澳門宴會廳"
+      ],
+      "venues": [
+        "澳門 永利澳門宴會廳"
+      ],
+      "shows": [
+        {
+          "date": "2019-12-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳門 永利澳門宴會廳",
+          "lat": 22.188,
+          "lon": 113.54724,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "TURN口罩世界巡迴演唱會",
+      "page": "TURN口罩世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2021-01-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-05-09",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [
+        "臺北市",
+        "高雄市",
+        "澳門",
+        "雲頂"
+      ],
+      "cities": [
+        "臺北市",
+        "高雄市",
+        "澳門",
+        "雲頂"
+      ],
+      "venues": [
+        "臺北小巨蛋",
+        "高雄巨蛋",
+        "澳門倫敦人綜藝館",
+        "雲星劇場"
+      ],
+      "shows": [
+        {
+          "date": "2021-01-16",
+          "precision": "day",
+          "region": "臺北市",
+          "city": "臺北市",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-08-20",
+          "precision": "day",
+          "region": "高雄市",
+          "city": "高雄市",
+          "venue": "高雄巨蛋",
+          "lat": 22.6686073,
+          "lon": 120.3019101,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-11-30",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "澳門倫敦人綜藝館",
+          "lat": 22.14579,
+          "lon": 113.56558,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-05-09",
+          "precision": "day",
+          "region": "雲頂",
+          "city": "雲頂",
+          "venue": "雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "謝金燕X羅志祥 DANCING WORLD巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-02-20",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-02-20",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "雷諾"
+      ],
+      "venues": [
+        "美國 The Row Reno"
+      ],
+      "shows": [
+        {
+          "date": "2022-02-20",
+          "precision": "day",
+          "region": "",
+          "city": "雷諾",
+          "venue": "美國 The Row Reno"
+        }
+      ]
+    },
+    {
+      "name": "謝金燕2024澳門音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2024-11-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2024-11-30",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "澳門 澳門倫敦人綜藝館"
+      ],
+      "venues": [
+        "澳門 澳門倫敦人綜藝館"
+      ],
+      "shows": [
+        {
+          "date": "2024-11-30",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳門 澳門倫敦人綜藝館",
+          "lat": 22.14579,
+          "lon": 113.56558,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "謝金燕 2026 Malaysia Concert",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2026-05-09",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-05-09",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [],
+      "cities": [
+        "馬來西亞 雲星劇場"
+      ],
+      "venues": [
+        "馬來西亞 雲星劇場"
+      ],
+      "shows": [
+        {
+          "date": "2026-05-09",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞 雲星劇場",
+          "lat": 3.42257,
+          "lon": 101.794022,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
+}

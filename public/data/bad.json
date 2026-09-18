@@ -2,13 +2,95 @@
   "slug": "bad",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T13:43:32.649Z",
+  "fetchedAt": "2026-09-18T00:27:59.237Z",
   "artist": {
     "channelId": "UCVM3-sEjNWNT8_fT4wPd4wQ",
     "name": "B.A.D.",
     "thumbnail": "https://yt3.googleusercontent.com/7q82lIVInjn5ImJuWLUTS6NbMNfZevs6L_EibvUdaHd_j_Pmw1RXrTeqPzmKszNVYR8KSip6C7lthNU=w2880-h1200-p-l90-rj",
     "subscribers": 218,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "B.A.D-我的錯(KTV)",
+        "videoId": "Etxgh3pQoLs"
+      },
+      {
+        "title": "Oh! I",
+        "videoId": "VodLlbYjMrA"
+      },
+      {
+        "title": "我沒對她說",
+        "videoId": "pV9jhyjKBQs"
+      },
+      {
+        "title": "失去聯絡",
+        "videoId": "tkio35OHo1Y"
+      },
+      {
+        "title": "夏天的聖誕節",
+        "videoId": "AfUIppVk4sw"
+      },
+      {
+        "title": "夢的起點",
+        "videoId": "3Q8gpA9KIlQ"
+      },
+      {
+        "title": "我最瘋",
+        "videoId": "my9QRG4zWzA"
+      },
+      {
+        "title": "得到你的方法",
+        "videoId": "nM2Jih2iF-o"
+      },
+      {
+        "title": "Crazy",
+        "videoId": "51j7fK0CnS8"
+      },
+      {
+        "title": "《我的錯》 原版伴奏｜原唱: B.A.D.",
+        "videoId": "sqAcT_nnd5o"
+      },
+      {
+        "title": "【B.A.D.】我的错 国语（2003）- 爱情中的悔悟与挽回",
+        "videoId": "-Jn8MViacuI"
+      },
+      {
+        "title": "Don't Say Goodbye",
+        "videoId": "l69Zn9xyEvQ"
+      },
+      {
+        "title": "愛上了壞",
+        "videoId": "XZ5DBOM0hNw"
+      },
+      {
+        "title": "著魔",
+        "videoId": "qsSr8h3Yr3M"
+      },
+      {
+        "title": "半個海洋",
+        "videoId": "fBW2M5-fw7c"
+      },
+      {
+        "title": "愛的世界",
+        "videoId": "GccgDtYjqDc"
+      },
+      {
+        "title": "B.A.D.-皇后之歌(歌詞版)",
+        "videoId": "0OyRx1ADxSI"
+      },
+      {
+        "title": "皇后之歌",
+        "videoId": "mQ1mDi6ayLw"
+      },
+      {
+        "title": "MAJOR WRIGHT FT B.A.D -CARE 4 U",
+        "videoId": "lwlW--CV6qg"
+      },
+      {
+        "title": "B.A.D - 著魔 ktv (純音樂)",
+        "videoId": "a27P9aYO1rY"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/dQC9qXIJusyyEwOKNXehbyETp13uFTr8c0OD1z5AQmFYdXkABnzYeu5j53GMPtELjyqAk_jgyg=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -30,7 +112,8 @@
           "playsText": "播放次數：1.5萬",
           "duration": 225,
           "byOther": false,
-          "nameKey": "得到你的方法"
+          "nameKey": "得到你的方法",
+          "mv": "nM2Jih2iF-o"
         },
         {
           "index": 2,
@@ -41,7 +124,8 @@
           "playsText": "播放次數：39萬",
           "duration": 225,
           "byOther": false,
-          "nameKey": "ohi"
+          "nameKey": "ohi",
+          "mv": "VodLlbYjMrA"
         },
         {
           "index": 3,
@@ -52,7 +136,8 @@
           "playsText": "播放次數：17萬",
           "duration": 276,
           "byOther": false,
-          "nameKey": "失去聯絡"
+          "nameKey": "失去聯絡",
+          "mv": "tkio35OHo1Y"
         },
         {
           "index": 4,
@@ -63,7 +148,8 @@
           "playsText": "播放次數：30萬",
           "duration": 259,
           "byOther": false,
-          "nameKey": "我沒對她說"
+          "nameKey": "我沒對她說",
+          "mv": "pV9jhyjKBQs"
         },
         {
           "index": 5,
@@ -74,15 +160,16 @@
           "playsText": "播放次數：12萬",
           "duration": 240,
           "byOther": false,
-          "nameKey": "夏天的聖誕節"
+          "nameKey": "夏天的聖誕節",
+          "mv": "AfUIppVk4sw"
         },
         {
           "index": 6,
           "title": "Get High",
           "artists": "",
           "videoId": "quNhFdDCh5w",
-          "plays": 2327,
-          "playsText": "播放次數：2327",
+          "plays": 2329,
+          "playsText": "播放次數：2329",
           "duration": 205,
           "byOther": false,
           "nameKey": "gethigh"
@@ -92,8 +179,8 @@
           "title": "一半",
           "artists": "",
           "videoId": "F5ViojOjDeQ",
-          "plays": 5580,
-          "playsText": "播放次數：5580",
+          "plays": 5586,
+          "playsText": "播放次數：5586",
           "duration": 244,
           "byOther": false,
           "nameKey": "一半"
@@ -114,11 +201,12 @@
           "title": "我最瘋",
           "artists": "",
           "videoId": "my9QRG4zWzA",
-          "plays": 8515,
-          "playsText": "播放次數：8515",
+          "plays": 8518,
+          "playsText": "播放次數：8518",
           "duration": 238,
           "byOther": false,
-          "nameKey": "我最瘋"
+          "nameKey": "我最瘋",
+          "mv": "my9QRG4zWzA"
         },
         {
           "index": 10,
@@ -157,15 +245,16 @@
           "playsText": "播放次數：1.3萬",
           "duration": 185,
           "byOther": false,
-          "nameKey": "皇后之歌"
+          "nameKey": "皇后之歌",
+          "mv": "mQ1mDi6ayLw"
         },
         {
           "index": 2,
           "title": "My Lovely Girl",
           "artists": "",
           "videoId": "B3d7Xh_M3c4",
-          "plays": 1250,
-          "playsText": "播放次數：1250",
+          "plays": 1251,
+          "playsText": "播放次數：1251",
           "duration": 225,
           "byOther": false,
           "nameKey": "mylovelygirl"
@@ -175,19 +264,20 @@
           "title": "半個海洋",
           "artists": "",
           "videoId": "7GKBMBeDZwM",
-          "plays": 53000,
-          "playsText": "播放次數：5.3萬",
+          "plays": 54000,
+          "playsText": "播放次數：5.4萬",
           "duration": 261,
           "byOther": false,
-          "nameKey": "半個海洋"
+          "nameKey": "半個海洋",
+          "mv": "fBW2M5-fw7c"
         },
         {
           "index": 4,
           "title": "靠近你",
           "artists": "",
           "videoId": "PZEeqQrHw8c",
-          "plays": 1289,
-          "playsText": "播放次數：1289",
+          "plays": 1291,
+          "playsText": "播放次數：1291",
           "duration": 221,
           "byOther": false,
           "nameKey": "靠近你"
@@ -197,8 +287,8 @@
           "title": "你是我的品牌",
           "artists": "",
           "videoId": "3-h8KZY7fuc",
-          "plays": 605,
-          "playsText": "播放次數：605",
+          "plays": 606,
+          "playsText": "播放次數：606",
           "duration": 192,
           "byOther": false,
           "nameKey": "你是我的品牌"
@@ -208,8 +298,8 @@
           "title": "壞男人",
           "artists": "",
           "videoId": "J56hvxvAGjw",
-          "plays": 584,
-          "playsText": "播放次數：584",
+          "plays": 585,
+          "playsText": "播放次數：585",
           "duration": 257,
           "byOther": false,
           "nameKey": "壞男人"
@@ -219,8 +309,8 @@
           "title": "失眠",
           "artists": "",
           "videoId": "0kqjWsdyhAQ",
-          "plays": 1419,
-          "playsText": "播放次數：1419",
+          "plays": 1423,
+          "playsText": "播放次數：1423",
           "duration": 307,
           "byOther": false,
           "nameKey": "失眠"
@@ -230,8 +320,8 @@
           "title": "The One",
           "artists": "",
           "videoId": "hF2GQewJvj8",
-          "plays": 900,
-          "playsText": "播放次數：900",
+          "plays": 901,
+          "playsText": "播放次數：901",
           "duration": 210,
           "byOther": false,
           "nameKey": "theone"
@@ -241,8 +331,8 @@
           "title": "Open Your Eyes",
           "artists": "",
           "videoId": "J0dmmhUECYY",
-          "plays": 524,
-          "playsText": "播放次數：524",
+          "plays": 525,
+          "playsText": "播放次數：525",
           "duration": 271,
           "byOther": false,
           "nameKey": "openyoureyes"
@@ -273,20 +363,22 @@
           "playsText": "播放次數：1.7萬",
           "duration": 187,
           "byOther": false,
-          "nameKey": "夢的起點"
+          "nameKey": "夢的起點",
+          "mv": "3Q8gpA9KIlQ"
         },
         {
           "index": 2,
           "title": "Crazy",
           "artists": "",
           "videoId": "51j7fK0CnS8",
-          "plays": 8228,
-          "playsText": "播放次數：8228",
+          "plays": 8235,
+          "playsText": "播放次數：8235",
           "duration": 276,
           "byOther": false,
-          "nameKey": "crazy",
           "titleZh": "Crazy (合作演出：Dubbie, Deep Circle,)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "crazy",
+          "mv": "51j7fK0CnS8"
         },
         {
           "index": 3,
@@ -297,7 +389,8 @@
           "playsText": "播放次數：331萬",
           "duration": 228,
           "byOther": false,
-          "nameKey": "我的錯"
+          "nameKey": "我的錯",
+          "mv": "sqAcT_nnd5o"
         },
         {
           "index": 4,
@@ -326,8 +419,8 @@
           "title": "我們的愛啊",
           "artists": "",
           "videoId": "SR7upAs0HvI",
-          "plays": 3671,
-          "playsText": "播放次數：3671",
+          "plays": 3676,
+          "playsText": "播放次數：3676",
           "duration": 232,
           "byOther": false,
           "nameKey": "我們的愛啊"
@@ -337,8 +430,8 @@
           "title": "冬天的熱帶魚",
           "artists": "",
           "videoId": "i4MgQ7OgwVE",
-          "plays": 8867,
-          "playsText": "播放次數：8867",
+          "plays": 8883,
+          "playsText": "播放次數：8883",
           "duration": 256,
           "byOther": false,
           "nameKey": "冬天的熱帶魚"
@@ -348,8 +441,8 @@
           "title": "遠方朋友",
           "artists": "",
           "videoId": "bs5QNswkH2M",
-          "plays": 1889,
-          "playsText": "播放次數：1889",
+          "plays": 1890,
+          "playsText": "播放次數：1890",
           "duration": 277,
           "byOther": false,
           "nameKey": "遠方朋友"
@@ -370,8 +463,8 @@
           "title": "馬文才",
           "artists": "",
           "videoId": "rt3WFIUQRWs",
-          "plays": 3508,
-          "playsText": "播放次數：3508",
+          "plays": 3515,
+          "playsText": "播放次數：3515",
           "duration": 198,
           "byOther": false,
           "nameKey": "馬文才"
@@ -413,15 +506,16 @@
           "playsText": "播放次數：11萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "著魔"
+          "nameKey": "著魔",
+          "mv": "qsSr8h3Yr3M"
         },
         {
           "index": 3,
           "title": "最後一個擁抱",
           "artists": "",
           "videoId": "Tl6D41RJBlA",
-          "plays": 4200,
-          "playsText": "播放次數：4200",
+          "plays": 4201,
+          "playsText": "播放次數：4201",
           "duration": 207,
           "byOther": false,
           "nameKey": "最後一個擁抱"
@@ -431,8 +525,8 @@
           "title": "靠近一點",
           "artists": "",
           "videoId": "gn6GniKPH38",
-          "plays": 2776,
-          "playsText": "播放次數：2776",
+          "plays": 2777,
+          "playsText": "播放次數：2777",
           "duration": 216,
           "byOther": false,
           "nameKey": "靠近一點"
@@ -446,7 +540,8 @@
           "playsText": "播放次數：15萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "dontsaygoodbye"
+          "nameKey": "dontsaygoodbye",
+          "mv": "l69Zn9xyEvQ"
         },
         {
           "index": 6,
@@ -468,7 +563,8 @@
           "playsText": "播放次數：11萬",
           "duration": 267,
           "byOther": false,
-          "nameKey": "愛上了壞"
+          "nameKey": "愛上了壞",
+          "mv": "XZ5DBOM0hNw"
         },
         {
           "index": 8,
@@ -508,8 +604,8 @@
           "title": "玻璃鞋",
           "artists": "",
           "videoId": "gbuucFYZgC4",
-          "plays": 1738,
-          "playsText": "播放次數：1738",
+          "plays": 1741,
+          "playsText": "播放次數：1741",
           "duration": 222,
           "byOther": false,
           "nameKey": "玻璃鞋"
@@ -556,15 +652,16 @@
           "playsText": "播放次數：1.7萬",
           "duration": 216,
           "byOther": false,
-          "nameKey": "愛的世界"
+          "nameKey": "愛的世界",
+          "mv": "GccgDtYjqDc"
         },
         {
           "index": 16,
           "title": "刀劍",
           "artists": "",
           "videoId": "kAHMeyFpIxQ",
-          "plays": 481,
-          "playsText": "播放次數：481",
+          "plays": 482,
+          "playsText": "播放次數：482",
           "duration": 222,
           "byOther": false,
           "nameKey": "刀劍"
@@ -595,7 +692,8 @@
           "playsText": "播放次數：409",
           "duration": 281,
           "byOther": false,
-          "nameKey": "crazy"
+          "nameKey": "crazy",
+          "mv": "51j7fK0CnS8"
         }
       ],
       "releaseDate": null,
@@ -619,8 +717,8 @@
           "title": "Dial Tone (合作演出：Sadde、Notes和T-Lee)",
           "artists": "",
           "videoId": "jglWVtlAGx8",
-          "plays": 1387,
-          "playsText": "播放次數：1387",
+          "plays": 1392,
+          "playsText": "播放次數：1392",
           "duration": 280,
           "byOther": false,
           "nameKey": "dialtone"
@@ -714,8 +812,8 @@
           "title": "No Apologies (合作演出：Ai-Himself)",
           "artists": "",
           "videoId": "7aeIQpfGlQo",
-          "plays": 540,
-          "playsText": "播放次數：540",
+          "plays": 541,
+          "playsText": "播放次數：541",
           "duration": 126,
           "byOther": false,
           "nameKey": "noapologies"
@@ -780,8 +878,8 @@
           "title": "Freshest In Tha World (合作演出：Ai-Himself)",
           "artists": "",
           "videoId": "4gQprA4nLWc",
-          "plays": 229,
-          "playsText": "播放次數：229",
+          "plays": 231,
+          "playsText": "播放次數：231",
           "duration": 131,
           "byOther": false,
           "nameKey": "freshestinthaworld"

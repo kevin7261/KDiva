@@ -2,13 +2,83 @@
   "slug": "miss-ko",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T18:02:41.071Z",
+  "fetchedAt": "2026-09-18T00:51:20.011Z",
   "artist": {
     "channelId": "UCg1fp_qvYdOe4rgua-A63kQ",
     "name": "葛仲珊",
     "thumbnail": "https://yt3.googleusercontent.com/rFMkU4knRMImNHPLzdr-DcKMQGjpj0H1sy4FiBTGPUA2YvKEfXqydMAGnJdCWrnHhWknUUJvJCc=w800-h333-l90-rj-dcqSSYzhkK",
     "subscribers": 34700,
     "monthlyAudience": 76700,
+    "videos": [
+      {
+        "title": "homerun 全壘打",
+        "videoId": "JOF8etKpctM"
+      },
+      {
+        "title": "b.ye 畢業",
+        "videoId": "IWkP94sEBFI"
+      },
+      {
+        "title": "got.to.believe",
+        "videoId": "i5YVMS1noIo"
+      },
+      {
+        "title": "甩一甩 (合作演出：王雪娥)",
+        "videoId": "3Qk6j8w4yHU"
+      },
+      {
+        "title": "自拍 (合作演出：安心亞)",
+        "videoId": "phmf9M24isE"
+      },
+      {
+        "title": "Miss Ko 葛仲珊【一杯起 Ready, Set, Drunk】官方MV正式上線 Official Music Video",
+        "videoId": "IOGifSUdtzg"
+      },
+      {
+        "title": "b.complex B群",
+        "videoId": "6MEtBbN2YjQ"
+      },
+      {
+        "title": "Miss Ko 葛仲珊 - My Legacy 咖啡音",
+        "videoId": "vhbys4KMmNU"
+      },
+      {
+        "title": "Miss Ko 葛仲珊 - Hey DJ [OFFICIAL VIDEO]",
+        "videoId": "cu4-_eoJWdQ"
+      },
+      {
+        "title": "Boom Boom",
+        "videoId": "azLdkRujiYA"
+      },
+      {
+        "title": "Miss Ko 葛仲珊《b.ye 畢業》MV Behind the Scenes",
+        "videoId": "wxmzO8VYFC8"
+      },
+      {
+        "title": "got.to.believe",
+        "videoId": "Y7gQltbhedA"
+      },
+      {
+        "title": "Let It Go",
+        "videoId": "ltNGBs0XAl4"
+      },
+      {
+        "title": "娛樂圈",
+        "videoId": "iBZ5wRaY8Vs"
+      },
+      {
+        "title": "homerun 全壘打",
+        "videoId": "DkrrKtLGPI4"
+      },
+      {
+        "title": "Miss Ko 葛仲珊 - Dance All Night",
+        "videoId": "xvYdKq9Ofx0"
+      },
+      {
+        "title": "b.complex B群",
+        "videoId": "avr0n6WlSQk"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/9dHXub4KC_G1dzM93-NHhZ83ogwbTdovhq2PafUTvRP3qw-OZ3riQYFtQYi4c9W0ymPCCREfrw=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -229,7 +299,8 @@
           "playsText": "播放次數：197萬",
           "duration": 230,
           "byOther": false,
-          "nameKey": "甩一甩"
+          "nameKey": "甩一甩",
+          "mv": "3Qk6j8w4yHU"
         },
         {
           "index": 3,
@@ -251,7 +322,8 @@
           "playsText": "播放次數：58萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "boomboom"
+          "nameKey": "boomboom",
+          "mv": "azLdkRujiYA"
         },
         {
           "index": 5,
@@ -306,7 +378,8 @@
           "playsText": "播放次數：445萬",
           "duration": 183,
           "byOther": false,
-          "nameKey": "自拍"
+          "nameKey": "自拍",
+          "mv": "phmf9M24isE"
         },
         {
           "index": 10,
@@ -317,7 +390,8 @@
           "playsText": "播放次數：21萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "娛樂圈"
+          "nameKey": "娛樂圈",
+          "mv": "iBZ5wRaY8Vs"
         },
         {
           "index": 11,
@@ -328,7 +402,8 @@
           "playsText": "播放次數：18萬",
           "duration": 200,
           "byOther": false,
-          "nameKey": "letitgo"
+          "nameKey": "letitgo",
+          "mv": "ltNGBs0XAl4"
         }
       ],
       "releaseDate": "2014-12-31",
@@ -356,11 +431,11 @@
           "playsText": "播放次數：116萬",
           "duration": 224,
           "byOther": false,
-          "nameKey": "搞定小姐",
           "credits": {
             "lyrics": "葛仲珊",
             "music": "葛仲珊、Cookin' Soul"
-          }
+          },
+          "nameKey": "搞定小姐"
         },
         {
           "index": 2,
@@ -371,11 +446,11 @@
           "playsText": "播放次數：217萬",
           "duration": 243,
           "byOther": false,
-          "nameKey": "pizza",
           "credits": {
             "lyrics": "葛仲珊",
             "music": "葛仲珊、萬志軒"
-          }
+          },
+          "nameKey": "pizza"
         },
         {
           "index": 3,
@@ -386,11 +461,11 @@
           "playsText": "播放次數：1200萬",
           "duration": 180,
           "byOther": false,
-          "nameKey": "皇后區的皇后",
           "credits": {
             "lyrics": "葛仲珊",
             "music": "葛仲珊、剃刀蔣"
-          }
+          },
+          "nameKey": "皇后區的皇后"
         },
         {
           "index": 4,
@@ -401,11 +476,11 @@
           "playsText": "播放次數：3.3萬",
           "duration": 212,
           "byOther": false,
-          "nameKey": "你不懂我",
           "credits": {
             "lyrics": "葛仲珊",
             "music": "剃刀蔣"
-          }
+          },
+          "nameKey": "你不懂我"
         },
         {
           "index": 5,
@@ -416,11 +491,11 @@
           "playsText": "播放次數：45萬",
           "duration": 160,
           "byOther": false,
-          "nameKey": "球鞋蜈蚣",
           "credits": {
             "lyrics": "葛仲珊、呂士軒",
             "music": "葛仲珊、呂士軒、斐立普Felipe Z."
-          }
+          },
+          "nameKey": "球鞋蜈蚣"
         },
         {
           "index": 6,
@@ -431,11 +506,11 @@
           "playsText": "播放次數：95萬",
           "duration": 184,
           "byOther": false,
-          "nameKey": "大夥騎",
           "credits": {
             "lyrics": "葛仲珊",
             "music": "葛仲珊、Smash Hitta"
-          }
+          },
+          "nameKey": "大夥騎"
         },
         {
           "index": 7,
@@ -446,11 +521,11 @@
           "playsText": "播放次數：20萬",
           "duration": 209,
           "byOther": false,
-          "nameKey": "從黑膠起家",
           "credits": {
             "lyrics": "葛仲珊",
             "music": "葛仲珊、Cookin' Soul"
-          }
+          },
+          "nameKey": "從黑膠起家"
         },
         {
           "index": 8,
@@ -461,11 +536,11 @@
           "playsText": "播放次數：960萬",
           "duration": 293,
           "byOther": false,
-          "nameKey": "就改天",
           "credits": {
             "lyrics": "葛仲珊",
             "music": "Smash Hitta、林欣彥"
-          }
+          },
+          "nameKey": "就改天"
         },
         {
           "index": 9,
@@ -476,11 +551,11 @@
           "playsText": "播放次數：1.5萬",
           "duration": 242,
           "byOther": false,
-          "nameKey": "貪心鬼",
           "credits": {
             "lyrics": "葛仲珊、武雄",
             "music": "葛仲珊、剃刀蔣、林欣彥"
-          }
+          },
+          "nameKey": "貪心鬼"
         },
         {
           "index": 10,
@@ -491,19 +566,19 @@
           "playsText": "播放次數：3.8萬",
           "duration": 209,
           "byOther": false,
-          "nameKey": "party",
           "credits": {
             "lyrics": "葛仲珊",
             "music": "葛仲珊、剃刀蔣"
-          }
+          },
+          "nameKey": "party"
         },
         {
           "index": 11,
           "title": "繼續奮鬥(OUTRO)",
           "artists": "",
           "videoId": "xVq9QZ7VsGI",
-          "plays": 7589,
-          "playsText": "播放次數：7589",
+          "plays": 7597,
+          "playsText": "播放次數：7597",
           "duration": 136,
           "byOther": false,
           "nameKey": "繼續奮鬥"
@@ -614,8 +689,8 @@
           "title": "Spotlights",
           "artists": "",
           "videoId": "K5RtZcfSdwo",
-          "plays": 8063,
-          "playsText": "播放次數：8063",
+          "plays": 8064,
+          "playsText": "播放次數：8064",
           "duration": 175,
           "byOther": false,
           "nameKey": "spotlights"
@@ -646,7 +721,8 @@
           "playsText": "播放次數：101萬",
           "duration": 173,
           "byOther": false,
-          "nameKey": "homerun全壘打"
+          "nameKey": "homerun全壘打",
+          "mv": "JOF8etKpctM"
         },
         {
           "index": 2,
@@ -664,8 +740,8 @@
           "title": "soul.food 靈食 (合作演出：Mc Melodee)",
           "artists": "",
           "videoId": "Z6UQHeQUXiY",
-          "plays": 8109,
-          "playsText": "播放次數：8109",
+          "plays": 8111,
+          "playsText": "播放次數：8111",
           "duration": 168,
           "byOther": false,
           "nameKey": "soulfood靈食"
@@ -675,8 +751,8 @@
           "title": "y.d.k.m.",
           "artists": "",
           "videoId": "K9wXkNEufw8",
-          "plays": 7281,
-          "playsText": "播放次數：7281",
+          "plays": 7289,
+          "playsText": "播放次數：7289",
           "duration": 158,
           "byOther": false,
           "nameKey": "ydkm"
@@ -686,8 +762,8 @@
           "title": "yogurt 優葛",
           "artists": "",
           "videoId": "61r3E-VNfFU",
-          "plays": 6366,
-          "playsText": "播放次數：6366",
+          "plays": 6367,
+          "playsText": "播放次數：6367",
           "duration": 180,
           "byOther": false,
           "nameKey": "yogurt優葛"
@@ -697,8 +773,8 @@
           "title": "miss.ok",
           "artists": "",
           "videoId": "B0LKQFY839o",
-          "plays": 6149,
-          "playsText": "播放次數：6149",
+          "plays": 6154,
+          "playsText": "播放次數：6154",
           "duration": 210,
           "byOther": false,
           "nameKey": "missok"
@@ -712,15 +788,16 @@
           "playsText": "播放次數：108萬",
           "duration": 217,
           "byOther": false,
-          "nameKey": "gottobelieve"
+          "nameKey": "gottobelieve",
+          "mv": "i5YVMS1noIo"
         },
         {
           "index": 8,
           "title": "summa 什麼",
           "artists": "",
           "videoId": "a0S_HOBtioI",
-          "plays": 5581,
-          "playsText": "播放次數：5581",
+          "plays": 5582,
+          "playsText": "播放次數：5582",
           "duration": 184,
           "byOther": false,
           "nameKey": "summa什麼"
@@ -734,7 +811,8 @@
           "playsText": "播放次數：38萬",
           "duration": 185,
           "byOther": false,
-          "nameKey": "bye畢業"
+          "nameKey": "bye畢業",
+          "mv": "IWkP94sEBFI"
         },
         {
           "index": 10,
@@ -756,7 +834,8 @@
           "playsText": "播放次數：38萬",
           "duration": 127,
           "byOther": false,
-          "nameKey": "bcomplexb群"
+          "nameKey": "bcomplexb群",
+          "mv": "6MEtBbN2YjQ"
         }
       ],
       "releaseDate": "2025-12-23",
@@ -784,7 +863,8 @@
           "playsText": "播放次數：38萬",
           "duration": 127,
           "byOther": false,
-          "nameKey": "bcomplexb群"
+          "nameKey": "bcomplexb群",
+          "mv": "6MEtBbN2YjQ"
         }
       ],
       "releaseDate": null,
@@ -812,7 +892,8 @@
           "playsText": "播放次數：101萬",
           "duration": 173,
           "byOther": false,
-          "nameKey": "homerun全壘打"
+          "nameKey": "homerun全壘打",
+          "mv": "JOF8etKpctM"
         }
       ],
       "releaseDate": null,

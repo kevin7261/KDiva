@@ -2,13 +2,75 @@
   "slug": "kinmen-wang-lee-ping-hui",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T13:35:57.808Z",
+  "fetchedAt": "2026-09-18T00:17:50.542Z",
   "artist": {
     "channelId": "UCAP1eAINzi6zFj2dK7lU-Qg",
     "name": "金門王與李炳輝",
     "thumbnail": "https://yt3.googleusercontent.com/M_XbETYJ_CsbrEpDMW7LHU8NbmHl9vPB282MDkFp-hycU8Zq_2IkfKxHGp4qZ2peYyC0dcaLVIUmRJ8Ekw=w1440-h600-p-l90-rj",
     "subscribers": 656,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "來去夏威夷",
+        "videoId": "YLhUUYYU4mY"
+      },
+      {
+        "title": "金門王 -舊情綿綿",
+        "videoId": "ntRdfm0BcBA"
+      },
+      {
+        "title": "老人阿哥哥",
+        "videoId": "gSLk1BqBR4g"
+      },
+      {
+        "title": "FORMOSA淡水",
+        "videoId": "_0255n0L_2U"
+      },
+      {
+        "title": "獨身進行曲",
+        "videoId": "4_EB6gA2CsY"
+      },
+      {
+        "title": "飲者之歌",
+        "videoId": "mxWM07T1VaI"
+      },
+      {
+        "title": "金門王&李炳輝  失戀的便當             台語歌詞標誌+字幕版c",
+        "videoId": "haaOeY0nVeU"
+      },
+      {
+        "title": "金門王 李炳輝 流浪的歌聲",
+        "videoId": "vEI2BqioC_I"
+      },
+      {
+        "title": "So-La 妳咧叼",
+        "videoId": "vFobocx6laA"
+      },
+      {
+        "title": "金門王+李炳輝-《故鄉的塗味》(澎恰恰)    台語歌詞標誌+字幕版c",
+        "videoId": "vNpLnc3-aXI"
+      },
+      {
+        "title": "搭車歌",
+        "videoId": "SY9G5YmvdSs"
+      },
+      {
+        "title": "2022-11-13 搭車歌 - 謝銘祐X陳竹昇X麵包車樂團@台咖的迷那嗓",
+        "videoId": "DLBuhW66-Mo"
+      },
+      {
+        "title": "老人阿哥哥",
+        "videoId": "mEAea-ivbws"
+      },
+      {
+        "title": "2025-10-22 #開心家族公益團隊  第176場 白河永安日照中心 來去夏威夷 天星 董炳鑫",
+        "videoId": "RDRDzh-muFc"
+      },
+      {
+        "title": "老人阿哥哥20130120",
+        "videoId": "o29qaJMF1TU"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/Q21ewJu17rcY-F8hfIiFhpyDXsTnlAaMjzXvUsZLPBqrg9M0inv5-zl4ZV6KuWhY3bpAo8UeYA=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -30,7 +92,8 @@
           "playsText": "播放次數：154萬",
           "duration": 206,
           "byOther": false,
-          "nameKey": "來去夏威夷"
+          "nameKey": "來去夏威夷",
+          "mv": "YLhUUYYU4mY"
         },
         {
           "index": 2,
@@ -41,15 +104,16 @@
           "playsText": "播放次數：15萬",
           "duration": 112,
           "byOther": false,
-          "nameKey": "老人阿哥哥"
+          "nameKey": "老人阿哥哥",
+          "mv": "gSLk1BqBR4g"
         },
         {
           "index": 3,
           "title": "失戀的便當",
           "artists": "金門王與李炳輝",
           "videoId": "JG0Of448_Ps",
-          "plays": 37000,
-          "playsText": "播放次數：3.7萬",
+          "plays": 38000,
+          "playsText": "播放次數：3.8萬",
           "duration": 229,
           "byOther": false,
           "nameKey": "失戀的便當"
@@ -63,7 +127,8 @@
           "playsText": "播放次數：15萬",
           "duration": 234,
           "byOther": false,
-          "nameKey": "飲者之歌"
+          "nameKey": "飲者之歌",
+          "mv": "mxWM07T1VaI"
         },
         {
           "index": 5,
@@ -85,7 +150,8 @@
           "playsText": "播放次數：1.4萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "搭車歌"
+          "nameKey": "搭車歌",
+          "mv": "SY9G5YmvdSs"
         },
         {
           "index": 7,
@@ -96,7 +162,8 @@
           "playsText": "播放次數：2.1萬",
           "duration": 203,
           "byOther": false,
-          "nameKey": "sola妳咧叼"
+          "nameKey": "sola妳咧叼",
+          "mv": "vFobocx6laA"
         },
         {
           "index": 8,

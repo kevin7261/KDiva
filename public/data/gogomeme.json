@@ -2,13 +2,99 @@
   "slug": "gogomeme",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T18:08:09.190Z",
+  "fetchedAt": "2026-09-18T00:36:11.667Z",
   "artist": {
     "channelId": "UCP5lSSTJPqIXbnVL2Uug8Ww",
     "name": "GoGo",
     "thumbnail": "https://yt3.googleusercontent.com/AhnOnpCI88Nu3HxFpmHHwNi08jzHoWLtGOuQl3NqZ9Wo2rK8WRPIzRjR4jqwDnl99n96ngNllJX_F2g=w1400-h583-p-l90-rj",
     "subscribers": 39,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "Heaven",
+        "videoId": "W7qAfjVwrDk"
+      },
+      {
+        "title": "Memories",
+        "videoId": "qdMbiJcRz14"
+      },
+      {
+        "title": "SEXY MAMA",
+        "videoId": "0DYiM9MTzfs"
+      },
+      {
+        "title": "我像你",
+        "videoId": "mUfMQNOrIxQ"
+      },
+      {
+        "title": "夏天結束前",
+        "videoId": "fqEF5UOh48o"
+      },
+      {
+        "title": "愛情假期",
+        "videoId": "WleiOcKA7qg"
+      },
+      {
+        "title": "下雨天",
+        "videoId": "cRyhifSMJbU"
+      },
+      {
+        "title": "我的生日",
+        "videoId": "p1NQxECpNSw"
+      },
+      {
+        "title": "不要說再見",
+        "videoId": "2rOSfbgWOYc"
+      },
+      {
+        "title": "不想和你在一起",
+        "videoId": "dA9stljbQxc"
+      },
+      {
+        "title": "Dust In My Eyes",
+        "videoId": "ya87_wQKjSA"
+      },
+      {
+        "title": "自從你出現",
+        "videoId": "OWjqxlgUucQ"
+      },
+      {
+        "title": "War",
+        "videoId": "cp2uBU0woXY"
+      },
+      {
+        "title": "Big Cat Eyes",
+        "videoId": "gXcDkvA9gXc"
+      },
+      {
+        "title": "Crow Me",
+        "videoId": "BcPh7rPIvOs"
+      },
+      {
+        "title": "GoGo & MeMe - Heaven (鋼琴演奏版)",
+        "videoId": "W8ezD_jS1Dc"
+      },
+      {
+        "title": "say forever（当我想你的时候）",
+        "videoId": "P2UT8mXPFKk"
+      },
+      {
+        "title": "Hermanos Inglesos feat. MeMe - Wanderland",
+        "videoId": "O0b0bC2WdrM"
+      },
+      {
+        "title": "Wanderland (Radio Edit)",
+        "videoId": "vXnGUvA6rJY"
+      },
+      {
+        "title": "Gabriel o Pensador - Um Minuto",
+        "videoId": "LfgIkqzgZvA"
+      },
+      {
+        "title": "Wanderland in TMDG 2013 (original video by Hermanos Inglesos feat. MeMe)",
+        "videoId": "TXp7N52oslA"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/Z6ZDGw28P6KIf3bxio3DBHBak3gEzHHTi4xo2NKpFy_6fldlehsDIgQ8Ny96wV53fd0JjyDEB1E=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -26,11 +112,12 @@
           "title": "夏天結束前",
           "artists": "",
           "videoId": "jgPsL-NmFj4",
-          "plays": 6018,
-          "playsText": "播放次數：6018",
+          "plays": 6021,
+          "playsText": "播放次數：6021",
           "duration": 271,
           "byOther": false,
-          "nameKey": "夏天結束前"
+          "nameKey": "夏天結束前",
+          "mv": "fqEF5UOh48o"
         },
         {
           "index": 2,
@@ -41,7 +128,8 @@
           "playsText": "播放次數：1.8萬",
           "duration": 297,
           "byOther": false,
-          "nameKey": "不要說再見"
+          "nameKey": "不要說再見",
+          "mv": "2rOSfbgWOYc"
         },
         {
           "index": 3,
@@ -52,7 +140,8 @@
           "playsText": "播放次數：7155",
           "duration": 237,
           "byOther": false,
-          "nameKey": "自從你出現"
+          "nameKey": "自從你出現",
+          "mv": "OWjqxlgUucQ"
         },
         {
           "index": 4,
@@ -63,7 +152,8 @@
           "playsText": "播放次數：1.2萬",
           "duration": 236,
           "byOther": false,
-          "nameKey": "我的生日"
+          "nameKey": "我的生日",
+          "mv": "p1NQxECpNSw"
         },
         {
           "index": 5,
@@ -74,7 +164,8 @@
           "playsText": "播放次數：6508",
           "duration": 241,
           "byOther": false,
-          "nameKey": "愛情假期"
+          "nameKey": "愛情假期",
+          "mv": "WleiOcKA7qg"
         },
         {
           "index": 6,
@@ -85,7 +176,8 @@
           "playsText": "播放次數：5403",
           "duration": 228,
           "byOther": false,
-          "nameKey": "不想和你在一起"
+          "nameKey": "不想和你在一起",
+          "mv": "dA9stljbQxc"
         },
         {
           "index": 7,
@@ -96,7 +188,8 @@
           "playsText": "播放次數：3.8萬",
           "duration": 260,
           "byOther": false,
-          "nameKey": "heaven"
+          "nameKey": "heaven",
+          "mv": "W7qAfjVwrDk"
         },
         {
           "index": 8,
@@ -118,7 +211,8 @@
           "playsText": "播放次數：2萬",
           "duration": 250,
           "byOther": false,
-          "nameKey": "我像你"
+          "nameKey": "我像你",
+          "mv": "mUfMQNOrIxQ"
         },
         {
           "index": 10,
@@ -162,7 +256,8 @@
           "playsText": "播放次數：2.2萬",
           "duration": 257,
           "byOther": false,
-          "nameKey": "下雨天"
+          "nameKey": "下雨天",
+          "mv": "cRyhifSMJbU"
         },
         {
           "index": 14,
@@ -206,18 +301,20 @@
           "playsText": "播放次數：1537",
           "duration": 256,
           "byOther": false,
-          "nameKey": "heaven"
+          "nameKey": "heaven",
+          "mv": "W7qAfjVwrDk"
         },
         {
           "index": 18,
           "title": "Say Forever (鋼琴演奏版)",
           "artists": "",
           "videoId": "ze6ZZEnkmLk",
-          "plays": 2006,
-          "playsText": "播放次數：2006",
+          "plays": 2007,
+          "playsText": "播放次數：2007",
           "duration": 204,
           "byOther": false,
-          "nameKey": "sayforever"
+          "nameKey": "sayforever",
+          "mv": "P2UT8mXPFKk"
         }
       ],
       "nameKey": "foreverandever"

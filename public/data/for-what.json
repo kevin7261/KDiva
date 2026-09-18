@@ -2,13 +2,31 @@
   "slug": "for-what",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T13:43:22.249Z",
+  "fetchedAt": "2026-09-18T00:58:54.083Z",
   "artist": {
     "channelId": "UCry9S-7wth479tbrtiP_l9A",
     "name": "For What",
     "thumbnail": "https://yt3.googleusercontent.com/AOJU8prO_HuEogNZXksDvujav1t081SogSUe5Ff8w9zjxl7xemH8g2VZ4YRL0LB2SoIJekBCGAM2sMk9=w2880-h1200-p-l90-rj",
     "subscribers": 5,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "郭蘅祈＆浮花樂隊For what《甘味時光》Sweet time（電視劇【日日好食光】主題曲）",
+        "videoId": "KO2kLt1RsUg"
+      },
+      {
+        "title": "郭蘅祈＿浮花樂隊for what_『都很好 All is well』",
+        "videoId": "5SgLzIEXnmg"
+      },
+      {
+        "title": "春光Spring Light＿郭蘅祈 Kuo heng chi（浮花樂隊For what）",
+        "videoId": "i0ftFujjwfI"
+      },
+      {
+        "title": "你指望我做什麼？What do you expect me to do?＿郭蘅祈Kuo Heng chi＿『浮花樂隊』for What",
+        "videoId": "Ft7D39guREY"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/tf1TuoEgTr8QlmqBnI4RK3hlun2xIb2bUEqXvSLbesfNr-Kuaa-s4Wcm5XHkz00hoFcyVAk6=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -26,8 +44,8 @@
           "title": "都很好",
           "artists": "",
           "videoId": "oOUAKp8wE8Y",
-          "plays": 4637,
-          "playsText": "播放次數：4637",
+          "plays": 4642,
+          "playsText": "播放次數：4642",
           "duration": 260,
           "byOther": false,
           "nameKey": "都很好"
@@ -49,8 +67,8 @@
           "title": "你指望我做什麼？",
           "artists": "",
           "videoId": "6C8e55AXd9w",
-          "plays": 3740,
-          "playsText": "播放次數：3740",
+          "plays": 3741,
+          "playsText": "播放次數：3741",
           "duration": 272,
           "byOther": false,
           "nameKey": "你指望我做什麼"
@@ -139,19 +157,20 @@
           "title": "甘味時光 (電視劇<日日好食光>主題曲)",
           "artists": "",
           "videoId": "e2-wh6fPJno",
-          "plays": 2170,
-          "playsText": "播放次數：2170",
+          "plays": 2173,
+          "playsText": "播放次數：2173",
           "duration": 270,
           "byOther": false,
-          "nameKey": "甘味時光"
+          "nameKey": "甘味時光",
+          "mv": "KO2kLt1RsUg"
         },
         {
           "index": 6,
           "title": "都很好",
           "artists": "",
           "videoId": "mgN3dhLXXAM",
-          "plays": 4637,
-          "playsText": "播放次數：4637",
+          "plays": 4642,
+          "playsText": "播放次數：4642",
           "duration": 255,
           "byOther": false,
           "nameKey": "都很好"
@@ -161,8 +180,8 @@
           "title": "偷心",
           "artists": "",
           "videoId": "ZlXOojg_0Jg",
-          "plays": 41,
-          "playsText": "播放次數：41",
+          "plays": 42,
+          "playsText": "播放次數：42",
           "duration": 299,
           "byOther": false,
           "nameKey": "偷心"
@@ -199,11 +218,13 @@
           "playsText": "播放次數：2173",
           "duration": 270,
           "byOther": false,
-          "nameKey": "甘味時光"
+          "nameKey": "甘味時光",
+          "mv": "KO2kLt1RsUg"
         }
       ],
       "nameKey": "甘味時光"
     }
   ],
+  "wikiOnly": [],
   "wikiWritten": []
 }

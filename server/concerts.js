@@ -10,7 +10,7 @@ import { wikiApi, getJson, fetchPages, toPlain, parseDate, readTables, normalize
 
 const CONCERT_RE = /演唱會|演唱会|巡迴|巡回|巡演|音樂會|音乐会|唱談會|唱谈会|\btour\b|concert/i
 // 不是自己的演唱會，或是演唱會的影音、電影
-const NOT_CONCERT_RE = /嘉賓|嘉宾|客串|助陣|助阵|參與演出|参与演出|拼盤|拼盘|影音|專輯|专辑|電影|电影|DVD|藍光|蓝光|獲獎|获奖|得獎|得奖|節目|节目|音樂劇|音乐剧|參考|参考|外部連結|外部链接|註釋|注释|腳註|脚注|相關條目|相关条目|歌單|歌单|曲目|現場表演|现场表演|其他演出|其它演出|演出活動|演出活动|音樂祭|音乐祭|音樂節|音乐节/i
+const NOT_CONCERT_RE = /記者會|记者会|嘉年華|嘉年华|拉票|簽唱|签唱|見面會|见面会|造勢|造势|嘉賓|嘉宾|客串|助陣|助阵|參與演出|参与演出|拼盤|拼盘|影音|專輯|专辑|電影|电影|DVD|藍光|蓝光|獲獎|获奖|得獎|得奖|節目|节目|音樂劇|音乐剧|參考|参考|外部連結|外部链接|註釋|注释|腳註|脚注|相關條目|相关条目|歌單|歌单|曲目|現場表演|现场表演|其他演出|其它演出|演出活動|演出活动|音樂祭|音乐祭|音樂節|音乐节/i
 
 // ---------- 文字 ----------
 
@@ -78,7 +78,13 @@ function splitLeg(name) {
   for (const m of s.matchAll(LEG_HEAD_RE)) end = m.index + m[0].length
   if (end < 0) return null
   // 「…巡迴演唱會-香港站」：關鍵字和城市之間可能夾著連字號／冒號
-  const city = s.slice(end).replace(/^[\s\-－—–:：·、]+/, '').trim().replace(/站$/, '')
+  // 「…巡迴演唱會-香港站」「…世界巡迴演唱會2008 澳門站」：中間可能夾連字號、冒號或年份
+  const city = s
+    .slice(end)
+    .replace(/^[\s\-－—–:：·、]+/, '')
+    .replace(/^(?:19|20)\d{2}\s*[年]?\s*/, '')
+    .trim()
+    .replace(/站$/, '')
   if (!/^[\u3400-\u9fff]{2,6}$/.test(city)) return null
   const base = cleanName(s.slice(0, end))
   return base.length >= 2 ? { base, city } : null

@@ -1,0 +1,82 @@
+{
+  "slug": "chris-yu",
+  "fetchedAt": "2026-09-18T01:05:28.209Z",
+  "wiki": "游鴻明",
+  "bio": {
+    "born": {
+      "date": "1968-10-30",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "呼彭喚遊巡迴演唱會（與 彭佳慧）",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2008-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2008-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北國際會議中心"
+      ],
+      "shows": []
+    },
+    {
+      "name": "愛我的人和我愛的人巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2024-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "上海"
+      ],
+      "venues": [
+        "PHASE LIVE HOUSE 上海"
+      ],
+      "shows": []
+    },
+    {
+      "name": "遊鴻明敵不過想念演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2026-01-01",
+        "precision": "year"
+      },
+      "end": {
+        "date": "2026-01-01",
+        "precision": "year"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [
+        "臺北"
+      ],
+      "venues": [
+        "臺北流行音樂中心"
+      ],
+      "shows": []
+    }
+  ]
+}

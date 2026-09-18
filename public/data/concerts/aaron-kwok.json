@@ -1,6 +1,6 @@
 {
   "slug": "aaron-kwok",
-  "fetchedAt": "2026-09-17T15:02:29.730Z",
+  "fetchedAt": "2026-09-18T01:19:56.198Z",
   "wiki": "郭富城",
   "bio": {
     "born": {
@@ -17,12 +17,12 @@
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "1991-04-01",
-        "precision": "month"
+        "date": "1991-04-23",
+        "precision": "day"
       },
       "end": {
-        "date": "1991-04-01",
-        "precision": "month"
+        "date": "1991-04-24",
+        "precision": "day"
       },
       "showCount": 2,
       "regions": [
@@ -32,7 +32,28 @@
         "新加坡"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1991-04-23",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "1991-04-24",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "愛你演唱會",
@@ -98,7 +119,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1993-10-26",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "日本演唱會",
@@ -120,7 +152,73 @@
         "日本"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1993-12-08",
+          "precision": "day",
+          "region": "日本",
+          "city": "日本",
+          "venue": "",
+          "lat": 35,
+          "lon": 136,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "粟一燒狂野郭富城誘惑演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1994-12-16",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1995-01-21",
+        "precision": "day"
+      },
+      "showCount": 16,
+      "regions": [
+        "馬來西亞",
+        "臺北"
+      ],
+      "cities": [
+        "馬來西亞",
+        "臺北"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "1994-12-16",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "馬來西亞",
+          "venue": "",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "city"
+        },
+        {
+          "date": "1994-12-17",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "馬來西亞",
+          "venue": "",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "city"
+        },
+        {
+          "date": "1995-01-21",
+          "precision": "day",
+          "region": "臺北",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "純真傳說1995郭富城個人演唱會",
@@ -145,28 +243,6 @@
       "shows": []
     },
     {
-      "name": "粟一燒狂野郭富城誘惑演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "1995-01-21",
-        "precision": "day"
-      },
-      "end": {
-        "date": "1995-01-21",
-        "precision": "day"
-      },
-      "showCount": 16,
-      "regions": [
-        "香港"
-      ],
-      "cities": [
-        "香港"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
       "name": "郭富城純美純真演唱會",
       "page": null,
       "kind": "concert",
@@ -186,29 +262,73 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1995-05-14",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城最激巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "1996-07-01",
-        "precision": "month"
+        "date": "1996-07-12",
+        "precision": "day"
       },
       "end": {
-        "date": "1996-07-01",
-        "precision": "month"
+        "date": "1996-12-22",
+        "precision": "day"
       },
       "showCount": 18,
       "regions": [
-        "香港"
+        "香港",
+        "臺北"
       ],
       "cities": [
-        "香港"
+        "香港",
+        "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1996-07-12",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        },
+        {
+          "date": "1996-12-21",
+          "precision": "day",
+          "region": "臺北",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "1996-12-22",
+          "precision": "day",
+          "region": "臺北",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "狂野之城Aaron音樂會1997東京站兩場、橫濱站兩場",
@@ -252,7 +372,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1997-09-03",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "百事郭富城新一代之旅",
@@ -274,7 +405,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1998-05-03",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "百事郭富城一變傾城演唱會",
@@ -299,48 +441,234 @@
       "shows": []
     },
     {
-      "name": "郭富城愛心二重奏演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "1999-08-01",
-        "precision": "month"
-      },
-      "end": {
-        "date": "1999-08-01",
-        "precision": "month"
-      },
-      "showCount": 2,
-      "regions": [
-        "香港"
-      ],
-      "cities": [
-        "香港"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
       "name": "郭富城巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2000-08-18",
+        "date": "1999-02-12",
         "precision": "day"
       },
       "end": {
-        "date": "2000-08-18",
+        "date": "2004-05-03",
         "precision": "day"
       },
       "showCount": 2,
       "regions": [
-        "上海"
+        "上海",
+        "新加坡",
+        "佛山",
+        "廣州",
+        "東莞",
+        "拉斯維加斯",
+        "馬來西亞",
+        "三藩市"
       ],
       "cities": [
-        "上海"
+        "上海",
+        "新加坡",
+        "佛山",
+        "廣州",
+        "東莞",
+        "拉斯維加斯",
+        "馬來西亞",
+        "三藩市"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "1999-02-12",
+          "precision": "day",
+          "region": "上海",
+          "city": "上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1999-02-13",
+          "precision": "day",
+          "region": "上海",
+          "city": "上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "1999-04-23",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "1999-04-24",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2000-08-18",
+          "precision": "day",
+          "region": "佛山",
+          "city": "佛山",
+          "venue": "",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
+        },
+        {
+          "date": "2000-08-25",
+          "precision": "day",
+          "region": "廣州",
+          "city": "廣州",
+          "venue": "",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2000-08-28",
+          "precision": "day",
+          "region": "東莞",
+          "city": "東莞",
+          "venue": "",
+          "lat": 23.04749,
+          "lon": 113.74928,
+          "geo": "city"
+        },
+        {
+          "date": "2000-09-23",
+          "precision": "day",
+          "region": "拉斯維加斯",
+          "city": "拉斯維加斯",
+          "venue": "",
+          "lat": 36.16722222222222,
+          "lon": -115.14861111111111,
+          "geo": "city"
+        },
+        {
+          "date": "2001-04-06",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2001-04-07",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2001-09-17",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "馬來西亞",
+          "venue": "",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "city"
+        },
+        {
+          "date": "2002-02-23",
+          "precision": "day",
+          "region": "三藩市",
+          "city": "三藩市",
+          "venue": "",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2002-09-06",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2002-09-14",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "馬來西亞",
+          "venue": "",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "city"
+        },
+        {
+          "date": "2004-05-03",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "馬來西亞",
+          "venue": "",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "郭富城愛心二重奏演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "1999-08-30",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-08-31",
+        "precision": "day"
+      },
+      "showCount": 2,
+      "regions": [
+        "香港"
+      ],
+      "cities": [
+        "香港"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "1999-08-30",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        },
+        {
+          "date": "1999-08-31",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "百事郭富城Live On Stage演唱會2000",
@@ -384,7 +712,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2001-11-25",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城巡迴演唱會大阪站、東京站、橫濱站",
@@ -428,7 +767,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2002-01-09",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "舒適堡郭富城舞臺寶典@舞林大滙演唱會",
@@ -461,7 +811,7 @@
         "precision": "day"
       },
       "end": {
-        "date": "2005-07-24",
+        "date": "2007-05-21",
         "precision": "day"
       },
       "showCount": 2,
@@ -472,73 +822,95 @@
         "多倫多"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2005-07-24",
+          "precision": "day",
+          "region": "多倫多",
+          "city": "多倫多",
+          "venue": "",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2007-05-21",
+          "precision": "day",
+          "region": "多倫多",
+          "city": "多倫多",
+          "venue": "",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "舒適堡郭富城舞臺寶典@飛越舞林二部曲",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
         "date": "2006-06-03",
         "precision": "day"
       },
       "end": {
-        "date": "2006-06-03",
+        "date": "2007-09-04",
         "precision": "day"
       },
       "showCount": 6,
       "regions": [
-        "香港"
+        "順德",
+        "美國",
+        "新加坡"
       ],
       "cities": [
-        "香港"
+        "順德",
+        "美國",
+        "新加坡"
       ],
       "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞臺寶典巡迴演唱會 雷諾站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2007-05-26",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2007-05-26",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "美國"
-      ],
-      "cities": [
-        "美國"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞臺寶典巡迴演唱會 拉斯維加斯站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2007-05-27",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2007-05-27",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "美國"
-      ],
-      "cities": [
-        "美國"
-      ],
-      "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2006-06-03",
+          "precision": "day",
+          "region": "順德",
+          "city": "順德",
+          "venue": "",
+          "lat": 22.7957,
+          "lon": 113.28492,
+          "geo": "city"
+        },
+        {
+          "date": "2007-05-26",
+          "precision": "day",
+          "region": "美國",
+          "city": "美國",
+          "venue": "",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "city"
+        },
+        {
+          "date": "2007-05-27",
+          "precision": "day",
+          "region": "美國",
+          "city": "美國",
+          "venue": "",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "city"
+        },
+        {
+          "date": "2007-09-04",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "舒適堡郭富城舞臺寶典@飛越中國舞林演唱會",
@@ -560,129 +932,244 @@
         "萍鄉"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-09-22",
+          "precision": "day",
+          "region": "萍鄉",
+          "city": "萍鄉",
+          "venue": "",
+          "lat": 27.633333333333,
+          "lon": 113.85,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "瑞士尊貴理財郭富城舞林正傳De Show Reel演唱會",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
-        "date": "2007-11-01",
-        "precision": "month"
+        "date": "2007-11-16",
+        "precision": "day"
       },
       "end": {
-        "date": "2007-11-01",
-        "precision": "month"
+        "date": "2008-12-14",
+        "precision": "day"
       },
       "showCount": 9,
       "regions": [
-        "香港"
+        "香港",
+        "澳門",
+        "佛山",
+        "上海",
+        "臺北"
       ],
       "cities": [
-        "香港"
+        "香港",
+        "澳門",
+        "佛山",
+        "上海",
+        "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2007-11-16",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        },
+        {
+          "date": "2007-11-24",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        },
+        {
+          "date": "2008-08-30",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2008-09-20",
+          "precision": "day",
+          "region": "佛山",
+          "city": "佛山",
+          "venue": "",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
+        },
+        {
+          "date": "2008-10-18",
+          "precision": "day",
+          "region": "上海",
+          "city": "上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2008-12-13",
+          "precision": "day",
+          "region": "臺北",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2008-12-14",
+          "precision": "day",
+          "region": "臺北",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "舒適堡郭富城舞林正傳De Show Reel演唱會延續篇",
       "page": null,
-      "kind": "concert",
+      "kind": "tour",
       "start": {
-        "date": "2008-02-01",
-        "precision": "month"
+        "date": "2009-01-03",
+        "precision": "day"
       },
       "end": {
-        "date": "2008-02-01",
-        "precision": "month"
+        "date": "2010-10-14",
+        "precision": "day"
       },
       "showCount": 7,
       "regions": [
-        "香港"
+        "廣州",
+        "新加坡",
+        "杭州",
+        "美國",
+        "多倫多",
+        "洛陽"
       ],
       "cities": [
-        "香港"
+        "廣州",
+        "新加坡",
+        "杭州",
+        "美國",
+        "多倫多",
+        "洛陽"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-01-03",
+          "precision": "day",
+          "region": "廣州",
+          "city": "廣州",
+          "venue": "",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2009-05-30",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2009-11-07",
+          "precision": "day",
+          "region": "杭州",
+          "city": "杭州",
+          "venue": "",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2009-12-20",
+          "precision": "day",
+          "region": "美國",
+          "city": "美國",
+          "venue": "",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "city"
+        },
+        {
+          "date": "2010-04-02",
+          "precision": "day",
+          "region": "美國",
+          "city": "美國",
+          "venue": "",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "city"
+        },
+        {
+          "date": "2010-04-03",
+          "precision": "day",
+          "region": "美國",
+          "city": "美國",
+          "venue": "",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "city"
+        },
+        {
+          "date": "2010-04-06",
+          "precision": "day",
+          "region": "多倫多",
+          "city": "多倫多",
+          "venue": "",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2010-10-14",
+          "precision": "day",
+          "region": "洛陽",
+          "city": "洛陽",
+          "venue": "",
+          "lat": 34.65867,
+          "lon": 112.42447,
+          "geo": "city"
+        }
+      ]
     },
     {
-      "name": "郭富城舞林正傳世界巡迴演唱會2008 澳門站",
+      "name": "郭富城舞林正傳世界巡迴演唱會2009 臺灣站ENCORE",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2008-08-30",
+        "date": "2009-08-01",
         "precision": "day"
       },
       "end": {
-        "date": "2008-08-30",
+        "date": "2009-08-02",
         "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "澳門"
-      ],
-      "cities": [
-        "澳門"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2008 佛山站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2008-09-20",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2008-09-20",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "佛山"
-      ],
-      "cities": [
-        "佛山"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2008 上海站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2008-10-18",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2008-10-18",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "上海"
-      ],
-      "cities": [
-        "上海"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2009 臺灣站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2008-12-01",
-        "precision": "month"
-      },
-      "end": {
-        "date": "2008-12-01",
-        "precision": "month"
       },
       "showCount": 2,
       "regions": [
@@ -692,190 +1179,35 @@
         "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2009-08-01",
+          "precision": "day",
+          "region": "臺北",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2009-08-02",
+          "precision": "day",
+          "region": "臺北",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
-      "name": "郭富城舞林正傳世界巡迴演唱會2009 廣州站",
+      "name": "郭富城舞林正傳世界巡迴演唱會2010 新加坡站2",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2009-01-03",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2009-01-03",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "廣州"
-      ],
-      "cities": [
-        "廣州"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2009 新加坡站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2009-05-30",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2009-05-30",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "新加坡"
-      ],
-      "cities": [
-        "新加坡"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2009 杭州站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2009-11-07",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2009-11-07",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "杭州"
-      ],
-      "cities": [
-        "杭州"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2009 美國站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2009-12-20",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2009-12-20",
-        "precision": "day"
-      },
-      "showCount": 2,
-      "regions": [
-        "美國"
-      ],
-      "cities": [
-        "美國"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2010 拉斯維加斯站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2010-04-01",
-        "precision": "month"
-      },
-      "end": {
-        "date": "2010-04-01",
-        "precision": "month"
-      },
-      "showCount": 3,
-      "regions": [
-        "美國"
-      ],
-      "cities": [
-        "美國"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2010 多倫多站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2010-04-06",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2010-04-06",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "多倫多"
-      ],
-      "cities": [
-        "多倫多"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2010 洛陽站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2010-10-14",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2010-10-14",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "洛陽"
-      ],
-      "cities": [
-        "洛陽"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2011 北京站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2011-05-01",
-        "precision": "month"
-      },
-      "end": {
-        "date": "2011-05-01",
-        "precision": "month"
-      },
-      "showCount": 1,
-      "regions": [
-        "北京"
-      ],
-      "cities": [
-        "北京"
-      ],
-      "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林正傳世界巡迴演唱會2011 長沙站",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2011-09-17",
+        "date": "2010-05-07",
         "precision": "day"
       },
       "end": {
@@ -884,13 +1216,70 @@
       },
       "showCount": 1,
       "regions": [
+        "新加坡",
+        "上海",
+        "北京",
         "長沙"
       ],
       "cities": [
+        "新加坡",
+        "上海",
+        "北京",
         "長沙"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2010-05-07",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2011-04-16",
+          "precision": "day",
+          "region": "上海",
+          "city": "上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2011-05-27",
+          "precision": "day",
+          "region": "北京",
+          "city": "北京",
+          "venue": "",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2011-05-28",
+          "precision": "day",
+          "region": "北京",
+          "city": "北京",
+          "venue": "",
+          "lat": 39.90403,
+          "lon": 116.407526,
+          "geo": "city"
+        },
+        {
+          "date": "2011-09-17",
+          "precision": "day",
+          "region": "長沙",
+          "city": "長沙",
+          "venue": "",
+          "lat": 28.19874,
+          "lon": 112.97087,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城 舞臨盛宴 世界巡迴演唱會 [香港站] 2011-2012及2013",
@@ -1102,7 +1491,18 @@
         "倫敦"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2014-10-27",
+          "precision": "day",
+          "region": "倫敦",
+          "city": "倫敦",
+          "venue": "",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞臨盛宴世界巡迴演唱會 馬來西亞站2015",
@@ -1124,7 +1524,18 @@
         "馬來西亞"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-04-10",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "馬來西亞",
+          "venue": "",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞臨盛宴夢幻距離世界巡迴演唱會 新加坡站2015",
@@ -1146,7 +1557,18 @@
         "新加坡"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-10-30",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞臨盛宴夢幻距離世界巡迴演唱會 澳門站2015",
@@ -1168,7 +1590,18 @@
         "澳門"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2015-11-07",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會",
@@ -1332,9 +1765,9 @@
           "region": "中國大陸",
           "city": "徐州",
           "venue": "奧體中心體育場",
-          "lat": 39.982222,
-          "lon": 116.393056,
-          "geo": "venue"
+          "lat": 34.26104,
+          "lon": 117.18587,
+          "geo": "city"
         },
         {
           "date": "2019-06-22",
@@ -1403,12 +1836,12 @@
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2018-11-01",
-        "precision": "month"
+        "date": "2018-11-24",
+        "precision": "day"
       },
       "end": {
-        "date": "2018-11-01",
-        "precision": "month"
+        "date": "2018-11-25",
+        "precision": "day"
       },
       "showCount": 2,
       "regions": [
@@ -1418,7 +1851,28 @@
         "廣州"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-11-24",
+          "precision": "day",
+          "region": "廣州",
+          "city": "廣州",
+          "venue": "",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2018-11-25",
+          "precision": "day",
+          "region": "廣州",
+          "city": "廣州",
+          "venue": "",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 武漢站2018",
@@ -1440,7 +1894,18 @@
         "武漢"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-12-08",
+          "precision": "day",
+          "region": "武漢",
+          "city": "武漢",
+          "venue": "",
+          "lat": 30.595,
+          "lon": 114.2975,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 南京站2018",
@@ -1462,7 +1927,18 @@
         "南京"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-12-22",
+          "precision": "day",
+          "region": "南京",
+          "city": "南京",
+          "venue": "",
+          "lat": 32.060833333333335,
+          "lon": 118.77888888888889,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 紹興站2018",
@@ -1484,19 +1960,30 @@
         "紹興"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2018-12-31",
+          "precision": "day",
+          "region": "紹興",
+          "city": "紹興",
+          "venue": "",
+          "lat": 30,
+          "lon": 120.58333333333,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 澳門站2019",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2019-01-01",
-        "precision": "month"
+        "date": "2019-01-18",
+        "precision": "day"
       },
       "end": {
-        "date": "2019-01-01",
-        "precision": "month"
+        "date": "2019-01-19",
+        "precision": "day"
       },
       "showCount": 2,
       "regions": [
@@ -1506,7 +1993,28 @@
         "澳門"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-01-18",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2019-01-19",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 深圳站2019",
@@ -1528,7 +2036,18 @@
         "深圳"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-03-16",
+          "precision": "day",
+          "region": "深圳",
+          "city": "深圳",
+          "venue": "",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 上海站2019",
@@ -1550,29 +2069,18 @@
         "上海"
       ],
       "venues": [],
-      "shows": []
-    },
-    {
-      "name": "郭富城舞林密碼世界巡迴演唱會 北京站2019",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2019-06-01",
-        "precision": "month"
-      },
-      "end": {
-        "date": "2019-06-01",
-        "precision": "month"
-      },
-      "showCount": 2,
-      "regions": [
-        "北京"
-      ],
-      "cities": [
-        "北京"
-      ],
-      "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-05-11",
+          "precision": "day",
+          "region": "上海",
+          "city": "上海",
+          "venue": "",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 徐州站2019",
@@ -1594,7 +2102,18 @@
         "徐州"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-06-15",
+          "precision": "day",
+          "region": "徐州",
+          "city": "徐州",
+          "venue": "",
+          "lat": 34.26104,
+          "lon": 117.18587,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 珠海站2019",
@@ -1616,7 +2135,18 @@
         "珠海"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-06-22",
+          "precision": "day",
+          "region": "珠海",
+          "city": "珠海",
+          "venue": "",
+          "lat": 22.274166666666666,
+          "lon": 113.57194444444444,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 湛江站2019",
@@ -1638,19 +2168,30 @@
         "湛江"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-07-20",
+          "precision": "day",
+          "region": "湛江",
+          "city": "湛江",
+          "venue": "",
+          "lat": 21.196667,
+          "lon": 110.403056,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 臺北站2019",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2019-09-01",
-        "precision": "month"
+        "date": "2019-09-13",
+        "precision": "day"
       },
       "end": {
-        "date": "2019-09-01",
-        "precision": "month"
+        "date": "2019-09-14",
+        "precision": "day"
       },
       "showCount": 2,
       "regions": [
@@ -1660,19 +2201,40 @@
         "臺北"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-09-13",
+          "precision": "day",
+          "region": "臺北",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2019-09-14",
+          "precision": "day",
+          "region": "臺北",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞臨盛宴夢幻距離世界巡迴演唱會 澳門站2.0",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2019-10-01",
-        "precision": "month"
+        "date": "2019-10-19",
+        "precision": "day"
       },
       "end": {
-        "date": "2019-10-01",
-        "precision": "month"
+        "date": "2019-10-20",
+        "precision": "day"
       },
       "showCount": 2,
       "regions": [
@@ -1682,7 +2244,28 @@
         "澳門"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2019-10-19",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2019-10-20",
+          "precision": "day",
+          "region": "澳門",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 拉斯維加斯站2020",
@@ -1704,7 +2287,18 @@
         "美國"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-02-01",
+          "precision": "day",
+          "region": "美國",
+          "city": "美國",
+          "venue": "",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林密碼世界巡迴演唱會 康州站2020",
@@ -1726,7 +2320,18 @@
         "美國"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-02-08",
+          "precision": "day",
+          "region": "美國",
+          "city": "美國",
+          "venue": "",
+          "lat": 39.828175,
+          "lon": -98.5795,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城鼓舞・動起來網上慈善演唱會2020 Aaron Kwok Cheer Up & Dance Online Charity Concert 2020",
@@ -1748,7 +2353,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2020-05-09",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林外傳Amazing Kode世界巡迴演唱會",
@@ -2111,7 +2727,18 @@
         "香港"
       ],
       "venues": [],
-      "shows": []
+      "shows": [
+        {
+          "date": "2023-11-07",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
     },
     {
       "name": "郭富城舞林星傳世界巡迴演唱會",

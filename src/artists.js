@@ -221,7 +221,7 @@ export const ARTISTS = [
   { slug: 'xiao-yu', group: 'male', name: '小宇', en: 'Xiao Yu', debut: '2003', channelId: 'UCor9onY76Nu9e4abGERRciQ', wiki: '小宇', aliases: ['宋念宇'] },
   { slug: 'cyndi-wang', group: 'female', name: '王心凌', en: 'Cyndi Wang', debut: '2003', channelId: 'UC-GYedjoXTj4tj8IOMZbp9g', wiki: '王心凌' },
   { slug: 'nicky-lee', group: 'male', name: '李玖哲', en: 'Nicky Lee', debut: '2003', channelId: 'UCR4CBIDq5hKp6hsCOLXasDA', wiki: '李玖哲' },
-  { slug: 'machi', group: 'group', name: 'MACHI', en: '麻吉', debut: '2003', channelId: 'UCuBJZVnCZEYpyw4oGCNHmeQ', wiki: 'Machi (樂團)', aliases: ['麻吉', 'Machi'], members: ['黃立成', '黃立行'] },
+  { slug: 'machi', group: 'group', name: 'MACHI', en: '麻吉', debut: '2003', channelId: 'UCuBJZVnCZEYpyw4oGCNHmeQ', wiki: 'Machi (樂團)', aliases: ['麻吉', 'Machi', '黃立成 & 麻吉'] },
   { slug: 'jj-lin', group: 'male', name: '林俊傑', en: 'JJ Lin', debut: '2003-04', channelId: 'UCUJ3KuIIgvh8eVItvb-EdFQ', wiki: '林俊傑' },
   { slug: 'michelle-vickie', group: 'group', name: '蜜雪薇琪', en: 'Michelle & Vickie', debut: '2004', channelId: 'UCJfidJntxF85k2Zb22VGBLA', wiki: '蜜雪薇琪', aliases: ['Michelle Vickie'] },
   { slug: 'gogomeme', group: 'group', name: 'GoGoMeMe', en: '哥哥妹妹', debut: '2004', channelId: 'UCP5lSSTJPqIXbnVL2Uug8Ww', extraChannelIds: ['UC1z4pqR7vHybpK6Z4wa654A'], wiki: null, aliases: ['哥哥妹妹', 'GoGo 和 Meme', 'GoGo', 'Meme'], releases: ['MPREb_PKK6il0hGjD'] },

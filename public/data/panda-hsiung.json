@@ -2,13 +2,51 @@
   "slug": "panda-hsiung",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T13:35:54.318Z",
+  "fetchedAt": "2026-09-18T00:17:29.609Z",
   "artist": {
     "channelId": "UC7_HyHd-8qMYqUQ3r5TJA7w",
     "name": "熊天平",
     "thumbnail": "https://yt3.googleusercontent.com/EpulwldhoazWDg_ma_VaEGBNoWkvM4as22Jwcgl6POC3BNSDaUoKrZd0TrF5w7ff7_Dnqep8HpzeGmfV=w1400-h583-p-l90-rj",
     "subscribers": 3880,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "愛情多惱河",
+        "videoId": "vGEIbnUnFlA"
+      },
+      {
+        "title": "你的眼睛",
+        "videoId": "-ViqkNSbGHk"
+      },
+      {
+        "title": "火柴天堂",
+        "videoId": "Vg3IS8LBq5c"
+      },
+      {
+        "title": "夜夜夜夜 (Demo)",
+        "videoId": "qq6OK6N8QQU"
+      },
+      {
+        "title": "大雨帶我逃亡",
+        "videoId": "Dg1O8A6CgwQ"
+      },
+      {
+        "title": "心有靈犀",
+        "videoId": "bw6PLGKE4cc"
+      },
+      {
+        "title": "I Wish (Official Video)",
+        "videoId": "ZxfJvF9iUmo"
+      },
+      {
+        "title": "一個人流浪",
+        "videoId": "2CXGtTWnIJ8"
+      },
+      {
+        "title": "擺脫",
+        "videoId": "iPHYBqhR7po"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/86COQuCuWnGjxt-SBPqntKnQp684eqNf3f1VALZzcOBMuTcCRkgK0uqvahsE1n_joJHv2fqUJA=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -41,7 +79,8 @@
           "playsText": "播放次數：186萬",
           "duration": 254,
           "byOther": false,
-          "nameKey": "愛情多惱河"
+          "nameKey": "愛情多惱河",
+          "mv": "vGEIbnUnFlA"
         },
         {
           "index": 3,
@@ -52,7 +91,8 @@
           "playsText": "播放次數：132萬",
           "duration": 289,
           "byOther": false,
-          "nameKey": "你的眼睛"
+          "nameKey": "你的眼睛",
+          "mv": "-ViqkNSbGHk"
         },
         {
           "index": 4,
@@ -96,7 +136,8 @@
           "playsText": "播放次數：3.5萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "擺脫"
+          "nameKey": "擺脫",
+          "mv": "iPHYBqhR7po"
         },
         {
           "index": 8,
@@ -151,7 +192,8 @@
           "playsText": "播放次數：28萬",
           "duration": 305,
           "byOther": false,
-          "nameKey": "夜夜夜夜"
+          "nameKey": "夜夜夜夜",
+          "mv": "qq6OK6N8QQU"
         }
       ],
       "releaseDate": "1997-01-17",
@@ -201,7 +243,8 @@
           "playsText": "播放次數：16萬",
           "duration": 289,
           "byOther": false,
-          "nameKey": "大雨帶我逃亡"
+          "nameKey": "大雨帶我逃亡",
+          "mv": "Dg1O8A6CgwQ"
         },
         {
           "index": 4,
@@ -256,7 +299,8 @@
           "playsText": "播放次數：4.6萬",
           "duration": 271,
           "byOther": false,
-          "nameKey": "心有靈犀"
+          "nameKey": "心有靈犀",
+          "mv": "bw6PLGKE4cc"
         },
         {
           "index": 9,
@@ -317,7 +361,8 @@
           "playsText": "播放次數：160萬",
           "duration": 298,
           "byOther": false,
-          "nameKey": "火柴天堂"
+          "nameKey": "火柴天堂",
+          "mv": "Vg3IS8LBq5c"
         },
         {
           "index": 3,
@@ -335,8 +380,8 @@
           "title": "我的愛 (韓語 / Demo)",
           "artists": "",
           "videoId": "P_Qgo_BvIIA",
-          "plays": 1881,
-          "playsText": "播放次數：1881",
+          "plays": 1882,
+          "playsText": "播放次數：1882",
           "duration": 261,
           "byOther": false,
           "nameKey": "我的愛"
@@ -346,8 +391,8 @@
           "title": "Goodbye Windflower (Demo)",
           "artists": "",
           "videoId": "G7nYy9oPG0Y",
-          "plays": 702,
-          "playsText": "播放次數：702",
+          "plays": 703,
+          "playsText": "播放次數：703",
           "duration": 260,
           "byOther": false,
           "nameKey": "goodbyewindflower"
@@ -368,8 +413,8 @@
           "title": "賣一杯嬌柔 (Demo)",
           "artists": "",
           "videoId": "uiHizSHu0yw",
-          "plays": 1789,
-          "playsText": "播放次數：1789",
+          "plays": 1790,
+          "playsText": "播放次數：1790",
           "duration": 234,
           "byOther": false,
           "nameKey": "賣一杯嬌柔"
@@ -394,18 +439,20 @@
           "playsText": "播放次數：3135",
           "duration": 200,
           "byOther": false,
-          "nameKey": "你的眼睛"
+          "nameKey": "你的眼睛",
+          "mv": "-ViqkNSbGHk"
         },
         {
           "index": 10,
           "title": "擺脫 (Demo)",
           "artists": "",
           "videoId": "mBQxWur4BeM",
-          "plays": 845,
-          "playsText": "播放次數：845",
+          "plays": 846,
+          "playsText": "播放次數：846",
           "duration": 220,
           "byOther": false,
-          "nameKey": "擺脫"
+          "nameKey": "擺脫",
+          "mv": "iPHYBqhR7po"
         },
         {
           "index": 11,
@@ -427,7 +474,8 @@
           "playsText": "播放次數：21萬",
           "duration": 293,
           "byOther": false,
-          "nameKey": "愛情多惱河"
+          "nameKey": "愛情多惱河",
+          "mv": "vGEIbnUnFlA"
         }
       ],
       "releaseDate": null,
@@ -484,8 +532,8 @@
           "title": "左手的情詩",
           "artists": "",
           "videoId": "VyRtff5UBqg",
-          "plays": 7488,
-          "playsText": "播放次數：7488",
+          "plays": 7491,
+          "playsText": "播放次數：7491",
           "duration": 242,
           "byOther": false,
           "nameKey": "左手的情詩"
@@ -521,7 +569,8 @@
           "playsText": "播放次數：8.2萬",
           "duration": 255,
           "byOther": false,
-          "nameKey": "iwish"
+          "nameKey": "iwish",
+          "mv": "ZxfJvF9iUmo"
         },
         {
           "index": 8,
@@ -550,8 +599,8 @@
           "title": "我是忙碌的",
           "artists": "",
           "videoId": "Iw2323ZDaLI",
-          "plays": 5200,
-          "playsText": "播放次數：5200",
+          "plays": 5202,
+          "playsText": "播放次數：5202",
           "duration": 221,
           "byOther": false,
           "nameKey": "我是忙碌的"
@@ -600,8 +649,8 @@
           "title": "魔鏡",
           "artists": "",
           "videoId": "YpxUk0ooQ-U",
-          "plays": 8260,
-          "playsText": "播放次數：8260",
+          "plays": 8261,
+          "playsText": "播放次數：8261",
           "duration": 178,
           "byOther": false,
           "nameKey": "魔鏡"
@@ -611,19 +660,20 @@
           "title": "愛情多惱河",
           "artists": "",
           "videoId": "I6aPxfrDLUs",
-          "plays": 2510,
-          "playsText": "播放次數：2510",
+          "plays": 2511,
+          "playsText": "播放次數：2511",
           "duration": 319,
           "byOther": false,
-          "nameKey": "愛情多惱河"
+          "nameKey": "愛情多惱河",
+          "mv": "vGEIbnUnFlA"
         },
         {
           "index": 3,
           "title": "與世隔絕",
           "artists": "",
           "videoId": "8dXhN_0sJZM",
-          "plays": 4699,
-          "playsText": "播放次數：4699",
+          "plays": 4701,
+          "playsText": "播放次數：4701",
           "duration": 237,
           "byOther": false,
           "nameKey": "與世隔絕"
@@ -633,8 +683,8 @@
           "title": "Goodbye Windflower (Instrumental)",
           "artists": "",
           "videoId": "94oDp-Iz4z0",
-          "plays": 1016,
-          "playsText": "播放次數：1016",
+          "plays": 1017,
+          "playsText": "播放次數：1017",
           "duration": 259,
           "byOther": false,
           "nameKey": "goodbyewindflower"
@@ -670,7 +720,8 @@
           "playsText": "播放次數：4009",
           "duration": 211,
           "byOther": false,
-          "nameKey": "火柴天堂"
+          "nameKey": "火柴天堂",
+          "mv": "Vg3IS8LBq5c"
         },
         {
           "index": 8,
@@ -688,8 +739,8 @@
           "title": "傷心証明書",
           "artists": "",
           "videoId": "H0uzQMIlRcI",
-          "plays": 1408,
-          "playsText": "播放次數：1408",
+          "plays": 1409,
+          "playsText": "播放次數：1409",
           "duration": 170,
           "byOther": false,
           "nameKey": "傷心證明書"
@@ -714,7 +765,8 @@
           "playsText": "播放次數：969",
           "duration": 251,
           "byOther": false,
-          "nameKey": "心有靈犀"
+          "nameKey": "心有靈犀",
+          "mv": "bw6PLGKE4cc"
         },
         {
           "index": 12,
@@ -725,7 +777,8 @@
           "playsText": "播放次數：2458",
           "duration": 276,
           "byOther": false,
-          "nameKey": "夜夜夜夜"
+          "nameKey": "夜夜夜夜",
+          "mv": "qq6OK6N8QQU"
         }
       ],
       "releaseDate": "1998-08-01",
@@ -747,7 +800,7 @@
         {
           "index": 1,
           "title": "野心",
-          "artists": "熊天平和黃慧文",
+          "artists": "熊天平 和 黃慧文",
           "videoId": "H8tVvnlYAjk",
           "plays": 18000,
           "playsText": "播放次數：1.8萬",
@@ -764,7 +817,8 @@
           "playsText": "播放次數：9.9萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "一個人流浪"
+          "nameKey": "一個人流浪",
+          "mv": "2CXGtTWnIJ8"
         },
         {
           "index": 3,
@@ -782,8 +836,8 @@
           "title": "愛情電影",
           "artists": "許茹芸 和 熊天平",
           "videoId": "XMcJ_iTHf_o",
-          "plays": 1190000,
-          "playsText": "播放次數：119萬",
+          "plays": 1200000,
+          "playsText": "播放次數：120萬",
           "duration": 239,
           "byOther": false,
           "nameKey": "愛情電影"
@@ -797,7 +851,8 @@
           "playsText": "播放次數：160萬",
           "duration": 296,
           "byOther": false,
-          "nameKey": "火柴天堂"
+          "nameKey": "火柴天堂",
+          "mv": "Vg3IS8LBq5c"
         },
         {
           "index": 6,
@@ -819,7 +874,8 @@
           "playsText": "播放次數：28萬",
           "duration": 300,
           "byOther": false,
-          "nameKey": "夜夜夜夜"
+          "nameKey": "夜夜夜夜",
+          "mv": "qq6OK6N8QQU"
         },
         {
           "index": 8,
@@ -841,7 +897,8 @@
           "playsText": "播放次數：186萬",
           "duration": 251,
           "byOther": false,
-          "nameKey": "愛情多惱河"
+          "nameKey": "愛情多惱河",
+          "mv": "vGEIbnUnFlA"
         },
         {
           "index": 10,
@@ -863,7 +920,8 @@
           "playsText": "播放次數：8.2萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "iwish"
+          "nameKey": "iwish",
+          "mv": "ZxfJvF9iUmo"
         },
         {
           "index": 12,
@@ -885,7 +943,8 @@
           "playsText": "播放次數：132萬",
           "duration": 286,
           "byOther": false,
-          "nameKey": "你的眼睛"
+          "nameKey": "你的眼睛",
+          "mv": "-ViqkNSbGHk"
         },
         {
           "index": 14,
@@ -896,7 +955,8 @@
           "playsText": "播放次數：3.5萬",
           "duration": 251,
           "byOther": false,
-          "nameKey": "擺脫"
+          "nameKey": "擺脫",
+          "mv": "iPHYBqhR7po"
         },
         {
           "index": 15,
@@ -907,7 +967,8 @@
           "playsText": "播放次數：16萬",
           "duration": 290,
           "byOther": false,
-          "nameKey": "大雨帶我逃亡"
+          "nameKey": "大雨帶我逃亡",
+          "mv": "Dg1O8A6CgwQ"
         },
         {
           "index": 16,
@@ -964,8 +1025,8 @@
           "title": "就此算了嗎",
           "artists": "",
           "videoId": "qHfpIf7WwQY",
-          "plays": 3814,
-          "playsText": "播放次數：3814",
+          "plays": 3816,
+          "playsText": "播放次數：3816",
           "duration": 203,
           "byOther": false,
           "nameKey": "就此算了嗎"
@@ -1008,8 +1069,8 @@
           "title": "你在下個路口等我",
           "artists": "",
           "videoId": "htYCiDSILHo",
-          "plays": 7085,
-          "playsText": "播放次數：7085",
+          "plays": 7088,
+          "playsText": "播放次數：7088",
           "duration": 262,
           "byOther": false,
           "nameKey": "你在下個路口等我"
@@ -1019,8 +1080,8 @@
           "title": "碎心沙漠",
           "artists": "",
           "videoId": "NnGSULXXdgg",
-          "plays": 3117,
-          "playsText": "播放次數：3117",
+          "plays": 3118,
+          "playsText": "播放次數：3118",
           "duration": 245,
           "byOther": false,
           "nameKey": "碎心沙漠"
@@ -1030,8 +1091,8 @@
           "title": "不想愛",
           "artists": "",
           "videoId": "iqzW_sEzQ_o",
-          "plays": 5340,
-          "playsText": "播放次數：5340",
+          "plays": 5352,
+          "playsText": "播放次數：5352",
           "duration": 265,
           "byOther": false,
           "nameKey": "不想愛"
@@ -1041,8 +1102,8 @@
           "title": "私人回憶海灘",
           "artists": "",
           "videoId": "rcc2Vfme9UM",
-          "plays": 2940,
-          "playsText": "播放次數：2940",
+          "plays": 2941,
+          "playsText": "播放次數：2941",
           "duration": 235,
           "byOther": false,
           "nameKey": "私人回憶海灘"
@@ -1073,15 +1134,16 @@
           "playsText": "播放次數：9.9萬",
           "duration": 309,
           "byOther": false,
-          "nameKey": "一個人流浪"
+          "nameKey": "一個人流浪",
+          "mv": "2CXGtTWnIJ8"
         },
         {
           "index": 2,
           "title": "雪候鳥",
           "artists": "熊天平",
           "videoId": "_E_0vatXOBk",
-          "plays": 860000,
-          "playsText": "播放次數：86萬",
+          "plays": 870000,
+          "playsText": "播放次數：87萬",
           "duration": 317,
           "byOther": false,
           "nameKey": "雪候鳥"
@@ -1117,7 +1179,8 @@
           "playsText": "播放次數：1.6萬",
           "duration": 285,
           "byOther": false,
-          "nameKey": "火柴天堂"
+          "nameKey": "火柴天堂",
+          "mv": "Vg3IS8LBq5c"
         },
         {
           "index": 6,
@@ -1135,8 +1198,8 @@
           "title": "魔鏡",
           "artists": "熊天平",
           "videoId": "DYbmynEWw2I",
-          "plays": 8254,
-          "playsText": "播放次數：8254",
+          "plays": 8261,
+          "playsText": "播放次數：8261",
           "duration": 178,
           "byOther": false,
           "nameKey": "魔鏡"
@@ -1146,8 +1209,8 @@
           "title": "與世隔絕",
           "artists": "熊天平",
           "videoId": "uWI-GFtrzTY",
-          "plays": 4699,
-          "playsText": "播放次數：4699",
+          "plays": 4701,
+          "playsText": "播放次數：4701",
           "duration": 236,
           "byOther": false,
           "nameKey": "與世隔絕"
@@ -1157,8 +1220,8 @@
           "title": "傻哥歌",
           "artists": "熊天平",
           "videoId": "J9K_QPJ9H-w",
-          "plays": 860000,
-          "playsText": "播放次數：86萬",
+          "plays": 870000,
+          "playsText": "播放次數：87萬",
           "duration": 209,
           "byOther": false,
           "nameKey": "傻哥歌"
@@ -1183,7 +1246,8 @@
           "playsText": "播放次數：132萬",
           "duration": 289,
           "byOther": false,
-          "nameKey": "你的眼睛"
+          "nameKey": "你的眼睛",
+          "mv": "-ViqkNSbGHk"
         },
         {
           "index": 12,
@@ -1205,15 +1269,16 @@
           "playsText": "播放次數：186萬",
           "duration": 254,
           "byOther": false,
-          "nameKey": "愛情多惱河"
+          "nameKey": "愛情多惱河",
+          "mv": "vGEIbnUnFlA"
         },
         {
           "index": 14,
           "title": "甘心",
           "artists": "熊天平",
           "videoId": "OuYX1cYjkIw",
-          "plays": 8257,
-          "playsText": "播放次數：8257",
+          "plays": 8261,
+          "playsText": "播放次數：8261",
           "duration": 264,
           "byOther": false,
           "nameKey": "甘心"
@@ -1238,7 +1303,8 @@
           "playsText": "播放次數：4787",
           "duration": 254,
           "byOther": false,
-          "nameKey": "iwish"
+          "nameKey": "iwish",
+          "mv": "ZxfJvF9iUmo"
         }
       ],
       "releaseDate": null,
@@ -1277,9 +1343,9 @@
           "playsText": "播放次數：3.8萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "愛情多瑙河",
           "titleZh": "愛情多瑙河",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "愛情多瑙河"
         },
         {
           "index": 3,
@@ -1290,20 +1356,21 @@
           "playsText": "播放次數：1.4萬",
           "duration": 310,
           "byOther": false,
-          "nameKey": "火柴天堂"
+          "nameKey": "火柴天堂",
+          "mv": "Vg3IS8LBq5c"
         },
         {
           "index": 4,
           "title": "秋恋",
           "artists": "熊天平",
           "videoId": "8-0ul0MrK4c",
-          "plays": 1376,
-          "playsText": "播放次數：1376",
+          "plays": 1377,
+          "playsText": "播放次數：1377",
           "duration": 333,
           "byOther": false,
-          "nameKey": "秋戀",
           "titleZh": "秋戀",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "秋戀"
         },
         {
           "index": 5,
@@ -1314,17 +1381,17 @@
           "playsText": "播放次數：768",
           "duration": 253,
           "byOther": false,
-          "nameKey": "身邊",
           "titleZh": "身邊",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "身邊"
         },
         {
           "index": 6,
           "title": "人算不如天算",
           "artists": "熊天平",
           "videoId": "655dGpV4N44",
-          "plays": 817,
-          "playsText": "播放次數：817",
+          "plays": 818,
+          "playsText": "播放次數：818",
           "duration": 253,
           "byOther": false,
           "nameKey": "人算不如天算"
@@ -1338,7 +1405,8 @@
           "playsText": "播放次數：1.5萬",
           "duration": 331,
           "byOther": false,
-          "nameKey": "夜夜夜夜"
+          "nameKey": "夜夜夜夜",
+          "mv": "qq6OK6N8QQU"
         },
         {
           "index": 8,
@@ -1349,22 +1417,22 @@
           "playsText": "播放次數：2230",
           "duration": 255,
           "byOther": false,
-          "nameKey": "愚人碼頭",
           "titleZh": "愚人碼頭",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "愚人碼頭"
         },
         {
           "index": 9,
           "title": "雪候鸟",
           "artists": "熊天平",
           "videoId": "dF-MV64GnXI",
-          "plays": 7227,
-          "playsText": "播放次數：7227",
+          "plays": 7229,
+          "playsText": "播放次數：7229",
           "duration": 298,
           "byOther": false,
-          "nameKey": "雪候鳥",
           "titleZh": "雪候鳥",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "雪候鳥"
         },
         {
           "index": 10,
@@ -1375,20 +1443,21 @@
           "playsText": "播放次數：514",
           "duration": 230,
           "byOther": false,
-          "nameKey": "旁觀者",
           "titleZh": "旁觀者",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "旁觀者"
         },
         {
           "index": 11,
           "title": "你的眼睛",
           "artists": "熊天平 和 杨洋",
           "videoId": "pDcoGpY4oTw",
-          "plays": 1386,
-          "playsText": "播放次數：1386",
+          "plays": 1388,
+          "playsText": "播放次數：1388",
           "duration": 321,
           "byOther": false,
-          "nameKey": "你的眼睛"
+          "nameKey": "你的眼睛",
+          "mv": "-ViqkNSbGHk"
         },
         {
           "index": 12,
@@ -1410,9 +1479,9 @@
           "playsText": "播放次數：720",
           "duration": 261,
           "byOther": false,
-          "nameKey": "天涯共此時",
           "titleZh": "天涯共此時",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "天涯共此時"
         }
       ],
       "releaseDate": null,
@@ -1440,9 +1509,9 @@
           "playsText": "播放次數：236",
           "duration": 229,
           "byOther": false,
-          "nameKey": "情進千萬家",
           "titleZh": "情進千萬家",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "情進千萬家"
         }
       ],
       "releaseDate": "2019-02-01",
@@ -1470,9 +1539,9 @@
           "playsText": "播放次數：1148",
           "duration": 208,
           "byOther": false,
-          "nameKey": "甘願一生交乎你",
           "titleZh": "甘願一生交乎你",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "甘願一生交乎你"
         },
         {
           "index": 2,
@@ -1483,9 +1552,9 @@
           "playsText": "播放次數：122",
           "duration": 200,
           "byOther": false,
-          "nameKey": "甘願一生交乎你",
           "titleZh": "甘願一生交乎你 (伴奏版)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "甘願一生交乎你"
         }
       ],
       "releaseDate": "2023-10-01",

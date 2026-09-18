@@ -2,13 +2,51 @@
   "slug": "jeffrey-kung",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T21:17:27.307Z",
+  "fetchedAt": "2026-09-18T00:30:05.864Z",
   "artist": {
     "channelId": "UCaFbXEPzrKATsWW8p91m_Wg",
     "name": "孔令奇",
     "thumbnail": "https://yt3.googleusercontent.com/ify3Zn1xsXa8wFnN0B06-3B6OpTEevVbfTZt5ew5u9iHEBQLNvENN015eq4CnEbJV-QzAYB0vkxZ0VIe=w2880-h1200-p-l90-rj",
     "subscribers": 191,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "=首播=孔令奇Jeffrey [老派戀情] 官方版 MV",
+        "videoId": "ViISGMIDJWU"
+      },
+      {
+        "title": "Jeffrey Kong (孔令奇) - World Peace",
+        "videoId": "vi9gUbzi05Y"
+      },
+      {
+        "title": "=首播=孔令奇Jeffrey  [懸浮記憶] 官方版 MV",
+        "videoId": "0MZiSMzbRoM"
+      },
+      {
+        "title": "Dream Girl（feat.王以太）",
+        "videoId": "FLgtqgP0O_k"
+      },
+      {
+        "title": "Bye Bye Bye",
+        "videoId": "4FxYaX0x3CM"
+      },
+      {
+        "title": "懶的跟你ㄊㄨㄚ",
+        "videoId": "B_vcvCUiPF0"
+      },
+      {
+        "title": "孔令奇 -別原諒我- 附歌詞",
+        "videoId": "voiEnSEX0lQ"
+      },
+      {
+        "title": "孔令奇 Jeffrey Kung【雙人飄移 SLIDE】HD 高清官方完整版 MV",
+        "videoId": "aGJP9Vn9ycw"
+      },
+      {
+        "title": "日落之巔（Running）（Feat.艾熱)",
+        "videoId": "F0s7j1dUw3k"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/-NjnyTMeCp8BafyHPh34ty7B9WfRsRaMv18uW-vrFYpeSEYi4NOjQk0267wHtjgtd_2ugcD55g=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -165,7 +203,8 @@
           "playsText": "播放次數：16萬",
           "duration": 246,
           "byOther": false,
-          "nameKey": "dreamgirl"
+          "nameKey": "dreamgirl",
+          "mv": "FLgtqgP0O_k"
         }
       ],
       "releaseDate": null,
@@ -179,7 +218,7 @@
       "browseId": "MPREb_D2wjaSuFN5c",
       "playlistId": "OLAK5uy_nGxpFxSybPZeuEVXBIthMpD5P2e_QAeAg",
       "title": "日落之巔（Running）（Feat.艾熱)",
-      "albumArtist": "孔令奇和艾熱",
+      "albumArtist": "孔令奇 和 艾熱",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/tUEhq4lF2E1EqdORFH6UdNvaKOwRIs5HjuRKDc23jRZ5CmCeTtxh5oX3CTZUP9vraINXc5dmbqx6fjg=w544-h544-l90-rj",
@@ -193,7 +232,8 @@
           "playsText": "播放次數：8686",
           "duration": 264,
           "byOther": false,
-          "nameKey": "日落之巔"
+          "nameKey": "日落之巔",
+          "mv": "F0s7j1dUw3k"
         }
       ],
       "releaseDate": null,
@@ -260,7 +300,8 @@
           "playsText": "播放次數：7393",
           "duration": 192,
           "byOther": false,
-          "nameKey": "byebyebye"
+          "nameKey": "byebyebye",
+          "mv": "4FxYaX0x3CM"
         },
         {
           "index": 2,
@@ -511,15 +552,6 @@
       "wikiTitle": "孔令奇",
       "source": "table",
       "year": 2013
-    },
-    {
-      "title": "#REAL LIFE",
-      "releaseDate": "2017-12-19",
-      "releaseDatePrecision": "day",
-      "kind": null,
-      "wikiTitle": "孔令奇",
-      "source": "table",
-      "year": 2017
     }
   ],
   "wikiWritten": []

@@ -2,13 +2,95 @@
   "slug": "e-so",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T22:51:38.553Z",
+  "fetchedAt": "2026-09-18T00:45:48.495Z",
   "artist": {
     "channelId": "UC6XU7kBQgXS7Fpa5ka_KUhg",
     "name": "瘦子E.SO",
     "thumbnail": "https://lh3.googleusercontent.com/7O9f5NqEiUXGJqyYxAg2LgrfJpWq2mSCOxhdPU93Jrwm-h-qUDb9N9cZ44wdiLMUYIEYRAalqZ-LfqM8=w2880-h1200-p-l90-rj",
     "subscribers": 147000,
     "monthlyAudience": 826000,
+    "videos": [
+      {
+        "title": "Something I Don't Need",
+        "videoId": "8FS9MvbXoUc"
+      },
+      {
+        "title": "Don't Worry About Me",
+        "videoId": "C4M7_jQe4RA"
+      },
+      {
+        "title": "太陽",
+        "videoId": "C8R7qkxno-4"
+      },
+      {
+        "title": "她沒在看我",
+        "videoId": "smFGZKPS5yc"
+      },
+      {
+        "title": "CHANGE",
+        "videoId": "HTRQ0n4yjfs"
+      },
+      {
+        "title": "Bloodline ft. HowZ (合作演出：HowZ)",
+        "videoId": "iiX78NtKHu8"
+      },
+      {
+        "title": "伯父",
+        "videoId": "EcKUVuOifTg"
+      },
+      {
+        "title": "I Wish I Was There",
+        "videoId": "3XM_xed1pFE"
+      },
+      {
+        "title": "WAIT",
+        "videoId": "ymvUlfZCrbw"
+      },
+      {
+        "title": "Mei Mei",
+        "videoId": "Df9lbCJNhGU"
+      },
+      {
+        "title": "Married To The Game",
+        "videoId": "EPTud5BRZ70"
+      },
+      {
+        "title": "稱讚她的美",
+        "videoId": "YgNGl442hgg"
+      },
+      {
+        "title": "太陽",
+        "videoId": "NpuV0QjhZ5E"
+      },
+      {
+        "title": "Way Up",
+        "videoId": "JfS8YZD5eSA"
+      },
+      {
+        "title": "我的癮",
+        "videoId": "uwiwbVPp-c4"
+      },
+      {
+        "title": "People",
+        "videoId": "myIED0aRkuk"
+      },
+      {
+        "title": "Follow You",
+        "videoId": "U1G4lKnYf4o"
+      },
+      {
+        "title": "Amazing",
+        "videoId": "vIjc-wyvArY"
+      },
+      {
+        "title": "達文西",
+        "videoId": "GkuLP05OJR0"
+      },
+      {
+        "title": "Lucid Dream",
+        "videoId": "-dpJTTM_iyY"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/jbelh_hOUExh9qWgWBsB5tLtolrwySh3s_RupDjP8xU41vMUmpqM1Mn0WlggWwES8htFLHY-nQ=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -58,7 +140,8 @@
           "playsText": "播放次數：2154萬",
           "duration": 160,
           "byOther": false,
-          "nameKey": "change"
+          "nameKey": "change",
+          "mv": "HTRQ0n4yjfs"
         }
       ],
       "releaseDate": null,
@@ -86,7 +169,8 @@
           "playsText": "播放次數：431萬",
           "duration": 168,
           "byOther": false,
-          "nameKey": "followyou"
+          "nameKey": "followyou",
+          "mv": "U1G4lKnYf4o"
         }
       ],
       "releaseDate": null,
@@ -114,7 +198,8 @@
           "playsText": "播放次數：2684萬",
           "duration": 214,
           "byOther": false,
-          "nameKey": "太陽"
+          "nameKey": "太陽",
+          "mv": "C8R7qkxno-4"
         }
       ],
       "releaseDate": null,
@@ -142,7 +227,8 @@
           "playsText": "播放次數：2393萬",
           "duration": 179,
           "byOther": false,
-          "nameKey": "她沒在看我"
+          "nameKey": "她沒在看我",
+          "mv": "smFGZKPS5yc"
         }
       ],
       "releaseDate": null,
@@ -170,7 +256,8 @@
           "playsText": "播放次數：430萬",
           "duration": 156,
           "byOther": false,
-          "nameKey": "稱讚她的美"
+          "nameKey": "稱讚她的美",
+          "mv": "YgNGl442hgg"
         }
       ],
       "releaseDate": null,
@@ -209,7 +296,8 @@
           "playsText": "播放次數：2779萬",
           "duration": 191,
           "byOther": false,
-          "nameKey": "dontworryaboutme"
+          "nameKey": "dontworryaboutme",
+          "mv": "C4M7_jQe4RA"
         },
         {
           "index": 3,
@@ -220,7 +308,8 @@
           "playsText": "播放次數：431萬",
           "duration": 168,
           "byOther": false,
-          "nameKey": "followyou"
+          "nameKey": "followyou",
+          "mv": "U1G4lKnYf4o"
         },
         {
           "index": 4,
@@ -242,7 +331,8 @@
           "playsText": "播放次數：2154萬",
           "duration": 162,
           "byOther": false,
-          "nameKey": "change"
+          "nameKey": "change",
+          "mv": "HTRQ0n4yjfs"
         },
         {
           "index": 6,
@@ -253,7 +343,8 @@
           "playsText": "播放次數：430萬",
           "duration": 156,
           "byOther": false,
-          "nameKey": "稱讚她的美"
+          "nameKey": "稱讚她的美",
+          "mv": "YgNGl442hgg"
         },
         {
           "index": 7,
@@ -264,7 +355,8 @@
           "playsText": "播放次數：760萬",
           "duration": 147,
           "byOther": false,
-          "nameKey": "iwishiwasthere"
+          "nameKey": "iwishiwasthere",
+          "mv": "3XM_xed1pFE"
         },
         {
           "index": 8,
@@ -297,7 +389,8 @@
           "playsText": "播放次數：3831萬",
           "duration": 175,
           "byOther": false,
-          "nameKey": "somethingidontneed"
+          "nameKey": "somethingidontneed",
+          "mv": "8FS9MvbXoUc"
         },
         {
           "index": 11,
@@ -308,7 +401,8 @@
           "playsText": "播放次數：2393萬",
           "duration": 179,
           "byOther": false,
-          "nameKey": "她沒在看我"
+          "nameKey": "她沒在看我",
+          "mv": "smFGZKPS5yc"
         },
         {
           "index": 12,
@@ -319,7 +413,8 @@
           "playsText": "播放次數：2049萬",
           "duration": 188,
           "byOther": false,
-          "nameKey": "伯父"
+          "nameKey": "伯父",
+          "mv": "EcKUVuOifTg"
         },
         {
           "index": 13,
@@ -330,7 +425,8 @@
           "playsText": "播放次數：2175萬",
           "duration": 187,
           "byOther": false,
-          "nameKey": "wait"
+          "nameKey": "wait",
+          "mv": "ymvUlfZCrbw"
         },
         {
           "index": 14,
@@ -341,7 +437,8 @@
           "playsText": "播放次數：2684萬",
           "duration": 214,
           "byOther": false,
-          "nameKey": "太陽"
+          "nameKey": "太陽",
+          "mv": "C8R7qkxno-4"
         }
       ],
       "releaseDate": "2021-01-01",
@@ -369,7 +466,8 @@
           "playsText": "播放次數：491萬",
           "duration": 204,
           "byOther": false,
-          "nameKey": "wayup"
+          "nameKey": "wayup",
+          "mv": "JfS8YZD5eSA"
         }
       ],
       "releaseDate": null,
@@ -408,7 +506,8 @@
           "playsText": "播放次數：491萬",
           "duration": 204,
           "byOther": false,
-          "nameKey": "wayup"
+          "nameKey": "wayup",
+          "mv": "JfS8YZD5eSA"
         },
         {
           "index": 3,
@@ -430,7 +529,8 @@
           "playsText": "播放次數：102萬",
           "duration": 149,
           "byOther": false,
-          "nameKey": "達文西"
+          "nameKey": "達文西",
+          "mv": "GkuLP05OJR0"
         },
         {
           "index": 5,
@@ -441,7 +541,8 @@
           "playsText": "播放次數：252萬",
           "duration": 174,
           "byOther": false,
-          "nameKey": "people"
+          "nameKey": "people",
+          "mv": "myIED0aRkuk"
         },
         {
           "index": 6,
@@ -463,7 +564,8 @@
           "playsText": "播放次數：85萬",
           "duration": 196,
           "byOther": false,
-          "nameKey": "luciddream"
+          "nameKey": "luciddream",
+          "mv": "-dpJTTM_iyY"
         },
         {
           "index": 8,
@@ -485,7 +587,8 @@
           "playsText": "播放次數：466萬",
           "duration": 234,
           "byOther": false,
-          "nameKey": "我的癮"
+          "nameKey": "我的癮",
+          "mv": "uwiwbVPp-c4"
         },
         {
           "index": 10,
@@ -507,7 +610,8 @@
           "playsText": "播放次數：403萬",
           "duration": 185,
           "byOther": false,
-          "nameKey": "marriedtothegame"
+          "nameKey": "marriedtothegame",
+          "mv": "EPTud5BRZ70"
         },
         {
           "index": 12,
@@ -518,7 +622,8 @@
           "playsText": "播放次數：253萬",
           "duration": 273,
           "byOther": false,
-          "nameKey": "amazing"
+          "nameKey": "amazing",
+          "mv": "vIjc-wyvArY"
         }
       ],
       "releaseDate": "2022-02-16",
@@ -546,7 +651,8 @@
           "playsText": "播放次數：253萬",
           "duration": 273,
           "byOther": false,
-          "nameKey": "amazing"
+          "nameKey": "amazing",
+          "mv": "vIjc-wyvArY"
         }
       ],
       "releaseDate": null,
@@ -602,7 +708,8 @@
           "playsText": "播放次數：466萬",
           "duration": 234,
           "byOther": false,
-          "nameKey": "我的癮"
+          "nameKey": "我的癮",
+          "mv": "uwiwbVPp-c4"
         }
       ],
       "releaseDate": null,
@@ -659,15 +766,6 @@
       "wikiTitle": "瘦子E.SO",
       "source": "list",
       "year": 2012
-    },
-    {
-      "title": "OUTTA BODY",
-      "releaseDate": "2020-07-10",
-      "releaseDatePrecision": "day",
-      "kind": "studio",
-      "wikiTitle": "瘦子E.SO",
-      "source": "list",
-      "year": 2020
     }
   ],
   "wikiWritten": []
