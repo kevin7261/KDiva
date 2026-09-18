@@ -2,12 +2,12 @@
   "slug": "chyi-chin",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T23:37:02.633Z",
+  "fetchedAt": "2026-09-18T20:37:46.281Z",
   "artist": {
     "channelId": "UCXAFPuHD3vHw9agvXeY948A",
     "name": "齊秦",
     "thumbnail": "https://yt3.googleusercontent.com/hUk9LI1kNFZX9w84b6A6cN56L7PZ6qjhC7cXAqYKdqdYrb2Zpq3nQ9gZEUTpwblcQE7mqHlHr488JDAj=w2880-h1200-p-l90-rj",
-    "subscribers": 6220,
+    "subscribers": 6230,
     "monthlyAudience": null,
     "videos": [
       {
@@ -607,6 +607,9 @@
         "videoId": "GOWGL64vJK4"
       }
     ],
+    "songListIds": [
+      "VLOLAK5uy_mtZ0kSIFQVI0Ff-bdGs6dZXcKRBzaflpU"
+    ],
     "avatar": "https://yt3.googleusercontent.com/M-ZlwzrH-KF4fu9dJ2XFHuzpFzRHD5g7KdnaGZPg6o1WFNLYHaRUlnySuV1wVQVhwZl2UsCT=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -635,8 +638,8 @@
           "title": "河",
           "artists": "",
           "videoId": "31uWuoRxbp4",
-          "plays": 343,
-          "playsText": "播放次數：343",
+          "plays": 345,
+          "playsText": "播放次數：345",
           "duration": 142,
           "byOther": false,
           "nameKey": "河"
@@ -657,8 +660,8 @@
           "title": "乘著彩雲來",
           "artists": "",
           "videoId": "36zwVPu31Yw",
-          "plays": 2367,
-          "playsText": "播放次數：2367",
+          "plays": 2369,
+          "playsText": "播放次數：2369",
           "duration": 147,
           "byOther": false,
           "nameKey": "乘著彩雲來"
@@ -690,8 +693,8 @@
           "title": "尋找一個你",
           "artists": "",
           "videoId": "I3x7Mr9mKWY",
-          "plays": 340,
-          "playsText": "播放次數：340",
+          "plays": 342,
+          "playsText": "播放次數：342",
           "duration": 180,
           "byOther": false,
           "nameKey": "尋找一個你"
@@ -701,8 +704,8 @@
           "title": "歌不唱心不爽",
           "artists": "",
           "videoId": "yMeoFn2Pbjg",
-          "plays": 2103,
-          "playsText": "播放次數：2103",
+          "plays": 2106,
+          "playsText": "播放次數：2106",
           "duration": 197,
           "byOther": false,
           "nameKey": "歌不唱心不爽"
@@ -1085,8 +1088,8 @@
           "title": "大約在冬季",
           "artists": "",
           "videoId": "PyMq8hAUSpY",
-          "plays": 14020000,
-          "playsText": "播放次數：1402萬",
+          "plays": 14030000,
+          "playsText": "播放次數：1403萬",
           "duration": 234,
           "byOther": false,
           "nameKey": "大約在冬季",
@@ -1252,6 +1255,67 @@
       "nameKey": "狼"
     },
     {
+      "browseId": "MPREb_5u6EzzLw7e6",
+      "playlistId": "OLAK5uy_kEAOCFCz8n01ehOVuK2NejDamvgGpWlcc",
+      "title": "Night of Sorrow",
+      "albumArtist": "Chyi Chin",
+      "type": "EP",
+      "year": 2002,
+      "thumbnail": "https://yt3.googleusercontent.com/1yXvZF5AfHw3xT52xj0a8afGVoxmkVy7h_BYNMmiQUUmNrNxoMm8kEFZRTv4LxvJMw6scqCPOfYnsiKung=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Cliff",
+          "artists": "",
+          "videoId": "e5wjsNfhBJo",
+          "plays": 840000,
+          "playsText": "播放次數：84萬",
+          "duration": 294,
+          "byOther": false,
+          "nameKey": "cliff"
+        },
+        {
+          "index": 2,
+          "title": "Wolf",
+          "artists": "",
+          "videoId": "T3ZUGejvxF8",
+          "plays": 410000,
+          "playsText": "播放次數：41萬",
+          "duration": 330,
+          "byOther": false,
+          "nameKey": "wolf"
+        },
+        {
+          "index": 3,
+          "title": "What a Pity",
+          "artists": "",
+          "videoId": "8HYrksQYhAA",
+          "plays": 6384,
+          "playsText": "播放次數：6384",
+          "duration": 247,
+          "byOther": false,
+          "nameKey": "whatapity"
+        },
+        {
+          "index": 4,
+          "title": "Borrow Root Smoke",
+          "artists": "",
+          "videoId": "jNNCuEC9wOE",
+          "plays": 140000,
+          "playsText": "播放次數：14萬",
+          "duration": 235,
+          "byOther": false,
+          "nameKey": "borrowrootsmoke"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "nightofsorrow"
+    },
+    {
       "browseId": "MPREb_OHDSGptFtF7",
       "playlistId": "OLAK5uy_mO20oxmuQquVLXbbPAsVrC0FZEUJdqWsQ",
       "title": "大約在冬季(群星版)",
@@ -1322,8 +1386,8 @@
           "title": "一首歌的故事",
           "artists": "",
           "videoId": "5vSccw-_VwM",
-          "plays": 685,
-          "playsText": "播放次數：685",
+          "plays": 695,
+          "playsText": "播放次數：695",
           "duration": 288,
           "byOther": false,
           "nameKey": "一首歌的故事"
