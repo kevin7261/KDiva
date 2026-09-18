@@ -110,15 +110,19 @@ export async function buildTimeline() {
     })
   }
   await writeFile(timelineFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists }))
-  // 名單上要在名字後面標年份的人：已故歌手與已解散團體
+  // 名字後面要標的年紀／生卒年。存完整日期，年齡由前端依當下日期計算，不會隨時間過期。
+  // 團體沒有「年紀」，只有成軍與解散年份
   const bio = Object.fromEntries(
     artists
-      .filter((a) => a.bio?.died || a.bio?.disbanded)
+      .filter((a) => a.bio?.born || a.bio?.died || a.bio?.formed || a.bio?.disbanded)
       .map((a) => [
         a.slug,
         {
-          start: (a.bio.born ?? a.bio.formed)?.date?.slice(0, 4) ?? null,
-          end: (a.bio.died ?? a.bio.disbanded)?.date?.slice(0, 4) ?? null,
+          born: a.bio.born?.date ?? null,
+          died: a.bio.died?.date ?? null,
+          formed: a.bio.formed?.date ?? null,
+          disbanded: a.bio.disbanded?.date ?? null,
+          group: a.group === 'group' || undefined,
         },
       ]),
   )

@@ -61,8 +61,8 @@ onBeforeUnmount(() => document.removeEventListener('keydown', onKey))
             <li v-for="a in g.artists" :key="a.slug">
               <RouterLink :to="`/artist/${a.slug}`" :class="{ on: a.slug === slug }" @click="emit('close')">
                 <span class="name">{{ a.name }}</span>
-                <span v-if="years(a.slug)" class="muted en">{{ years(a.slug) }}</span>
-                <span v-else-if="a.en" class="muted en">{{ a.en }}</span>
+                <span v-if="a.en" class="muted en">{{ a.en }}</span>
+                <span v-if="years(a.slug)" class="muted age">{{ years(a.slug) }}</span>
               </RouterLink>
             </li>
           </ul>
@@ -203,6 +203,13 @@ li a.on {
   box-shadow: inset 0 0 0 1.5px var(--accent-ink);
 }
 .name {
+  white-space: nowrap;
+}
+.age {
+  flex: none;
+  margin-left: auto;
+  padding-left: 6px;
+  font-size: 11.5px;
   white-space: nowrap;
 }
 .en {

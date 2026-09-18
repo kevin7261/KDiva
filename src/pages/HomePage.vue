@@ -486,9 +486,11 @@ h1 {
 /* 已故歌手／已解散團體：名字後面的生卒年 */
 .name .life {
   margin-left: 6px;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 400;
-  color: var(--text-muted);
+  /* 疊在封面照上，用 --text-muted 會看不見；跟著歌手名的顏色走 */
+  color: inherit;
+  opacity: 0.8;
   white-space: nowrap;
 }
 /* 出道年份清單：捲動時固定在左側 */
