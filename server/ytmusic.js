@@ -827,12 +827,15 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
   if (artistConfig.cjkOnly) artist.releases = artist.releases.filter((r) => hasCJK(r.title))
   // 頻道混了很多同名歌手、只有少數幾張是這位歌手的（GoGoMeMe）：只收指定的專輯
   if (artistConfig.releases) artist.releases = artist.releases.filter((r) => artistConfig.releases.includes(r.browseId))
+  const discovered = new Set()
   // 頻道架上沒列的發行，用歌曲搜尋補。
   // cjkOnly / releases 這兩個設定代表頻道本來就混了同名歌手，那種情況再去搜尋補漏風險太高，跳過
   if (!artistConfig.cjkOnly && !artistConfig.releases) {
     const known = new Set(artist.releases.map((r) => r.browseId))
     try {
-      artist.releases.push(...(await discoverReleases({ ...artistConfig, _songListIds: artist.songListIds ?? [] }, known, log)))
+      const found = await discoverReleases({ ...artistConfig, _songListIds: artist.songListIds ?? [] }, known, log)
+      for (const r of found) discovered.add(r.browseId)
+      artist.releases.push(...found)
     } catch (err) {
       log(`  搜尋補漏失敗：${err.message}`)
     }
@@ -876,6 +879,15 @@ export async function fetchArtistDataset(artistConfig, { apiKey, log = () => {} 
   if (artistConfig.photo) artist.thumbnail = artist.avatar
   const others = markOtherArtists(albums, artistConfig, artist.name)
   if (others) log(`其他歌手演唱的曲目：${others} 首（不列入統計）`)
+  // 補漏進來的專輯若一首都不是本人演唱，那是「收錄了他一首歌的群星合輯」，不是他的作品
+  if (discovered.size) {
+    const before = albums.length
+    for (let i = albums.length - 1; i >= 0; i--) {
+      const al = albums[i]
+      if (discovered.has(al.browseId) && al.tracks.length && al.tracks.every((t) => t.byOther)) albums.splice(i, 1)
+    }
+    if (before !== albums.length) log(`  補漏的合輯（無本人曲目）剔除：${before - albums.length} 張`)
+  }
   const extra = {}
   await applyReleaseDates(albums, artistConfig, log, extra)
   const wikiWritten = await fetchWrittenWorks(artistConfig, log).catch(() => [])
