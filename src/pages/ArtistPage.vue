@@ -1,7 +1,7 @@
 <script setup>
 import { computed, ref, shallowRef, watch } from 'vue'
 import { RouterLink } from 'vue-router'
-import { categoryOf, findArtist } from '../artists.js'
+import { ARTISTS, categoryOf, findArtist } from '../artists.js'
 import { getModel, loadArtist, loadCounts, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
 import { useYears } from '../lib/bio.js'
@@ -97,6 +97,25 @@ const members = computed(() => {
   return names.length ? names.join('、') : ''
 })
 
+// 這位歌手所屬的團體。artists.js 的 groups 欄常把同一團的別名都列出來
+// （徐熙娣寫了 SOS / ASOS / S.O.S / SOS (大S+小S)），所以要收斂成同一筆；
+// 站上有收錄的可以點進去，沒收錄的只顯示名字
+const gkey = (x) => String(x ?? '').replace(/\s+/g, '').toLowerCase()
+const bandsOf = computed(() => {
+  const names = artist.value.groups ?? []
+  const found = new Map()
+  const rest = []
+  for (const n of names) {
+    const g = ARTISTS.find((a) => a.group === 'group' && [a.name, a.en, ...(a.aliases ?? [])].filter(Boolean).some((v) => gkey(v) === gkey(n)))
+    if (g) found.set(g.slug, g)
+    else rest.push(n)
+  }
+  const linked = [...found.values()].map((g) => ({ name: g.name, slug: g.slug }))
+  // 別名沒對到收錄名單時，只留第一個，不要把四個別名都列出來
+  const plain = linked.length ? [] : rest.slice(0, 1).map((n) => ({ name: n, slug: null }))
+  return [...linked, ...plain]
+})
+
 // 自己作詞／作曲／編曲的歌：從已載入的曲目詞曲欄直接算，不必另外載檔
 const norm = (x) => String(x ?? '').replace(/\s*[（(][^）)]*[）)]\s*/g, '').replace(/\s+/g, '').toLowerCase()
 const selfWrittenCount = computed(() => {
@@ -147,6 +166,12 @@ const tabs = computed(() => {
         </div>
         <h1>{{ artist.name }} <span>{{ artist.en }}</span><span v-if="years(slug)" class="life">{{ years(slug) }}</span></h1>
         <p v-if="members" class="members">{{ members }}</p>
+        <p v-if="bandsOf.length" class="members">
+          <template v-for="(g, i) in bandsOf" :key="g.name">
+            <span v-if="i">、</span><RouterLink v-if="g.slug" :to="`/artist/${g.slug}`">{{ g.name }}</RouterLink><span v-else>{{ g.name }}</span>
+          </template>
+          成員
+        </p>
         <nav class="sources" aria-label="資料來源">
           <a v-if="artist.wiki" :href="wikiUrl" target="_blank" rel="noopener">Wikipedia 條目 <span class="mi tiny" aria-hidden="true">open_in_new</span></a>
           <a
@@ -308,6 +333,15 @@ h1 {
   margin: 6px 0 0;
   font-size: 13.5px;
   opacity: 0.85;
+}
+.members a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.35);
+}
+.members a:hover {
+  color: #fff;
+  border-bottom-color: #fff;
 }
 h1 span {
   font-size: 0.45em;

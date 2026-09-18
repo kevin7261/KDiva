@@ -2,7 +2,7 @@
 // 藝人年表：每位藝人一列，橫軸是年份；出生、出道、發行、演唱會、逝世（團體為成立、解散）
 import { computed, onBeforeUnmount, ref, shallowRef } from 'vue'
 import { RouterLink } from 'vue-router'
-import { ARTISTS, GROUPS } from '../artists.js'
+import { GROUPS } from '../artists.js'
 import { loadTimeline } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
 import { formatDay } from '../lib/format.js'
@@ -91,35 +91,14 @@ const age = (from, to) => {
 // 還在世的人算到今天；團體沒有年紀
 const TODAY = { date: new Date().toISOString().slice(0, 10), precision: 'day' }
 
-// 個人所屬的團體（團體本身也要在收錄名單裡才有資料可併）。
-// 田馥甄、陳嘉樺的 S.H.E 時期、徐熙娣的 SOS 時期，都算進他們自己的年表。
-const gname = (x) => String(x ?? '').replace(/\s+/g, '').toLowerCase()
-const GROUP_OF = (() => {
-  const byName = new Map()
-  for (const a of ARTISTS)
-    if (a.group === 'group') for (const n of [a.name, a.en, ...(a.aliases ?? [])].filter(Boolean)) byName.set(gname(n), a.slug)
-  const out = new Map()
-  for (const a of ARTISTS) {
-    const list = [...new Set((a.groups ?? []).map((n) => byName.get(gname(n))).filter(Boolean))]
-    if (list.length) out.set(a.slug, list)
-  }
-  return out
-})()
-
 // 每一列要畫的東西
-const rows = computed(() => {
-  const bySlug = new Map(artists.value.map((x) => [x.slug, x]))
-  return artists.value.map((a) => {
+const rows = computed(() =>
+  artists.value.map((a) => {
     const group = isGroup(a)
-    // 這位個人所屬、且站上有收錄的團體
-    const inGroups = group ? [] : (GROUP_OF.get(a.slug) ?? []).map((sl) => bySlug.get(sl)).filter(Boolean)
     const start = startOf(a)
     const end = endOf(a)
     const debut = debutDate(a)
-    const lineFrom = Math.min(
-      yearOf(start) ?? yearOf(debut),
-      ...inGroups.map((g) => yearOf(debutDate(g))).filter((v) => v != null),
-    )
+    const lineFrom = yearOf(start) ?? yearOf(debut)
     const lineTo = yearOf(end) ?? nowYear
     const marks = []
     if (start && layers.value.has('born')) {
@@ -128,23 +107,8 @@ const rows = computed(() => {
     if (layers.value.has('debut')) {
       const n = group ? null : age(start, debut)
       marks.push({ kind: 'debut', at: yearOf(debut), tip: [`${a.name}出道`, `${formatDay(debut)}${n != null ? `（${n} 歲）` : ''}`] })
-      // 團體時期也算：田馥甄的年表上要看得到 S.H.E 出道
-      for (const g of inGroups) {
-        const gd = debutDate(g)
-        const gn = age(start, gd)
-        marks.push({
-          kind: 'debut',
-          at: yearOf(gd),
-          viaGroup: true,
-          tip: [`${g.name} 出道`, `${formatDay(gd)}${gn != null ? `（${gn} 歲）` : ''}`],
-        })
-      }
     }
-    const albumSources = [
-      ...a.albums.map((al) => ({ al, via: null })),
-      ...inGroups.flatMap((g) => g.albums.map((al) => ({ al, via: g.name }))),
-    ]
-    for (const { al, via } of albumSources) {
+    for (const al of a.albums) {
       const single = al.kind !== 'album'
       if (!layers.value.has(single ? 'single' : 'album')) continue
       const label = { album: '專輯', single: '單曲／EP', compilation: '精選輯' }[al.kind]
@@ -152,18 +116,12 @@ const rows = computed(() => {
         kind: single ? 'single' : 'album',
         at: yearOf(al),
         missing: al.missing,
-        viaGroup: !!via,
-        tip: [
-          `《${al.name}》`,
-          `${label} · ${formatDay(al)}`,
-          ...(via ? [`${via} 時期`] : []),
-          ...(al.missing ? ['YouTube Music 未上架（Wikipedia）'] : []),
-        ],
+        tip: [`《${al.name}》`, `${label} · ${formatDay(al)}`, ...(al.missing ? ['YouTube Music 未上架（Wikipedia）'] : [])],
       })
     }
-    const bars = [...a.tours.map((t) => ({ t, via: null })), ...inGroups.flatMap((g) => g.tours.map((t) => ({ t, via: g.name })))]
-      .filter(({ t }) => layers.value.has(t.kind))
-      .map(({ t, via }) => {
+    const bars = a.tours
+      .filter((t) => layers.value.has(t.kind))
+      .map((t) => {
         const from = yearOf(t.start)
         // 只有年份的起訖涵蓋整年
         const to = t.end.precision === 'year' ? Number(t.end.date.slice(0, 4)) + 1 : yearOf(t.end)
@@ -173,8 +131,7 @@ const rows = computed(() => {
           kind: t.kind,
           left: x(from),
           width: Math.max(4, x(Math.max(to, from + 0.08)) - x(from)),
-          viaGroup: !!via,
-          tip: [t.name, period, size, via ? `${via} 時期` : ''].filter(Boolean),
+          tip: [t.name, period, size].filter(Boolean),
         }
       })
     if (end && layers.value.has('died')) {
@@ -195,8 +152,8 @@ const rows = computed(() => {
       marks: marks.filter((m) => m.at != null).map((m) => ({ ...m, left: x(m.at) })),
       bars,
     }
-  })
-})
+  }),
+)
 
 // ---------- 中鍵自動捲動 ----------
 // 按一下中鍵：出現原點標記，游標離原點越遠捲得越快（四個方向），再按任一鍵或 Esc 停止；
@@ -369,7 +326,7 @@ const counts = computed(() => {
                       :key="`b${i}`"
                       v-tip="b.tip"
                       class="bar"
-                      :class="[b.kind, { 'via-group': b.viaGroup }]"
+                      :class="b.kind"
                       :style="{ left: `${b.left}px`, width: `${b.width}px` }"
                     />
                     <span
@@ -377,7 +334,7 @@ const counts = computed(() => {
                       :key="`m${i}`"
                       v-tip="m.tip"
                       class="mark"
-                      :class="[m.kind, { missing: m.missing, 'via-group': m.viaGroup }]"
+                      :class="[m.kind, { missing: m.missing }]"
                       :style="{ left: `${m.left}px` }"
                     />
                   </div>
@@ -668,11 +625,6 @@ h1 {
 .track {
   position: relative;
   flex: none;
-}
-/* 團體時期的作品（S.H.E 之於田馥甄）：畫淡一點，和個人時期分得出來 */
-.mark.via-group,
-.bar.via-group {
-  opacity: 0.45;
 }
 
 /* 生平線：出生（成立）到逝世（解散）或今天 */
