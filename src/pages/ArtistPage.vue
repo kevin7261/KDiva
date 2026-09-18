@@ -2,7 +2,7 @@
 import { computed, ref, shallowRef, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 import { categoryOf, findArtist } from '../artists.js'
-import { getModel, loadArtist, refreshArtist } from '../lib/store.js'
+import { getModel, loadArtist, loadCounts, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
 import { useYears } from '../lib/bio.js'
 import { formatCount, formatFull, formatDate } from '../lib/format.js'
@@ -15,11 +15,18 @@ import AlbumDialog from '../components/AlbumDialog.vue'
 import ConcertsView from '../components/ConcertsView.vue'
 import AwardsView from '../components/AwardsView.vue'
 import WrittenView from '../components/WrittenView.vue'
+import SelfWrittenView from '../components/SelfWrittenView.vue'
 
 const props = defineProps({ slug: { type: String, required: true } })
 
 const canRefresh = import.meta.env.DEV
 const years = useYears()
+// 分頁上的數量：演唱會／金曲獎／寫給別人的歌來自各自的檔案，太大不適合整包載入，
+// 改讀抓取時一併產生的小計數檔；還沒載入完就先不顯示數字
+const counts = ref(null)
+loadCounts()
+  .then((d) => (counts.value = d.artists))
+  .catch(() => (counts.value = {}))
 const artist = computed(() => findArtist(props.slug))
 const model = computed(() => getModel(props.slug))
 const error = ref('')
@@ -90,14 +97,36 @@ const members = computed(() => {
   return names.length ? names.join('、') : ''
 })
 
-const tabs = [
-  ['overview', '總覽'],
-  ['albums', '專輯'],
-  ['songs', '全部歌曲'],
-  ['concerts', '演唱會'],
-  ['awards', '金曲獎'],
-  ['written', '寫給別人的歌'],
-]
+// 自己作詞／作曲／編曲的歌：從已載入的曲目詞曲欄直接算，不必另外載檔
+const norm = (x) => String(x ?? '').replace(/\s*[（(][^）)]*[）)]\s*/g, '').replace(/\s+/g, '').toLowerCase()
+const selfWrittenCount = computed(() => {
+  const m = model.value
+  if (!m) return null
+  const keys = new Set([artist.value.name, artist.value.en, ...(artist.value.aliases ?? []), ...(artist.value.names ?? [])].filter(Boolean).map(norm))
+  return m.songs.filter(
+    (s) =>
+      s.credits &&
+      ['lyrics', 'music', 'arranger'].some((f) =>
+        String(s.credits[f] ?? '')
+          .split(/\s*(?:、|,|，|\/|／|&|＆|;|；)\s*/)
+          .map(norm)
+          .some((n) => n && keys.has(n)),
+      ),
+  ).length
+})
+
+const tabs = computed(() => {
+  const c = counts.value?.[props.slug]
+  return [
+    ['overview', '總覽', null],
+    ['albums', '專輯', model.value?.albums.length ?? null],
+    ['songs', '全部歌曲', model.value?.songs.length ?? null],
+    ['concerts', '演唱會', c?.tours ?? null],
+    ['awards', '金曲獎', c?.awards ?? null],
+    ['self-written', '寫給自己的歌', selfWrittenCount.value],
+    ['written', '寫給別人的歌', c?.written ?? null],
+  ]
+})
 </script>
 
 <template>
@@ -150,14 +179,14 @@ const tabs = [
 
         <nav class="tabs" role="tablist">
           <button
-            v-for="[key, label] in tabs"
+            v-for="[key, label, n] in tabs"
             :key="key"
             role="tab"
             :aria-selected="tab === key"
             :class="{ on: tab === key }"
             @click="setTab(key)"
           >
-            {{ label }}
+            {{ label }}<span v-if="n != null" class="tab-count num">{{ n }}</span>
           </button>
         </nav>
 
@@ -166,6 +195,7 @@ const tabs = [
         <SongsView v-else-if="tab === 'songs'" :model="model" :approx="approx" @open-album="openAlbum = $event" />
         <ConcertsView v-else-if="tab === 'concerts'" :slug="slug" />
         <AwardsView v-else-if="tab === 'awards'" :slug="slug" :name="artist.name" />
+        <SelfWrittenView v-else-if="tab === 'self-written'" :model="model" :artist="artist" :approx="approx" @open-album="openAlbum = $event" />
         <WrittenView v-else :slug="slug" />
 
         <footer class="site-footer">
@@ -335,6 +365,11 @@ h1 span {
   border-bottom: 1px solid var(--grid);
   overflow-x: auto;
   scrollbar-width: none;
+}
+.tab-count {
+  margin-left: 5px;
+  font-size: 12px;
+  opacity: 0.6;
 }
 .tabs button {
   border: 0;

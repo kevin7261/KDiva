@@ -2,7 +2,7 @@
 // 各歌手的完整 JSON 合計十幾 MB，年表頁不能全部載入，所以抓取後另外整理一份。
 // 同時整理「寫給別人的歌」（public/data/written.json）：詞／曲／編曲有這位歌手、但由別人演唱的歌。
 import { readFile, writeFile } from 'node:fs/promises'
-import { ARTISTS, dataFile, concertsFile, timelineFile, writtenFile, bioFile } from './config.js'
+import { ARTISTS, dataFile, concertsFile, timelineFile, writtenFile, bioFile, countsFile } from './config.js'
 import { categoryOf } from '../src/artists.js'
 import { buildModel } from '../src/lib/dataset.js'
 
@@ -62,6 +62,7 @@ function buildWritten(models, raws) {
           year: song.year,
           plays: song.plays,
           videoId: song.videoId,
+          mv: song.mv ?? undefined,
         })
       }
     }
@@ -122,6 +123,17 @@ export async function buildTimeline() {
       ]),
   )
   await writeFile(bioFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists: bio }))
-  await writeFile(writtenFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists: buildWritten(models, raws) }))
+  const written = buildWritten(models, raws)
+  await writeFile(writtenFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists: written }))
+
+  // 分頁數量：金曲獎是另一支腳本產生的，讀得到就用，讀不到就省略（該分頁不顯示數字）
+  const awards = (await readJson(new URL('awards.json', timelineFile)))?.artists ?? {}
+  const counts = Object.fromEntries(
+    artists.map((a) => [
+      a.slug,
+      { tours: a.tours.length, awards: awards[a.slug]?.length ?? 0, written: written[a.slug]?.length ?? 0 },
+    ]),
+  )
+  await writeFile(countsFile, JSON.stringify({ generatedAt: new Date().toISOString(), artists: counts }))
   return artists.length
 }

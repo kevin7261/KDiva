@@ -1,6 +1,6 @@
 <script setup>
 import { computed, ref } from 'vue'
-import { formatCount, formatFull, formatDuration, songUrl, creditLines } from '../lib/format.js'
+import { formatCount, formatFull, formatDuration, songUrl, watchUrl, creditLines } from '../lib/format.js'
 
 const props = defineProps({
   model: { type: Object, required: true },
@@ -76,7 +76,7 @@ function sortBy(key) {
   </div>
 
   <div class="card table-wrap">
-    <table>
+    <table class="data-table">
       <thead>
         <tr>
           <th
@@ -98,6 +98,9 @@ function sortBy(key) {
           <td class="col-name" v-tip="[s.name, ...creditLines(s.credits), ...(s.manual ? ['來源：YouTube 影片觀看次數'] : [])]">
             <a v-if="s.videoId" :href="songUrl(s)" target="_blank" rel="noopener">{{ s.name }}</a>
             <span v-else>{{ s.name }}</span>
+            <a v-if="s.mv" class="mv-tag" :href="watchUrl(s.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
+              <span class="mi tiny" aria-hidden="true">play_circle</span>MV
+            </a>
             <span v-if="s.manual" class="tag yt">YouTube 影片</span>
             <div v-if="s.alt" class="muted small">{{ s.alt }}</div>
           </td>

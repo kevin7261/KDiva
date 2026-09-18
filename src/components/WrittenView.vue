@@ -65,7 +65,7 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
     <p v-if="!list.length" class="card empty muted">在網站收錄的歌手裡，沒有找到這位歌手寫給別人的歌。</p>
 
     <div v-else class="card table-wrap">
-      <table>
+      <table class="data-table">
         <thead>
           <tr>
             <th>歌名</th>
@@ -81,6 +81,9 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
             <td>
               <a v-if="s.videoId" :href="watchUrl(s.videoId)" target="_blank" rel="noopener">{{ s.song }}</a>
               <span v-else>{{ s.song }}</span>
+              <a v-if="s.mv" class="mv-tag" :href="watchUrl(s.mv)" target="_blank" rel="noopener" title="在 YouTube 看官方 MV">
+                <span class="mi tiny" aria-hidden="true">play_circle</span>MV
+              </a>
             </td>
             <td>
               <RouterLink v-if="s.singerSlug" :to="`/artist/${s.singerSlug}`">{{ s.singer }}</RouterLink>

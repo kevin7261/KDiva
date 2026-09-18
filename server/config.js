@@ -9,3 +9,5 @@ export const awardsFile = new URL('awards.json', DATA_DIR)
 export const writtenFile = new URL('written.json', DATA_DIR)
 // 生卒／成軍解散，只收有資料的那幾位；年表檔 1.2MB 太重，名單頁只為了年份不該載入它
 export const bioFile = new URL('bio.json', DATA_DIR)
+// 分頁上的數量（演唱會／金曲獎／寫給別人的歌）；awards 596K、written 313K 太重，不能為了數字整包載入
+export const countsFile = new URL('counts.json', DATA_DIR)
