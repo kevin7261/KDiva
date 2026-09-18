@@ -2,13 +2,75 @@
   "slug": "yellow-huang",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T21:15:00.599Z",
+  "fetchedAt": "2026-09-18T00:58:37.628Z",
   "artist": {
     "channelId": "UC8LSDyzBofOA3AbXNFxCkEA",
     "name": "YELLOW黃宣",
     "thumbnail": "https://yt3.googleusercontent.com/ax54UPmiUXuUrqbSeaUbufGXR-UaY5PcPqSz5PISrsgdXSZxGJJZUVJpFMtsocgY8ksn8GBD4vRXzKRo=w2880-h1200-p-l90-rj",
     "subscribers": 66800,
     "monthlyAudience": 109000,
+    "videos": [
+      {
+        "title": "YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)",
+        "videoId": "1n_i0JupwRA"
+      },
+      {
+        "title": "獨上C樓 (合作演出：范曉萱)",
+        "videoId": "EAAR2hnfZOc"
+      },
+      {
+        "title": "遠行",
+        "videoId": "yZGzdDv5JMg"
+      },
+      {
+        "title": "Mr.Sheepskin",
+        "videoId": "XJPpz3gKjRI"
+      },
+      {
+        "title": "不開燈俱樂部",
+        "videoId": "ypbd9cC4Gms"
+      },
+      {
+        "title": "輕功水上飄",
+        "videoId": "U7nJWAgwn2A"
+      },
+      {
+        "title": "Ghost Swing",
+        "videoId": "Yup2et5VH9w"
+      },
+      {
+        "title": "Meniere's Buzzing",
+        "videoId": "E5Gp6jXGTK0"
+      },
+      {
+        "title": "Wings and Dirt",
+        "videoId": "mNIyqc-fXU4"
+      },
+      {
+        "title": "Beanstalk",
+        "videoId": "mYPqelKNwI4"
+      },
+      {
+        "title": "後現代獨白",
+        "videoId": "l3gB-LBi1pU"
+      },
+      {
+        "title": "飢餓時代",
+        "videoId": "_R52b7brEHQ"
+      },
+      {
+        "title": "Moonshiner's Hymn",
+        "videoId": "xdfTsMaKW8U"
+      },
+      {
+        "title": "Strawberry Green",
+        "videoId": "iAMK1D5XTpg"
+      },
+      {
+        "title": "YELLOW【DEAD OR ALIVE】CONCERT 2022 演唱會回顧 // YELLOW黃宣",
+        "videoId": "rdHANQedqq0"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/uBw2TvkVL2ummk-Svc5oeV285Nh4F-hO0GRWWcFKu0YcUT5WdLkDD3SUsXMDC_7kknTRCpqD=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -41,7 +103,8 @@
           "playsText": "播放次數：19萬",
           "duration": 190,
           "byOther": false,
-          "nameKey": "menieresbuzzing"
+          "nameKey": "menieresbuzzing",
+          "mv": "E5Gp6jXGTK0"
         },
         {
           "index": 3,
@@ -52,7 +115,8 @@
           "playsText": "播放次數：58萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "不開燈俱樂部"
+          "nameKey": "不開燈俱樂部",
+          "mv": "ypbd9cC4Gms"
         }
       ],
       "releaseDate": "2019-01-01",
@@ -104,7 +168,8 @@
           "byOther": false,
           "titleZh": "獨上C樓 (合作演出：範曉萱)",
           "titleZhVariant": true,
-          "nameKey": "獨上c樓"
+          "nameKey": "獨上c樓",
+          "mv": "EAAR2hnfZOc"
         }
       ],
       "releaseDate": "2020-01-01",
@@ -132,7 +197,8 @@
           "playsText": "播放次數：18萬",
           "duration": 215,
           "byOther": false,
-          "nameKey": "後現代獨白"
+          "nameKey": "後現代獨白",
+          "mv": "l3gB-LBi1pU"
         }
       ],
       "releaseDate": null,
@@ -221,7 +287,8 @@
           "playsText": "播放次數：19萬",
           "duration": 190,
           "byOther": false,
-          "nameKey": "menieresbuzzing"
+          "nameKey": "menieresbuzzing",
+          "mv": "E5Gp6jXGTK0"
         },
         {
           "index": 5,
@@ -234,7 +301,8 @@
           "byOther": false,
           "titleZh": "獨上C樓 (合作演出：範曉萱)",
           "titleZhVariant": true,
-          "nameKey": "獨上c樓"
+          "nameKey": "獨上c樓",
+          "mv": "EAAR2hnfZOc"
         },
         {
           "index": 6,
@@ -245,7 +313,8 @@
           "playsText": "播放次數：58萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "不開燈俱樂部"
+          "nameKey": "不開燈俱樂部",
+          "mv": "ypbd9cC4Gms"
         },
         {
           "index": 7,
@@ -256,7 +325,8 @@
           "playsText": "播放次數：5.5萬",
           "duration": 173,
           "byOther": false,
-          "nameKey": "moonshinershymn"
+          "nameKey": "moonshinershymn",
+          "mv": "xdfTsMaKW8U"
         },
         {
           "index": 8,
@@ -267,7 +337,8 @@
           "playsText": "播放次數：18萬",
           "duration": 215,
           "byOther": false,
-          "nameKey": "後現代獨白"
+          "nameKey": "後現代獨白",
+          "mv": "l3gB-LBi1pU"
         },
         {
           "index": 9,
@@ -289,7 +360,8 @@
           "playsText": "播放次數：23萬",
           "duration": 332,
           "byOther": false,
-          "nameKey": "飢餓時代"
+          "nameKey": "飢餓時代",
+          "mv": "_R52b7brEHQ"
         }
       ],
       "releaseDate": "2021-01-01",
@@ -317,7 +389,8 @@
           "playsText": "播放次數：72萬",
           "duration": 192,
           "byOther": false,
-          "nameKey": "beanstalk"
+          "nameKey": "beanstalk",
+          "mv": "mYPqelKNwI4"
         },
         {
           "index": 2,
@@ -384,7 +457,8 @@
           "playsText": "播放次數：71萬",
           "duration": 162,
           "byOther": false,
-          "nameKey": "遠行"
+          "nameKey": "遠行",
+          "mv": "yZGzdDv5JMg"
         },
         {
           "index": 8,
@@ -395,7 +469,8 @@
           "playsText": "播放次數：21萬",
           "duration": 215,
           "byOther": false,
-          "nameKey": "strawberrygreen"
+          "nameKey": "strawberrygreen",
+          "mv": "iAMK1D5XTpg"
         }
       ],
       "releaseDate": "2021-12-20",
@@ -451,7 +526,8 @@
           "playsText": "播放次數：34萬",
           "duration": 163,
           "byOther": false,
-          "nameKey": "ghostswing"
+          "nameKey": "ghostswing",
+          "mv": "Yup2et5VH9w"
         }
       ],
       "releaseDate": "2025-01-01",
@@ -507,7 +583,8 @@
           "playsText": "播放次數：52萬",
           "duration": 223,
           "byOther": false,
-          "nameKey": "輕功水上飄"
+          "nameKey": "輕功水上飄",
+          "mv": "U7nJWAgwn2A"
         }
       ],
       "releaseDate": "2026-01-01",

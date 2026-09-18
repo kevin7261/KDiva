@@ -2,13 +2,14 @@
   "slug": "dee-hsu",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T18:04:17.639Z",
+  "fetchedAt": "2026-09-18T00:53:42.203Z",
   "artist": {
     "channelId": "UCmoPrMwoUi3vVzy8QRWTACw",
     "name": "elephant DEE",
     "thumbnail": "https://yt3.googleusercontent.com/mMGxX1GHFkgquCR8V4iWOwLOJ3wKuwg4t6xfqQXABptm2Oi7qGQ7flpvJpeOLXwKunuoGwBP1ExG_rc=w1400-h583-p-l90-rj",
     "subscribers": 395,
     "monthlyAudience": null,
+    "videos": [],
     "avatar": "https://yt3.googleusercontent.com/L2RhSSmym2FuSGXm0IyGoOlRB6hw3HyDgzOnvbhyfbh4LYbrPBWQyR6tKSwGDy5rLBraEP76NQ=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -96,9 +97,9 @@
           "playsText": "播放次數：13萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "雙麵人",
           "titleZh": "雙麵人",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "雙麵人"
         },
         {
           "index": 8,
@@ -131,11 +132,11 @@
           "playsText": "播放次數：1.1萬",
           "duration": 177,
           "byOther": false,
-          "nameKey": "formyhusband",
           "credits": {
             "lyrics": "作詞",
             "music": "作詞"
-          }
+          },
+          "nameKey": "formyhusband"
         },
         {
           "index": 11,
@@ -286,9 +287,9 @@
           "playsText": "播放次數：13萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "雙麵人",
           "titleZh": "雙麵人",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "雙麵人"
         }
       ],
       "releaseDate": null,

@@ -2,13 +2,71 @@
   "slug": "kit-chan",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T17:59:19.802Z",
+  "fetchedAt": "2026-09-18T00:07:39.664Z",
   "artist": {
     "channelId": "UCLSP2UDrV_eQwVRMNGi5HAw",
     "name": "陳潔儀",
     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN45771Shof4ZM-c-DosRlUN-C0NtKgwbMkRUm5chvNtI=w2400-h1000-l90-rj-dcpUSQ7CEJ",
-    "subscribers": 20300,
+    "subscribers": 20400,
     "monthlyAudience": 534000,
+    "videos": [
+      {
+        "title": "陳潔儀 Kit Chan 【心動】官方完整版 MV",
+        "videoId": "J8ftiX69Q1g"
+      },
+      {
+        "title": "喜歡你",
+        "videoId": "THu7fBxWb9Y"
+      },
+      {
+        "title": "今生今世",
+        "videoId": "8nkkJv4hTnc"
+      },
+      {
+        "title": "傷了和氣",
+        "videoId": "N9Tqui40WIg"
+      },
+      {
+        "title": "月彎彎",
+        "videoId": "XWr1f2AgNu0"
+      },
+      {
+        "title": "Dreams",
+        "videoId": "peSyw5VyrgM"
+      },
+      {
+        "title": "拔河",
+        "videoId": "n9nbtKQWbq0"
+      },
+      {
+        "title": "一念尘埃（《柜中美人》主题曲）",
+        "videoId": "JNUI6CaaX9w"
+      },
+      {
+        "title": "諾貝爾",
+        "videoId": "aOyr6rElrl8"
+      },
+      {
+        "title": "最好的年紀",
+        "videoId": "BeE7n21V-7M"
+      },
+      {
+        "title": "陳潔儀 Kit Chan【綻放】官方完整版MV",
+        "videoId": "noLzvXRaAhE"
+      },
+      {
+        "title": "陳潔儀 Kit Chan 【被風吹散的人們】官方完整版 MV",
+        "videoId": "LBUxl6SHSfo"
+      },
+      {
+        "title": "享受寂寞",
+        "videoId": "ksIsLcV0DxE"
+      },
+      {
+        "title": "陳潔儀 Kit Chan【天堂邊緣】官方完整版 MV",
+        "videoId": "ZV-vDDunueI"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/XBykYWnveoR4pnNLG7b_h4lDhlrm89y5dHzT4HkzI5PmBr81MZ39XlRkHqqplrUA-jm4jTLzsw=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -30,12 +88,12 @@
           "playsText": "播放次數：542萬",
           "duration": 273,
           "byOther": false,
-          "nameKey": "心痛",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "心痛"
         },
         {
           "index": 2,
@@ -46,12 +104,13 @@
           "playsText": "播放次數：21萬",
           "duration": 230,
           "byOther": false,
-          "nameKey": "傷了和氣",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "傷了和氣",
+          "mv": "N9Tqui40WIg"
         },
         {
           "index": 3,
@@ -62,28 +121,28 @@
           "playsText": "播放次數：8萬",
           "duration": 231,
           "byOther": false,
-          "nameKey": "愛讓我犯錯",
           "credits": {
             "lyrics": "廖瑩如",
             "music": "陳美威",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "愛讓我犯錯"
         },
         {
           "index": 4,
           "title": "Somewhere",
           "artists": "",
           "videoId": "1DJsu78lNVI",
-          "plays": 8376,
-          "playsText": "播放次數：8376",
+          "plays": 8377,
+          "playsText": "播放次數：8377",
           "duration": 270,
           "byOther": false,
-          "nameKey": "somewhere",
           "credits": {
             "lyrics": "Joe Curiale、Tom Deluca",
             "music": "Joe Curiale、Tom Deluca",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "somewhere"
         },
         {
           "index": 5,
@@ -94,12 +153,12 @@
           "playsText": "播放次數：1萬",
           "duration": 271,
           "byOther": false,
-          "nameKey": "沉睡中的你",
           "credits": {
             "lyrics": "許常德",
             "music": "Joe Curiale、Pete Hawkins",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "沉睡中的你"
         },
         {
           "index": 6,
@@ -110,12 +169,12 @@
           "playsText": "播放次數：3.6萬",
           "duration": 282,
           "byOther": false,
-          "nameKey": "不要",
           "credits": {
             "lyrics": "許常德",
             "music": "郭峰",
             "arranger": "郭峰"
-          }
+          },
+          "nameKey": "不要"
         },
         {
           "index": 7,
@@ -126,12 +185,12 @@
           "playsText": "播放次數：8702",
           "duration": 239,
           "byOther": false,
-          "nameKey": "帶我飛",
           "credits": {
             "lyrics": "何厚華",
             "music": "凌偉文",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "帶我飛"
         },
         {
           "index": 8,
@@ -142,12 +201,12 @@
           "playsText": "播放次數：3637",
           "duration": 262,
           "byOther": false,
-          "nameKey": "恐龍族",
           "credits": {
             "lyrics": "許常德",
             "music": "郭峰",
             "arranger": "郭峰"
-          }
+          },
+          "nameKey": "恐龍族"
         },
         {
           "index": 9,
@@ -158,14 +217,14 @@
           "playsText": "播放次數：1.7萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "都說在夢裡",
           "credits": {
             "lyrics": "黃月琴",
             "music": "黃元成",
             "arranger": "Joe Curiale"
           },
           "titleZh": "都說在夢裡",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "都說在夢裡"
         },
         {
           "index": 10,
@@ -176,12 +235,12 @@
           "playsText": "播放次數：5.6萬",
           "duration": 242,
           "byOther": false,
-          "nameKey": "走出黑暗的世界",
           "credits": {
             "lyrics": "莊淑珍",
             "music": "柯貴民",
             "arranger": "Ernest Kwok"
-          }
+          },
+          "nameKey": "走出黑暗的世界"
         }
       ],
       "releaseDate": "1994-11-18",
@@ -209,12 +268,12 @@
           "playsText": "播放次數：4.9萬",
           "duration": 244,
           "byOther": false,
-          "nameKey": "逼得太緊",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "許環良、Joe Curiale"
-          }
+          },
+          "nameKey": "逼得太緊"
         },
         {
           "index": 2,
@@ -225,12 +284,12 @@
           "playsText": "播放次數：1740",
           "duration": 289,
           "byOther": false,
-          "nameKey": "野草閒花",
           "credits": {
             "lyrics": "許常德",
             "music": "林子健、許環良",
             "arranger": "Jonathon Lim"
-          }
+          },
+          "nameKey": "野草閒花"
         },
         {
           "index": 3,
@@ -241,12 +300,12 @@
           "playsText": "播放次數：669",
           "duration": 192,
           "byOther": false,
-          "nameKey": "夢境",
           "credits": {
             "lyrics": "林秋離",
             "music": "Tony Morates、Joe Curiale",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "夢境"
         },
         {
           "index": 4,
@@ -257,12 +316,12 @@
           "playsText": "播放次數：1386",
           "duration": 281,
           "byOther": false,
-          "nameKey": "不能言語",
           "credits": {
             "lyrics": "林秋離",
             "music": "吳大衛",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "不能言語"
         },
         {
           "index": 5,
@@ -273,12 +332,12 @@
           "playsText": "播放次數：31萬",
           "duration": 246,
           "byOther": false,
-          "nameKey": "擔心",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "擔心"
         }
       ],
       "releaseDate": "1995-06-15",
@@ -306,12 +365,12 @@
           "playsText": "播放次數：28萬",
           "duration": 308,
           "byOther": false,
-          "nameKey": "別讓我恨你",
           "credits": {
             "lyrics": "吳旭文",
             "music": "吳旭文",
             "arranger": "洪敬堯"
-          }
+          },
+          "nameKey": "別讓我恨你"
         },
         {
           "index": 2,
@@ -322,12 +381,12 @@
           "playsText": "播放次數：2.7萬",
           "duration": 281,
           "byOther": false,
-          "nameKey": "情人",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "情人"
         },
         {
           "index": 3,
@@ -338,14 +397,14 @@
           "playsText": "播放次數：2060",
           "duration": 271,
           "byOther": false,
-          "nameKey": "mrturner",
           "titleZh": "Mr Turner (現場版)",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "吳慶隆"
           },
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "mrturner#live"
         },
         {
           "index": 4,
@@ -356,12 +415,12 @@
           "playsText": "播放次數：1.2萬",
           "duration": 267,
           "byOther": false,
-          "nameKey": "不夠完美",
           "credits": {
             "lyrics": "吳旭文",
             "music": "吳旭文",
             "arranger": "萬恩全"
-          }
+          },
+          "nameKey": "不夠完美"
         },
         {
           "index": 5,
@@ -372,12 +431,12 @@
           "playsText": "播放次數：4.6萬",
           "duration": 241,
           "byOther": false,
-          "nameKey": "拖鞋",
           "credits": {
             "lyrics": "許常德",
             "music": "柯貴民",
             "arranger": "萬恩全"
-          }
+          },
+          "nameKey": "拖鞋"
         },
         {
           "index": 6,
@@ -388,12 +447,12 @@
           "playsText": "播放次數：1萬",
           "duration": 217,
           "byOther": false,
-          "nameKey": "虧缺",
           "credits": {
             "lyrics": "許常德、胡家團",
             "music": "胡家團",
             "arranger": "Junedy Lim"
-          }
+          },
+          "nameKey": "虧缺"
         },
         {
           "index": 7,
@@ -404,12 +463,12 @@
           "playsText": "播放次數：4959",
           "duration": 292,
           "byOther": false,
-          "nameKey": "郵差",
           "credits": {
             "lyrics": "許常德",
             "music": "郭子",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "郵差"
         },
         {
           "index": 8,
@@ -420,12 +479,12 @@
           "playsText": "播放次數：1441",
           "duration": 263,
           "byOther": false,
-          "nameKey": "體溫",
           "credits": {
             "lyrics": "許常德",
             "music": "徐禹",
             "arranger": "王繼康"
-          }
+          },
+          "nameKey": "體溫"
         },
         {
           "index": 9,
@@ -475,12 +534,12 @@
           "playsText": "播放次數：6.5萬",
           "duration": 231,
           "byOther": false,
-          "nameKey": "揭曉",
           "credits": {
             "lyrics": "陳少琪",
             "music": "許環良",
             "arranger": "Joe Curiale、Pete Hawkins"
-          }
+          },
+          "nameKey": "揭曉"
         },
         {
           "index": 2,
@@ -491,12 +550,12 @@
           "playsText": "播放次數：2.2萬",
           "duration": 257,
           "byOther": false,
-          "nameKey": "失蹤",
           "credits": {
             "lyrics": "黃偉文",
             "music": "顏毓添",
             "arranger": "Joe Curiale、Joe Vannelli"
-          }
+          },
+          "nameKey": "失蹤"
         },
         {
           "index": 3,
@@ -507,12 +566,12 @@
           "playsText": "播放次數：3264",
           "duration": 266,
           "byOther": false,
-          "nameKey": "分裂",
           "credits": {
             "lyrics": "黃偉文",
             "music": "Tekla",
             "arranger": "Joshua Wan"
-          }
+          },
+          "nameKey": "分裂"
         },
         {
           "index": 4,
@@ -523,12 +582,12 @@
           "playsText": "播放次數：5366",
           "duration": 294,
           "byOther": false,
-          "nameKey": "分享孤獨",
           "credits": {
             "lyrics": "林夕",
             "music": "許環良",
             "arranger": "Joe Curiale、Joe Vannelli"
-          }
+          },
+          "nameKey": "分享孤獨"
         },
         {
           "index": 5,
@@ -539,12 +598,12 @@
           "playsText": "播放次數：3399",
           "duration": 190,
           "byOther": false,
-          "nameKey": "我怕",
           "credits": {
             "lyrics": "陳少琪",
             "music": "郭子",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "我怕"
         },
         {
           "index": 6,
@@ -555,12 +614,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 288,
           "byOther": false,
-          "nameKey": "愛情在那天開始",
           "credits": {
             "lyrics": "古倩敏",
             "music": "古倩敏",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "愛情在那天開始"
         },
         {
           "index": 7,
@@ -571,12 +630,12 @@
           "playsText": "播放次數：3041",
           "duration": 284,
           "byOther": false,
-          "nameKey": "這一分鐘",
           "credits": {
             "lyrics": "陳少琪",
             "music": "趙增熹",
             "arranger": "趙增熹"
-          }
+          },
+          "nameKey": "這一分鐘"
         },
         {
           "index": 8,
@@ -587,12 +646,12 @@
           "playsText": "播放次數：8365",
           "duration": 263,
           "byOther": false,
-          "nameKey": "風景",
           "credits": {
             "lyrics": "陳少琪",
             "music": "梁文福",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "風景"
         },
         {
           "index": 9,
@@ -603,12 +662,12 @@
           "playsText": "播放次數：2448",
           "duration": 220,
           "byOther": false,
-          "nameKey": "你如果好錫我",
           "credits": {
             "lyrics": "許冠傑",
             "music": "許冠傑",
             "arranger": "袁少文"
-          }
+          },
+          "nameKey": "你如果好錫我"
         },
         {
           "index": 10,
@@ -619,12 +678,12 @@
           "playsText": "播放次數：2395",
           "duration": 261,
           "byOther": false,
-          "nameKey": "最後一課",
           "credits": {
             "lyrics": "林夕",
             "music": "許冠傑",
             "arranger": "Joshua Wan"
-          }
+          },
+          "nameKey": "最後一課"
         }
       ],
       "releaseDate": "1997-12-11",
@@ -648,64 +707,64 @@
           "title": "有你愛過我",
           "artists": "",
           "videoId": "j0BK8dSatiE",
-          "plays": 1812,
-          "playsText": "播放次數：1812",
+          "plays": 1817,
+          "playsText": "播放次數：1817",
           "duration": 223,
           "byOther": false,
-          "nameKey": "有你愛過我",
           "credits": {
             "lyrics": "周禮茂",
             "music": "雷頌德",
             "arranger": "雷頌德"
-          }
+          },
+          "nameKey": "有你愛過我"
         },
         {
           "index": 2,
           "title": "轉彎抹角",
           "artists": "",
           "videoId": "GPEAKFdUkKM",
-          "plays": 903,
-          "playsText": "播放次數：903",
+          "plays": 905,
+          "playsText": "播放次數：905",
           "duration": 258,
           "byOther": false,
-          "nameKey": "轉彎抹角",
           "credits": {
             "lyrics": "黃偉文",
             "music": "李君築",
             "arranger": "Joshua Wan"
-          }
+          },
+          "nameKey": "轉彎抹角"
         },
         {
           "index": 3,
           "title": "捉迷藏",
           "artists": "",
           "videoId": "n0STKQ7fMoo",
-          "plays": 618,
-          "playsText": "播放次數：618",
+          "plays": 621,
+          "playsText": "播放次數：621",
           "duration": 271,
           "byOther": false,
-          "nameKey": "捉迷藏",
           "credits": {
             "lyrics": "潘源良",
             "music": "方樹梁",
             "arranger": "方樹梁"
-          }
+          },
+          "nameKey": "捉迷藏"
         },
         {
           "index": 4,
           "title": "好說話",
           "artists": "",
           "videoId": "Sc5j2ftO_mI",
-          "plays": 1084,
-          "playsText": "播放次數：1084",
+          "plays": 1085,
+          "playsText": "播放次數：1085",
           "duration": 272,
           "byOther": false,
-          "nameKey": "好說話",
           "credits": {
             "lyrics": "林夕",
             "music": "梁偉豐",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "好說話"
         },
         {
           "index": 5,
@@ -716,28 +775,28 @@
           "playsText": "播放次數：427",
           "duration": 259,
           "byOther": false,
-          "nameKey": "冰山一角",
           "credits": {
             "lyrics": "林振強",
             "music": "潘協慶",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "冰山一角"
         },
         {
           "index": 6,
           "title": "神奇",
           "artists": "",
           "videoId": "C6Q6-nEJxME",
-          "plays": 683,
-          "playsText": "播放次數：683",
+          "plays": 684,
+          "playsText": "播放次數：684",
           "duration": 205,
           "byOther": false,
-          "nameKey": "神奇",
           "credits": {
             "lyrics": "林振強",
             "music": "雷頌德",
             "arranger": "雷頌德"
-          }
+          },
+          "nameKey": "神奇"
         },
         {
           "index": 7,
@@ -748,28 +807,28 @@
           "playsText": "播放次數：1081",
           "duration": 273,
           "byOther": false,
-          "nameKey": "傷愛",
           "credits": {
             "lyrics": "周禮茂",
             "music": "鄧建明",
             "arranger": "孫偉明、陳匡榮"
-          }
+          },
+          "nameKey": "傷愛"
         },
         {
           "index": 8,
           "title": "迷信",
           "artists": "",
           "videoId": "l_hPJPrwqhE",
-          "plays": 517,
-          "playsText": "播放次數：517",
+          "plays": 518,
+          "playsText": "播放次數：518",
           "duration": 296,
           "byOther": false,
-          "nameKey": "迷信",
           "credits": {
             "lyrics": "林夕",
             "music": "潘協慶",
             "arranger": "袁少文"
-          }
+          },
+          "nameKey": "迷信"
         },
         {
           "index": 9,
@@ -780,12 +839,12 @@
           "playsText": "播放次數：480",
           "duration": 264,
           "byOther": false,
-          "nameKey": "等我說愛你",
           "credits": {
             "lyrics": "陳少琪",
             "music": "王宗賢",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "等我說愛你"
         },
         {
           "index": 10,
@@ -796,12 +855,12 @@
           "playsText": "播放次數：614",
           "duration": 239,
           "byOther": false,
-          "nameKey": "精挑細選",
           "credits": {
             "lyrics": "陳少琪",
             "music": "梁偉豐",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "精挑細選"
         },
         {
           "index": 11,
@@ -812,12 +871,12 @@
           "playsText": "播放次數：3.2萬",
           "duration": 296,
           "byOther": false,
-          "nameKey": "看月亮",
           "credits": {
             "lyrics": "梁文福",
             "music": "潘協慶",
             "arranger": "袁少文"
-          }
+          },
+          "nameKey": "看月亮"
         },
         {
           "index": 12,
@@ -828,12 +887,12 @@
           "playsText": "播放次數：396",
           "duration": 106,
           "byOther": false,
-          "nameKey": "開車上路",
           "credits": {
             "lyrics": "黃元成",
             "music": "梁偉豐",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "開車上路"
         }
       ],
       "releaseDate": "1998-05-19",
@@ -861,12 +920,12 @@
           "playsText": "播放次數：46萬",
           "duration": 291,
           "byOther": false,
-          "nameKey": "炫耀",
           "credits": {
             "lyrics": "陳曉娟",
             "music": "陳曉娟",
             "arranger": "涂惠源"
-          }
+          },
+          "nameKey": "炫耀"
         },
         {
           "index": 2,
@@ -877,12 +936,12 @@
           "playsText": "播放次數：18萬",
           "duration": 210,
           "byOther": false,
-          "nameKey": "我眞的愛錯",
           "credits": {
             "lyrics": "呂文飛",
             "music": "熊天平",
             "arranger": "江建民"
-          }
+          },
+          "nameKey": "我眞的愛錯"
         },
         {
           "index": 3,
@@ -893,12 +952,12 @@
           "playsText": "播放次數：2萬",
           "duration": 305,
           "byOther": false,
-          "nameKey": "變天",
           "credits": {
             "lyrics": "深白色",
             "music": "深白色",
             "arranger": "江建民"
-          }
+          },
+          "nameKey": "變天"
         },
         {
           "index": 4,
@@ -909,28 +968,28 @@
           "playsText": "播放次數：3912",
           "duration": 280,
           "byOther": false,
-          "nameKey": "只哭一天",
           "credits": {
             "lyrics": "林秋離",
             "music": "方誌耀",
             "arranger": "王繼康"
-          }
+          },
+          "nameKey": "只哭一天"
         },
         {
           "index": 5,
           "title": "你怎麼還得起",
           "artists": "",
           "videoId": "q0NRbbdRpgI",
-          "plays": 4550,
-          "playsText": "播放次數：4550",
+          "plays": 4553,
+          "playsText": "播放次數：4553",
           "duration": 273,
           "byOther": false,
-          "nameKey": "你怎麼還得起",
           "credits": {
             "lyrics": "謝銘祐",
             "music": "謝銘祐",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "你怎麼還得起"
         },
         {
           "index": 6,
@@ -941,60 +1000,60 @@
           "playsText": "播放次數：4901",
           "duration": 250,
           "byOther": false,
-          "nameKey": "限制級",
           "credits": {
             "lyrics": "許常德",
             "music": "陳建寧、陳政卿",
             "arranger": "屠穎"
-          }
+          },
+          "nameKey": "限制級"
         },
         {
           "index": 7,
           "title": "別讓我再見到你",
           "artists": "",
           "videoId": "kL0bOhA25JA",
-          "plays": 1167,
-          "playsText": "播放次數：1167",
+          "plays": 1171,
+          "playsText": "播放次數：1171",
           "duration": 240,
           "byOther": false,
-          "nameKey": "別讓我再見到你",
           "credits": {
             "lyrics": "小寒",
             "music": "高進榮",
             "arranger": "屠穎"
-          }
+          },
+          "nameKey": "別讓我再見到你"
         },
         {
           "index": 8,
           "title": "分心",
           "artists": "",
           "videoId": "J8Z2BAZol7U",
-          "plays": 1012,
-          "playsText": "播放次數：1012",
+          "plays": 1013,
+          "playsText": "播放次數：1013",
           "duration": 307,
           "byOther": false,
-          "nameKey": "分心",
           "credits": {
             "lyrics": "陳韋伶",
             "music": "陳韋伶",
             "arranger": "陳飛午"
-          }
+          },
+          "nameKey": "分心"
         },
         {
           "index": 9,
           "title": "從不",
           "artists": "",
           "videoId": "r9DzUu_gZG8",
-          "plays": 1489,
-          "playsText": "播放次數：1489",
+          "plays": 1491,
+          "playsText": "播放次數：1491",
           "duration": 252,
           "byOther": false,
-          "nameKey": "從不",
           "credits": {
             "lyrics": "潘協慶",
             "music": "潘協慶",
             "arranger": "王繼康"
-          }
+          },
+          "nameKey": "從不"
         },
         {
           "index": 10,
@@ -1005,12 +1064,12 @@
           "playsText": "播放次數：1.2萬",
           "duration": 302,
           "byOther": false,
-          "nameKey": "心非",
           "credits": {
             "lyrics": "李峻一、陳輝陽",
             "music": "李峻一、陳輝陽",
             "arranger": "王豫民"
-          }
+          },
+          "nameKey": "心非"
         }
       ],
       "releaseDate": "1999-08-20",
@@ -1038,12 +1097,12 @@
           "playsText": "播放次數：5.7萬",
           "duration": 279,
           "byOther": false,
-          "nameKey": "那天那夜",
           "credits": {
             "lyrics": "許常德",
             "music": "涂惠源",
             "arranger": "涂惠源"
-          }
+          },
+          "nameKey": "那天那夜"
         },
         {
           "index": 2,
@@ -1054,12 +1113,12 @@
           "playsText": "播放次數：10萬",
           "duration": 304,
           "byOther": false,
-          "nameKey": "輕佻",
           "credits": {
             "lyrics": "許常德",
             "music": "陳建寧、陳政卿",
             "arranger": "涂惠源"
-          }
+          },
+          "nameKey": "輕佻"
         },
         {
           "index": 3,
@@ -1070,12 +1129,12 @@
           "playsText": "播放次數：18萬",
           "duration": 212,
           "byOther": false,
-          "nameKey": "我眞的愛錯",
           "credits": {
             "lyrics": "呂文飛",
             "music": "熊天平",
             "arranger": "江建民"
-          }
+          },
+          "nameKey": "我眞的愛錯"
         },
         {
           "index": 4,
@@ -1086,12 +1145,12 @@
           "playsText": "播放次數：46萬",
           "duration": 293,
           "byOther": false,
-          "nameKey": "炫耀",
           "credits": {
             "lyrics": "陳曉娟",
             "music": "陳曉娟",
             "arranger": "涂惠源"
-          }
+          },
+          "nameKey": "炫耀"
         }
       ],
       "releaseDate": "2000-01-05",
@@ -1119,12 +1178,12 @@
           "playsText": "播放次數：3181",
           "duration": 260,
           "byOther": false,
-          "nameKey": "天使吻",
           "credits": {
             "lyrics": "林夕",
             "music": "唐奕聰",
             "arranger": "唐奕聰"
-          }
+          },
+          "nameKey": "天使吻"
         },
         {
           "index": 2,
@@ -1135,12 +1194,12 @@
           "playsText": "播放次數：9.8萬",
           "duration": 284,
           "byOther": false,
-          "nameKey": "早去早回",
           "credits": {
             "lyrics": "林夕",
             "music": "梁文福",
             "arranger": "吳劍泓"
-          }
+          },
+          "nameKey": "早去早回"
         },
         {
           "index": 3,
@@ -1151,12 +1210,12 @@
           "playsText": "播放次數：1988",
           "duration": 250,
           "byOther": false,
-          "nameKey": "鐘擺",
           "credits": {
             "lyrics": "張美賢",
             "music": "黎允文",
             "arranger": "黎允文"
-          }
+          },
+          "nameKey": "鐘擺"
         },
         {
           "index": 4,
@@ -1167,12 +1226,12 @@
           "playsText": "播放次數：2499",
           "duration": 281,
           "byOther": false,
-          "nameKey": "最好",
           "credits": {
             "lyrics": "陳少琪",
             "music": "陳美鳳",
             "arranger": "袁少文"
-          }
+          },
+          "nameKey": "最好"
         },
         {
           "index": 5,
@@ -1190,32 +1249,32 @@
           "title": "讓我愛下去",
           "artists": "",
           "videoId": "su4q1cPSrYM",
-          "plays": 714,
-          "playsText": "播放次數：714",
+          "plays": 715,
+          "playsText": "播放次數：715",
           "duration": 280,
           "byOther": false,
-          "nameKey": "讓我愛下去",
           "credits": {
             "lyrics": "林夕",
             "music": "許環良",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "讓我愛下去"
         },
         {
           "index": 7,
           "title": "卡位",
           "artists": "",
           "videoId": "3qpY7eSkgk0",
-          "plays": 445,
-          "playsText": "播放次數：445",
+          "plays": 446,
+          "playsText": "播放次數：446",
           "duration": 241,
           "byOther": false,
-          "nameKey": "卡位",
           "credits": {
             "lyrics": "勞子",
             "music": "柯貴民",
             "arranger": "Joshua Wan"
-          }
+          },
+          "nameKey": "卡位"
         },
         {
           "index": 8,
@@ -1226,12 +1285,12 @@
           "playsText": "播放次數：441",
           "duration": 265,
           "byOther": false,
-          "nameKey": "輸不起",
           "credits": {
             "lyrics": "陳少琪",
             "music": "柯貴民",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "輸不起"
         },
         {
           "index": 9,
@@ -1242,12 +1301,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 278,
           "byOther": false,
-          "nameKey": "寂寞便找我",
           "credits": {
             "lyrics": "林夕",
             "music": "梁偉豐",
             "arranger": "袁少文"
-          }
+          },
+          "nameKey": "寂寞便找我"
         }
       ],
       "releaseDate": "2000-04-05",
@@ -1275,12 +1334,12 @@
           "playsText": "播放次數：3.4萬",
           "duration": 254,
           "byOther": false,
-          "nameKey": "你酷",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "Kenn C"
-          }
+          },
+          "nameKey": "你酷"
         },
         {
           "index": 2,
@@ -1291,12 +1350,12 @@
           "playsText": "播放次數：5.1萬",
           "duration": 221,
           "byOther": false,
-          "nameKey": "他不適合你",
           "credits": {
             "lyrics": "洪典",
             "music": "洪典",
             "arranger": "陳鴻俊"
-          }
+          },
+          "nameKey": "他不適合你"
         },
         {
           "index": 3,
@@ -1307,12 +1366,12 @@
           "playsText": "播放次數：1026",
           "duration": 259,
           "byOther": false,
-          "nameKey": "出現",
           "credits": {
             "lyrics": "洪昆義、洪典",
             "music": "洪典",
             "arranger": "陳鴻俊"
-          }
+          },
+          "nameKey": "出現"
         },
         {
           "index": 4,
@@ -1323,12 +1382,12 @@
           "playsText": "播放次數：1.8萬",
           "duration": 209,
           "byOther": false,
-          "nameKey": "走過",
           "credits": {
             "lyrics": "徐世珍",
             "music": "胡珂寧",
             "arranger": "梁定江、袁少文"
-          }
+          },
+          "nameKey": "走過"
         }
       ],
       "releaseDate": "2000-06-13",
@@ -1356,12 +1415,12 @@
           "playsText": "播放次數：3.4萬",
           "duration": 254,
           "byOther": false,
-          "nameKey": "你酷",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "Kenn C"
-          }
+          },
+          "nameKey": "你酷"
         },
         {
           "index": 2,
@@ -1383,12 +1442,12 @@
           "playsText": "播放次數：1026",
           "duration": 259,
           "byOther": false,
-          "nameKey": "出現",
           "credits": {
             "lyrics": "洪昆義、洪典",
             "music": "洪典",
             "arranger": "陳鴻俊"
-          }
+          },
+          "nameKey": "出現"
         },
         {
           "index": 4,
@@ -1399,12 +1458,12 @@
           "playsText": "播放次數：1.8萬",
           "duration": 209,
           "byOther": false,
-          "nameKey": "走過",
           "credits": {
             "lyrics": "徐世珍",
             "music": "胡珂寧",
             "arranger": "梁定江、袁少文"
-          }
+          },
+          "nameKey": "走過"
         }
       ],
       "releaseDate": "2000-06-13",
@@ -1432,12 +1491,12 @@
           "playsText": "播放次數：3317",
           "duration": 186,
           "byOther": false,
-          "nameKey": "覺歌",
           "credits": {
             "lyrics": "歐志深",
             "music": "梁偉豐",
             "arranger": "Gary Chan"
-          }
+          },
+          "nameKey": "覺歌"
         },
         {
           "index": 2,
@@ -1448,44 +1507,44 @@
           "playsText": "播放次數：1294",
           "duration": 253,
           "byOther": false,
-          "nameKey": "除非",
           "credits": {
             "lyrics": "甄健強",
             "music": "梁文福",
             "arranger": "Kenn C"
-          }
+          },
+          "nameKey": "除非"
         },
         {
           "index": 3,
           "title": "死性不改",
           "artists": "",
           "videoId": "M3ZslS8HMkM",
-          "plays": 1858,
-          "playsText": "播放次數：1858",
+          "plays": 1860,
+          "playsText": "播放次數：1860",
           "duration": 251,
           "byOther": false,
-          "nameKey": "死性不改",
           "credits": {
             "lyrics": "陳少琪",
             "music": "潘協慶",
             "arranger": "Andrew Lum"
-          }
+          },
+          "nameKey": "死性不改"
         },
         {
           "index": 4,
           "title": "夜安",
           "artists": "",
           "videoId": "9x8aC9jFR_U",
-          "plays": 1648,
-          "playsText": "播放次數：1648",
+          "plays": 1649,
+          "playsText": "播放次數：1649",
           "duration": 231,
           "byOther": false,
-          "nameKey": "夜安",
           "credits": {
             "lyrics": "周禮茂",
             "music": "楊孝芬",
             "arranger": "Kenn C"
-          }
+          },
+          "nameKey": "夜安"
         },
         {
           "index": 5,
@@ -1496,46 +1555,46 @@
           "playsText": "播放次數：623",
           "duration": 270,
           "byOther": false,
-          "nameKey": "mrturner",
           "titleZh": "Mr Turner (現場版)",
           "credits": {
             "lyrics": "陳少琪",
             "music": "陳潔儀",
             "arranger": "吳慶隆"
           },
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "mrturner#live"
         },
         {
           "index": 6,
           "title": "不要",
           "artists": "",
           "videoId": "Y9NCvIOmyvY",
-          "plays": 2689,
-          "playsText": "播放次數：2689",
+          "plays": 2691,
+          "playsText": "播放次數：2691",
           "duration": 277,
           "byOther": false,
-          "nameKey": "不要",
           "credits": {
             "lyrics": "梁芷珊",
             "music": "A. Valsiglio、P. Cremonesi、F. Cavalii",
             "arranger": "余燕蘋"
-          }
+          },
+          "nameKey": "不要"
         },
         {
           "index": 7,
           "title": "戰灰",
           "artists": "",
           "videoId": "HfI2zcWL0zs",
-          "plays": 1761,
-          "playsText": "播放次數：1761",
+          "plays": 1762,
+          "playsText": "播放次數：1762",
           "duration": 231,
           "byOther": false,
-          "nameKey": "戰灰",
           "credits": {
             "lyrics": "歐志深",
             "music": "楊立發",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "戰灰"
         },
         {
           "index": 8,
@@ -1546,12 +1605,12 @@
           "playsText": "播放次數：170萬",
           "duration": 258,
           "byOther": false,
-          "nameKey": "每一生都等你",
           "credits": {
             "lyrics": "歐志深",
             "music": "涂惠源",
             "arranger": "Gary Chan"
-          }
+          },
+          "nameKey": "每一生都等你"
         }
       ],
       "releaseDate": "2001-03-22",
@@ -1579,14 +1638,14 @@
           "playsText": "播放次數：691",
           "duration": 281,
           "byOther": false,
-          "nameKey": "mrturner",
           "titleZh": "Mr Turner (現場版)",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "吳慶隆"
           },
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "mrturner#live"
         },
         {
           "index": 2,
@@ -1597,12 +1656,12 @@
           "playsText": "播放次數：4.9萬",
           "duration": 244,
           "byOther": false,
-          "nameKey": "逼的太緊",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "許環良、Joe Curiale"
-          }
+          },
+          "nameKey": "逼的太緊"
         },
         {
           "index": 3,
@@ -1613,12 +1672,12 @@
           "playsText": "播放次數：31萬",
           "duration": 246,
           "byOther": false,
-          "nameKey": "擔心",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "擔心"
         },
         {
           "index": 4,
@@ -1629,12 +1688,12 @@
           "playsText": "播放次數：2895",
           "duration": 341,
           "byOther": false,
-          "nameKey": "等了又等",
           "credits": {
             "lyrics": "林秋離",
             "music": "李迪文",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "等了又等"
         },
         {
           "index": 5,
@@ -1656,12 +1715,12 @@
           "playsText": "播放次數：3.2萬",
           "duration": 295,
           "byOther": false,
-          "nameKey": "看月亮",
           "credits": {
             "lyrics": "梁文福",
             "music": "潘協慶",
             "arranger": "袁少文"
-          }
+          },
+          "nameKey": "看月亮"
         },
         {
           "index": 7,
@@ -1672,12 +1731,12 @@
           "playsText": "播放次數：2.7萬",
           "duration": 283,
           "byOther": false,
-          "nameKey": "情人",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "情人"
         },
         {
           "index": 8,
@@ -1688,12 +1747,13 @@
           "playsText": "播放次數：21萬",
           "duration": 230,
           "byOther": false,
-          "nameKey": "傷了和氣",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "傷了和氣",
+          "mv": "N9Tqui40WIg"
         },
         {
           "index": 9,
@@ -1704,12 +1764,12 @@
           "playsText": "播放次數：16萬",
           "duration": 277,
           "byOther": false,
-          "nameKey": "傷心",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "傷心"
         },
         {
           "index": 10,
@@ -1720,12 +1780,12 @@
           "playsText": "播放次數：1.7萬",
           "duration": 278,
           "byOther": false,
-          "nameKey": "天天看到你的臉",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "天天看到你的臉"
         },
         {
           "index": 11,
@@ -1736,12 +1796,12 @@
           "playsText": "播放次數：1154",
           "duration": 199,
           "byOther": false,
-          "nameKey": "握住我的手",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁偉豐",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "握住我的手"
         },
         {
           "index": 12,
@@ -1752,12 +1812,13 @@
           "playsText": "播放次數：2.8萬",
           "duration": 188,
           "byOther": false,
-          "nameKey": "喜歡你",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "喜歡你",
+          "mv": "THu7fBxWb9Y"
         },
         {
           "index": 13,
@@ -1768,12 +1829,12 @@
           "playsText": "播放次數：6622",
           "duration": 308,
           "byOther": false,
-          "nameKey": "心痛",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "心痛"
         },
         {
           "index": 14,
@@ -1784,12 +1845,12 @@
           "playsText": "播放次數：464",
           "duration": 223,
           "byOther": false,
-          "nameKey": "願望",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "許環良、袁少文"
-          }
+          },
+          "nameKey": "願望"
         },
         {
           "index": 15,
@@ -1800,12 +1861,12 @@
           "playsText": "播放次數：6.5萬",
           "duration": 292,
           "byOther": false,
-          "nameKey": "約會",
           "credits": {
             "lyrics": "黃桂蘭",
             "music": "柯貴民",
             "arranger": "Samuel Tan"
-          }
+          },
+          "nameKey": "約會"
         },
         {
           "index": 16,
@@ -1816,12 +1877,12 @@
           "playsText": "播放次數：5.2萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "再愛一回",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "許環良、吳慶隆"
-          }
+          },
+          "nameKey": "再愛一回"
         },
         {
           "index": 17,
@@ -1832,12 +1893,12 @@
           "playsText": "播放次數：5.6萬",
           "duration": 242,
           "byOther": false,
-          "nameKey": "走出黑暗的世界",
           "credits": {
             "lyrics": "莊淑珍",
             "music": "柯貴民",
             "arranger": "Ernest Kwok"
-          }
+          },
+          "nameKey": "走出黑暗的世界"
         }
       ],
       "releaseDate": "2001-12-01",
@@ -1865,12 +1926,13 @@
           "playsText": "播放次數：3.5萬",
           "duration": 240,
           "byOther": false,
-          "nameKey": "dreams",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Shiaw",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "dreams",
+          "mv": "peSyw5VyrgM"
         },
         {
           "index": 2,
@@ -1881,12 +1943,12 @@
           "playsText": "播放次數：3.6萬",
           "duration": 219,
           "byOther": false,
-          "nameKey": "我愛你",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Box",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "我愛你"
         },
         {
           "index": 3,
@@ -1908,12 +1970,12 @@
           "playsText": "播放次數：2487",
           "duration": 226,
           "byOther": false,
-          "nameKey": "cosmicdreams",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "cosmicdreams"
         },
         {
           "index": 5,
@@ -1924,12 +1986,12 @@
           "playsText": "播放次數：2653",
           "duration": 241,
           "byOther": false,
-          "nameKey": "一天一天",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀、Case Woo",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "一天一天"
         },
         {
           "index": 6,
@@ -1962,12 +2024,12 @@
           "playsText": "播放次數：1472",
           "duration": 251,
           "byOther": false,
-          "nameKey": "echoes",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Case Woo、Shiaw",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "echoes"
         },
         {
           "index": 9,
@@ -1978,12 +2040,12 @@
           "playsText": "播放次數：2285",
           "duration": 291,
           "byOther": false,
-          "nameKey": "有時星星暗",
           "credits": {
             "lyrics": "梁文福",
             "music": "陳潔儀",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "有時星星暗"
         },
         {
           "index": 10,
@@ -1994,12 +2056,12 @@
           "playsText": "播放次數：1471",
           "duration": 180,
           "byOther": false,
-          "nameKey": "mylonglostfriend",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀、Case Woo",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "mylonglostfriend"
         },
         {
           "index": 11,
@@ -2010,12 +2072,12 @@
           "playsText": "播放次數：70萬",
           "duration": 255,
           "byOther": false,
-          "nameKey": "天冷就回來",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳劍泓"
-          }
+          },
+          "nameKey": "天冷就回來"
         },
         {
           "index": 12,
@@ -2026,12 +2088,12 @@
           "playsText": "播放次數：2285",
           "duration": 292,
           "byOther": false,
-          "nameKey": "mynorthernstar",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "mynorthernstar"
         }
       ],
       "releaseDate": "2002-09-20",
@@ -2059,12 +2121,13 @@
           "playsText": "播放次數：3.5萬",
           "duration": 240,
           "byOther": false,
-          "nameKey": "dreams",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Shiaw",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "dreams",
+          "mv": "peSyw5VyrgM"
         },
         {
           "index": 2,
@@ -2075,12 +2138,12 @@
           "playsText": "播放次數：3.6萬",
           "duration": 219,
           "byOther": false,
-          "nameKey": "我愛你",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Box",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "我愛你"
         },
         {
           "index": 3,
@@ -2091,12 +2154,12 @@
           "playsText": "播放次數：2873",
           "duration": 236,
           "byOther": false,
-          "nameKey": "purplegrassfireflies",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Shiaw、Box",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "purplegrassfireflies"
         },
         {
           "index": 4,
@@ -2107,12 +2170,12 @@
           "playsText": "播放次數：2487",
           "duration": 226,
           "byOther": false,
-          "nameKey": "cosmicdreams",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "cosmicdreams"
         },
         {
           "index": 5,
@@ -2123,12 +2186,12 @@
           "playsText": "播放次數：2653",
           "duration": 241,
           "byOther": false,
-          "nameKey": "一天一天",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀、Case Woo",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "一天一天"
         },
         {
           "index": 6,
@@ -2161,12 +2224,12 @@
           "playsText": "播放次數：1472",
           "duration": 251,
           "byOther": false,
-          "nameKey": "echoes",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Case Woo、Shiaw",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "echoes"
         },
         {
           "index": 9,
@@ -2177,12 +2240,12 @@
           "playsText": "播放次數：2285",
           "duration": 291,
           "byOther": false,
-          "nameKey": "有時星星暗",
           "credits": {
             "lyrics": "梁文福",
             "music": "陳潔儀",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "有時星星暗"
         },
         {
           "index": 10,
@@ -2193,12 +2256,12 @@
           "playsText": "播放次數：1471",
           "duration": 177,
           "byOther": false,
-          "nameKey": "mylonglostfriend",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀、Case Woo",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "mylonglostfriend"
         },
         {
           "index": 11,
@@ -2209,12 +2272,12 @@
           "playsText": "播放次數：542萬",
           "duration": 272,
           "byOther": false,
-          "nameKey": "心痛",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "心痛"
         },
         {
           "index": 12,
@@ -2225,12 +2288,13 @@
           "playsText": "播放次數：21萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "傷了和氣",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "傷了和氣",
+          "mv": "N9Tqui40WIg"
         },
         {
           "index": 13,
@@ -2241,12 +2305,12 @@
           "playsText": "播放次數：8萬",
           "duration": 235,
           "byOther": false,
-          "nameKey": "愛讓我犯錯",
           "credits": {
             "lyrics": "廖瑩如",
             "music": "陳美威",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "愛讓我犯錯"
         },
         {
           "index": 14,
@@ -2257,12 +2321,12 @@
           "playsText": "播放次數：31萬",
           "duration": 248,
           "byOther": false,
-          "nameKey": "擔心",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "擔心"
         },
         {
           "index": 15,
@@ -2273,12 +2337,13 @@
           "playsText": "播放次數：6.6萬",
           "duration": 217,
           "byOther": false,
-          "nameKey": "拔河",
           "credits": {
             "lyrics": "李姚",
             "music": "潘協慶",
             "arranger": "Jonathon Lim"
-          }
+          },
+          "nameKey": "拔河",
+          "mv": "n9nbtKQWbq0"
         },
         {
           "index": 16,
@@ -2289,12 +2354,12 @@
           "playsText": "播放次數：16萬",
           "duration": 277,
           "byOther": false,
-          "nameKey": "傷心",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "傷心"
         },
         {
           "index": 17,
@@ -2305,12 +2370,13 @@
           "playsText": "播放次數：915萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "喜歡你",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "喜歡你",
+          "mv": "THu7fBxWb9Y"
         },
         {
           "index": 18,
@@ -2321,12 +2387,12 @@
           "playsText": "播放次數：1萬",
           "duration": 218,
           "byOther": false,
-          "nameKey": "虧缺",
           "credits": {
             "lyrics": "許常德、胡家團",
             "music": "胡家團",
             "arranger": "Junedy Lim"
-          }
+          },
+          "nameKey": "虧缺"
         },
         {
           "index": 19,
@@ -2337,12 +2403,12 @@
           "playsText": "播放次數：4.6萬",
           "duration": 241,
           "byOther": false,
-          "nameKey": "拖鞋",
           "credits": {
             "lyrics": "許常德",
             "music": "柯貴民",
             "arranger": "萬恩全"
-          }
+          },
+          "nameKey": "拖鞋"
         },
         {
           "index": 20,
@@ -2353,12 +2419,12 @@
           "playsText": "播放次數：28萬",
           "duration": 272,
           "byOther": false,
-          "nameKey": "等了又等",
           "credits": {
             "lyrics": "林秋離",
             "music": "李迪文",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "等了又等"
         },
         {
           "index": 21,
@@ -2369,12 +2435,12 @@
           "playsText": "播放次數：29萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "心會跟愛一起走",
           "credits": {
             "lyrics": "邢增華",
             "music": "郭峰",
             "arranger": "郭峰"
-          }
+          },
+          "nameKey": "心會跟愛一起走"
         },
         {
           "index": 22,
@@ -2396,28 +2462,28 @@
           "playsText": "播放次數：3.2萬",
           "duration": 295,
           "byOther": false,
-          "nameKey": "看月亮",
           "credits": {
             "lyrics": "梁文福",
             "music": "潘協慶",
             "arranger": "袁少文"
-          }
+          },
+          "nameKey": "看月亮"
         },
         {
           "index": 24,
           "title": "願望",
           "artists": "",
           "videoId": "0dIbeKo4oWI",
-          "plays": 5719,
-          "playsText": "播放次數：5719",
+          "plays": 5721,
+          "playsText": "播放次數：5721",
           "duration": 245,
           "byOther": false,
-          "nameKey": "願望",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "許環良、袁少文"
-          }
+          },
+          "nameKey": "願望"
         },
         {
           "index": 25,
@@ -2512,12 +2578,12 @@
           "playsText": "播放次數：2973",
           "duration": 195,
           "byOther": false,
-          "nameKey": "眼睛濕濕的",
           "credits": {
             "lyrics": "何啟弘",
             "music": "柯貴民",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "眼睛濕濕的"
         }
       ],
       "releaseDate": null,
@@ -2545,12 +2611,12 @@
           "playsText": "播放次數：787",
           "duration": 237,
           "byOther": false,
-          "nameKey": "早去早回",
           "credits": {
             "lyrics": "林夕",
             "music": "梁文福",
             "arranger": "吳劍泓"
-          }
+          },
+          "nameKey": "早去早回"
         }
       ],
       "releaseDate": null,
@@ -2578,12 +2644,13 @@
           "playsText": "播放次數：2.8萬",
           "duration": 188,
           "byOther": false,
-          "nameKey": "喜歡你",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "喜歡你",
+          "mv": "THu7fBxWb9Y"
         }
       ],
       "releaseDate": null,
@@ -2611,12 +2678,12 @@
           "playsText": "播放次數：31萬",
           "duration": 246,
           "byOther": false,
-          "nameKey": "擔心",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "擔心"
         }
       ],
       "releaseDate": null,
@@ -2644,12 +2711,12 @@
           "playsText": "播放次數：780",
           "duration": 281,
           "byOther": false,
-          "nameKey": "mrturner#live",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "mrturner#live"
         },
         {
           "index": 2,
@@ -2660,28 +2727,28 @@
           "playsText": "播放次數：4.9萬",
           "duration": 244,
           "byOther": false,
-          "nameKey": "逼得太緊",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "許環良、Joe Curiale"
-          }
+          },
+          "nameKey": "逼得太緊"
         },
         {
           "index": 3,
           "title": "出現 (現場版)",
           "artists": "",
           "videoId": "mV4HBdc5LJE",
-          "plays": 165,
-          "playsText": "播放次數：165",
+          "plays": 166,
+          "playsText": "播放次數：166",
           "duration": 168,
           "byOther": false,
-          "nameKey": "出現#live",
           "credits": {
             "lyrics": "洪昆義、洪典",
             "music": "洪典",
             "arranger": "陳鴻俊"
-          }
+          },
+          "nameKey": "出現#live"
         },
         {
           "index": 4,
@@ -2692,12 +2759,12 @@
           "playsText": "播放次數：31萬",
           "duration": 246,
           "byOther": false,
-          "nameKey": "擔心#live",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "擔心#live"
         },
         {
           "index": 5,
@@ -2708,12 +2775,12 @@
           "playsText": "播放次數：276",
           "duration": 316,
           "byOther": false,
-          "nameKey": "你酷#live",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "Kenn C"
-          }
+          },
+          "nameKey": "你酷#live"
         },
         {
           "index": 6,
@@ -2724,12 +2791,12 @@
           "playsText": "播放次數：2.8萬",
           "duration": 188,
           "byOther": false,
-          "nameKey": "喜歡你#live",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "喜歡你#live"
         },
         {
           "index": 7,
@@ -2740,12 +2807,12 @@
           "playsText": "播放次數：6622",
           "duration": 308,
           "byOther": false,
-          "nameKey": "心痛#live",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "心痛#live"
         },
         {
           "index": 8,
@@ -2756,12 +2823,12 @@
           "playsText": "播放次數：787",
           "duration": 237,
           "byOther": false,
-          "nameKey": "早去早回#live",
           "credits": {
             "lyrics": "林夕",
             "music": "梁文福",
             "arranger": "吳劍泓"
-          }
+          },
+          "nameKey": "早去早回#live"
         },
         {
           "index": 9,
@@ -2772,12 +2839,12 @@
           "playsText": "播放次數：2973",
           "duration": 195,
           "byOther": false,
-          "nameKey": "眼睛濕濕的#live",
           "credits": {
             "lyrics": "何啟弘",
             "music": "柯貴民",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "眼睛濕濕的#live"
         }
       ],
       "releaseDate": null,
@@ -2805,12 +2872,12 @@
           "playsText": "播放次數：1873",
           "duration": 230,
           "byOther": false,
-          "nameKey": "有人愛你",
           "credits": {
             "lyrics": "陳潔儀、潘協慶",
             "music": "陳潔儀、潘協慶",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "有人愛你"
         },
         {
           "index": 2,
@@ -2821,12 +2888,12 @@
           "playsText": "播放次數：1.4萬",
           "duration": 259,
           "byOther": false,
-          "nameKey": "懂得",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "懂得"
         },
         {
           "index": 3,
@@ -2837,12 +2904,12 @@
           "playsText": "播放次數：1049",
           "duration": 273,
           "byOther": false,
-          "nameKey": "就是這樣",
           "credits": {
             "lyrics": "張麗念",
             "music": "唐進文",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "就是這樣"
         },
         {
           "index": 4,
@@ -2853,12 +2920,12 @@
           "playsText": "播放次數：605",
           "duration": 247,
           "byOther": false,
-          "nameKey": "themoonsong",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "themoonsong"
         },
         {
           "index": 5,
@@ -2869,12 +2936,12 @@
           "playsText": "播放次數：971",
           "duration": 267,
           "byOther": false,
-          "nameKey": "一星期",
           "credits": {
             "lyrics": "劉美娜",
             "music": "黃淑惠",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "一星期"
         },
         {
           "index": 6,
@@ -2885,12 +2952,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "珍重",
           "credits": {
             "lyrics": "唐玉璇",
             "music": "陳鴻俊",
             "arranger": "陳鴻俊"
-          }
+          },
+          "nameKey": "珍重"
         },
         {
           "index": 7,
@@ -2901,12 +2968,12 @@
           "playsText": "播放次數：505",
           "duration": 205,
           "byOther": false,
-          "nameKey": "feeling",
           "credits": {
             "lyrics": "黃淑惠",
             "music": "黃淑惠",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "feeling"
         },
         {
           "index": 8,
@@ -2917,12 +2984,12 @@
           "playsText": "播放次數：490",
           "duration": 311,
           "byOther": false,
-          "nameKey": "oneday",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Case Woo",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "oneday"
         },
         {
           "index": 9,
@@ -2933,12 +3000,12 @@
           "playsText": "播放次數：716",
           "duration": 269,
           "byOther": false,
-          "nameKey": "離開你我快樂嗎",
           "credits": {
             "lyrics": "黃元成",
             "music": "Alessandro March",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "離開你我快樂嗎"
         },
         {
           "index": 10,
@@ -2949,12 +3016,12 @@
           "playsText": "播放次數：746",
           "duration": 285,
           "byOther": false,
-          "nameKey": "錯過",
           "credits": {
             "lyrics": "唐進文",
             "music": "唐進文",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "錯過"
         },
         {
           "index": 11,
@@ -2965,12 +3032,12 @@
           "playsText": "播放次數：1137",
           "duration": 295,
           "byOther": false,
-          "nameKey": "whydreamoflove",
           "credits": {
             "lyrics": "Stephen Clark",
             "music": "李迪文",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "whydreamoflove"
         }
       ],
       "releaseDate": "2003-10-30",
@@ -2998,12 +3065,12 @@
           "playsText": "播放次數：3411",
           "duration": 151,
           "byOther": false,
-          "nameKey": "東彎土星",
           "credits": {
             "lyrics": "簡勝",
             "music": "黃淑惠",
             "arranger": "梁定江"
-          }
+          },
+          "nameKey": "東彎土星"
         },
         {
           "index": 2,
@@ -3014,12 +3081,12 @@
           "playsText": "播放次數：31萬",
           "duration": 246,
           "byOther": false,
-          "nameKey": "擔心",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "擔心"
         },
         {
           "index": 3,
@@ -3030,12 +3097,12 @@
           "playsText": "播放次數：4500",
           "duration": 290,
           "byOther": false,
-          "nameKey": "formygirl",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Box",
             "arranger": "梁定江、Case Woo"
-          }
+          },
+          "nameKey": "formygirl"
         },
         {
           "index": 4,
@@ -3046,12 +3113,12 @@
           "playsText": "播放次數：639",
           "duration": 254,
           "byOther": false,
-          "nameKey": "愛的力量",
           "credits": {
             "lyrics": "葛佳慧",
             "music": "陳溫發",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "愛的力量"
         },
         {
           "index": 5,
@@ -3062,12 +3129,12 @@
           "playsText": "播放次數：1385",
           "duration": 242,
           "byOther": false,
-          "nameKey": "留在我身邊",
           "credits": {
             "lyrics": "林維彬",
             "music": "Arvid Nordstrom、Magus Funemyr",
             "arranger": "Case Woo、Arvid Nordstrom"
-          }
+          },
+          "nameKey": "留在我身邊"
         },
         {
           "index": 6,
@@ -3078,12 +3145,12 @@
           "playsText": "播放次數：629",
           "duration": 237,
           "byOther": false,
-          "nameKey": "白色衣裳",
           "credits": {
             "lyrics": "馬龍",
             "music": "莊慰義",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "白色衣裳"
         },
         {
           "index": 7,
@@ -3094,12 +3161,12 @@
           "playsText": "播放次數：925",
           "duration": 287,
           "byOther": false,
-          "nameKey": "paradox",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Box",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "paradox"
         },
         {
           "index": 8,
@@ -3110,28 +3177,28 @@
           "playsText": "播放次數：564",
           "duration": 274,
           "byOther": false,
-          "nameKey": "從簡",
           "credits": {
             "lyrics": "簡勝",
             "music": "黃淑惠",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "從簡"
         },
         {
           "index": 9,
           "title": "曙光",
           "artists": "",
           "videoId": "_I6ZG3WQWWY",
-          "plays": 517,
-          "playsText": "播放次數：517",
+          "plays": 519,
+          "playsText": "播放次數：519",
           "duration": 202,
           "byOther": false,
-          "nameKey": "曙光",
           "credits": {
             "lyrics": "馮時澤",
             "music": "傅立秋",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "曙光"
         },
         {
           "index": 10,
@@ -3142,12 +3209,12 @@
           "playsText": "播放次數：3272",
           "duration": 214,
           "byOther": false,
-          "nameKey": "wakeup",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Box",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "wakeup"
         }
       ],
       "releaseDate": "2004-08-24",
@@ -3175,12 +3242,12 @@
           "playsText": "播放次數：71萬",
           "duration": 313,
           "byOther": false,
-          "nameKey": "追今生今世",
           "credits": {
             "lyrics": "林夕、阮世生",
             "music": "李迪文、許願",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "追今生今世"
         },
         {
           "index": 2,
@@ -3191,12 +3258,12 @@
           "playsText": "播放次數：22萬",
           "duration": 212,
           "byOther": false,
-          "nameKey": "兄妹",
           "credits": {
             "lyrics": "林夕",
             "music": "徐偉賢",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "兄妹"
         },
         {
           "index": 3,
@@ -3207,12 +3274,12 @@
           "playsText": "播放次數：27萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "浪子心聲",
           "credits": {
             "lyrics": "許冠傑、黎彼得",
             "music": "許冠傑",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "浪子心聲"
         },
         {
           "index": 4,
@@ -3223,12 +3290,12 @@
           "playsText": "播放次數：5.9萬",
           "duration": 319,
           "byOther": false,
-          "nameKey": "你把我灌醉",
           "credits": {
             "lyrics": "林秋離",
             "music": "黃大煒",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "你把我灌醉"
         },
         {
           "index": 5,
@@ -3239,12 +3306,13 @@
           "playsText": "播放次數：1065萬",
           "duration": 232,
           "byOther": false,
-          "nameKey": "心動",
           "credits": {
             "lyrics": "林夕",
             "music": "黃韻玲",
             "arranger": "趙增熹"
-          }
+          },
+          "nameKey": "心動",
+          "mv": "J8ftiX69Q1g"
         },
         {
           "index": 6,
@@ -3255,12 +3323,12 @@
           "playsText": "播放次數：16萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "home",
           "credits": {
             "lyrics": "麥可·佈雷",
             "music": "麥可·佈雷",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "home"
         },
         {
           "index": 7,
@@ -3271,12 +3339,12 @@
           "playsText": "播放次數：10萬",
           "duration": 270,
           "byOther": false,
-          "nameKey": "oneofus",
           "credits": {
             "lyrics": "Eric Bazilian",
             "music": "Eric Bazilian",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "oneofus"
         },
         {
           "index": 8,
@@ -3287,12 +3355,12 @@
           "playsText": "播放次數：23萬",
           "duration": 258,
           "byOther": false,
-          "nameKey": "遺憾",
           "credits": {
             "lyrics": "陳佳明",
             "music": "陳佳明",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "遺憾"
         },
         {
           "index": 9,
@@ -3303,12 +3371,12 @@
           "playsText": "播放次數：5.4萬",
           "duration": 303,
           "byOther": false,
-          "nameKey": "bridgeovertroubledwater",
           "credits": {
             "lyrics": "Paul Simon",
             "music": "Paul Simon",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "bridgeovertroubledwater"
         }
       ],
       "releaseDate": "2011-01-25",
@@ -3336,12 +3404,13 @@
           "playsText": "播放次數：143萬",
           "duration": 227,
           "byOther": false,
-          "nameKey": "今生今世",
           "credits": {
             "lyrics": "阮世生",
             "music": "許願",
             "arranger": "趙增熹"
-          }
+          },
+          "nameKey": "今生今世",
+          "mv": "8nkkJv4hTnc"
         },
         {
           "index": 2,
@@ -3352,12 +3421,12 @@
           "playsText": "播放次數：22萬",
           "duration": 212,
           "byOther": false,
-          "nameKey": "兄妹",
           "credits": {
             "lyrics": "林夕",
             "music": "徐偉賢",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "兄妹"
         },
         {
           "index": 3,
@@ -3368,12 +3437,12 @@
           "playsText": "播放次數：27萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "浪子心聲",
           "credits": {
             "lyrics": "許冠傑、黎彼得",
             "music": "許冠傑",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "浪子心聲"
         },
         {
           "index": 4,
@@ -3384,12 +3453,12 @@
           "playsText": "播放次數：5.4萬",
           "duration": 303,
           "byOther": false,
-          "nameKey": "bridgeovertroubledwater",
           "credits": {
             "lyrics": "Paul Simon",
             "music": "Paul Simon",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "bridgeovertroubledwater"
         },
         {
           "index": 5,
@@ -3400,12 +3469,12 @@
           "playsText": "播放次數：34萬",
           "duration": 252,
           "byOther": false,
-          "nameKey": "倔強",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "倔強"
         },
         {
           "index": 6,
@@ -3416,12 +3485,13 @@
           "playsText": "播放次數：1065萬",
           "duration": 232,
           "byOther": false,
-          "nameKey": "心動",
           "credits": {
             "lyrics": "林夕",
             "music": "黃韻玲",
             "arranger": "趙增熹"
-          }
+          },
+          "nameKey": "心動",
+          "mv": "J8ftiX69Q1g"
         },
         {
           "index": 7,
@@ -3432,12 +3502,12 @@
           "playsText": "播放次數：16萬",
           "duration": 275,
           "byOther": false,
-          "nameKey": "home",
           "credits": {
             "lyrics": "麥可·佈雷",
             "music": "麥可·佈雷",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "home"
         },
         {
           "index": 8,
@@ -3448,12 +3518,12 @@
           "playsText": "播放次數：5.9萬",
           "duration": 319,
           "byOther": false,
-          "nameKey": "你把我灌醉",
           "credits": {
             "lyrics": "林秋離",
             "music": "黃大煒",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "你把我灌醉"
         },
         {
           "index": 9,
@@ -3464,12 +3534,12 @@
           "playsText": "播放次數：10萬",
           "duration": 270,
           "byOther": false,
-          "nameKey": "oneofus",
           "credits": {
             "lyrics": "Eric Bazilian",
             "music": "Eric Bazilian",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "oneofus"
         },
         {
           "index": 10,
@@ -3480,12 +3550,12 @@
           "playsText": "播放次數：23萬",
           "duration": 258,
           "byOther": false,
-          "nameKey": "遺憾",
           "credits": {
             "lyrics": "陳佳明",
             "music": "陳佳明",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "遺憾"
         },
         {
           "index": 11,
@@ -3496,12 +3566,12 @@
           "playsText": "播放次數：26萬",
           "duration": 308,
           "byOther": false,
-          "nameKey": "左右手",
           "credits": {
             "lyrics": "林夕",
             "music": "葉良俊",
             "arranger": "張人傑"
-          }
+          },
+          "nameKey": "左右手"
         }
       ],
       "releaseDate": "2011-01-25",
@@ -3529,12 +3599,13 @@
           "playsText": "播放次數：21萬",
           "duration": 230,
           "byOther": false,
-          "nameKey": "傷了和氣",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "Joe Curiale"
-          }
+          },
+          "nameKey": "傷了和氣",
+          "mv": "N9Tqui40WIg"
         },
         {
           "index": 2,
@@ -3545,12 +3616,12 @@
           "playsText": "播放次數：1.7萬",
           "duration": 278,
           "byOther": false,
-          "nameKey": "天天看到你的臉",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "天天看到你的臉"
         },
         {
           "index": 3,
@@ -3561,12 +3632,12 @@
           "playsText": "播放次數：5.6萬",
           "duration": 242,
           "byOther": false,
-          "nameKey": "走出黑暗的世界",
           "credits": {
             "lyrics": "莊淑珍",
             "music": "柯貴民",
             "arranger": "Ernest Kwok"
-          }
+          },
+          "nameKey": "走出黑暗的世界"
         },
         {
           "index": 4,
@@ -3577,12 +3648,12 @@
           "playsText": "播放次數：2.8萬",
           "duration": 188,
           "byOther": false,
-          "nameKey": "喜歡你#live",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "喜歡你#live"
         },
         {
           "index": 5,
@@ -3593,12 +3664,12 @@
           "playsText": "播放次數：6.5萬",
           "duration": 292,
           "byOther": false,
-          "nameKey": "約會",
           "credits": {
             "lyrics": "黃桂蘭",
             "music": "柯貴民",
             "arranger": "Samuel Tan"
-          }
+          },
+          "nameKey": "約會"
         },
         {
           "index": 6,
@@ -3609,12 +3680,12 @@
           "playsText": "播放次數：3411",
           "duration": 151,
           "byOther": false,
-          "nameKey": "東彎土星",
           "credits": {
             "lyrics": "簡勝",
             "music": "黃淑惠",
             "arranger": "梁定江"
-          }
+          },
+          "nameKey": "東彎土星"
         },
         {
           "index": 7,
@@ -3625,12 +3696,12 @@
           "playsText": "播放次數：3.6萬",
           "duration": 219,
           "byOther": false,
-          "nameKey": "我愛你",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Box",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "我愛你"
         },
         {
           "index": 8,
@@ -3641,12 +3712,12 @@
           "playsText": "播放次數：1385",
           "duration": 242,
           "byOther": false,
-          "nameKey": "留在我身邊",
           "credits": {
             "lyrics": "林維彬",
             "music": "Arvid Nordstrom、Magus Funemyr",
             "arranger": "Case Woo、Arvid Nordstrom"
-          }
+          },
+          "nameKey": "留在我身邊"
         },
         {
           "index": 9,
@@ -3657,12 +3728,12 @@
           "playsText": "播放次數：6622",
           "duration": 308,
           "byOther": false,
-          "nameKey": "心痛#live",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "許環良"
-          }
+          },
+          "nameKey": "心痛#live"
         },
         {
           "index": 10,
@@ -3673,12 +3744,12 @@
           "playsText": "播放次數：2973",
           "duration": 195,
           "byOther": false,
-          "nameKey": "眼睛濕濕的#live",
           "credits": {
             "lyrics": "何啟弘",
             "music": "柯貴民",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "眼睛濕濕的#live"
         },
         {
           "index": 11,
@@ -3689,12 +3760,13 @@
           "playsText": "播放次數：3.5萬",
           "duration": 240,
           "byOther": false,
-          "nameKey": "dreams",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Shiaw",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "dreams",
+          "mv": "peSyw5VyrgM"
         },
         {
           "index": 12,
@@ -3705,12 +3777,12 @@
           "playsText": "播放次數：1471",
           "duration": 180,
           "byOther": false,
-          "nameKey": "mylonglostfriend",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀、Case Woo",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "mylonglostfriend"
         },
         {
           "index": 13,
@@ -3721,12 +3793,12 @@
           "playsText": "播放次數：925",
           "duration": 287,
           "byOther": false,
-          "nameKey": "paradox",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "Box",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "paradox"
         },
         {
           "index": 14,
@@ -3737,12 +3809,12 @@
           "playsText": "播放次數：2487",
           "duration": 226,
           "byOther": false,
-          "nameKey": "cosmicdreams",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "Case Woo"
-          }
+          },
+          "nameKey": "cosmicdreams"
         },
         {
           "index": 15,
@@ -3753,12 +3825,12 @@
           "playsText": "播放次數：780",
           "duration": 281,
           "byOther": false,
-          "nameKey": "mrturner#live",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "陳潔儀",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "mrturner#live"
         }
       ],
       "releaseDate": null,
@@ -3786,12 +3858,12 @@
           "playsText": "播放次數：4615",
           "duration": 243,
           "byOther": false,
-          "nameKey": "別問我為什麼愛你",
           "credits": {
             "lyrics": "胡如虹",
             "music": "葉良俊",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "別問我為什麼愛你"
         },
         {
           "index": 2,
@@ -3802,12 +3874,12 @@
           "playsText": "播放次數：3531",
           "duration": 271,
           "byOther": false,
-          "nameKey": "生命有過你",
           "credits": {
             "lyrics": "小寒",
             "music": "馮文甫",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "生命有過你"
         },
         {
           "index": 3,
@@ -3818,12 +3890,12 @@
           "playsText": "播放次數：1537",
           "duration": 279,
           "byOther": false,
-          "nameKey": "錯過不是錯",
           "credits": {
             "lyrics": "林夕",
             "music": "葉良俊",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "錯過不是錯"
         },
         {
           "index": 4,
@@ -3834,12 +3906,12 @@
           "playsText": "播放次數：920",
           "duration": 282,
           "byOther": false,
-          "nameKey": "7號登機口",
           "credits": {
             "lyrics": "易家揚",
             "music": "孔陽",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "7號登機口"
         },
         {
           "index": 5,
@@ -3850,12 +3922,12 @@
           "playsText": "播放次數：7032",
           "duration": 224,
           "byOther": false,
-          "nameKey": "忽然的雨",
           "credits": {
             "lyrics": "陳超",
             "music": "陳超",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "忽然的雨"
         },
         {
           "index": 6,
@@ -3866,12 +3938,13 @@
           "playsText": "播放次數：14萬",
           "duration": 288,
           "byOther": false,
-          "nameKey": "天堂邊緣",
           "credits": {
             "lyrics": "許郁翎",
             "music": "崔欽翔",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "天堂邊緣",
+          "mv": "ZV-vDDunueI"
         },
         {
           "index": 7,
@@ -3882,12 +3955,12 @@
           "playsText": "播放次數：4236",
           "duration": 274,
           "byOther": false,
-          "nameKey": "著迷",
           "credits": {
             "lyrics": "潘協慶",
             "music": "潘協慶",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "著迷"
         },
         {
           "index": 8,
@@ -3898,12 +3971,13 @@
           "playsText": "播放次數：15萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "被風吹散的人們",
           "credits": {
             "lyrics": "許常德",
             "music": "黃韻玲",
             "arranger": "鍾興民"
-          }
+          },
+          "nameKey": "被風吹散的人們",
+          "mv": "LBUxl6SHSfo"
         },
         {
           "index": 9,
@@ -3914,12 +3988,12 @@
           "playsText": "播放次數：1467",
           "duration": 287,
           "byOther": false,
-          "nameKey": "歷久彌新",
           "credits": {
             "lyrics": "潘協慶",
             "music": "潘協慶",
             "arranger": "Martin Tang"
-          }
+          },
+          "nameKey": "歷久彌新"
         },
         {
           "index": 10,
@@ -3930,12 +4004,12 @@
           "playsText": "播放次數：2288",
           "duration": 232,
           "byOther": false,
-          "nameKey": "不變的月光",
           "credits": {
             "lyrics": "張暢",
             "music": "余雷",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "不變的月光"
         }
       ],
       "releaseDate": "2016-07-05",
@@ -3963,12 +4037,13 @@
           "playsText": "播放次數：14萬",
           "duration": 288,
           "byOther": false,
-          "nameKey": "天堂邊緣",
           "credits": {
             "lyrics": "許郁翎",
             "music": "崔欽翔",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "天堂邊緣",
+          "mv": "ZV-vDDunueI"
         }
       ],
       "releaseDate": "2016-07-05",
@@ -4024,12 +4099,12 @@
           "playsText": "播放次數：4615",
           "duration": 243,
           "byOther": false,
-          "nameKey": "別問我為什麼愛你",
           "credits": {
             "lyrics": "胡如虹",
             "music": "葉良俊",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "別問我為什麼愛你"
         }
       ],
       "releaseDate": null,
@@ -4053,8 +4128,8 @@
           "title": "天冷就回來 2016",
           "artists": "",
           "videoId": "yvP1SxtVbBg",
-          "plays": 4647,
-          "playsText": "播放次數：4647",
+          "plays": 4648,
+          "playsText": "播放次數：4648",
           "duration": 192,
           "byOther": false,
           "nameKey": "天冷就回來2016"
@@ -4085,12 +4160,12 @@
           "playsText": "播放次數：7032",
           "duration": 224,
           "byOther": false,
-          "nameKey": "忽然的雨",
           "credits": {
             "lyrics": "陳超",
             "music": "陳超",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "忽然的雨"
         }
       ],
       "releaseDate": null,
@@ -4118,12 +4193,13 @@
           "playsText": "播放次數：15萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "被風吹散的人們",
           "credits": {
             "lyrics": "許常德",
             "music": "黃韻玲",
             "arranger": "鍾興民"
-          }
+          },
+          "nameKey": "被風吹散的人們",
+          "mv": "LBUxl6SHSfo"
         }
       ],
       "releaseDate": null,
@@ -4151,12 +4227,12 @@
           "playsText": "播放次數：5.8萬",
           "duration": 278,
           "byOther": false,
-          "nameKey": "我是不是該安靜的走開",
           "credits": {
             "lyrics": "張方露",
             "music": "陳秀男",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "我是不是該安靜的走開"
         },
         {
           "index": 2,
@@ -4167,12 +4243,13 @@
           "playsText": "播放次數：60萬",
           "duration": 291,
           "byOther": false,
-          "nameKey": "月彎彎",
           "credits": {
             "lyrics": "鍾婉芸",
             "music": "鍾婉芸",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "月彎彎",
+          "mv": "XWr1f2AgNu0"
         },
         {
           "index": 3,
@@ -4183,12 +4260,13 @@
           "playsText": "播放次數：13萬",
           "duration": 285,
           "byOther": false,
-          "nameKey": "最好的年紀",
           "credits": {
             "lyrics": "姚若龍",
             "music": "李全",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "最好的年紀",
+          "mv": "BeE7n21V-7M"
         },
         {
           "index": 4,
@@ -4199,12 +4277,12 @@
           "playsText": "播放次數：2995",
           "duration": 241,
           "byOther": false,
-          "nameKey": "請找到我",
           "credits": {
             "lyrics": "小寒",
             "music": "馮文甫",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "請找到我"
         },
         {
           "index": 5,
@@ -4215,12 +4293,13 @@
           "playsText": "播放次數：9.2萬",
           "duration": 205,
           "byOther": false,
-          "nameKey": "享受寂寞",
           "credits": {
             "lyrics": "徐世珍",
             "music": "蕭恆嘉",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "享受寂寞",
+          "mv": "ksIsLcV0DxE"
         },
         {
           "index": 6,
@@ -4231,12 +4310,12 @@
           "playsText": "播放次數：3368",
           "duration": 244,
           "byOther": false,
-          "nameKey": "遺失的終點",
           "credits": {
             "lyrics": "林怡鳳",
             "music": "鍾婉芸",
             "arranger": "蔡宇雄"
-          }
+          },
+          "nameKey": "遺失的終點"
         },
         {
           "index": 7,
@@ -4247,12 +4326,13 @@
           "playsText": "播放次數：36萬",
           "duration": 214,
           "byOther": false,
-          "nameKey": "諾貝爾",
           "credits": {
             "lyrics": "葛大為",
             "music": "牛子健",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "諾貝爾",
+          "mv": "aOyr6rElrl8"
         },
         {
           "index": 8,
@@ -4263,12 +4343,12 @@
           "playsText": "播放次數：1.3萬",
           "duration": 307,
           "byOther": false,
-          "nameKey": "給自己的情書",
           "credits": {
             "lyrics": "林夕",
             "music": "C.Y.Kong",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "給自己的情書"
         },
         {
           "index": 9,
@@ -4279,12 +4359,13 @@
           "playsText": "播放次數：8.3萬",
           "duration": 227,
           "byOther": false,
-          "nameKey": "綻放",
           "credits": {
             "lyrics": "左右",
             "music": "李健",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "綻放",
+          "mv": "noLzvXRaAhE"
         },
         {
           "index": 10,
@@ -4295,12 +4376,12 @@
           "playsText": "播放次數：9204",
           "duration": 244,
           "byOther": false,
-          "nameKey": "atimeforeverything",
           "credits": {
             "lyrics": "陳潔儀",
             "music": "宋陽",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "atimeforeverything"
         }
       ],
       "releaseDate": "2018-10-05",
@@ -4314,7 +4395,7 @@
       "browseId": "MPREb_ntYWGBHpF1E",
       "playlistId": "OLAK5uy_l1Y4cu7gA7rpdvIjG6MU-j6h5ZUtQ6JOU",
       "title": "《柜中美人》电视原声大碟 (普通版)",
-      "albumArtist": "陳潔儀、趙泳鑫和衚冰卿",
+      "albumArtist": "陳潔儀、趙泳鑫 和 衚冰卿",
       "type": "Single",
       "year": 2018,
       "thumbnail": "https://yt3.googleusercontent.com/nkm0TwTTLrjGqKCOya24YTucOTczTbwjNHOW43f1YIxp-AnIeypM17lvAQentIhur79di2Jf2yjMyME=w544-h544-l90-rj",
@@ -4328,9 +4409,9 @@
           "playsText": "播放次數：12萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "一念塵埃",
           "titleZh": "一念塵埃（《櫃中美人》主題曲）",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "一念塵埃"
         },
         {
           "index": 2,
@@ -4341,9 +4422,9 @@
           "playsText": "播放次數：7.1萬",
           "duration": 232,
           "byOther": true,
-          "nameKey": "寒風",
           "titleZh": "寒風（《櫃中美人》片尾曲）",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "寒風"
         }
       ],
       "releaseDate": null,
@@ -4371,9 +4452,9 @@
           "playsText": "播放次數：12萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "一念塵埃",
           "titleZh": "一念塵埃（《櫃中美人》主題曲）",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "一念塵埃"
         }
       ],
       "releaseDate": null,
@@ -4401,9 +4482,9 @@
           "playsText": "播放次數：1309",
           "duration": 256,
           "byOther": false,
-          "nameKey": "請你恰恰",
           "titleZh": "請你恰恰",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "請你恰恰"
         },
         {
           "index": 2,
@@ -4414,9 +4495,9 @@
           "playsText": "播放次數：6127",
           "duration": 271,
           "byOther": false,
-          "nameKey": "星月神話",
           "titleZh": "星月神話",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "星月神話"
         },
         {
           "index": 3,
@@ -4438,9 +4519,9 @@
           "playsText": "播放次數：587",
           "duration": 236,
           "byOther": false,
-          "nameKey": "愛上你我傻乎乎",
           "titleZh": "愛上你我傻乎乎",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "愛上你我傻乎乎"
         },
         {
           "index": 5,
@@ -4462,9 +4543,9 @@
           "playsText": "播放次數：5678",
           "duration": 247,
           "byOther": false,
-          "nameKey": "別哭我最愛的人",
           "titleZh": "別哭我最愛的人",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "別哭我最愛的人"
         },
         {
           "index": 7,
@@ -4475,9 +4556,9 @@
           "playsText": "播放次數：1081",
           "duration": 290,
           "byOther": false,
-          "nameKey": "如果這就是愛情",
           "titleZh": "如果這就是愛情",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "如果這就是愛情"
         },
         {
           "index": 8,
@@ -4488,9 +4569,9 @@
           "playsText": "播放次數：1.1萬",
           "duration": 363,
           "byOther": false,
-          "nameKey": "戀曲1990",
           "titleZh": "戀曲1990",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "戀曲1990"
         },
         {
           "index": 9,
@@ -4501,9 +4582,9 @@
           "playsText": "播放次數：579",
           "duration": 293,
           "byOther": false,
-          "nameKey": "你的柔情灑滿我的心扉",
           "titleZh": "你的柔情灑滿我的心扉",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "你的柔情灑滿我的心扉"
         },
         {
           "index": 10,
@@ -4514,9 +4595,9 @@
           "playsText": "播放次數：850",
           "duration": 267,
           "byOther": false,
-          "nameKey": "多情的人總被無情的傷",
           "titleZh": "多情的人總被無情的傷",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "多情的人總被無情的傷"
         },
         {
           "index": 11,
@@ -4527,9 +4608,9 @@
           "playsText": "播放次數：572",
           "duration": 265,
           "byOther": false,
-          "nameKey": "說你愛我",
           "titleZh": "說你愛我",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "說你愛我"
         },
         {
           "index": 12,
@@ -4540,9 +4621,9 @@
           "playsText": "播放次數：151",
           "duration": 229,
           "byOther": false,
-          "nameKey": "離愛很遙遠",
           "titleZh": "離愛很遙遠",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "離愛很遙遠"
         }
       ],
       "releaseDate": null,
@@ -4570,12 +4651,12 @@
           "playsText": "播放次數：6.6萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "最完美的距離",
           "credits": {
             "lyrics": "潘協慶",
             "music": "錢昱成",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "最完美的距離"
         },
         {
           "index": 2,
@@ -4586,7 +4667,12 @@
           "playsText": "播放次數：4830",
           "duration": 252,
           "byOther": false,
-          "nameKey": "最完美的距離"
+          "nameKey": "最完美的距離",
+          "credits": {
+            "lyrics": "潘協慶",
+            "music": "錢昱成",
+            "arranger": "馮文甫"
+          }
         }
       ],
       "releaseDate": "2021-01-01",
@@ -4614,12 +4700,12 @@
           "playsText": "播放次數：7.7萬",
           "duration": 280,
           "byOther": false,
-          "nameKey": "就夠了",
           "credits": {
             "lyrics": "瑞秋",
             "music": "瑞秋",
             "arranger": "任中強"
-          }
+          },
+          "nameKey": "就夠了"
         },
         {
           "index": 2,
@@ -4630,12 +4716,12 @@
           "playsText": "播放次數：2098",
           "duration": 280,
           "byOther": false,
-          "nameKey": "就夠了",
           "credits": {
             "lyrics": "瑞秋",
             "music": "瑞秋",
             "arranger": "任中強"
-          }
+          },
+          "nameKey": "就夠了"
         }
       ],
       "releaseDate": null,
@@ -4663,12 +4749,12 @@
           "playsText": "播放次數：4萬",
           "duration": 201,
           "byOther": false,
-          "nameKey": "總會再見",
           "credits": {
             "lyrics": "黃楓宜",
             "music": "任中強",
             "arranger": "Martin Tang"
-          }
+          },
+          "nameKey": "總會再見"
         },
         {
           "index": 2,
@@ -4679,7 +4765,12 @@
           "playsText": "播放次數：3158",
           "duration": 201,
           "byOther": false,
-          "nameKey": "總會再見"
+          "nameKey": "總會再見",
+          "credits": {
+            "lyrics": "黃楓宜",
+            "music": "任中強",
+            "arranger": "Martin Tang"
+          }
         }
       ],
       "releaseDate": null,
@@ -4707,12 +4798,12 @@
           "playsText": "播放次數：2.6萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "誤解",
           "credits": {
             "lyrics": "鍾婉芸",
             "music": "鍾婉芸",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "誤解"
         },
         {
           "index": 2,
@@ -4723,7 +4814,12 @@
           "playsText": "播放次數：2047",
           "duration": 256,
           "byOther": false,
-          "nameKey": "誤解"
+          "nameKey": "誤解",
+          "credits": {
+            "lyrics": "鍾婉芸",
+            "music": "鍾婉芸",
+            "arranger": "馮文甫"
+          }
         }
       ],
       "releaseDate": null,
@@ -4751,12 +4847,12 @@
           "playsText": "播放次數：6.6萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "最完美的距離",
           "credits": {
             "lyrics": "潘協慶",
             "music": "錢昱成",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "最完美的距離"
         },
         {
           "index": 2,
@@ -4767,12 +4863,12 @@
           "playsText": "播放次數：4萬",
           "duration": 201,
           "byOther": false,
-          "nameKey": "總會再見",
           "credits": {
             "lyrics": "黃楓宜",
             "music": "任中強",
             "arranger": "Martin Tang"
-          }
+          },
+          "nameKey": "總會再見"
         },
         {
           "index": 3,
@@ -4783,12 +4879,12 @@
           "playsText": "播放次數：7.7萬",
           "duration": 280,
           "byOther": false,
-          "nameKey": "就夠了",
           "credits": {
             "lyrics": "瑞秋",
             "music": "瑞秋",
             "arranger": "任中強"
-          }
+          },
+          "nameKey": "就夠了"
         },
         {
           "index": 4,
@@ -4799,12 +4895,12 @@
           "playsText": "播放次數：2.6萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "誤解",
           "credits": {
             "lyrics": "鍾婉芸",
             "music": "鍾婉芸",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "誤解"
         },
         {
           "index": 5,
@@ -4815,12 +4911,12 @@
           "playsText": "播放次數：4.3萬",
           "duration": 238,
           "byOther": false,
-          "nameKey": "遠去那個他",
           "credits": {
             "lyrics": "古倩敏",
             "music": "李藝皓",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "遠去那個他"
         },
         {
           "index": 6,
@@ -4831,12 +4927,12 @@
           "playsText": "播放次數：2.7萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "還會不會",
           "credits": {
             "lyrics": "林芳樺",
             "music": "林芳樺",
             "arranger": "Martin Tang"
-          }
+          },
+          "nameKey": "還會不會"
         },
         {
           "index": 7,
@@ -4847,7 +4943,12 @@
           "playsText": "播放次數：4830",
           "duration": 252,
           "byOther": false,
-          "nameKey": "最完美的距離"
+          "nameKey": "最完美的距離",
+          "credits": {
+            "lyrics": "潘協慶",
+            "music": "錢昱成",
+            "arranger": "馮文甫"
+          }
         },
         {
           "index": 8,
@@ -4858,7 +4959,12 @@
           "playsText": "播放次數：3158",
           "duration": 201,
           "byOther": false,
-          "nameKey": "總會再見"
+          "nameKey": "總會再見",
+          "credits": {
+            "lyrics": "黃楓宜",
+            "music": "任中強",
+            "arranger": "Martin Tang"
+          }
         },
         {
           "index": 9,
@@ -4869,7 +4975,12 @@
           "playsText": "播放次數：2098",
           "duration": 280,
           "byOther": false,
-          "nameKey": "就夠了"
+          "nameKey": "就夠了",
+          "credits": {
+            "lyrics": "瑞秋",
+            "music": "瑞秋",
+            "arranger": "任中強"
+          }
         },
         {
           "index": 10,
@@ -4880,7 +4991,12 @@
           "playsText": "播放次數：2047",
           "duration": 256,
           "byOther": false,
-          "nameKey": "誤解"
+          "nameKey": "誤解",
+          "credits": {
+            "lyrics": "鍾婉芸",
+            "music": "鍾婉芸",
+            "arranger": "馮文甫"
+          }
         },
         {
           "index": 11,
@@ -4891,7 +5007,12 @@
           "playsText": "播放次數：1998",
           "duration": 238,
           "byOther": false,
-          "nameKey": "遠去那個他"
+          "nameKey": "遠去那個他",
+          "credits": {
+            "lyrics": "古倩敏",
+            "music": "李藝皓",
+            "arranger": "馮文甫"
+          }
         },
         {
           "index": 12,
@@ -4902,7 +5023,12 @@
           "playsText": "播放次數：1101",
           "duration": 247,
           "byOther": false,
-          "nameKey": "還會不會"
+          "nameKey": "還會不會",
+          "credits": {
+            "lyrics": "林芳樺",
+            "music": "林芳樺",
+            "arranger": "Martin Tang"
+          }
         }
       ],
       "releaseDate": "2022-08-03",
@@ -4930,14 +5056,14 @@
           "playsText": "播放次數：6.6萬",
           "duration": 253,
           "byOther": false,
-          "nameKey": "最完美的距離",
           "credits": {
             "lyrics": "潘協慶",
             "music": "錢昱成",
             "arranger": "馮文甫"
           },
           "titleZh": "最完美的距離",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "最完美的距離"
         },
         {
           "index": 2,
@@ -4948,14 +5074,14 @@
           "playsText": "播放次數：4萬",
           "duration": 201,
           "byOther": false,
-          "nameKey": "總會再見",
           "credits": {
             "lyrics": "黃楓宜",
             "music": "任中強",
             "arranger": "Martin Tang"
           },
           "titleZh": "總會再見",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "總會再見"
         },
         {
           "index": 3,
@@ -4966,14 +5092,14 @@
           "playsText": "播放次數：7.7萬",
           "duration": 280,
           "byOther": false,
-          "nameKey": "就夠了",
           "credits": {
             "lyrics": "瑞秋",
             "music": "瑞秋",
             "arranger": "任中強"
           },
           "titleZh": "就夠了",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "就夠了"
         },
         {
           "index": 4,
@@ -4984,14 +5110,14 @@
           "playsText": "播放次數：2.6萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "誤解",
           "credits": {
             "lyrics": "鍾婉芸",
             "music": "鍾婉芸",
             "arranger": "馮文甫"
           },
           "titleZh": "誤解",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "誤解"
         },
         {
           "index": 5,
@@ -5002,14 +5128,14 @@
           "playsText": "播放次數：4.3萬",
           "duration": 238,
           "byOther": false,
-          "nameKey": "遠去那個他",
           "credits": {
             "lyrics": "古倩敏",
             "music": "李藝皓",
             "arranger": "馮文甫"
           },
           "titleZh": "遠去那個他",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "遠去那個他"
         },
         {
           "index": 6,
@@ -5020,14 +5146,14 @@
           "playsText": "播放次數：2.7萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "還會不會",
           "credits": {
             "lyrics": "林芳樺",
             "music": "林芳樺",
             "arranger": "Martin Tang"
           },
           "titleZh": "還會，不會",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "還會不會"
         }
       ],
       "releaseDate": "2022-08-03",
@@ -5055,12 +5181,12 @@
           "playsText": "播放次數：4.3萬",
           "duration": 238,
           "byOther": false,
-          "nameKey": "遠去那個他",
           "credits": {
             "lyrics": "古倩敏",
             "music": "李藝皓",
             "arranger": "馮文甫"
-          }
+          },
+          "nameKey": "遠去那個他"
         },
         {
           "index": 2,
@@ -5071,7 +5197,12 @@
           "playsText": "播放次數：1998",
           "duration": 238,
           "byOther": false,
-          "nameKey": "遠去那個他"
+          "nameKey": "遠去那個他",
+          "credits": {
+            "lyrics": "古倩敏",
+            "music": "李藝皓",
+            "arranger": "馮文甫"
+          }
         }
       ],
       "releaseDate": null,
@@ -5099,28 +5230,28 @@
           "playsText": "播放次數：34萬",
           "duration": 313,
           "byOther": false,
-          "nameKey": "home",
           "credits": {
             "lyrics": "麥可·佈雷",
             "music": "麥可·佈雷",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "home"
         },
         {
           "index": 2,
           "title": "Home (25th Anniversary Remake) - Instrumental",
           "artists": "",
           "videoId": "NCSuEs92un8",
-          "plays": 5003,
-          "playsText": "播放次數：5003",
+          "plays": 5006,
+          "playsText": "播放次數：5006",
           "duration": 313,
           "byOther": false,
-          "nameKey": "home",
           "credits": {
             "lyrics": "麥可·佈雷",
             "music": "麥可·佈雷",
             "arranger": "吳慶隆"
-          }
+          },
+          "nameKey": "home"
         }
       ],
       "releaseDate": null,
@@ -5187,14 +5318,14 @@
           "playsText": "播放次數：5202",
           "duration": 304,
           "byOther": false,
-          "nameKey": "追今生今世#live",
           "credits": {
             "lyrics": "林夕、阮世生",
             "music": "李迪文、許願",
             "arranger": "吳慶隆"
           },
           "titleZh": "追 / 今生今世 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "追今生今世#live"
         },
         {
           "index": 2,
@@ -5205,14 +5336,14 @@
           "playsText": "播放次數：2917",
           "duration": 219,
           "byOther": false,
-          "nameKey": "兄妹#live",
           "credits": {
             "lyrics": "林夕",
             "music": "徐偉賢",
             "arranger": "吳慶隆"
           },
           "titleZh": "兄妹 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "兄妹#live"
         },
         {
           "index": 3,
@@ -5230,18 +5361,18 @@
           "title": "喜歡你 - ​想像空間 Live 版",
           "artists": "",
           "videoId": "tzqlthU0DqU",
-          "plays": 9679,
-          "playsText": "播放次數：9679",
+          "plays": 9682,
+          "playsText": "播放次數：9682",
           "duration": 270,
           "byOther": false,
-          "nameKey": "喜歡你#live",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳慶隆"
           },
           "titleZh": "喜歡你 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "喜歡你#live"
         },
         {
           "index": 5,
@@ -5252,32 +5383,32 @@
           "playsText": "播放次數：2717",
           "duration": 273,
           "byOther": false,
-          "nameKey": "擔心#live",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "許環良"
           },
           "titleZh": "擔心 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "擔心#live"
         },
         {
           "index": 6,
           "title": "看月亮 - ​想像空間 Live 版",
           "artists": "",
           "videoId": "6GRLYkELivY",
-          "plays": 1585,
-          "playsText": "播放次數：1585",
+          "plays": 1586,
+          "playsText": "播放次數：1586",
           "duration": 324,
           "byOther": false,
-          "nameKey": "看月亮#live",
           "credits": {
             "lyrics": "梁文福",
             "music": "潘協慶",
             "arranger": "袁少文"
           },
           "titleZh": "看月亮 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "看月亮#live"
         },
         {
           "index": 7,
@@ -5288,14 +5419,14 @@
           "playsText": "播放次數：5.4萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "心痛#live",
           "credits": {
             "lyrics": "林秋離",
             "music": "許環良",
             "arranger": "許環良"
           },
           "titleZh": "心痛 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "心痛#live"
         },
         {
           "index": 8,
@@ -5306,32 +5437,32 @@
           "playsText": "播放次數：2764",
           "duration": 290,
           "byOther": false,
-          "nameKey": "炫耀#live",
           "credits": {
             "lyrics": "陳曉娟",
             "music": "陳曉娟",
             "arranger": "涂惠源"
           },
           "titleZh": "炫耀 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "炫耀#live"
         },
         {
           "index": 9,
           "title": "心動 - ​想像空間 Live 版 (合作演出：葉良俊)",
           "artists": "",
           "videoId": "I1M5Pm6Sllk",
-          "plays": 4244,
-          "playsText": "播放次數：4244",
+          "plays": 4242,
+          "playsText": "播放次數：4242",
           "duration": 238,
           "byOther": false,
-          "nameKey": "心動#live",
           "credits": {
             "lyrics": "林夕",
             "music": "黃韻玲",
             "arranger": "趙增熹"
           },
           "titleZh": "心動 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "心動#live"
         },
         {
           "index": 10,
@@ -5353,8 +5484,8 @@
           "playsText": "播放次數：1866",
           "duration": 157,
           "byOther": false,
-          "nameKey": "想像空間live版#live",
-          "titleZh": "​想像空間 Live 版"
+          "titleZh": "​想像空間 Live 版",
+          "nameKey": "想像空間live版#live"
         }
       ],
       "releaseDate": null,
@@ -5471,14 +5602,14 @@
           "playsText": "播放次數：1076",
           "duration": 305,
           "byOther": false,
-          "nameKey": "著迷#live",
           "credits": {
             "lyrics": "潘協慶",
             "music": "潘協慶",
             "arranger": "馮文甫"
           },
           "titleZh": "著迷 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "著迷#live"
         },
         {
           "index": 2,
@@ -5489,73 +5620,83 @@
           "playsText": "播放次數：689",
           "duration": 113,
           "byOther": false,
+          "titleZh": "著迷演唱會 (Live)",
           "nameKey": "著迷演唱會#live",
-          "titleZh": "著迷演唱會 (Live)"
+          "credits": {
+            "lyrics": "黃桂蘭",
+            "music": "吳旭文",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 3,
           "title": "尚好的青春 - 著迷演唱會 (Live)",
           "artists": "",
           "videoId": "0BPm1fdHbmU",
-          "plays": 522,
-          "playsText": "播放次數：522",
+          "plays": 529,
+          "playsText": "播放次數：529",
           "duration": 308,
           "byOther": false,
+          "titleZh": "著迷演唱會 (Live)",
           "nameKey": "著迷演唱會#live",
-          "titleZh": "著迷演唱會 (Live)"
+          "credits": {
+            "lyrics": "黃桂蘭",
+            "music": "吳旭文",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 4,
           "title": "拔河 - 著迷演唱會 (Live)",
           "artists": "",
           "videoId": "VvllJ9CVM9g",
-          "plays": 458,
-          "playsText": "播放次數：458",
+          "plays": 459,
+          "playsText": "播放次數：459",
           "duration": 236,
           "byOther": false,
-          "nameKey": "拔河#live",
           "credits": {
             "lyrics": "李姚",
             "music": "潘協慶",
             "arranger": "Jonathon Lim"
           },
           "titleZh": "拔河 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "拔河#live"
         },
         {
           "index": 5,
           "title": "担心 - 著迷演唱會 (Live)",
           "artists": "",
           "videoId": "8ruAqbEG-3M",
-          "plays": 416,
-          "playsText": "播放次數：416",
+          "plays": 417,
+          "playsText": "播放次數：417",
           "duration": 260,
           "byOther": false,
-          "nameKey": "擔心#live",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "許環良"
           },
           "titleZh": "擔心 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "擔心#live"
         },
         {
           "index": 6,
           "title": "入戲太深 - 著迷演唱會 (Live)",
           "artists": "",
           "videoId": "Tu00IiDm_Qc",
-          "plays": 468,
-          "playsText": "播放次數：468",
+          "plays": 469,
+          "playsText": "播放次數：469",
           "duration": 288,
           "byOther": false,
-          "nameKey": "著迷演唱會#live",
           "credits": {
             "lyrics": "黃桂蘭",
             "music": "吳旭文",
             "arranger": "鍾興民"
           },
-          "titleZh": "著迷演唱會 (Live)"
+          "titleZh": "著迷演唱會 (Live)",
+          "nameKey": "著迷演唱會#live"
         },
         {
           "index": 7,
@@ -5566,73 +5707,83 @@
           "playsText": "播放次數：287",
           "duration": 238,
           "byOther": false,
-          "nameKey": "著迷演唱會#live"
+          "nameKey": "著迷演唱會#live",
+          "credits": {
+            "lyrics": "黃桂蘭",
+            "music": "吳旭文",
+            "arranger": "鍾興民"
+          }
         },
         {
           "index": 8,
           "title": "傷了和氣 - 著迷演唱會 (Live)",
           "artists": "",
           "videoId": "pRo8j3Eh-wg",
-          "plays": 341,
-          "playsText": "播放次數：341",
+          "plays": 342,
+          "playsText": "播放次數：342",
           "duration": 252,
           "byOther": false,
-          "nameKey": "傷了和氣#live",
           "credits": {
             "lyrics": "許常德",
             "music": "許環良",
             "arranger": "Joe Curiale"
           },
           "titleZh": "傷了和氣 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "傷了和氣#live"
         },
         {
           "index": 9,
           "title": "心動 - 著迷演唱會 (Live)",
           "artists": "",
           "videoId": "4rXIwOrFr8k",
-          "plays": 577,
-          "playsText": "播放次數：577",
+          "plays": 579,
+          "playsText": "播放次數：579",
           "duration": 245,
           "byOther": false,
-          "nameKey": "心動#live",
           "credits": {
             "lyrics": "林夕",
             "music": "黃韻玲",
             "arranger": "趙增熹"
           },
           "titleZh": "心動 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "心動#live"
         },
         {
           "index": 10,
           "title": "天冷就回來 - 著迷演唱會 (Live)",
           "artists": "",
           "videoId": "AmZUQrhNfaw",
-          "plays": 406,
-          "playsText": "播放次數：406",
+          "plays": 408,
+          "playsText": "播放次數：408",
           "duration": 316,
           "byOther": false,
-          "nameKey": "天冷就回來#live",
           "credits": {
             "lyrics": "梁文福",
             "music": "梁文福",
             "arranger": "吳劍泓"
           },
           "titleZh": "天冷就回來 (Live)",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "天冷就回來#live"
         },
         {
           "index": 11,
           "title": "家/Home - 著迷演唱會 (Live)",
           "artists": "",
           "videoId": "MWZEfZ5Np00",
-          "plays": 308,
-          "playsText": "播放次數：308",
+          "plays": 309,
+          "playsText": "播放次數：309",
           "duration": 286,
           "byOther": false,
+          "titleZh": "著迷演唱會 (Live)",
           "nameKey": "著迷演唱會#live",
-          "titleZh": "著迷演唱會 (Live)"
+          "credits": {
+            "lyrics": "黃桂蘭",
+            "music": "吳旭文",
+            "arranger": "鍾興民"
+          }
         }
       ],
       "releaseDate": null,

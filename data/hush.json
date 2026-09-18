@@ -2,13 +2,59 @@
   "slug": "hush",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T21:12:35.768Z",
+  "fetchedAt": "2026-09-18T00:49:50.330Z",
   "artist": {
     "channelId": "UCbWVjBuVDZaVf3kDlUBud8w",
     "name": "hush!",
     "thumbnail": "https://yt3.googleusercontent.com/hGDUR7XE5mH5rWV7JtFfOdcw2pSMHEHtK56pa_ObgVd8-NHKuj_Y6IjdVrkCr9n_YFLW3_61JA=w1242-h517-l90-rj-dcDaKUUL0H",
     "subscribers": 10000,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "HUSH [ 我在原地等你 Here I Wait ] OFFICIAL MV",
+        "videoId": "eUsZx-hXuiU"
+      },
+      {
+        "title": "衣櫃歌手(2021)",
+        "videoId": "T4yniH6jPs8"
+      },
+      {
+        "title": "當我們談論愛情",
+        "videoId": "EuC2Lrrferk"
+      },
+      {
+        "title": "都會愛情三角習題",
+        "videoId": "t8euZ3pidtI"
+      },
+      {
+        "title": "HUSH with 洪佩瑜 Pei-Yu Hung [ 同款 ] Official Live Video",
+        "videoId": "N_66N4CdH2s"
+      },
+      {
+        "title": "不要靠近",
+        "videoId": "nPW02GMzf1E"
+      },
+      {
+        "title": "娛樂自己",
+        "videoId": "4OtYIt-yOCI"
+      },
+      {
+        "title": "HUSH [ 成人 Embryo ] OFFICIAL MV",
+        "videoId": "p72oz7EV97U"
+      },
+      {
+        "title": "練習說再見",
+        "videoId": "j_7uU6ceSDM"
+      },
+      {
+        "title": "支線任務",
+        "videoId": "CyqQP0hDhV8"
+      },
+      {
+        "title": "大樹小花",
+        "videoId": "-BPGJyM_kxE"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/Bn34XrmwdmiAl5UKaGnLhJ9QFR6wDqxXPjxMdIIm9276hU_iIL-BIiFj9KP0OQnCiM3FPrc4nI8=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -538,7 +584,8 @@
           "playsText": "播放次數：16萬",
           "duration": 177,
           "byOther": false,
-          "nameKey": "練習說再見"
+          "nameKey": "練習說再見",
+          "mv": "j_7uU6ceSDM"
         }
       ],
       "releaseDate": null,
@@ -594,7 +641,8 @@
           "playsText": "播放次數：109萬",
           "duration": 194,
           "byOther": false,
-          "nameKey": "支線任務"
+          "nameKey": "支線任務",
+          "mv": "CyqQP0hDhV8"
         }
       ],
       "releaseDate": null,
@@ -627,7 +675,8 @@
             "music": "HUSH（除〈都會戀愛三角習題〉作詞為葛大為、〈不要靠近〉與鍾興民共同譜曲）",
             "arranger": "徐研培、陳建騏"
           },
-          "nameKey": "衣櫃歌手"
+          "nameKey": "衣櫃歌手",
+          "mv": "T4yniH6jPs8"
         }
       ],
       "releaseDate": "2022-01-01",
@@ -660,7 +709,8 @@
             "music": "HUSH（除〈都會戀愛三角習題〉作詞為葛大為、〈不要靠近〉與鍾興民共同譜曲）",
             "arranger": "亀田誠治"
           },
-          "nameKey": "娛樂自己"
+          "nameKey": "娛樂自己",
+          "mv": "4OtYIt-yOCI"
         },
         {
           "index": 2,
@@ -703,7 +753,8 @@
           "playsText": "播放次數：55萬",
           "duration": 217,
           "byOther": false,
-          "nameKey": "都會愛情三角習題"
+          "nameKey": "都會愛情三角習題",
+          "mv": "t8euZ3pidtI"
         },
         {
           "index": 5,
@@ -735,7 +786,8 @@
             "music": "HUSH（除〈都會戀愛三角習題〉作詞為葛大為、〈不要靠近〉與鍾興民共同譜曲）",
             "arranger": "徐研培、陳建騏"
           },
-          "nameKey": "衣櫃歌手"
+          "nameKey": "衣櫃歌手",
+          "mv": "T4yniH6jPs8"
         },
         {
           "index": 7,
@@ -799,7 +851,8 @@
             "music": "HUSH（除〈都會戀愛三角習題〉作詞為葛大為、〈不要靠近〉與鍾興民共同譜曲）",
             "arranger": "鍾興民"
           },
-          "nameKey": "不要靠近"
+          "nameKey": "不要靠近",
+          "mv": "nPW02GMzf1E"
         },
         {
           "index": 11,
@@ -815,7 +868,8 @@
             "music": "HUSH（除〈都會戀愛三角習題〉作詞為葛大為、〈不要靠近〉與鍾興民共同譜曲）",
             "arranger": "陳建騏、羅恩妮"
           },
-          "nameKey": "衣櫃歌手"
+          "nameKey": "衣櫃歌手",
+          "mv": "T4yniH6jPs8"
         }
       ],
       "releaseDate": "2022-12-15",
@@ -927,7 +981,8 @@
           "playsText": "播放次數：13萬",
           "duration": 232,
           "byOther": false,
-          "nameKey": "當我們談論愛情"
+          "nameKey": "當我們談論愛情",
+          "mv": "EuC2Lrrferk"
         }
       ],
       "releaseDate": null,

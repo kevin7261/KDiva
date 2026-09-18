@@ -2,13 +2,119 @@
   "slug": "kumachan",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T21:13:37.880Z",
+  "fetchedAt": "2026-09-18T00:54:00.286Z",
   "artist": {
     "channelId": "UCrxZ8selwnTadeJMwLqH8CQ",
     "name": "熊仔",
     "thumbnail": "https://lh3.googleusercontent.com/Eri975Igs7xl7f7ndlTzPbzFduwKgVpikbx8QnFQ6McgPzaz81JJwtNzFNtXzRaqYl8oUezhUWaSHms=w2880-h1200-p-l90-rj",
     "subscribers": 135000,
     "monthlyAudience": 105000,
+    "videos": [
+      {
+        "title": "買榜",
+        "videoId": "W-H6v6b1hu4"
+      },
+      {
+        "title": "88bars",
+        "videoId": "B1tArM5XYuc"
+      },
+      {
+        "title": "兇宅→0",
+        "videoId": "mCdk8reqNGg"
+      },
+      {
+        "title": "能火",
+        "videoId": "_SoARWAcMU8"
+      },
+      {
+        "title": "禁愛令",
+        "videoId": "pVe7e8ppXN0"
+      },
+      {
+        "title": "才子",
+        "videoId": "3mek5lWJsO4"
+      },
+      {
+        "title": "星座學家 (合作演出：9m88)",
+        "videoId": "Tca7G95LgFc"
+      },
+      {
+        "title": "假朋友真兄弟",
+        "videoId": "08Ca5FAxThg"
+      },
+      {
+        "title": "哥 (合作演出：POPO J和ADEN)",
+        "videoId": "B77py9Zw96k"
+      },
+      {
+        "title": "自信 (合作演出：Mark Pelli和rohan mills)",
+        "videoId": "ebEd3zSzUi0"
+      },
+      {
+        "title": "流水帳",
+        "videoId": "ptDaZVWExso"
+      },
+      {
+        "title": "BOWZ 豹子膽 -【給愛麗絲 Für Elise】",
+        "videoId": "5XNVKSD3IhE"
+      },
+      {
+        "title": "夢中夢 (合作演出：小宇)",
+        "videoId": "PSZWw6ykxNY"
+      },
+      {
+        "title": "遺書→0 (合作演出：Flesh Juicer)",
+        "videoId": "8FMwWsHJAko"
+      },
+      {
+        "title": "風頭上 (合作演出：PiNkChAiN)",
+        "videoId": "AAjNEaQcWGQ"
+      },
+      {
+        "title": "存活 (合作演出：BR和李松樺)",
+        "videoId": "eDeDYh6RECE"
+      },
+      {
+        "title": "歸零→0 (合作演出：Joanna Wang)",
+        "videoId": "3757U0NDTzY"
+      },
+      {
+        "title": "熊仔 Kumachan -【陪你過假日 Weekends with you】(feat. 9m88) Live Video",
+        "videoId": "QQp7TAP8qc4"
+      },
+      {
+        "title": "十字路口→0 (合作演出：阿蘭 AC)",
+        "videoId": "T96pXRRaF0Y"
+      },
+      {
+        "title": "羞羞臉",
+        "videoId": "52teikOwGzE"
+      },
+      {
+        "title": "成",
+        "videoId": "WwY7yXdvOSQ"
+      },
+      {
+        "title": "熊仔 Presents BOWZ CHOOSE WISELY -【禁愛令 Antilove】MV & ARG解析影片",
+        "videoId": "p7uSAHqL5kc"
+      },
+      {
+        "title": "哥 (合作演出：POPO J和ADEN)",
+        "videoId": "8tD_4AlWH64"
+      },
+      {
+        "title": "熊仔 Kumachan - PRO MAX 2022 Live Concert 演唱會紀錄",
+        "videoId": "mEnhH9g4NEo"
+      },
+      {
+        "title": "【Makingof夢想成真 神視角幕後花絮 vol.5】 (合作演出：小宇)",
+        "videoId": "YdTbppUEugw"
+      },
+      {
+        "title": "能火",
+        "videoId": "H-J3n7Xp4TU"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/D4iaPmkA5zpazxDED0JvGmsa0yQ_u9pKHBwI2uSPyi8CIVAbb0I0xXnkcqd1rCwK2wmkmX6aYg=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -230,7 +336,8 @@
           "playsText": "播放次數：3588萬",
           "duration": 231,
           "byOther": false,
-          "nameKey": "買榜"
+          "nameKey": "買榜",
+          "mv": "W-H6v6b1hu4"
         }
       ],
       "releaseDate": "2017-01-01",
@@ -313,7 +420,8 @@
           "playsText": "播放次數：623萬",
           "duration": 286,
           "byOther": false,
-          "nameKey": "禁愛令"
+          "nameKey": "禁愛令",
+          "mv": "pVe7e8ppXN0"
         },
         {
           "index": 4,
@@ -335,7 +443,8 @@
           "playsText": "播放次數：285萬",
           "duration": 285,
           "byOther": false,
-          "nameKey": "假朋友眞兄弟"
+          "nameKey": "假朋友眞兄弟",
+          "mv": "08Ca5FAxThg"
         },
         {
           "index": 6,
@@ -362,7 +471,8 @@
           "playsText": "播放次數：176萬",
           "duration": 293,
           "byOther": false,
-          "nameKey": "夢中夢"
+          "nameKey": "夢中夢",
+          "mv": "PSZWw6ykxNY"
         },
         {
           "index": 8,
@@ -428,7 +538,8 @@
           "playsText": "播放次數：2萬",
           "duration": 84,
           "byOther": false,
-          "nameKey": "成"
+          "nameKey": "成",
+          "mv": "WwY7yXdvOSQ"
         },
         {
           "index": 14,
@@ -467,7 +578,8 @@
           "playsText": "播放次數：83萬",
           "duration": 213,
           "byOther": false,
-          "nameKey": "羞羞臉"
+          "nameKey": "羞羞臉",
+          "mv": "52teikOwGzE"
         }
       ],
       "releaseDate": "2020-01-01",
@@ -495,7 +607,8 @@
           "playsText": "播放次數：801萬",
           "duration": 179,
           "byOther": false,
-          "nameKey": "88bars"
+          "nameKey": "88bars",
+          "mv": "B1tArM5XYuc"
         }
       ],
       "releaseDate": "2021-01-01",
@@ -551,7 +664,8 @@
           "playsText": "播放次數：107萬",
           "duration": 264,
           "byOther": false,
-          "nameKey": "自信"
+          "nameKey": "自信",
+          "mv": "ebEd3zSzUi0"
         },
         {
           "index": 2,
@@ -562,7 +676,8 @@
           "playsText": "播放次數：205萬",
           "duration": 243,
           "byOther": false,
-          "nameKey": "星座學家"
+          "nameKey": "星座學家",
+          "mv": "Tca7G95LgFc"
         },
         {
           "index": 3,
@@ -617,7 +732,8 @@
           "playsText": "播放次數：17萬",
           "duration": 185,
           "byOther": false,
-          "nameKey": "風頭上"
+          "nameKey": "風頭上",
+          "mv": "AAjNEaQcWGQ"
         },
         {
           "index": 8,
@@ -628,7 +744,8 @@
           "playsText": "播放次數：205萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "哥"
+          "nameKey": "哥",
+          "mv": "B77py9Zw96k"
         },
         {
           "index": 9,
@@ -661,7 +778,8 @@
           "playsText": "播放次數：316萬",
           "duration": 223,
           "byOther": false,
-          "nameKey": "能火"
+          "nameKey": "能火",
+          "mv": "_SoARWAcMU8"
         },
         {
           "index": 12,
@@ -672,7 +790,8 @@
           "playsText": "播放次數：154萬",
           "duration": 241,
           "byOther": false,
-          "nameKey": "才子"
+          "nameKey": "才子",
+          "mv": "3mek5lWJsO4"
         },
         {
           "index": 13,
@@ -722,7 +841,8 @@
           "playsText": "播放次數：205萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "哥"
+          "nameKey": "哥",
+          "mv": "B77py9Zw96k"
         }
       ],
       "releaseDate": null,
@@ -750,7 +870,8 @@
           "playsText": "播放次數：205萬",
           "duration": 243,
           "byOther": false,
-          "nameKey": "星座學家"
+          "nameKey": "星座學家",
+          "mv": "Tca7G95LgFc"
         }
       ],
       "releaseDate": null,
@@ -778,7 +899,8 @@
           "playsText": "播放次數：107萬",
           "duration": 264,
           "byOther": false,
-          "nameKey": "自信"
+          "nameKey": "自信",
+          "mv": "ebEd3zSzUi0"
         }
       ],
       "releaseDate": null,
@@ -806,7 +928,8 @@
           "playsText": "播放次數：80萬",
           "duration": 231,
           "byOther": false,
-          "nameKey": "流水帳"
+          "nameKey": "流水帳",
+          "mv": "ptDaZVWExso"
         }
       ],
       "releaseDate": "2023-01-01",
@@ -834,7 +957,8 @@
           "playsText": "播放次數：35萬",
           "duration": 196,
           "byOther": false,
-          "nameKey": "存活"
+          "nameKey": "存活",
+          "mv": "eDeDYh6RECE"
         }
       ],
       "releaseDate": null,
@@ -956,7 +1080,8 @@
           "playsText": "播放次數：59萬",
           "duration": 244,
           "byOther": false,
-          "nameKey": "兇宅0"
+          "nameKey": "兇宅0",
+          "mv": "mCdk8reqNGg"
         },
         {
           "index": 7,
@@ -967,7 +1092,8 @@
           "playsText": "播放次數：8.3萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "10字路口0"
+          "nameKey": "10字路口0",
+          "mv": "T96pXRRaF0Y"
         },
         {
           "index": 8,
@@ -989,7 +1115,8 @@
           "playsText": "播放次數：12萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "遺書0"
+          "nameKey": "遺書0",
+          "mv": "8FMwWsHJAko"
         },
         {
           "index": 10,
@@ -1000,7 +1127,8 @@
           "playsText": "播放次數：9.8萬",
           "duration": 197,
           "byOther": false,
-          "nameKey": "歸零0"
+          "nameKey": "歸零0",
+          "mv": "3757U0NDTzY"
         },
         {
           "index": 11,
@@ -1050,7 +1178,8 @@
           "playsText": "播放次數：59萬",
           "duration": 244,
           "byOther": false,
-          "nameKey": "兇宅0"
+          "nameKey": "兇宅0",
+          "mv": "mCdk8reqNGg"
         }
       ],
       "releaseDate": null,
@@ -1078,7 +1207,8 @@
           "playsText": "播放次數：8.3萬",
           "duration": 266,
           "byOther": false,
-          "nameKey": "10字路口0"
+          "nameKey": "10字路口0",
+          "mv": "T96pXRRaF0Y"
         }
       ],
       "releaseDate": null,
@@ -1106,7 +1236,8 @@
           "playsText": "播放次數：12萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "遺書0"
+          "nameKey": "遺書0",
+          "mv": "8FMwWsHJAko"
         }
       ],
       "releaseDate": null,

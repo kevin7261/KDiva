@@ -1,0 +1,49 @@
+{
+  "slug": "anna-wang",
+  "fetchedAt": "2026-09-18T01:04:55.827Z",
+  "wiki": "王瑞霞 (歌手)",
+  "bio": {
+    "born": {
+      "date": "1968-09-26",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "姬情臺三線演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2017-11-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2017-11-19",
+        "precision": "day"
+      },
+      "showCount": 1,
+      "regions": [
+        "臺灣"
+      ],
+      "cities": [],
+      "venues": [
+        "三創數位生活園區"
+      ],
+      "shows": [
+        {
+          "date": "2017-11-19",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "",
+          "venue": "三創數位生活園區",
+          "lat": 25.04527778,
+          "lon": 121.53102778,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
+}

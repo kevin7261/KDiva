@@ -2,13 +2,47 @@
   "slug": "huang-chia-chien",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T18:02:08.182Z",
+  "fetchedAt": "2026-09-18T00:26:12.857Z",
   "artist": {
     "channelId": "UC7iuJZ8HycV7sO6M7_hXMyg",
     "name": "黃嘉千",
     "thumbnail": "https://yt3.googleusercontent.com/DS6gYIDsGhWWO_SR6NJ0WlTgb62wOlIk-FYghyafnmH48i1GTuo7N8zfS_a8Hl5S_T-a5oRUKv7O4L6N=w1440-h600-p-l90-rj",
     "subscribers": 42,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "杜德偉 & 黃嘉千- 愛都給我",
+        "videoId": "70VYns1s9gI"
+      },
+      {
+        "title": "我們都要",
+        "videoId": "j04JRPHMqsg"
+      },
+      {
+        "title": "愛已昇天",
+        "videoId": "gO1jSlqS45I"
+      },
+      {
+        "title": "黃嘉千-沒想到 [動態歌詞] Lyrics 作詞：陸泓宇/鄭淑妃  作曲：陳傑洲 編曲：Jenny Chin 出自專輯 : 愛都給我",
+        "videoId": "tXFyli1AxFY"
+      },
+      {
+        "title": "I Can Fly",
+        "videoId": "BYOWv8wwnWw"
+      },
+      {
+        "title": "快樂難找",
+        "videoId": "nwXMkaZSCT4"
+      },
+      {
+        "title": "威視電影【老大人】宣傳曲「阿爸食飯」MV (3.22 爸，你好嗎)",
+        "videoId": "lutLZfPCLck"
+      },
+      {
+        "title": "黃嘉千 - 我們都要 KTV",
+        "videoId": "ax43MBk9vfc"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/3eeiSMtziLeU3bFlqyIv2A2oTbSaN0UUinLQMlQkHJu8nVCV9T39FHDhYvNCaycHQy5SNnKgjKQ=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -30,7 +64,8 @@
           "playsText": "播放次數：15萬",
           "duration": 233,
           "byOther": false,
-          "nameKey": "愛已昇天"
+          "nameKey": "愛已昇天",
+          "mv": "gO1jSlqS45I"
         }
       ],
       "releaseDate": "2000-01-01",
@@ -58,7 +93,8 @@
           "playsText": "播放次數：23萬",
           "duration": 224,
           "byOther": false,
-          "nameKey": "我們都要"
+          "nameKey": "我們都要",
+          "mv": "j04JRPHMqsg"
         },
         {
           "index": 2,
@@ -69,7 +105,8 @@
           "playsText": "播放次數：15萬",
           "duration": 233,
           "byOther": false,
-          "nameKey": "愛已昇天"
+          "nameKey": "愛已昇天",
+          "mv": "gO1jSlqS45I"
         },
         {
           "index": 3,
@@ -80,7 +117,8 @@
           "playsText": "播放次數：2萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "快樂難找"
+          "nameKey": "快樂難找",
+          "mv": "nwXMkaZSCT4"
         },
         {
           "index": 4,
@@ -113,15 +151,16 @@
           "playsText": "播放次數：1.5萬",
           "duration": 200,
           "byOther": false,
-          "nameKey": "icanfly"
+          "nameKey": "icanfly",
+          "mv": "BYOWv8wwnWw"
         },
         {
           "index": 7,
           "title": "誰忘了愛我",
           "artists": "",
           "videoId": "HXsm35AuvUI",
-          "plays": 1446,
-          "playsText": "播放次數：1446",
+          "plays": 1450,
+          "playsText": "播放次數：1450",
           "duration": 313,
           "byOther": false,
           "nameKey": "誰忘了愛我"

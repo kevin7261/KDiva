@@ -2,13 +2,99 @@
   "slug": "chen-hsiao-hsia",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T17:57:57.746Z",
+  "fetchedAt": "2026-09-17T23:37:08.988Z",
   "artist": {
     "channelId": "UCy-kBHDxcbI557rchz5mqcg",
     "name": "陳小霞",
     "thumbnail": "https://yt3.googleusercontent.com/-S-mWZpWTIS5Xf-JQ5jVl_NGNppJF4ndf0b2QgrBN6qeeclRwnXSUSi_oGv07927Btqs835mnnE7sM9UgQ=w2880-h1200-p-l90-rj",
     "subscribers": 938,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "老翅膀",
+        "videoId": "h_hmIL2b1Tc"
+      },
+      {
+        "title": "還活著",
+        "videoId": "j7D8WnBD7Lw"
+      },
+      {
+        "title": "查無此人",
+        "videoId": "X5N1bmR3Jjs"
+      },
+      {
+        "title": "11歲神童鄧品硯飆唱《傀儡尪仔》許常德：完美詮釋人生的味道｜超級紅人榜｜三立娛樂星聞",
+        "videoId": "fGjn6oYwCOc"
+      },
+      {
+        "title": "鄧品硯 - 魚(陳小霞)｜純享版｜超級紅人榜｜112.09.17",
+        "videoId": "WBE-1qo83OA"
+      },
+      {
+        "title": "聽歌的人",
+        "videoId": "HIPa7mwZGMg"
+      },
+      {
+        "title": "陳小霞=本來（字幕MV）",
+        "videoId": "mNrcYmbxHb0"
+      },
+      {
+        "title": "陳小霞=只是老了一點（字幕MV）",
+        "videoId": "NJoFbHkVvlE"
+      },
+      {
+        "title": "林俊逸 黃韻玲 _傀儡尪仔 @音樂萬萬歲3",
+        "videoId": "TMkq0nA6cHE"
+      },
+      {
+        "title": "《老翅膀》陳小霞睽違14年專場生日開唱！「最特別的朋友」陳奕迅驚喜現身擁抱+飛吻💋💋",
+        "videoId": "PDiWYErbcRY"
+      },
+      {
+        "title": "陈小霞《苦果》， 林青霞、秦汉、张曼玉、吴耀汉 《滚滚红尘》",
+        "videoId": "mMRY6eGQN0Y"
+      },
+      {
+        "title": "哈雷媽媽",
+        "videoId": "UWBh7MX0u6I"
+      },
+      {
+        "title": "聽歌的人 by 萬芳",
+        "videoId": "eVENv-ETtgY"
+      },
+      {
+        "title": "陳小霞 Salsa Chen〈錯過 Missed〉Visualizer",
+        "videoId": "mP7DDHPqJpU"
+      },
+      {
+        "title": "陳小霞 Salsa Chen〈只是老了一點 Just a Bit Older〉Visualizer",
+        "videoId": "iytzQIcvrRA"
+      },
+      {
+        "title": "陳小霞 Salsa Chen〈老翅膀 Worn Wings〉Visualizer",
+        "videoId": "3-JA3fVi1uw"
+      },
+      {
+        "title": "陳小霞 Salsa Chen〈請進 Coming Please〉Visualizer",
+        "videoId": "lEG-bh6QxGo"
+      },
+      {
+        "title": "陳小霞 Salsa Chen〈地圖沒有的地方 Elysium〉Visualizer",
+        "videoId": "KbpuOnk918Q"
+      },
+      {
+        "title": "陳小霞 Salsa Chen〈浮木 Driftwood〉Visualizer",
+        "videoId": "hMyTa3hFk4M"
+      },
+      {
+        "title": "陳小霞 Salsa Chen〈本來 Origin〉Visualizer",
+        "videoId": "ZjGGnRUwmCg"
+      },
+      {
+        "title": "陳小霞／03 媽媽心內有一條歌 (簡單生活節 2010.12.05.)",
+        "videoId": "n4AdUQswWpc"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/KDqPknc7PAvNmRDSFMo01hvgsH-pgZnjKP_c7oWwfnwEdqkCUvzegflaB1RMApn2ED6dvZA7Vwk=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -30,7 +116,8 @@
           "playsText": "播放次數：4965",
           "duration": 262,
           "byOther": false,
-          "nameKey": "苦果"
+          "nameKey": "苦果",
+          "mv": "mMRY6eGQN0Y"
         },
         {
           "index": 2,
@@ -52,7 +139,8 @@
           "playsText": "播放次數：13萬",
           "duration": 264,
           "byOther": false,
-          "nameKey": "查無此人"
+          "nameKey": "查無此人",
+          "mv": "X5N1bmR3Jjs"
         },
         {
           "index": 4,
@@ -63,7 +151,8 @@
           "playsText": "播放次數：4731",
           "duration": 264,
           "byOther": false,
-          "nameKey": "哈雷媽媽"
+          "nameKey": "哈雷媽媽",
+          "mv": "UWBh7MX0u6I"
         },
         {
           "index": 5,
@@ -168,12 +257,13 @@
           "playsText": "播放次數：18萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "還活著",
           "credits": {
             "lyrics": "陳小霞、李子恆"
           },
           "titleZh": "還活著",
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "還活著",
+          "mv": "j7D8WnBD7Lw"
         }
       ],
       "releaseDate": "2020-01-01",
@@ -212,15 +302,16 @@
           "playsText": "播放次數：30萬",
           "duration": 300,
           "byOther": false,
-          "nameKey": "老翅膀"
+          "nameKey": "老翅膀",
+          "mv": "h_hmIL2b1Tc"
         },
         {
           "index": 3,
           "title": "浮木",
           "artists": "",
           "videoId": "rgmT0gTRdb0",
-          "plays": 9963,
-          "playsText": "播放次數：9963",
+          "plays": 9970,
+          "playsText": "播放次數：9970",
           "duration": 251,
           "byOther": false,
           "nameKey": "浮木"
@@ -245,18 +336,19 @@
           "playsText": "播放次數：18萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "還活著",
           "credits": {
             "lyrics": "陳小霞、李子恆"
-          }
+          },
+          "nameKey": "還活著",
+          "mv": "j7D8WnBD7Lw"
         },
         {
           "index": 6,
           "title": "請進",
           "artists": "",
           "videoId": "fUz0ZFoN8SA",
-          "plays": 5440,
-          "playsText": "播放次數：5440",
+          "plays": 5441,
+          "playsText": "播放次數：5441",
           "duration": 290,
           "byOther": false,
           "nameKey": "請進"
@@ -266,8 +358,8 @@
           "title": "眼淚的死亡",
           "artists": "",
           "videoId": "AsQl9775xP8",
-          "plays": 8281,
-          "playsText": "播放次數：8281",
+          "plays": 8283,
+          "playsText": "播放次數：8283",
           "duration": 305,
           "byOther": false,
           "nameKey": "眼淚的死亡"

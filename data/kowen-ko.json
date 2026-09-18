@@ -2,13 +2,51 @@
   "slug": "kowen-ko",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T22:51:47.056Z",
+  "fetchedAt": "2026-09-18T00:54:52.369Z",
   "artist": {
     "channelId": "UCoN-Zm473fCcBzNIxPwM2Aw",
     "name": "柯智棠",
     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mbMh4OFPhXbKg2YMr0MqqfB2TTZEgocHjNTpGACNKuFA=w2880-h1200-l90-rj-dcrSWQzhkK",
     "subscribers": 22200,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "It Was May",
+        "videoId": "f5YGicz_Mpw"
+      },
+      {
+        "title": "你不真的想流浪",
+        "videoId": "kQaF9vYO0Bw"
+      },
+      {
+        "title": "Goodbye & Goodnight(英文版)",
+        "videoId": "v_vwTPJ7i9k"
+      },
+      {
+        "title": "快樂的虛無主義者",
+        "videoId": "A11u-J6r2Fc"
+      },
+      {
+        "title": "Down Oh Down",
+        "videoId": "p4wZONQtcqc"
+      },
+      {
+        "title": "Me and My Candy House",
+        "videoId": "r15Ux-jWguY"
+      },
+      {
+        "title": "無傷大雅的瘋狂",
+        "videoId": "EIPBhR43OAw"
+      },
+      {
+        "title": "荒謬",
+        "videoId": "S2aaXhC8KV8"
+      },
+      {
+        "title": "a demo",
+        "videoId": "mTiolBg6f10"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/ld-KMLTnWyy6R279NB1ZqhGWuMxvVe5h_YojfSAH45vuN46WuOatX1f8RzVGwp6C15gCx6A2=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -30,7 +68,8 @@
           "playsText": "播放次數：122萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "itwasmay"
+          "nameKey": "itwasmay",
+          "mv": "f5YGicz_Mpw"
         },
         {
           "index": 2,
@@ -41,7 +80,8 @@
           "playsText": "播放次數：3.2萬",
           "duration": 409,
           "byOther": false,
-          "nameKey": "goodbyegoodnight"
+          "nameKey": "goodbyegoodnight",
+          "mv": "v_vwTPJ7i9k"
         },
         {
           "index": 3,
@@ -52,7 +92,8 @@
           "playsText": "播放次數：11萬",
           "duration": 295,
           "byOther": false,
-          "nameKey": "meandmycandyhouse"
+          "nameKey": "meandmycandyhouse",
+          "mv": "r15Ux-jWguY"
         },
         {
           "index": 4,
@@ -63,7 +104,8 @@
           "playsText": "播放次數：31萬",
           "duration": 204,
           "byOther": false,
-          "nameKey": "downohdown"
+          "nameKey": "downohdown",
+          "mv": "p4wZONQtcqc"
         },
         {
           "index": 5,
@@ -74,7 +116,8 @@
           "playsText": "播放次數：87萬",
           "duration": 319,
           "byOther": false,
-          "nameKey": "你不眞的想流浪"
+          "nameKey": "你不眞的想流浪",
+          "mv": "kQaF9vYO0Bw"
         },
         {
           "index": 6,
@@ -85,7 +128,8 @@
           "playsText": "播放次數：17萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "快樂的虛無主義者"
+          "nameKey": "快樂的虛無主義者",
+          "mv": "A11u-J6r2Fc"
         },
         {
           "index": 7,
@@ -96,7 +140,8 @@
           "playsText": "播放次數：12萬",
           "duration": 205,
           "byOther": false,
-          "nameKey": "荒謬"
+          "nameKey": "荒謬",
+          "mv": "S2aaXhC8KV8"
         },
         {
           "index": 8,
@@ -107,7 +152,8 @@
           "playsText": "播放次數：15萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "無傷大雅的瘋狂"
+          "nameKey": "無傷大雅的瘋狂",
+          "mv": "EIPBhR43OAw"
         },
         {
           "index": 9,
@@ -129,7 +175,8 @@
           "playsText": "播放次數：56萬",
           "duration": 397,
           "byOther": false,
-          "nameKey": "goodbyegoodnight"
+          "nameKey": "goodbyegoodnight",
+          "mv": "v_vwTPJ7i9k"
         }
       ],
       "releaseDate": "2015-08-28",
@@ -185,7 +232,8 @@
           "playsText": "播放次數：122萬",
           "duration": 248,
           "byOther": false,
-          "nameKey": "itwasmay"
+          "nameKey": "itwasmay",
+          "mv": "f5YGicz_Mpw"
         }
       ],
       "releaseDate": null,

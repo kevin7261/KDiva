@@ -2,13 +2,91 @@
   "slug": "comic-boyz",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T13:39:39.098Z",
+  "fetchedAt": "2026-09-18T00:31:11.139Z",
   "artist": {
     "channelId": "UCQHID2V6CiimCjLJYB9dh6g",
     "name": "可米小子",
     "thumbnail": "https://yt3.googleusercontent.com/dcch4mUS-FME-DmvLZkoOq_qlkMot5wDwHlpIm3GRFdcxxshoBIlxSkJQ2xsElmK2opn8XEX2W5S7YRf1g=w1425-h593-p-l90-rj",
     "subscribers": 263,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "青春紀念冊",
+        "videoId": "KdU7lM6ct4A"
+      },
+      {
+        "title": "求愛復刻版",
+        "videoId": "lHnqi3CIjm4"
+      },
+      {
+        "title": "Hey!Hah! (Clean Version)",
+        "videoId": "tsDe4X9OX78"
+      },
+      {
+        "title": "紅蜻蜓",
+        "videoId": "13jVa-C0Z7Q"
+      },
+      {
+        "title": "青春無敵",
+        "videoId": "x_wNr3wg8vI"
+      },
+      {
+        "title": "喜歡你",
+        "videoId": "7nuiejmThnc"
+      },
+      {
+        "title": "好奇無上限",
+        "videoId": "nZffBS_XQ8g"
+      },
+      {
+        "title": "Hold me close",
+        "videoId": "YhoE2lc5ywM"
+      },
+      {
+        "title": "Number 2",
+        "videoId": "IXMdX_aF-a0"
+      },
+      {
+        "title": "愛情不用翻譯",
+        "videoId": "2UWYlBVcsEM"
+      },
+      {
+        "title": "2000s Classic Romance 求愛復刻版 • Comic Boyz 可米小子 | Acoustic Ballad Duet Cover by MetzTone",
+        "videoId": "-D6nX51QsbE"
+      },
+      {
+        "title": "我的野蠻女友",
+        "videoId": "0ZaHa5zhBj8"
+      },
+      {
+        "title": "花季",
+        "videoId": "SWMPryTfZ50"
+      },
+      {
+        "title": "[Vietsub + Kara] Lưu bút thanh xuân - Luân Tang | 青春紀念冊 - 伦桑",
+        "videoId": "PcbG57KKYVg"
+      },
+      {
+        "title": "求愛復刻版 - INTO1伯遠  【播放鷄®】",
+        "videoId": "gN0NC-r3AXA"
+      },
+      {
+        "title": "Qing chun ji nian ce KTV - Ke mi xiao zi - Sổ kỷ niệm thanh xuân - Cosmic boy - 青春纪念册 - 伴奏 - 可米小子",
+        "videoId": "WpRQwl0KeAk"
+      },
+      {
+        "title": "「VIETSUB+KARA」Lưu bút thanh xuân - Luân Tang | 青春纪念册 - 伦桑",
+        "videoId": "zgklUSrwTbE"
+      },
+      {
+        "title": "玄觴 (Xuan Shang) 【YY LIVE 4807】-  求愛復刻版（Artists Singing・Dancing・Instrument Playing・Talent Shows).avi",
+        "videoId": "Rph5iaFCiVQ"
+      },
+      {
+        "title": "林口拍攝MTV-可米小子 求愛復刻版",
+        "videoId": "sJR4vhwG1L0"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/MsLnzZt3TWdoa_AeDc3LhKmQwvSM_Vr1NZaKOfqSAnmA8wyBBYvWgV9h0_M8LGJKT0ZN3AwSfw=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -30,12 +108,13 @@
           "playsText": "播放次數：45萬",
           "duration": 239,
           "byOther": false,
-          "nameKey": "heyhah",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "Manuel Ruiz Queco",
             "arranger": "呂紹淳"
-          }
+          },
+          "nameKey": "heyhah",
+          "mv": "tsDe4X9OX78"
         },
         {
           "index": 2,
@@ -46,12 +125,13 @@
           "playsText": "播放次數：134萬",
           "duration": 257,
           "byOther": false,
-          "nameKey": "求愛復刻版",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "町田紀彥",
             "arranger": "王豫民"
-          }
+          },
+          "nameKey": "求愛復刻版",
+          "mv": "lHnqi3CIjm4"
         },
         {
           "index": 3,
@@ -62,12 +142,12 @@
           "playsText": "播放次數：14萬",
           "duration": 258,
           "byOther": true,
-          "nameKey": "超人心",
           "credits": {
             "lyrics": "張思爾",
             "music": "林俊傑",
             "arranger": "屠穎"
-          }
+          },
+          "nameKey": "超人心"
         },
         {
           "index": 4,
@@ -89,12 +169,12 @@
           "playsText": "播放次數：2.2萬",
           "duration": 296,
           "byOther": true,
-          "nameKey": "我忍住哭",
           "credits": {
             "lyrics": "方文山",
             "music": "徐偉賢",
             "arranger": "陳建騏、鍾成虎"
-          }
+          },
+          "nameKey": "我忍住哭"
         },
         {
           "index": 6,
@@ -105,12 +185,13 @@
           "playsText": "播放次數：8萬",
           "duration": 191,
           "byOther": false,
-          "nameKey": "喜歡你",
           "credits": {
             "lyrics": "陳忠義",
             "music": "陳忠義",
             "arranger": "鍾興民"
-          }
+          },
+          "nameKey": "喜歡你",
+          "mv": "7nuiejmThnc"
         },
         {
           "index": 7,
@@ -128,24 +209,25 @@
           "title": "青春無敵",
           "artists": "張庭偉 和 安鈞璨",
           "videoId": "ggpBb-1Hkac",
-          "plays": 5880,
-          "playsText": "播放次數：5880",
+          "plays": 5891,
+          "playsText": "播放次數：5891",
           "duration": 245,
           "byOther": true,
-          "nameKey": "青春無敵",
           "credits": {
             "lyrics": "天天",
             "music": "林健華",
             "arranger": "陳飛午"
-          }
+          },
+          "nameKey": "青春無敵",
+          "mv": "x_wNr3wg8vI"
         },
         {
           "index": 9,
           "title": "相信",
           "artists": "可米小子",
           "videoId": "n1s2OjxPTps",
-          "plays": 1611,
-          "playsText": "播放次數：1611",
+          "plays": 1612,
+          "playsText": "播放次數：1612",
           "duration": 241,
           "byOther": false,
           "nameKey": "相信"
@@ -159,12 +241,13 @@
           "playsText": "播放次數：15萬",
           "duration": 258,
           "byOther": false,
-          "nameKey": "青春無敵",
           "credits": {
             "lyrics": "天天",
             "music": "林健華",
             "arranger": "陳飛午"
-          }
+          },
+          "nameKey": "青春無敵",
+          "mv": "x_wNr3wg8vI"
         },
         {
           "index": 11,
@@ -175,28 +258,30 @@
           "playsText": "播放次數：2320",
           "duration": 330,
           "byOther": false,
-          "nameKey": "heyhah",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "Manuel Ruiz Queco",
             "arranger": "呂紹淳"
-          }
+          },
+          "nameKey": "heyhah",
+          "mv": "tsDe4X9OX78"
         },
         {
           "index": 12,
           "title": "Hey! Hah! (Euro Remix)",
           "artists": "可米小子",
           "videoId": "kNEcJoLZBXE",
-          "plays": 3346,
-          "playsText": "播放次數：3346",
+          "plays": 3350,
+          "playsText": "播放次數：3350",
           "duration": 216,
           "byOther": false,
-          "nameKey": "heyhah",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "Manuel Ruiz Queco",
             "arranger": "呂紹淳"
-          }
+          },
+          "nameKey": "heyhah",
+          "mv": "tsDe4X9OX78"
         }
       ],
       "releaseDate": "2002-11-19",
@@ -224,12 +309,13 @@
           "playsText": "播放次數：5.8萬",
           "duration": 207,
           "byOther": false,
-          "nameKey": "number2",
           "credits": {
             "lyrics": "李焯雄",
             "music": "Robert Norberg、Jimmy Jansson、Thomas G. Son",
             "arranger": "鍾成虎"
-          }
+          },
+          "nameKey": "number2",
+          "mv": "IXMdX_aF-a0"
         },
         {
           "index": 2,
@@ -240,12 +326,13 @@
           "playsText": "播放次數：211萬",
           "duration": 311,
           "byOther": false,
-          "nameKey": "青春紀念冊",
           "credits": {
             "lyrics": "陳忠義",
             "music": "Si、Nsc",
             "arranger": "王治平"
-          }
+          },
+          "nameKey": "青春紀念冊",
+          "mv": "KdU7lM6ct4A"
         },
         {
           "index": 3,
@@ -256,12 +343,13 @@
           "playsText": "播放次數：33萬",
           "duration": 239,
           "byOther": false,
-          "nameKey": "紅蜻蜓",
           "credits": {
             "lyrics": "李子恆",
             "music": "長淵剛",
             "arranger": "王繼康"
-          }
+          },
+          "nameKey": "紅蜻蜓",
+          "mv": "13jVa-C0Z7Q"
         },
         {
           "index": 4,
@@ -272,12 +360,13 @@
           "playsText": "播放次數：6.9萬",
           "duration": 252,
           "byOther": false,
-          "nameKey": "花季",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李智勝",
             "arranger": "李伯傑"
-          }
+          },
+          "nameKey": "花季",
+          "mv": "SWMPryTfZ50"
         },
         {
           "index": 5,
@@ -299,12 +388,13 @@
           "playsText": "播放次數：3.7萬",
           "duration": 217,
           "byOther": false,
-          "nameKey": "holdmeclose",
           "credits": {
             "lyrics": "陳忠義",
             "music": "陳忠義",
             "arranger": "包小松"
-          }
+          },
+          "nameKey": "holdmeclose",
+          "mv": "YhoE2lc5ywM"
         },
         {
           "index": 7,
@@ -315,12 +405,12 @@
           "playsText": "播放次數：1134",
           "duration": 187,
           "byOther": true,
-          "nameKey": "我討厭",
           "credits": {
             "lyrics": "遊家豪",
             "music": "遊家豪",
             "arranger": "陳建騏"
-          }
+          },
+          "nameKey": "我討厭"
         },
         {
           "index": 8,
@@ -331,12 +421,13 @@
           "playsText": "播放次數：2.6萬",
           "duration": 230,
           "byOther": false,
-          "nameKey": "我的野蠻女友",
           "credits": {
             "lyrics": "李焯雄",
             "music": "郭建良",
             "arranger": "Kenn C"
-          }
+          },
+          "nameKey": "我的野蠻女友",
+          "mv": "0ZaHa5zhBj8"
         },
         {
           "index": 9,
@@ -347,12 +438,12 @@
           "playsText": "播放次數：1548",
           "duration": 250,
           "byOther": true,
-          "nameKey": "愛的入場券",
           "credits": {
             "lyrics": "易家揚",
             "music": "陳海維",
             "arranger": "包小松"
-          }
+          },
+          "nameKey": "愛的入場券"
         },
         {
           "index": 10,
@@ -363,12 +454,12 @@
           "playsText": null,
           "duration": 210,
           "byOther": false,
-          "nameKey": "愛像什麼",
           "credits": {
             "lyrics": "馬兆駿",
             "music": "馬兆駿",
             "arranger": "陳建騏"
-          }
+          },
+          "nameKey": "愛像什麼"
         }
       ],
       "releaseDate": "2003-12-22",
@@ -396,12 +487,13 @@
           "playsText": "播放次數：7萬",
           "duration": 223,
           "byOther": false,
-          "nameKey": "愛情不用飜譯",
           "credits": {
             "lyrics": "李焯雄",
             "music": "伍家輝",
             "arranger": "洪信傑"
-          }
+          },
+          "nameKey": "愛情不用飜譯",
+          "mv": "2UWYlBVcsEM"
         },
         {
           "index": 2,
@@ -412,12 +504,13 @@
           "playsText": "播放次數：6.2萬",
           "duration": 226,
           "byOther": false,
-          "nameKey": "好奇無上限",
           "credits": {
             "lyrics": "易家揚",
             "music": "王宗宇",
             "arranger": "洪信傑"
-          }
+          },
+          "nameKey": "好奇無上限",
+          "mv": "nZffBS_XQ8g"
         },
         {
           "index": 3,
@@ -428,12 +521,13 @@
           "playsText": "播放次數：45萬",
           "duration": 235,
           "byOther": false,
-          "nameKey": "heyhah",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "Manuel Ruiz Queco",
             "arranger": "呂紹淳"
-          }
+          },
+          "nameKey": "heyhah",
+          "mv": "tsDe4X9OX78"
         },
         {
           "index": 4,
@@ -444,12 +538,13 @@
           "playsText": "播放次數：134萬",
           "duration": 254,
           "byOther": false,
-          "nameKey": "求愛復刻版",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "町田紀彥",
             "arranger": "王豫民"
-          }
+          },
+          "nameKey": "求愛復刻版",
+          "mv": "lHnqi3CIjm4"
         },
         {
           "index": 5,
@@ -460,12 +555,13 @@
           "playsText": "播放次數：33萬",
           "duration": 240,
           "byOther": false,
-          "nameKey": "紅蜻蜓",
           "credits": {
             "lyrics": "李子恆",
             "music": "長淵剛",
             "arranger": "王繼康"
-          }
+          },
+          "nameKey": "紅蜻蜓",
+          "mv": "13jVa-C0Z7Q"
         },
         {
           "index": 6,
@@ -476,12 +572,12 @@
           "playsText": "播放次數：2.2萬",
           "duration": 292,
           "byOther": true,
-          "nameKey": "我忍住哭",
           "credits": {
             "lyrics": "方文山",
             "music": "徐偉賢",
             "arranger": "陳建騏、鍾成虎"
-          }
+          },
+          "nameKey": "我忍住哭"
         },
         {
           "index": 7,
@@ -492,12 +588,13 @@
           "playsText": "播放次數：6.9萬",
           "duration": 252,
           "byOther": false,
-          "nameKey": "花季",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李智勝",
             "arranger": "李伯傑"
-          }
+          },
+          "nameKey": "花季",
+          "mv": "SWMPryTfZ50"
         },
         {
           "index": 8,
@@ -508,12 +605,12 @@
           "playsText": "播放次數：14萬",
           "duration": 256,
           "byOther": true,
-          "nameKey": "超人心",
           "credits": {
             "lyrics": "張思爾",
             "music": "林俊傑",
             "arranger": "屠穎"
-          }
+          },
+          "nameKey": "超人心"
         },
         {
           "index": 9,
@@ -524,12 +621,13 @@
           "playsText": "播放次數：5.8萬",
           "duration": 207,
           "byOther": false,
-          "nameKey": "number2",
           "credits": {
             "lyrics": "李焯雄",
             "music": "Robert Norberg、Jimmy Jansson、Thomas G. Son",
             "arranger": "鍾成虎"
-          }
+          },
+          "nameKey": "number2",
+          "mv": "IXMdX_aF-a0"
         },
         {
           "index": 10,
@@ -540,12 +638,13 @@
           "playsText": "播放次數：3.7萬",
           "duration": 216,
           "byOther": false,
-          "nameKey": "holdmeclose",
           "credits": {
             "lyrics": "陳忠義",
             "music": "陳忠義",
             "arranger": "包小松"
-          }
+          },
+          "nameKey": "holdmeclose",
+          "mv": "YhoE2lc5ywM"
         },
         {
           "index": 11,
@@ -556,12 +655,13 @@
           "playsText": "播放次數：15萬",
           "duration": 254,
           "byOther": false,
-          "nameKey": "青春無敵",
           "credits": {
             "lyrics": "天天",
             "music": "林健華",
             "arranger": "陳飛午"
-          }
+          },
+          "nameKey": "青春無敵",
+          "mv": "x_wNr3wg8vI"
         },
         {
           "index": 12,
@@ -572,12 +672,13 @@
           "playsText": "播放次數：8萬",
           "duration": 187,
           "byOther": false,
-          "nameKey": "喜歡你",
           "credits": {
             "lyrics": "陳忠義",
             "music": "陳忠義",
             "arranger": "鍾興民"
-          }
+          },
+          "nameKey": "喜歡你",
+          "mv": "7nuiejmThnc"
         },
         {
           "index": 13,
@@ -588,12 +689,13 @@
           "playsText": "播放次數：2.6萬",
           "duration": 230,
           "byOther": false,
-          "nameKey": "我的野蠻女友",
           "credits": {
             "lyrics": "李焯雄",
             "music": "郭建良",
             "arranger": "Kenn C"
-          }
+          },
+          "nameKey": "我的野蠻女友",
+          "mv": "0ZaHa5zhBj8"
         },
         {
           "index": 14,
@@ -604,12 +706,13 @@
           "playsText": "播放次數：211萬",
           "duration": 313,
           "byOther": false,
-          "nameKey": "青春紀念冊",
           "credits": {
             "lyrics": "陳忠義",
             "music": "Si、Nsc",
             "arranger": "王治平"
-          }
+          },
+          "nameKey": "青春紀念冊",
+          "mv": "KdU7lM6ct4A"
         }
       ],
       "releaseDate": "2005-01-21",

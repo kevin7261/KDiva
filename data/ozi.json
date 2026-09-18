@@ -2,13 +2,111 @@
   "slug": "ozi",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T21:29:35.170Z",
+  "fetchedAt": "2026-09-18T00:57:33.259Z",
   "artist": {
     "channelId": "UCIWAZb-3mUohrtuyhbW4t8g",
     "name": "ØZI",
     "thumbnail": "https://lh3.googleusercontent.com/Ua0XKu7KTY1d4YviZElzNdAebh-DNzr5n4sSprqAkULKEpexcFyhoXqbqzqiAIduMEZkjepl9mFhSzjC=w2880-h1200-p-l90-rj",
     "subscribers": 236000,
     "monthlyAudience": 251000,
+    "videos": [
+      {
+        "title": "BLACK OUT (feat. 9m88)",
+        "videoId": "MHKnSFlDBLQ"
+      },
+      {
+        "title": "SEX TAPE (合作演出：落日飛車)",
+        "videoId": "YgLpryfw434"
+      },
+      {
+        "title": "FINAL FINAL FINAL (合作演出：The Crane和Gummy B)",
+        "videoId": "ZSEtVdsxO48"
+      },
+      {
+        "title": "hair tie (Performance Video) (合作演出：落日飛車)",
+        "videoId": "phNAy0u9WtY"
+      },
+      {
+        "title": "BAD SIGN",
+        "videoId": "lktGHi3RGdA"
+      },
+      {
+        "title": "If Only...",
+        "videoId": "feqAHWICXvI"
+      },
+      {
+        "title": "favorite",
+        "videoId": "0XEcXz-VSxs"
+      },
+      {
+        "title": "Paradise Island",
+        "videoId": "IBq5USw6AoQ"
+      },
+      {
+        "title": "DEATH TRIP 跑馬燈 (ft. 蛋堡 Soft Lipa)",
+        "videoId": "x9MuYF8ISjc"
+      },
+      {
+        "title": "SLIDE",
+        "videoId": "GItIU_Y1i1o"
+      },
+      {
+        "title": "0.03 (Audio) (合作演出：落日飛車)",
+        "videoId": "olfiIXhv_go"
+      },
+      {
+        "title": "LAVA!",
+        "videoId": "om-OQ2VaN-w"
+      },
+      {
+        "title": "Diamond鑽石",
+        "videoId": "mIUl7Nfdw4k"
+      },
+      {
+        "title": "PRE55URE (合作演出：JP THE WAVY、Awich和MFS)",
+        "videoId": "60tq8V8Qt98"
+      },
+      {
+        "title": "FREE FALL (360 VR)",
+        "videoId": "kxDEuRWkeT0"
+      },
+      {
+        "title": "ADICA",
+        "videoId": "A7LqFntHxt0"
+      },
+      {
+        "title": "LUFU (合作演出：GSoul和Arin Ray)",
+        "videoId": "NI78oRsoXB4"
+      },
+      {
+        "title": "ØZI × The North Face: Urban Exploration -【W.I.L.D.】",
+        "videoId": "lBvDzoMW8N8"
+      },
+      {
+        "title": "HEAT",
+        "videoId": "hL6yW3AJ4Og"
+      },
+      {
+        "title": "PEDESTAL: The Free Fall | 樂園的基石: 自由下墜  [LIVE SESSION]",
+        "videoId": "vc-yLGi0WM4"
+      },
+      {
+        "title": "Title",
+        "videoId": "Mx5O9KLWg5Y"
+      },
+      {
+        "title": "WHO'S NEXT?",
+        "videoId": "C1o6iLR3Fq8"
+      },
+      {
+        "title": "Liquid Flows 醉欲の流動 ft. DEE｜Sep 2016 (合作演出：DEE)",
+        "videoId": "d_dMkXs8Y1U"
+      },
+      {
+        "title": "No Mind",
+        "videoId": "qzRhx9HeBfQ"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/1cGcEZXX_1bM4Ui9jkoyLVSda4T2zGMbiOzor4YCs7socQTlLTKKTNkUSnLvQ3FzilpnA_Ra1Q=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -82,7 +180,8 @@
           "duration": 215,
           "byOther": false,
           "titleZh": "Paradise Island (天堂島)",
-          "nameKey": "paradiseisland"
+          "nameKey": "paradiseisland",
+          "mv": "IBq5USw6AoQ"
         },
         {
           "index": 4,
@@ -104,7 +203,8 @@
           "playsText": "播放次數：2898萬",
           "duration": 238,
           "byOther": false,
-          "nameKey": "blackout"
+          "nameKey": "blackout",
+          "mv": "MHKnSFlDBLQ"
         },
         {
           "index": 6,
@@ -164,7 +264,8 @@
           "duration": 182,
           "byOther": false,
           "titleZh": "Title (頭銜)",
-          "nameKey": "title"
+          "nameKey": "title",
+          "mv": "Mx5O9KLWg5Y"
         }
       ],
       "releaseDate": "2018-07-10",
@@ -214,7 +315,8 @@
           "playsText": "播放次數：42萬",
           "duration": 176,
           "byOther": false,
-          "nameKey": "liquidflows醉欲の流動ftdeesep2016"
+          "nameKey": "liquidflows醉欲の流動ftdeesep2016",
+          "mv": "d_dMkXs8Y1U"
         }
       ],
       "releaseDate": "2018-09-01",
@@ -242,7 +344,8 @@
           "playsText": "播放次數：569萬",
           "duration": 195,
           "byOther": false,
-          "nameKey": "diamond鑽石"
+          "nameKey": "diamond鑽石",
+          "mv": "mIUl7Nfdw4k"
         }
       ],
       "releaseDate": null,
@@ -298,7 +401,8 @@
           "playsText": "播放次數：307萬",
           "duration": 188,
           "byOther": false,
-          "nameKey": "ifonly"
+          "nameKey": "ifonly",
+          "mv": "feqAHWICXvI"
         }
       ],
       "releaseDate": "2019-07-12",
@@ -326,7 +430,8 @@
           "playsText": "播放次數：38萬",
           "duration": 203,
           "byOther": false,
-          "nameKey": "whosnext"
+          "nameKey": "whosnext",
+          "mv": "C1o6iLR3Fq8"
         }
       ],
       "releaseDate": "2019-09-27",
@@ -410,7 +515,8 @@
           "playsText": "播放次數：806萬",
           "duration": 202,
           "byOther": false,
-          "nameKey": "lava"
+          "nameKey": "lava",
+          "mv": "om-OQ2VaN-w"
         }
       ],
       "releaseDate": "2020-07-16",
@@ -438,7 +544,8 @@
           "playsText": "播放次數：90萬",
           "duration": 193,
           "byOther": false,
-          "nameKey": "freefall"
+          "nameKey": "freefall",
+          "mv": "kxDEuRWkeT0"
         }
       ],
       "releaseDate": "2020-10-13",
@@ -505,7 +612,8 @@
           "playsText": "播放次數：141萬",
           "duration": 225,
           "byOther": false,
-          "nameKey": "lufu"
+          "nameKey": "lufu",
+          "mv": "NI78oRsoXB4"
         },
         {
           "index": 3,
@@ -516,7 +624,8 @@
           "playsText": "播放次數：381萬",
           "duration": 126,
           "byOther": false,
-          "nameKey": "slide"
+          "nameKey": "slide",
+          "mv": "GItIU_Y1i1o"
         },
         {
           "index": 4,
@@ -527,7 +636,8 @@
           "playsText": "播放次數：592萬",
           "duration": 184,
           "byOther": false,
-          "nameKey": "003"
+          "nameKey": "003",
+          "mv": "olfiIXhv_go"
         },
         {
           "index": 5,
@@ -538,7 +648,8 @@
           "playsText": "播放次數：806萬",
           "duration": 201,
           "byOther": false,
-          "nameKey": "lava"
+          "nameKey": "lava",
+          "mv": "om-OQ2VaN-w"
         },
         {
           "index": 6,
@@ -571,7 +682,8 @@
           "playsText": "播放次數：90萬",
           "duration": 194,
           "byOther": false,
-          "nameKey": "freefall"
+          "nameKey": "freefall",
+          "mv": "kxDEuRWkeT0"
         }
       ],
       "releaseDate": "2021-01-01",
@@ -599,7 +711,8 @@
           "playsText": "播放次數：381萬",
           "duration": 126,
           "byOther": false,
-          "nameKey": "slide"
+          "nameKey": "slide",
+          "mv": "GItIU_Y1i1o"
         }
       ],
       "releaseDate": "2021-01-20",
@@ -627,7 +740,8 @@
           "playsText": "播放次數：592萬",
           "duration": 184,
           "byOther": false,
-          "nameKey": "003"
+          "nameKey": "003",
+          "mv": "olfiIXhv_go"
         }
       ],
       "releaseDate": "2021-02-14",
@@ -655,7 +769,8 @@
           "playsText": "播放次數：634萬",
           "duration": 175,
           "byOther": false,
-          "nameKey": "hairtie"
+          "nameKey": "hairtie",
+          "mv": "phNAy0u9WtY"
         }
       ],
       "releaseDate": "2021-11-06",
@@ -806,7 +921,8 @@
           "playsText": "播放次數：62萬",
           "duration": 168,
           "byOther": false,
-          "nameKey": "adica"
+          "nameKey": "adica",
+          "mv": "A7LqFntHxt0"
         },
         {
           "index": 3,
@@ -990,7 +1106,8 @@
           "playsText": "播放次數：30萬",
           "duration": 212,
           "byOther": false,
-          "nameKey": "heat"
+          "nameKey": "heat",
+          "mv": "hL6yW3AJ4Og"
         }
       ],
       "releaseDate": null,
@@ -1048,7 +1165,8 @@
           "playsText": "播放次數：639萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "sextape"
+          "nameKey": "sextape",
+          "mv": "YgLpryfw434"
         }
       ],
       "releaseDate": null,
@@ -1109,7 +1227,8 @@
           "playsText": "播放次數：639萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "sextape"
+          "nameKey": "sextape",
+          "mv": "YgLpryfw434"
         },
         {
           "index": 5,
@@ -1120,7 +1239,8 @@
           "playsText": "播放次數：169萬",
           "duration": 187,
           "byOther": false,
-          "nameKey": "badsign"
+          "nameKey": "badsign",
+          "mv": "lktGHi3RGdA"
         },
         {
           "index": 6,
@@ -1153,7 +1273,8 @@
           "playsText": "播放次數：175萬",
           "duration": 170,
           "byOther": false,
-          "nameKey": "pre55ure"
+          "nameKey": "pre55ure",
+          "mv": "60tq8V8Qt98"
         },
         {
           "index": 9,
@@ -1164,7 +1285,8 @@
           "playsText": "播放次數：195萬",
           "duration": 237,
           "byOther": false,
-          "nameKey": "finalfinalfinal"
+          "nameKey": "finalfinalfinal",
+          "mv": "ZSEtVdsxO48"
         }
       ],
       "releaseDate": "2025-03-14",
@@ -1192,7 +1314,8 @@
           "playsText": "播放次數：169萬",
           "duration": 188,
           "byOther": false,
-          "nameKey": "badsign"
+          "nameKey": "badsign",
+          "mv": "lktGHi3RGdA"
         }
       ],
       "releaseDate": null,
@@ -1220,7 +1343,8 @@
           "playsText": "播放次數：195萬",
           "duration": 237,
           "byOther": false,
-          "nameKey": "finalfinalfinal"
+          "nameKey": "finalfinalfinal",
+          "mv": "ZSEtVdsxO48"
         }
       ],
       "releaseDate": null,
@@ -1248,7 +1372,8 @@
           "playsText": "播放次數：33萬",
           "duration": 150,
           "byOther": false,
-          "nameKey": "favorite"
+          "nameKey": "favorite",
+          "mv": "0XEcXz-VSxs"
         }
       ],
       "releaseDate": null,

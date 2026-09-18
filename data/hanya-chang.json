@@ -2,13 +2,91 @@
   "slug": "hanya-chang",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T21:23:31.485Z",
+  "fetchedAt": "2026-09-18T00:47:15.425Z",
   "artist": {
     "channelId": "UCVtvZY2TcfcjQ8CNmnFGB3w",
     "name": "張涵雅",
     "thumbnail": "https://yt3.googleusercontent.com/Wm-mdoeH7MSFNxRY8qCV2RV3pepJ0Qm34-U0LsU9nzHPlT_ijscM2JTdDmGhUvprYmwQkSgbPdmKxn9DzQ=w2880-h1200-p-l90-rj",
     "subscribers": 248,
     "monthlyAudience": null,
+    "videos": [
+      {
+        "title": "鄺澤東－噗仔聲 (張涵雅)｜純享版｜超級紅人榜｜114.10.26",
+        "videoId": "S8gHeM_HbE8"
+      },
+      {
+        "title": "過宮星",
+        "videoId": "kYBp7gzdUHA"
+      },
+      {
+        "title": "流轉",
+        "videoId": "pE0-rl3uZYI"
+      },
+      {
+        "title": "張涵雅-噗仔聲",
+        "videoId": "CDnR27qeOR4"
+      },
+      {
+        "title": "愛情湯味",
+        "videoId": "eYgk5lI2h-U"
+      },
+      {
+        "title": "喝我的名",
+        "videoId": "JtajmUkGdaE"
+      },
+      {
+        "title": "張涵雅Hanya【有夠可惡】Official Music Video",
+        "videoId": "TD_RR7WoZP0"
+      },
+      {
+        "title": "张涵雅 汤味人生【2013*新歌*】曲: 張涵雅 /詞: 張涵雅、葉樹賢【星光四班】",
+        "videoId": "T_7BOzLJIFM"
+      },
+      {
+        "title": "張涵雅Hanya【天若會光佇當時】Lyrics Video",
+        "videoId": "TuKLUTERo5I"
+      },
+      {
+        "title": "揣看覓",
+        "videoId": "-UKqgyIqbcI"
+      },
+      {
+        "title": "張涵雅Hanya【孤一个】Official Music Video",
+        "videoId": "zcXg3Sn08jQ"
+      },
+      {
+        "title": "愛情馬殺雞",
+        "videoId": "hYVHdFJj_Gk"
+      },
+      {
+        "title": "張涵雅Hanya【毋知】Official Music Video",
+        "videoId": "jmwqkYesvao"
+      },
+      {
+        "title": "張涵雅Hanya【大大聲】Official Music Video",
+        "videoId": "HnCVTxYVdyo"
+      },
+      {
+        "title": "張涵雅Hanya【你真古錐】Official Music Video",
+        "videoId": "6XjQ7yOT5r0"
+      },
+      {
+        "title": "《乘着歌声的翅膀》- (德语：Auf Flügeln des Gesanges) - Take Flight on the Wings of Music",
+        "videoId": "n2REjdKue3M"
+      },
+      {
+        "title": "我看你 你看我-張涵雅 #2021新竹跨年",
+        "videoId": "k-RD1lgEht8"
+      },
+      {
+        "title": "林鈺婷 Rita－放（2021春之聲音樂會）",
+        "videoId": "WVkIeAgotug"
+      },
+      {
+        "title": "大大聲夾張明偉",
+        "videoId": "h5dUEaA60hE"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/PmQGG3Q65pP1uWc2eBj9GN4vpjfe2OhG_y7qlzGV6CzjMm7J0r-82zeqtNHaXA6XNvcbOyn13w=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -80,7 +158,8 @@
           "playsText": "播放次數：16萬",
           "duration": 197,
           "byOther": false,
-          "nameKey": "愛情馬殺雞"
+          "nameKey": "愛情馬殺雞",
+          "mv": "hYVHdFJj_Gk"
         },
         {
           "index": 2,
@@ -91,7 +170,8 @@
           "playsText": "播放次數：13萬",
           "duration": 270,
           "byOther": false,
-          "nameKey": "流轉"
+          "nameKey": "流轉",
+          "mv": "pE0-rl3uZYI"
         },
         {
           "index": 3,
@@ -146,7 +226,8 @@
           "playsText": "播放次數：3.5萬",
           "duration": 244,
           "byOther": false,
-          "nameKey": "喝我的名"
+          "nameKey": "喝我的名",
+          "mv": "JtajmUkGdaE"
         },
         {
           "index": 8,
@@ -181,7 +262,8 @@
           "playsText": "播放次數：27萬",
           "duration": 182,
           "byOther": false,
-          "nameKey": "過宮星"
+          "nameKey": "過宮星",
+          "mv": "kYBp7gzdUHA"
         },
         {
           "index": 11,
@@ -203,7 +285,8 @@
           "playsText": "播放次數：12萬",
           "duration": 219,
           "byOther": false,
-          "nameKey": "揣看覓"
+          "nameKey": "揣看覓",
+          "mv": "-UKqgyIqbcI"
         }
       ],
       "releaseDate": "2018-12-27",
@@ -233,7 +316,8 @@
           "byOther": false,
           "titleZh": "孤一個",
           "titleZhVariant": true,
-          "nameKey": "孤一個"
+          "nameKey": "孤一個",
+          "mv": "zcXg3Sn08jQ"
         },
         {
           "index": 2,
@@ -244,7 +328,8 @@
           "playsText": "播放次數：1萬",
           "duration": 228,
           "byOther": false,
-          "nameKey": "天若會光佇當時"
+          "nameKey": "天若會光佇當時",
+          "mv": "TuKLUTERo5I"
         },
         {
           "index": 3,
@@ -255,7 +340,8 @@
           "playsText": "播放次數：6.9萬",
           "duration": 222,
           "byOther": false,
-          "nameKey": "你眞古錐"
+          "nameKey": "你眞古錐",
+          "mv": "6XjQ7yOT5r0"
         },
         {
           "index": 4,
@@ -349,7 +435,8 @@
           "playsText": "播放次數：10萬",
           "duration": 193,
           "byOther": false,
-          "nameKey": "有夠可惡"
+          "nameKey": "有夠可惡",
+          "mv": "TD_RR7WoZP0"
         },
         {
           "index": 2,
@@ -371,7 +458,8 @@
           "playsText": "播放次數：6.2萬",
           "duration": 190,
           "byOther": false,
-          "nameKey": "毋知"
+          "nameKey": "毋知",
+          "mv": "jmwqkYesvao"
         },
         {
           "index": 4,
@@ -531,7 +619,8 @@
           "playsText": "播放次數：963",
           "duration": 210,
           "byOther": false,
-          "nameKey": "大大聲"
+          "nameKey": "大大聲",
+          "mv": "HnCVTxYVdyo"
         },
         {
           "index": 9,

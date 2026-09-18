@@ -2,13 +2,91 @@
   "slug": "fir",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-17T16:40:45.641Z",
+  "fetchedAt": "2026-09-18T00:36:44.175Z",
   "artist": {
     "channelId": "UCULDopO9sNa9kBs5QnFgmEQ",
     "name": "F.I.R.飛兒樂團",
     "thumbnail": "https://lh3.googleusercontent.com/x5wFPQWMxuFaz1ovSlKSOdu8rUIJn4_Oy9nWgCTHimzCEUsfCFWlpXWODUHNZ5T0wXyTbrP-T9ZS8bm2=w2880-h1200-p-l90-rj",
     "subscribers": 27500,
     "monthlyAudience": 1620000,
+    "videos": [
+      {
+        "title": "星火",
+        "videoId": "3mEeKAdXAo4"
+      },
+      {
+        "title": "自由之歌",
+        "videoId": "jU2FQfoTvEg"
+      },
+      {
+        "title": "愛上屬於你的天空",
+        "videoId": "LeUMB8GXL7k"
+      },
+      {
+        "title": "錦繡夢",
+        "videoId": "fcxNzaSQ6WM"
+      },
+      {
+        "title": "愛在蔓延時",
+        "videoId": "-j5rEVqQDNE"
+      },
+      {
+        "title": "將逝之愛",
+        "videoId": "BjRCliIG5QE"
+      },
+      {
+        "title": "刺青春",
+        "videoId": "eV5yuTUb5Tk"
+      },
+      {
+        "title": "Someday We May Love",
+        "videoId": "ZiB9PE9ZWEg"
+      },
+      {
+        "title": "造夢者",
+        "videoId": "meU_gtsx9-g"
+      },
+      {
+        "title": "天地之間 (動畫「我是大神仙」片頭曲)",
+        "videoId": "laJ-uGMH3ug"
+      },
+      {
+        "title": "勇者無畏 - 我是大神仙3動畫影集主題曲",
+        "videoId": "UbqWabYxrCk"
+      },
+      {
+        "title": "星火",
+        "videoId": "NkaSG7W2z9I"
+      },
+      {
+        "title": "戀戀",
+        "videoId": "1-ttW1yeXSQ"
+      },
+      {
+        "title": "攻無不克(電影《獵殺T-34》中文推廣曲)",
+        "videoId": "-K-HYOmYo90"
+      },
+      {
+        "title": "海霧 (《海霧》電影主題曲)",
+        "videoId": "i8pHKUrO0eM"
+      },
+      {
+        "title": "F.I.R. X 范逸臣 [ 功夫狂潮 Kung Fu Frenzy ] Official Music Video ( 電影《功夫聯盟》宣傳主題曲)",
+        "videoId": "eOKmr7XcffY"
+      },
+      {
+        "title": "F.I.R. 飛兒樂團 [ 鑽石之心 Diamond Heart ] 音樂會 Highlight",
+        "videoId": "Nhtd52Fw1UE"
+      },
+      {
+        "title": "F.I.R.《創‧世紀》世界巡迴演唱會 台北場精采花絮 - 飛 FAYE 演唱 Angel",
+        "videoId": "4kMKYoATiGg"
+      },
+      {
+        "title": "F.I.R.《創‧世紀》世界巡迴演唱會 台北場精采花絮 - 阿沁 演唱 妥協",
+        "videoId": "NlVvzMtS94Y"
+      }
+    ],
     "avatar": "https://yt3.googleusercontent.com/_n0wFhtq1j6_h4g9CP29hneWU1TZVC2ZXEyXXJZVdquImwcR3fea9LeP_5hUom47Wb5_2GKolwg=s800-c-k-c0x00ffffff-no-rj"
   },
   "albums": [
@@ -30,12 +108,12 @@
           "playsText": "播放次數：66萬",
           "duration": 221,
           "byOther": false,
-          "nameKey": "無限",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "無限"
         },
         {
           "index": 2,
@@ -46,12 +124,12 @@
           "playsText": "播放次數：2728萬",
           "duration": 229,
           "byOther": false,
-          "nameKey": "千年之戀",
           "credits": {
             "lyrics": "F.I.R、謝宥慧、林志年",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "千年之戀"
         },
         {
           "index": 3,
@@ -62,14 +140,14 @@
           "playsText": "播放次數：20萬",
           "duration": 248,
           "byOther": false,
-          "nameKey": "love3",
           "titleZh": "LOVE 3 (Unplug 版)",
           "credits": {
             "lyrics": "F.I.R、謝宥慧、林志年",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
           },
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "love3"
         },
         {
           "index": 4,
@@ -80,10 +158,10 @@
           "playsText": "播放次數：2.2萬",
           "duration": 45,
           "byOther": false,
-          "nameKey": "盛宴",
           "credits": {
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "盛宴"
         },
         {
           "index": 5,
@@ -94,12 +172,12 @@
           "playsText": "播放次數：30萬",
           "duration": 290,
           "byOther": false,
-          "nameKey": "應許之地",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "應許之地"
         },
         {
           "index": 6,
@@ -110,12 +188,12 @@
           "playsText": "播放次數：383萬",
           "duration": 304,
           "byOther": false,
-          "nameKey": "把愛放開",
           "credits": {
             "lyrics": "F.I.R、謝宥慧",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "把愛放開"
         },
         {
           "index": 7,
@@ -126,12 +204,12 @@
           "playsText": "播放次數：18萬",
           "duration": 250,
           "byOther": false,
-          "nameKey": "neverland",
           "credits": {
             "lyrics": "黃漢青",
             "music": "黃漢青",
             "arranger": "黃漢青、奧斯卡"
-          }
+          },
+          "nameKey": "neverland"
         },
         {
           "index": 8,
@@ -153,12 +231,12 @@
           "playsText": "播放次數：254萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "刺鳥",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "刺鳥"
         },
         {
           "index": 10,
@@ -169,12 +247,12 @@
           "playsText": "播放次數：15萬",
           "duration": 220,
           "byOther": false,
-          "nameKey": "愛的力量",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧、林志年",
             "music": "黃漢青",
             "arranger": "黃中嶽"
-          }
+          },
+          "nameKey": "愛的力量"
         },
         {
           "index": 11,
@@ -185,12 +263,12 @@
           "playsText": "播放次數：38萬",
           "duration": 249,
           "byOther": false,
-          "nameKey": "死心的理由",
           "credits": {
             "lyrics": "謝宥慧",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "死心的理由"
         },
         {
           "index": 12,
@@ -201,12 +279,12 @@
           "playsText": "播放次數：5萬",
           "duration": 206,
           "byOther": false,
-          "nameKey": "icantgoon",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "郭偉聰"
-          }
+          },
+          "nameKey": "icantgoon"
         },
         {
           "index": 13,
@@ -217,10 +295,10 @@
           "playsText": "播放次數：1.3萬",
           "duration": 62,
           "byOther": false,
-          "nameKey": "whatsnext",
           "credits": {
             "arranger": "Jonah Ko"
-          }
+          },
+          "nameKey": "whatsnext"
         }
       ],
       "releaseDate": "2005-04-08",
@@ -248,11 +326,11 @@
           "playsText": "播放次數：2.4萬",
           "duration": 85,
           "byOther": false,
-          "nameKey": "intro",
           "credits": {
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "intro"
         },
         {
           "index": 2,
@@ -263,12 +341,12 @@
           "playsText": "播放次數：151萬",
           "duration": 216,
           "byOther": false,
-          "nameKey": "gethigh",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "gethigh"
         },
         {
           "index": 3,
@@ -279,12 +357,12 @@
           "playsText": "播放次數：356萬",
           "duration": 272,
           "byOther": false,
-          "nameKey": "雨櫻花",
           "credits": {
             "lyrics": "F.I.R.、林尚德、易家揚",
             "music": "黃漢青",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "雨櫻花"
         },
         {
           "index": 4,
@@ -306,12 +384,12 @@
           "playsText": "播放次數：78萬",
           "duration": 260,
           "byOther": false,
-          "nameKey": "飛行部落",
           "credits": {
             "lyrics": "F.I.R、易家揚",
             "music": "F.I.R",
             "arranger": "Kenn C"
-          }
+          },
+          "nameKey": "飛行部落"
         },
         {
           "index": 6,
@@ -322,12 +400,12 @@
           "playsText": "播放次數：59萬",
           "duration": 279,
           "byOther": false,
-          "nameKey": "北極圈",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧",
             "music": "黃漢青",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "北極圈"
         },
         {
           "index": 7,
@@ -338,12 +416,12 @@
           "playsText": "播放次數：408萬",
           "duration": 288,
           "byOther": false,
-          "nameKey": "你很愛他",
           "credits": {
             "lyrics": "黃漢青",
             "music": "黃漢青",
             "arranger": "黃中嶽"
-          }
+          },
+          "nameKey": "你很愛他"
         },
         {
           "index": 8,
@@ -354,12 +432,12 @@
           "playsText": "播放次數：8.6萬",
           "duration": 205,
           "byOther": false,
-          "nameKey": "1234567",
           "credits": {
             "lyrics": "F.I.R.、蕭閎仁、饒祥以",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "1234567"
         },
         {
           "index": 9,
@@ -370,12 +448,12 @@
           "playsText": "播放次數：441萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "眷戀",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧",
             "music": "黃漢青",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "眷戀"
         },
         {
           "index": 10,
@@ -386,12 +464,12 @@
           "playsText": "播放次數：12萬",
           "duration": 230,
           "byOther": false,
-          "nameKey": "idontcare",
           "credits": {
             "lyrics": "F.I.R.、林尚德",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "idontcare"
         },
         {
           "index": 11,
@@ -402,12 +480,12 @@
           "playsText": "播放次數：7.8萬",
           "duration": 256,
           "byOther": false,
-          "nameKey": "我最愛的人",
           "credits": {
             "lyrics": "黃漢青",
             "music": "黃漢青",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "我最愛的人"
         },
         {
           "index": 12,
@@ -446,11 +524,11 @@
           "playsText": "播放次數：9.9萬",
           "duration": 166,
           "byOther": false,
-          "nameKey": "intro",
           "credits": {
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "intro"
         },
         {
           "index": 2,
@@ -461,14 +539,14 @@
           "playsText": "播放次數：659萬",
           "duration": 278,
           "byOther": false,
-          "nameKey": "flyaway",
           "titleZh": "FLY AWAY (Unplug 版)",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "黃漢青、奧斯卡"
           },
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "flyaway"
         },
         {
           "index": 3,
@@ -479,14 +557,14 @@
           "playsText": "播放次數：5412萬",
           "duration": 239,
           "byOther": false,
-          "nameKey": "lydia",
           "titleZh": "Lydia (鋼琴演奏版)",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
           },
-          "titleZhVariant": true
+          "titleZhVariant": true,
+          "nameKey": "lydia"
         },
         {
           "index": 4,
@@ -497,12 +575,12 @@
           "playsText": "播放次數：48萬",
           "duration": 243,
           "byOther": false,
-          "nameKey": "流浪者之歌",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "Kenn C"
-          }
+          },
+          "nameKey": "流浪者之歌"
         },
         {
           "index": 5,
@@ -513,12 +591,12 @@
           "playsText": "播放次數：5400萬",
           "duration": 288,
           "byOther": false,
-          "nameKey": "我們的愛",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "我們的愛"
         },
         {
           "index": 6,
@@ -529,12 +607,12 @@
           "playsText": "播放次數：121萬",
           "duration": 218,
           "byOther": false,
-          "nameKey": "光芒",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "黃中嶽"
-          }
+          },
+          "nameKey": "光芒"
         },
         {
           "index": 7,
@@ -545,12 +623,12 @@
           "playsText": "播放次數：13萬",
           "duration": 207,
           "byOther": false,
-          "nameKey": "lydia",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "lydia"
         },
         {
           "index": 8,
@@ -561,12 +639,12 @@
           "playsText": "播放次數：2055萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "你的微笑",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧、彭資閔",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "你的微笑"
         },
         {
           "index": 9,
@@ -577,12 +655,12 @@
           "playsText": "播放次數：13萬",
           "duration": 252,
           "byOther": false,
-          "nameKey": "塔羅牌",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "黃中嶽"
-          }
+          },
+          "nameKey": "塔羅牌"
         },
         {
           "index": 10,
@@ -593,12 +671,12 @@
           "playsText": "播放次數：23萬",
           "duration": 261,
           "byOther": false,
-          "nameKey": "後樂園",
           "credits": {
             "lyrics": "吳依錚、謝宥慧",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "後樂園"
         },
         {
           "index": 11,
@@ -609,12 +687,12 @@
           "playsText": "播放次數：73萬",
           "duration": 249,
           "byOther": false,
-          "nameKey": "revolution",
           "credits": {
             "lyrics": "F.I.R.、林尚德",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "revolution"
         },
         {
           "index": 12,
@@ -625,12 +703,12 @@
           "playsText": "播放次數：22萬",
           "duration": 287,
           "byOther": false,
-          "nameKey": "youmakemewanttofallinlove",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "youmakemewanttofallinlove"
         },
         {
           "index": 13,
@@ -641,12 +719,12 @@
           "playsText": "播放次數：2.7萬",
           "duration": 44,
           "byOther": false,
-          "nameKey": "待續",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "待續"
         }
       ],
       "releaseDate": null,
@@ -674,10 +752,10 @@
           "playsText": "播放次數：2.3萬",
           "duration": 54,
           "byOther": false,
-          "nameKey": "詠嘆曲",
           "credits": {
             "music": "詹雯婷、黃漢青、陳建寧"
-          }
+          },
+          "nameKey": "詠嘆曲"
         },
         {
           "index": 2,
@@ -688,12 +766,12 @@
           "playsText": "播放次數：73萬",
           "duration": 201,
           "byOther": false,
-          "nameKey": "第10行星",
           "credits": {
             "lyrics": "林尚德",
             "music": "黃漢青、陳建寧",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "第10行星"
         },
         {
           "index": 3,
@@ -704,12 +782,12 @@
           "playsText": "播放次數：128萬",
           "duration": 312,
           "byOther": false,
-          "nameKey": "需要你的愛",
           "credits": {
             "lyrics": "胡如虹、詹雯婷、黃漢青、陳建寧、謝宥慧",
             "music": "黃漢青、陳建寧",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "需要你的愛"
         },
         {
           "index": 4,
@@ -720,12 +798,12 @@
           "playsText": "播放次數：329萬",
           "duration": 217,
           "byOther": false,
-          "nameKey": "三個心願",
           "credits": {
             "lyrics": "徐世珍、黃漢青、謝宥慧",
             "music": "黃漢青",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "三個心願"
         },
         {
           "index": 5,
@@ -736,12 +814,12 @@
           "playsText": "播放次數：6.7萬",
           "duration": 283,
           "byOther": false,
-          "nameKey": "change",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷",
             "arranger": "黃漢青"
-          }
+          },
+          "nameKey": "change"
         },
         {
           "index": 6,
@@ -752,12 +830,12 @@
           "playsText": "播放次數：20萬",
           "duration": 254,
           "byOther": false,
-          "nameKey": "眞愛地圖",
           "credits": {
             "lyrics": "黃漢青",
             "music": "黃漢青",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "眞愛地圖"
         },
         {
           "index": 7,
@@ -768,12 +846,12 @@
           "playsText": "播放次數：6583萬",
           "duration": 309,
           "byOther": false,
-          "nameKey": "月牙灣",
           "credits": {
             "lyrics": "易家揚、謝宥慧",
             "music": "黃漢青",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "月牙灣"
         },
         {
           "index": 8,
@@ -784,12 +862,12 @@
           "playsText": "播放次數：13萬",
           "duration": 246,
           "byOther": false,
-          "nameKey": "forevergreen",
           "credits": {
             "lyrics": "詹雯婷、黃漢青、陳建寧、徐世珍",
             "music": "Kokuse Oshima",
             "arranger": "郭偉聰"
-          }
+          },
+          "nameKey": "forevergreen"
         },
         {
           "index": 9,
@@ -800,12 +878,12 @@
           "playsText": "播放次數：3.4萬",
           "duration": 278,
           "byOther": false,
-          "nameKey": "bluedoorsahead",
           "credits": {
             "lyrics": "詹雯婷",
             "music": "詹雯婷、陳建寧",
             "arranger": "陳飛午"
-          }
+          },
+          "nameKey": "bluedoorsahead"
         },
         {
           "index": 10,
@@ -816,12 +894,12 @@
           "playsText": "播放次數：57萬",
           "duration": 243,
           "byOther": false,
-          "nameKey": "愛過",
           "credits": {
             "lyrics": "謝宥慧",
             "music": "黃漢青",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "愛過"
         },
         {
           "index": 11,
@@ -832,12 +910,12 @@
           "playsText": "播放次數：3.3萬",
           "duration": 213,
           "byOther": false,
-          "nameKey": "彩色拼圖",
           "credits": {
             "lyrics": "林尚德、詹雯婷、黃漢青、陳建寧",
             "music": "COLOR",
             "arranger": "郭偉聰"
-          }
+          },
+          "nameKey": "彩色拼圖"
         }
       ],
       "releaseDate": "2007-09-28",
@@ -865,12 +943,12 @@
           "playsText": "播放次數：30萬",
           "duration": 208,
           "byOther": false,
-          "nameKey": "千年之戀",
           "credits": {
             "lyrics": "F.I.R、謝宥慧、林志年",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "千年之戀"
         },
         {
           "index": 2,
@@ -881,12 +959,12 @@
           "playsText": "播放次數：11萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "flyaway",
           "credits": {
             "lyrics": "F.I.R.",
             "music": "F.I.R.",
             "arranger": "黃漢青、奧斯卡"
-          }
+          },
+          "nameKey": "flyaway"
         },
         {
           "index": 3,
@@ -897,12 +975,12 @@
           "playsText": "播放次數：6.4萬",
           "duration": 207,
           "byOther": false,
-          "nameKey": "love3",
           "credits": {
             "lyrics": "F.I.R、謝宥慧、林志年",
             "music": "F.I.R.",
             "arranger": "奧斯卡"
-          }
+          },
+          "nameKey": "love3"
         },
         {
           "index": 4,
@@ -913,12 +991,12 @@
           "playsText": "播放次數：2萬",
           "duration": 245,
           "byOther": false,
-          "nameKey": "死心的理由",
           "credits": {
             "lyrics": "謝宥慧",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "死心的理由"
         }
       ],
       "releaseDate": null,
@@ -957,13 +1035,13 @@
           "playsText": "播放次數：3.1萬",
           "duration": 170,
           "byOther": false,
-          "nameKey": "lydia",
           "titleZh": "Lydia (鋼琴演奏版)",
           "credits": {
             "lyrics": "F.I.R.、謝宥慧",
             "music": "F.I.R.",
             "arranger": "Terence Teo"
-          }
+          },
+          "nameKey": "lydia"
         },
         {
           "index": 3,
@@ -974,7 +1052,12 @@
           "playsText": "播放次數：22萬",
           "duration": 203,
           "byOther": false,
-          "nameKey": "我們的愛"
+          "nameKey": "我們的愛",
+          "credits": {
+            "lyrics": "F.I.R.、謝宥慧",
+            "music": "F.I.R.",
+            "arranger": "Terence Teo"
+          }
         },
         {
           "index": 4,
@@ -985,18 +1068,28 @@
           "playsText": "播放次數：11萬",
           "duration": 124,
           "byOther": false,
-          "nameKey": "你的微笑"
+          "nameKey": "你的微笑",
+          "credits": {
+            "lyrics": "F.I.R.、謝宥慧、彭資閔",
+            "music": "F.I.R.",
+            "arranger": "奧斯卡"
+          }
         },
         {
           "index": 5,
           "title": "塔羅牌 (Demo)",
           "artists": "",
           "videoId": "7zhzLBzTT2o",
-          "plays": 6687,
-          "playsText": "播放次數：6687",
+          "plays": 6688,
+          "playsText": "播放次數：6688",
           "duration": 168,
           "byOther": false,
-          "nameKey": "塔羅牌"
+          "nameKey": "塔羅牌",
+          "credits": {
+            "lyrics": "F.I.R.",
+            "music": "F.I.R.",
+            "arranger": "黃中嶽"
+          }
         }
       ],
       "releaseDate": null,
@@ -1190,10 +1283,10 @@
           "playsText": "播放次數：922萬",
           "duration": 230,
           "byOther": false,
-          "nameKey": "亞特蘭提斯",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "亞特蘭提斯"
         },
         {
           "index": 2,
@@ -1204,10 +1297,10 @@
           "playsText": "播放次數：494萬",
           "duration": 271,
           "byOther": false,
-          "nameKey": "淚光閃爍",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "淚光閃爍"
         },
         {
           "index": 3,
@@ -1218,10 +1311,10 @@
           "playsText": "播放次數：5.6萬",
           "duration": 212,
           "byOther": false,
-          "nameKey": "花非花",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "花非花"
         },
         {
           "index": 4,
@@ -1232,10 +1325,10 @@
           "playsText": "播放次數：11萬",
           "duration": 217,
           "byOther": false,
-          "nameKey": "我超越",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "我超越"
         },
         {
           "index": 5,
@@ -1246,10 +1339,10 @@
           "playsText": "播放次數：91萬",
           "duration": 290,
           "byOther": false,
-          "nameKey": "愛有路可退",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "愛有路可退"
         },
         {
           "index": 6,
@@ -1260,10 +1353,10 @@
           "playsText": "播放次數：6.4萬",
           "duration": 277,
           "byOther": false,
-          "nameKey": "微光",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "微光"
         },
         {
           "index": 7,
@@ -1274,10 +1367,10 @@
           "playsText": "播放次數：17萬",
           "duration": 232,
           "byOther": false,
-          "nameKey": "sayhello",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "sayhello"
         },
         {
           "index": 8,
@@ -1288,10 +1381,10 @@
           "playsText": "播放次數：15萬",
           "duration": 262,
           "byOther": false,
-          "nameKey": "唐吉訶德",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "唐吉訶德"
         },
         {
           "index": 9,
@@ -1302,10 +1395,10 @@
           "playsText": "播放次數：571萬",
           "duration": 281,
           "byOther": false,
-          "nameKey": "讓愛重生",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "讓愛重生"
         },
         {
           "index": 10,
@@ -1316,10 +1409,10 @@
           "playsText": "播放次數：1.7萬",
           "duration": 197,
           "byOther": false,
-          "nameKey": "螺絲釘",
           "credits": {
             "music": "F.I.R. 飛兒樂團"
-          }
+          },
+          "nameKey": "螺絲釘"
         }
       ],
       "releaseDate": "2011-04-15",
@@ -1586,11 +1679,11 @@
           "playsText": "播放次數：6.7萬",
           "duration": 257,
           "byOther": false,
-          "nameKey": "fairylandinreality",
           "credits": {
             "lyrics": "嚴雲農、F.I.R 飛兒樂團",
             "music": "F.I.R 飛兒樂團"
-          }
+          },
+          "nameKey": "fairylandinreality"
         },
         {
           "index": 2,
@@ -1601,11 +1694,12 @@
           "playsText": "播放次數：466萬",
           "duration": 298,
           "byOther": false,
-          "nameKey": "愛上屬於你的天空",
           "credits": {
             "lyrics": "嚴雲農、F.I.R 飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "愛上屬於你的天空",
+          "mv": "LeUMB8GXL7k"
         },
         {
           "index": 3,
@@ -1616,11 +1710,12 @@
           "playsText": "播放次數：695萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "自由之歌",
           "credits": {
             "lyrics": "姚若龍、F.I.R.飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "自由之歌",
+          "mv": "jU2FQfoTvEg"
         },
         {
           "index": 4,
@@ -1631,11 +1726,11 @@
           "playsText": "播放次數：5.6萬",
           "duration": 263,
           "byOther": false,
-          "nameKey": "夢見島",
           "credits": {
             "lyrics": "嚴雲農、F.I.R 飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "夢見島"
         },
         {
           "index": 5,
@@ -1646,12 +1741,13 @@
           "playsText": "播放次數：1億",
           "duration": 305,
           "byOther": false,
-          "nameKey": "星火",
           "credits": {
             "lyrics": "藍小邪、陳建寧",
             "music": "黃漢青",
             "arranger": "郭偉聰"
-          }
+          },
+          "nameKey": "星火",
+          "mv": "3mEeKAdXAo4"
         },
         {
           "index": 6,
@@ -1662,11 +1758,11 @@
           "playsText": "播放次數：7.6萬",
           "duration": 265,
           "byOther": false,
-          "nameKey": "忘年會",
           "credits": {
             "lyrics": "嚴雲農、F.I.R 飛兒樂團",
             "music": "F.I.R 飛兒樂團"
-          }
+          },
+          "nameKey": "忘年會"
         },
         {
           "index": 7,
@@ -1677,11 +1773,12 @@
           "playsText": "播放次數：66萬",
           "duration": 213,
           "byOther": false,
-          "nameKey": "造夢者",
           "credits": {
             "lyrics": "嚴雲農、F.I.R 飛兒樂團",
             "music": "F.I.R 飛兒樂團"
-          }
+          },
+          "nameKey": "造夢者",
+          "mv": "meU_gtsx9-g"
         },
         {
           "index": 8,
@@ -1692,11 +1789,11 @@
           "playsText": "播放次數：269萬",
           "duration": 273,
           "byOther": false,
-          "nameKey": "如果你說愛我",
           "credits": {
             "lyrics": "F.I.R.飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "如果你說愛我"
         },
         {
           "index": 9,
@@ -1707,11 +1804,11 @@
           "playsText": "播放次數：5.4萬",
           "duration": 227,
           "byOther": false,
-          "nameKey": "美麗的你",
           "credits": {
             "lyrics": "嚴雲農、F.I.R 飛兒樂團",
             "music": "F.I.R 飛兒樂團"
-          }
+          },
+          "nameKey": "美麗的你"
         },
         {
           "index": 10,
@@ -1722,11 +1819,12 @@
           "playsText": "播放次數：93萬",
           "duration": 328,
           "byOther": false,
-          "nameKey": "刺青春",
           "credits": {
             "lyrics": "嚴雲農、F.I.R 飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "刺青春",
+          "mv": "eV5yuTUb5Tk"
         }
       ],
       "releaseDate": "2019-05-03",
@@ -1782,7 +1880,8 @@
           "playsText": "播放次數：18萬",
           "duration": 210,
           "byOther": false,
-          "nameKey": "天地之間"
+          "nameKey": "天地之間",
+          "mv": "laJ-uGMH3ug"
         }
       ],
       "releaseDate": null,
@@ -1838,7 +1937,8 @@
           "playsText": "播放次數：39萬",
           "duration": 307,
           "byOther": false,
-          "nameKey": "海霧"
+          "nameKey": "海霧",
+          "mv": "i8pHKUrO0eM"
         }
       ],
       "releaseDate": null,
@@ -1866,11 +1966,11 @@
           "playsText": "播放次數：23萬",
           "duration": 220,
           "byOther": false,
-          "nameKey": "鑽石之心",
           "credits": {
             "lyrics": "F.I.R.飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "鑽石之心"
         },
         {
           "index": 2,
@@ -1881,11 +1981,12 @@
           "playsText": "播放次數：164萬",
           "duration": 302,
           "byOther": false,
-          "nameKey": "愛在蔓延時",
           "credits": {
             "lyrics": "F.I.R.飛兒樂團、謝宥慧",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "愛在蔓延時",
+          "mv": "-j5rEVqQDNE"
         },
         {
           "index": 3,
@@ -1896,11 +1997,12 @@
           "playsText": "播放次數：169萬",
           "duration": 220,
           "byOther": false,
-          "nameKey": "錦繡夢",
           "credits": {
             "lyrics": "F.I.R.飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "錦繡夢",
+          "mv": "fcxNzaSQ6WM"
         },
         {
           "index": 4,
@@ -1922,11 +2024,12 @@
           "playsText": "播放次數：46萬",
           "duration": 232,
           "byOther": false,
-          "nameKey": "將逝之愛",
           "credits": {
             "lyrics": "嚴雲農、F.I.R.飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "將逝之愛",
+          "mv": "BjRCliIG5QE"
         },
         {
           "index": 6,
@@ -1937,11 +2040,11 @@
           "playsText": "播放次數：8.6萬",
           "duration": 284,
           "byOther": false,
-          "nameKey": "一個世界的遼闊",
           "credits": {
             "lyrics": "F.I.R.飛兒樂團、謝宥慧",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "一個世界的遼闊"
         },
         {
           "index": 7,
@@ -1963,11 +2066,11 @@
           "playsText": "播放次數：44萬",
           "duration": 286,
           "byOther": false,
-          "nameKey": "someday",
           "credits": {
             "lyrics": "F.I.R.飛兒樂團、謝宥慧",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "someday"
         },
         {
           "index": 9,
@@ -1978,11 +2081,11 @@
           "playsText": "播放次數：2.8萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "信者恆信",
           "credits": {
             "lyrics": "F.I.R.飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "信者恆信"
         },
         {
           "index": 10,
@@ -2004,11 +2107,11 @@
           "playsText": "播放次數：5.8萬",
           "duration": 306,
           "byOther": false,
-          "nameKey": "相信希望",
           "credits": {
             "lyrics": "F.I.R.飛兒樂團、謝宥慧",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "相信希望"
         }
       ],
       "releaseDate": "2021-07-20",
@@ -2092,11 +2195,12 @@
           "playsText": "播放次數：169萬",
           "duration": 220,
           "byOther": false,
-          "nameKey": "錦繡夢",
           "credits": {
             "lyrics": "F.I.R.飛兒樂團",
             "music": "F.I.R.飛兒樂團"
-          }
+          },
+          "nameKey": "錦繡夢",
+          "mv": "fcxNzaSQ6WM"
         }
       ],
       "releaseDate": null,
@@ -2152,8 +2256,8 @@
           "playsText": "播放次數：5.9萬",
           "duration": 222,
           "byOther": false,
-          "nameKey": "動畫我是大神仙3片頭曲",
-          "titleZh": "動畫《我是大神仙3》片頭曲 (合作演出：Power Station)"
+          "titleZh": "動畫《我是大神仙3》片頭曲 (合作演出：Power Station)",
+          "nameKey": "動畫我是大神仙3片頭曲"
         }
       ],
       "releaseDate": null,
