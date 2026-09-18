@@ -1,9 +1,12 @@
 {
   "slug": "yellow-huang",
-  "fetchedAt": "2026-09-18T01:17:23.712Z",
+  "fetchedAt": "2026-09-18T18:08:41.038Z",
   "wiki": "黃宣",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1992-05-27",
+      "precision": "day"
+    },
     "died": null,
     "formed": null,
     "disbanded": null

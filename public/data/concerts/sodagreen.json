@@ -1,9 +1,12 @@
 {
   "slug": "sodagreen",
-  "fetchedAt": "2026-09-18T01:13:39.467Z",
+  "fetchedAt": "2026-09-18T18:04:06.122Z",
   "wiki": "蘇打綠",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1982-08-30",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "2001-01-01",

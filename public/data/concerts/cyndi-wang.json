@@ -1,6 +1,6 @@
 {
   "slug": "cyndi-wang",
-  "fetchedAt": "2026-09-18T01:13:06.308Z",
+  "fetchedAt": "2026-09-18T18:03:33.143Z",
   "wiki": "王心凌",
   "bio": {
     "born": {
@@ -12,144 +12,6 @@
     "disbanded": null
   },
   "tours": [
-    {
-      "name": "夢幻遊園地演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2004-06-26",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2004-06-26",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "臺北"
-      ],
-      "cities": [
-        "臺北"
-      ],
-      "venues": [
-        "中正紀念堂"
-      ],
-      "shows": [
-        {
-          "date": "2004-06-26",
-          "precision": "day",
-          "region": "臺北",
-          "city": "臺北",
-          "venue": "中正紀念堂",
-          "lat": 25.034444444444443,
-          "lon": 121.52166666666666,
-          "geo": "venue"
-        }
-      ]
-    },
-    {
-      "name": "愛在星光演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2004-12-11",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2004-12-11",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [],
-      "cities": [
-        "新加坡"
-      ],
-      "venues": [
-        "新加坡國際展覽館"
-      ],
-      "shows": [
-        {
-          "date": "2004-12-11",
-          "precision": "day",
-          "region": "",
-          "city": "新加坡",
-          "venue": "新加坡國際展覽館",
-          "lat": 1.3,
-          "lon": 103.8,
-          "geo": "city"
-        }
-      ]
-    },
-    {
-      "name": "感謝Honey甜蜜慶功演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2005-04-02",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2005-04-02",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "臺北縣"
-      ],
-      "cities": [
-        "臺北縣"
-      ],
-      "venues": [
-        "淡水漁人碼頭"
-      ],
-      "shows": [
-        {
-          "date": "2005-04-02",
-          "precision": "day",
-          "region": "臺北縣",
-          "city": "臺北縣",
-          "venue": "淡水漁人碼頭",
-          "lat": 25.183,
-          "lon": 121.411,
-          "geo": "venue"
-        }
-      ]
-    },
-    {
-      "name": "Cyndi No.1 慶功演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2006-01-14",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2006-01-14",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "臺南"
-      ],
-      "cities": [
-        "臺南"
-      ],
-      "venues": [
-        "臺南縣政府西側廣場"
-      ],
-      "shows": [
-        {
-          "date": "2006-01-14",
-          "precision": "day",
-          "region": "臺南",
-          "city": "臺南",
-          "venue": "臺南縣政府西側廣場",
-          "lat": 22.99,
-          "lon": 120.185,
-          "geo": "city"
-        }
-      ]
-    },
     {
       "name": "就是俊傑世界巡迴演唱會 JJ Lin Just JJ World Tour",
       "page": "就是俊傑世界巡迴演唱會",
@@ -271,12 +133,8 @@
         "precision": "day"
       },
       "showCount": 1,
-      "regions": [
-        "雲頂"
-      ],
-      "cities": [
-        "雲頂"
-      ],
+      "regions": [],
+      "cities": [],
       "venues": [
         "雲頂雲星劇場"
       ],
@@ -294,111 +152,28 @@
       ]
     },
     {
-      "name": "大黏特黏音樂會",
+      "name": "愛不愛專輯首唱會",
       "page": null,
       "kind": "concert",
       "start": {
-        "date": "2011-07-03",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2011-07-03",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "臺北"
-      ],
-      "cities": [
-        "臺北"
-      ],
-      "venues": [
-        "河岸留言西門紅樓展演館"
-      ],
-      "shows": [
-        {
-          "date": "2011-07-03",
-          "precision": "day",
-          "region": "臺北",
-          "city": "臺北",
-          "venue": "河岸留言西門紅樓展演館",
-          "lat": 25.0375,
-          "lon": 121.5625,
-          "geo": "city"
-        }
-      ]
-    },
-    {
-      "name": "鬍鬚稅小慶典",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2012-09-05",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-09-05",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [
-        "臺北"
-      ],
-      "cities": [
-        "臺北"
-      ],
-      "venues": [
-        "河岸留言公館地下室展演館"
-      ],
-      "shows": [
-        {
-          "date": "2012-09-05",
-          "precision": "day",
-          "region": "臺北",
-          "city": "臺北",
-          "venue": "河岸留言公館地下室展演館",
-          "lat": 25.0375,
-          "lon": 121.5625,
-          "geo": "city"
-        }
-      ]
-    },
-    {
-      "name": "愛不愛Live演唱會",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2013-01-04",
+        "date": "2013-01-12",
         "precision": "day"
       },
       "end": {
         "date": "2013-01-12",
         "precision": "day"
       },
-      "showCount": 2,
+      "showCount": 1,
       "regions": [
-        "臺北",
         "杭州"
       ],
       "cities": [
-        "臺北",
         "杭州"
       ],
       "venues": [
-        "Legacy傳音樂展演空間",
         "東坡大劇院"
       ],
       "shows": [
-        {
-          "date": "2013-01-04",
-          "precision": "day",
-          "region": "臺北",
-          "city": "臺北",
-          "venue": "Legacy傳音樂展演空間",
-          "lat": 25.0375,
-          "lon": 121.5625,
-          "geo": "city"
-        },
         {
           "date": "2013-01-12",
           "precision": "day",

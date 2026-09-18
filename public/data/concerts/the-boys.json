@@ -1,9 +1,12 @@
 {
   "slug": "the-boys",
-  "fetchedAt": "2026-09-18T06:19:47.329Z",
+  "fetchedAt": "2026-09-18T17:55:58.522Z",
   "wiki": "紅孩兒 (團體)",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1970-08-18",
+      "precision": "day"
+    },
     "died": null,
     "formed": null,
     "disbanded": null

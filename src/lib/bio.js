@@ -18,13 +18,30 @@ function yearsBetween(from, to) {
 
 const year = (d) => d?.slice(0, 4) ?? ''
 
-export function useYears() {
-  if (!started) {
-    started = true
-    loadBio()
-      .then((d) => (table.value = d.artists))
-      .catch(() => (table.value = {})) // 沒有 bio.json 就不顯示，不擋畫面
+/** 共用的載入（useYears 與 useAge 都靠這份表） */
+function ensureLoaded() {
+  if (started) return
+  started = true
+  loadBio()
+    .then((d) => (table.value = d.artists))
+    .catch(() => (table.value = {})) // 沒有 bio.json 就不顯示，不擋畫面
+}
+
+/**
+ * 數字年齡，給排序用：在世的算到今天，已故的是享年。
+ * 團體沒有年紀、沒有出生日期的也回 null —— 排序時這些會被排到最後
+ */
+export function useAge() {
+  ensureLoaded()
+  return (slug) => {
+    const b = table.value?.[slug]
+    if (!b || b.group || !b.born) return null
+    return yearsBetween(b.born, b.died ? new Date(b.died) : new Date())
   }
+}
+
+export function useYears() {
+  ensureLoaded()
   /**
    * 在世「(53)」、已故「1953–1995 (42)」、已解散團體「1994–2025」；
    * 還在活動的團體沒有年紀，寫個數字會被誤讀成年齡，所以不顯示。

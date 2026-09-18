@@ -1,9 +1,12 @@
 {
   "slug": "da-mouth",
-  "fetchedAt": "2026-09-18T01:14:38.552Z",
+  "fetchedAt": "2026-09-18T18:05:19.350Z",
   "wiki": "大嘴巴",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1980-06-26",
+      "precision": "day"
+    },
     "died": null,
     "formed": null,
     "disbanded": null

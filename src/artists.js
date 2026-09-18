@@ -154,7 +154,7 @@ export const ARTISTS = [
   { slug: 'may-sun', group: 'female', lang: 'tw', name: '孫淑媚', en: 'May Sun', debut: '1995', channelId: 'UC2T8pvxEjmmZag8oL9eNGMA', extraChannelIds: ['UC1q9hUU3J6e0qGrKNFw0eRA'], wiki: '孫淑媚', aliases: ['孫向晴'] },
   { slug: 'su-ming-yuan', group: 'male', lang: 'tw', name: '蘇明淵', en: 'Justin Su', debut: '1995-05', channelId: 'UCOHfYkEfs3qF8NYkzAdmoUw', wiki: '蘇明淵' },
   { slug: 'valen-hsu', group: 'female', name: '許茹芸', en: 'Valen Hsu', debut: '1995-06', channelId: 'UCZgpCUQ69DOR8OUKAxD8exw', wiki: '許茹芸' },
-  { slug: 'daniel-chan', group: 'male', name: '陳曉東', en: 'Daniel Chan', debut: '1995-12-01', channelId: 'UC0MsG_EpoTYroJTVQKFRJEw', wiki: '陳曉東', aliases: ['陈晓东'] },
+  { slug: 'daniel-chan', group: 'male', name: '陳曉東', en: 'Daniel Chan', debut: '1995-12-01', channelId: 'UC0MsG_EpoTYroJTVQKFRJEw', wiki: '陳曉東 (藝人)', aliases: ['陈晓东'] },
   { slug: 'julia-peng', group: 'female', name: '彭佳慧', en: 'Julia Peng', debut: '1996', channelId: 'UC1tBiwuyXgWNLWiUpx53TRA', wiki: '彭佳慧' },
   { slug: 'gigi-leung', group: 'female', name: '梁詠琪', en: 'Gigi Leung', debut: '1996', channelId: 'UC_yk6-0jRw__Ys5cakYotcg', wiki: '梁詠琪' },
   { slug: 'denise-ho', group: 'female', name: '何韻詩', en: 'Denise Ho', debut: '1996', channelId: 'UCq6bV8xawEbYLj7cDTP7iNw', wiki: '何韻詩', aliases: ['何韵诗', 'HOCC'] },

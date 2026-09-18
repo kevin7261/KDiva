@@ -1,9 +1,12 @@
 {
   "slug": "fir",
-  "fetchedAt": "2026-09-18T01:13:33.826Z",
+  "fetchedAt": "2026-09-18T18:04:00.053Z",
   "wiki": "F.I.R.飛兒樂團",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1971-10-28",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "2004-01-01",
@@ -116,46 +119,23 @@
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2007-10-20",
+        "date": "2008-11-29",
         "precision": "day"
       },
       "end": {
         "date": "2009-11-07",
         "precision": "day"
       },
-      "showCount": 5,
+      "showCount": 2,
       "regions": [],
       "cities": [
-        "臺北小巨蛋"
+        "馬來西亞雲頂雲星劇場"
       ],
       "venues": [
-        "臺北小巨蛋",
-        "新加坡室內體育館",
         "馬來西亞雲頂雲星劇場",
-        "香港亞洲國際博覽館",
         "澳門金光綜藝館"
       ],
       "shows": [
-        {
-          "date": "2007-10-20",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "臺北小巨蛋",
-          "lat": 25.0506985,
-          "lon": 121.5501221,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-08-08",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "新加坡室內體育館",
-          "lat": 1.3005555555555555,
-          "lon": 103.87444444444445,
-          "geo": "venue"
-        },
         {
           "date": "2008-11-29",
           "precision": "day",
@@ -164,16 +144,6 @@
           "venue": "馬來西亞雲頂雲星劇場",
           "lat": 3.7805111,
           "lon": 102.31436166666667,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-12-24",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港亞洲國際博覽館",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
           "geo": "venue"
         },
         {
@@ -200,14 +170,13 @@
         "date": "2010-02-15",
         "precision": "day"
       },
-      "showCount": 3,
+      "showCount": 2,
       "regions": [],
       "cities": [
         "臺北New Life House 新生命教會B1"
       ],
       "venues": [
         "臺北New Life House 新生命教會B1",
-        "臺北西門河岸留言",
         "溫哥華"
       ],
       "shows": [
@@ -217,13 +186,6 @@
           "region": "",
           "city": "",
           "venue": "臺北New Life House 新生命教會B1"
-        },
-        {
-          "date": "2010-01-30",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "臺北西門河岸留言"
         },
         {
           "date": "2010-02-15",
@@ -284,84 +246,28 @@
       ]
     },
     {
-      "name": "F.I.R. 微笑紀念日 演唱會",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2010-03-27",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2010-03-27",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [],
-      "cities": [
-        "北京展覽館劇場"
-      ],
-      "venues": [
-        "北京展覽館劇場"
-      ],
-      "shows": [
-        {
-          "date": "2010-03-27",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "北京展覽館劇場",
-          "lat": 39.93939,
-          "lon": 116.33794,
-          "geo": "venue"
-        }
-      ]
-    },
-    {
       "name": "創‧世紀It's My Live 世界巡迴演唱會",
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2010-07-05",
+        "date": "2011-06-18",
         "precision": "day"
       },
       "end": {
         "date": "2012-06-30",
         "precision": "day"
       },
-      "showCount": 6,
+      "showCount": 3,
       "regions": [],
       "cities": [
-        "香港紅磡體育館"
+        "美國凱薩皇宮大賭場 CAESARS -Atlantic City-"
       ],
       "venues": [
-        "香港紅磡體育館",
-        "新加坡室內體育館",
         "美國凱薩皇宮大賭場 CAESARS -Atlantic City-",
-        "臺北臺大綜合體育館",
         "廣州體育館",
         "佛山市嶺南明珠體育館"
       ],
       "shows": [
-        {
-          "date": "2010-07-05",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港紅磡體育館",
-          "lat": 22.3015,
-          "lon": 114.182,
-          "geo": "venue"
-        },
-        {
-          "date": "2010-07-09",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "新加坡室內體育館",
-          "lat": 1.3005555555555555,
-          "lon": 103.87444444444445,
-          "geo": "venue"
-        },
         {
           "date": "2011-06-18",
           "precision": "day",
@@ -371,13 +277,6 @@
           "lat": 39.828175,
           "lon": -98.5795,
           "geo": "venue"
-        },
-        {
-          "date": "2011-07-09",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "臺北臺大綜合體育館"
         },
         {
           "date": "2011-12-31",
@@ -398,36 +297,6 @@
           "lat": 23.029167,
           "lon": 113.105556,
           "geo": "venue"
-        }
-      ]
-    },
-    {
-      "name": "今日\"R\"最大 沁生派對",
-      "page": null,
-      "kind": "concert",
-      "start": {
-        "date": "2012-02-25",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-02-25",
-        "precision": "day"
-      },
-      "showCount": 1,
-      "regions": [],
-      "cities": [
-        "臺北這牆音樂藝文展演空間"
-      ],
-      "venues": [
-        "臺北這牆音樂藝文展演空間"
-      ],
-      "shows": [
-        {
-          "date": "2012-02-25",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "臺北這牆音樂藝文展演空間"
         }
       ]
     },

@@ -1,13 +1,16 @@
 {
   "slug": "gigi-leung",
-  "fetchedAt": "2026-09-18T01:08:45.481Z",
+  "fetchedAt": "2026-09-18T17:59:17.988Z",
   "wiki": "梁詠琪",
   "bio": {
     "born": {
       "date": "1976-03-25",
       "precision": "day"
     },
-    "died": null,
+    "died": {
+      "date": "2009-01-01",
+      "precision": "year"
+    },
     "formed": null,
     "disbanded": null
   },

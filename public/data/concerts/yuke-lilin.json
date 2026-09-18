@@ -1,9 +1,12 @@
 {
   "slug": "yuke-lilin",
-  "fetchedAt": "2026-09-18T07:18:08.375Z",
+  "fetchedAt": "2026-09-18T17:57:13.431Z",
   "wiki": "優客李林",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1966-08-26",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "1991-01-01",

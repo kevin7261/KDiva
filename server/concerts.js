@@ -181,7 +181,12 @@ const H = {
   region: /國家|国家|地區|地区|country|region/i,
   city: /城市|city|地點|地点/i,
   venue: /場館|场馆|場地|场地|venue|地點|地点/i,
+  // 誰的演唱會：表格常另有一欄寫主要歌手，只是嘉賓的場次不該算成他自己的
+  mainArtist: /主要歌手|主唱|演出者|演唱者|表演者|歌手|藝人|艺人/,
+  note: /備註|备注|附註|附注|說明|说明|note/i,
 }
+// 備註寫這些字樣就是別人的場子，他只是去幫唱
+const GUEST_RE = /嘉賓|嘉宾|助唱|合唱|客串|特別來賓|特别来宾|站台/
 const find = (header, re, not) => header.findIndex((h) => re.test(h) && !(not && not.test(h)))
 
 function parseTourTable(header, rows, context) {
@@ -196,8 +201,20 @@ function parseTourTable(header, rows, context) {
   const cell = (row, i) => (i >= 0 && row[i] != null ? cellText(row[i]) : '')
 
   if (nameCol >= 0 && dateCol >= 0) {
+    // 「主要歌手」欄不是他、或備註寫著嘉賓助唱時，那是別人的演唱會（齊豫的表裡混了李泰祥、周華健的場次）
+    const mainCol = find(header, H.mainArtist, H.nameNot)
+    const noteCol = find(header, H.note)
+    const keys = context?.artistKeys ?? []
+    const isMine = (row) => {
+      if (!keys.length) return true
+      if (noteCol >= 0 && GUEST_RE.test(cellText(row[noteCol] ?? ''))) return false
+      if (mainCol < 0) return true
+      const who = normalizeTitle(cellText(row[mainCol] ?? ''))
+      return !who || keys.some((k) => k && who.includes(k))
+    }
     // 一列一個演唱會
     for (const row of rows) {
+      if (!isMine(row)) continue
       const name = cleanName(row[nameCol] ?? '')
       const range = dateRange([row[dateCol], endCol >= 0 ? row[endCol] : ''].filter(Boolean).join(' - '))
       if (!name || !range || name.length > 80) continue
@@ -576,6 +593,53 @@ async function fetchBio(qid) {
   return { born: time('P569'), died: time('P570'), formed: time('P571'), disbanded: time('P576') }
 }
 
+/**
+ * Wikidata 常缺台灣歌手的生日（黃宣、陳曉東等），Wikipedia 資訊框有就補上。
+ * 認得 {{bd|1992年|5月27日|…}}、{{birth date and age|1974|10|15}}、「出生日期 = 1974年10月15日」，
+ * 團體則認「成立/成軍/出道日期」。只填 Wikidata 沒給的欄位，不覆蓋。
+ */
+function bioFromWikitext(wt) {
+  const make = (y, m, d) => {
+    if (!y) return null
+    const precision = d ? 'day' : m ? 'month' : 'year'
+    return { date: `${y}-${String(m || 1).padStart(2, '0')}-${String(d || 1).padStart(2, '0')}`, precision }
+  }
+  const out = { born: null, died: null, formed: null, disbanded: null }
+
+  // {{bd|1992年|5月27日|2025年|1月1日}}：前兩段是出生，後兩段（有的話）是逝世
+  const bd = wt.match(/\{\{\s*[Bb][Dd]\s*\|([^}]*)\}\}/)
+  if (bd) {
+    const parts = bd[1].split('|').map((x) => x.trim())
+    const ym = (a, b) => {
+      const y = a?.match(/(\d{4})/)?.[1]
+      const md = b?.match(/(\d{1,2})\s*月\s*(\d{1,2})?/)
+      return make(y, md?.[1], md?.[2])
+    }
+    out.born = ym(parts[0], parts[1])
+    if (parts[2] && /\d{4}/.test(parts[2])) out.died = ym(parts[2], parts[3])
+  }
+
+  const tmpl = (keys) => {
+    const m = wt.match(new RegExp(`\\{\\{\\s*(?:${keys})\\s*\\|\\s*(\\d{4})\\s*\\|?\\s*(\\d{1,2})?\\s*\\|?\\s*(\\d{1,2})?`, 'i'))
+    return m ? make(m[1], m[2], m[3]) : null
+  }
+  const field = (names) => {
+    const m = wt.match(new RegExp(`^\\s*\\|\\s*(?:${names})\\s*=\\s*(.+)$`, 'im'))
+    if (!m) return null
+    const t = m[1]
+    const inner = t.match(/\{\{\s*(?:birth[ _]date(?:[ _]and[ _]age)?|start[ _]date(?:[ _]and[ _]age)?|death[ _]date(?:[ _]and[ _]age)?)\s*\|\s*(\d{4})\s*\|?\s*(\d{1,2})?\s*\|?\s*(\d{1,2})?/i)
+    if (inner) return make(inner[1], inner[2], inner[3])
+    const cn = t.match(/(\d{4})\s*年(?:\s*(\d{1,2})\s*月)?(?:\s*(\d{1,2})\s*日)?/)
+    return cn ? make(cn[1], cn[2], cn[3]) : null
+  }
+
+  out.born ??= tmpl('birth[ _]date(?:[ _]and[ _]age)?') ?? field('出生日期|出生|生日')
+  out.died ??= tmpl('death[ _]date(?:[ _]and[ _]age)?') ?? field('逝世日期|逝世|死亡日期')
+  out.formed ??= field('成立時間|成立时间|成立|成軍|成军|組成|组成')
+  out.disbanded ??= field('解散時間|解散时间|解散')
+  return out
+}
+
 // ---------- 主流程 ----------
 
 export async function fetchConcerts(artistConfig, log = () => {}) {
@@ -601,6 +665,9 @@ export async function fetchConcerts(artistConfig, log = () => {}) {
       log(`  Wikidata 讀取失敗：${err.message}`)
     }
   }
+  // Wikidata 沒有的欄位改由 Wikipedia 資訊框補
+  const fromWiki = bioFromWikitext(main.parse.wikitext)
+  for (const k of ['born', 'died', 'formed', 'disbanded']) result.bio[k] ??= fromWiki[k]
 
   // 演唱會列表頁：慣用名稱，加上條目裡連到、名稱像演唱會列表的頁面
   const base = realTitle.replace(/\s*[（(][^）)]*[）)]\s*$/, '')
@@ -624,10 +691,11 @@ export async function fetchConcerts(artistConfig, log = () => {}) {
         // 列表頁的章節標題、歌手條目演唱會章節底下的小節標題（「====想妳的彼暗 巡迴演唱會====」）就是演唱會名稱
         name: (page.list && sec.path.length) || sec.path.length >= 2 ? cleanName(sec.path.at(-1)) : null,
         page: mainLink ? toTW(mainLink) : null,
+        artistKeys,
       }
       if (context.name && !CONCERT_RE.test(sec.path.at(-1) ?? '') && !/(?:19|20)\d{2}/.test(sec.path.at(-1) ?? '')) context.name = null
       for (const chunk of collapsedChunks(sec.text)) {
-        const ctx = chunk.title ? { name: cleanName(chunk.title), page: null } : context
+        const ctx = chunk.title ? { name: cleanName(chunk.title), page: null, artistKeys } : context
         for (const table of readTables(chunk.text)) {
           const { header, rows } = withHeader(table)
           if (header) found.push(...parseTourTable(header, rows, ctx))

@@ -1,9 +1,12 @@
 {
   "slug": "eggplantegg",
-  "fetchedAt": "2026-09-18T01:16:58.629Z",
+  "fetchedAt": "2026-09-18T18:08:12.472Z",
   "wiki": "茄子蛋",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1990-09-10",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "2012-01-01",

@@ -1,9 +1,12 @@
 {
   "slug": "china-dolls",
-  "fetchedAt": "2026-09-18T01:10:14.227Z",
+  "fetchedAt": "2026-09-18T18:00:47.342Z",
   "wiki": "中國娃娃 (組合)",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1979-06-12",
+      "precision": "day"
+    },
     "died": null,
     "formed": null,
     "disbanded": null

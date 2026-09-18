@@ -1,9 +1,12 @@
 {
   "slug": "mayday",
-  "fetchedAt": "2026-09-18T01:10:31.594Z",
+  "fetchedAt": "2026-09-18T18:01:08.613Z",
   "wiki": "五月天",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1975-12-06",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "1997-01-01",

@@ -1,12 +1,173 @@
 {
   "slug": "daniel-chan",
-  "fetchedAt": "2026-09-18T01:08:56.384Z",
-  "wiki": "陳曉東",
+  "fetchedAt": "2026-09-18T17:59:09.493Z",
+  "wiki": "陳曉東 (藝人)",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1975-09-03",
+      "precision": "day"
+    },
     "died": null,
     "formed": null,
     "disbanded": null
   },
-  "tours": []
+  "tours": [
+    {
+      "name": "PLANET XT世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2018-02-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-03-09",
+        "precision": "day"
+      },
+      "showCount": 3,
+      "regions": [],
+      "cities": [
+        "澳門",
+        "臺北",
+        "香港"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2018-02-10",
+          "precision": "day",
+          "region": "",
+          "city": "澳門",
+          "venue": "",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2018-07-28",
+          "precision": "day",
+          "region": "",
+          "city": "臺北",
+          "venue": "",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2019-03-09",
+          "precision": "day",
+          "region": "",
+          "city": "香港",
+          "venue": "",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "Harbour the Sonic - 陳曉東2022演唱會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2022-10-22",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2022-10-22",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "REFLECTION心有獨鍾30週年世界巡迴演唱會",
+      "page": "REFLECTION心有獨鍾30週年世界巡迴演唱會",
+      "kind": "tour",
+      "start": {
+        "date": "2024-08-10",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2026-06-27",
+        "precision": "day"
+      },
+      "showCount": 5,
+      "regions": [
+        "中國大陸",
+        "臺灣",
+        "香港",
+        "馬來西亞"
+      ],
+      "cities": [
+        "廣州",
+        "臺北",
+        "佛山",
+        "香港",
+        "彭亨"
+      ],
+      "venues": [
+        "廣州體育館1號館",
+        "臺北小巨蛋",
+        "佛山國際體育文化演藝中心",
+        "紅磡體育館",
+        "雲頂雲星劇場"
+      ],
+      "shows": [
+        {
+          "date": "2024-08-10",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "廣州體育館1號館",
+          "lat": 23.183889,
+          "lon": 113.271667,
+          "geo": "venue"
+        },
+        {
+          "date": "2024-09-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "臺北小巨蛋",
+          "lat": 25.0506985,
+          "lon": 121.5501221,
+          "geo": "venue"
+        },
+        {
+          "date": "2025-04-12",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "佛山",
+          "venue": "佛山國際體育文化演藝中心",
+          "lat": 22.959949,
+          "lon": 113.140953,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-06-19",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "紅磡體育館",
+          "lat": 22.3015,
+          "lon": 114.182,
+          "geo": "venue"
+        },
+        {
+          "date": "2026-06-27",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "彭亨",
+          "venue": "雲頂雲星劇場",
+          "lat": 3.42368,
+          "lon": 101.79335,
+          "geo": "venue"
+        }
+      ]
+    }
+  ]
 }

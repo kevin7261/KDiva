@@ -1,9 +1,12 @@
 {
   "slug": "5566",
-  "fetchedAt": "2026-09-18T01:12:46.476Z",
+  "fetchedAt": "2026-09-18T18:03:13.717Z",
   "wiki": "5566",
   "bio": {
-    "born": null,
+    "born": {
+      "date": "1978-02-20",
+      "precision": "day"
+    },
     "died": null,
     "formed": {
       "date": "2002-01-01",

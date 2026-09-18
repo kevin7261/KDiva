@@ -4,7 +4,7 @@ import { RouterLink, useRouter } from 'vue-router'
 import { GROUPS, artistsIn } from '../artists.js'
 import { getModel, loadAll, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
-import { useYears } from '../lib/bio.js'
+import { useAge, useYears } from '../lib/bio.js'
 import { formatCount, formatDate, watchUrl, creditLines } from '../lib/format.js'
 import BarList from '../components/BarList.vue'
 import ThemeToggle from '../components/ThemeToggle.vue'
@@ -13,6 +13,7 @@ const props = defineProps({ group: { type: String, default: 'female' } })
 
 const router = useRouter()
 const years = useYears()
+const ageOf = useAge()
 const canRefresh = import.meta.env.DEV
 const errors = ref([])
 const refreshing = ref('')
@@ -33,9 +34,11 @@ watch(
 
 const entries = computed(() => artists.value.map((a) => ({ artist: a, model: getModel(a.slug) })))
 
-// 歌手卡片排序：出道年份、播放次數、專輯數、歌曲數、姓名，可切換正反向（記在瀏覽器）
+// 歌手卡片排序：出道年份、年齡、播放次數、專輯數、歌曲數、姓名，可切換正反向（記在瀏覽器）
+// 年齡：團體與沒有出生日期的回 null，排序器會把它們排到最後
 const SORTS = [
   { key: 'debut', label: '出道年份', get: (e) => e.artist.debut, asc: true },
+  { key: 'age', label: '年齡', get: (e) => ageOf(e.artist.slug), asc: false },
   { key: 'plays', label: '播放次數', get: (e) => e.model?.totalPlays, asc: false },
   { key: 'albums', label: '專輯數', get: (e) => e.model?.albums.length, asc: false },
   { key: 'songs', label: '歌曲數', get: (e) => e.model?.songs.length, asc: false },

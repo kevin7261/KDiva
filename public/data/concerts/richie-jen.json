@@ -1,6 +1,6 @@
 {
   "slug": "richie-jen",
-  "fetchedAt": "2026-09-18T01:06:01.353Z",
+  "fetchedAt": "2026-09-18T17:56:31.685Z",
   "wiki": "任賢齊",
   "bio": {
     "born": {
@@ -74,99 +74,6 @@
           "venue": "昆明及重慶成都",
           "lat": 25.043333333333,
           "lon": 102.70611111111,
-          "geo": "venue"
-        }
-      ]
-    },
-    {
-      "name": "任賢齊世界巡迴演唱會",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "1998-11-08",
-        "precision": "day"
-      },
-      "end": {
-        "date": "1999-11-28",
-        "precision": "day"
-      },
-      "showCount": 7,
-      "regions": [],
-      "cities": [
-        "臺灣 臺北"
-      ],
-      "venues": [
-        "臺灣 臺北",
-        "香港",
-        "臺灣 屏東",
-        "美國 大西洋城"
-      ],
-      "shows": [
-        {
-          "date": "1998-11-08",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "臺灣 臺北"
-        },
-        {
-          "date": "1999-06-26",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "1999-06-27",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "1999-08-14",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "臺灣 屏東",
-          "lat": 22.675494444444,
-          "lon": 120.49141388889,
-          "geo": "venue"
-        },
-        {
-          "date": "1999-11-25",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 大西洋城",
-          "lat": 39.3625,
-          "lon": -74.425,
-          "geo": "venue"
-        },
-        {
-          "date": "1999-11-27",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 大西洋城",
-          "lat": 39.3625,
-          "lon": -74.425,
-          "geo": "venue"
-        },
-        {
-          "date": "1999-11-28",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 大西洋城",
-          "lat": 39.3625,
-          "lon": -74.425,
           "geo": "venue"
         }
       ]
@@ -271,6 +178,70 @@
       ]
     },
     {
+      "name": "任賢齊世界巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "1999-08-14",
+        "precision": "day"
+      },
+      "end": {
+        "date": "1999-11-28",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [],
+      "cities": [
+        "臺灣 屏東"
+      ],
+      "venues": [
+        "臺灣 屏東",
+        "美國 大西洋城"
+      ],
+      "shows": [
+        {
+          "date": "1999-08-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺灣 屏東",
+          "lat": 22.675494444444,
+          "lon": 120.49141388889,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-11-25",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "美國 大西洋城",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-11-27",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "美國 大西洋城",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "venue"
+        },
+        {
+          "date": "1999-11-28",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "美國 大西洋城",
+          "lat": 39.3625,
+          "lon": -74.425,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
       "name": "為Love走唱會",
       "page": null,
       "kind": "concert",
@@ -308,14 +279,14 @@
       "page": null,
       "kind": "tour",
       "start": {
-        "date": "2000-07-08",
+        "date": "2000-07-09",
         "precision": "day"
       },
       "end": {
         "date": "2000-07-29",
         "precision": "day"
       },
-      "showCount": 6,
+      "showCount": 5,
       "regions": [],
       "cities": [
         "北京"
@@ -328,16 +299,6 @@
         "諸暨"
       ],
       "shows": [
-        {
-          "date": "2000-07-08",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "北京",
-          "lat": 39.90403,
-          "lon": 116.407526,
-          "geo": "venue"
-        },
         {
           "date": "2000-07-09",
           "precision": "day",
@@ -462,10 +423,10 @@
         "precision": "day"
       },
       "end": {
-        "date": "2011-07-23",
+        "date": "2011-02-06",
         "precision": "day"
       },
-      "showCount": 44,
+      "showCount": 24,
       "regions": [],
       "cities": [
         "新加坡"
@@ -482,23 +443,12 @@
         "成都",
         "廣州",
         "深圳",
-        "香港",
         "美國 舊金山",
-        "美國 康州",
         "澳洲 雪梨",
-        "澳洲 墨爾本",
-        "雅加達",
         "紐西蘭 奧克蘭",
-        "溫州",
-        "南韓 首爾",
         "日本 東京",
-        "南京",
-        "澳門",
-        "天津",
-        "美國 拉斯維加斯",
-        "美國 聖地亞哥",
-        "上海",
-        "印尼 棉蘭"
+        "印尼 棉蘭",
+        "澳門"
       ],
       "shows": [
         {
@@ -632,36 +582,6 @@
           "geo": "venue"
         },
         {
-          "date": "2002-05-16",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "2002-05-17",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "2002-05-18",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
           "date": "2002-11-01",
           "precision": "day",
           "region": "",
@@ -692,16 +612,6 @@
           "geo": "venue"
         },
         {
-          "date": "2002-11-28",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 康州",
-          "lat": 41.6,
-          "lon": -72.7,
-          "geo": "venue"
-        },
-        {
           "date": "2003-04-17",
           "precision": "day",
           "region": "",
@@ -712,26 +622,6 @@
           "geo": "venue"
         },
         {
-          "date": "2003-04-19",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "澳洲 墨爾本",
-          "lat": -37.814166666666665,
-          "lon": 144.96305555555554,
-          "geo": "venue"
-        },
-        {
-          "date": "2003-06-06",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "雅加達",
-          "lat": -6.175277777777778,
-          "lon": 106.82694444444445,
-          "geo": "venue"
-        },
-        {
           "date": "2003-08-02",
           "precision": "day",
           "region": "",
@@ -739,56 +629,6 @@
           "venue": "紐西蘭 奧克蘭",
           "lat": -36.84916666666667,
           "lon": 174.76527777777778,
-          "geo": "venue"
-        },
-        {
-          "date": "2006-03-18",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "溫州",
-          "lat": 27.999128,
-          "lon": 120.656075,
-          "geo": "venue"
-        },
-        {
-          "date": "2006-06-10",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 大西洋城",
-          "lat": 39.3625,
-          "lon": -74.425,
-          "geo": "venue"
-        },
-        {
-          "date": "2006-06-11",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 大西洋城",
-          "lat": 39.3625,
-          "lon": -74.425,
-          "geo": "venue"
-        },
-        {
-          "date": "2006-10-02",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "南韓 首爾",
-          "lat": 37.56,
-          "lon": 126.99,
-          "geo": "venue"
-        },
-        {
-          "date": "2006-10-06",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "瀋陽",
-          "lat": 41.8025,
-          "lon": 123.42805555555556,
           "geo": "venue"
         },
         {
@@ -809,86 +649,6 @@
           "venue": "日本 東京",
           "lat": 35.683889,
           "lon": 139.774444,
-          "geo": "venue"
-        },
-        {
-          "date": "2006-12-31",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "南京",
-          "lat": 32.060833333333335,
-          "lon": 118.77888888888889,
-          "geo": "venue"
-        },
-        {
-          "date": "2007-04-07",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "澳門",
-          "lat": 22.19,
-          "lon": 113.53805555555556,
-          "geo": "venue"
-        },
-        {
-          "date": "2007-12-22",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "天津",
-          "lat": 39.146666666667,
-          "lon": 117.20555555556,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-02-09",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 拉斯維加斯",
-          "lat": 36.16722222222222,
-          "lon": -115.14861111111111,
-          "geo": "venue"
-        },
-        {
-          "date": "2009-10-03",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 聖地亞哥",
-          "lat": 32.715,
-          "lon": -117.1625,
-          "geo": "venue"
-        },
-        {
-          "date": "2009-10-07",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "加拿大 多倫多",
-          "lat": 43.670277777778,
-          "lon": -79.386666666667,
-          "geo": "venue"
-        },
-        {
-          "date": "2009-12-31",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "上海",
-          "lat": 31.2325,
-          "lon": 121.46916666666667,
-          "geo": "venue"
-        },
-        {
-          "date": "2010-02-20",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "澳門",
-          "lat": 22.19,
-          "lon": 113.53805555555556,
           "geo": "venue"
         },
         {
@@ -929,16 +689,6 @@
           "venue": "澳門",
           "lat": 22.19,
           "lon": 113.53805555555556,
-          "geo": "venue"
-        },
-        {
-          "date": "2011-07-23",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "馬來西亞 吉隆坡",
-          "lat": 3.1477777777778,
-          "lon": 101.69527777778,
           "geo": "venue"
         }
       ]
@@ -1071,125 +821,6 @@
           "venue": "香港",
           "lat": 22.278333333333,
           "lon": 114.15861111111,
-          "geo": "venue"
-        }
-      ]
-    },
-    {
-      "name": "齊齊玩+齊長大+一齊唱 2004世界巡迴演唱會",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2004-04-30",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2004-12-25",
-        "precision": "day"
-      },
-      "showCount": 9,
-      "regions": [],
-      "cities": [
-        "香港"
-      ],
-      "venues": [
-        "香港",
-        "北京",
-        "上海",
-        "武漢",
-        "馬來西亞 吉隆坡",
-        "美國 康州",
-        "美國 拉斯維加斯"
-      ],
-      "shows": [
-        {
-          "date": "2004-04-30",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "2004-05-01",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "2004-05-22",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "北京",
-          "lat": 39.90403,
-          "lon": 116.407526,
-          "geo": "venue"
-        },
-        {
-          "date": "2004-05-30",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "上海",
-          "lat": 31.2325,
-          "lon": 121.46916666666667,
-          "geo": "venue"
-        },
-        {
-          "date": "2004-06-12",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "武漢",
-          "lat": 30.595,
-          "lon": 114.2975,
-          "geo": "venue"
-        },
-        {
-          "date": "2004-07-03",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "馬來西亞 吉隆坡",
-          "lat": 3.1477777777778,
-          "lon": 101.69527777778,
-          "geo": "venue"
-        },
-        {
-          "date": "2004-11-24",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 康州",
-          "lat": 41.6,
-          "lon": -72.7,
-          "geo": "venue"
-        },
-        {
-          "date": "2004-11-25",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 康州",
-          "lat": 41.6,
-          "lon": -72.7,
-          "geo": "venue"
-        },
-        {
-          "date": "2004-12-25",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 拉斯維加斯",
-          "lat": 36.16722222222222,
-          "lon": -115.14861111111111,
           "geo": "venue"
         }
       ]
@@ -1379,114 +1010,6 @@
       ]
     },
     {
-      "name": "Love&Beloved 世界巡迴演唱會",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2008-05-04",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2008-12-20",
-        "precision": "day"
-      },
-      "showCount": 8,
-      "regions": [],
-      "cities": [
-        "香港"
-      ],
-      "venues": [
-        "香港",
-        "馬來西亞 吉隆坡",
-        "美國 康州",
-        "哈爾濱",
-        "鄭州",
-        "杭州"
-      ],
-      "shows": [
-        {
-          "date": "2008-05-04",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-05-05",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-11-08",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "馬來西亞 吉隆坡",
-          "lat": 3.1477777777778,
-          "lon": 101.69527777778,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-11-27",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 康州",
-          "lat": 41.6,
-          "lon": -72.7,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-11-28",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "美國 康州",
-          "lat": 41.6,
-          "lon": -72.7,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-12-06",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "哈爾濱",
-          "lat": 45.75,
-          "lon": 126.63333333333,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-12-13",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "鄭州",
-          "lat": 34.74919,
-          "lon": 113.66051,
-          "geo": "venue"
-        },
-        {
-          "date": "2008-12-20",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "杭州",
-          "lat": 30.25,
-          "lon": 120.1675,
-          "geo": "venue"
-        }
-      ]
-    },
-    {
       "name": "東亞群星演唱會",
       "page": null,
       "kind": "concert",
@@ -1657,82 +1180,6 @@
           "venue": "香港",
           "lat": 22.278333333333,
           "lon": 114.15861111111,
-          "geo": "venue"
-        }
-      ]
-    },
-    {
-      "name": "神魔人世界巡迴演唱會",
-      "page": null,
-      "kind": "tour",
-      "start": {
-        "date": "2012-02-18",
-        "precision": "day"
-      },
-      "end": {
-        "date": "2012-11-03",
-        "precision": "day"
-      },
-      "showCount": 5,
-      "regions": [],
-      "cities": [
-        "香港"
-      ],
-      "venues": [
-        "香港",
-        "澳門",
-        "馬來西亞 吉隆坡",
-        "印尼 棉蘭"
-      ],
-      "shows": [
-        {
-          "date": "2012-02-18",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "2012-02-19",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "香港",
-          "lat": 22.278333333333,
-          "lon": 114.15861111111,
-          "geo": "venue"
-        },
-        {
-          "date": "2012-07-07",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "澳門",
-          "lat": 22.19,
-          "lon": 113.53805555555556,
-          "geo": "venue"
-        },
-        {
-          "date": "2012-10-12",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "馬來西亞 吉隆坡",
-          "lat": 3.1477777777778,
-          "lon": 101.69527777778,
-          "geo": "venue"
-        },
-        {
-          "date": "2012-11-03",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "印尼 棉蘭",
-          "lat": 3.589444444444444,
-          "lon": 98.67388888888888,
           "geo": "venue"
         }
       ]
@@ -2036,7 +1483,7 @@
         "date": "2024-12-08",
         "precision": "day"
       },
-      "showCount": 62,
+      "showCount": 61,
       "regions": [],
       "cities": [
         "武漢"
@@ -2045,7 +1492,6 @@
         "武漢",
         "北京",
         "瀋陽",
-        "南京",
         "深圳",
         "寧波",
         "西安",
@@ -2147,16 +1593,6 @@
           "venue": "瀋陽",
           "lat": 41.8025,
           "lon": 123.42805555555556,
-          "geo": "venue"
-        },
-        {
-          "date": "2023-06-03",
-          "precision": "day",
-          "region": "",
-          "city": "",
-          "venue": "南京",
-          "lat": 32.060833333333335,
-          "lon": 118.77888888888889,
           "geo": "venue"
         },
         {
