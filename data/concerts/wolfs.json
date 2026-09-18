@@ -1,0 +1,137 @@
+{
+  "slug": "wolfs",
+  "fetchedAt": "2026-09-18T06:20:09.687Z",
+  "wiki": "五堅情",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": {
+      "date": "2019-01-01",
+      "precision": "year"
+    },
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "五堅情Moon Landing Experience5G線上試航互動音樂會",
+      "page": null,
+      "kind": "concert",
+      "start": {
+        "date": "2021-12-04",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2021-12-04",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    },
+    {
+      "name": "WOLF(S)五堅情 Moon Landing 月面著陸巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2022-02-19",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-07-22",
+        "precision": "day"
+      },
+      "showCount": 6,
+      "regions": [],
+      "cities": [
+        "高雄"
+      ],
+      "venues": [
+        "高雄",
+        "臺北",
+        "新加坡",
+        "香港",
+        "馬來西亞",
+        "澳門"
+      ],
+      "shows": [
+        {
+          "date": "2022-02-19",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "高雄",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "venue"
+        },
+        {
+          "date": "2022-08-06",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "臺北"
+        },
+        {
+          "date": "2022-10-14",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "新加坡",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-03-04",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "香港",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-07-15",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "馬來西亞",
+          "lat": 3.7805111,
+          "lon": 102.31436166666667,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-07-22",
+          "precision": "day",
+          "region": "",
+          "city": "",
+          "venue": "澳門",
+          "lat": 22.19,
+          "lon": 113.53805555555556,
+          "geo": "venue"
+        }
+      ]
+    },
+    {
+      "name": "KATCH OUR LIFE W0LF(S)五堅情x Dear Jane 音樂會",
+      "page": "Dear Jane",
+      "kind": "concert",
+      "start": {
+        "date": "2025-01-21",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-01-21",
+        "precision": "day"
+      },
+      "showCount": null,
+      "regions": [],
+      "cities": [],
+      "venues": [],
+      "shows": []
+    }
+  ]
+}

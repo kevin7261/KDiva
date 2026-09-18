@@ -1,0 +1,77 @@
+{
+  "slug": "eric-suen",
+  "fetchedAt": "2026-09-18T06:19:54.264Z",
+  "wiki": "孫耀威",
+  "bio": {
+    "born": {
+      "date": "1973-01-03",
+      "precision": "day"
+    },
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "認識你真好² 世界巡迴演唱會(進行中)",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2024-05-01",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2025-08-23",
+        "precision": "day"
+      },
+      "showCount": 4,
+      "regions": [],
+      "cities": [
+        "佛山",
+        "廣州",
+        "雲頂",
+        "汕頭"
+      ],
+      "venues": [],
+      "shows": [
+        {
+          "date": "2024-05-01",
+          "precision": "day",
+          "region": "",
+          "city": "佛山",
+          "venue": "",
+          "lat": 23.029167,
+          "lon": 113.105556,
+          "geo": "city"
+        },
+        {
+          "date": "2024-06-15",
+          "precision": "day",
+          "region": "",
+          "city": "廣州",
+          "venue": "",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2025-04-05",
+          "precision": "day",
+          "region": "",
+          "city": "雲頂",
+          "venue": ""
+        },
+        {
+          "date": "2025-08-23",
+          "precision": "day",
+          "region": "",
+          "city": "汕頭",
+          "venue": "",
+          "lat": 23.35388888888889,
+          "lon": 116.68222222222222,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
+}
