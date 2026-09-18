@@ -1,0 +1,792 @@
+{
+  "slug": "no-party-for-cao-dong",
+  "fetchedAt": "2026-09-18T07:18:22.317Z",
+  "wiki": "草東沒有派對",
+  "bio": {
+    "born": null,
+    "died": null,
+    "formed": null,
+    "disbanded": null
+  },
+  "tours": [
+    {
+      "name": "如常 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2018-06-03",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2019-01-05",
+        "precision": "day"
+      },
+      "showCount": 34,
+      "regions": [
+        "臺灣",
+        "南韓",
+        "日本",
+        "新加坡",
+        "馬來西亞",
+        "美國",
+        "加拿大",
+        "中國大陸",
+        "香港",
+        "泰國",
+        "英國",
+        "德國",
+        "荷蘭"
+      ],
+      "cities": [
+        "臺中",
+        "臺北",
+        "鐵原郡",
+        "高雄",
+        "京都",
+        "東京",
+        "新加坡",
+        "金馬崙高原",
+        "紐約",
+        "波士頓",
+        "多倫多",
+        "溫哥華",
+        "西雅圖",
+        "舊金山",
+        "洛杉磯",
+        "呼和浩特",
+        "瀋陽",
+        "深圳",
+        "鄭州",
+        "南投",
+        "西安",
+        "重慶",
+        "昆明",
+        "廣州",
+        "香港",
+        "上海",
+        "杭州",
+        "合肥",
+        "呵叻",
+        "倫敦",
+        "柏林",
+        "阿姆斯特丹",
+        "濟南"
+      ],
+      "venues": [
+        "Legacy Taichung",
+        "Legacy Taipei",
+        "DMZ Peace Train Music Festival",
+        "LIVE WAREHOUSE",
+        "ライブハウス磔磔",
+        "WWW",
+        "Annexe Studio",
+        "天空音樂節",
+        "Highline Ballroom",
+        "Middle East",
+        "Adelaide Hall",
+        "Rickshaw Theatre",
+        "The Central Saloon",
+        "Neck of the Woods",
+        "The Viper Room",
+        "WHOHOT livehouse",
+        "1905 LIVE HOUSE",
+        "B10 現場",
+        "7LIVEHOUSE",
+        "遊牧森林音樂祭",
+        "1935 LIVE HOUSE",
+        "寅派動力",
+        "MODERN SKY LAB",
+        "MAO Livehouse",
+        "Music Zone @ E-Max",
+        "ON THE WAY Livehouse",
+        "Big Mountain Music Festival",
+        "Rich Mix London",
+        "Panorama Bar",
+        "Paradiso Amsterdam",
+        "雀躍之地"
+      ],
+      "shows": [
+        {
+          "date": "2018-06-03",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2018-06-09",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2018-06-24",
+          "precision": "day",
+          "region": "南韓",
+          "city": "鐵原郡",
+          "venue": "DMZ Peace Train Music Festival"
+        },
+        {
+          "date": "2018-06-30",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2018-07-09",
+          "precision": "day",
+          "region": "日本",
+          "city": "京都",
+          "venue": "ライブハウス磔磔",
+          "lat": 35.011141,
+          "lon": 135.76693,
+          "geo": "city"
+        },
+        {
+          "date": "2018-07-13",
+          "precision": "day",
+          "region": "日本",
+          "city": "東京",
+          "venue": "WWW",
+          "lat": 35.683889,
+          "lon": 139.774444,
+          "geo": "city"
+        },
+        {
+          "date": "2018-07-22",
+          "precision": "day",
+          "region": "新加坡",
+          "city": "新加坡",
+          "venue": "Annexe Studio",
+          "lat": 1.3,
+          "lon": 103.8,
+          "geo": "city"
+        },
+        {
+          "date": "2018-07-28",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "金馬崙高原",
+          "venue": "天空音樂節",
+          "lat": 4.496388888888889,
+          "lon": 101.49916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2018-08-25",
+          "precision": "day",
+          "region": "美國",
+          "city": "紐約",
+          "venue": "Highline Ballroom",
+          "lat": 40.71277777777778,
+          "lon": -74.00611111111111,
+          "geo": "city"
+        },
+        {
+          "date": "2018-08-29",
+          "precision": "day",
+          "region": "美國",
+          "city": "波士頓",
+          "venue": "Middle East",
+          "lat": 42.360277777777775,
+          "lon": -71.05777777777777,
+          "geo": "city"
+        },
+        {
+          "date": "2018-08-31",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "Adelaide Hall",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2018-09-02",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "Rickshaw Theatre",
+          "lat": 49.26083333333333,
+          "lon": -123.1138888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2018-09-05",
+          "precision": "day",
+          "region": "美國",
+          "city": "西雅圖",
+          "venue": "The Central Saloon",
+          "lat": 47.605,
+          "lon": -122.33,
+          "geo": "city"
+        },
+        {
+          "date": "2018-09-07",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "Neck of the Woods",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2018-09-09",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "The Viper Room",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "2018-09-17",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "呼和浩特",
+          "venue": "WHOHOT livehouse",
+          "lat": 40.81507,
+          "lon": 111.66293,
+          "geo": "city"
+        },
+        {
+          "date": "2018-09-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "瀋陽",
+          "venue": "1905 LIVE HOUSE",
+          "lat": 41.8025,
+          "lon": 123.42805555555556,
+          "geo": "city"
+        },
+        {
+          "date": "2018-10-05",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "深圳",
+          "venue": "B10 現場",
+          "lat": 22.546666666666667,
+          "lon": 114.05444444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2018-10-11",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "鄭州",
+          "venue": "7LIVEHOUSE",
+          "lat": 34.74919,
+          "lon": 113.66051,
+          "geo": "city"
+        },
+        {
+          "date": "2018-10-14",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "南投",
+          "venue": "遊牧森林音樂祭",
+          "lat": 23.91666667,
+          "lon": 120.68333333,
+          "geo": "city"
+        },
+        {
+          "date": "2018-10-18",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "西安",
+          "venue": "1935 LIVE HOUSE",
+          "lat": 34.26111111111111,
+          "lon": 108.94222222222223,
+          "geo": "city"
+        },
+        {
+          "date": "2018-10-23",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "重慶",
+          "venue": "寅派動力",
+          "lat": 29.55,
+          "lon": 106.50694444444,
+          "geo": "city"
+        },
+        {
+          "date": "2018-10-25",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "昆明",
+          "venue": "MODERN SKY LAB",
+          "lat": 25.043333333333,
+          "lon": 102.70611111111,
+          "geo": "city"
+        },
+        {
+          "date": "2018-11-02",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "廣州",
+          "venue": "MAO Livehouse",
+          "lat": 23.13,
+          "lon": 113.26,
+          "geo": "city"
+        },
+        {
+          "date": "2018-11-09",
+          "precision": "day",
+          "region": "香港",
+          "city": "香港",
+          "venue": "Music Zone @ E-Max",
+          "lat": 22.278333333333,
+          "lon": 114.15861111111,
+          "geo": "city"
+        },
+        {
+          "date": "2018-11-16",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "上海",
+          "venue": "MODERN SKY LAB",
+          "lat": 31.2325,
+          "lon": 121.46916666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2018-11-20",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "杭州",
+          "venue": "MAO Livehouse",
+          "lat": 30.25,
+          "lon": 120.1675,
+          "geo": "city"
+        },
+        {
+          "date": "2018-11-22",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "合肥",
+          "venue": "ON THE WAY Livehouse",
+          "lat": 31.86389,
+          "lon": 117.28083,
+          "geo": "city"
+        },
+        {
+          "date": "2018-12-09",
+          "precision": "day",
+          "region": "泰國",
+          "city": "呵叻",
+          "venue": "Big Mountain Music Festival",
+          "lat": 14.973611,
+          "lon": 102.083056,
+          "geo": "city"
+        },
+        {
+          "date": "2018-12-14",
+          "precision": "day",
+          "region": "英國",
+          "city": "倫敦",
+          "venue": "Rich Mix London",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
+        },
+        {
+          "date": "2018-12-16",
+          "precision": "day",
+          "region": "德國",
+          "city": "柏林",
+          "venue": "Panorama Bar",
+          "lat": 52.516666666667,
+          "lon": 13.383333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2018-12-20",
+          "precision": "day",
+          "region": "荷蘭",
+          "city": "阿姆斯特丹",
+          "venue": "Paradiso Amsterdam",
+          "lat": 52.36666666666667,
+          "lon": 4.883333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2018-12-30",
+          "precision": "day",
+          "region": "中國大陸",
+          "city": "濟南",
+          "venue": "雀躍之地",
+          "lat": 36.666666666667,
+          "lon": 116.98333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2019-01-05",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        }
+      ]
+    },
+    {
+      "name": "人責 巡迴演唱會",
+      "page": null,
+      "kind": "tour",
+      "start": {
+        "date": "2023-05-24",
+        "precision": "day"
+      },
+      "end": {
+        "date": "2023-12-19",
+        "precision": "day"
+      },
+      "showCount": 27,
+      "regions": [
+        "臺灣",
+        "日本",
+        "馬來西亞",
+        "美國",
+        "加拿大",
+        "英國",
+        "法國",
+        "荷蘭",
+        "德國"
+      ],
+      "cities": [
+        "臺北",
+        "臺中",
+        "高雄",
+        "東京",
+        "名古屋",
+        "大阪",
+        "吉隆坡",
+        "費城",
+        "波士頓",
+        "紐約",
+        "芝加哥",
+        "多倫多",
+        "溫哥華",
+        "西雅圖",
+        "洛杉磯",
+        "聖地牙哥",
+        "舊金山",
+        "倫敦",
+        "巴黎",
+        "阿姆斯特丹",
+        "柏林"
+      ],
+      "venues": [
+        "Legacy Taipei",
+        "Legacy Taichung",
+        "LIVE WAREHOUSE",
+        "Spotify O-EAST",
+        "名古屋 CLUB QUATTRO",
+        "梅田CLUB QUATTRO",
+        "Zepp Kuala Lumpur",
+        "Brooklyn Bowl",
+        "Oceanside",
+        "Racket",
+        "Thalia Hall",
+        "The Opera House",
+        "Fortune Sound Club",
+        "The Crocodile: Madame Lou's",
+        "The Vermont Hollywood",
+        "Music Box",
+        "The Independent",
+        "Earth Hackney",
+        "Trabendo",
+        "Paradiso THT",
+        "Gretchen"
+      ],
+      "shows": [
+        {
+          "date": "2023-05-24",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2023-05-26",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2023-05-28",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺北",
+          "venue": "Legacy Taipei",
+          "lat": 25.0375,
+          "lon": 121.5625,
+          "geo": "city"
+        },
+        {
+          "date": "2023-05-31",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-06-02",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-06-05",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "臺中",
+          "venue": "Legacy Taichung",
+          "lat": 24.14388888888889,
+          "lon": 120.67944444444444,
+          "geo": "city"
+        },
+        {
+          "date": "2023-06-07",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2023-06-09",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2023-06-11",
+          "precision": "day",
+          "region": "臺灣",
+          "city": "高雄",
+          "venue": "LIVE WAREHOUSE",
+          "lat": 22.615,
+          "lon": 120.2975,
+          "geo": "city"
+        },
+        {
+          "date": "2023-07-18",
+          "precision": "day",
+          "region": "日本",
+          "city": "東京",
+          "venue": "Spotify O-EAST",
+          "lat": 35.6587,
+          "lon": 139.696,
+          "geo": "venue"
+        },
+        {
+          "date": "2023-07-20",
+          "precision": "day",
+          "region": "日本",
+          "city": "名古屋",
+          "venue": "名古屋 CLUB QUATTRO",
+          "lat": 35.18138888888889,
+          "lon": 136.9063888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2023-07-23",
+          "precision": "day",
+          "region": "日本",
+          "city": "大阪",
+          "venue": "梅田CLUB QUATTRO",
+          "lat": 34.6937569,
+          "lon": 135.5014539,
+          "geo": "city"
+        },
+        {
+          "date": "2023-10-17",
+          "precision": "day",
+          "region": "馬來西亞",
+          "city": "吉隆坡",
+          "venue": "Zepp Kuala Lumpur",
+          "lat": 3.1477777777778,
+          "lon": 101.69527777778,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-08",
+          "precision": "day",
+          "region": "美國",
+          "city": "費城",
+          "venue": "Brooklyn Bowl",
+          "lat": 39.952777777778,
+          "lon": -75.163611111111,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-10",
+          "precision": "day",
+          "region": "美國",
+          "city": "波士頓",
+          "venue": "Oceanside",
+          "lat": 42.360277777777775,
+          "lon": -71.05777777777777,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-12",
+          "precision": "day",
+          "region": "美國",
+          "city": "紐約",
+          "venue": "Racket",
+          "lat": 40.71277777777778,
+          "lon": -74.00611111111111,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-14",
+          "precision": "day",
+          "region": "美國",
+          "city": "芝加哥",
+          "venue": "Thalia Hall",
+          "lat": 41.88194444444444,
+          "lon": -87.62777777777778,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-19",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "多倫多",
+          "venue": "The Opera House",
+          "lat": 43.670277777778,
+          "lon": -79.386666666667,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-21",
+          "precision": "day",
+          "region": "加拿大",
+          "city": "溫哥華",
+          "venue": "Fortune Sound Club",
+          "lat": 49.26083333333333,
+          "lon": -123.1138888888889,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-23",
+          "precision": "day",
+          "region": "美國",
+          "city": "西雅圖",
+          "venue": "The Crocodile: Madame Lou's",
+          "lat": 47.605,
+          "lon": -122.33,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-25",
+          "precision": "day",
+          "region": "美國",
+          "city": "洛杉磯",
+          "venue": "The Vermont Hollywood",
+          "lat": 34.05223,
+          "lon": -118.24368,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-27",
+          "precision": "day",
+          "region": "美國",
+          "city": "聖地牙哥",
+          "venue": "Music Box",
+          "lat": 10.260277777777778,
+          "lon": -67.95527777777778,
+          "geo": "city"
+        },
+        {
+          "date": "2023-11-29",
+          "precision": "day",
+          "region": "美國",
+          "city": "舊金山",
+          "venue": "The Independent",
+          "lat": 37.775,
+          "lon": -122.41944444444445,
+          "geo": "city"
+        },
+        {
+          "date": "2023-12-12",
+          "precision": "day",
+          "region": "英國",
+          "city": "倫敦",
+          "venue": "Earth Hackney",
+          "lat": 51.507222222222,
+          "lon": -0.1275,
+          "geo": "city"
+        },
+        {
+          "date": "2023-12-15",
+          "precision": "day",
+          "region": "法國",
+          "city": "巴黎",
+          "venue": "Trabendo",
+          "lat": 48.85666666666667,
+          "lon": 2.352222222222222,
+          "geo": "city"
+        },
+        {
+          "date": "2023-12-17",
+          "precision": "day",
+          "region": "荷蘭",
+          "city": "阿姆斯特丹",
+          "venue": "Paradiso THT",
+          "lat": 52.36666666666667,
+          "lon": 4.883333333333333,
+          "geo": "city"
+        },
+        {
+          "date": "2023-12-19",
+          "precision": "day",
+          "region": "德國",
+          "city": "柏林",
+          "venue": "Gretchen",
+          "lat": 52.516666666667,
+          "lon": 13.383333333333,
+          "geo": "city"
+        }
+      ]
+    }
+  ]
+}
