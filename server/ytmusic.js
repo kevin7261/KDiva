@@ -605,8 +605,8 @@ export function addCredits(albums, catalog = []) {
       const keys = [t.titleZh, t.title].filter(Boolean).flatMap((x) => keysOf(x, false))
       const hit = keys.map((k) => own.get(k)).find(Boolean) ?? keys.map((k) => all.get(k)).find(Boolean)
       if (!hit) continue
-      const { lyrics, music, arranger } = hit
-      t.credits = Object.fromEntries(Object.entries({ lyrics, music, arranger }).filter(([, v]) => v))
+      const { lyrics, music, arranger, producer } = hit
+      t.credits = Object.fromEntries(Object.entries({ lyrics, music, arranger, producer }).filter(([, v]) => v))
       found++
     }
   }

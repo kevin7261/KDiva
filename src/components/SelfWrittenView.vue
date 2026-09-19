@@ -45,7 +45,7 @@ const withCredits = computed(() => props.model.songs.filter((s) => s.credits).le
     <div class="toolbar">
       <div class="seg" role="radiogroup" aria-label="角色">
         <button
-          v-for="[k, l] in [['all', `全部 ${all.length}`], ['作詞', `作詞 ${count('作詞')}`], ['作曲', `作曲 ${count('作曲')}`], ['編曲', `編曲 ${count('編曲')}`]].filter((x) => x[0] === 'all' || count(x[0]))"
+          v-for="[k, l] in [['all', `全部 ${all.length}`], ['作詞', `作詞 ${count('作詞')}`], ['作曲', `作曲 ${count('作曲')}`], ['編曲', `編曲 ${count('編曲')}`], ['製作', `製作 ${count('製作')}`]].filter((x) => x[0] === 'all' || count(x[0]))"
           :key="k"
           role="radio"
           :aria-checked="role === k"

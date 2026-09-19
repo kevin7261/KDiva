@@ -51,6 +51,7 @@ export const CREDIT_FIELDS = [
   ['lyrics', '作詞'],
   ['music', '作曲'],
   ['arranger', '編曲'],
+  ['producer', '製作'],
 ]
 
 /** 這首歌裡這位歌手擔任的角色（沒有就回空陣列） */

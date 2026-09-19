@@ -24,7 +24,7 @@ export const formatDate = (iso) =>
 /** 詞曲 tooltip 的內容：「詞：方文山」「曲：周杰倫」「編曲：林邁可」 */
 export function creditLines(credits) {
   if (!credits) return ['詞曲：Wikipedia 沒有資料']
-  const lines = [['詞', credits.lyrics], ['曲', credits.music], ['編曲', credits.arranger]]
+  const lines = [['詞', credits.lyrics], ['曲', credits.music], ['編曲', credits.arranger], ['製作', credits.producer]]
     .filter(([, v]) => v)
     .map(([k, v]) => `${k}：${v}`)
   return lines.length ? lines : ['詞曲：Wikipedia 沒有資料']

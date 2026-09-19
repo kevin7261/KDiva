@@ -339,6 +339,7 @@ export function readTables(wikitext) {
 const LYRICS_HEAD = /作詞|作词|填詞|填词|詞|词|lyric/i
 const MUSIC_HEAD = /作曲|曲(?!目|名|序|號|号)|music|compos/i
 const ARRANGER_HEAD = /編曲|编曲|arrang/i
+const PRODUCER_HEAD = /製作人|制作人|監製|监制|produc/i
 const WRITER_HEAD = /詞曲|词曲|writer/i
 
 /** 表格一列的詞／曲／編曲（沒有這些欄位回傳 null） */
@@ -350,8 +351,9 @@ function creditsFromRow(header, row) {
     lyrics: get(col(LYRICS_HEAD, /曲|编|編|序|號|号|arrang/i)) || writer,
     music: get(col(MUSIC_HEAD, /詞|词|編|编|名|目|歌|題|题|插|片|序|號|号|arrang/i)) || writer,
     arranger: get(col(ARRANGER_HEAD)),
+    producer: get(col(PRODUCER_HEAD)),
   }
-  return credits.lyrics || credits.music || credits.arranger ? credits : null
+  return credits.lyrics || credits.music || credits.arranger || credits.producer ? credits : null
 }
 
 // 人名、地名簡轉繁時不能動的字：簡繁一對多、在名字裡通常是本字（余、于、范、郁、咸陽、馬里蘭…）
@@ -494,11 +496,50 @@ function templateBody(text, start) {
 }
 
 /**
- * 專輯條目裡每首歌的詞／曲／編曲：{{Tracklist}} 的 lyricsN／musicN／writingN／arrangerN（或 all_lyrics 等），
- * 以及表頭有「作詞」「作曲」「編曲」的曲目表格
+ * 條列式曲目：「1、'''歌名'''」下一行接「:曲：X；詞：Y；編曲：Z；製作人：W」。
+ * 台灣專輯條目最常見的寫法 —— 既不是表格也不是 {{Tracklist}}，先前完全沒解析到。
+ */
+function parseCreditsProse(wikitext) {
+  const out = []
+  let title = null
+  for (const line of wikitext.split('\n')) {
+    // 「1、'''真愛無敵'''」「12. 歌名（廣告主題曲）」
+    const t = line.match(/^\s*\d+\s*[、.．,]\s*(.+)$/)
+    if (t) {
+      title = toTW(toPlain(t[1]))
+        .replace(/\s*[（(][^）)]*[）)]\s*$/, '')
+        .replace(/\s*feat\.?.*$/i, '')
+        .trim()
+      continue
+    }
+    if (!title || !/^\s*[:：]/.test(line)) continue
+    const body = toTW(toPlain(line.replace(/^\s*[:：]+\s*/, '')))
+    const credits = { title, lyrics: '', music: '', arranger: '', producer: '' }
+    // 一行裡用「；」分成好幾段，每段是「標籤：內容」。
+    // 要先認「編曲」「製作人」再認「曲」「詞」，否則「編曲：」會被當成「曲：」
+    for (const seg of body.split(/[；;]/)) {
+      const m = seg.match(/^\s*([^:：]{1,8}?)\s*[:：]\s*(.+)$/)
+      if (!m) continue
+      const [, label, value] = m
+      const v = cleanCredit(value)
+      if (!v) continue
+      if (/編曲|编曲/.test(label)) credits.arranger ||= v
+      else if (/製作|制作|監製|监制/.test(label)) credits.producer ||= v
+      else if (/作詞|作词|填詞|填词|詞|词/.test(label)) credits.lyrics ||= v
+      else if (/作曲|曲/.test(label)) credits.music ||= v
+    }
+    if (credits.lyrics || credits.music || credits.arranger || credits.producer) out.push(credits)
+    title = null
+  }
+  return out
+}
+
+/**
+ * 專輯條目裡每首歌的詞／曲／編曲／製作人：{{Tracklist}} 的 lyricsN／musicN／writingN／arrangerN
+ * （或 all_lyrics 等）、表頭有「作詞」「作曲」「編曲」的曲目表格，以及條列式寫法
  */
 export function parseCredits(wikitext) {
-  const out = []
+  const out = [...parseCreditsProse(wikitext)]
   for (const m of wikitext.matchAll(/\{\{\s*(?:Tracklist|Track listing)\b/gi)) {
     const params = {}
     // 參數以「|」分隔：行首的，或同一行裡「 |關鍵字 =」這種（值裡的模板、連結也有「|」，所以要限定後面接參數名）
@@ -520,8 +561,9 @@ export function parseCredits(wikitext) {
         lyrics: get('lyrics') || all('lyrics') || writing,
         music: get('music') || all('music') || writing,
         arranger: get('arranger') || (extraIsArranger ? get('extra') : '') || all('arranger') || (extraIsArranger ? all('extra') : ''),
+        producer: get('producer') || all('producer'),
       }
-      if (title && (credits.lyrics || credits.music || credits.arranger)) out.push(credits)
+      if (title && (credits.lyrics || credits.music || credits.arranger || credits.producer)) out.push(credits)
     }
   }
   for (const { header, rows } of readTables(wikitext)) {
