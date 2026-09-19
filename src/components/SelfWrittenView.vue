@@ -2,7 +2,7 @@
 // 歌手頁「寫給自己的歌」：這位歌手自己唱、詞／曲／編曲也有他的歌。
 // 資料來自各專輯曲目的詞曲欄（Wikipedia），不需要另外載入檔案。
 import { computed, ref } from 'vue'
-import { formatCount, watchUrl } from '../lib/format.js'
+import { formatCount, watchUrl, creditLines } from '../lib/format.js'
 import { artistKeys, rolesOf } from '../lib/credits.js'
 
 const props = defineProps({
@@ -81,7 +81,7 @@ const withCredits = computed(() => props.model.songs.filter((s) => s.credits).le
         </thead>
         <tbody>
           <tr v-for="x in list" :key="x.song.id">
-            <td>
+            <td v-tip="[x.song.name, ...creditLines(x.song.credits)]">
               <span class="title-row">
                 <a v-if="x.song.videoId" :href="watchUrl(x.song.videoId)" target="_blank" rel="noopener">{{ x.song.name }}</a>
                 <span v-else>{{ x.song.name }}</span>

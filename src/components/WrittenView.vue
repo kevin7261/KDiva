@@ -3,7 +3,7 @@
 import { computed, ref, shallowRef, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 import { loadWritten } from '../lib/store.js'
-import { formatCount, watchUrl } from '../lib/format.js'
+import { formatCount, watchUrl, creditLines } from '../lib/format.js'
 
 const props = defineProps({ slug: { type: String, required: true } })
 
@@ -78,7 +78,7 @@ const count = (r) => all.value.filter((s) => s.roles.includes(r)).length
         </thead>
         <tbody>
           <tr v-for="(s, i) in list" :key="i">
-            <td>
+            <td v-tip="[s.song, ...creditLines(s.credits)]">
               <span class="title-row">
                 <a v-if="s.videoId" :href="watchUrl(s.videoId)" target="_blank" rel="noopener">{{ s.song }}</a>
                 <span v-else>{{ s.song }}</span>

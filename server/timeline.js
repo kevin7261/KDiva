@@ -63,6 +63,8 @@ function buildWritten(models, raws) {
           plays: song.plays,
           videoId: song.videoId,
           mv: song.mv ?? undefined,
+          // 滑過歌名時顯示完整的詞／曲／編曲／製作
+          credits: song.credits ?? undefined,
         })
       }
     }
