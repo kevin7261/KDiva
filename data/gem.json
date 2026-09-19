@@ -2,13 +2,13 @@
   "slug": "gem",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-19T05:55:47.550Z",
+  "fetchedAt": "2026-09-19T21:19:45.042Z",
   "artist": {
     "channelId": "UCBRh2Z_U1Lw9-YJ-XGZ8M2Q",
     "name": "鄧紫棋",
     "thumbnail": "https://lh3.googleusercontent.com/LKpJFXjE3-0OX8tIzurzLynVxI-hOClgUl1tCbkHOpz9fm28DBQw2wG2iFd5jDFABCuuxK0xFESVQA=w1000-h416-p-l90-rj",
     "subscribers": 2920000,
-    "monthlyAudience": 10100000,
+    "monthlyAudience": 10000000,
     "videos": [
       {
         "title": "G.E.M.鄧紫棋【唯一 Only One】LIVE現場版 (時光音樂會 · 老友記 EP.4)",
@@ -615,7 +615,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "Skot Suyama 陶山",
-            "arranger": "雷頌德"
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "titleZhVariant": true,
           "nameKey": "wheredidugo"
@@ -632,7 +633,8 @@
           "credits": {
             "lyrics": "庭竹",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "回憶的沙漏",
           "mv": "U-cIHm7sOQY"
@@ -648,7 +650,8 @@
           "byOther": false,
           "credits": {
             "music": "Skot Suyama 陶山",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "愛現在的我"
         },
@@ -664,7 +667,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Johnny Yim"
+            "arranger": "Johnny Yim",
+            "producer": "Johnny Yim"
           },
           "nameKey": "睡公主"
         },
@@ -679,7 +683,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "arranger": "雷頌德"
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "等一個他"
         }
@@ -1298,6 +1303,12 @@
           "playsText": "播放次數：213萬",
           "duration": 240,
           "byOther": false,
+          "credits": {
+            "lyrics": "鄧紫棋",
+            "music": "鄧紫棋",
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
+          },
           "nameKey": "再見#live"
         }
       ],
@@ -1562,7 +1573,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "arranger": "雷頌德"
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "等一個他",
           "mv": "ordZIcwXZTs"
@@ -1730,7 +1742,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "Skot Suyama 陶山",
-            "arranger": "雷頌德"
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "titleZhVariant": true,
           "nameKey": "wheredidugo",
@@ -1879,8 +1892,8 @@
           "title": "我不愿让你一个人 (Live)",
           "artists": "品冠",
           "videoId": "T1JlJa9V8SM",
-          "plays": 5992,
-          "playsText": "播放次數：5992",
+          "plays": 5997,
+          "playsText": "播放次數：5997",
           "duration": 287,
           "byOther": true,
           "titleZh": "我不願讓你一個人 (Live)",
@@ -1892,8 +1905,8 @@
           "title": "黑色柳丁 (Live)",
           "artists": "周笔畅",
           "videoId": "Jo7fXi-hOuE",
-          "plays": 3231,
-          "playsText": "播放次數：3231",
+          "plays": 3233,
+          "playsText": "播放次數：3233",
           "duration": 303,
           "byOther": true,
           "nameKey": "黑色柳丁#live"
@@ -1916,8 +1929,8 @@
           "title": "爱的箴言 (Live)",
           "artists": "韩磊",
           "videoId": "eGMRhS_juoo",
-          "plays": 4006,
-          "playsText": "播放次數：4006",
+          "plays": 4008,
+          "playsText": "播放次數：4008",
           "duration": 331,
           "byOther": true,
           "titleZh": "愛的箴言 (Live)",
@@ -1934,6 +1947,115 @@
           "duration": 287,
           "byOther": true,
           "nameKey": "想你的夜#live"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "我是歌手第二季"
+    },
+    {
+      "browseId": "MPREb_LtYsqdNl4Zp",
+      "playlistId": "OLAK5uy_kJ2hacXzojtFtKwZY6UAl02kKCCL8nqEg",
+      "title": "我是歌手第二季 (第三期 Live)",
+      "albumArtist": "韩磊 和 邓紫棋",
+      "type": "Album",
+      "year": 2014,
+      "thumbnail": "https://yt3.googleusercontent.com/BYJYJMXqBox-bEH2FZTX0-IgSfEVM8FUo64yjX-5Ww_TY6SLoaC9y2cDgZ41MGOr0fa8ZHyDlIh4WwUK=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "袖手旁观 (Live)",
+          "artists": "张宇",
+          "videoId": "5OtgwXWcnkk",
+          "plays": 89000,
+          "playsText": "播放次數：8.9萬",
+          "duration": 255,
+          "byOther": true,
+          "titleZh": "袖手旁觀 (Live)",
+          "titleZhVariant": true,
+          "nameKey": "袖手旁觀#live"
+        },
+        {
+          "index": 2,
+          "title": "Knocking on Heaven's Door (Live)",
+          "artists": "罗琦",
+          "videoId": "xgJXzzKi93E",
+          "plays": 4225,
+          "playsText": "播放次數：4225",
+          "duration": 294,
+          "byOther": true,
+          "nameKey": "knockingonheavensdoor#live"
+        },
+        {
+          "index": 3,
+          "title": "女人花 (Live)",
+          "artists": "韦唯",
+          "videoId": "H45dCzYqn8Q",
+          "plays": 5175,
+          "playsText": "播放次數：5175",
+          "duration": 327,
+          "byOther": true,
+          "nameKey": "女人花#live"
+        },
+        {
+          "index": 4,
+          "title": "可爱的一朵玫瑰花 (Live)",
+          "artists": "韩磊",
+          "videoId": "ykYBcFtIaqw",
+          "plays": 2013,
+          "playsText": "播放次數：2013",
+          "duration": 323,
+          "byOther": true,
+          "titleZh": "可愛的一朵玫瑰花 (Live)",
+          "titleZhVariant": true,
+          "nameKey": "可愛的一朵玫瑰花#live"
+        },
+        {
+          "index": 5,
+          "title": "你把我灌醉 (Live)",
+          "artists": "邓紫棋",
+          "videoId": "I7IT8rSHESQ",
+          "plays": 190000,
+          "playsText": "播放次數：19萬",
+          "duration": 303,
+          "byOther": false,
+          "nameKey": "你把我灌醉#live"
+        },
+        {
+          "index": 6,
+          "title": "哭了 (Live)",
+          "artists": "周笔畅",
+          "videoId": "YUQ1Ita01UY",
+          "plays": 6957,
+          "playsText": "播放次數：6957",
+          "duration": 310,
+          "byOther": true,
+          "nameKey": "哭了#live"
+        },
+        {
+          "index": 7,
+          "title": "勿忘心安 (Live)",
+          "artists": "张杰",
+          "videoId": "x82sN0mPg2Y",
+          "plays": 150000,
+          "playsText": "播放次數：15萬",
+          "duration": 335,
+          "byOther": true,
+          "nameKey": "勿忘心安#live"
+        },
+        {
+          "index": 8,
+          "title": "Greatest Love of all (Live)",
+          "artists": "曹格",
+          "videoId": "tvtBH8_nW0E",
+          "plays": 2705,
+          "playsText": "播放次數：2705",
+          "duration": 322,
+          "byOther": true,
+          "nameKey": "greatestloveofall#live"
         }
       ],
       "releaseDate": null,
@@ -1992,7 +2114,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "多遠都要在一起"
         },
@@ -2008,7 +2131,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "再見"
         },
@@ -2024,7 +2148,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "新的心跳"
         },
@@ -2040,7 +2165,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "來自天堂的魔鬼"
         },
@@ -2056,7 +2182,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "盲點"
         },
@@ -2072,7 +2199,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "單行的軌道"
         },
@@ -2088,7 +2216,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "一路逆風"
         },
@@ -2104,7 +2233,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "於是"
         },
@@ -2120,7 +2250,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "瞬間"
         },
@@ -2136,7 +2267,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "查克靠近"
         }
@@ -2199,7 +2331,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "mv": "Lhel0tzHE08"
         },
@@ -2566,7 +2699,8 @@
           "credits": {
             "lyrics": "庭竹",
             "music": "鄧紫棋",
-            "arranger": "Lupo Groinig"
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "回憶的沙漏"
         }
@@ -2668,8 +2802,8 @@
           "title": "新三部曲 (Live)",
           "artists": "艾热 AIR",
           "videoId": "qNIXPbPuDKM",
-          "plays": 1132,
-          "playsText": "播放次數：1132",
+          "plays": 1142,
+          "playsText": "播放次數：1142",
           "duration": 283,
           "byOther": true,
           "nameKey": "新三部曲#live"
@@ -2741,7 +2875,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "倒數"
         },
@@ -2756,7 +2891,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "錯過不錯"
         },
@@ -2771,7 +2907,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "另一個童話"
         },
@@ -2786,7 +2923,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "那一夜"
         },
@@ -2801,7 +2939,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "毒蘋果"
         },
@@ -2816,7 +2955,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "突然之間"
         },
@@ -2831,7 +2971,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "岩石裡的花"
         },
@@ -2846,7 +2987,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "why"
         },
@@ -2861,7 +3003,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "睡皇后"
         }
@@ -2893,7 +3036,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "walkonwater"
         }
@@ -2925,7 +3069,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "句號"
         }
@@ -2957,7 +3102,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "摩天動物園",
           "mv": "pm2YwRznWYk"
@@ -2973,7 +3119,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "flyaway"
         },
@@ -2988,7 +3135,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "透明"
         },
@@ -3003,7 +3151,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "很久以後"
         },
@@ -3018,7 +3167,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "walkonwater"
         },
@@ -3033,7 +3183,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "螢火"
         },
@@ -3048,7 +3199,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "灰狼"
         },
@@ -3063,7 +3215,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "差不多姑娘"
         },
@@ -3078,7 +3231,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "好想好想你"
         },
@@ -3104,7 +3258,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "多美麗"
         },
@@ -3119,7 +3274,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "句號"
         },
@@ -3134,7 +3290,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "依然睡公主"
         }
@@ -3166,7 +3323,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "摩天動物園",
           "mv": "pm2YwRznWYk"
@@ -3193,8 +3351,8 @@
           "title": "Do You Remember (Live)",
           "artists": "张震岳 和 MC HotDog 热狗",
           "videoId": "3zLtj3W3Y1U",
-          "plays": 830,
-          "playsText": "播放次數：830",
+          "plays": 834,
+          "playsText": "播放次數：834",
           "duration": 253,
           "byOther": true,
           "nameKey": "doyouremember#live"
@@ -3217,10 +3375,15 @@
           "title": "差不多姑娘 (Live)",
           "artists": "G.E.M. 邓紫棋",
           "videoId": "syZ138KITO8",
-          "plays": 3926,
-          "playsText": "播放次數：3926",
+          "plays": 3936,
+          "playsText": "播放次數：3936",
           "duration": 241,
           "byOther": false,
+          "credits": {
+            "lyrics": "鄧紫棋",
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
+          },
           "nameKey": "差不多姑娘#live"
         }
       ],
@@ -3251,7 +3414,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
-            "music": "鄧紫棋"
+            "music": "鄧紫棋",
+            "producer": "鄧紫棋、T-ma"
           },
           "nameKey": "差不多姑娘"
         }
@@ -3542,7 +3706,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "少年與海"
         },
@@ -3558,7 +3723,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "hell"
         },
@@ -3574,7 +3740,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "只有我和你的地方"
         },
@@ -3590,7 +3757,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "你不是第一個離開的人",
           "mv": "BALI7OL1DHg"
@@ -3607,7 +3775,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "老道"
+            "arranger": "老道",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "不想回家"
         },
@@ -3623,7 +3792,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "冰河時代"
         },
@@ -3639,7 +3809,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "太一"
+            "arranger": "太一",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "受難曲"
         },
@@ -3663,6 +3834,9 @@
           "playsText": "播放次數：405萬",
           "duration": 193,
           "byOther": false,
+          "credits": {
+            "producer": "鄧紫棋"
+          },
           "nameKey": "老人與海"
         },
         {
@@ -3836,7 +4010,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "hell"
         }
@@ -3869,7 +4044,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "老道"
+            "arranger": "老道",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "不想回家"
         }
@@ -3895,14 +4071,15 @@
           "title": "你不是第一個離開的人",
           "artists": "",
           "videoId": "F4vGFscB_fg",
-          "plays": 15090000,
-          "playsText": "播放次數：1509萬",
+          "plays": 15100000,
+          "playsText": "播放次數：1510萬",
           "duration": 201,
           "byOther": false,
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "你不是第一個離開的人",
           "mv": "BALI7OL1DHg"
@@ -3936,7 +4113,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "冰河時代"
         }
@@ -3969,7 +4147,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "太一"
+            "arranger": "太一",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "受難曲"
         }
@@ -4002,7 +4181,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "只有我和你的地方"
         }
@@ -4063,7 +4243,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "少年與海"
         }
@@ -4093,6 +4274,9 @@
           "playsText": "播放次數：405萬",
           "duration": 193,
           "byOther": false,
+          "credits": {
+            "producer": "鄧紫棋"
+          },
           "nameKey": "老人與海"
         }
       ],
@@ -4219,7 +4403,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "hell"
         },
@@ -4526,7 +4711,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "鄧紫棋、宮閣"
+            "arranger": "鄧紫棋、宮閣",
+            "producer": "鄧紫棋、宮閣"
           },
           "nameKey": "hell"
         }
@@ -4703,8 +4889,8 @@
           "title": "Amazing Grace (Live Version)",
           "artists": "",
           "videoId": "cOTmvgbkOsc",
-          "plays": 1080000,
-          "playsText": "播放次數：108萬",
+          "plays": 1090000,
+          "playsText": "播放次數：109萬",
           "duration": 304,
           "byOther": false,
           "nameKey": "amazinggrace#live"
@@ -4748,7 +4934,10 @@
           "duration": 235,
           "byOther": false,
           "credits": {
-            "music": "陶山"
+            "music": "陶山",
+            "lyrics": "鄧紫棋",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "wheredidugo",
           "mv": "9k_qrnQpwR8"
@@ -4794,7 +4983,10 @@
           "duration": 233,
           "byOther": false,
           "credits": {
-            "lyrics": "庭竹"
+            "lyrics": "庭竹",
+            "music": "鄧紫棋",
+            "arranger": "Lupo Groinig",
+            "producer": "Lupo Groinig"
           },
           "nameKey": "回憶的沙漏",
           "mv": "U-cIHm7sOQY"
@@ -4846,7 +5038,8 @@
           "credits": {
             "lyrics": "鄧紫棋",
             "music": "鄧紫棋",
-            "arranger": "Johnny Yim"
+            "arranger": "Johnny Yim",
+            "producer": "Johnny Yim"
           },
           "nameKey": "睡公主",
           "mv": "3FddFXcH6QY"

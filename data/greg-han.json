@@ -2,13 +2,13 @@
   "slug": "greg-han",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T22:36:31.306Z",
+  "fetchedAt": "2026-09-19T21:31:25.586Z",
   "artist": {
     "channelId": "UC1y6D7uAGKH-3odTm00x-Sw",
     "name": "許光漢",
     "thumbnail": "https://lh3.googleusercontent.com/nzvcwJ3JOUIShsaPuok3DTib3rYon5XT4pVFHJGvN7ILoGSXNH8LYXG9TJ2jqpzcMwLZ6H4zu8cpkYc=w2880-h1200-p-l90-rj",
     "subscribers": 73600,
-    "monthlyAudience": 66800,
+    "monthlyAudience": 66900,
     "videos": [
       {
         "title": "一日",
@@ -19,20 +19,12 @@
         "videoId": "UmGbZO9Daps"
       },
       {
-        "title": "Soufflé",
-        "videoId": "bnPL3ZQaBiQ"
-      },
-      {
         "title": "你殘忍可愛的傲慢 feat. Joanna Wang 王若琳 (合作演出：王若琳)",
         "videoId": "uuOIC6j-9is"
       },
       {
-        "title": "許光漢 Greg Han《想去哪 Chill Out》Live at 夕陽小鎮 Sunset Town Festival",
-        "videoId": "O3uRVooUE_0"
-      },
-      {
-        "title": "一派輕鬆",
-        "videoId": "ZRISF2OC_Co"
+        "title": "Soufflé",
+        "videoId": "bnPL3ZQaBiQ"
       },
       {
         "title": "許光漢 Greg Han《Let There Be Light Again》Live at 夕陽小鎮 Sunset Town Festival",
@@ -45,6 +37,14 @@
       {
         "title": "出戲",
         "videoId": "XeIqp3WMbpI"
+      },
+      {
+        "title": "許光漢 Greg Han《想去哪 Chill Out》Live at 夕陽小鎮 Sunset Town Festival",
+        "videoId": "O3uRVooUE_0"
+      },
+      {
+        "title": "一派輕鬆",
+        "videoId": "ZRISF2OC_Co"
       }
     ],
     "songListIds": [
@@ -74,7 +74,8 @@
           "credits": {
             "lyrics": "戴佩妮",
             "music": "戴佩妮",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "戴佩妮"
           },
           "nameKey": "別再想見我"
         }
@@ -107,7 +108,8 @@
           "credits": {
             "lyrics": "剃刀蔣",
             "music": "秦旭章",
-            "arranger": "王昱詠"
+            "arranger": "王昱詠",
+            "producer": "陳建騏"
           },
           "nameKey": "soufflé"
         }
@@ -139,7 +141,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "HUSH",
-            "arranger": "Jerry C"
+            "arranger": "Jerry C",
+            "producer": "陳建騏"
           },
           "nameKey": "一派輕鬆"
         }
@@ -172,7 +175,8 @@
           "credits": {
             "lyrics": "黃子源",
             "music": "汪定中",
-            "arranger": "黃少雍"
+            "arranger": "黃少雍",
+            "producer": "陳建騏"
           },
           "nameKey": "出戲",
           "mv": "XeIqp3WMbpI"
@@ -199,7 +203,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "HUSH",
-            "arranger": "Jerry C"
+            "arranger": "Jerry C",
+            "producer": "陳建騏"
           },
           "nameKey": "一派輕鬆"
         },
@@ -215,7 +220,8 @@
           "credits": {
             "lyrics": "剃刀蔣",
             "music": "秦旭章",
-            "arranger": "王昱詠"
+            "arranger": "王昱詠",
+            "producer": "陳建騏"
           },
           "nameKey": "soufflé"
         },
@@ -231,7 +237,8 @@
           "credits": {
             "lyrics": "葛大為",
             "music": "伍家輝",
-            "arranger": "張晁毓"
+            "arranger": "張晁毓",
+            "producer": "陳君豪"
           },
           "nameKey": "獨角獸"
         },
@@ -245,7 +252,8 @@
           "duration": 286,
           "byOther": false,
           "credits": {
-            "arranger": "張晁毓"
+            "arranger": "張晁毓",
+            "producer": "陳建騏"
           },
           "nameKey": "一日"
         },
@@ -260,7 +268,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "林建良",
-            "music": "韋禮安"
+            "music": "韋禮安",
+            "producer": "陳建騏"
           },
           "nameKey": "揣摩"
         },
@@ -276,7 +285,8 @@
           "credits": {
             "lyrics": "戴佩妮",
             "music": "戴佩妮",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "戴佩妮"
           },
           "nameKey": "別再想見我"
         },
