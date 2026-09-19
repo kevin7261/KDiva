@@ -499,10 +499,10 @@ export function markOtherArtists(albums, artistConfig, channelName = '') {
     members.some((m) => mentions(credit, [m]) && (keys.some((k) => m.includes(k)) || !mentions(credit, keys)))
   let marked = 0
   for (const album of albums) {
-    // 別人的專輯（主演出者不是這位歌手，例如彭佳慧頻道上「Andy Lau & Julia Peng」的《因為愛》）整張不算，
-    // 即使裡面有一首合唱；單曲、EP 的合唱仍算這位歌手的歌
-    const lead = album.albumArtist?.split(/\s*(?:&|,|、)\s*/)[0]
-    const othersAlbum = album.type === 'Album' && !!lead && !mentions(lead, keys)
+    // 別人的專輯整張不算。判斷看的是專輯掛名裡有沒有這位歌手 ——
+    // 「江蕾、劉家昌 和 甄妮」這種共同掛名的合作專輯算他的，只在曲目欄出現的合唱不算。
+    // 單曲、EP 的合唱一律算這位歌手的歌
+    const othersAlbum = album.type === 'Album' && !!album.albumArtist && !mentions(album.albumArtist, keys)
     for (const t of album.tracks) {
       // 曲目沒寫演出者時就是專輯演出者（舊資料沒有 albumArtist，視為這位歌手）
       const credit = t.artists || album.albumArtist || ''

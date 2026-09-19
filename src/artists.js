@@ -34,7 +34,7 @@ export const ARTISTS = [
   { slug: 'chyi-yu', group: 'female', name: '齊豫', en: 'Chyi Yu', debut: '1978', channelId: 'UCN82-y6I2oH9Tw8LaPw2sYg', wiki: '齊豫' },
   { slug: 'lin-shu-rong', group: 'female', name: '林淑容', en: 'Lin Shu-rong', debut: '1978', channelId: 'UC8_Kh4QgXCYwxcLj_d_F_mA', wiki: '林淑容' },
   { slug: 'chen-ming-chang', group: 'male', lang: 'tw', name: '陳明章', en: 'Chen Ming Chang', debut: '1978', channelId: 'UCNgWDy1xigmgWVLH0ON6ymQ', extraChannelIds: ['UC4TOxyqvwSG0fFapg2tj68g'], wiki: '陳明章', aliases: ['Cheng Minjang', 'Chen Mingchang'] },
-  { slug: 'tsai-chin', group: 'female', name: '蔡琴', en: 'Tsai Chin', debut: '1979', channelId: 'UCiqpapiuXXw7y0BdBXL-hzA', wiki: '蔡琴', aliases: ['Cai Qin'] },
+  { slug: 'tsai-chin', group: 'female', name: '蔡琴', en: 'Tsai Chin', debut: '1979', channelId: 'UCiqpapiuXXw7y0BdBXL-hzA', excludeReleases: ['MPREb_llQhhK7Pued'], wiki: '蔡琴', aliases: ['Cai Qin'] },
   { slug: 'yvonne-cheng', group: 'female', name: '鄭怡', en: 'Yvonne Cheng', debut: '1979', channelId: 'UCuvGX4pEScIUjZ4fuvFraaw', wiki: '鄭怡' },
   { slug: 'michelle-pan', group: 'female', name: '潘越雲', en: 'Michelle Pan', debut: '1979-10', channelId: 'UCCaauu_jc2rhNsx66SYjTKQ', wiki: '潘越雲' },
   { slug: 'sally-yeh', group: 'female', name: '葉蒨文', en: 'Sally Yeh', debut: '1980', channelId: 'UChzDLyeh1Fvy6UPdA-VdE3A', wiki: '葉蒨文', aliases: ['叶蒨文'] },
