@@ -3,6 +3,7 @@
 // 資料來自各專輯曲目的詞曲欄（Wikipedia），不需要另外載入檔案。
 import { computed, ref } from 'vue'
 import { formatCount, watchUrl } from '../lib/format.js'
+import { artistKeys, rolesOf } from '../lib/credits.js'
 
 const props = defineProps({
   model: { type: Object, required: true },
@@ -14,23 +15,11 @@ const emit = defineEmits(['open-album'])
 const role = ref('all')
 const order = ref('new')
 
-// 詞曲欄是「鄔裕康、阿怪」這種多人並列，要拆開逐一比對，不能用包含判斷
-// （「陳建年」會誤中「陳建年輝」這類名字）
-const norm = (s) => String(s ?? '').replace(/\s*[（(][^）)]*[）)]\s*/g, '').replace(/\s+/g, '').toLowerCase()
-const namesIn = (cell) => String(cell ?? '').split(/\s*(?:、|,|，|\/|／|&|＆|;|；)\s*/).map(norm).filter(Boolean)
-
-const FIELDS = [
-  ['lyrics', '作詞'],
-  ['music', '作曲'],
-  ['arranger', '編曲'],
-]
-
 const all = computed(() => {
-  const keys = new Set([props.artist.name, props.artist.en, ...(props.artist.aliases ?? []), ...(props.artist.names ?? [])].filter(Boolean).map(norm))
+  const keys = artistKeys(props.artist)
   const out = []
   for (const song of props.model.songs) {
-    if (!song.credits) continue
-    const roles = FIELDS.filter(([f]) => namesIn(song.credits[f]).some((n) => keys.has(n))).map(([, label]) => label)
+    const roles = rolesOf(song.credits, keys)
     if (roles.length) out.push({ song, roles })
   }
   return out

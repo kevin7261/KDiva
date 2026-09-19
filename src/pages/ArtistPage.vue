@@ -5,6 +5,7 @@ import { ARTISTS, categoryOf, findArtist } from '../artists.js'
 import { getModel, loadArtist, loadCounts, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
 import { useYears } from '../lib/bio.js'
+import { artistKeys, rolesOf } from '../lib/credits.js'
 import { formatCount, formatFull, formatDate } from '../lib/format.js'
 import ThemeToggle from '../components/ThemeToggle.vue'
 import ArtistSwitcher from '../components/ArtistSwitcher.vue'
@@ -117,21 +118,11 @@ const bandsOf = computed(() => {
 })
 
 // 自己作詞／作曲／編曲的歌：從已載入的曲目詞曲欄直接算，不必另外載檔
-const norm = (x) => String(x ?? '').replace(/\s*[（(][^）)]*[）)]\s*/g, '').replace(/\s+/g, '').toLowerCase()
 const selfWrittenCount = computed(() => {
   const m = model.value
   if (!m) return null
-  const keys = new Set([artist.value.name, artist.value.en, ...(artist.value.aliases ?? []), ...(artist.value.names ?? [])].filter(Boolean).map(norm))
-  return m.songs.filter(
-    (s) =>
-      s.credits &&
-      ['lyrics', 'music', 'arranger'].some((f) =>
-        String(s.credits[f] ?? '')
-          .split(/\s*(?:、|,|，|\/|／|&|＆|;|；)\s*/)
-          .map(norm)
-          .some((n) => n && keys.has(n)),
-      ),
-  ).length
+  const keys = artistKeys(artist.value)
+  return m.songs.filter((s) => rolesOf(s.credits, keys).length).length
 })
 
 const tabs = computed(() => {

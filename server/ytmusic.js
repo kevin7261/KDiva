@@ -218,12 +218,15 @@ async function releasesFromSongList(playlistId) {
 }
 
 async function discoverReleases(artistConfig, known, log = () => {}) {
+  // 「Joey」「SuperBand」這種單字英文名會中一堆同名的外國藝人（江惠儀變成 Joey Ramone、
+  // 縱貫線變成 Strokeland Superband），所以純英文的名字要是有空格的全名才採用
+  const usable = (n) => hasCJK(n) || /\s/.test(String(n).trim())
   const names = [artistConfig.name, artistConfig.en, ...(artistConfig.aliases ?? []), ...(artistConfig.names ?? [])]
-    .filter(Boolean)
+    .filter((n) => n && usable(n))
     .map((n) => normalizeTitle(n))
     .filter((k) => k.length >= 2)
   if (!names.length) return []
-  const queries = [...new Set([artistConfig.name, artistConfig.en].filter(Boolean))]
+  const queries = [...new Set([artistConfig.name, artistConfig.en].filter((n) => n && usable(n)))]
   const found = new Map()
   // 先用歌手頁「熱門歌曲」的完整清單（最可靠），再用搜尋補
   for (const pl of artistConfig._songListIds ?? []) {
@@ -243,7 +246,14 @@ async function discoverReleases(artistConfig, known, log = () => {}) {
     for (let guard = 0; guard < 3; guard++) {
       for (const item of findAll(page, 'musicResponsiveListItemRenderer')) {
         const cols = (item.flexColumns ?? []).map((c) => text(c.musicResponsiveListItemFlexColumnRenderer?.text))
-        const by = normalizeTitle(cols.slice(1).join(' '))
+        // 用子字串比對會中「怪奇比莉」「Billie Holiday」這種含有本名的別人，
+        // 所以拆成一個個名字後要整段相符
+        const by = cols
+          .slice(1)
+          .join(' • ')
+          .split(/\s*(?:•|·|・|&|,|，|、|\||\/|;|；|和|與|feat\.?|with)\s*/i)
+          .map((x) => normalizeTitle(x))
+          .filter(Boolean)
         if (!names.some((n) => by.includes(n))) continue
         const id = [...findAll(item, 'browseId')].find((b) => typeof b === 'string' && b.startsWith('MPRE'))
         if (id && !known.has(id)) found.set(id, cols[0] ?? '')
