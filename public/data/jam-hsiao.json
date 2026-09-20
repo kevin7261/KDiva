@@ -2,13 +2,13 @@
   "slug": "jam-hsiao",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T22:21:29.087Z",
+  "fetchedAt": "2026-09-19T21:17:04.540Z",
   "artist": {
     "channelId": "UCvjGf4upqUNaqi524A5AHIw",
     "name": "蕭敬騰",
     "thumbnail": "https://lh3.googleusercontent.com/Gyy2xABTpK5i7fgSoMEpveMgazcNxeBwoPeVqjf-NBh9u2Ijp3m8XfaUx0NAUbSk7RU7NFMkDfLCVFw=w2880-h1200-p-l90-rj",
     "subscribers": 375000,
-    "monthlyAudience": 1140000,
+    "monthlyAudience": 1050000,
     "videos": [
       {
         "title": "愛上你不是我決定 (合作演出：A-Lin)",
@@ -350,7 +350,8 @@
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偉菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "李偉菘、李偲菘"
           },
           "nameKey": "收藏"
         },
@@ -365,7 +366,8 @@
           "byOther": false,
           "credits": {
             "music": "Andreas Hemmeth、Linnéa Handberg",
-            "arranger": "Derek Chua"
+            "arranger": "Derek Chua",
+            "producer": "李偲菘"
           },
           "nameKey": "王子的新衣",
           "mv": "CGfZNAOkpkk"
@@ -382,7 +384,8 @@
           "credits": {
             "lyrics": "阿沁、陳天佑、吳易緯",
             "music": "阿沁",
-            "arranger": "Terence Teo"
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
           },
           "nameKey": "原諒我"
         },
@@ -398,7 +401,8 @@
           "credits": {
             "lyrics": "鄔裕康",
             "music": "曹格",
-            "arranger": "洪敬堯、謝明祥"
+            "arranger": "洪敬堯、謝明祥",
+            "producer": "馬毓芬"
           },
           "nameKey": "奮不顧身"
         },
@@ -407,14 +411,15 @@
           "title": "疼愛",
           "artists": "",
           "videoId": "UtzEEbF33Qk",
-          "plays": 4270000,
-          "playsText": "播放次數：427萬",
+          "plays": 4280000,
+          "playsText": "播放次數：428萬",
           "duration": 231,
           "byOther": false,
           "credits": {
             "lyrics": "阿信",
             "music": "阿信",
-            "arranger": "小毛@輕鬆玩"
+            "arranger": "小毛@輕鬆玩",
+            "producer": "陳偉"
           },
           "nameKey": "疼愛"
         },
@@ -430,7 +435,8 @@
           "credits": {
             "lyrics": "吳青峰",
             "music": "吳青峰",
-            "arranger": "阿滾"
+            "arranger": "阿滾",
+            "producer": "馬毓芬"
           },
           "nameKey": "多希望你在"
         },
@@ -446,7 +452,8 @@
           "credits": {
             "lyrics": "崔惟楷",
             "music": "宋念宇",
-            "arranger": "宋念宇"
+            "arranger": "宋念宇",
+            "producer": "陳偉"
           },
           "nameKey": "活著"
         },
@@ -462,7 +469,8 @@
           "credits": {
             "lyrics": "陳鎮川",
             "music": "蕭敬騰",
-            "arranger": "Terence Teo"
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
           },
           "nameKey": "一輩子存在"
         },
@@ -478,7 +486,8 @@
           "credits": {
             "lyrics": "鄔裕康",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
           },
           "nameKey": "我在哭"
         },
@@ -494,7 +503,8 @@
           "credits": {
             "lyrics": "陳偉、林唯",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "blues"
         },
@@ -510,7 +520,8 @@
           "credits": {
             "lyrics": "十九筆",
             "music": "蕭敬騰",
-            "arranger": "郭偉聰"
+            "arranger": "郭偉聰",
+            "producer": "陳偉"
           },
           "nameKey": "海芋戀"
         }
@@ -536,10 +547,15 @@
           "title": "王子的新衣 (Live)",
           "artists": "蕭敬騰",
           "videoId": "lwE6IEGncGs",
-          "plays": 5929,
-          "playsText": "播放次數：5929",
+          "plays": 5932,
+          "playsText": "播放次數：5932",
           "duration": 313,
           "byOther": false,
+          "credits": {
+            "music": "Andreas Hemmeth、Linnéa Handberg",
+            "arranger": "Derek Chua",
+            "producer": "李偲菘"
+          },
           "nameKey": "王子的新衣#live"
         },
         {
@@ -547,10 +563,16 @@
           "title": "活著 (Live)",
           "artists": "蕭敬騰",
           "videoId": "-UuWko1iPQo",
-          "plays": 3006,
-          "playsText": "播放次數：3006",
+          "plays": 3009,
+          "playsText": "播放次數：3009",
           "duration": 233,
           "byOther": false,
+          "credits": {
+            "lyrics": "崔惟楷",
+            "music": "宋念宇",
+            "arranger": "宋念宇",
+            "producer": "陳偉"
+          },
           "nameKey": "活著#live"
         },
         {
@@ -558,10 +580,16 @@
           "title": "海芋戀 (Live)",
           "artists": "蕭敬騰",
           "videoId": "_mJPZySvHVA",
-          "plays": 7814,
-          "playsText": "播放次數：7814",
+          "plays": 7815,
+          "playsText": "播放次數：7815",
           "duration": 270,
           "byOther": false,
+          "credits": {
+            "lyrics": "十九筆",
+            "music": "蕭敬騰",
+            "arranger": "郭偉聰",
+            "producer": "陳偉"
+          },
           "nameKey": "海芋戀#live"
         },
         {
@@ -580,8 +608,8 @@
           "title": "Love Song (Live Version - Jam Hsiao)",
           "artists": "方大同",
           "videoId": "ECXNJtTap8s",
-          "plays": 8470,
-          "playsText": "播放次數：8470",
+          "plays": 8472,
+          "playsText": "播放次數：8472",
           "duration": 263,
           "byOther": true,
           "nameKey": "lovesongliveversion#live"
@@ -591,10 +619,16 @@
           "title": "奮不顧身 (Live)",
           "artists": "蕭敬騰",
           "videoId": "I4kPq7yc8ug",
-          "plays": 3237,
-          "playsText": "播放次數：3237",
+          "plays": 3239,
+          "playsText": "播放次數：3239",
           "duration": 284,
           "byOther": false,
+          "credits": {
+            "lyrics": "鄔裕康",
+            "music": "曹格",
+            "arranger": "洪敬堯、謝明祥",
+            "producer": "馬毓芬"
+          },
           "nameKey": "奮不顧身#live"
         },
         {
@@ -606,6 +640,12 @@
           "playsText": "播放次數：730",
           "duration": 241,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "蕭敬騰",
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
           "nameKey": "一輩子存在#live"
         },
         {
@@ -613,10 +653,16 @@
           "title": "我在哭 (Live)",
           "artists": "蕭敬騰",
           "videoId": "OtFgSqGOA6E",
-          "plays": 542,
-          "playsText": "播放次數：542",
+          "plays": 543,
+          "playsText": "播放次數：543",
           "duration": 230,
           "byOther": false,
+          "credits": {
+            "lyrics": "鄔裕康",
+            "music": "李偲菘",
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
+          },
           "nameKey": "我在哭#live"
         },
         {
@@ -631,7 +677,8 @@
           "credits": {
             "lyrics": "陳偉、林唯",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "blues#live"
         },
@@ -644,6 +691,12 @@
           "playsText": "播放次數：3.6萬",
           "duration": 229,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "小毛@輕鬆玩",
+            "producer": "陳偉"
+          },
           "nameKey": "疼愛#live"
         },
         {
@@ -655,6 +708,12 @@
           "playsText": "播放次數：7.5萬",
           "duration": 250,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿沁、陳天佑、吳易緯",
+            "music": "阿沁",
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
           "nameKey": "原諒我#live"
         },
         {
@@ -666,6 +725,12 @@
           "playsText": "播放次數：1028",
           "duration": 307,
           "byOther": false,
+          "credits": {
+            "lyrics": "吳青峰",
+            "music": "吳青峰",
+            "arranger": "阿滾",
+            "producer": "馬毓芬"
+          },
           "nameKey": "多希望你在#live"
         },
         {
@@ -677,6 +742,12 @@
           "playsText": "播放次數：2429",
           "duration": 283,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "李偉菘",
+            "arranger": "Martin Tang",
+            "producer": "李偉菘、李偲菘"
+          },
           "nameKey": "收藏#live"
         }
       ],
@@ -701,14 +772,15 @@
           "title": "王妃",
           "artists": "",
           "videoId": "qnDlH_S4Fak",
-          "plays": 32120000,
-          "playsText": "播放次數：3212萬",
+          "plays": 32130000,
+          "playsText": "播放次數：3213萬",
           "duration": 222,
           "byOther": false,
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
           },
           "nameKey": "王妃"
         },
@@ -724,7 +796,8 @@
           "credits": {
             "lyrics": "鄔裕康",
             "music": "Kim Seok Jin",
-            "arranger": "Terence Teo"
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
           },
           "nameKey": "我不會愛"
         },
@@ -733,14 +806,15 @@
           "title": "阿飛的小蝴蝶",
           "artists": "",
           "videoId": "vNR3MlBBDZo",
-          "plays": 13660000,
-          "playsText": "播放次數：1366萬",
+          "plays": 13670000,
+          "playsText": "播放次數：1367萬",
           "duration": 257,
           "byOther": false,
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "黃雨勳"
+            "arranger": "黃雨勳",
+            "producer": "阿弟仔"
           },
           "nameKey": "阿飛的小蝴蝶"
         },
@@ -749,14 +823,15 @@
           "title": "善男信女",
           "artists": "",
           "videoId": "vnDlhgK8cAY",
-          "plays": 2130000,
-          "playsText": "播放次數：213萬",
+          "plays": 2140000,
+          "playsText": "播放次數：214萬",
           "duration": 271,
           "byOther": false,
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偉菘",
-            "arranger": "Terence Teo"
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
           },
           "nameKey": "善男信女"
         },
@@ -773,7 +848,8 @@
           "credits": {
             "lyrics": "崔惟楷",
             "music": "方大同",
-            "arranger": "方大同"
+            "arranger": "方大同",
+            "producer": "李偲菘"
           },
           "titleZhVariant": true,
           "nameKey": "sayalilsomething#live"
@@ -790,7 +866,8 @@
           "credits": {
             "lyrics": "陳鎮川",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "愛遊戲"
         },
@@ -799,14 +876,15 @@
           "title": "小男人大男孩",
           "artists": "",
           "videoId": "t2-CH9uTo-g",
-          "plays": 6914,
-          "playsText": "播放次數：6914",
+          "plays": 6936,
+          "playsText": "播放次數：6936",
           "duration": 216,
           "byOther": false,
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "洪敬堯"
+            "arranger": "洪敬堯",
+            "producer": "蕭敬騰"
           },
           "nameKey": "小男人大男孩"
         },
@@ -822,7 +900,8 @@
           "credits": {
             "lyrics": "Kang Eun Kyung、中文詞：姚若龍",
             "music": "Jeong Si Ro",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
           },
           "nameKey": "會痛的石頭"
         },
@@ -838,7 +917,8 @@
           "credits": {
             "lyrics": "胡如虹",
             "music": "李偉菘",
-            "arranger": "Kenn C"
+            "arranger": "Kenn C",
+            "producer": "李偉菘"
           },
           "nameKey": "愛過了頭"
         },
@@ -847,15 +927,16 @@
           "title": "Green Door",
           "artists": "",
           "videoId": "OcW5FcsX0hY",
-          "plays": 2873,
-          "playsText": "播放次數：2873",
+          "plays": 2880,
+          "playsText": "播放次數：2880",
           "duration": 199,
           "byOther": false,
           "titleZh": "Green Door (台南Live巡迴版)",
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "titleZhVariant": true,
           "nameKey": "greendoor#live"
@@ -872,7 +953,8 @@
           "credits": {
             "lyrics": "陳鎮川",
             "music": "蕭敬騰",
-            "arranger": "鍾興民"
+            "arranger": "鍾興民",
+            "producer": "鍾興民、黃韻玲"
           },
           "nameKey": "給愛人"
         },
@@ -888,7 +970,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "陳懷恩"
+            "arranger": "陳懷恩",
+            "producer": "馬奕強"
           },
           "nameKey": "寂寞還是你"
         }
@@ -925,14 +1008,15 @@
           "title": "新不了情",
           "artists": "",
           "videoId": "LVgZ80p1fdA",
-          "plays": 15220000,
-          "playsText": "播放次數：1522萬",
+          "plays": 15230000,
+          "playsText": "播放次數：1523萬",
           "duration": 265,
           "byOther": false,
           "credits": {
             "lyrics": "黃鬱",
             "music": "鮑比達",
-            "arranger": "吳慶隆、廖偉傑"
+            "arranger": "吳慶隆、廖偉傑",
+            "producer": "阿弟仔"
           },
           "nameKey": "新不了情"
         },
@@ -941,14 +1025,15 @@
           "title": "如果沒有你",
           "artists": "",
           "videoId": "bBBO4LDBTj4",
-          "plays": 5900000,
-          "playsText": "播放次數：590萬",
+          "plays": 5910000,
+          "playsText": "播放次數：591萬",
           "duration": 277,
           "byOther": false,
           "credits": {
             "lyrics": "李焯雄",
             "music": "左安安",
-            "arranger": "黃雨勳"
+            "arranger": "黃雨勳",
+            "producer": "阿弟仔"
           },
           "nameKey": "如果沒有你"
         },
@@ -964,7 +1049,8 @@
           "credits": {
             "lyrics": "袁惟仁",
             "music": "袁惟仁",
-            "arranger": "小毛@輕鬆玩"
+            "arranger": "小毛@輕鬆玩",
+            "producer": "阿弟仔"
           },
           "nameKey": "夢一場"
         },
@@ -980,7 +1066,8 @@
           "credits": {
             "lyrics": "陳黎鐘",
             "music": "陳小霞",
-            "arranger": "林於賢"
+            "arranger": "林於賢",
+            "producer": "阿弟仔"
           },
           "nameKey": "無言花"
         },
@@ -996,7 +1083,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "李偲菘",
-            "arranger": "黃雨勳"
+            "arranger": "黃雨勳",
+            "producer": "阿弟仔"
           },
           "titleZh": "我懷唸的",
           "titleZhVariant": true,
@@ -1014,7 +1102,8 @@
           "credits": {
             "lyrics": "姚謙",
             "music": "蔡健雅",
-            "arranger": "廖偉傑"
+            "arranger": "廖偉傑",
+            "producer": "阿弟仔"
           },
           "nameKey": "記念"
         },
@@ -1023,14 +1112,15 @@
           "title": "寫一首歌",
           "artists": "",
           "videoId": "M59s2YZbTKY",
-          "plays": 4951,
-          "playsText": "播放次數：4951",
+          "plays": 4957,
+          "playsText": "播放次數：4957",
           "duration": 295,
           "byOther": false,
           "credits": {
             "lyrics": "順子、Jeff C.",
             "music": "順子",
-            "arranger": "小毛@輕鬆玩"
+            "arranger": "小毛@輕鬆玩",
+            "producer": "阿弟仔"
           },
           "nameKey": "寫一首歌"
         },
@@ -1046,7 +1136,8 @@
           "credits": {
             "lyrics": "易家揚",
             "music": "林俊傑",
-            "arranger": "黃雨勳"
+            "arranger": "黃雨勳",
+            "producer": "阿弟仔"
           },
           "nameKey": "記得"
         },
@@ -1062,7 +1153,8 @@
           "credits": {
             "lyrics": "方文山",
             "music": "周杰倫",
-            "arranger": "廖偉傑"
+            "arranger": "廖偉傑",
+            "producer": "阿弟仔"
           },
           "nameKey": "倒帶"
         }
@@ -1095,7 +1187,8 @@
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
           },
           "titleZh": "王妃 (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1106,14 +1199,15 @@
           "title": "善男信女 (台南Live巡迴版)",
           "artists": "",
           "videoId": "a6OzLENW-iY",
-          "plays": 4318,
-          "playsText": "播放次數：4318",
+          "plays": 4328,
+          "playsText": "播放次數：4328",
           "duration": 287,
           "byOther": false,
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偉菘",
-            "arranger": "Terence Teo"
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
           },
           "titleZh": "善男信女 (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1124,14 +1218,15 @@
           "title": "愛過了頭 (台南Live巡迴版)",
           "artists": "",
           "videoId": "5FhiM7_Qf2o",
-          "plays": 6464,
-          "playsText": "播放次數：6464",
+          "plays": 6478,
+          "playsText": "播放次數：6478",
           "duration": 267,
           "byOther": false,
           "credits": {
             "lyrics": "胡如虹",
             "music": "李偉菘",
-            "arranger": "Kenn C"
+            "arranger": "Kenn C",
+            "producer": "李偉菘"
           },
           "titleZh": "愛過了頭 (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1142,14 +1237,15 @@
           "title": "小男人大男孩 (台南Live巡迴版)",
           "artists": "",
           "videoId": "tJuf7cac91k",
-          "plays": 1850,
-          "playsText": "播放次數：1850",
+          "plays": 1851,
+          "playsText": "播放次數：1851",
           "duration": 222,
           "byOther": false,
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "洪敬堯"
+            "arranger": "洪敬堯",
+            "producer": "蕭敬騰"
           },
           "titleZh": "小男人大男孩 (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1167,7 +1263,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "titleZh": "Green Door (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1178,14 +1275,15 @@
           "title": "Say A Lil Something (台南Live巡迴版)",
           "artists": "",
           "videoId": "-HYaxQvwi3M",
-          "plays": 1586,
-          "playsText": "播放次數：1586",
+          "plays": 1587,
+          "playsText": "播放次數：1587",
           "duration": 216,
           "byOther": false,
           "credits": {
             "lyrics": "崔惟楷",
             "music": "方大同",
-            "arranger": "方大同"
+            "arranger": "方大同",
+            "producer": "李偲菘"
           },
           "titleZh": "Say A Lil Something (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1203,7 +1301,8 @@
           "credits": {
             "lyrics": "鄔裕康",
             "music": "Kim Seok Jin",
-            "arranger": "Terence Teo"
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
           },
           "titleZh": "我不會愛 (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1221,7 +1320,8 @@
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "黃雨勳"
+            "arranger": "黃雨勳",
+            "producer": "阿弟仔"
           },
           "titleZh": "阿飛的小蝴蝶 (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1238,7 +1338,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "蕭敬騰",
-            "music": "個人首次發表的全詞曲創作歌曲、2008年配合手機HTC Touch Viva上市採取隨貨附贈單曲CD"
+            "music": "蕭敬騰",
+            "arranger": "陳懷恩",
+            "producer": "馬奕強"
           },
           "titleZh": "寂寞還是你 (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1256,7 +1358,8 @@
           "credits": {
             "lyrics": "Kang Eun Kyung、中文詞：姚若龍",
             "music": "Jeong Si Ro",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
           },
           "titleZh": "會痛的石頭 (臺南Live巡迴版)",
           "titleZhVariant": true,
@@ -1295,10 +1398,15 @@
           "title": "王子的新衣 (Live)",
           "artists": "",
           "videoId": "sOjIXKL2s6s",
-          "plays": 2038,
-          "playsText": "播放次數：2038",
+          "plays": 2039,
+          "playsText": "播放次數：2039",
           "duration": 274,
           "byOther": false,
+          "credits": {
+            "music": "Andreas Hemmeth、Linnéa Handberg",
+            "arranger": "Derek Chua",
+            "producer": "李偲菘"
+          },
           "nameKey": "王子的新衣#live"
         },
         {
@@ -1343,6 +1451,12 @@
           "playsText": "播放次數：8640",
           "duration": 327,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "蕭敬騰",
+            "arranger": "鍾興民",
+            "producer": "鍾興民、黃韻玲"
+          },
           "nameKey": "給愛人#live"
         },
         {
@@ -1354,12 +1468,13 @@
           "playsText": "播放次數：9.7萬",
           "duration": 247,
           "byOther": false,
-          "nameKey": "我不會愛#live",
           "credits": {
             "lyrics": "鄔裕康",
             "music": "Kim Seok Jin",
-            "arranger": "Terence Teo"
-          }
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
+          "nameKey": "我不會愛#live"
         },
         {
           "index": 8,
@@ -1370,12 +1485,13 @@
           "playsText": "播放次數：2416",
           "duration": 287,
           "byOther": false,
-          "nameKey": "會痛的石頭#live",
           "credits": {
             "lyrics": "Kang Eun Kyung、中文詞：姚若龍",
             "music": "Jeong Si Ro",
-            "arranger": "Martin Tang"
-          }
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
+          },
+          "nameKey": "會痛的石頭#live"
         },
         {
           "index": 9,
@@ -1397,6 +1513,12 @@
           "playsText": "播放次數：459",
           "duration": 274,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳黎鐘",
+            "music": "陳小霞",
+            "arranger": "林於賢",
+            "producer": "阿弟仔"
+          },
           "nameKey": "無言花#live"
         },
         {
@@ -1408,6 +1530,12 @@
           "playsText": "播放次數：28萬",
           "duration": 308,
           "byOther": false,
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "李偲菘",
+            "arranger": "黃雨勳",
+            "producer": "阿弟仔"
+          },
           "titleZh": "我懷唸的 (Live)",
           "titleZhVariant": true,
           "nameKey": "我懷唸的#live"
@@ -1432,12 +1560,13 @@
           "playsText": "播放次數：567",
           "duration": 262,
           "byOther": false,
-          "nameKey": "阿飛的小蝴蝶#live",
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "黃雨勳"
-          }
+            "arranger": "黃雨勳",
+            "producer": "阿弟仔"
+          },
+          "nameKey": "阿飛的小蝴蝶#live"
         },
         {
           "index": 14,
@@ -1452,7 +1581,8 @@
           "credits": {
             "lyrics": "崔惟楷",
             "music": "方大同",
-            "arranger": "方大同"
+            "arranger": "方大同",
+            "producer": "李偲菘"
           },
           "titleZhVariant": true,
           "nameKey": "sayalilsomething#live"
@@ -1466,6 +1596,12 @@
           "playsText": "播放次數：6.5萬",
           "duration": 263,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃鬱",
+            "music": "鮑比達",
+            "arranger": "吳慶隆、廖偉傑",
+            "producer": "阿弟仔"
+          },
           "nameKey": "新不了情#live"
         },
         {
@@ -1473,8 +1609,8 @@
           "title": "心如刀割 (Live)",
           "artists": "",
           "videoId": "IBF2xjmFank",
-          "plays": 9102,
-          "playsText": "播放次數：9102",
+          "plays": 9105,
+          "playsText": "播放次數：9105",
           "duration": 185,
           "byOther": false,
           "nameKey": "心如刀割#live"
@@ -1521,6 +1657,12 @@
           "playsText": "播放次數：203",
           "duration": 233,
           "byOther": false,
+          "credits": {
+            "lyrics": "崔惟楷",
+            "music": "宋念宇",
+            "arranger": "宋念宇",
+            "producer": "陳偉"
+          },
           "nameKey": "活著#live"
         },
         {
@@ -1528,26 +1670,33 @@
           "title": "善男信女 (Live)",
           "artists": "",
           "videoId": "vtReRB6f4AQ",
-          "plays": 986,
-          "playsText": "播放次數：986",
+          "plays": 987,
+          "playsText": "播放次數：987",
           "duration": 279,
           "byOther": false,
-          "nameKey": "善男信女#live",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偉菘",
-            "arranger": "Terence Teo"
-          }
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
+          "nameKey": "善男信女#live"
         },
         {
           "index": 22,
           "title": "原諒我 (Live)",
           "artists": "",
           "videoId": "NUXGnMYlE4o",
-          "plays": 1124,
-          "playsText": "播放次數：1124",
+          "plays": 1126,
+          "playsText": "播放次數：1126",
           "duration": 258,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿沁、陳天佑、吳易緯",
+            "music": "阿沁",
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
           "nameKey": "原諒我#live"
         },
         {
@@ -1562,7 +1711,8 @@
           "credits": {
             "lyrics": "陳偉、林唯",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "blues#live"
         },
@@ -1575,12 +1725,13 @@
           "playsText": "播放次數：328",
           "duration": 267,
           "byOther": false,
-          "nameKey": "小男人大男孩#live",
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "洪敬堯"
-          }
+            "arranger": "洪敬堯",
+            "producer": "蕭敬騰"
+          },
+          "nameKey": "小男人大男孩#live"
         },
         {
           "index": 25,
@@ -1591,6 +1742,12 @@
           "playsText": "播放次數：479",
           "duration": 256,
           "byOther": false,
+          "credits": {
+            "lyrics": "十九筆",
+            "music": "蕭敬騰",
+            "arranger": "郭偉聰",
+            "producer": "陳偉"
+          },
           "nameKey": "海芋戀#live"
         },
         {
@@ -1602,11 +1759,13 @@
           "playsText": "播放次數：9.4萬",
           "duration": 245,
           "byOther": false,
-          "nameKey": "寂寞還是你#live",
           "credits": {
             "lyrics": "蕭敬騰",
-            "music": "個人首次發表的全詞曲創作歌曲、2008年配合手機HTC Touch Viva上市採取隨貨附贈單曲CD"
-          }
+            "music": "蕭敬騰",
+            "arranger": "陳懷恩",
+            "producer": "馬奕強"
+          },
+          "nameKey": "寂寞還是你#live"
         },
         {
           "index": 27,
@@ -1617,12 +1776,13 @@
           "playsText": "播放次數：1762",
           "duration": 287,
           "byOther": false,
-          "nameKey": "王妃#live",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
-          }
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
+          },
+          "nameKey": "王妃#live"
         },
         {
           "index": 28,
@@ -1644,6 +1804,12 @@
           "playsText": "播放次數：1099",
           "duration": 276,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "李偉菘",
+            "arranger": "Martin Tang",
+            "producer": "李偉菘、李偲菘"
+          },
           "nameKey": "收藏#live"
         },
         {
@@ -1651,8 +1817,8 @@
           "title": "晚安曲 (Live)",
           "artists": "",
           "videoId": "G5dsCrfwtGU",
-          "plays": 6913,
-          "playsText": "播放次數：6913",
+          "plays": 6943,
+          "playsText": "播放次數：6943",
           "duration": 253,
           "byOther": false,
           "nameKey": "晚安曲#live"
@@ -1708,7 +1874,8 @@
           "credits": {
             "lyrics": "小寒",
             "music": "黃韻仁",
-            "arranger": "黃韻仁"
+            "arranger": "黃韻仁",
+            "producer": "蕭敬騰"
           },
           "nameKey": "複製人"
         },
@@ -1724,7 +1891,8 @@
           "credits": {
             "lyrics": "天天",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "nameKey": "狂想曲"
         },
@@ -1733,14 +1901,15 @@
           "title": "只能想念你",
           "artists": "",
           "videoId": "lbYsvfOYMA4",
-          "plays": 34470000,
-          "playsText": "播放次數：3447萬",
+          "plays": 34480000,
+          "playsText": "播放次數：3448萬",
           "duration": 262,
           "byOther": false,
           "credits": {
             "lyrics": "蔡健雅",
             "music": "蔡健雅",
-            "arranger": "Adam Lee"
+            "arranger": "Adam Lee",
+            "producer": "蕭敬騰"
           },
           "nameKey": "只能想念你"
         },
@@ -1756,7 +1925,8 @@
           "credits": {
             "lyrics": "李焯雄",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "話不多"
         },
@@ -1765,14 +1935,15 @@
           "title": "怎麼說我不愛你",
           "artists": "",
           "videoId": "FpxxT3FcctQ",
-          "plays": 24820000,
-          "playsText": "播放次數：2482萬",
+          "plays": 24830000,
+          "playsText": "播放次數：2483萬",
           "duration": 276,
           "byOther": false,
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "Kenn C"
+            "arranger": "Kenn C",
+            "producer": "蕭敬騰"
           },
           "nameKey": "怎麼說我不愛你"
         },
@@ -1788,7 +1959,8 @@
           "credits": {
             "lyrics": "阿怪",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "nameKey": "不停有意外的世界"
         },
@@ -1804,7 +1976,8 @@
           "credits": {
             "lyrics": "小安",
             "music": "小安",
-            "arranger": "小安"
+            "arranger": "小安",
+            "producer": "蕭敬騰"
           },
           "nameKey": "敷衍"
         },
@@ -1820,7 +1993,8 @@
           "credits": {
             "lyrics": "葛大為",
             "music": "李偉菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "nameKey": "信仰"
         },
@@ -1836,7 +2010,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "金木義則"
+            "arranger": "金木義則",
+            "producer": "蕭敬騰"
           },
           "nameKey": "好想對你說"
         },
@@ -1852,7 +2027,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "金木義則"
+            "arranger": "金木義則",
+            "producer": "蕭敬騰"
           },
           "nameKey": "好想對你說"
         },
@@ -1861,14 +2037,15 @@
           "title": "白蛇傳",
           "artists": "",
           "videoId": "YgEOKMZDaqI",
-          "plays": 2690,
-          "playsText": "播放次數：2690",
+          "plays": 2695,
+          "playsText": "播放次數：2695",
           "duration": 150,
           "byOther": false,
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "阿弟仔、廖偉傑"
+            "arranger": "阿弟仔、廖偉傑",
+            "producer": "蕭敬騰"
           },
           "nameKey": "白蛇傳"
         },
@@ -1884,7 +2061,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "小安"
+            "arranger": "小安",
+            "producer": "蕭敬騰"
           },
           "nameKey": "茉莉戀"
         },
@@ -1900,7 +2078,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "洪敬堯、小王子"
+            "arranger": "洪敬堯、小王子",
+            "producer": "蕭敬騰"
           },
           "nameKey": "看對眼"
         }
@@ -1944,7 +2123,8 @@
           "credits": {
             "lyrics": "小寒",
             "music": "黃韻仁",
-            "arranger": "黃韻仁"
+            "arranger": "黃韻仁",
+            "producer": "蕭敬騰"
           },
           "nameKey": "複製人"
         },
@@ -1960,7 +2140,8 @@
           "credits": {
             "lyrics": "天天",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "nameKey": "狂想曲"
         },
@@ -1976,7 +2157,8 @@
           "credits": {
             "lyrics": "蔡健雅",
             "music": "蔡健雅",
-            "arranger": "Adam Lee"
+            "arranger": "Adam Lee",
+            "producer": "蕭敬騰"
           },
           "nameKey": "只能想念你"
         },
@@ -1992,7 +2174,8 @@
           "credits": {
             "lyrics": "李焯雄",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "話不多"
         },
@@ -2001,14 +2184,15 @@
           "title": "怎麼說我不愛你",
           "artists": "",
           "videoId": "RqVu_Q2Sf54",
-          "plays": 24820000,
-          "playsText": "播放次數：2482萬",
+          "plays": 24830000,
+          "playsText": "播放次數：2483萬",
           "duration": 276,
           "byOther": false,
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "Kenn C"
+            "arranger": "Kenn C",
+            "producer": "蕭敬騰"
           },
           "nameKey": "怎麼說我不愛你"
         },
@@ -2024,7 +2208,8 @@
           "credits": {
             "lyrics": "阿怪",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "nameKey": "不停有意外的世界"
         },
@@ -2040,7 +2225,8 @@
           "credits": {
             "lyrics": "小安",
             "music": "小安",
-            "arranger": "小安"
+            "arranger": "小安",
+            "producer": "蕭敬騰"
           },
           "nameKey": "敷衍"
         },
@@ -2056,7 +2242,8 @@
           "credits": {
             "lyrics": "葛大為",
             "music": "李偉菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "nameKey": "信仰"
         },
@@ -2072,7 +2259,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "金木義則"
+            "arranger": "金木義則",
+            "producer": "蕭敬騰"
           },
           "nameKey": "好想對你說"
         },
@@ -2088,7 +2276,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "金木義則"
+            "arranger": "金木義則",
+            "producer": "蕭敬騰"
           },
           "nameKey": "好想對你說"
         },
@@ -2097,14 +2286,15 @@
           "title": "白蛇傳",
           "artists": "",
           "videoId": "QPJjcPXz7PA",
-          "plays": 2690,
-          "playsText": "播放次數：2690",
+          "plays": 2695,
+          "playsText": "播放次數：2695",
           "duration": 150,
           "byOther": false,
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "阿弟仔、廖偉傑"
+            "arranger": "阿弟仔、廖偉傑",
+            "producer": "蕭敬騰"
           },
           "nameKey": "白蛇傳"
         },
@@ -2120,7 +2310,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "小安"
+            "arranger": "小安",
+            "producer": "蕭敬騰"
           },
           "nameKey": "茉莉戀"
         },
@@ -2136,7 +2327,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "洪敬堯、小王子"
+            "arranger": "洪敬堯、小王子",
+            "producer": "蕭敬騰"
           },
           "nameKey": "看對眼"
         },
@@ -2149,6 +2341,12 @@
           "playsText": "播放次數：1046",
           "duration": 341,
           "byOther": false,
+          "credits": {
+            "lyrics": "天天",
+            "music": "李偲菘",
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "狂想曲#live"
         },
         {
@@ -2160,6 +2358,12 @@
           "playsText": "播放次數：919",
           "duration": 259,
           "byOther": false,
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "陳偉",
+            "arranger": "陳偉",
+            "producer": "陳偉"
+          },
           "nameKey": "話不多#live"
         },
         {
@@ -2171,6 +2375,12 @@
           "playsText": "播放次數：1.4萬",
           "duration": 232,
           "byOther": false,
+          "credits": {
+            "lyrics": "小寒",
+            "music": "黃韻仁",
+            "arranger": "黃韻仁",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "複製人#live"
         },
         {
@@ -2182,6 +2392,12 @@
           "playsText": "播放次數：475",
           "duration": 357,
           "byOther": false,
+          "credits": {
+            "lyrics": "蕭敬騰",
+            "music": "蕭敬騰",
+            "arranger": "金木義則",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "好想對你說#live"
         },
         {
@@ -2204,6 +2420,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 282,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿弟仔",
+            "music": "阿弟仔",
+            "arranger": "Kenn C",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "怎麼說我不愛你#live"
         },
         {
@@ -2215,6 +2437,12 @@
           "playsText": "播放次數：1890",
           "duration": 241,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿怪",
+            "music": "李偲菘",
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "不停有意外的世界#live"
         },
         {
@@ -2226,6 +2454,12 @@
           "playsText": "播放次數：222",
           "duration": 241,
           "byOther": false,
+          "credits": {
+            "lyrics": "葛大為",
+            "music": "李偉菘",
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "信仰#live"
         },
         {
@@ -2237,6 +2471,12 @@
           "playsText": "播放次數：1948",
           "duration": 271,
           "byOther": false,
+          "credits": {
+            "lyrics": "蔡健雅",
+            "music": "蔡健雅",
+            "arranger": "Adam Lee",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "只能想念你#live"
         },
         {
@@ -2248,6 +2488,12 @@
           "playsText": "播放次數：360",
           "duration": 240,
           "byOther": false,
+          "credits": {
+            "lyrics": "小安",
+            "music": "小安",
+            "arranger": "小安",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "敷衍#live"
         },
         {
@@ -2259,6 +2505,12 @@
           "playsText": "播放次數：346",
           "duration": 171,
           "byOther": false,
+          "credits": {
+            "lyrics": "蕭敬騰",
+            "music": "蕭敬騰",
+            "arranger": "阿弟仔、廖偉傑",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "白蛇傳#live"
         },
         {
@@ -2266,16 +2518,17 @@
           "title": "王妃 (Live)",
           "artists": "",
           "videoId": "FnNuiQdSp1E",
-          "plays": 688,
-          "playsText": "播放次數：688",
+          "plays": 689,
+          "playsText": "播放次數：689",
           "duration": 369,
           "byOther": false,
-          "nameKey": "王妃#live",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
-          }
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
+          },
+          "nameKey": "王妃#live"
         }
       ],
       "releaseDate": null,
@@ -2303,6 +2556,12 @@
           "playsText": "播放次數：477",
           "duration": 265,
           "byOther": false,
+          "credits": {
+            "lyrics": "天天",
+            "music": "李偲菘",
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "狂想曲#live"
         },
         {
@@ -2321,8 +2580,8 @@
           "title": "軋車 (Live)",
           "artists": "",
           "videoId": "71nfhwJW2w0",
-          "plays": 8302,
-          "playsText": "播放次數：8302",
+          "plays": 8303,
+          "playsText": "播放次數：8303",
           "duration": 195,
           "byOther": false,
           "nameKey": "軋車#live"
@@ -2332,8 +2591,8 @@
           "title": "海闊天空 (Live)",
           "artists": "",
           "videoId": "F5-3HfQ3D28",
-          "plays": 1242,
-          "playsText": "播放次數：1242",
+          "plays": 1243,
+          "playsText": "播放次數：1243",
           "duration": 374,
           "byOther": false,
           "nameKey": "海闊天空#live"
@@ -2343,8 +2602,8 @@
           "title": "每天愛你多一些 (Live)",
           "artists": "",
           "videoId": "-pA-jX56g00",
-          "plays": 458,
-          "playsText": "播放次數：458",
+          "plays": 460,
+          "playsText": "播放次數：460",
           "duration": 297,
           "byOther": false,
           "nameKey": "每天愛你多一些#live"
@@ -2354,10 +2613,16 @@
           "title": "原諒我 (Live)",
           "artists": "",
           "videoId": "xOn8GT5efpk",
-          "plays": 6533,
-          "playsText": "播放次數：6533",
+          "plays": 6534,
+          "playsText": "播放次數：6534",
           "duration": 259,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿沁、陳天佑、吳易緯",
+            "music": "阿沁",
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
           "nameKey": "原諒我#live"
         },
         {
@@ -2369,6 +2634,12 @@
           "playsText": "播放次數：354",
           "duration": 262,
           "byOther": false,
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "陳偉",
+            "arranger": "陳偉",
+            "producer": "陳偉"
+          },
           "nameKey": "話不多#live"
         },
         {
@@ -2380,6 +2651,12 @@
           "playsText": "播放次數：856",
           "duration": 229,
           "byOther": false,
+          "credits": {
+            "lyrics": "小寒",
+            "music": "黃韻仁",
+            "arranger": "黃韻仁",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "複製人#live"
         },
         {
@@ -2387,16 +2664,17 @@
           "title": "我不會愛 (Live)",
           "artists": "",
           "videoId": "ioYLiIBs90k",
-          "plays": 1200,
-          "playsText": "播放次數：1200",
+          "plays": 1202,
+          "playsText": "播放次數：1202",
           "duration": 246,
           "byOther": false,
-          "nameKey": "我不會愛#live",
           "credits": {
             "lyrics": "鄔裕康",
             "music": "Kim Seok Jin",
-            "arranger": "Terence Teo"
-          }
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
+          "nameKey": "我不會愛#live"
         },
         {
           "index": 10,
@@ -2436,8 +2714,8 @@
           "title": "(They Long To Be) CLOSE TO YOU (Live)",
           "artists": "",
           "videoId": "39ccu9wGOJE",
-          "plays": 258,
-          "playsText": "播放次數：258",
+          "plays": 260,
+          "playsText": "播放次數：260",
           "duration": 251,
           "byOther": false,
           "nameKey": "closetoyou#live"
@@ -2447,8 +2725,8 @@
           "title": "忘情森巴舞 (Live)",
           "artists": "",
           "videoId": "vDbcacRY7f0",
-          "plays": 245,
-          "playsText": "播放次數：245",
+          "plays": 246,
+          "playsText": "播放次數：246",
           "duration": 210,
           "byOther": false,
           "nameKey": "忘情森巴舞#live"
@@ -2458,8 +2736,8 @@
           "title": "一支獨秀 (Live)",
           "artists": "",
           "videoId": "gKwMc63A7Yk",
-          "plays": 297,
-          "playsText": "播放次數：297",
+          "plays": 299,
+          "playsText": "播放次數：299",
           "duration": 126,
           "byOther": false,
           "nameKey": "一支獨秀#live"
@@ -2480,14 +2758,15 @@
           "title": "信仰",
           "artists": "",
           "videoId": "YtlK8cTAOIk",
-          "plays": 284,
-          "playsText": "播放次數：284",
+          "plays": 286,
+          "playsText": "播放次數：286",
           "duration": 233,
           "byOther": false,
           "credits": {
             "lyrics": "葛大為",
             "music": "李偉菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "nameKey": "信仰"
         },
@@ -2496,26 +2775,33 @@
           "title": "阿飛的小蝴蝶 (Live)",
           "artists": "",
           "videoId": "73JGktaqFYg",
-          "plays": 1571,
-          "playsText": "播放次數：1571",
+          "plays": 1573,
+          "playsText": "播放次數：1573",
           "duration": 255,
           "byOther": false,
-          "nameKey": "阿飛的小蝴蝶#live",
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "黃雨勳"
-          }
+            "arranger": "黃雨勳",
+            "producer": "阿弟仔"
+          },
+          "nameKey": "阿飛的小蝴蝶#live"
         },
         {
           "index": 19,
           "title": "好想對你說 (Live)",
           "artists": "",
           "videoId": "Fw_J6OLt_XY",
-          "plays": 945,
-          "playsText": "播放次數：945",
+          "plays": 947,
+          "playsText": "播放次數：947",
           "duration": 354,
           "byOther": false,
+          "credits": {
+            "lyrics": "蕭敬騰",
+            "music": "蕭敬騰",
+            "arranger": "金木義則",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "好想對你說#live"
         },
         {
@@ -2527,6 +2813,12 @@
           "playsText": "播放次數：515",
           "duration": 284,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "李偉菘",
+            "arranger": "Martin Tang",
+            "producer": "李偉菘、李偲菘"
+          },
           "nameKey": "收藏#live"
         },
         {
@@ -2538,6 +2830,12 @@
           "playsText": "播放次數：843",
           "duration": 273,
           "byOther": false,
+          "credits": {
+            "lyrics": "蔡健雅",
+            "music": "蔡健雅",
+            "arranger": "Adam Lee",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "只能想念你#live"
         },
         {
@@ -2545,10 +2843,16 @@
           "title": "新不了情 (Live)",
           "artists": "",
           "videoId": "8mCN6i7lcFs",
-          "plays": 2056,
-          "playsText": "播放次數：2056",
+          "plays": 2057,
+          "playsText": "播放次數：2057",
           "duration": 269,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃鬱",
+            "music": "鮑比達",
+            "arranger": "吳慶隆、廖偉傑",
+            "producer": "阿弟仔"
+          },
           "nameKey": "新不了情#live"
         },
         {
@@ -2556,16 +2860,17 @@
           "title": "王妃 (Live)",
           "artists": "",
           "videoId": "zMucoRARanE",
-          "plays": 837,
-          "playsText": "播放次數：837",
+          "plays": 840,
+          "playsText": "播放次數：840",
           "duration": 559,
           "byOther": false,
-          "nameKey": "王妃#live",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
-          }
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
+          },
+          "nameKey": "王妃#live"
         },
         {
           "index": 24,
@@ -2576,6 +2881,12 @@
           "playsText": "播放次數：18萬",
           "duration": 156,
           "byOther": false,
+          "credits": {
+            "lyrics": "蕭敬騰",
+            "music": "蕭敬騰",
+            "arranger": "阿弟仔、廖偉傑",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "白蛇傳#live"
         },
         {
@@ -2666,8 +2977,8 @@
           "title": "Fever",
           "artists": "",
           "videoId": "0vLRMJ708fA",
-          "plays": 7967,
-          "playsText": "播放次數：7967",
+          "plays": 7969,
+          "playsText": "播放次數：7969",
           "duration": 259,
           "byOther": false,
           "nameKey": "fever"
@@ -2721,8 +3032,8 @@
           "title": "L-O-V-E Band Members Introduction",
           "artists": "",
           "videoId": "zZ2knPHurx0",
-          "plays": 403,
-          "playsText": "播放次數：403",
+          "plays": 404,
+          "playsText": "播放次數：404",
           "duration": 117,
           "byOther": false,
           "nameKey": "lovebandmembersintroduction"
@@ -2778,7 +3089,8 @@
           "credits": {
             "lyrics": "阿信",
             "music": "蕭敬騰",
-            "arranger": "Kenn C"
+            "arranger": "Kenn C",
+            "producer": "蕭敬騰"
           },
           "nameKey": "福爾摩斯"
         },
@@ -2794,7 +3106,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "黎明鑫"
+            "arranger": "黎明鑫",
+            "producer": "蕭敬騰"
           },
           "nameKey": "爸爸"
         },
@@ -2803,15 +3116,16 @@
           "title": "Marry me",
           "artists": "",
           "videoId": "HFnugU9kKlg",
-          "plays": 22310000,
-          "playsText": "播放次數：2231萬",
+          "plays": 22320000,
+          "playsText": "播放次數：2232萬",
           "duration": 280,
           "byOther": false,
           "titleZh": "Marry me (詞：蕭敬騰 曲：陳奐仁 林雅慧)",
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "陳奐仁 / 林雅慧",
-            "arranger": "Kenn C"
+            "arranger": "Kenn C",
+            "producer": "蕭敬騰"
           },
           "nameKey": "marryme"
         },
@@ -2827,7 +3141,8 @@
           "credits": {
             "lyrics": "崔惟楷",
             "music": "怪獸",
-            "arranger": "郭偉聰"
+            "arranger": "郭偉聰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "不正常"
         },
@@ -2843,7 +3158,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "小王子"
+            "arranger": "小王子",
+            "producer": "蕭敬騰"
           },
           "nameKey": "活在故事裡"
         },
@@ -2859,7 +3175,8 @@
           "credits": {
             "lyrics": "吳青峰",
             "music": "吳青峰",
-            "arranger": "于京延"
+            "arranger": "于京延",
+            "producer": "蕭敬騰"
           },
           "nameKey": "以愛之名"
         },
@@ -2868,14 +3185,15 @@
           "title": "如果",
           "artists": "",
           "videoId": "pV4KU8KfBT8",
-          "plays": 3856,
-          "playsText": "播放次數：3856",
+          "plays": 3877,
+          "playsText": "播放次數：3877",
           "duration": 277,
           "byOther": false,
           "credits": {
             "lyrics": "陳國華",
             "music": "陳國華",
-            "arranger": "Kenn C"
+            "arranger": "Kenn C",
+            "producer": "蕭敬騰"
           },
           "nameKey": "如果"
         },
@@ -2891,7 +3209,8 @@
           "credits": {
             "lyrics": "方文山",
             "music": "宋念宇",
-            "arranger": "黃宣銘"
+            "arranger": "黃宣銘",
+            "producer": "蕭敬騰"
           },
           "nameKey": "兄弟我說"
         },
@@ -2907,7 +3226,8 @@
           "credits": {
             "lyrics": "古皓",
             "music": "古皓",
-            "arranger": "袁偉翔"
+            "arranger": "袁偉翔",
+            "producer": "蕭敬騰"
           },
           "nameKey": "練習曲"
         },
@@ -2923,7 +3243,8 @@
           "credits": {
             "lyrics": "李格弟",
             "music": "金培達",
-            "arranger": "金培達"
+            "arranger": "金培達",
+            "producer": "蕭敬騰"
           },
           "nameKey": "純金打造"
         },
@@ -2939,7 +3260,8 @@
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "周顯哲"
+            "arranger": "周顯哲",
+            "producer": "蕭敬騰"
           },
           "nameKey": "你知道嗎"
         },
@@ -3047,10 +3369,16 @@
           "title": "狂想曲 (Live)",
           "artists": "",
           "videoId": "UGxFHEbPbk8",
-          "plays": 1049,
-          "playsText": "播放次數：1049",
+          "plays": 1051,
+          "playsText": "播放次數：1051",
           "duration": 267,
           "byOther": false,
+          "credits": {
+            "lyrics": "天天",
+            "music": "李偲菘",
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "狂想曲#live"
         },
         {
@@ -3062,6 +3390,12 @@
           "playsText": "播放次數：269",
           "duration": 147,
           "byOther": false,
+          "credits": {
+            "lyrics": "蕭敬騰",
+            "music": "蕭敬騰",
+            "arranger": "阿弟仔、廖偉傑",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "白蛇傳#live"
         },
         {
@@ -3080,8 +3414,8 @@
           "title": "征服 (Live)",
           "artists": "",
           "videoId": "CnK26sr68nU",
-          "plays": 759,
-          "playsText": "播放次數：759",
+          "plays": 761,
+          "playsText": "播放次數：761",
           "duration": 368,
           "byOther": false,
           "nameKey": "征服#live"
@@ -3091,26 +3425,33 @@
           "title": "會痛的石頭 (Live)",
           "artists": "",
           "videoId": "tk_GMXJVBqU",
-          "plays": 1119,
-          "playsText": "播放次數：1119",
+          "plays": 1120,
+          "playsText": "播放次數：1120",
           "duration": 284,
           "byOther": false,
-          "nameKey": "會痛的石頭#live",
           "credits": {
             "lyrics": "Kang Eun Kyung、中文詞：姚若龍",
             "music": "Jeong Si Ro",
-            "arranger": "Martin Tang"
-          }
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
+          },
+          "nameKey": "會痛的石頭#live"
         },
         {
           "index": 6,
           "title": "怎麼說我不愛你 (Live)",
           "artists": "",
           "videoId": "_XUrsmWVEzI",
-          "plays": 5041,
-          "playsText": "播放次數：5041",
+          "plays": 5047,
+          "playsText": "播放次數：5047",
           "duration": 278,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿弟仔",
+            "music": "阿弟仔",
+            "arranger": "Kenn C",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "怎麼說我不愛你#live"
         },
         {
@@ -3118,10 +3459,16 @@
           "title": "原諒我 (Live)",
           "artists": "",
           "videoId": "bgvt9HHFYQQ",
-          "plays": 517,
-          "playsText": "播放次數：517",
+          "plays": 519,
+          "playsText": "播放次數：519",
           "duration": 413,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿沁、陳天佑、吳易緯",
+            "music": "阿沁",
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
           "nameKey": "原諒我#live"
         },
         {
@@ -3133,6 +3480,12 @@
           "playsText": "播放次數：269",
           "duration": 374,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "蕭敬騰",
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
           "nameKey": "一輩子存在#live"
         },
         {
@@ -3140,10 +3493,16 @@
           "title": "好想對你說 (Live)",
           "artists": "",
           "videoId": "T418tJXEXOA",
-          "plays": 391,
-          "playsText": "播放次數：391",
+          "plays": 393,
+          "playsText": "播放次數：393",
           "duration": 431,
           "byOther": false,
+          "credits": {
+            "lyrics": "蕭敬騰",
+            "music": "蕭敬騰",
+            "arranger": "金木義則",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "好想對你說#live"
         },
         {
@@ -3159,7 +3518,8 @@
           "credits": {
             "lyrics": "崔惟楷",
             "music": "方大同",
-            "arranger": "方大同"
+            "arranger": "方大同",
+            "producer": "李偲菘"
           },
           "titleZhVariant": true,
           "nameKey": "sayalilsomething#live"
@@ -3169,8 +3529,8 @@
           "title": "親密愛人 (Live)",
           "artists": "",
           "videoId": "urjSPpsZTY4",
-          "plays": 491,
-          "playsText": "播放次數：491",
+          "plays": 492,
+          "playsText": "播放次數：492",
           "duration": 274,
           "byOther": false,
           "nameKey": "親密愛人#live",
@@ -3181,25 +3541,33 @@
           "title": "寂寞還是你 (Live)",
           "artists": "",
           "videoId": "ksMUyyTRED0",
-          "plays": 422,
-          "playsText": "播放次數：422",
+          "plays": 426,
+          "playsText": "播放次數：426",
           "duration": 225,
           "byOther": false,
-          "nameKey": "寂寞還是你#live",
           "credits": {
             "lyrics": "蕭敬騰",
-            "music": "個人首次發表的全詞曲創作歌曲、2008年配合手機HTC Touch Viva上市採取隨貨附贈單曲CD"
-          }
+            "music": "蕭敬騰",
+            "arranger": "陳懷恩",
+            "producer": "馬奕強"
+          },
+          "nameKey": "寂寞還是你#live"
         },
         {
           "index": 13,
           "title": "疼愛 (Live)",
           "artists": "",
           "videoId": "1m6nU9rro8k",
-          "plays": 607,
-          "playsText": "播放次數：607",
+          "plays": 608,
+          "playsText": "播放次數：608",
           "duration": 226,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿信",
+            "music": "阿信",
+            "arranger": "小毛@輕鬆玩",
+            "producer": "陳偉"
+          },
           "nameKey": "疼愛#live"
         },
         {
@@ -3211,20 +3579,21 @@
           "playsText": "播放次數：470",
           "duration": 242,
           "byOther": false,
-          "nameKey": "小男人大男孩#live",
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "洪敬堯"
-          }
+            "arranger": "洪敬堯",
+            "producer": "蕭敬騰"
+          },
+          "nameKey": "小男人大男孩#live"
         },
         {
           "index": 15,
           "title": "青蘋果樂園 (Live)",
           "artists": "",
           "videoId": "PjVGnwEDS0Y",
-          "plays": 303,
-          "playsText": "播放次數：303",
+          "plays": 304,
+          "playsText": "播放次數：304",
           "duration": 121,
           "byOther": false,
           "nameKey": "青蘋果樂園#live"
@@ -3234,8 +3603,8 @@
           "title": "一支獨秀 (Live)",
           "artists": "",
           "videoId": "Pw10Ukl7igY",
-          "plays": 168,
-          "playsText": "播放次數：168",
+          "plays": 169,
+          "playsText": "播放次數：169",
           "duration": 127,
           "byOther": false,
           "nameKey": "一支獨秀#live"
@@ -3245,8 +3614,8 @@
           "title": "嗶嗶嗶 (Live)",
           "artists": "",
           "videoId": "F2x8eBj5LrQ",
-          "plays": 358,
-          "playsText": "播放次數：358",
+          "plays": 359,
+          "playsText": "播放次數：359",
           "duration": 181,
           "byOther": false,
           "nameKey": "嗶嗶嗶#live"
@@ -3282,6 +3651,12 @@
           "playsText": "播放次數：144",
           "duration": 245,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "陳偉",
+            "arranger": "陳偉",
+            "producer": "陳偉"
+          },
           "nameKey": "愛遊戲#live"
         },
         {
@@ -3293,6 +3668,12 @@
           "playsText": "播放次數：364",
           "duration": 252,
           "byOther": false,
+          "credits": {
+            "lyrics": "十九筆",
+            "music": "蕭敬騰",
+            "arranger": "郭偉聰",
+            "producer": "陳偉"
+          },
           "nameKey": "海芋戀#live"
         },
         {
@@ -3300,16 +3681,17 @@
           "title": "阿飛的小蝴蝶 (Live)",
           "artists": "",
           "videoId": "rRS0mLqSXdQ",
-          "plays": 386,
-          "playsText": "播放次數：386",
+          "plays": 387,
+          "playsText": "播放次數：387",
           "duration": 257,
           "byOther": false,
-          "nameKey": "阿飛的小蝴蝶#live",
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "黃雨勳"
-          }
+            "arranger": "黃雨勳",
+            "producer": "阿弟仔"
+          },
+          "nameKey": "阿飛的小蝴蝶#live"
         },
         {
           "index": 23,
@@ -3320,6 +3702,12 @@
           "playsText": "播放次數：110",
           "duration": 235,
           "byOther": false,
+          "credits": {
+            "lyrics": "葛大為",
+            "music": "李偉菘",
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "信仰#live"
         },
         {
@@ -3331,6 +3719,12 @@
           "playsText": "播放次數：262",
           "duration": 304,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "李偉菘",
+            "arranger": "Martin Tang",
+            "producer": "李偉菘、李偲菘"
+          },
           "nameKey": "收藏#live"
         },
         {
@@ -3342,6 +3736,12 @@
           "playsText": "播放次數：375",
           "duration": 267,
           "byOther": false,
+          "credits": {
+            "lyrics": "蔡健雅",
+            "music": "蔡健雅",
+            "arranger": "Adam Lee",
+            "producer": "蕭敬騰"
+          },
           "nameKey": "只能想念你#live"
         },
         {
@@ -3349,10 +3749,16 @@
           "title": "新不了情 (Live)",
           "artists": "",
           "videoId": "mSaQFA9Rbtc",
-          "plays": 879,
-          "playsText": "播放次數：879",
+          "plays": 886,
+          "playsText": "播放次數：886",
           "duration": 276,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃鬱",
+            "music": "鮑比達",
+            "arranger": "吳慶隆、廖偉傑",
+            "producer": "阿弟仔"
+          },
           "nameKey": "新不了情#live"
         },
         {
@@ -3364,6 +3770,11 @@
           "playsText": "播放次數：289",
           "duration": 371,
           "byOther": false,
+          "credits": {
+            "music": "Andreas Hemmeth、Linnéa Handberg",
+            "arranger": "Derek Chua",
+            "producer": "李偲菘"
+          },
           "nameKey": "王子的新衣#live"
         },
         {
@@ -3371,8 +3782,8 @@
           "title": "你 (Live)",
           "artists": "",
           "videoId": "9MRlSnNO93M",
-          "plays": 6435,
-          "playsText": "播放次數：6435",
+          "plays": 6437,
+          "playsText": "播放次數：6437",
           "duration": 361,
           "byOther": false,
           "nameKey": "你#live"
@@ -3382,10 +3793,16 @@
           "title": "倒帶 (Live)",
           "artists": "",
           "videoId": "7STruyPkYNc",
-          "plays": 583,
-          "playsText": "播放次數：583",
+          "plays": 584,
+          "playsText": "播放次數：584",
           "duration": 280,
           "byOther": false,
+          "credits": {
+            "lyrics": "方文山",
+            "music": "周杰倫",
+            "arranger": "廖偉傑",
+            "producer": "阿弟仔"
+          },
           "nameKey": "倒帶#live"
         },
         {
@@ -3393,16 +3810,17 @@
           "title": "王妃 (Live)",
           "artists": "",
           "videoId": "yAKVgWzGpR0",
-          "plays": 646,
-          "playsText": "播放次數：646",
+          "plays": 649,
+          "playsText": "播放次數：649",
           "duration": 259,
           "byOther": false,
-          "nameKey": "王妃#live",
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
-          }
+            "arranger": "Martin Tang",
+            "producer": "李偲菘"
+          },
+          "nameKey": "王妃#live"
         }
       ],
       "releaseDate": "2013-03-21",
@@ -3432,7 +3850,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "李鼎、潘柏希",
-            "music": "V.K克"
+            "music": "V.K克",
+            "arranger": "V.K克"
           },
           "nameKey": "到不了的地方"
         }
@@ -3465,7 +3884,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "黃宣銘"
+            "arranger": "黃宣銘",
+            "producer": "蕭敬騰"
           },
           "nameKey": "吻我吧"
         },
@@ -3481,7 +3901,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "阿火"
+            "arranger": "阿火",
+            "producer": "蕭敬騰"
           },
           "nameKey": "我就是愛你"
         },
@@ -3490,14 +3911,15 @@
           "title": "放開",
           "artists": "",
           "videoId": "saXs1RlRaEA",
-          "plays": 4301,
-          "playsText": "播放次數：4301",
+          "plays": 4309,
+          "playsText": "播放次數：4309",
           "duration": 238,
           "byOther": false,
           "credits": {
             "lyrics": "嚴爵",
             "music": "嚴爵",
-            "arranger": "生命樹_小王子"
+            "arranger": "生命樹_小王子",
+            "producer": "蕭敬騰"
           },
           "nameKey": "放開"
         },
@@ -3541,14 +3963,15 @@
           "title": "我在飛",
           "artists": "",
           "videoId": "JMb7_dRGkV8",
-          "plays": 6039,
-          "playsText": "播放次數：6039",
+          "plays": 6045,
+          "playsText": "播放次數：6045",
           "duration": 232,
           "byOther": false,
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "阿火"
+            "arranger": "阿火",
+            "producer": "蕭敬騰"
           },
           "nameKey": "我在飛"
         },
@@ -3564,7 +3987,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "阿火"
+            "arranger": "阿火",
+            "producer": "蕭敬騰"
           },
           "nameKey": "跟我玩"
         },
@@ -3580,7 +4004,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "生命樹_小王子"
+            "arranger": "生命樹_小王子",
+            "producer": "蕭敬騰"
           },
           "nameKey": "kelly"
         },
@@ -3596,7 +4021,8 @@
           "credits": {
             "lyrics": "林夕",
             "music": "蕭敬騰",
-            "arranger": "于京延"
+            "arranger": "于京延",
+            "producer": "蕭敬騰"
           },
           "nameKey": "這首歌"
         },
@@ -3605,14 +4031,15 @@
           "title": "這首歌 (演奏版)",
           "artists": "",
           "videoId": "hD68CK6R08g",
-          "plays": 316,
-          "playsText": "播放次數：316",
+          "plays": 319,
+          "playsText": "播放次數：319",
           "duration": 178,
           "byOther": false,
           "credits": {
             "lyrics": "林夕",
             "music": "蕭敬騰",
-            "arranger": "于京延"
+            "arranger": "于京延",
+            "producer": "蕭敬騰"
           },
           "nameKey": "這首歌",
           "mv": "AUOlxbxvp8k"
@@ -3920,7 +4347,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "曲世聰",
-            "music": "韓劇「我的維納斯」、「主君的面具」片尾曲、「燦爛的守護神－鬼怪」片頭曲"
+            "music": "曲世聰",
+            "arranger": "曲世聰、宋睿",
+            "producer": "蕭敬騰"
           },
           "nameKey": "皮囊"
         }
@@ -3951,7 +4380,10 @@
           "duration": 251,
           "byOther": false,
           "credits": {
-            "lyrics": "阿火"
+            "lyrics": "阿火",
+            "music": "阿火",
+            "arranger": "生命樹_小王子",
+            "producer": "蕭敬騰"
           },
           "nameKey": "讓我為你唱情歌"
         }
@@ -3982,7 +4414,10 @@
           "duration": 298,
           "byOther": false,
           "credits": {
-            "lyrics": "阿火"
+            "lyrics": "阿火",
+            "music": "阿火",
+            "arranger": "Terence Teo",
+            "producer": "蕭敬騰"
           },
           "nameKey": "你會在哪呢"
         }
@@ -4013,7 +4448,10 @@
           "duration": 290,
           "byOther": false,
           "credits": {
-            "lyrics": "吳青峰"
+            "lyrics": "吳青峰",
+            "music": "吳青峰",
+            "arranger": "于京延",
+            "producer": "蕭敬騰"
           },
           "nameKey": "全是愛"
         }
@@ -4045,7 +4483,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "陳鎮川",
-            "music": "李偲菘"
+            "music": "李偲菘",
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "nameKey": "王妃20"
         }
@@ -4078,7 +4518,8 @@
           "credits": {
             "lyrics": "曲世聰",
             "music": "曲世聰",
-            "arranger": "曲世聰、宋睿"
+            "arranger": "曲世聰、宋睿",
+            "producer": "蕭敬騰"
           },
           "nameKey": "皮囊"
         },
@@ -4087,14 +4528,15 @@
           "title": "王妃 2.0",
           "artists": "",
           "videoId": "bpE6pP8dsOA",
-          "plays": 6370000,
-          "playsText": "播放次數：637萬",
+          "plays": 6380000,
+          "playsText": "播放次數：638萬",
           "duration": 237,
           "byOther": false,
           "credits": {
             "lyrics": "陳鎮川",
             "music": "李偲菘",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "蕭敬騰"
           },
           "nameKey": "王妃20"
         },
@@ -4110,7 +4552,8 @@
           "credits": {
             "lyrics": "阿火",
             "music": "阿火",
-            "arranger": "生命樹_小王子"
+            "arranger": "生命樹_小王子",
+            "producer": "蕭敬騰"
           },
           "nameKey": "讓我為你唱情歌"
         },
@@ -4126,7 +4569,8 @@
           "credits": {
             "lyrics": "阿火",
             "music": "阿火",
-            "arranger": "Terence Teo"
+            "arranger": "Terence Teo",
+            "producer": "蕭敬騰"
           },
           "nameKey": "你會在哪呢"
         },
@@ -4135,14 +4579,15 @@
           "title": "全是愛",
           "artists": "",
           "videoId": "UlUy1f66lII",
-          "plays": 8940000,
-          "playsText": "播放次數：894萬",
+          "plays": 8950000,
+          "playsText": "播放次數：895萬",
           "duration": 288,
           "byOther": false,
           "credits": {
             "lyrics": "吳青峰",
             "music": "吳青峰",
-            "arranger": "于京延"
+            "arranger": "于京延",
+            "producer": "蕭敬騰"
           },
           "nameKey": "全是愛"
         },
@@ -4158,7 +4603,8 @@
           "credits": {
             "lyrics": "吳青峰",
             "music": "吳青峰",
-            "arranger": "徐平、阿火"
+            "arranger": "徐平、阿火",
+            "producer": "蕭敬騰"
           },
           "titleZh": "慾望反光",
           "titleZhVariant": true,
@@ -4176,7 +4622,8 @@
           "credits": {
             "lyrics": "阿弟仔",
             "music": "阿弟仔",
-            "arranger": "阿火"
+            "arranger": "阿火",
+            "producer": "蕭敬騰"
           },
           "nameKey": "迷茫世代"
         },
@@ -4192,7 +4639,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "蕭敬騰",
-            "arranger": "生命樹_小王子"
+            "arranger": "生命樹_小王子",
+            "producer": "蕭敬騰"
           },
           "nameKey": "發現"
         },
@@ -4208,7 +4656,8 @@
           "credits": {
             "lyrics": "蕭敬騰",
             "music": "蕭敬騰",
-            "arranger": "吳力勻"
+            "arranger": "吳力勻",
+            "producer": "蕭敬騰"
           },
           "nameKey": "與海鷗交談"
         },
@@ -4225,7 +4674,8 @@
           "credits": {
             "lyrics": "林宥嘉",
             "music": "林宥嘉、蕭敬騰",
-            "arranger": "蕭敬騰"
+            "arranger": "蕭敬騰",
+            "producer": "蕭敬騰"
           }
         },
         {
@@ -4240,7 +4690,8 @@
           "credits": {
             "lyrics": "林宥嘉",
             "music": "林宥嘉、蕭敬騰",
-            "arranger": "蕭敬騰"
+            "arranger": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "我有多麼喜歡你"
         }
@@ -4273,7 +4724,8 @@
           "credits": {
             "lyrics": "吳青峰",
             "music": "吳青峰",
-            "arranger": "徐平、阿火"
+            "arranger": "徐平、阿火",
+            "producer": "蕭敬騰"
           },
           "titleZh": "慾望反光",
           "titleZhVariant": true,
@@ -4309,7 +4761,8 @@
           "credits": {
             "lyrics": "林宥嘉",
             "music": "林宥嘉、蕭敬騰",
-            "arranger": "蕭敬騰"
+            "arranger": "蕭敬騰",
+            "producer": "蕭敬騰"
           }
         }
       ],
@@ -4396,8 +4849,8 @@
           "title": "耍light (OPPO R17廣告歌曲)",
           "artists": "",
           "videoId": "NeUmSf5QMbE",
-          "plays": 6349,
-          "playsText": "播放次數：6349",
+          "plays": 6356,
+          "playsText": "播放次數：6356",
           "duration": 188,
           "byOther": false,
           "nameKey": "耍light"
@@ -4697,8 +5150,9 @@
           "duration": 247,
           "byOther": false,
           "credits": {
-            "lyrics": "奶六",
-            "music": "蕭敬騰"
+            "lyrics": "奶六/阿火",
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "薩哈星球"
         }
@@ -4801,7 +5255,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "金田",
-            "music": "蕭敬騰"
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "銀河星艦",
           "mv": "iBzHmCY10BM"
@@ -4817,7 +5272,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "奶六/阿火",
-            "music": "蕭敬騰"
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "薩哈星球"
         },
@@ -4832,7 +5288,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "金田",
-            "music": "蕭敬騰"
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "彼得潘"
         },
@@ -4847,7 +5304,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "阿蘭斯勒",
-            "music": "蕭敬騰"
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "燈絲裡"
         },
@@ -4862,7 +5320,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "吳易緯",
-            "music": "蕭敬騰"
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "最最愛"
         },
@@ -4877,7 +5336,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "蕭敬騰",
-            "music": "蕭敬騰"
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "同情情敵"
         },
@@ -4892,7 +5352,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "金田",
-            "music": "蕭敬騰"
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "已讀不回94我"
         }
@@ -4952,7 +5413,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "金田",
-            "music": "蕭敬騰"
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "已讀不回94我"
         }
@@ -4984,7 +5446,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "金田",
-            "music": "蕭敬騰"
+            "music": "蕭敬騰",
+            "producer": "蕭敬騰"
           },
           "nameKey": "彼得潘"
         }
@@ -5500,8 +5963,8 @@
           "title": "明日序言",
           "artists": "希林娜依高",
           "videoId": "XYDge4sqZWg",
-          "plays": 6638,
-          "playsText": "播放次數：6638",
+          "plays": 6639,
+          "playsText": "播放次數：6639",
           "duration": 199,
           "byOther": true,
           "nameKey": "明日序言"
@@ -5533,8 +5996,8 @@
           "title": "愿为你",
           "artists": "理塘丁真",
           "videoId": "Sj8DfbBNSQc",
-          "plays": 3717,
-          "playsText": "播放次數：3717",
+          "plays": 3718,
+          "playsText": "播放次數：3718",
           "duration": 258,
           "byOther": true,
           "titleZh": "願為你",
@@ -5613,8 +6076,8 @@
           "title": "繁星 (伴奏版)",
           "artists": "",
           "videoId": "aEtyhqBEISM",
-          "plays": 1588,
-          "playsText": "播放次數：1588",
+          "plays": 1590,
+          "playsText": "播放次數：1590",
           "duration": 272,
           "byOther": false,
           "nameKey": "繁星"
@@ -5624,8 +6087,8 @@
           "title": "繁星 (和声伴奏版)",
           "artists": "",
           "videoId": "R8XtV1urook",
-          "plays": 1588,
-          "playsText": "播放次數：1588",
+          "plays": 1590,
+          "playsText": "播放次數：1590",
           "duration": 272,
           "byOther": false,
           "titleZh": "繁星 (和聲伴奏版)",

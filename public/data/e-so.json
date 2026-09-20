@@ -2,33 +2,33 @@
   "slug": "e-so",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T22:23:32.811Z",
+  "fetchedAt": "2026-09-19T21:18:58.034Z",
   "artist": {
     "channelId": "UC6XU7kBQgXS7Fpa5ka_KUhg",
     "name": "瘦子E.SO",
     "thumbnail": "https://lh3.googleusercontent.com/7O9f5NqEiUXGJqyYxAg2LgrfJpWq2mSCOxhdPU93Jrwm-h-qUDb9N9cZ44wdiLMUYIEYRAalqZ-LfqM8=w2880-h1200-p-l90-rj",
     "subscribers": 147000,
-    "monthlyAudience": 791000,
+    "monthlyAudience": 760000,
     "videos": [
       {
         "title": "Something I Don't Need",
         "videoId": "8FS9MvbXoUc"
       },
       {
-        "title": "Don't Worry About Me",
-        "videoId": "C4M7_jQe4RA"
+        "title": "她沒在看我",
+        "videoId": "smFGZKPS5yc"
       },
       {
         "title": "太陽",
         "videoId": "C8R7qkxno-4"
       },
       {
-        "title": "她沒在看我",
-        "videoId": "smFGZKPS5yc"
-      },
-      {
         "title": "CHANGE",
         "videoId": "HTRQ0n4yjfs"
+      },
+      {
+        "title": "Don't Worry About Me",
+        "videoId": "C4M7_jQe4RA"
       },
       {
         "title": "Bloodline ft. HowZ (合作演出：HowZ)",
@@ -39,32 +39,16 @@
         "videoId": "EcKUVuOifTg"
       },
       {
-        "title": "I Wish I Was There",
-        "videoId": "3XM_xed1pFE"
-      },
-      {
         "title": "WAIT",
         "videoId": "ymvUlfZCrbw"
-      },
-      {
-        "title": "Mei Mei",
-        "videoId": "Df9lbCJNhGU"
-      },
-      {
-        "title": "Married To The Game",
-        "videoId": "EPTud5BRZ70"
       },
       {
         "title": "稱讚她的美",
         "videoId": "YgNGl442hgg"
       },
       {
-        "title": "太陽",
-        "videoId": "NpuV0QjhZ5E"
-      },
-      {
-        "title": "Way Up",
-        "videoId": "JfS8YZD5eSA"
+        "title": "Mei Mei",
+        "videoId": "Df9lbCJNhGU"
       },
       {
         "title": "我的癮",
@@ -79,8 +63,12 @@
         "videoId": "U1G4lKnYf4o"
       },
       {
-        "title": "Amazing",
-        "videoId": "vIjc-wyvArY"
+        "title": "Married To The Game",
+        "videoId": "EPTud5BRZ70"
+      },
+      {
+        "title": "I Wish I Was There",
+        "videoId": "3XM_xed1pFE"
       },
       {
         "title": "達文西",
@@ -89,6 +77,18 @@
       {
         "title": "Lucid Dream",
         "videoId": "-dpJTTM_iyY"
+      },
+      {
+        "title": "Amazing",
+        "videoId": "vIjc-wyvArY"
+      },
+      {
+        "title": "Way Up",
+        "videoId": "JfS8YZD5eSA"
+      },
+      {
+        "title": "太陽",
+        "videoId": "NpuV0QjhZ5E"
       }
     ],
     "songListIds": [
@@ -139,8 +139,8 @@
           "title": "CHANGE",
           "artists": "",
           "videoId": "HTRQ0n4yjfs",
-          "plays": 21540000,
-          "playsText": "播放次數：2154萬",
+          "plays": 21550000,
+          "playsText": "播放次數：2155萬",
           "duration": 160,
           "byOther": false,
           "nameKey": "change"
@@ -195,8 +195,8 @@
           "title": "太陽",
           "artists": "",
           "videoId": "C8R7qkxno-4",
-          "plays": 26840000,
-          "playsText": "播放次數：2684萬",
+          "plays": 26850000,
+          "playsText": "播放次數：2685萬",
           "duration": 214,
           "byOther": false,
           "nameKey": "太陽"
@@ -290,8 +290,8 @@
           "title": "Don't Worry About Me",
           "artists": "",
           "videoId": "C4M7_jQe4RA",
-          "plays": 27790000,
-          "playsText": "播放次數：2779萬",
+          "plays": 27800000,
+          "playsText": "播放次數：2780萬",
           "duration": 191,
           "byOther": false,
           "nameKey": "dontworryaboutme"
@@ -323,8 +323,8 @@
           "title": "CHANGE",
           "artists": "",
           "videoId": "HTRQ0n4yjfs",
-          "plays": 21540000,
-          "playsText": "播放次數：2154萬",
+          "plays": 21550000,
+          "playsText": "播放次數：2155萬",
           "duration": 162,
           "byOther": false,
           "nameKey": "change"
@@ -345,8 +345,8 @@
           "title": "I Wish I Was There",
           "artists": "",
           "videoId": "3XM_xed1pFE",
-          "plays": 7600000,
-          "playsText": "播放次數：760萬",
+          "plays": 7610000,
+          "playsText": "播放次數：761萬",
           "duration": 147,
           "byOther": false,
           "nameKey": "iwishiwasthere"
@@ -378,8 +378,8 @@
           "title": "Something I Don't Need",
           "artists": "",
           "videoId": "8FS9MvbXoUc",
-          "plays": 38310000,
-          "playsText": "播放次數：3831萬",
+          "plays": 38320000,
+          "playsText": "播放次數：3832萬",
           "duration": 175,
           "byOther": false,
           "nameKey": "somethingidontneed"
@@ -422,8 +422,8 @@
           "title": "太陽",
           "artists": "",
           "videoId": "C8R7qkxno-4",
-          "plays": 26840000,
-          "playsText": "播放次數：2684萬",
+          "plays": 26850000,
+          "playsText": "播放次數：2685萬",
           "duration": 214,
           "byOther": false,
           "nameKey": "太陽"
@@ -711,8 +711,8 @@
           "title": "没时间后悔 (一公 Live)",
           "artists": "陆毅、瘦子E.SO、弹壳 和 Jeff罗杰夫",
           "videoId": "JZo2XcuvQVE",
-          "plays": 91000,
-          "playsText": "播放次數：9.1萬",
+          "plays": 92000,
+          "playsText": "播放次數：9.2萬",
           "duration": 227,
           "byOther": false,
           "titleZh": "沒時間後悔 (一公 Live)",
@@ -724,8 +724,8 @@
           "title": "麻雀 (一公 Live)",
           "artists": "郑嘉颖、许绍洋、蓝正龙 和 马晓龙",
           "videoId": "EEOAM0ejuAw",
-          "plays": 2925,
-          "playsText": "播放次數：2925",
+          "plays": 2926,
+          "playsText": "播放次數：2926",
           "duration": 260,
           "byOther": true,
           "nameKey": "麻雀#live"
@@ -735,8 +735,8 @@
           "title": "眉飞色舞 (一公 Live)",
           "artists": "林志颖、八三夭阿璞 和 王栎鑫",
           "videoId": "QX5H0--JBdM",
-          "plays": 3645,
-          "playsText": "播放次數：3645",
+          "plays": 3646,
+          "playsText": "播放次數：3646",
           "duration": 256,
           "byOther": true,
           "titleZh": "眉飛色舞 (一公 Live)",
@@ -748,8 +748,8 @@
           "title": "上山下 (一公 Live)",
           "artists": "马伯骞、苏小玎、董宝石 和 唐禹哲",
           "videoId": "_Z3rqn50ERY",
-          "plays": 9557,
-          "playsText": "播放次數：9557",
+          "plays": 9568,
+          "playsText": "播放次數：9568",
           "duration": 253,
           "byOther": true,
           "nameKey": "上山下#live"
@@ -789,8 +789,8 @@
           "title": "漂洋过海来看你 (Live)",
           "artists": "陆毅 和 胡彦斌",
           "videoId": "nkjhjL700DE",
-          "plays": 9548,
-          "playsText": "播放次數：9548",
+          "plays": 9550,
+          "playsText": "播放次數：9550",
           "duration": 312,
           "byOther": true,
           "titleZh": "漂洋過海來看你 (Live)",
@@ -826,8 +826,8 @@
           "title": "走麦田 (Live)",
           "artists": "王耀庆、张栋梁、张远 和 马晓龙",
           "videoId": "BLzyqGhuBds",
-          "plays": 8740,
-          "playsText": "播放次數：8740",
+          "plays": 8754,
+          "playsText": "播放次數：8754",
           "duration": 329,
           "byOther": true,
           "titleZh": "走麥田 (Live)",
@@ -839,8 +839,8 @@
           "title": "青春 (Live)",
           "artists": "陆毅、胡彦斌、唐禹哲 和 弹壳",
           "videoId": "HeIXOpxokTo",
-          "plays": 6078,
-          "playsText": "播放次數：6078",
+          "plays": 6083,
+          "playsText": "播放次數：6083",
           "duration": 267,
           "byOther": true,
           "nameKey": "青春#live"
@@ -1215,8 +1215,8 @@
           "title": "外面的世界beat (甜妹版)",
           "artists": "",
           "videoId": "VzgxS8yzRoM",
-          "plays": 5093,
-          "playsText": "播放次數：5093",
+          "plays": 5101,
+          "playsText": "播放次數：5101",
           "duration": 128,
           "byOther": false,
           "nameKey": "外面的世界beat"
@@ -1243,8 +1243,8 @@
           "title": "妥协beat (甜妹版)",
           "artists": "",
           "videoId": "VJxmLiOCaqA",
-          "plays": 3880,
-          "playsText": "播放次數：3880",
+          "plays": 3890,
+          "playsText": "播放次數：3890",
           "duration": 122,
           "byOther": false,
           "titleZh": "妥協beat (甜妹版)",
@@ -1273,8 +1273,8 @@
           "title": "爱要怎么说出口beat (甜妹版)",
           "artists": "",
           "videoId": "L8Ojfux1Fjw",
-          "plays": 4577,
-          "playsText": "播放次數：4577",
+          "plays": 4584,
+          "playsText": "播放次數：4584",
           "duration": 144,
           "byOther": false,
           "titleZh": "愛要怎麼說出口beat (甜妹版)",
@@ -1288,78 +1288,6 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "愛要怎麼說出口beat"
-    },
-    {
-      "browseId": "MPREb_Ya6skuVBRyR",
-      "playlistId": "OLAK5uy_kHOK7_rURw1CH4Gb0qfhBIzZZFbkfsYUo",
-      "title": "Elements of Serenity",
-      "albumArtist": "Eddie Chen",
-      "type": "EP",
-      "year": 2025,
-      "thumbnail": "https://yt3.googleusercontent.com/VtEkHDUls2eJfgh9hS-68QnWz-4MmA1LOewpaquUd3jyP5ModcCGse3qajCpEYKOpgzjyHtFq0_5d7LbPg=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "Dawnlight",
-          "artists": "",
-          "videoId": "JPk_GqBO7CE",
-          "plays": 7,
-          "playsText": "播放次數：7",
-          "duration": 300,
-          "byOther": false,
-          "nameKey": "dawnlight"
-        },
-        {
-          "index": 2,
-          "title": "Whispering Pines",
-          "artists": "",
-          "videoId": "sz7FK8UHw8E",
-          "plays": 1,
-          "playsText": "播放次數：1",
-          "duration": 264,
-          "byOther": false,
-          "nameKey": "whisperingpines"
-        },
-        {
-          "index": 3,
-          "title": "Tidal Calm",
-          "artists": "",
-          "videoId": "hovId0bdsPE",
-          "plays": 7,
-          "playsText": "播放次數：7",
-          "duration": 426,
-          "byOther": false,
-          "nameKey": "tidalcalm"
-        },
-        {
-          "index": 4,
-          "title": "Still Hollow",
-          "artists": "",
-          "videoId": "N_krxA784bE",
-          "plays": 5,
-          "playsText": "播放次數：5",
-          "duration": 345,
-          "byOther": false,
-          "nameKey": "stillhollow"
-        },
-        {
-          "index": 5,
-          "title": "Cosmic Drift",
-          "artists": "",
-          "videoId": "jc4Cp5DKyGI",
-          "plays": 4,
-          "playsText": "播放次數：4",
-          "duration": 344,
-          "byOther": false,
-          "nameKey": "cosmicdrift"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "elementsofserenity"
     },
     {
       "browseId": "MPREb_bJ8E3r4cPUT",
@@ -1425,8 +1353,8 @@
           "title": "忘了你 放下你",
           "artists": "",
           "videoId": "QyHGIzU_K_U",
-          "plays": 8166,
-          "playsText": "播放次數：8166",
+          "plays": 8209,
+          "playsText": "播放次數：8209",
           "duration": 197,
           "byOther": false,
           "nameKey": "忘了你放下你"
@@ -1483,8 +1411,8 @@
           "title": "我们差一步",
           "artists": "",
           "videoId": "4kRn-wuzu5I",
-          "plays": 2879,
-          "playsText": "播放次數：2879",
+          "plays": 2893,
+          "playsText": "播放次數：2893",
           "duration": 217,
           "byOther": false,
           "titleZh": "我們差一步",
@@ -1513,8 +1441,8 @@
           "title": "Baby再靠近一点",
           "artists": "",
           "videoId": "k79oBywsMIw",
-          "plays": 1884,
-          "playsText": "播放次數：1884",
+          "plays": 1890,
+          "playsText": "播放次數：1890",
           "duration": 173,
           "byOther": false,
           "titleZh": "Baby再靠近一點",
@@ -1659,8 +1587,8 @@
           "title": "Shut The Fuxk Up Who Are You",
           "artists": "",
           "videoId": "bGLIW7PwzRA",
-          "plays": 247,
-          "playsText": "播放次數：247",
+          "plays": 252,
+          "playsText": "播放次數：252",
           "duration": 137,
           "byOther": false,
           "nameKey": "shutthefuxkupwhoareyou"
@@ -1745,8 +1673,8 @@
           "title": "你一出现我就沦陷",
           "artists": "",
           "videoId": "h5Wf6Hp5GPo",
-          "plays": 638,
-          "playsText": "播放次數：638",
+          "plays": 640,
+          "playsText": "播放次數：640",
           "duration": 233,
           "byOther": false,
           "titleZh": "你一齣現我就淪陷",
@@ -1775,8 +1703,8 @@
           "title": "你像风一样出现",
           "artists": "",
           "videoId": "oa3IFSqMUXI",
-          "plays": 2560,
-          "playsText": "播放次數：2560",
+          "plays": 2576,
+          "playsText": "播放次數：2576",
           "duration": 200,
           "byOther": false,
           "titleZh": "你像風一樣出現",
@@ -1805,8 +1733,8 @@
           "title": "你说深一点",
           "artists": "",
           "videoId": "xjO_-Xme1OY",
-          "plays": 1415,
-          "playsText": "播放次數：1415",
+          "plays": 1423,
+          "playsText": "播放次數：1423",
           "duration": 160,
           "byOther": false,
           "titleZh": "你說深一點",
@@ -1835,8 +1763,8 @@
           "title": "倒带",
           "artists": "",
           "videoId": "7BTeXQhUo6c",
-          "plays": 9302,
-          "playsText": "播放次數：9302",
+          "plays": 9358,
+          "playsText": "播放次數：9358",
           "duration": 260,
           "byOther": false,
           "titleZh": "倒帶",
@@ -1865,8 +1793,8 @@
           "title": "假装不在意 (R&B版)",
           "artists": "",
           "videoId": "dAhWiNtFx2I",
-          "plays": 1430,
-          "playsText": "播放次數：1430",
+          "plays": 1438,
+          "playsText": "播放次數：1438",
           "duration": 162,
           "byOther": false,
           "titleZh": "假裝不在意 (R&B版)",
@@ -1880,6 +1808,36 @@
       "wikiTitle": null,
       "wikiKind": null,
       "nameKey": "假裝不在意"
+    },
+    {
+      "browseId": "MPREb_NtG2JkCE5cp",
+      "playlistId": "OLAK5uy_l6ueTm6FlKthfx076PO30gU12MhvptOMk",
+      "title": "光会回应",
+      "albumArtist": "Eddie Chen",
+      "type": "Single",
+      "year": 2026,
+      "thumbnail": "https://yt3.googleusercontent.com/6fFni21pzFSbSO8WxRzCCCPQ0hCxKSD5o_bH5soSoamNUCb-a2ELOm6v8Ffe-Qq6ROygYDAU_JceOxC9=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "光会回应",
+          "artists": "",
+          "videoId": "YyZwnzHVegc",
+          "plays": 517,
+          "playsText": "播放次數：517",
+          "duration": 228,
+          "byOther": false,
+          "titleZh": "光會回應",
+          "titleZhVariant": true,
+          "nameKey": "光會回應"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "光會回應"
     },
     {
       "browseId": "MPREb_tX7cQZstftD",
@@ -1925,8 +1883,8 @@
           "title": "最后的借口 (R&B版)",
           "artists": "",
           "videoId": "oG2GHyfHkHg",
-          "plays": 94000,
-          "playsText": "播放次數：9.4萬",
+          "plays": 95000,
+          "playsText": "播放次數：9.5萬",
           "duration": 157,
           "byOther": false,
           "titleZh": "最後的藉口 (R&B版)",
@@ -1955,8 +1913,8 @@
           "title": "凌晨三点的风",
           "artists": "",
           "videoId": "SayPtEp4B-Q",
-          "plays": 2230,
-          "playsText": "播放次數：2230",
+          "plays": 2250,
+          "playsText": "播放次數：2250",
           "duration": 259,
           "byOther": false,
           "titleZh": "凌晨三點的風",
@@ -1985,8 +1943,8 @@
           "title": "怎么了 (R&B版)",
           "artists": "",
           "videoId": "Kee3Dda_DQA",
-          "plays": 8002,
-          "playsText": "播放次數：8002",
+          "plays": 8045,
+          "playsText": "播放次數：8045",
           "duration": 132,
           "byOther": false,
           "titleZh": "怎麼了 (R&B版)",
@@ -2015,8 +1973,8 @@
           "title": "怪我太贪心",
           "artists": "",
           "videoId": "6kMeMqt20lU",
-          "plays": 13000,
-          "playsText": "播放次數：1.3萬",
+          "plays": 14000,
+          "playsText": "播放次數：1.4萬",
           "duration": 230,
           "byOther": false,
           "titleZh": "怪我太貪心",
@@ -2045,8 +2003,8 @@
           "title": "慢一点心动",
           "artists": "",
           "videoId": "D9abfHlgPGs",
-          "plays": 1291,
-          "playsText": "播放次數：1291",
+          "plays": 1297,
+          "playsText": "播放次數：1297",
           "duration": 193,
           "byOther": false,
           "titleZh": "慢一點心動",
@@ -2075,8 +2033,8 @@
           "title": "我不是你要的人",
           "artists": "",
           "videoId": "Zo6hdJBaHko",
-          "plays": 2056,
-          "playsText": "播放次數：2056",
+          "plays": 2068,
+          "playsText": "播放次數：2068",
           "duration": 242,
           "byOther": false,
           "nameKey": "我不是你要的人"
@@ -2103,8 +2061,8 @@
           "title": "我不是我",
           "artists": "",
           "videoId": "1OyM3EYLK3Q",
-          "plays": 2986,
-          "playsText": "播放次數：2986",
+          "plays": 3016,
+          "playsText": "播放次數：3016",
           "duration": 203,
           "byOther": false,
           "nameKey": "我不是我"
@@ -2161,8 +2119,8 @@
           "title": "我想我又想你了",
           "artists": "",
           "videoId": "27mFo3UuCxM",
-          "plays": 1679,
-          "playsText": "播放次數：1679",
+          "plays": 1687,
+          "playsText": "播放次數：1687",
           "duration": 187,
           "byOther": false,
           "nameKey": "我想我又想你了"
@@ -2219,8 +2177,8 @@
           "title": "我选择忘记",
           "artists": "",
           "videoId": "2Btagg8MOHc",
-          "plays": 668,
-          "playsText": "播放次數：668",
+          "plays": 678,
+          "playsText": "播放次數：678",
           "duration": 163,
           "byOther": false,
           "titleZh": "我選擇忘記",
@@ -2249,8 +2207,8 @@
           "title": "日落的边界",
           "artists": "",
           "videoId": "22DC5yno3_I",
-          "plays": 1612,
-          "playsText": "播放次數：1612",
+          "plays": 1629,
+          "playsText": "播放次數：1629",
           "duration": 158,
           "byOther": false,
           "titleZh": "日落的邊界",
@@ -2279,8 +2237,8 @@
           "title": "时间教会我的事",
           "artists": "",
           "videoId": "l5nRkVxQavs",
-          "plays": 740,
-          "playsText": "播放次數：740",
+          "plays": 752,
+          "playsText": "播放次數：752",
           "duration": 208,
           "byOther": false,
           "titleZh": "時間教會我的事",
@@ -2309,8 +2267,8 @@
           "title": "是你先说爱",
           "artists": "",
           "videoId": "S2-X6urpEII",
-          "plays": 1939,
-          "playsText": "播放次數：1939",
+          "plays": 1944,
+          "playsText": "播放次數：1944",
           "duration": 197,
           "byOther": false,
           "titleZh": "是你先說愛",
@@ -2369,8 +2327,8 @@
           "title": "未接来电",
           "artists": "",
           "videoId": "t2lEz7njDy8",
-          "plays": 338,
-          "playsText": "播放次數：338",
+          "plays": 342,
+          "playsText": "播放次數：342",
           "duration": 188,
           "byOther": false,
           "titleZh": "未接來電",
@@ -2459,8 +2417,8 @@
           "title": "爱错",
           "artists": "",
           "videoId": "w2PrLRdYZsQ",
-          "plays": 2607,
-          "playsText": "播放次數：2607",
+          "plays": 2626,
+          "playsText": "播放次數：2626",
           "duration": 240,
           "byOther": false,
           "titleZh": "愛錯",
@@ -2489,8 +2447,8 @@
           "title": "玻璃",
           "artists": "",
           "videoId": "TkiYEkGq9FE",
-          "plays": 5155,
-          "playsText": "播放次數：5155",
+          "plays": 5174,
+          "playsText": "播放次數：5174",
           "duration": 213,
           "byOther": false,
           "nameKey": "玻璃"
@@ -2517,8 +2475,8 @@
           "title": "瓦解",
           "artists": "",
           "videoId": "3Yqeu3-xD5Q",
-          "plays": 7666,
-          "playsText": "播放次數：7666",
+          "plays": 7841,
+          "playsText": "播放次數：7841",
           "duration": 165,
           "byOther": false,
           "nameKey": "瓦解"
@@ -2605,8 +2563,8 @@
           "title": "请记住我的好",
           "artists": "",
           "videoId": "PlG49BVIi4g",
-          "plays": 1394,
-          "playsText": "播放次數：1394",
+          "plays": 1399,
+          "playsText": "播放次數：1399",
           "duration": 232,
           "byOther": false,
           "titleZh": "請記住我的好",
@@ -2695,8 +2653,8 @@
           "title": "陪你等天晴",
           "artists": "",
           "videoId": "4nlRh67VnJM",
-          "plays": 1261,
-          "playsText": "播放次數：1261",
+          "plays": 1283,
+          "playsText": "播放次數：1283",
           "duration": 218,
           "byOther": false,
           "nameKey": "陪你等天晴"

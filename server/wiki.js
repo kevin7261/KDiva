@@ -365,12 +365,53 @@ export const nameToTW = (s) => {
 }
 
 // 詞曲欄位裡的說明文字（「中島美雪，原曲由中島美雪演唱《波の上》」）只留人名
+/**
+ * 去掉人名後面的括號註記。括號會巢狀（「（例外曲目：《他說：她說 金曲組曲(失落沙洲+…)》）」），
+ * 用數層數的方式整段拿掉 —— 正則在第一個內層「)」就收尾，會留下「》）」這種殘渣。
+ * 本身就寫著角色的括號（「（編曲）」）要留著。
+ */
+const stripBrackets = (s) => {
+  let out = ''
+  let depth = 0
+  let start = 0
+  for (let i = 0; i < s.length; i++) {
+    const c = s[i]
+    if (c === '（' || c === '(') {
+      if (depth === 0) start = i
+      depth++
+    } else if ((c === '）' || c === ')') && depth > 0) {
+      depth--
+      if (depth === 0) {
+        const seg = s.slice(start, i + 1)
+        // 只留純粹標角色的短括號（「（編曲）」）；「（除〈微涼的你〉作曲為林暐哲）」這種註記要拿掉
+        if (/^[（(](?:作詞|作词|作曲|編曲|编曲|弦樂|弦乐|[／\/、]){1,3}[）)]$/.test(seg)) out += seg
+      }
+    } else if (depth === 0 && c !== '）' && c !== ')') out += c
+  }
+  // 有「（」沒「）」時整段收在括號裡，那就退回原字串，不要把名字吃掉
+  return depth > 0 ? s : out
+}
+
+/** 最外層的括號段落，含括號本身（「（除〈微涼的你〉作曲為林暐哲）」） */
+const topBrackets = (s) => {
+  const out = []
+  let depth = 0
+  let start = 0
+  for (let i = 0; i < s.length; i++) {
+    const c = s[i]
+    if (c === '（' || c === '(') {
+      if (depth === 0) start = i
+      depth++
+    } else if ((c === '）' || c === ')') && depth > 0 && --depth === 0) out.push(s.slice(start, i + 1))
+  }
+  return out
+}
+
 const stripNote = (s) =>
-  s
+  stripBrackets(s)
     .split(/\s*[，,]\s*/)
     .filter((part) => !/原曲|翻唱|改編|改编|演唱|唱片|專輯|专辑|版本|同名|主唱/.test(part))
     .join('、')
-    .replace(/[（(][^）)]*[）)]/g, (m) => (/編曲|编曲|作詞|作词|作曲|弦樂|弦乐/.test(m) ? m : ''))
     .replace(/《[^》]*》/g, '')
     .trim()
 
@@ -499,6 +540,9 @@ function templateBody(text, start) {
  * 條列式曲目：「1、'''歌名'''」下一行接「:曲：X；詞：Y；編曲：Z；製作人：W」。
  * 台灣專輯條目最常見的寫法 —— 既不是表格也不是 {{Tracklist}}，先前完全沒解析到。
  */
+// 這些標籤含有「曲」「詞」，但不是角色欄位
+const NOT_ROLE = /曲目|歌曲|單曲|单曲|插曲|主題曲|主题曲|片頭曲|片头曲|片尾曲|配樂|配乐|舞曲|組曲|组曲|原曲|歌詞|歌词/
+
 function parseCreditsProse(wikitext) {
   const out = []
   let title = null
@@ -520,13 +564,15 @@ function parseCreditsProse(wikitext) {
     for (const seg of body.split(/[；;]/)) {
       const m = seg.match(/^\s*([^:：]{1,8}?)\s*[:：]\s*(.+)$/)
       if (!m) continue
-      const [, label, value] = m
-      const v = cleanCredit(value)
+      const label = m[1].trim()
+      const v = cleanCredit(m[2])
       if (!v) continue
-      if (/編曲|编曲/.test(label)) credits.arranger ||= v
-      else if (/製作|制作|監製|监制/.test(label)) credits.producer ||= v
-      else if (/作詞|作词|填詞|填词|詞|词/.test(label)) credits.lyrics ||= v
-      else if (/作曲|曲/.test(label)) credits.music ||= v
+      // 「曲目：」「歌曲：」「主題曲：」也含「曲」，用包含判斷會把演唱會的曲目表當成作曲欄
+      if (NOT_ROLE.test(label)) continue
+      if (/(?:^|[\s\/／])(?:編曲|编曲)$/.test(label)) credits.arranger ||= v
+      else if (/(?:^|[\s\/／])(?:製作人?|制作人?|監製|监制)$/.test(label)) credits.producer ||= v
+      else if (/(?:^|[\s\/／])(?:作詞|作词|填詞|填词|詞|词)$/.test(label)) credits.lyrics ||= v
+      else if (/(?:^|[\s\/／])(?:作曲|曲)$/.test(label)) credits.music ||= v
     }
     if (credits.lyrics || credits.music || credits.arranger || credits.producer) out.push(credits)
     title = null
@@ -549,12 +595,31 @@ export function parseCredits(wikitext) {
     }
     // extra_column 標明是編曲時，extraN 就是編曲
     const extraIsArranger = ARRANGER_HEAD.test(params.extra_column ?? '')
-    const all = (k) => cleanCredit(params[`all_${k}`] ?? '')
+    // all_lyrics 等常帶例外註記：「陳綺貞（除〈微涼的你〉作曲為林暐哲）」「[[林俊傑]]（例外曲目：《他說：她說…》）」。
+    // 被點名的歌不套用這個全域值 —— 有指名替代人選就用替代的，沒指名就留空。
+    const parseAll = (raw) => {
+      const text = toPlain(String(raw ?? ''))
+      const except = new Map()
+      for (const seg of topBrackets(text)) {
+        if (!/除|例外/.test(seg)) continue
+        const who = cleanCredit(seg.match(/(?:為|为|是)\s*([^〈〉《》（()），,、]+)[）)]?\s*$/)?.[1] ?? '')
+        for (const t of seg.matchAll(/[〈《]([^〉》]+)[〉》]/g)) except.set(normalizeTitle(t[1]), who)
+      }
+      return { base: cleanCredit(text), except }
+    }
+    const ALL = Object.fromEntries(
+      ['lyrics', 'music', 'arranger', 'producer', 'writing', 'extra'].map((k) => [k, parseAll(params[`all_${k}`])]),
+    )
     for (const [key, value] of Object.entries(params)) {
       const n = key.match(/^title(\d+)$/)?.[1]
       if (!n) continue
       const title = toTW(toPlain(value)).trim()
       const get = (k) => cleanCredit(params[`${k}${n}`] ?? '')
+      const all = (k) => {
+        const a = ALL[k]
+        const hit = a.except.get(normalizeTitle(title))
+        return hit === undefined ? a.base : hit
+      }
       const writing = get('writing') || all('writing')
       const credits = {
         title,

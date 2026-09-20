@@ -505,8 +505,22 @@ export function markOtherArtists(albums, artistConfig, channelName = '') {
   }
   // 只寫團員名、沒寫團名 → 團員個人作品（「無印良品(光良|品冠)」寫了團名，仍是團體作品）；
   // 團員的個人藝名本身含團名時（「五月天 阿信」）直接算個人
-  const memberSolo = (credit) =>
-    members.some((m) => mentions(credit, [m]) && (keys.some((k) => m.includes(k)) || !mentions(credit, keys)))
+  // 曲目掛的全是團員名、一個外人也沒有（凡人二重唱寫「莫凡 和 袁惟仁」）→ 這就是團體本身
+  const memberEnsemble = (credit) => {
+    if (members.length < 2) return false
+    const parts = String(credit)
+      .split(/\s*(?:&|,|，|、|\||\/|;|；|\+|和|與|与|\bfeat\.?|\bwith\b|\band\b)\s*/i)
+      .map(norm)
+      .filter(Boolean)
+    return parts.length >= 2 && parts.every((p) => members.some((m) => p.includes(m) || m.includes(p)))
+  }
+  // 只掛一位團員才算個人作品
+  const memberSolo = (credit) => {
+    const hit = members.filter((m) => mentions(credit, [m]))
+    if (hit.length !== 1) return false
+    const [m] = hit
+    return keys.some((k) => m.includes(k)) || !mentions(credit, keys)
+  }
   let marked = 0
   for (const album of albums) {
     // 別人的專輯整張不算。判斷看的是專輯掛名裡有沒有這位歌手 ——
@@ -519,7 +533,7 @@ export function markOtherArtists(albums, artistConfig, channelName = '') {
       t.byOther =
         othersAlbum ||
         (!!credit &&
-        (!mentions(credit, keys) || // 別人唱的
+        ((!mentions(credit, keys) && !memberEnsemble(credit)) || // 別人唱的（團員全員掛名仍算團體）
           (groups.length > 0 && mentions(credit, groups)) || // 個人頻道上的團體作品
           memberSolo(credit))) // 團體頻道上的團員個人作品
       if (t.byOther) marked++
@@ -589,9 +603,16 @@ export function addCredits(albums, catalog = []) {
     const keys = parts.flatMap((p) => [normalizeTitle(p), pinyin || !hasCJK(p) ? `py:${pinyinKey(p)}` : ''])
     return [...new Set(keys)].filter((k) => k.replace(/^py:/, '').length >= 2)
   }
+  // 同一首歌可能在好幾個地方出現（專輯條目的條列、曲目表格、作品列表），
+  // 取欄位最齊全的那筆 —— 先到先得會讓零星的一兩欄蓋掉完整的資料
+  const richness = (c) => ['lyrics', 'music', 'arranger', 'producer'].filter((f) => c?.[f]).length
   const index = (list) => {
     const map = new Map()
-    for (const c of list ?? []) for (const k of keysOf(c.title)) if (!map.has(k)) map.set(k, c)
+    for (const c of list ?? [])
+      for (const k of keysOf(c.title)) {
+        const cur = map.get(k)
+        if (!cur || richness(c) > richness(cur)) map.set(k, c)
+      }
     return map
   }
   const all = index(
@@ -602,11 +623,16 @@ export function addCredits(albums, catalog = []) {
     const own = index(album._wiki?.credits)
     for (const t of album.tracks) {
       delete t.credits
-      const keys = [t.titleZh, t.title].filter(Boolean).flatMap((x) => keysOf(x, false))
-      const hit = keys.map((k) => own.get(k)).find(Boolean) ?? keys.map((k) => all.get(k)).find(Boolean)
-      if (!hit) continue
-      const { lyrics, music, arranger, producer } = hit
-      t.credits = Object.fromEntries(Object.entries({ lyrics, music, arranger, producer }).filter(([, v]) => v))
+      // 演唱會專輯的曲目叫「曹操 (現場)」，維基條目寫的是「曹操」；
+      // 現場版的作詞作曲跟錄音室版是同一首歌，脫掉 Live 標記才對得上
+      const titles = [t.titleZh, t.title].filter(Boolean)
+      const keys = [...titles, ...titles.map(stripLive)].flatMap((x) => keysOf(x, false))
+      // 專輯自己的條目優先，缺的欄位再由其他來源補（例如條列有詞曲、表格才有製作人）
+      const hits = [...keys.map((k) => own.get(k)), ...keys.map((k) => all.get(k))].filter(Boolean)
+      if (!hits.length) continue
+      const merged = {}
+      for (const h of hits) for (const f of ['lyrics', 'music', 'arranger', 'producer']) if (!merged[f] && h[f]) merged[f] = h[f]
+      t.credits = merged
       found++
     }
   }
@@ -616,6 +642,12 @@ export function addCredits(albums, catalog = []) {
 // ---------- 歌名比對鍵 ----------
 
 const LIVE_RE = /\blive\b|演唱會|演唱会|音樂會|音乐会|現場|现场|\bconcert\b/i
+
+/** 去掉曲名尾端的 Live 註記：「曹操 (現場)」→「曹操」（詞曲比對用，nameKey 仍分開計） */
+const stripLive = (title) =>
+  String(title ?? '')
+    .replace(/\s*[（(【\[][^）)】\]]*(?:live|演唱會|演唱会|音樂會|音乐会|現場|现场|concert)[^）)】\]]*[）)】\]]/gi, '')
+    .trim()
 // 日文新字體寫法（「晩安曲」）轉成繁體，才會和「晚安曲」視為同名
 const jpToTW = OpenCC.Converter({ from: 'jp', to: 'tw' })
 
@@ -638,7 +670,8 @@ export function fillCreditsByNameKey(albums) {
   for (const album of albums)
     for (const t of album.tracks) {
       if (t.credits || !t.nameKey) continue
-      const hit = known.get(t.nameKey)
+      // 現場版沒查到就沿用錄音室版：同一首歌的詞曲本來就一樣
+      const hit = known.get(t.nameKey) ?? known.get(t.nameKey.replace(/#live$/, ''))
       if (hit) {
         t.credits = { ...hit }
         filled++

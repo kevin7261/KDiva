@@ -2,7 +2,7 @@
   "slug": "sally-yeh",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-19T09:37:45.818Z",
+  "fetchedAt": "2026-09-19T19:42:25.333Z",
   "artist": {
     "channelId": "UChzDLyeh1Fvy6UPdA-VdE3A",
     "name": "葉蒨文",
@@ -817,7 +817,7 @@
           "plays": 4810000,
           "playsText": "播放次數：481萬",
           "duration": 241,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "梁弘志",
@@ -834,7 +834,7 @@
           "plays": 110000,
           "playsText": "播放次數：11萬",
           "duration": 259,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Giorgio Moroder、Tom Whitlock",
@@ -850,7 +850,7 @@
           "plays": 66000,
           "playsText": "播放次數：6.6萬",
           "duration": 283,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "林敏怡",
@@ -866,7 +866,7 @@
           "plays": 15000,
           "playsText": "播放次數：1.5萬",
           "duration": 280,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "Reggie Calloway",
@@ -882,7 +882,7 @@
           "plays": 17000,
           "playsText": "播放次數：1.7萬",
           "duration": 266,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "玉置浩二",
@@ -898,7 +898,7 @@
           "plays": 33000,
           "playsText": "播放次數：3.3萬",
           "duration": 224,
-          "byOther": true,
+          "byOther": false,
           "titleZh": "Only You (英)",
           "credits": {
             "lyrics": "Richard Stilgoe",
@@ -915,7 +915,7 @@
           "plays": 6893,
           "playsText": "播放次數：6893",
           "duration": 251,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Chrissie Hynde",
@@ -931,7 +931,7 @@
           "plays": 21000,
           "playsText": "播放次數：2.1萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "五輪真弓",
@@ -947,7 +947,7 @@
           "plays": 13000,
           "playsText": "播放次數：1.3萬",
           "duration": 279,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "徐日勤",
@@ -963,11 +963,12 @@
           "plays": 3490000,
           "playsText": "播放次數：349萬",
           "duration": 188,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -979,7 +980,7 @@
           "plays": 15000,
           "playsText": "播放次數：1.5萬",
           "duration": 212,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "David Shire、Carol Connors",
@@ -995,7 +996,7 @@
           "plays": 7841,
           "playsText": "播放次數：7841",
           "duration": 176,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
@@ -1011,12 +1012,13 @@
           "plays": 22000,
           "playsText": "播放次數：2.2萬",
           "duration": 186,
-          "byOther": true,
+          "byOther": false,
           "titleZh": "Over The Rainbow (英)",
           "credits": {
             "lyrics": "E.Y. Harburg",
             "music": "Harold Arlen",
-            "arranger": "鍾定一"
+            "arranger": "鍾定一",
+            "producer": "陳秀男"
           },
           "nameKey": "overtherainbow"
         }
@@ -1590,7 +1592,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "顧嘉輝、黃霑",
-            "arranger": "顧嘉煇"
+            "arranger": "顧嘉輝",
+            "producer": "黃霑"
           },
           "nameKey": "焚心以火",
           "mv": "AyF5eiuGxoA"
@@ -1682,7 +1685,7 @@
           "plays": 170000,
           "playsText": "播放次數：17萬",
           "duration": 238,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "蔡宗政",
@@ -1716,7 +1719,7 @@
           "plays": 180000,
           "playsText": "播放次數：18萬",
           "duration": 257,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
             "music": "中島美雪",
@@ -1733,7 +1736,7 @@
           "plays": 18000,
           "playsText": "播放次數：1.8萬",
           "duration": 258,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "盧東尼",
@@ -1750,7 +1753,7 @@
           "plays": 19000,
           "playsText": "播放次數：1.9萬",
           "duration": 284,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "arranger": "鍾定一",
@@ -1766,7 +1769,7 @@
           "plays": 22000,
           "playsText": "播放次數：2.2萬",
           "duration": 243,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "Jose Mari Chan",
@@ -1783,7 +1786,7 @@
           "plays": 10000,
           "playsText": "播放次數：1萬",
           "duration": 238,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Adnan Abu Hassan、Azman Abu Hassan、Habsah Hassan",
@@ -1800,7 +1803,7 @@
           "plays": 10000,
           "playsText": "播放次數：1萬",
           "duration": 246,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
             "music": "比·南利、Jamil Sulong",
@@ -1817,7 +1820,7 @@
           "plays": 10000,
           "playsText": "播放次數：1萬",
           "duration": 243,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Kenny Harris",
@@ -1834,7 +1837,7 @@
           "plays": 12000,
           "playsText": "播放次數：1.2萬",
           "duration": 318,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "開懷"
         },
         {
@@ -1845,7 +1848,7 @@
           "plays": 390000,
           "playsText": "播放次數：39萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "李宗盛",
@@ -1976,7 +1979,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -1992,7 +1996,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "顧嘉輝、黃霑",
-            "arranger": "顧嘉煇"
+            "arranger": "顧嘉煇",
+            "producer": "黃霑"
           },
           "nameKey": "焚心以火",
           "mv": "AyF5eiuGxoA"
@@ -2042,7 +2047,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "梁榮駿"
           },
           "nameKey": "晚風",
           "mv": "trcRlSiW0Es"
@@ -2610,7 +2616,7 @@
           "plays": 4260000,
           "playsText": "播放次數：426萬",
           "duration": 272,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "飛鳥涼",
@@ -2627,7 +2633,7 @@
           "plays": 1810000,
           "playsText": "播放次數：181萬",
           "duration": 263,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "任光",
@@ -2661,7 +2667,7 @@
           "plays": 21000,
           "playsText": "播放次數：2.1萬",
           "duration": 295,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Simon Franglen",
@@ -2678,7 +2684,7 @@
           "plays": 11000,
           "playsText": "播放次數：1.1萬",
           "duration": 251,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "周耀輝",
             "music": "倫永亮",
@@ -2695,7 +2701,7 @@
           "plays": 15000,
           "playsText": "播放次數：1.5萬",
           "duration": 231,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "Randy McCormick、Bruce N. Stevens",
@@ -2712,7 +2718,7 @@
           "plays": 37470000,
           "playsText": "播放次數：3747萬",
           "duration": 283,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳大力",
             "music": "陳大力、陳秀男",
@@ -2729,7 +2735,7 @@
           "plays": 110000,
           "playsText": "播放次數：11萬",
           "duration": 313,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "伍思凱",
@@ -2746,7 +2752,7 @@
           "plays": 17000,
           "playsText": "播放次數：1.7萬",
           "duration": 246,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "倫永亮",
@@ -2763,7 +2769,7 @@
           "plays": 14000,
           "playsText": "播放次數：1.4萬",
           "duration": 298,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "伍思凱",
@@ -2797,7 +2803,7 @@
           "plays": 23000,
           "playsText": "播放次數：2.3萬",
           "duration": 281,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "劉卓輝",
             "music": "伍思凱",
@@ -2813,11 +2819,12 @@
           "plays": 120000,
           "playsText": "播放次數：12萬",
           "duration": 340,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "熊美玲",
-            "arranger": "鮑比達"
+            "arranger": "鮑比達",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "你今天要走"
         },
@@ -2829,7 +2836,7 @@
           "plays": 19000,
           "playsText": "播放次數：1.9萬",
           "duration": 239,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "陳大力、陳秀男",
@@ -2858,10 +2865,10 @@
           "title": "走火入魔",
           "artists": "葉倩文",
           "videoId": "CWm8QYxg6Tg",
-          "plays": 6404,
-          "playsText": "播放次數：6404",
+          "plays": 6405,
+          "playsText": "播放次數：6405",
           "duration": 212,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "L. A. Reid、Babyface、Daryl Simmons、Whitney Houston",
@@ -2877,7 +2884,7 @@
           "plays": 150000,
           "playsText": "播放次數：15萬",
           "duration": 268,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "鄭淑妃",
             "music": "徐嘉良",
@@ -2893,7 +2900,7 @@
           "plays": 8927,
           "playsText": "播放次數：8927",
           "duration": 241,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "陳大力、陳秀男",
@@ -2909,7 +2916,7 @@
           "plays": 6420,
           "playsText": "播放次數：6420",
           "duration": 265,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
             "music": "陳耀川",
@@ -2929,7 +2936,8 @@
           "credits": {
             "lyrics": "潘源良",
             "music": "畢曉世",
-            "arranger": "杜自持"
+            "arranger": "杜自持",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "原來愛過以後"
         },
@@ -2941,7 +2949,7 @@
           "plays": 9567,
           "playsText": "播放次數：9567",
           "duration": 266,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "柱費心思"
         },
         {
@@ -2952,7 +2960,7 @@
           "plays": 130000,
           "playsText": "播放次數：13萬",
           "duration": 200,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "劉卓輝",
             "music": "Terry Coffey、Jon Nettlesbey",
@@ -2968,7 +2976,7 @@
           "plays": 2539,
           "playsText": "播放次數：2539",
           "duration": 254,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "劉卓輝",
             "music": "伍思凱",
@@ -3001,7 +3009,7 @@
           "plays": 150000,
           "playsText": "播放次數：15萬",
           "duration": 304,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳潔明",
             "music": "李海鷹",
@@ -3018,7 +3026,7 @@
           "plays": 40970000,
           "playsText": "播放次數：4097萬",
           "duration": 251,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳樂融、王惠玲",
             "music": "陳大力、陳秀男",
@@ -3034,7 +3042,7 @@
           "plays": 37470000,
           "playsText": "播放次數：3747萬",
           "duration": 283,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳大力",
             "music": "陳大力、陳秀男",
@@ -3051,7 +3059,7 @@
           "plays": 160000,
           "playsText": "播放次數：16萬",
           "duration": 239,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "梁弘志",
             "music": "梁弘志",
@@ -3069,7 +3077,7 @@
           "plays": 5560000,
           "playsText": "播放次數：556萬",
           "duration": 266,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "明月心"
         },
         {
@@ -3080,7 +3088,7 @@
           "plays": 150000,
           "playsText": "播放次數：15萬",
           "duration": 268,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "鄭淑妃",
             "music": "徐嘉良",
@@ -3100,7 +3108,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -3112,7 +3121,7 @@
           "plays": 210000,
           "playsText": "播放次數：21萬",
           "duration": 192,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳桂珠",
             "music": "童安格",
@@ -3129,7 +3138,7 @@
           "plays": 1220000,
           "playsText": "播放次數：122萬",
           "duration": 349,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "鄭淑妃",
             "music": "飛鳥涼",
@@ -3145,7 +3154,7 @@
           "plays": 270000,
           "playsText": "播放次數：27萬",
           "duration": 276,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林秋離",
             "music": "熊美玲",
@@ -3162,11 +3171,12 @@
           "plays": 870000,
           "playsText": "播放次數：87萬",
           "duration": 219,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "Romeo Diaz",
+            "producer": "梁榮駿"
           },
           "nameKey": "晚風",
           "mv": "trcRlSiW0Es"
@@ -3190,7 +3200,7 @@
           "plays": 84000,
           "playsText": "播放次數：8.4萬",
           "duration": 247,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陶秦",
             "music": "王福齡",
@@ -3207,7 +3217,7 @@
           "plays": 65000,
           "playsText": "播放次數：6.5萬",
           "duration": 262,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "幾度花落時",
           "mv": "N5J8iekjfN8"
         },
@@ -3219,7 +3229,7 @@
           "plays": 160000,
           "playsText": "播放次數：16萬",
           "duration": 242,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "朋友"
         }
       ],
@@ -3638,7 +3648,7 @@
           "plays": 20000,
           "playsText": "播放次數：2萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "李敏",
             "music": "Andy Goldmark、Brock Walsh",
@@ -3672,7 +3682,7 @@
           "plays": 16000,
           "playsText": "播放次數：1.6萬",
           "duration": 234,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
             "music": "林子祥",
@@ -3689,7 +3699,7 @@
           "plays": 5507,
           "playsText": "播放次數：5507",
           "duration": 235,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林夕",
             "music": "Babyface",
@@ -3706,7 +3716,7 @@
           "plays": 150000,
           "playsText": "播放次數：15萬",
           "duration": 244,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "殷文琦",
@@ -3740,7 +3750,7 @@
           "plays": 11000,
           "playsText": "播放次數：1.1萬",
           "duration": 213,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "陳容森",
@@ -3757,7 +3767,7 @@
           "plays": 13000,
           "playsText": "播放次數：1.3萬",
           "duration": 260,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "鄧漢強",
             "music": "Brad Parker、Wendy Waldman",
@@ -3774,7 +3784,7 @@
           "plays": 36000,
           "playsText": "播放次數：3.6萬",
           "duration": 271,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳容森",
             "music": "陳容森",
@@ -3791,7 +3801,7 @@
           "plays": 7370,
           "playsText": "播放次數：7370",
           "duration": 216,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "古倩敏",
             "music": "古倩敏",
@@ -4241,7 +4251,7 @@
           "plays": 370000,
           "playsText": "播放次數：37萬",
           "duration": 202,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "林子祥",
@@ -4258,7 +4268,7 @@
           "plays": 430000,
           "playsText": "播放次數：43萬",
           "duration": 209,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "長夜mylovegoodnight"
         },
         {
@@ -4269,7 +4279,7 @@
           "plays": 120000,
           "playsText": "播放次數：12萬",
           "duration": 340,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "熊美玲",
@@ -4286,7 +4296,7 @@
           "plays": 180000,
           "playsText": "播放次數：18萬",
           "duration": 257,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
             "music": "中島美雪",
@@ -4307,7 +4317,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -4319,7 +4330,7 @@
           "plays": 2010000,
           "playsText": "播放次數：201萬",
           "duration": 325,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "珍重",
           "mv": "gIV06IfgK4M"
         },
@@ -4331,7 +4342,7 @@
           "plays": 770000,
           "playsText": "播放次數：77萬",
           "duration": 273,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "熊美玲",
@@ -4348,7 +4359,7 @@
           "plays": 19000,
           "playsText": "播放次數：1.9萬",
           "duration": 211,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "Chris Rea",
@@ -4365,7 +4376,7 @@
           "plays": 4260000,
           "playsText": "播放次數：426萬",
           "duration": 272,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "飛鳥涼",
@@ -4382,7 +4393,7 @@
           "plays": 150000,
           "playsText": "播放次數：15萬",
           "duration": 244,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "殷文琦",
@@ -4399,7 +4410,7 @@
           "plays": 67000,
           "playsText": "播放次數：6.7萬",
           "duration": 234,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳少琪",
             "music": "黃明洲",
@@ -4416,7 +4427,7 @@
           "plays": 680000,
           "playsText": "播放次數：68萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "周啟生",
@@ -4451,7 +4462,7 @@
           "plays": 430000,
           "playsText": "播放次數：43萬",
           "duration": 210,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "鄭國江",
             "music": "顧嘉輝",
@@ -4468,11 +4479,12 @@
           "plays": 1090000,
           "playsText": "播放次數：109萬",
           "duration": 235,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "黃霑",
             "music": "顧嘉輝、黃霑",
-            "arranger": "顧嘉煇"
+            "arranger": "顧嘉輝",
+            "producer": "黃霑"
           },
           "nameKey": "焚心以火",
           "mv": "AyF5eiuGxoA"
@@ -4485,7 +4497,7 @@
           "plays": 26000,
           "playsText": "播放次數：2.6萬",
           "duration": 250,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Madonna、Stephen Bray",
@@ -4535,7 +4547,7 @@
           "plays": 160000,
           "playsText": "播放次數：16萬",
           "duration": 239,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Madonna、Patrick Leonard、Bruce Gaitsch",
@@ -4551,7 +4563,7 @@
           "plays": 110000,
           "playsText": "播放次數：11萬",
           "duration": 313,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "伍思凱",
@@ -4568,7 +4580,7 @@
           "plays": 1530000,
           "playsText": "播放次數：153萬",
           "duration": 347,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "飛鳥涼",
@@ -4585,7 +4597,7 @@
           "plays": 44000,
           "playsText": "播放次數：4.4萬",
           "duration": 280,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林夕",
             "music": "L.A. Reid、Babyface、Daryl Simmons",
@@ -4602,7 +4614,7 @@
           "plays": 220000,
           "playsText": "播放次數：22萬",
           "duration": 299,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳少琪",
             "music": "林子祥",
@@ -4619,7 +4631,7 @@
           "plays": 220000,
           "playsText": "播放次數：22萬",
           "duration": 275,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "李敏",
             "music": "James Horner",
@@ -4638,7 +4650,7 @@
           "plays": 48000,
           "playsText": "播放次數：4.8萬",
           "duration": 231,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "古倩敏",
             "music": "楊奇昌",
@@ -4675,7 +4687,8 @@
           "credits": {
             "lyrics": "潘偉源",
             "music": "陳志遠",
-            "arranger": "鮑比達"
+            "arranger": "鮑比達",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "為何"
         },
@@ -4687,7 +4700,7 @@
           "plays": 390000,
           "playsText": "播放次數：39萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "李宗盛",
@@ -4705,7 +4718,7 @@
           "plays": 170000,
           "playsText": "播放次數：17萬",
           "duration": 238,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "蔡宗政",
@@ -4722,7 +4735,7 @@
           "plays": 230000,
           "playsText": "播放次數：23萬",
           "duration": 216,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "阿信的故事",
           "mv": "J1urAh5lToQ"
         },
@@ -4734,7 +4747,7 @@
           "plays": 100000,
           "playsText": "播放次數：10萬",
           "duration": 246,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Umberto Bindi、Gino Paoli、Carl Sigman",
@@ -4750,7 +4763,7 @@
           "plays": 21000,
           "playsText": "播放次數：2.1萬",
           "duration": 295,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Simon Franglen",
@@ -4801,7 +4814,7 @@
           "plays": 20000,
           "playsText": "播放次數：2萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "李敏",
             "music": "Andy Goldmark、Brock Walsh",
@@ -4818,7 +4831,7 @@
           "plays": 36000,
           "playsText": "播放次數：3.6萬",
           "duration": 271,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳容森",
             "music": "陳容森",
@@ -4835,7 +4848,7 @@
           "plays": 150000,
           "playsText": "播放次數：15萬",
           "duration": 244,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "殷文琦",
@@ -4852,7 +4865,7 @@
           "plays": 23000,
           "playsText": "播放次數：2.3萬",
           "duration": 245,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "龐卓汶",
             "music": "木子健",
@@ -4869,7 +4882,7 @@
           "plays": 23000,
           "playsText": "播放次數：2.3萬",
           "duration": 281,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "劉卓輝",
             "music": "伍思凱",
@@ -4885,7 +4898,7 @@
           "plays": 110000,
           "playsText": "播放次數：11萬",
           "duration": 313,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "伍思凱",
@@ -4902,7 +4915,7 @@
           "plays": 2010000,
           "playsText": "播放次數：201萬",
           "duration": 325,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "珍重",
           "mv": "gIV06IfgK4M"
         },
@@ -4914,7 +4927,7 @@
           "plays": 370000,
           "playsText": "播放次數：37萬",
           "duration": 202,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "林子祥",
@@ -4935,7 +4948,8 @@
           "credits": {
             "lyrics": "潘偉源",
             "music": "陳志遠",
-            "arranger": "鮑比達"
+            "arranger": "鮑比達",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "為何"
         },
@@ -4947,7 +4961,7 @@
           "plays": 1810000,
           "playsText": "播放次數：181萬",
           "duration": 263,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "任光",
@@ -4964,7 +4978,7 @@
           "plays": 44000,
           "playsText": "播放次數：4.4萬",
           "duration": 280,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林夕",
             "music": "L.A. Reid、Babyface、Daryl Simmons",
@@ -4981,7 +4995,7 @@
           "plays": 21000,
           "playsText": "播放次數：2.1萬",
           "duration": 295,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Simon Franglen",
@@ -4998,7 +5012,7 @@
           "plays": 160000,
           "playsText": "播放次數：16萬",
           "duration": 239,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Madonna、Patrick Leonard、Bruce Gaitsch",
@@ -5014,7 +5028,7 @@
           "plays": 2570000,
           "playsText": "播放次數：257萬",
           "duration": 266,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "200度"
         },
         {
@@ -5025,7 +5039,7 @@
           "plays": 420000,
           "playsText": "播放次數：42萬",
           "duration": 216,
-          "byOther": true,
+          "byOther": false,
           "titleZh": "Cha Cha Cha (合)",
           "nameKey": "chachacha"
         },
@@ -5070,7 +5084,7 @@
           "plays": 220000,
           "playsText": "播放次數：22萬",
           "duration": 275,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "李敏",
             "music": "James Horner",
@@ -5089,7 +5103,7 @@
           "plays": 67000,
           "playsText": "播放次數：6.7萬",
           "duration": 234,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳少琪",
             "music": "黃明洲",
@@ -5106,7 +5120,7 @@
           "plays": 18000,
           "playsText": "播放次數：1.8萬",
           "duration": 233,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳少琪",
             "music": "黃明洲",
@@ -5123,7 +5137,7 @@
           "plays": 150000,
           "playsText": "播放次數：15萬",
           "duration": 244,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "殷文琦",
@@ -5140,7 +5154,7 @@
           "plays": 10000,
           "playsText": "播放次數：1萬",
           "duration": 223,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "黃偉年",
@@ -5174,7 +5188,7 @@
           "plays": 120000,
           "playsText": "播放次數：12萬",
           "duration": 340,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "熊美玲",
@@ -5191,7 +5205,7 @@
           "plays": 1530000,
           "playsText": "播放次數：153萬",
           "duration": 347,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "飛鳥涼",
@@ -5208,7 +5222,7 @@
           "plays": 110000,
           "playsText": "播放次數：11萬",
           "duration": 313,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "伍思凱",
@@ -5225,7 +5239,7 @@
           "plays": 44000,
           "playsText": "播放次數：4.4萬",
           "duration": 280,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林夕",
             "music": "L.A. Reid、Babyface、Daryl Simmons",
@@ -5242,7 +5256,7 @@
           "plays": 370000,
           "playsText": "播放次數：37萬",
           "duration": 202,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "林子祥",
@@ -5259,7 +5273,7 @@
           "plays": 4260000,
           "playsText": "播放次數：426萬",
           "duration": 272,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "飛鳥涼",
@@ -5276,7 +5290,7 @@
           "plays": 770000,
           "playsText": "播放次數：77萬",
           "duration": 273,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "熊美玲",
@@ -5293,7 +5307,7 @@
           "plays": 680000,
           "playsText": "播放次數：68萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "周啟生",
@@ -5311,7 +5325,7 @@
           "plays": 2010000,
           "playsText": "播放次數：201萬",
           "duration": 325,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "珍重",
           "mv": "gIV06IfgK4M"
         },
@@ -5340,7 +5354,7 @@
           "plays": 48000,
           "playsText": "播放次數：4.8萬",
           "duration": 231,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "古倩敏",
             "music": "楊奇昌",
@@ -5357,7 +5371,7 @@
           "plays": 19000,
           "playsText": "播放次數：1.9萬",
           "duration": 211,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "Chris Rea",
@@ -5374,7 +5388,7 @@
           "plays": 40970000,
           "playsText": "播放次數：4097萬",
           "duration": 251,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳樂融、王惠玲",
             "music": "陳大力、陳秀男",
@@ -5390,7 +5404,7 @@
           "plays": 1810000,
           "playsText": "播放次數：181萬",
           "duration": 263,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "任光",
@@ -5407,7 +5421,7 @@
           "plays": 430000,
           "playsText": "播放次數：43萬",
           "duration": 210,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "鄭國江",
             "music": "顧嘉輝",
@@ -5428,7 +5442,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -5440,11 +5455,12 @@
           "plays": 870000,
           "playsText": "播放次數：87萬",
           "duration": 219,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "Romeo Diaz",
+            "producer": "梁榮駿"
           },
           "nameKey": "晚風",
           "mv": "trcRlSiW0Es"
@@ -5474,7 +5490,7 @@
           "plays": 100000,
           "playsText": "播放次數：10萬",
           "duration": 246,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Umberto Bindi、Gino Paoli、Carl Sigman",
@@ -5490,7 +5506,7 @@
           "plays": 430000,
           "playsText": "播放次數：43萬",
           "duration": 209,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "長夜mylovegoodnight"
         },
         {
@@ -5501,7 +5517,7 @@
           "plays": 21000,
           "playsText": "播放次數：2.1萬",
           "duration": 295,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Simon Franglen",
@@ -5518,7 +5534,7 @@
           "plays": 76000,
           "playsText": "播放次數：7.6萬",
           "duration": 250,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "李宗盛",
@@ -5551,7 +5567,7 @@
           "plays": 420000,
           "playsText": "播放次數：42萬",
           "duration": 216,
-          "byOther": true,
+          "byOther": false,
           "titleZh": "Cha Cha Cha (合)",
           "nameKey": "chachacha"
         }
@@ -5591,7 +5607,7 @@
           "plays": 37470000,
           "playsText": "播放次數：3747萬",
           "duration": 283,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳大力",
             "music": "陳大力、陳秀男",
@@ -5636,7 +5652,7 @@
           "plays": 5560000,
           "playsText": "播放次數：556萬",
           "duration": 266,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "明月心"
         },
         {
@@ -5651,7 +5667,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -5685,7 +5702,7 @@
           "plays": 40970000,
           "playsText": "播放次數：4097萬",
           "duration": 251,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳樂融、王惠玲",
             "music": "陳大力、陳秀男",
@@ -5712,11 +5729,12 @@
           "plays": 1090000,
           "playsText": "播放次數：109萬",
           "duration": 235,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "黃霑",
             "music": "顧嘉輝、黃霑",
-            "arranger": "顧嘉煇"
+            "arranger": "顧嘉輝",
+            "producer": "黃霑"
           },
           "nameKey": "焚心以火",
           "mv": "AyF5eiuGxoA"
@@ -5740,7 +5758,7 @@
           "plays": 18000,
           "playsText": "播放次數：1.8萬",
           "duration": 256,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "永遠"
         },
         {
@@ -5795,7 +5813,7 @@
           "plays": 40970000,
           "playsText": "播放次數：4097萬",
           "duration": 251,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳樂融、王惠玲",
             "music": "陳大力、陳秀男",
@@ -5811,7 +5829,7 @@
           "plays": 1810000,
           "playsText": "播放次數：181萬",
           "duration": 263,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "任光",
@@ -5828,7 +5846,7 @@
           "plays": 1530000,
           "playsText": "播放次數：153萬",
           "duration": 347,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "飛鳥涼",
@@ -5845,7 +5863,7 @@
           "plays": 120000,
           "playsText": "播放次數：12萬",
           "duration": 340,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "熊美玲",
@@ -5879,7 +5897,7 @@
           "plays": 370000,
           "playsText": "播放次數：37萬",
           "duration": 202,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "林子祥",
@@ -5896,7 +5914,7 @@
           "plays": 430000,
           "playsText": "播放次數：43萬",
           "duration": 210,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "鄭國江",
             "music": "顧嘉輝",
@@ -5913,7 +5931,7 @@
           "plays": 430000,
           "playsText": "播放次數：43萬",
           "duration": 209,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "長夜mylovegoodnight"
         },
         {
@@ -5941,7 +5959,7 @@
           "plays": 770000,
           "playsText": "播放次數：77萬",
           "duration": 273,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "熊美玲",
@@ -5958,11 +5976,12 @@
           "plays": 870000,
           "playsText": "播放次數：87萬",
           "duration": 219,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "Romeo Diaz",
+            "producer": "梁榮駿"
           },
           "nameKey": "晚風",
           "mv": "trcRlSiW0Es"
@@ -5975,7 +5994,7 @@
           "plays": 220000,
           "playsText": "播放次數：22萬",
           "duration": 275,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "李敏",
             "music": "James Horner",
@@ -6015,7 +6034,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -6027,7 +6047,7 @@
           "plays": 4260000,
           "playsText": "播放次數：426萬",
           "duration": 272,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "飛鳥涼",
@@ -6044,7 +6064,7 @@
           "plays": 2010000,
           "playsText": "播放次數：201萬",
           "duration": 325,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "珍重",
           "mv": "gIV06IfgK4M"
         }
@@ -6073,7 +6093,7 @@
           "plays": 170000,
           "playsText": "播放次數：17萬",
           "duration": 238,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "蔡宗政",
@@ -6107,7 +6127,7 @@
           "plays": 180000,
           "playsText": "播放次數：18萬",
           "duration": 257,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
             "music": "中島美雪",
@@ -6124,7 +6144,7 @@
           "plays": 18000,
           "playsText": "播放次數：1.8萬",
           "duration": 258,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "盧東尼",
@@ -6141,7 +6161,7 @@
           "plays": 19000,
           "playsText": "播放次數：1.9萬",
           "duration": 284,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "arranger": "鍾定一",
@@ -6157,7 +6177,7 @@
           "plays": 22000,
           "playsText": "播放次數：2.2萬",
           "duration": 243,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "Jose Mari Chan",
@@ -6174,7 +6194,7 @@
           "plays": 10000,
           "playsText": "播放次數：1萬",
           "duration": 238,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Adnan Abu Hassan、Azman Abu Hassan、Habsah Hassan",
@@ -6191,7 +6211,7 @@
           "plays": 10000,
           "playsText": "播放次數：1萬",
           "duration": 246,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
             "music": "比·南利、Jamil Sulong",
@@ -6208,7 +6228,7 @@
           "plays": 10000,
           "playsText": "播放次數：1萬",
           "duration": 243,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Kenny Harris",
@@ -6225,7 +6245,7 @@
           "plays": 12000,
           "playsText": "播放次數：1.2萬",
           "duration": 318,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "開懷"
         },
         {
@@ -6236,7 +6256,7 @@
           "plays": 390000,
           "playsText": "播放次數：39萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "李宗盛",
@@ -6484,7 +6504,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "顧嘉輝、黃霑",
-            "arranger": "顧嘉煇"
+            "arranger": "顧嘉輝",
+            "producer": "黃霑"
           },
           "nameKey": "焚心以火",
           "mv": "AyF5eiuGxoA"
@@ -6571,7 +6592,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -6587,7 +6609,8 @@
           "credits": {
             "lyrics": "潘偉源",
             "music": "陳志遠",
-            "arranger": "鮑比達"
+            "arranger": "鮑比達",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "為何"
         },
@@ -6655,7 +6678,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "Romeo Diaz",
+            "producer": "梁榮駿"
           },
           "nameKey": "晚風",
           "mv": "trcRlSiW0Es"
@@ -6702,11 +6726,12 @@
           "plays": 1090000,
           "playsText": "播放次數：109萬",
           "duration": 235,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "黃霑",
             "music": "顧嘉輝、黃霑",
-            "arranger": "顧嘉煇"
+            "arranger": "顧嘉輝",
+            "producer": "黃霑"
           },
           "nameKey": "焚心以火",
           "mv": "AyF5eiuGxoA"
@@ -6719,7 +6744,7 @@
           "plays": 430000,
           "playsText": "播放次數：43萬",
           "duration": 210,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "鄭國江",
             "music": "顧嘉輝",
@@ -6736,7 +6761,7 @@
           "plays": 1530000,
           "playsText": "播放次數：153萬",
           "duration": 347,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "飛鳥涼",
@@ -6753,7 +6778,7 @@
           "plays": 4260000,
           "playsText": "播放次數：426萬",
           "duration": 272,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘源良",
             "music": "飛鳥涼",
@@ -6770,7 +6795,7 @@
           "plays": 770000,
           "playsText": "播放次數：77萬",
           "duration": 273,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "熊美玲",
@@ -6787,7 +6812,7 @@
           "plays": 430000,
           "playsText": "播放次數：43萬",
           "duration": 209,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "長夜mylovegoodnight"
         },
         {
@@ -6798,7 +6823,7 @@
           "plays": 120000,
           "playsText": "播放次數：12萬",
           "duration": 340,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "熊美玲",
@@ -6819,7 +6844,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -6831,7 +6857,7 @@
           "plays": 110000,
           "playsText": "播放次數：11萬",
           "duration": 192,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "童安格",
@@ -6866,7 +6892,7 @@
           "plays": 220000,
           "playsText": "播放次數：22萬",
           "duration": 299,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "陳少琪",
             "music": "林子祥",
@@ -6883,7 +6909,7 @@
           "plays": 390000,
           "playsText": "播放次數：39萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "李宗盛",
@@ -6901,7 +6927,7 @@
           "plays": 100000,
           "playsText": "播放次數：10萬",
           "duration": 246,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "Umberto Bindi、Gino Paoli、Carl Sigman",
@@ -6917,7 +6943,7 @@
           "plays": 680000,
           "playsText": "播放次數：68萬",
           "duration": 229,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "潘偉源",
             "music": "周啟生",
@@ -6935,7 +6961,7 @@
           "plays": 120000,
           "playsText": "播放次數：12萬",
           "duration": 289,
-          "byOther": true,
+          "byOther": false,
           "credits": {
             "lyrics": "林振強",
             "music": "倫永亮",
@@ -6969,7 +6995,7 @@
           "plays": 10000,
           "playsText": "播放次數：1萬",
           "duration": 292,
-          "byOther": true,
+          "byOther": false,
           "nameKey": "心裡的陽光"
         }
       ],
@@ -7135,7 +7161,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "顧嘉輝、黃霑",
-            "arranger": "顧嘉煇"
+            "arranger": "顧嘉輝",
+            "producer": "黃霑"
           },
           "nameKey": "焚心以火",
           "mv": "AyF5eiuGxoA"
@@ -7203,7 +7230,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "戴樂民",
+            "producer": "鍾定一、葉蒨文、黃栢高、林子祥"
           },
           "nameKey": "黎明不要來"
         },
@@ -7219,7 +7247,8 @@
           "credits": {
             "lyrics": "黃霑",
             "music": "黃霑",
-            "arranger": "戴樂民"
+            "arranger": "Romeo Diaz",
+            "producer": "梁榮駿"
           },
           "nameKey": "晚風",
           "mv": "trcRlSiW0Es"
@@ -7314,8 +7343,8 @@
           "title": "多情的路",
           "artists": "",
           "videoId": "EZOt6kwtADE",
-          "plays": 3258,
-          "playsText": "播放次數：3258",
+          "plays": 3259,
+          "playsText": "播放次數：3259",
           "duration": 243,
           "byOther": false,
           "nameKey": "多情的路"
@@ -7398,8 +7427,8 @@
           "title": "Medley: 完全是你 /人生其實很簡單 / 焚心如火 / 黎明不要來 / 紅塵 (Live)",
           "artists": "葉蒨文",
           "videoId": "_jan_CMVLPE",
-          "plays": 7751,
-          "playsText": "播放次數：7751",
+          "plays": 7752,
+          "playsText": "播放次數：7752",
           "duration": 499,
           "byOther": false,
           "nameKey": "medley完全是你人生其實很簡單焚心如火黎明不要來紅塵#live"
@@ -7442,10 +7471,16 @@
           "title": "童年 (Live)",
           "artists": "葉蒨文",
           "videoId": "ui6hVatTP6Y",
-          "plays": 8670,
-          "playsText": "播放次數：8670",
+          "plays": 8672,
+          "playsText": "播放次數：8672",
           "duration": 262,
           "byOther": false,
+          "credits": {
+            "lyrics": "羅大佑",
+            "music": "羅大佑",
+            "arranger": "Kenn C",
+            "producer": "李偲菘"
+          },
           "nameKey": "童年#live"
         },
         {
@@ -7453,8 +7488,8 @@
           "title": "Medley: 談情說愛 / 春風秋雨 / 迷惑 (Live)",
           "artists": "葉蒨文",
           "videoId": "GdpP0JoI5Fk",
-          "plays": 3703,
-          "playsText": "播放次數：3703",
+          "plays": 3704,
+          "playsText": "播放次數：3704",
           "duration": 547,
           "byOther": false,
           "nameKey": "medley談情說愛春風秋雨迷惑#live"
@@ -7479,6 +7514,12 @@
           "playsText": "播放次數：2675",
           "duration": 218,
           "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "伍思凱",
+            "arranger": "袁卓繁",
+            "producer": "林子祥、葉蒨文、黃栢高"
+          },
           "nameKey": "一輩子溫柔#live"
         },
         {
@@ -7486,10 +7527,15 @@
           "title": "祝福 (Live)",
           "artists": "葉蒨文",
           "videoId": "0B12w8uF664",
-          "plays": 5813,
-          "playsText": "播放次數：5813",
+          "plays": 5814,
+          "playsText": "播放次數：5814",
           "duration": 209,
           "byOther": false,
+          "credits": {
+            "lyrics": "潘偉源",
+            "music": "梁弘志",
+            "arranger": "蘇德華"
+          },
           "nameKey": "祝福#live"
         },
         {
@@ -7546,6 +7592,12 @@
           "playsText": "播放次數：1.4萬",
           "duration": 220,
           "byOther": false,
+          "credits": {
+            "lyrics": "潘源良",
+            "music": "飛鳥涼",
+            "arranger": "Tim Heintz",
+            "producer": "陳明道、葉蒨文、黃柏高"
+          },
           "nameKey": "女人的弱點#live"
         },
         {
@@ -7557,6 +7609,12 @@
           "playsText": "播放次數：1496",
           "duration": 254,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "L.A. Reid、Babyface、Daryl Simmons",
+            "arranger": "陳明道",
+            "producer": "陳明道、葉蒨文、黃柏高"
+          },
           "nameKey": "別人的情歌#live"
         },
         {
@@ -7590,6 +7648,12 @@
           "playsText": "播放次數：3026",
           "duration": 304,
           "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "熊美玲",
+            "arranger": "鍾定一",
+            "producer": "鍾定一、葉蒨文、黃栢高"
+          },
           "nameKey": "秋去秋來#live"
         },
         {
@@ -7601,6 +7665,11 @@
           "playsText": "播放次數：2134",
           "duration": 184,
           "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "林子祥",
+            "arranger": "鮑比達"
+          },
           "nameKey": "零時10分#live"
         },
         {
@@ -7634,6 +7703,12 @@
           "playsText": "播放次數：1556",
           "duration": 179,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "林子祥",
+            "arranger": "蘇德華",
+            "producer": "陳明道、葉蒨文、黃柏高"
+          },
           "nameKey": "完全是你#live"
         },
         {
@@ -7667,6 +7742,12 @@
           "playsText": "播放次數：1.6萬",
           "duration": 163,
           "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "倫永亮",
+            "arranger": "倫永亮",
+            "producer": "葉蒨文、鍾定一"
+          },
           "nameKey": "命運我操縱#live"
         },
         {
@@ -7702,6 +7783,12 @@
           "playsText": "播放次數：837",
           "duration": 248,
           "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "葉展華",
+            "arranger": "葉展華、龐標",
+            "producer": "Lips Music Productions"
+          },
           "nameKey": "你要記住#live"
         },
         {
@@ -7713,6 +7800,12 @@
           "playsText": "播放次數：1610",
           "duration": 572,
           "byOther": false,
+          "credits": {
+            "lyrics": "林振強",
+            "music": "James Harris III、Terry Lewis",
+            "arranger": "唐奕聰",
+            "producer": "鍾定一、葉蒨文、黃栢高"
+          },
           "nameKey": "信自己#live"
         },
         {
@@ -7811,8 +7904,8 @@
           "title": "詠春（純音樂）",
           "artists": "林子祥",
           "videoId": "s973svjz8Ws",
-          "plays": 1285,
-          "playsText": "播放次數：1285",
+          "plays": 1286,
+          "playsText": "播放次數：1286",
           "duration": 330,
           "byOther": true,
           "nameKey": "詠春"

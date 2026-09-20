@@ -2,13 +2,13 @@
   "slug": "kelly-chen",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-19T11:23:08.256Z",
+  "fetchedAt": "2026-09-19T20:39:25.602Z",
   "artist": {
     "channelId": "UCQFTe1obSoLmWiTbyx2wfkA",
     "name": "陳慧琳",
     "thumbnail": "https://yt3.googleusercontent.com/wp-i-UvAnVOm3TY7WoqTJB5cjOdBLz8tdE9oC9Ek87wg1fKqBjVZnowG01xxhzBw5_Deb0EEIg=w2880-h1200-l90-rj-dcLVSGj6UI",
     "subscribers": 91700,
-    "monthlyAudience": 1700000,
+    "monthlyAudience": 1720000,
     "videos": [
       {
         "title": "三秒一生 (國語版)",
@@ -631,8 +631,8 @@
           "title": "我要",
           "artists": "",
           "videoId": "MqD-LemAktE",
-          "plays": 5520,
-          "playsText": "播放次數：5520",
+          "plays": 5521,
+          "playsText": "播放次數：5521",
           "duration": 66,
           "byOther": false,
           "credits": {
@@ -665,8 +665,8 @@
           "title": "我的心跟你一樣",
           "artists": "",
           "videoId": "p_2fplbmNMU",
-          "plays": 4854,
-          "playsText": "播放次數：4854",
+          "plays": 4856,
+          "playsText": "播放次數：4856",
           "duration": 245,
           "byOther": false,
           "credits": {
@@ -699,8 +699,8 @@
           "title": "各有各自變心",
           "artists": "",
           "videoId": "IE6qMPcYcdY",
-          "plays": 3573,
-          "playsText": "播放次數：3573",
+          "plays": 3572,
+          "playsText": "播放次數：3572",
           "duration": 213,
           "byOther": false,
           "credits": {
@@ -1092,7 +1092,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         },
@@ -1112,8 +1114,8 @@
           "title": "Beautiful You",
           "artists": "",
           "videoId": "QLCUJMr4_hw",
-          "plays": 7459,
-          "playsText": "播放次數：7459",
+          "plays": 7460,
+          "playsText": "播放次數：7460",
           "duration": 205,
           "byOther": false,
           "credits": {
@@ -1223,7 +1225,10 @@
           "duration": 284,
           "byOther": false,
           "credits": {
-            "music": "3rd"
+            "lyrics": "黃偉文",
+            "music": "雷頌德",
+            "arranger": "Dry",
+            "producer": "雷頌德"
           },
           "nameKey": "紀念日",
           "mv": "8nRws3NCdBk"
@@ -1291,7 +1296,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         },
@@ -1306,7 +1313,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "李子恆",
-            "music": "李子恆"
+            "music": "李子恆",
+            "arranger": "鍾興民",
+            "producer": "李子恆"
           },
           "nameKey": "我不以為"
         },
@@ -1406,7 +1415,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "潘源良",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "開始"
         },
@@ -1634,7 +1645,9 @@
           "nameKey": "開始",
           "credits": {
             "lyrics": "潘源良",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "iwPrMZgMmBs"
         }
@@ -1855,8 +1868,10 @@
           "duration": 264,
           "byOther": false,
           "credits": {
-            "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "lyrics": "李姚",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "一切很美只因有你"
         },
@@ -1871,7 +1886,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "潘源良",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "開始"
         },
@@ -1921,7 +1938,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         },
@@ -1998,7 +2017,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "李子恆",
-            "music": "李子恆"
+            "music": "李子恆",
+            "arranger": "鍾興民",
+            "producer": "李子恆"
           },
           "nameKey": "我不以為"
         },
@@ -2074,7 +2095,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "風花雪",
           "mv": "0AAHE-aH8g0"
@@ -2334,7 +2357,10 @@
           "duration": 265,
           "byOther": false,
           "credits": {
-            "music": "6th"
+            "lyrics": "黃桂蘭",
+            "music": "林隆璇",
+            "arranger": "屠穎",
+            "producer": "林隆璇"
           },
           "nameKey": "體會",
           "mv": "yD5eOga6Jmk"
@@ -2349,7 +2375,10 @@
           "duration": 286,
           "byOther": false,
           "credits": {
-            "music": "5th"
+            "lyrics": "黃桂蘭",
+            "music": "雷頌德",
+            "arranger": "江建民",
+            "producer": "林隆璇"
           },
           "nameKey": "製造浪漫"
         },
@@ -2414,7 +2443,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "潘源良",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "開始"
         },
@@ -2440,8 +2471,10 @@
           "byOther": false,
           "titleZh": "Lover's Concerto (電影《安娜瑪德蓮娜》插曲)",
           "credits": {
-            "lyrics": "Linzer Randall",
-            "music": "Linzer Randall"
+            "lyrics": "Denny Randell",
+            "music": "Sandy Linzer",
+            "arranger": "趙增熹",
+            "producer": "趙增熹"
           },
           "titleZhVariant": true,
           "nameKey": "loversconcerto"
@@ -2684,7 +2717,10 @@
           "duration": 266,
           "byOther": false,
           "credits": {
-            "music": "6th"
+            "lyrics": "黃桂蘭",
+            "music": "林隆璇",
+            "arranger": "屠穎",
+            "producer": "林隆璇"
           },
           "nameKey": "體會",
           "mv": "yD5eOga6Jmk"
@@ -2786,7 +2822,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         },
@@ -2891,7 +2929,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "風花雪",
           "mv": "0AAHE-aH8g0"
@@ -3057,8 +3097,10 @@
           "duration": 171,
           "byOther": false,
           "credits": {
-            "lyrics": "也文、陳少琪",
-            "music": "Matthew Wilder"
+            "lyrics": "也文",
+            "music": "Matthew Wilder、David Zippel",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "影中我"
         },
@@ -3073,8 +3115,10 @@
           "byOther": false,
           "titleZh": "Lover's Concerto (電影《安娜瑪德蓮娜》插曲)",
           "credits": {
-            "lyrics": "Linzer Randall",
-            "music": "Linzer Randall"
+            "lyrics": "Denny Randell",
+            "music": "Sandy Linzer",
+            "arranger": "趙增熹",
+            "producer": "趙增熹"
           },
           "titleZhVariant": true,
           "nameKey": "loversconcerto"
@@ -3245,8 +3289,10 @@
           "duration": 171,
           "byOther": false,
           "credits": {
-            "lyrics": "也文、陳少琪",
-            "music": "Matthew Wilder"
+            "lyrics": "也文",
+            "music": "Matthew Wilder、David Zippel",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "影中我"
         }
@@ -3289,8 +3335,8 @@
           "title": "嚴重 (嚴重版 Remix)",
           "artists": "陳慧琳",
           "videoId": "-VW1W_LC6os",
-          "plays": 3215,
-          "playsText": "播放次數：3215",
+          "plays": 3218,
+          "playsText": "播放次數：3218",
           "duration": 211,
           "byOther": false,
           "credits": {
@@ -3564,8 +3610,8 @@
           "title": "一生一愛情 (Another Version)",
           "artists": "",
           "videoId": "27JgBYItc-8",
-          "plays": 2186,
-          "playsText": "播放次數：2186",
+          "plays": 2187,
+          "playsText": "播放次數：2187",
           "duration": 194,
           "byOther": false,
           "credits": {
@@ -3733,8 +3779,8 @@
           "title": "請勿收回",
           "artists": "",
           "videoId": "vIeNFgmgdcQ",
-          "plays": 2953,
-          "playsText": "播放次數：2953",
+          "plays": 2952,
+          "playsText": "播放次數：2952",
           "duration": 228,
           "byOther": false,
           "nameKey": "請勿收回"
@@ -3766,8 +3812,8 @@
           "title": "休克",
           "artists": "",
           "videoId": "-Zy51WZUuNc",
-          "plays": 1517,
-          "playsText": "播放次數：1517",
+          "plays": 1519,
+          "playsText": "播放次數：1519",
           "duration": 208,
           "byOther": false,
           "nameKey": "休克"
@@ -4160,7 +4206,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "何慶遠",
-            "music": "陳偉"
+            "music": "陳偉",
+            "arranger": "陳偉、李伯傑",
+            "producer": "陳偉"
           },
           "nameKey": "愛我不愛"
         },
@@ -4174,7 +4222,10 @@
           "duration": 266,
           "byOther": false,
           "credits": {
-            "music": "6th"
+            "lyrics": "黃桂蘭",
+            "music": "林隆璇",
+            "arranger": "屠穎",
+            "producer": "林隆璇"
           },
           "nameKey": "體會",
           "mv": "yD5eOga6Jmk"
@@ -4207,8 +4258,10 @@
           "duration": 195,
           "byOther": false,
           "credits": {
-            "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "lyrics": "李姚",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "一切很美只因有你"
         },
@@ -4286,7 +4339,10 @@
           "duration": 287,
           "byOther": false,
           "credits": {
-            "music": "5th"
+            "lyrics": "黃桂蘭",
+            "music": "雷頌德",
+            "arranger": "江建民",
+            "producer": "林隆璇"
           },
           "nameKey": "製造浪漫"
         },
@@ -4300,7 +4356,10 @@
           "duration": 235,
           "byOther": false,
           "credits": {
-            "music": "8th"
+            "lyrics": "王中言",
+            "music": "陶宗慈",
+            "arranger": "江建民",
+            "producer": "林隆璇"
           },
           "nameKey": "你不一樣",
           "mv": "VsI-obBRtkM"
@@ -4316,7 +4375,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "李子恆",
-            "music": "李子恆"
+            "music": "李子恆",
+            "arranger": "鍾興民",
+            "producer": "李子恆"
           },
           "nameKey": "我不以為"
         },
@@ -4365,8 +4426,10 @@
           "byOther": false,
           "titleZh": "Lover's Concerto (電影《安娜瑪德蓮娜》插曲)",
           "credits": {
-            "lyrics": "Linzer Randall",
-            "music": "Linzer Randall"
+            "lyrics": "Denny Randell",
+            "music": "Sandy Linzer",
+            "arranger": "趙增熹",
+            "producer": "趙增熹"
           },
           "titleZhVariant": true,
           "nameKey": "loversconcerto"
@@ -4776,6 +4839,12 @@
           "playsText": "播放次數：6675",
           "duration": 343,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "戀愛情色#live"
         },
         {
@@ -4787,6 +4856,12 @@
           "playsText": "播放次數：498",
           "duration": 215,
           "byOther": false,
+          "credits": {
+            "lyrics": "周耀輝",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "眞感覺#live",
           "mv": "41e8Do4xFms"
         },
@@ -4812,6 +4887,12 @@
           "playsText": "播放次數：620",
           "duration": 368,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "謝霆鋒",
+            "arranger": "Gary Chan",
+            "producer": "Gary Chan"
+          },
           "nameKey": "假天眞#live"
         },
         {
@@ -4845,6 +4926,12 @@
           "playsText": "播放次數：1.4萬",
           "duration": 345,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "盧冠廷",
+            "arranger": "張佳添",
+            "producer": "雷頌德"
+          },
           "nameKey": "我會掛念你#live"
         },
         {
@@ -4878,6 +4965,12 @@
           "playsText": "播放次數：478",
           "duration": 244,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "河村隆一",
+            "arranger": "舒文",
+            "producer": "舒文"
+          },
           "nameKey": "嚴重#live"
         },
         {
@@ -4885,10 +4978,16 @@
           "title": "都是你的錯 (Live)",
           "artists": "",
           "videoId": "5ILD7Vb1LFI",
-          "plays": 653,
-          "playsText": "播放次數：653",
+          "plays": 654,
+          "playsText": "播放次數：654",
           "duration": 499,
           "byOther": false,
+          "credits": {
+            "lyrics": "梁芷珊",
+            "music": "張宇",
+            "arranger": "Gary Chan",
+            "producer": "Gary Chan"
+          },
           "nameKey": "都是你的錯#live"
         },
         {
@@ -4900,6 +4999,12 @@
           "playsText": "播放次數：3135",
           "duration": 249,
           "byOther": false,
+          "credits": {
+            "lyrics": "深白色",
+            "music": "深白色",
+            "arranger": "Martin Tang",
+            "producer": "馬毓芬"
+          },
           "nameKey": "三秒鐘#live"
         },
         {
@@ -4911,6 +5016,12 @@
           "playsText": "播放次數：689",
           "duration": 426,
           "byOther": false,
+          "credits": {
+            "lyrics": "于光中",
+            "music": "宇多田光",
+            "arranger": "Gary Chan",
+            "producer": "Gary Chan"
+          },
           "nameKey": "情不自禁#live"
         },
         {
@@ -4933,6 +5044,12 @@
           "playsText": "播放次數：1萬",
           "duration": 227,
           "byOther": false,
+          "credits": {
+            "lyrics": "林奕華",
+            "music": "雷頌德",
+            "arranger": "Gary Chan",
+            "producer": "Gary Chan"
+          },
           "nameKey": "我敢去愛#live"
         },
         {
@@ -4944,6 +5061,12 @@
           "playsText": "播放次數：5384",
           "duration": 246,
           "byOther": false,
+          "credits": {
+            "lyrics": "厲曼婷",
+            "music": "吳國敬",
+            "arranger": "吳國敬、孫偉明",
+            "producer": "吳國敬"
+          },
           "nameKey": "對你太在乎#live"
         },
         {
@@ -4951,8 +5074,8 @@
           "title": "一生一愛情/Encore (Live)",
           "artists": "",
           "videoId": "5DTYdliMDig",
-          "plays": 441,
-          "playsText": "播放次數：441",
+          "plays": 440,
+          "playsText": "播放次數：440",
           "duration": 349,
           "byOther": false,
           "nameKey": "一生一愛情encore#live"
@@ -4979,11 +5102,13 @@
           "playsText": "播放次數：352",
           "duration": 179,
           "byOther": false,
-          "nameKey": "一切很美只因有你#live",
           "credits": {
-            "lyrics": "周禮茂",
-            "music": "雷頌德"
-          }
+            "lyrics": "李姚",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
+          "nameKey": "一切很美只因有你#live"
         }
       ],
       "releaseDate": "2000-10-01",
@@ -5073,8 +5198,8 @@
           "title": "Slow It Down",
           "artists": "",
           "videoId": "TX9dJRAhyM0",
-          "plays": 3151,
-          "playsText": "播放次數：3151",
+          "plays": 3152,
+          "playsText": "播放次數：3152",
           "duration": 208,
           "byOther": false,
           "nameKey": "slowitdown"
@@ -5084,8 +5209,8 @@
           "title": "最後一眼",
           "artists": "",
           "videoId": "OAyk0fqV5ss",
-          "plays": 5615,
-          "playsText": "播放次數：5615",
+          "plays": 5616,
+          "playsText": "播放次數：5616",
           "duration": 243,
           "byOther": false,
           "nameKey": "最後一眼"
@@ -5112,7 +5237,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "林夕",
-            "music": "伍樂城"
+            "music": "伍樂城",
+            "arranger": "伍樂城",
+            "producer": "伍樂城"
           },
           "nameKey": "薰衣草"
         },
@@ -5220,7 +5347,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "林夕",
-            "music": "謝霆鋒"
+            "music": "謝霆鋒",
+            "arranger": "Gary Chan",
+            "producer": "Gary Chan"
           },
           "nameKey": "假天眞",
           "mv": "cXnhJQEW6oc"
@@ -5334,8 +5463,10 @@
           "byOther": false,
           "titleZh": "Lover's Concerto (電影《安娜瑪德蓮娜》插曲)",
           "credits": {
-            "lyrics": "Linzer Randall",
-            "music": "Linzer Randall"
+            "lyrics": "Denny Randell",
+            "music": "Sandy Linzer",
+            "arranger": "趙增熹",
+            "producer": "趙增熹"
           },
           "titleZhVariant": true,
           "nameKey": "loversconcerto"
@@ -5460,8 +5591,8 @@
           "title": "都是你的錯 (GIMME A...)",
           "artists": "陳慧琳",
           "videoId": "TWsXuLf2oRo",
-          "plays": 8487,
-          "playsText": "播放次數：8487",
+          "plays": 8490,
+          "playsText": "播放次數：8490",
           "duration": 151,
           "byOther": false,
           "nameKey": "都是你的錯",
@@ -5478,8 +5609,8 @@
           "title": "誰願放手/光年 (Trance Mix)",
           "artists": "陳慧琳",
           "videoId": "nD-sdmHj8Do",
-          "plays": 7799,
-          "playsText": "播放次數：7799",
+          "plays": 7795,
+          "playsText": "播放次數：7795",
           "duration": 190,
           "byOther": false,
           "nameKey": "誰願放手光年"
@@ -5530,8 +5661,8 @@
           "title": "唔關你事 (High Energy Mix)",
           "artists": "陳慧琳",
           "videoId": "GQsEEMXmFmY",
-          "plays": 8163,
-          "playsText": "播放次數：8163",
+          "plays": 8170,
+          "playsText": "播放次數：8170",
           "duration": 184,
           "byOther": false,
           "nameKey": "唔關你事",
@@ -5653,7 +5784,10 @@
           "duration": 231,
           "byOther": false,
           "credits": {
-            "music": "10th"
+            "lyrics": "林奕華",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "喂有人在嗎"
         },
@@ -5703,7 +5837,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "黃偉文",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "渾身是愛"
         },
@@ -5791,8 +5927,8 @@
           "title": "希治閣劇場",
           "artists": "",
           "videoId": "qGFz2qhYfhE",
-          "plays": 5091,
-          "playsText": "播放次數：5091",
+          "plays": 5092,
+          "playsText": "播放次數：5092",
           "duration": 217,
           "byOther": false,
           "nameKey": "希治閣劇場"
@@ -5861,8 +5997,8 @@
           "title": "New Song",
           "artists": "",
           "videoId": "Y3DZpWse_b4",
-          "plays": 4948,
-          "playsText": "播放次數：4948",
+          "plays": 4950,
+          "playsText": "播放次數：4950",
           "duration": 294,
           "byOther": false,
           "nameKey": "newsong"
@@ -6154,8 +6290,8 @@
           "title": "飛吧 (House Version)",
           "artists": "",
           "videoId": "tFCx8ktEK6k",
-          "plays": 1021,
-          "playsText": "播放次數：1021",
+          "plays": 1025,
+          "playsText": "播放次數：1025",
           "duration": 225,
           "byOther": false,
           "credits": {
@@ -6172,8 +6308,8 @@
           "title": "飛吧 (Techno Version)",
           "artists": "",
           "videoId": "q3tBw4LWj7E",
-          "plays": 643,
-          "playsText": "播放次數：643",
+          "plays": 646,
+          "playsText": "播放次數：646",
           "duration": 311,
           "byOther": false,
           "credits": {
@@ -6225,8 +6361,8 @@
           "title": "好地方",
           "artists": "",
           "videoId": "rBkdf4T2XgM",
-          "plays": 5058,
-          "playsText": "播放次數：5058",
+          "plays": 5063,
+          "playsText": "播放次數：5063",
           "duration": 292,
           "byOther": false,
           "credits": {
@@ -6276,12 +6412,15 @@
           "title": "飛吧",
           "artists": "",
           "videoId": "xbsxYS-RGjQ",
-          "plays": 5178,
-          "playsText": "播放次數：5178",
+          "plays": 5179,
+          "playsText": "播放次數：5179",
           "duration": 257,
           "byOther": false,
           "credits": {
-            "music": "14th"
+            "lyrics": "易家揚",
+            "music": "尹尚",
+            "arranger": "尹日尚",
+            "producer": "王培榮、尹日尚"
           },
           "nameKey": "飛吧",
           "mv": "ZqfV6CFJyPs"
@@ -6394,8 +6533,8 @@
           "title": "朝のヒカリ",
           "artists": "",
           "videoId": "i9PnRdo5iFA",
-          "plays": 2961,
-          "playsText": "播放次數：2961",
+          "plays": 2963,
+          "playsText": "播放次數：2963",
           "duration": 263,
           "byOther": false,
           "nameKey": "朝のヒカリ"
@@ -6405,8 +6544,8 @@
           "title": "あかいピストル",
           "artists": "",
           "videoId": "KYNFyOcdwaE",
-          "plays": 1371,
-          "playsText": "播放次數：1371",
+          "plays": 1373,
+          "playsText": "播放次數：1373",
           "duration": 315,
           "byOther": false,
           "nameKey": "あかいピストル"
@@ -6431,8 +6570,8 @@
           "title": "あなたを嫌いになる方法",
           "artists": "",
           "videoId": "4bL5zYAYGe8",
-          "plays": 2187,
-          "playsText": "播放次數：2187",
+          "plays": 2190,
+          "playsText": "播放次數：2190",
           "duration": 330,
           "byOther": false,
           "nameKey": "あなたを嫌いになる方法"
@@ -6442,8 +6581,8 @@
           "title": "ラフレシア - Rafflesia",
           "artists": "",
           "videoId": "PS1Q8edBvM4",
-          "plays": 974,
-          "playsText": "播放次數：974",
+          "plays": 976,
+          "playsText": "播放次數：976",
           "duration": 270,
           "byOther": false,
           "nameKey": "ラフレシア"
@@ -6453,8 +6592,8 @@
           "title": "ドウシテモ。",
           "artists": "",
           "videoId": "OyHPHpRR3ms",
-          "plays": 1026,
-          "playsText": "播放次數：1026",
+          "plays": 1027,
+          "playsText": "播放次數：1027",
           "duration": 218,
           "byOther": false,
           "nameKey": "ドウシテモ"
@@ -6464,8 +6603,8 @@
           "title": "Transformation",
           "artists": "",
           "videoId": "WWrXHL2RwrQ",
-          "plays": 1323,
-          "playsText": "播放次數：1323",
+          "plays": 1327,
+          "playsText": "播放次數：1327",
           "duration": 275,
           "byOther": false,
           "nameKey": "transformation"
@@ -6497,8 +6636,8 @@
           "title": "風のParade",
           "artists": "",
           "videoId": "kyCH5COIFZM",
-          "plays": 1218,
-          "playsText": "播放次數：1218",
+          "plays": 1220,
+          "playsText": "播放次數：1220",
           "duration": 349,
           "byOther": false,
           "nameKey": "風のparade"
@@ -6843,8 +6982,8 @@
           "title": "無賴",
           "artists": "",
           "videoId": "sE6zvTBa2l8",
-          "plays": 3029,
-          "playsText": "播放次數：3029",
+          "plays": 3031,
+          "playsText": "播放次數：3031",
           "duration": 243,
           "byOther": false,
           "credits": {
@@ -6860,8 +6999,8 @@
           "title": "想再見到你",
           "artists": "",
           "videoId": "pk2m7vZzYzI",
-          "plays": 2555,
-          "playsText": "播放次數：2555",
+          "plays": 2557,
+          "playsText": "播放次數：2557",
           "duration": 223,
           "byOther": false,
           "credits": {
@@ -7001,7 +7140,10 @@
           "duration": 218,
           "byOther": false,
           "credits": {
-            "music": "17th"
+            "lyrics": "姚謙",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "愛情來了",
           "mv": "Q4v3YNhFaI8"
@@ -7075,7 +7217,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "林夕",
-            "music": "伍樂城"
+            "music": "伍樂城",
+            "arranger": "伍樂城",
+            "producer": "伍樂城"
           },
           "nameKey": "薰衣草"
         },
@@ -7090,8 +7234,10 @@
           "byOther": false,
           "titleZh": "Lover's Concerto (電影《安娜瑪德蓮娜》插曲)",
           "credits": {
-            "lyrics": "Linzer Randall",
-            "music": "Linzer Randall"
+            "lyrics": "Denny Randell",
+            "music": "Sandy Linzer",
+            "arranger": "趙增熹",
+            "producer": "趙增熹"
           },
           "titleZhVariant": true,
           "nameKey": "loversconcerto"
@@ -7117,8 +7263,10 @@
           "duration": 265,
           "byOther": false,
           "credits": {
-            "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "lyrics": "李姚",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "一切很美只因有你"
         },
@@ -7176,7 +7324,10 @@
           "duration": 269,
           "byOther": false,
           "credits": {
-            "music": "18th"
+            "lyrics": "林夕",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "走在前面"
         },
@@ -7238,7 +7389,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         },
@@ -7343,8 +7496,8 @@
           "title": "藍女子",
           "artists": "陳慧琳",
           "videoId": "VKchC-H0BEQ",
-          "plays": 615,
-          "playsText": "播放次數：615",
+          "plays": 617,
+          "playsText": "播放次數：617",
           "duration": 251,
           "byOther": false,
           "nameKey": "藍女子"
@@ -7425,8 +7578,8 @@
           "title": "千手千尋",
           "artists": "",
           "videoId": "VZsjjg8hMUg",
-          "plays": 3759,
-          "playsText": "播放次數：3759",
+          "plays": 3760,
+          "playsText": "播放次數：3760",
           "duration": 227,
           "byOther": false,
           "credits": {
@@ -7493,8 +7646,8 @@
           "title": "想當你親人",
           "artists": "",
           "videoId": "h4GYhpveg-s",
-          "plays": 2362,
-          "playsText": "播放次數：2362",
+          "plays": 2363,
+          "playsText": "播放次數：2363",
           "duration": 234,
           "byOther": false,
           "credits": {
@@ -7510,8 +7663,8 @@
           "title": "巨人",
           "artists": "",
           "videoId": "5956AT7-eh0",
-          "plays": 2111,
-          "playsText": "播放次數：2111",
+          "plays": 2112,
+          "playsText": "播放次數：2112",
           "duration": 161,
           "byOther": false,
           "credits": {
@@ -7888,7 +8041,10 @@
           "duration": 257,
           "byOther": false,
           "credits": {
-            "music": "14th"
+            "lyrics": "易家揚",
+            "music": "尹尚",
+            "arranger": "尹日尚",
+            "producer": "王培榮、尹日尚"
           },
           "nameKey": "飛吧",
           "mv": "ZqfV6CFJyPs"
@@ -7966,7 +8122,10 @@
           "duration": 275,
           "byOther": false,
           "credits": {
-            "music": "3rd"
+            "lyrics": "黃偉文",
+            "music": "雷頌德",
+            "arranger": "Dry",
+            "producer": "雷頌德"
           },
           "nameKey": "紀念日",
           "mv": "8nRws3NCdBk"
@@ -7982,7 +8141,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "林夕",
-            "music": "伍樂城"
+            "music": "伍樂城",
+            "arranger": "伍樂城",
+            "producer": "伍樂城"
           },
           "nameKey": "薰衣草"
         },
@@ -8152,8 +8313,8 @@
           "title": "邱比特笑了",
           "artists": "陳慧琳",
           "videoId": "H7lJaG97xsw",
-          "plays": 4802,
-          "playsText": "播放次數：4802",
+          "plays": 4801,
+          "playsText": "播放次數：4801",
           "duration": 201,
           "byOther": false,
           "credits": {
@@ -8488,8 +8649,8 @@
           "title": "不要保謢我",
           "artists": "陳慧琳",
           "videoId": "G0lQwC9-uZc",
-          "plays": 4908,
-          "playsText": "播放次數：4908",
+          "plays": 4909,
+          "playsText": "播放次數：4909",
           "duration": 197,
           "byOther": false,
           "credits": {
@@ -9201,8 +9362,8 @@
           "title": "以退為進",
           "artists": "",
           "videoId": "jIMpW9OFvSo",
-          "plays": 3135,
-          "playsText": "播放次數：3135",
+          "plays": 3136,
+          "playsText": "播放次數：3136",
           "duration": 169,
           "byOther": false,
           "nameKey": "以退為進"
@@ -9288,8 +9449,8 @@
           "title": "糖衣與巧克力(國)",
           "artists": "陳慧琳",
           "videoId": "Yw2Jb8e8Oow",
-          "plays": 2806,
-          "playsText": "播放次數：2806",
+          "plays": 2807,
+          "playsText": "播放次數：2807",
           "duration": 232,
           "byOther": false,
           "nameKey": "糖衣與巧克力"
@@ -9374,8 +9535,8 @@
           "title": "思念(國)",
           "artists": "陳慧琳",
           "videoId": "CnjR3Wvc_3o",
-          "plays": 3842,
-          "playsText": "播放次數：3842",
+          "plays": 3843,
+          "playsText": "播放次數：3843",
           "duration": 214,
           "byOther": false,
           "credits": {
@@ -9418,8 +9579,8 @@
           "title": "Opening (Live in Hong Kong / 2005)",
           "artists": "",
           "videoId": "8TgeykVHr5M",
-          "plays": 4540,
-          "playsText": "播放次數：4540",
+          "plays": 4541,
+          "playsText": "播放次數：4541",
           "duration": 153,
           "byOther": false,
           "nameKey": "opening#live"
@@ -9433,6 +9594,12 @@
           "playsText": "播放次數：5772",
           "duration": 253,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃偉文",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "phone殺令#live"
         },
         {
@@ -9458,10 +9625,16 @@
           "title": "她比我醜 (Live in Hong Kong / 2005)",
           "artists": "",
           "videoId": "a_pEcbOEXFo",
-          "plays": 9664,
-          "playsText": "播放次數：9664",
+          "plays": 9663,
+          "playsText": "播放次數：9663",
           "duration": 231,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "雷頌德",
+            "arranger": "Ted Lo",
+            "producer": "雷頌德"
+          },
           "nameKey": "她比我醜#live"
         },
         {
@@ -9469,10 +9642,16 @@
           "title": "對不起不是你 (Live in Hong Kong / 2005  )",
           "artists": "",
           "videoId": "RfLXmByj2tU",
-          "plays": 6040,
-          "playsText": "播放次數：6040",
+          "plays": 6043,
+          "playsText": "播放次數：6043",
           "duration": 205,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃偉文",
+            "music": "吳國敬、孫偉明",
+            "arranger": "吳國敬、孫偉明",
+            "producer": "吳國敬"
+          },
           "nameKey": "對不起不是你#live"
         },
         {
@@ -9484,6 +9663,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 412,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃偉文",
+            "music": "馮穎琪",
+            "arranger": "Billy Chan",
+            "producer": "Gary Chan"
+          },
           "nameKey": "最佳位置#live"
         },
         {
@@ -9495,6 +9680,12 @@
           "playsText": "播放次數：3888",
           "duration": 215,
           "byOther": false,
+          "credits": {
+            "lyrics": "周耀輝",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "眞感覺#live",
           "mv": "41e8Do4xFms"
         },
@@ -9507,11 +9698,13 @@
           "playsText": "播放次數：2711",
           "duration": 165,
           "byOther": false,
-          "nameKey": "一切很美只因有你#live",
           "credits": {
-            "lyrics": "周禮茂",
-            "music": "雷頌德"
-          }
+            "lyrics": "李姚",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
+          "nameKey": "一切很美只因有你#live"
         },
         {
           "index": 9,
@@ -9533,6 +9726,12 @@
           "playsText": "播放次數：2801",
           "duration": 274,
           "byOther": false,
+          "credits": {
+            "lyrics": "甄健強",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "隨身聽#live",
           "mv": "_OBuFB4J16M"
         },
@@ -9541,10 +9740,16 @@
           "title": "戀愛神經 (Live in Hong Kong / 2005  )",
           "artists": "",
           "videoId": "GE52XJajk3U",
-          "plays": 2726,
-          "playsText": "播放次數：2726",
+          "plays": 2727,
+          "playsText": "播放次數：2727",
           "duration": 249,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "戀愛神經#live"
         },
         {
@@ -9556,6 +9761,12 @@
           "playsText": "播放次數：2570",
           "duration": 198,
           "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "醉迷情人#live"
         },
         {
@@ -9567,6 +9778,12 @@
           "playsText": "播放次數：2226",
           "duration": 243,
           "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "風花雪#live"
         },
         {
@@ -9586,8 +9803,8 @@
           "title": "劃出彩虹 (Live in Hong Kong / 2005  )",
           "artists": "",
           "videoId": "8JofUaprWJI",
-          "plays": 2071,
-          "playsText": "播放次數：2071",
+          "plays": 2073,
+          "playsText": "播放次數：2073",
           "duration": 191,
           "byOther": false,
           "nameKey": "劃出彩虹#live"
@@ -9625,8 +9842,10 @@
           "byOther": false,
           "titleZh": "Lover's Concerto (電影《安娜瑪德蓮娜》插曲) (Live)",
           "credits": {
-            "lyrics": "Linzer Randall",
-            "music": "Linzer Randall"
+            "lyrics": "Denny Randell",
+            "music": "Sandy Linzer",
+            "arranger": "趙增熹",
+            "producer": "趙增熹"
           },
           "nameKey": "loversconcerto#live"
         },
@@ -9657,8 +9876,8 @@
           "title": "有福氣 (Live in Hong Kong / 2005  )",
           "artists": "",
           "videoId": "IQcAVau2VgA",
-          "plays": 5176,
-          "playsText": "播放次數：5176",
+          "plays": 5177,
+          "playsText": "播放次數：5177",
           "duration": 193,
           "byOther": false,
           "nameKey": "有福氣#live"
@@ -9684,6 +9903,12 @@
           "playsText": "播放次數：3208",
           "duration": 224,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "伍樂城",
+            "arranger": "伍樂城",
+            "producer": "伍樂城"
+          },
           "nameKey": "薰衣草#live"
         },
         {
@@ -9695,6 +9920,10 @@
           "playsText": "播放次數：4024",
           "duration": 243,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Joon Young Choi、Gi Hun Lim、J K Lee"
+          },
           "nameKey": "伶仃#live"
         },
         {
@@ -9718,6 +9947,12 @@
           "playsText": "播放次數：6.5萬",
           "duration": 188,
           "byOther": false,
+          "credits": {
+            "lyrics": "阮世生",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "誰願放手#live"
         },
         {
@@ -9729,6 +9964,12 @@
           "playsText": "播放次數：1.2萬",
           "duration": 312,
           "byOther": false,
+          "credits": {
+            "lyrics": "厲曼婷",
+            "music": "吳國敬",
+            "arranger": "吳國敬、孫偉明",
+            "producer": "吳國敬"
+          },
           "nameKey": "對你太在乎#live"
         },
         {
@@ -9807,6 +10048,12 @@
           "playsText": "播放次數：6675",
           "duration": 183,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "戀愛情色#live"
         },
         {
@@ -9951,8 +10198,8 @@
           "title": "寶萊塢生死戀",
           "artists": "",
           "videoId": "NIrkh5_LtBQ",
-          "plays": 2898,
-          "playsText": "播放次數：2898",
+          "plays": 2900,
+          "playsText": "播放次數：2900",
           "duration": 206,
           "byOther": false,
           "credits": {
@@ -10172,8 +10419,8 @@
           "title": "疾走羅拉",
           "artists": "",
           "videoId": "sI3_E_YmTI8",
-          "plays": 5215,
-          "playsText": "播放次數：5215",
+          "plays": 5216,
+          "playsText": "播放次數：5216",
           "duration": 219,
           "byOther": false,
           "nameKey": "疾走羅拉"
@@ -10285,7 +10532,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         },
@@ -10456,8 +10705,10 @@
           "byOther": false,
           "titleZh": "Lover's Concerto (電影《安娜瑪德蓮娜》插曲)",
           "credits": {
-            "lyrics": "Linzer Randall",
-            "music": "Linzer Randall"
+            "lyrics": "Denny Randell",
+            "music": "Sandy Linzer",
+            "arranger": "趙增熹",
+            "producer": "趙增熹"
           },
           "titleZhVariant": true,
           "nameKey": "loversconcerto"
@@ -10484,7 +10735,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "林夕",
-            "music": "伍樂城"
+            "music": "伍樂城",
+            "arranger": "伍樂城",
+            "producer": "伍樂城"
           },
           "nameKey": "薰衣草"
         },
@@ -10708,8 +10961,10 @@
           "duration": 192,
           "byOther": false,
           "credits": {
-            "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "lyrics": "李姚",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "一切很美只因有你"
         },
@@ -10740,7 +10995,10 @@
           "duration": 286,
           "byOther": false,
           "credits": {
-            "music": "5th"
+            "lyrics": "黃桂蘭",
+            "music": "雷頌德",
+            "arranger": "江建民",
+            "producer": "林隆璇"
           },
           "nameKey": "製造浪漫"
         },
@@ -11207,6 +11465,12 @@
           "playsText": "播放次數：1058",
           "duration": 208,
           "byOther": false,
+          "credits": {
+            "lyrics": "方傑",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "毫無保留#live"
         },
         {
@@ -11214,10 +11478,16 @@
           "title": "Phone殺令 (Live)",
           "artists": "",
           "videoId": "tSiLhtXy8iY",
-          "plays": 1757,
-          "playsText": "播放次數：1757",
+          "plays": 1758,
+          "playsText": "播放次數：1758",
           "duration": 373,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃偉文",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "phone殺令#live"
         },
         {
@@ -11225,10 +11495,14 @@
           "title": "伶仃 (Live)",
           "artists": "",
           "videoId": "mQrPgJLdf60",
-          "plays": 3261,
-          "playsText": "播放次數：3261",
+          "plays": 3262,
+          "playsText": "播放次數：3262",
           "duration": 243,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Joon Young Choi、Gi Hun Lim、J K Lee"
+          },
           "nameKey": "伶仃#live"
         },
         {
@@ -11262,6 +11536,12 @@
           "playsText": "播放次數：958",
           "duration": 173,
           "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "醉迷情人#live"
         },
         {
@@ -11288,8 +11568,8 @@
           "title": "點解你係咁 (Live)",
           "artists": "",
           "videoId": "6_Kk_Z6UgK0",
-          "plays": 1069,
-          "playsText": "播放次數：1069",
+          "plays": 1072,
+          "playsText": "播放次數：1072",
           "duration": 156,
           "byOther": false,
           "nameKey": "點解你係咁#live"
@@ -11310,8 +11590,8 @@
           "title": "抱歉柯德莉夏萍 (Live)",
           "artists": "",
           "videoId": "6_PoRdlMW5U",
-          "plays": 1069,
-          "playsText": "播放次數：1069",
+          "plays": 1070,
+          "playsText": "播放次數：1070",
           "duration": 238,
           "byOther": false,
           "nameKey": "抱歉柯德莉夏萍#live"
@@ -11321,8 +11601,8 @@
           "title": "驢皮公主Prelude (Live)",
           "artists": "",
           "videoId": "i-Ws7zlNNes",
-          "plays": 588,
-          "playsText": "播放次數：588",
+          "plays": 589,
+          "playsText": "播放次數：589",
           "duration": 135,
           "byOther": false,
           "nameKey": "驢皮公主prelude#live"
@@ -11336,6 +11616,12 @@
           "playsText": "播放次數：3.4萬",
           "duration": 212,
           "byOther": false,
+          "credits": {
+            "lyrics": "周耀輝",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "眞感覺#live",
           "mv": "41e8Do4xFms"
         },
@@ -11355,10 +11641,14 @@
           "title": "希望 (Live)",
           "artists": "",
           "videoId": "nLLs4fnEDUg",
-          "plays": 1348,
-          "playsText": "播放次數：1348",
+          "plays": 1349,
+          "playsText": "播放次數：1349",
           "duration": 295,
           "byOther": false,
+          "credits": {
+            "lyrics": "鄭櫻綸",
+            "music": "任世現"
+          },
           "nameKey": "希望#live"
         },
         {
@@ -11366,23 +11656,25 @@
           "title": "一切很美只因有你 (Live)",
           "artists": "",
           "videoId": "dT1xpXl1Ffw",
-          "plays": 2855,
-          "playsText": "播放次數：2855",
+          "plays": 2856,
+          "playsText": "播放次數：2856",
           "duration": 362,
           "byOther": false,
-          "nameKey": "一切很美只因有你#live",
           "credits": {
-            "lyrics": "周禮茂",
-            "music": "雷頌德"
-          }
+            "lyrics": "李姚",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
+          "nameKey": "一切很美只因有你#live"
         },
         {
           "index": 18,
           "title": "尼羅河Prelude (Live)",
           "artists": "",
           "videoId": "ypOzhnMDcv0",
-          "plays": 556,
-          "playsText": "播放次數：556",
+          "plays": 557,
+          "playsText": "播放次數：557",
           "duration": 141,
           "byOther": false,
           "nameKey": "尼羅河prelude#live"
@@ -11392,10 +11684,16 @@
           "title": "隨身聽 (Live)",
           "artists": "",
           "videoId": "JdOUYVu71aU",
-          "plays": 972,
-          "playsText": "播放次數：972",
+          "plays": 973,
+          "playsText": "播放次數：973",
           "duration": 263,
           "byOther": false,
+          "credits": {
+            "lyrics": "甄健強",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "隨身聽#live",
           "mv": "_OBuFB4J16M"
         },
@@ -11404,10 +11702,16 @@
           "title": "戀愛神經 (Live)",
           "artists": "",
           "videoId": "6aEROUqqnl0",
-          "plays": 1769,
-          "playsText": "播放次數：1769",
+          "plays": 1771,
+          "playsText": "播放次數：1771",
           "duration": 216,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "戀愛神經#live"
         },
         {
@@ -11415,8 +11719,8 @@
           "title": "Don't Stop (Live)",
           "artists": "",
           "videoId": "7mMWqgGpY_4",
-          "plays": 768,
-          "playsText": "播放次數：768",
+          "plays": 769,
+          "playsText": "播放次數：769",
           "duration": 329,
           "byOther": false,
           "nameKey": "dontstop#live"
@@ -11426,10 +11730,16 @@
           "title": "唔關你事 (Live)",
           "artists": "",
           "videoId": "BqwsC1xq1sg",
-          "plays": 977,
-          "playsText": "播放次數：977",
+          "plays": 980,
+          "playsText": "播放次數：980",
           "duration": 186,
           "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "唔關你事#live"
         },
         {
@@ -11437,8 +11747,8 @@
           "title": "人魚Prelude (Live)",
           "artists": "",
           "videoId": "9dgBlBA1NNc",
-          "plays": 312,
-          "playsText": "播放次數：312",
+          "plays": 313,
+          "playsText": "播放次數：313",
           "duration": 79,
           "byOther": false,
           "nameKey": "人魚prelude#live"
@@ -11452,6 +11762,12 @@
           "playsText": "播放次數：11萬",
           "duration": 234,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "伍樂城",
+            "arranger": "伍樂城",
+            "producer": "伍樂城"
+          },
           "nameKey": "薰衣草#live"
         },
         {
@@ -11459,8 +11775,8 @@
           "title": "最好給最好 (Live)",
           "artists": "",
           "videoId": "p6Dj7OLgnB8",
-          "plays": 1343,
-          "playsText": "播放次數：1343",
+          "plays": 1345,
+          "playsText": "播放次數：1345",
           "duration": 384,
           "byOther": false,
           "nameKey": "最好給最好#live"
@@ -11470,10 +11786,16 @@
           "title": "風花雪 (Live)",
           "artists": "",
           "videoId": "QFEES0Qz02o",
-          "plays": 922,
-          "playsText": "播放次數：922",
+          "plays": 924,
+          "playsText": "播放次數：924",
           "duration": 378,
           "byOther": false,
+          "credits": {
+            "lyrics": "周禮茂",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "風花雪#live"
         },
         {
@@ -11485,6 +11807,12 @@
           "playsText": "播放次數：3.4萬",
           "duration": 209,
           "byOther": false,
+          "credits": {
+            "lyrics": "阮世生",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "誰願放手#live"
         },
         {
@@ -11492,8 +11820,8 @@
           "title": "Dancing Universe Prelude (Live)",
           "artists": "",
           "videoId": "r3CC17nCczE",
-          "plays": 348,
-          "playsText": "播放次數：348",
+          "plays": 349,
+          "playsText": "播放次數：349",
           "duration": 24,
           "byOther": false,
           "nameKey": "dancinguniverseprelude#live"
@@ -11503,10 +11831,16 @@
           "title": "戀愛情色 (Live)",
           "artists": "",
           "videoId": "R6tf47sMrWg",
-          "plays": 1730,
-          "playsText": "播放次數：1730",
+          "plays": 1731,
+          "playsText": "播放次數：1731",
           "duration": 194,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
+          },
           "nameKey": "戀愛情色#live"
         },
         {
@@ -11514,8 +11848,8 @@
           "title": "大日子 (Live)",
           "artists": "",
           "videoId": "NTwhkLjJSrI",
-          "plays": 2090,
-          "playsText": "播放次數：2090",
+          "plays": 2091,
+          "playsText": "播放次數：2091",
           "duration": 566,
           "byOther": false,
           "nameKey": "大日子#live",
@@ -11526,8 +11860,8 @@
           "title": "花花宇宙 (Live)",
           "artists": "",
           "videoId": "-gLxODDbfyg",
-          "plays": 4113,
-          "playsText": "播放次數：4113",
+          "plays": 4114,
+          "playsText": "播放次數：4114",
           "duration": 233,
           "byOther": false,
           "nameKey": "花花宇宙#live",
@@ -11538,8 +11872,8 @@
           "title": "失憶週未 (Live)",
           "artists": "",
           "videoId": "sn0xCiPt8JI",
-          "plays": 977,
-          "playsText": "播放次數：977",
+          "plays": 978,
+          "playsText": "播放次數：978",
           "duration": 201,
           "byOther": false,
           "nameKey": "失憶週未#live"
@@ -11549,8 +11883,8 @@
           "title": "1st Encore (Live)",
           "artists": "",
           "videoId": "3fGtIlznkNg",
-          "plays": 312,
-          "playsText": "播放次數：312",
+          "plays": 313,
+          "playsText": "播放次數：313",
           "duration": 78,
           "byOther": false,
           "nameKey": "1stencore#live"
@@ -11564,6 +11898,12 @@
           "playsText": "播放次數：2.5萬",
           "duration": 239,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃偉文",
+            "music": "馮穎琪",
+            "arranger": "Billy Chan",
+            "producer": "Gary Chan"
+          },
           "nameKey": "最佳位置#live"
         },
         {
@@ -11571,10 +11911,16 @@
           "title": "對你太在乎 (Live)",
           "artists": "",
           "videoId": "GrvDrFI8d1w",
-          "plays": 1115,
-          "playsText": "播放次數：1115",
+          "plays": 1116,
+          "playsText": "播放次數：1116",
           "duration": 514,
           "byOther": false,
+          "credits": {
+            "lyrics": "厲曼婷",
+            "music": "吳國敬",
+            "arranger": "吳國敬、孫偉明",
+            "producer": "吳國敬"
+          },
           "nameKey": "對你太在乎#live"
         },
         {
@@ -11582,8 +11928,8 @@
           "title": "最愛演唱會 (Live)",
           "artists": "",
           "videoId": "nBBfW6hdjg8",
-          "plays": 1915,
-          "playsText": "播放次數：1915",
+          "plays": 1916,
+          "playsText": "播放次數：1916",
           "duration": 356,
           "byOther": false,
           "nameKey": "最愛演唱會#live",
@@ -11594,8 +11940,8 @@
           "title": "2nd Encore (Live)",
           "artists": "",
           "videoId": "0kfckWr76QA",
-          "plays": 285,
-          "playsText": "播放次數：285",
+          "plays": 286,
+          "playsText": "播放次數：286",
           "duration": 16,
           "byOther": false,
           "nameKey": "2ndencore#live"
@@ -11605,8 +11951,8 @@
           "title": "紙醉金迷 (Live)",
           "artists": "",
           "videoId": "T0X7Uw2iMdk",
-          "plays": 932,
-          "playsText": "播放次數：932",
+          "plays": 933,
+          "playsText": "播放次數：933",
           "duration": 302,
           "byOther": false,
           "nameKey": "紙醉金迷#live"
@@ -11616,8 +11962,8 @@
           "title": "大日子 (Live / Encore Version)",
           "artists": "",
           "videoId": "GCAeNbg95qY",
-          "plays": 744,
-          "playsText": "播放次數：744",
+          "plays": 745,
+          "playsText": "播放次數：745",
           "duration": 238,
           "byOther": false,
           "nameKey": "大日子#live",
@@ -11628,8 +11974,8 @@
           "title": "花花宇宙 (Live / Encore Version)",
           "artists": "",
           "videoId": "_-R6BGsYFBE",
-          "plays": 1762,
-          "playsText": "播放次數：1762",
+          "plays": 1763,
+          "playsText": "播放次數：1763",
           "duration": 230,
           "byOther": false,
           "nameKey": "花花宇宙#live",
@@ -11640,8 +11986,8 @@
           "title": "失憶週未 (Live / Encore Version)",
           "artists": "",
           "videoId": "TaCNhjMtMhc",
-          "plays": 769,
-          "playsText": "播放次數：769",
+          "plays": 770,
+          "playsText": "播放次數：770",
           "duration": 335,
           "byOther": false,
           "nameKey": "失憶週未#live"
@@ -11651,13 +11997,15 @@
           "title": "一切很美只因有你 (Live / Encore Version)",
           "artists": "",
           "videoId": "nOX-IDLXiSI",
-          "plays": 700,
-          "playsText": "播放次數：700",
+          "plays": 701,
+          "playsText": "播放次數：701",
           "duration": 205,
           "byOther": false,
           "credits": {
-            "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "lyrics": "李姚",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "一切很美只因有你#live"
         }
@@ -11777,8 +12125,8 @@
           "title": "愛的學校(國)",
           "artists": "陳慧琳",
           "videoId": "kuKnob4SYSY",
-          "plays": 9373,
-          "playsText": "播放次數：9373",
+          "plays": 9374,
+          "playsText": "播放次數：9374",
           "duration": 251,
           "byOther": false,
           "nameKey": "愛的學校"
@@ -11810,8 +12158,8 @@
           "title": "現在進行式(國)",
           "artists": "陳慧琳",
           "videoId": "de2m4kX40_U",
-          "plays": 4517,
-          "playsText": "播放次數：4517",
+          "plays": 4518,
+          "playsText": "播放次數：4518",
           "duration": 230,
           "byOther": false,
           "nameKey": "現在進行式"
@@ -11866,7 +12214,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "林夕",
-            "music": "謝霆鋒"
+            "music": "謝霆鋒",
+            "arranger": "Gary Chan",
+            "producer": "Gary Chan"
           },
           "nameKey": "假天眞",
           "mv": "cXnhJQEW6oc"
@@ -11952,8 +12302,10 @@
           "byOther": false,
           "titleZh": "Lover's Concerto (電影《安娜瑪德蓮娜》插曲)",
           "credits": {
-            "lyrics": "Linzer Randall",
-            "music": "Linzer Randall"
+            "lyrics": "Denny Randell",
+            "music": "Sandy Linzer",
+            "arranger": "趙增熹",
+            "producer": "趙增熹"
           },
           "titleZhVariant": true,
           "nameKey": "loversconcerto"
@@ -12018,7 +12370,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         },
@@ -12033,7 +12387,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "潘源良",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "開始"
         },
@@ -12048,7 +12404,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "何慶遠",
-            "music": "陳偉"
+            "music": "陳偉",
+            "arranger": "陳偉、李伯傑",
+            "producer": "陳偉"
           },
           "nameKey": "愛我不愛"
         },
@@ -12203,7 +12561,10 @@
           "duration": 285,
           "byOther": false,
           "credits": {
-            "music": "5th"
+            "lyrics": "黃桂蘭",
+            "music": "雷頌德",
+            "arranger": "江建民",
+            "producer": "林隆璇"
           },
           "nameKey": "製造浪漫"
         },
@@ -12376,7 +12737,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "李子恆",
-            "music": "李子恆"
+            "music": "李子恆",
+            "arranger": "鍾興民",
+            "producer": "李子恆"
           },
           "nameKey": "我不以為"
         }
@@ -12853,8 +13216,8 @@
           "title": "Overture",
           "artists": "陳慧琳",
           "videoId": "esGRYaauM6k",
-          "plays": 1928,
-          "playsText": "播放次數：1928",
+          "plays": 1929,
+          "playsText": "播放次數：1929",
           "duration": 65,
           "byOther": false,
           "nameKey": "overture"
@@ -12864,8 +13227,8 @@
           "title": "隨身聽",
           "artists": "陳慧琳",
           "videoId": "AkZCpsTOXDI",
-          "plays": 5890,
-          "playsText": "播放次數：5890",
+          "plays": 5893,
+          "playsText": "播放次數：5893",
           "duration": 296,
           "byOther": false,
           "credits": {
@@ -12934,8 +13297,8 @@
           "title": "最愛演唱會",
           "artists": "陳慧琳",
           "videoId": "e6czriiBfQ0",
-          "plays": 5918,
-          "playsText": "播放次數：5918",
+          "plays": 5920,
+          "playsText": "播放次數：5920",
           "duration": 315,
           "byOther": false,
           "nameKey": "最愛演唱會#live",
@@ -12946,8 +13309,8 @@
           "title": "星夢情真",
           "artists": "陳慧琳",
           "videoId": "UGJbT4my6_4",
-          "plays": 2461,
-          "playsText": "播放次數：2461",
+          "plays": 2462,
+          "playsText": "播放次數：2462",
           "duration": 349,
           "byOther": false,
           "nameKey": "星夢情眞",
@@ -12964,7 +13327,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "風花雪",
           "mv": "0AAHE-aH8g0"
@@ -12980,7 +13345,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "林夕",
-            "music": "伍樂城"
+            "music": "伍樂城",
+            "arranger": "伍樂城",
+            "producer": "伍樂城"
           },
           "nameKey": "薰衣草"
         },
@@ -13147,8 +13514,8 @@
           "title": "勁歌金曲Medley",
           "artists": "陳慧琳",
           "videoId": "cyQG3h1hqnI",
-          "plays": 3590,
-          "playsText": "播放次數：3590",
+          "plays": 3592,
+          "playsText": "播放次數：3592",
           "duration": 997,
           "byOther": false,
           "nameKey": "勁歌金曲medley"
@@ -13187,8 +13554,8 @@
           "title": "花花宇宙",
           "artists": "陳慧琳",
           "videoId": "IBDnEeCDZKA",
-          "plays": 5056,
-          "playsText": "播放次數：5056",
+          "plays": 5063,
+          "playsText": "播放次數：5063",
           "duration": 212,
           "byOther": false,
           "nameKey": "花花宇宙",
@@ -13216,8 +13583,10 @@
           "duration": 427,
           "byOther": false,
           "credits": {
-            "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "lyrics": "李姚",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "一切很美只因有你"
         },
@@ -13267,7 +13636,10 @@
           "duration": 293,
           "byOther": false,
           "credits": {
-            "music": "3rd"
+            "lyrics": "黃偉文",
+            "music": "雷頌德",
+            "arranger": "Dry",
+            "producer": "雷頌德"
           },
           "nameKey": "紀念日",
           "mv": "8nRws3NCdBk"
@@ -13588,7 +13960,10 @@
           "duration": 286,
           "byOther": false,
           "credits": {
-            "music": "5th"
+            "lyrics": "黃桂蘭",
+            "music": "雷頌德",
+            "arranger": "江建民",
+            "producer": "林隆璇"
           },
           "nameKey": "製造浪漫"
         },
@@ -13979,7 +14354,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         }
@@ -14090,8 +14467,8 @@
           "title": "愛しさの中で",
           "artists": "",
           "videoId": "ifmvna94cvQ",
-          "plays": 2712,
-          "playsText": "播放次數：2712",
+          "plays": 2713,
+          "playsText": "播放次數：2713",
           "duration": 261,
           "byOther": false,
           "nameKey": "愛しさの中で"
@@ -14358,7 +14735,10 @@
           "duration": 257,
           "byOther": true,
           "credits": {
-            "music": "10th"
+            "lyrics": "林奕華",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "喂有人在嗎"
         },
@@ -14428,8 +14808,8 @@
           "title": "歡迎你來到忘我",
           "artists": "許志安",
           "videoId": "cTtNniVQyLE",
-          "plays": 1393,
-          "playsText": "播放次數：1393",
+          "plays": 1395,
+          "playsText": "播放次數：1395",
           "duration": 190,
           "byOther": true,
           "nameKey": "歡迎你來到忘我"
@@ -14988,7 +15368,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         },
@@ -15254,7 +15636,10 @@
           "duration": 289,
           "byOther": false,
           "credits": {
-            "music": "3rd"
+            "lyrics": "黃偉文",
+            "music": "雷頌德",
+            "arranger": "Dry",
+            "producer": "雷頌德"
           },
           "nameKey": "紀念日",
           "mv": "8nRws3NCdBk"
@@ -15334,8 +15719,8 @@
           "title": "熱熱地飛",
           "artists": "陳慧琳、陳曉東、張柏芝 和 鄭中基",
           "videoId": "o9eRQ4McE7Q",
-          "plays": 5167,
-          "playsText": "播放次數：5167",
+          "plays": 5169,
+          "playsText": "播放次數：5169",
           "duration": 229,
           "byOther": false,
           "nameKey": "熱熱地飛"
@@ -15484,8 +15869,10 @@
           "duration": 184,
           "byOther": false,
           "credits": {
-            "lyrics": "Linzer Randall",
-            "music": "Linzer Randall"
+            "lyrics": "Denny Randell",
+            "music": "Sandy Linzer",
+            "arranger": "趙增熹",
+            "producer": "趙增熹"
           },
           "nameKey": "loversconcerto"
         },
@@ -15499,8 +15886,10 @@
           "duration": 170,
           "byOther": false,
           "credits": {
-            "lyrics": "也文、陳少琪",
-            "music": "Matthew Wilder"
+            "lyrics": "也文",
+            "music": "Matthew Wilder、David Zippel",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "影中我"
         },
@@ -15580,7 +15969,9 @@
           "nameKey": "薰衣草",
           "credits": {
             "lyrics": "林夕",
-            "music": "伍樂城"
+            "music": "伍樂城",
+            "arranger": "伍樂城",
+            "producer": "伍樂城"
           }
         },
         {
@@ -15692,7 +16083,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "李子恆",
-            "music": "李子恆"
+            "music": "李子恆",
+            "arranger": "鍾興民",
+            "producer": "李子恆"
           },
           "nameKey": "我不以為"
         },
@@ -15706,7 +16099,10 @@
           "duration": 287,
           "byOther": false,
           "credits": {
-            "music": "5th"
+            "lyrics": "黃桂蘭",
+            "music": "雷頌德",
+            "arranger": "江建民",
+            "producer": "林隆璇"
           },
           "nameKey": "製造浪漫"
         },
@@ -15720,7 +16116,10 @@
           "duration": 267,
           "byOther": false,
           "credits": {
-            "music": "6th"
+            "lyrics": "黃桂蘭",
+            "music": "林隆璇",
+            "arranger": "屠穎",
+            "producer": "林隆璇"
           },
           "nameKey": "體會",
           "mv": "yD5eOga6Jmk"
@@ -15869,7 +16268,10 @@
           "duration": 221,
           "byOther": false,
           "credits": {
-            "music": "14th"
+            "lyrics": "易家揚",
+            "music": "尹尚",
+            "arranger": "尹日尚",
+            "producer": "王培榮、尹日尚"
           },
           "nameKey": "飛吧",
           "mv": "ZqfV6CFJyPs"
@@ -15884,7 +16286,10 @@
           "duration": 219,
           "byOther": false,
           "credits": {
-            "music": "17th"
+            "lyrics": "姚謙",
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "nameKey": "愛情來了",
           "mv": "Q4v3YNhFaI8"
@@ -16031,7 +16436,9 @@
           "nameKey": "風花雪",
           "credits": {
             "lyrics": "周禮茂",
-            "music": "雷頌德"
+            "music": "雷頌德",
+            "arranger": "雷頌德",
+            "producer": "雷頌德"
           },
           "mv": "0AAHE-aH8g0"
         },

@@ -1,9 +1,10 @@
 <script setup>
 // 歌手頁「寫給自己的歌」：這位歌手自己唱、詞／曲／編曲也有他的歌。
+// 只掛製作人不算 —— 製作是把歌做出來，不是寫歌；他若同時製作，會多一個「製作」標記。
 // 資料來自各專輯曲目的詞曲欄（Wikipedia），不需要另外載入檔案。
 import { computed, ref } from 'vue'
 import { formatCount, watchUrl, creditLines } from '../lib/format.js'
-import { artistKeys, rolesOf } from '../lib/credits.js'
+import { artistKeys, rolesOf, WRITING_ROLES } from '../lib/credits.js'
 
 const props = defineProps({
   model: { type: Object, required: true },
@@ -20,7 +21,7 @@ const all = computed(() => {
   const out = []
   for (const song of props.model.songs) {
     const roles = rolesOf(song.credits, keys)
-    if (roles.length) out.push({ song, roles })
+    if (roles.some((r) => WRITING_ROLES.includes(r))) out.push({ song, roles })
   }
   return out
 })

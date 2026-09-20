@@ -2,13 +2,13 @@
   "slug": "vivian-chow",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-19T10:21:20.762Z",
+  "fetchedAt": "2026-09-19T19:59:04.737Z",
   "artist": {
     "channelId": "UCLH19O6Nu0c5AcO0ABlnHJw",
     "name": "周慧敏",
     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lDU7xqXCCtMD_gVbZHBMKOGEaKDbw1ErAk65CJxIuayA=w682-h284-l90-rj-dcPTCU1JwI",
     "subscribers": 89700,
-    "monthlyAudience": 464000,
+    "monthlyAudience": 470000,
     "videos": [
       {
         "title": "《最愛》MV",
@@ -631,8 +631,8 @@
           "title": "不羈女神",
           "artists": "",
           "videoId": "MuLQ78s-2xU",
-          "plays": 1038,
-          "playsText": "播放次數：1038",
+          "plays": 1042,
+          "playsText": "播放次數：1042",
           "duration": 249,
           "byOther": false,
           "nameKey": "不羈女神"
@@ -825,8 +825,10 @@
           "duration": 301,
           "byOther": false,
           "credits": {
-            "lyrics": "Tommy Ho",
-            "music": "李克勤"
+            "lyrics": "克勤",
+            "music": "周慧敏",
+            "arranger": "谷中仁",
+            "producer": "谷中仁"
           },
           "nameKey": "可知我想他"
         },
@@ -852,8 +854,8 @@
           "title": "SHUT UP",
           "artists": "周慧敏",
           "videoId": "nb2murMPb-0",
-          "plays": 665,
-          "playsText": "播放次數：665",
+          "plays": 675,
+          "playsText": "播放次數：675",
           "duration": 275,
           "byOther": false,
           "credits": {
@@ -886,8 +888,8 @@
           "title": "一點情狂",
           "artists": "周慧敏 和 阮兆祥",
           "videoId": "HREIAQ_LKMc",
-          "plays": 2398,
-          "playsText": "播放次數：2398",
+          "plays": 2406,
+          "playsText": "播放次數：2406",
           "duration": 305,
           "byOther": false,
           "credits": {
@@ -1265,8 +1267,8 @@
           "title": "情歸何處",
           "artists": "周慧敏",
           "videoId": "iP7rxrgf0L4",
-          "plays": 5535,
-          "playsText": "播放次數：5535",
+          "plays": 5539,
+          "playsText": "播放次數：5539",
           "duration": 216,
           "byOther": false,
           "credits": {
@@ -1634,8 +1636,8 @@
           "title": "Invite Me To Dance",
           "artists": "",
           "videoId": "9m25B2-ghzY",
-          "plays": 9835,
-          "playsText": "播放次數：9835",
+          "plays": 9836,
+          "playsText": "播放次數：9836",
           "duration": 254,
           "byOther": false,
           "credits": {
@@ -1651,8 +1653,8 @@
           "title": "多一點，多一遍",
           "artists": "",
           "videoId": "A0PXcmNL7sc",
-          "plays": 5333,
-          "playsText": "播放次數：5333",
+          "plays": 5334,
+          "playsText": "播放次數：5334",
           "duration": 246,
           "byOther": false,
           "credits": {
@@ -2741,9 +2743,10 @@
           "duration": 293,
           "byOther": false,
           "credits": {
-            "lyrics": "唐奕聰",
-            "music": "林夕",
-            "arranger": "陳永明"
+            "lyrics": "林夕",
+            "music": "周慧敏",
+            "arranger": "唐奕聰",
+            "producer": "陳永明"
           },
           "nameKey": "你還記得從前嗎"
         },
@@ -3008,9 +3011,10 @@
           "duration": 293,
           "byOther": false,
           "credits": {
-            "lyrics": "唐奕聰",
-            "music": "林夕",
-            "arranger": "陳永明"
+            "lyrics": "林夕",
+            "music": "周慧敏",
+            "arranger": "唐奕聰",
+            "producer": "陳永明"
           },
           "nameKey": "你還記得從前嗎"
         },
@@ -3234,8 +3238,8 @@
           "title": "感情的分禮 (Remix)",
           "artists": "周慧敏",
           "videoId": "2fv-sE0N_x4",
-          "plays": 4473,
-          "playsText": "播放次數：4473",
+          "plays": 4474,
+          "playsText": "播放次數：4474",
           "duration": 288,
           "byOther": false,
           "nameKey": "感情的分禮",
@@ -4552,10 +4556,16 @@
           "title": "如果你知我苦衷 (Live)",
           "artists": "",
           "videoId": "dxJHp9J8sPM",
-          "plays": 1296,
-          "playsText": "播放次數：1296",
+          "plays": 1297,
+          "playsText": "播放次數：1297",
           "duration": 366,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "張國榮",
+            "arranger": "杜自持",
+            "producer": "黃祖輝"
+          },
           "nameKey": "如果你知我苦衷#live"
         },
         {
@@ -4589,6 +4599,12 @@
           "playsText": "播放次數：8567",
           "duration": 195,
           "byOther": false,
+          "credits": {
+            "lyrics": "周華健、何啟弘",
+            "music": "周華健",
+            "arranger": "洪敬堯",
+            "producer": "楊明煌、林隆璇"
+          },
           "nameKey": "沒有人傻得像我#live"
         },
         {
@@ -4600,6 +4616,12 @@
           "playsText": "播放次數：1萬",
           "duration": 303,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "勝俁乃一",
+            "arranger": "盧東尼",
+            "producer": "黃祖輝"
+          },
           "nameKey": "自作多情#live"
         },
         {
@@ -4607,10 +4629,16 @@
           "title": "痴心換情深 (Live)",
           "artists": "",
           "videoId": "yRUaTWz9ZKE",
-          "plays": 1832,
-          "playsText": "播放次數：1832",
+          "plays": 1833,
+          "playsText": "播放次數：1833",
           "duration": 226,
           "byOther": false,
+          "credits": {
+            "lyrics": "向雪懷",
+            "music": "李子恆",
+            "arranger": "盧東尼",
+            "producer": "陳永明"
+          },
           "nameKey": "癡心換情深#live",
           "mv": "hIwrrg3X2-k"
         },
@@ -4619,10 +4647,16 @@
           "title": "註定的結局 (Live)",
           "artists": "",
           "videoId": "Kpd-BXDboHc",
-          "plays": 650,
-          "playsText": "播放次數：650",
+          "plays": 651,
+          "playsText": "播放次數：651",
           "duration": 369,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "陳耀川",
+            "arranger": "杜自持",
+            "producer": "黃祖輝"
+          },
           "nameKey": "註定的結局#live"
         },
         {
@@ -4634,6 +4668,12 @@
           "playsText": "播放次數：6.2萬",
           "duration": 290,
           "byOther": false,
+          "credits": {
+            "lyrics": "克勤",
+            "music": "中島美雪",
+            "arranger": "盧東尼",
+            "producer": "陳永明"
+          },
           "nameKey": "最愛#live"
         },
         {
@@ -4645,6 +4685,12 @@
           "playsText": "播放次數：1萬",
           "duration": 267,
           "byOther": false,
+          "credits": {
+            "lyrics": "克勤",
+            "music": "周慧敏",
+            "arranger": "谷中仁",
+            "producer": "谷中仁"
+          },
           "nameKey": "可知我想他#live"
         },
         {
@@ -4656,6 +4702,12 @@
           "playsText": "播放次數：5022",
           "duration": 222,
           "byOther": false,
+          "credits": {
+            "lyrics": "C.Y. Kong",
+            "music": "Norell Oson Bard",
+            "arranger": "C.Y. Kong",
+            "producer": "黃祖輝"
+          },
           "nameKey": "怎可以沒有感情#live"
         },
         {
@@ -4667,6 +4719,12 @@
           "playsText": "播放次數：3266",
           "duration": 208,
           "byOther": false,
+          "credits": {
+            "lyrics": "林敏驄",
+            "music": "Orup",
+            "arranger": "Richard Yuen",
+            "producer": "陳永明"
+          },
           "nameKey": "心軟#live"
         },
         {
@@ -4678,6 +4736,12 @@
           "playsText": "播放次數：1.7萬",
           "duration": 240,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳少琪",
+            "music": "C. Y. Kong",
+            "arranger": "C. Y. Kong",
+            "producer": "陳永明"
+          },
           "nameKey": "自動自覺#live"
         },
         {
@@ -4689,6 +4753,12 @@
           "playsText": "播放次數：421",
           "duration": 228,
           "byOther": false,
+          "credits": {
+            "lyrics": "林敏驄",
+            "music": "Diana Villegas、Sylvia Villegas、Vicky Villegas、Jeff Myers",
+            "arranger": "陳國平",
+            "producer": "黃祖輝"
+          },
           "nameKey": "阿瑪遜河#live"
         },
         {
@@ -4700,6 +4770,12 @@
           "playsText": "播放次數：654",
           "duration": 290,
           "byOther": false,
+          "credits": {
+            "lyrics": "潘源良",
+            "music": "陳耀川",
+            "arranger": "Richard Yuen",
+            "producer": "陳永明"
+          },
           "nameKey": "感情的分禮#live"
         },
         {
@@ -4711,6 +4787,12 @@
           "playsText": "播放次數：6532",
           "duration": 237,
           "byOther": false,
+          "credits": {
+            "lyrics": "向雪懷",
+            "music": "盧東尼",
+            "arranger": "盧東尼",
+            "producer": "黃祖輝"
+          },
           "nameKey": "愛你多過愛他#live"
         },
         {
@@ -4722,6 +4804,12 @@
           "playsText": "播放次數：530",
           "duration": 287,
           "byOther": false,
+          "credits": {
+            "lyrics": "何秀萍",
+            "music": "盧東尼",
+            "arranger": "趙增熹",
+            "producer": "陳永明"
+          },
           "nameKey": "只等這一季#live"
         },
         {
@@ -4733,6 +4821,12 @@
           "playsText": "播放次數：523",
           "duration": 314,
           "byOther": false,
+          "credits": {
+            "lyrics": "簡寧",
+            "music": "李宗盛",
+            "arranger": "唐奕聰",
+            "producer": "陳永明"
+          },
           "nameKey": "留戀#live"
         },
         {
@@ -4744,6 +4838,12 @@
           "playsText": "播放次數：526",
           "duration": 210,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃凱芹",
+            "music": "黃凱芹",
+            "arranger": "方樹梁",
+            "producer": "陳永明"
+          },
           "nameKey": "假裝#live"
         },
         {
@@ -4751,10 +4851,16 @@
           "title": "孤單的心痛 (Live)",
           "artists": "",
           "videoId": "7ZCGuRw0cCs",
-          "plays": 1842,
-          "playsText": "播放次數：1842",
+          "plays": 1843,
+          "playsText": "播放次數：1843",
           "duration": 339,
           "byOther": false,
+          "credits": {
+            "lyrics": "簡寧",
+            "music": "Ken Hirsch、Ronald Norman Miller",
+            "arranger": "盧東尼",
+            "producer": "黃祖輝"
+          },
           "nameKey": "孤單的心痛#live"
         },
         {
@@ -4762,10 +4868,16 @@
           "title": "天荒愛未老 (Live)",
           "artists": "",
           "videoId": "dWyt-C9cBxM",
-          "plays": 688,
-          "playsText": "播放次數：688",
+          "plays": 690,
+          "playsText": "播放次數：690",
           "duration": 204,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃真",
+            "music": "Gerry Goffin、Michael Masser",
+            "arranger": "盧東尼",
+            "producer": "黃祖輝"
+          },
           "nameKey": "天荒愛未老#live"
         },
         {
@@ -5601,9 +5713,10 @@
           "duration": 267,
           "byOther": false,
           "credits": {
-            "lyrics": "屠穎",
-            "music": "姚若龍",
-            "arranger": "邰正宵"
+            "lyrics": "姚若龍",
+            "music": "周慧敏",
+            "arranger": "屠穎",
+            "producer": "邰正宵"
           },
           "nameKey": "最美的淚水"
         },
@@ -6370,9 +6483,10 @@
           "duration": 295,
           "byOther": false,
           "credits": {
-            "lyrics": "徐日勤",
-            "music": "簡寧",
-            "arranger": "周慧敏、楊喬興"
+            "lyrics": "簡寧",
+            "music": "周慧敏",
+            "arranger": "徐日勤",
+            "producer": "楊喬興、周慧敏"
           },
           "nameKey": "出嫁的清晨"
         },
@@ -6629,8 +6743,10 @@
           "duration": 294,
           "byOther": false,
           "credits": {
-            "lyrics": "Tommy Ho",
-            "music": "李克勤"
+            "lyrics": "克勤",
+            "music": "周慧敏",
+            "arranger": "谷中仁",
+            "producer": "谷中仁"
           },
           "nameKey": "可知我想他"
         },
@@ -7246,9 +7362,10 @@
           "duration": 295,
           "byOther": false,
           "credits": {
-            "lyrics": "徐日勤",
-            "music": "簡寧",
-            "arranger": "周慧敏、楊喬興"
+            "lyrics": "簡寧",
+            "music": "周慧敏",
+            "arranger": "徐日勤",
+            "producer": "楊喬興、周慧敏"
           },
           "nameKey": "出嫁的清晨"
         },
@@ -7279,9 +7396,10 @@
           "duration": 274,
           "byOther": false,
           "credits": {
-            "lyrics": "屠穎",
-            "music": "許常德",
-            "arranger": "邰正宵"
+            "lyrics": "許常德",
+            "music": "周慧敏",
+            "arranger": "屠穎",
+            "producer": "邰正宵"
           },
           "nameKey": "時間"
         },
@@ -7540,9 +7658,10 @@
           "duration": 273,
           "byOther": false,
           "credits": {
-            "lyrics": "屠穎",
-            "music": "許常德",
-            "arranger": "邰正宵"
+            "lyrics": "許常德",
+            "music": "周慧敏",
+            "arranger": "屠穎",
+            "producer": "邰正宵"
           },
           "nameKey": "時間"
         },
@@ -8079,9 +8198,10 @@
           "duration": 294,
           "byOther": false,
           "credits": {
-            "lyrics": "徐日勤",
-            "music": "簡寧",
-            "arranger": "周慧敏、楊喬興"
+            "lyrics": "簡寧",
+            "music": "周慧敏",
+            "arranger": "徐日勤",
+            "producer": "楊喬興、周慧敏"
           },
           "nameKey": "出嫁的清晨"
         },
@@ -8154,8 +8274,8 @@
           "title": "城市民歌MEDLEY",
           "artists": "周慧敏、區瑞強、劉小慧 和 李克勤",
           "videoId": "UgK0RystXU4",
-          "plays": 3268,
-          "playsText": "播放次數：3268",
+          "plays": 3274,
+          "playsText": "播放次數：3274",
           "duration": 288,
           "byOther": false,
           "nameKey": "城市民歌medley"
@@ -8266,9 +8386,10 @@
           "duration": 267,
           "byOther": false,
           "credits": {
-            "lyrics": "屠穎",
-            "music": "姚若龍",
-            "arranger": "邰正宵"
+            "lyrics": "姚若龍",
+            "music": "周慧敏",
+            "arranger": "屠穎",
+            "producer": "邰正宵"
           },
           "nameKey": "最美的淚水"
         },
@@ -8566,9 +8687,10 @@
           "duration": 285,
           "byOther": false,
           "credits": {
-            "lyrics": "王繼康",
-            "music": "潘麗玉、黃秀慧",
-            "arranger": "張耕宇"
+            "lyrics": "潘麗玉",
+            "music": "周慧敏",
+            "arranger": "王繼康",
+            "producer": "楊明煌"
           },
           "nameKey": "你是眞的愛我嗎"
         },
@@ -8735,9 +8857,10 @@
           "duration": 199,
           "byOther": false,
           "credits": {
-            "lyrics": "凃惠元、徐德昌",
-            "music": "許常德",
-            "arranger": "徐德昌、劉天健"
+            "lyrics": "許常德",
+            "music": "周慧敏",
+            "arranger": "徐德昌、涂惠元",
+            "producer": "徐德昌、劉天健"
           },
           "nameKey": "你對我是認眞的嗎"
         },
@@ -9300,8 +9423,8 @@
           "title": "火苗",
           "artists": "",
           "videoId": "lXZx6LKEBvI",
-          "plays": 2279,
-          "playsText": "播放次數：2279",
+          "plays": 2281,
+          "playsText": "播放次數：2281",
           "duration": 213,
           "byOther": false,
           "nameKey": "火苗"
@@ -9311,8 +9434,8 @@
           "title": "可愛的馬",
           "artists": "",
           "videoId": "qEsisneCBEE",
-          "plays": 2359,
-          "playsText": "播放次數：2359",
+          "plays": 2360,
+          "playsText": "播放次數：2360",
           "duration": 207,
           "byOther": false,
           "nameKey": "可愛的馬"
@@ -9322,8 +9445,8 @@
           "title": "浪子淚",
           "artists": "",
           "videoId": "DJbefjRPLwo",
-          "plays": 7323,
-          "playsText": "播放次數：7323",
+          "plays": 7328,
+          "playsText": "播放次數：7328",
           "duration": 199,
           "byOther": false,
           "nameKey": "浪子淚"
@@ -9333,8 +9456,8 @@
           "title": "星星之夜",
           "artists": "",
           "videoId": "XykfrpinfGg",
-          "plays": 4067,
-          "playsText": "播放次數：4067",
+          "plays": 4068,
+          "playsText": "播放次數：4068",
           "duration": 144,
           "byOther": false,
           "nameKey": "星星之夜"
@@ -9344,8 +9467,8 @@
           "title": "阿蘭娜",
           "artists": "",
           "videoId": "txooTOV2zTE",
-          "plays": 1176,
-          "playsText": "播放次數：1176",
+          "plays": 1178,
+          "playsText": "播放次數：1178",
           "duration": 242,
           "byOther": false,
           "nameKey": "阿蘭娜"
@@ -9355,8 +9478,8 @@
           "title": "熱淚燙傷我的",
           "artists": "",
           "videoId": "VhYXWqI7l68",
-          "plays": 1201,
-          "playsText": "播放次數：1201",
+          "plays": 1202,
+          "playsText": "播放次數：1202",
           "duration": 272,
           "byOther": false,
           "nameKey": "熱淚燙傷我的"
@@ -9366,8 +9489,8 @@
           "title": "雪山盟",
           "artists": "",
           "videoId": "RXdoUiUPjmE",
-          "plays": 1530,
-          "playsText": "播放次數：1530",
+          "plays": 1533,
+          "playsText": "播放次數：1533",
           "duration": 238,
           "byOther": false,
           "nameKey": "雪山盟"
@@ -9399,8 +9522,8 @@
           "title": "甘願伴您一生 (福建)",
           "artists": "",
           "videoId": "Bh57CSnHh9s",
-          "plays": 889,
-          "playsText": "播放次數：889",
+          "plays": 890,
+          "playsText": "播放次數：890",
           "duration": 215,
           "byOther": false,
           "nameKey": "甘願伴您一生"
@@ -9779,9 +9902,10 @@
           "duration": 295,
           "byOther": false,
           "credits": {
-            "lyrics": "徐日勤",
-            "music": "簡寧",
-            "arranger": "周慧敏、楊喬興"
+            "lyrics": "簡寧",
+            "music": "周慧敏",
+            "arranger": "徐日勤",
+            "producer": "楊喬興、周慧敏"
           },
           "nameKey": "出嫁的清晨"
         },
@@ -10575,9 +10699,10 @@
           "duration": 270,
           "byOther": false,
           "credits": {
-            "lyrics": "屠穎",
-            "music": "姚若龍",
-            "arranger": "邰正宵"
+            "lyrics": "姚若龍",
+            "music": "周慧敏",
+            "arranger": "屠穎",
+            "producer": "邰正宵"
           },
           "nameKey": "最美的淚水"
         },
@@ -10608,9 +10733,10 @@
           "duration": 273,
           "byOther": false,
           "credits": {
-            "lyrics": "屠穎",
-            "music": "許常德",
-            "arranger": "邰正宵"
+            "lyrics": "許常德",
+            "music": "周慧敏",
+            "arranger": "屠穎",
+            "producer": "邰正宵"
           },
           "nameKey": "時間"
         }
@@ -10773,8 +10899,10 @@
           "duration": 299,
           "byOther": false,
           "credits": {
-            "lyrics": "Tommy Ho",
-            "music": "李克勤"
+            "lyrics": "克勤",
+            "music": "周慧敏",
+            "arranger": "谷中仁",
+            "producer": "谷中仁"
           },
           "nameKey": "可知我想他"
         },
@@ -11284,9 +11412,10 @@
           "duration": 295,
           "byOther": false,
           "credits": {
-            "lyrics": "徐日勤",
-            "music": "簡寧",
-            "arranger": "周慧敏、楊喬興"
+            "lyrics": "簡寧",
+            "music": "周慧敏",
+            "arranger": "徐日勤",
+            "producer": "楊喬興、周慧敏"
           },
           "nameKey": "出嫁的清晨"
         },

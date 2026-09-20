@@ -2,13 +2,13 @@
   "slug": "jolin-tsai",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-19T11:49:19.362Z",
+  "fetchedAt": "2026-09-19T20:52:56.344Z",
   "artist": {
     "channelId": "UC9dLsF7Ss7Wg0kR6TiIWiXg",
     "name": "蔡依林",
     "thumbnail": "https://yt3.googleusercontent.com/heehLgW5KBe4xE-DuQp6I9SINZgujXk4AJKBLG_IrRepTK_AHYDTPvGSE9jWycGRWCYV7edUDd4xS1U=w2880-h1200-p-l90-rj",
     "subscribers": 1120000,
-    "monthlyAudience": 4570000,
+    "monthlyAudience": 4490000,
     "videos": [
       {
         "title": "說愛你",
@@ -1815,7 +1815,9 @@
           "duration": 283,
           "byOther": false,
           "credits": {
-            "lyrics": "陳鎮川"
+            "lyrics": "陳鎮川",
+            "arranger": "王治平",
+            "producer": "王治平"
           },
           "nameKey": "看我72變",
           "mv": "B94n5Lbj4aw"
@@ -1825,12 +1827,14 @@
           "title": "乖貓",
           "artists": "",
           "videoId": "GWx5JJBgMoQ",
-          "plays": 8569,
-          "playsText": "播放次數：8569",
+          "plays": 8573,
+          "playsText": "播放次數：8573",
           "duration": 241,
           "byOther": false,
           "credits": {
-            "lyrics": "陳鎮川"
+            "lyrics": "陳鎮川",
+            "arranger": "王治平",
+            "producer": "王治平"
           },
           "nameKey": "乖貓",
           "mv": "lVbU8m87KlY"
@@ -1846,7 +1850,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "天天",
-            "music": "周杰倫"
+            "music": "周杰倫",
+            "arranger": "呂紹淳",
+            "producer": "王治平"
           },
           "nameKey": "說愛你",
           "mv": "cOBQgUZnceg"
@@ -1861,7 +1867,9 @@
           "duration": 302,
           "byOther": false,
           "credits": {
-            "lyrics": "胡如虹"
+            "lyrics": "胡如虹",
+            "arranger": "呂紹淳",
+            "producer": "王治平"
           },
           "nameKey": "愛情36計",
           "mv": "9cEpgttgjx4"
@@ -1871,13 +1879,15 @@
           "title": "海盜",
           "artists": "",
           "videoId": "3pU2CmfNcQs",
-          "plays": 6235,
-          "playsText": "播放次數：6235",
+          "plays": 6238,
+          "playsText": "播放次數：6238",
           "duration": 265,
           "byOther": false,
           "credits": {
             "lyrics": "陳鎮川",
-            "music": "周杰倫"
+            "music": "周杰倫",
+            "arranger": "洪敬堯",
+            "producer": "周杰倫"
           },
           "nameKey": "海盜",
           "mv": "yq1aPXj9oGg"
@@ -1887,13 +1897,15 @@
           "title": "就是愛",
           "artists": "",
           "videoId": "hJWIo3RoDiM",
-          "plays": 7238,
-          "playsText": "播放次數：7238",
+          "plays": 7241,
+          "playsText": "播放次數：7241",
           "duration": 280,
           "byOther": false,
           "credits": {
             "lyrics": "天天",
-            "music": "周杰倫"
+            "music": "周杰倫",
+            "arranger": "呂紹淳",
+            "producer": "王治平"
           },
           "nameKey": "就是愛",
           "mv": "nwcHdFQ-fq8"
@@ -1909,7 +1921,9 @@
           "byOther": false,
           "credits": {
             "lyrics": "天天",
-            "music": "Konstantin Meladze"
+            "music": "Konstantin Meladze",
+            "arranger": "小安",
+            "producer": "黃怡"
           },
           "nameKey": "lovelovelove"
         },
@@ -1918,13 +1932,15 @@
           "title": "爆米花的味道",
           "artists": "",
           "videoId": "cLYUEyauyFQ",
-          "plays": 5494,
-          "playsText": "播放次數：5494",
+          "plays": 5496,
+          "playsText": "播放次數：5496",
           "duration": 231,
           "byOther": false,
           "credits": {
             "lyrics": "方文山",
-            "music": "雲超"
+            "music": "雲超",
+            "arranger": "王治平",
+            "producer": "王治平"
           },
           "nameKey": "爆米花的味道"
         },
@@ -2173,8 +2189,8 @@
           "title": "Intro (Live)",
           "artists": "",
           "videoId": "xxo0Y-1D0Z8",
-          "plays": 4966,
-          "playsText": "播放次數：4966",
+          "plays": 4968,
+          "playsText": "播放次數：4968",
           "duration": 327,
           "byOther": false,
           "nameKey": "intro#live"
@@ -2199,6 +2215,12 @@
           "playsText": "播放次數：1.5萬",
           "duration": 281,
           "byOther": false,
+          "credits": {
+            "lyrics": "蔡依林",
+            "music": "薛忠銘",
+            "arranger": "王豫民",
+            "producer": "薛忠銘"
+          },
           "nameKey": "始作俑者#live"
         },
         {
@@ -2210,6 +2232,12 @@
           "playsText": "播放次數：6.6萬",
           "duration": 291,
           "byOther": false,
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "李偲菘",
+            "arranger": "Terence Teo",
+            "producer": "李偲菘"
+          },
           "nameKey": "檸檬草的味道#live"
         },
         {
@@ -2217,10 +2245,16 @@
           "title": "就是愛 (Live)",
           "artists": "",
           "videoId": "hu8ZddP-5ho",
-          "plays": 6099,
-          "playsText": "播放次數：6099",
+          "plays": 6100,
+          "playsText": "播放次數：6100",
           "duration": 263,
           "byOther": false,
+          "credits": {
+            "lyrics": "天天",
+            "music": "周杰倫",
+            "arranger": "呂紹淳",
+            "producer": "王治平"
+          },
           "nameKey": "就是愛#live"
         },
         {
@@ -2228,8 +2262,8 @@
           "title": "Prove It (Live)",
           "artists": "",
           "videoId": "WQkvT46RuVk",
-          "plays": 5431,
-          "playsText": "播放次數：5431",
+          "plays": 5436,
+          "playsText": "播放次數：5436",
           "duration": 297,
           "byOther": false,
           "credits": {
@@ -2277,6 +2311,12 @@
           "playsText": "播放次數：3480",
           "duration": 244,
           "byOther": false,
+          "credits": {
+            "lyrics": "李焯雄",
+            "music": "李偉菘",
+            "arranger": "Terence Teo",
+            "producer": "李偲菘"
+          },
           "nameKey": "假面的告白#live"
         },
         {
@@ -2284,10 +2324,15 @@
           "title": "乖貓 (Live)",
           "artists": "",
           "videoId": "BCCQDm9k5NI",
-          "plays": 2675,
-          "playsText": "播放次數：2675",
+          "plays": 2676,
+          "playsText": "播放次數：2676",
           "duration": 232,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "arranger": "王治平",
+            "producer": "王治平"
+          },
           "nameKey": "乖貓#live"
         },
         {
@@ -2299,6 +2344,11 @@
           "playsText": "播放次數：3010",
           "duration": 348,
           "byOther": false,
+          "credits": {
+            "lyrics": "李焯雄",
+            "arranger": "Kenn C",
+            "producer": "王治平"
+          },
           "nameKey": "第一優先#live"
         },
         {
@@ -2306,8 +2356,8 @@
           "title": "愛情36計/爆米花的味道/招牌動作 (Live)",
           "artists": "",
           "videoId": "LvE896iTWEU",
-          "plays": 7589,
-          "playsText": "播放次數：7589",
+          "plays": 7590,
+          "playsText": "播放次數：7590",
           "duration": 596,
           "byOther": false,
           "nameKey": "愛情36計爆米花的味道招牌動作#live"
@@ -2321,6 +2371,12 @@
           "playsText": "播放次數：1.1萬",
           "duration": 357,
           "byOther": false,
+          "credits": {
+            "lyrics": "天天",
+            "music": "周杰倫",
+            "arranger": "呂紹淳",
+            "producer": "王治平"
+          },
           "nameKey": "說愛你#live"
         },
         {
@@ -2328,10 +2384,16 @@
           "title": "倒帶 (Live)",
           "artists": "",
           "videoId": "bHdF6q8fvfs",
-          "plays": 8213,
-          "playsText": "播放次數：8213",
+          "plays": 8214,
+          "playsText": "播放次數：8214",
           "duration": 122,
           "byOther": false,
+          "credits": {
+            "lyrics": "方文山",
+            "music": "周杰倫",
+            "arranger": "鍾佐泓",
+            "producer": "鍾佐泓"
+          },
           "nameKey": "倒帶#live"
         },
         {
@@ -2574,7 +2636,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "陳鎮川",
-            "music": "Roger Olsson、Klas Johan Wahl、Nick Whitecross"
+            "arranger": "小安",
+            "producer": "阿弟仔"
           },
           "nameKey": "唯舞獨尊"
         },
@@ -2637,8 +2700,9 @@
           "duration": 273,
           "byOther": false,
           "credits": {
-            "lyrics": "陶喆、陳玉貞",
-            "music": "陶喆"
+            "music": "陶喆",
+            "arranger": "陶喆",
+            "producer": "陶喆"
           },
           "nameKey": "今天妳要嫁給我"
         },
@@ -2680,8 +2744,8 @@
           "title": "舞孃 (765 天旋地轉 Acid House Mix)",
           "artists": "蔡依林",
           "videoId": "wspHsdaVR0o",
-          "plays": 6046,
-          "playsText": "播放次數：6046",
+          "plays": 6050,
+          "playsText": "播放次數：6050",
           "duration": 455,
           "byOther": false,
           "nameKey": "舞孃",
@@ -2731,8 +2795,8 @@
           "title": "唇唇欲動 (Hit Hot Vibration Mix)",
           "artists": "蔡依林",
           "videoId": "hHe7cA1v9i8",
-          "plays": 4749,
-          "playsText": "播放次數：4749",
+          "plays": 4752,
+          "playsText": "播放次數：4752",
           "duration": 442,
           "byOther": false,
           "nameKey": "唇唇欲動",
@@ -2748,8 +2812,8 @@
           "title": "Mr. Q (Quicy Drum N Bass Remix)",
           "artists": "蔡依林",
           "videoId": "E2TDfoL1EZw",
-          "plays": 3840,
-          "playsText": "播放次數：3840",
+          "plays": 3841,
+          "playsText": "播放次數：3841",
           "duration": 315,
           "byOther": false,
           "credits": {
@@ -2799,8 +2863,8 @@
           "title": "野蠻遊戲",
           "artists": "蔡依林",
           "videoId": "MB3StFowAno",
-          "plays": 8310,
-          "playsText": "播放次數：8310",
+          "plays": 8315,
+          "playsText": "播放次數：8315",
           "duration": 280,
           "byOther": false,
           "credits": {
@@ -2816,8 +2880,8 @@
           "title": "許願池的希臘少女 (混音版)",
           "artists": "蔡依林",
           "videoId": "UU4r3pMeFew",
-          "plays": 4595,
-          "playsText": "播放次數：4595",
+          "plays": 4596,
+          "playsText": "播放次數：4596",
           "duration": 246,
           "byOther": false,
           "credits": {
@@ -2833,8 +2897,8 @@
           "title": "睜一隻眼閉一隻眼",
           "artists": "蔡依林",
           "videoId": "Gyj_S1tWOfQ",
-          "plays": 8321,
-          "playsText": "播放次數：8321",
+          "plays": 8329,
+          "playsText": "播放次數：8329",
           "duration": 232,
           "byOther": false,
           "credits": {
@@ -2849,8 +2913,8 @@
           "title": "樂園 (混音版)",
           "artists": "蔡依林",
           "videoId": "WNItnnJsJ2Y",
-          "plays": 1929,
-          "playsText": "播放次數：1929",
+          "plays": 1931,
+          "playsText": "播放次數：1931",
           "duration": 200,
           "byOther": false,
           "credits": {
@@ -2882,8 +2946,8 @@
           "title": "看我72變+愛情36計+招牌動作",
           "artists": "蔡依林",
           "videoId": "9fHNnO6Frlg",
-          "plays": 6508,
-          "playsText": "播放次數：6508",
+          "plays": 6510,
+          "playsText": "播放次數：6510",
           "duration": 454,
           "byOther": false,
           "nameKey": "看我72變愛情36計招牌動作"
@@ -3110,8 +3174,8 @@
           "title": "Hot-J Remix (愛情36計+睜一隻眼閉一隻眼+布拉格廣場+ Love Love Love)",
           "artists": "",
           "videoId": "-ZV79F6VrvA",
-          "plays": 5444,
-          "playsText": "播放次數：5444",
+          "plays": 5447,
+          "playsText": "播放次數：5447",
           "duration": 404,
           "byOther": false,
           "nameKey": "hotjremix"
@@ -3972,8 +4036,8 @@
           "title": "Intro (Live)",
           "artists": "",
           "videoId": "SpgFei9rWv4",
-          "plays": 5126,
-          "playsText": "播放次數：5126",
+          "plays": 5127,
+          "playsText": "播放次數：5127",
           "duration": 69,
           "byOther": false,
           "nameKey": "intro#live"
@@ -3983,10 +4047,15 @@
           "title": "特務J (Live)",
           "artists": "",
           "videoId": "oqhic_WDXKA",
-          "plays": 4896,
-          "playsText": "播放次數：4896",
+          "plays": 4894,
+          "playsText": "播放次數：4894",
           "duration": 208,
           "byOther": false,
+          "credits": {
+            "music": "黃晟峰",
+            "arranger": "小安",
+            "producer": "阿弟仔"
+          },
           "nameKey": "特務j#live"
         },
         {
@@ -3998,6 +4067,10 @@
           "playsText": "播放次數：18萬",
           "duration": 186,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "arranger": "RnG"
+          },
           "nameKey": "金三角#live"
         },
         {
@@ -4005,10 +4078,15 @@
           "title": "非賣品 (Live)",
           "artists": "",
           "videoId": "-3pvsFm4cDw",
-          "plays": 2498,
-          "playsText": "播放次數：2498",
+          "plays": 2499,
+          "playsText": "播放次數：2499",
           "duration": 272,
           "byOther": false,
+          "credits": {
+            "music": "譚榮健",
+            "arranger": "林邁可",
+            "producer": "林邁可"
+          },
           "nameKey": "非賣品#live"
         },
         {
@@ -4016,10 +4094,16 @@
           "title": "怕什麼 (Live)",
           "artists": "",
           "videoId": "rEoXr2O-aiE",
-          "plays": 1768,
-          "playsText": "播放次數：1768",
+          "plays": 1769,
+          "playsText": "播放次數：1769",
           "duration": 264,
           "byOther": false,
+          "credits": {
+            "lyrics": "鄭淑妃",
+            "music": "李偉菘",
+            "arranger": "Terence Teo",
+            "producer": "李偉菘"
+          },
           "nameKey": "怕什麼#live"
         },
         {
@@ -4031,6 +4115,12 @@
           "playsText": "播放次數：1296",
           "duration": 272,
           "byOther": false,
+          "credits": {
+            "lyrics": "蔡依林",
+            "music": "薛忠銘",
+            "arranger": "吳慶隆",
+            "producer": "辛巴克"
+          },
           "nameKey": "節拍器#live"
         },
         {
@@ -4042,6 +4132,12 @@
           "playsText": "播放次數：1525",
           "duration": 208,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃俊郎",
+            "music": "張宴菁",
+            "arranger": "Martin Tang",
+            "producer": "李偉菘"
+          },
           "nameKey": "桃花源#live"
         },
         {
@@ -4053,6 +4149,11 @@
           "playsText": "播放次數：1.2萬",
           "duration": 212,
           "byOther": false,
+          "credits": {
+            "lyrics": "崔惟楷",
+            "arranger": "林邁可",
+            "producer": "林邁可"
+          },
           "nameKey": "日不落#live"
         },
         {
@@ -4064,6 +4165,9 @@
           "playsText": "播放次數：136萬",
           "duration": 177,
           "byOther": false,
+          "credits": {
+            "arranger": "RnG"
+          },
           "nameKey": "冷暴力#live"
         },
         {
@@ -4110,6 +4214,12 @@
           "playsText": "播放次數：1568",
           "duration": 268,
           "byOther": false,
+          "credits": {
+            "lyrics": "阿管",
+            "music": "黃韻仁",
+            "arranger": "黃韻仁",
+            "producer": "馬毓芬"
+          },
           "nameKey": "一個人#live"
         },
         {
@@ -4117,8 +4227,8 @@
           "title": "Let's Move It (Live)",
           "artists": "",
           "videoId": "mKAIi6CWK3k",
-          "plays": 1535,
-          "playsText": "播放次數：1535",
+          "plays": 1530,
+          "playsText": "播放次數：1530",
           "duration": 190,
           "byOther": false,
           "credits": {
@@ -4132,10 +4242,15 @@
           "title": "愛無赦 (Live)",
           "artists": "",
           "videoId": "Hy9xawvkyYw",
-          "plays": 3549,
-          "playsText": "播放次數：3549",
+          "plays": 3550,
+          "playsText": "播放次數：3550",
           "duration": 254,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "arranger": "小安",
+            "producer": "阿弟仔"
+          },
           "nameKey": "愛無赦#live"
         }
       ],
@@ -4193,8 +4308,8 @@
           "title": "讓身體說話吧",
           "artists": "",
           "videoId": "wKhdfBhtJaM",
-          "plays": 4605,
-          "playsText": "播放次數：4605",
+          "plays": 4606,
+          "playsText": "播放次數：4606",
           "duration": 237,
           "byOther": false,
           "nameKey": "讓身體說話吧"
@@ -4204,8 +4319,8 @@
           "title": "天使",
           "artists": "",
           "videoId": "LHAe2uVnyMM",
-          "plays": 3178,
-          "playsText": "播放次數：3178",
+          "plays": 3179,
+          "playsText": "播放次數：3179",
           "duration": 276,
           "byOther": false,
           "nameKey": "天使"
@@ -4752,7 +4867,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "陳鎮川",
-            "music": "Roger Olsson、Klas Johan Wahl、Nick Whitecross"
+            "arranger": "小安",
+            "producer": "阿弟仔"
           },
           "nameKey": "唯舞獨尊"
         },
@@ -4929,8 +5045,9 @@
           "duration": 272,
           "byOther": false,
           "credits": {
-            "lyrics": "陶喆、陳玉貞",
-            "music": "陶喆"
+            "music": "陶喆",
+            "arranger": "陶喆",
+            "producer": "陶喆"
           },
           "nameKey": "今天妳要嫁給我"
         },
@@ -5332,8 +5449,8 @@
           "title": "Myself (5 In 1 Mashup) [Remix]",
           "artists": "",
           "videoId": "MwSnajo05qw",
-          "plays": 5108,
-          "playsText": "播放次數：5108",
+          "plays": 5111,
+          "playsText": "播放次數：5111",
           "duration": 391,
           "byOther": false,
           "nameKey": "myself"
@@ -6210,8 +6327,8 @@
           "title": "Beast (Live Version )",
           "artists": "",
           "videoId": "spEc-1CHvwY",
-          "plays": 1105,
-          "playsText": "播放次數：1105",
+          "plays": 1106,
+          "playsText": "播放次數：1106",
           "duration": 164,
           "byOther": false,
           "credits": {
@@ -6310,6 +6427,12 @@
           "playsText": "播放次數：9.8萬",
           "duration": 299,
           "byOther": false,
+          "credits": {
+            "lyrics": "許哲珮",
+            "music": "許哲珮",
+            "arranger": "謝明祥",
+            "producer": "許哲珮"
+          },
           "nameKey": "詩人漫步#live"
         },
         {
@@ -6317,8 +6440,8 @@
           "title": "迷幻 (Live Version )",
           "artists": "",
           "videoId": "I0tNi77kcKQ",
-          "plays": 1936,
-          "playsText": "播放次數：1936",
+          "plays": 1937,
+          "playsText": "播放次數：1937",
           "duration": 211,
           "byOther": false,
           "credits": {
@@ -6350,8 +6473,8 @@
           "title": "Dr. Jolin (Live Version )",
           "artists": "",
           "videoId": "3Pxf07xW2xM",
-          "plays": 4523,
-          "playsText": "播放次數：4523",
+          "plays": 4524,
+          "playsText": "播放次數：4524",
           "duration": 230,
           "byOther": false,
           "credits": {
@@ -6595,7 +6718,8 @@
           "duration": 199,
           "byOther": false,
           "credits": {
-            "lyrics": "林夕"
+            "lyrics": "林夕",
+            "music": "Hayley Aitken、Iggy Strange Dahl、Christoffer Vikberg、Johan Moraeus"
           },
           "nameKey": "不一樣又怎樣",
           "mv": "C7hHofDW2ts"
@@ -6756,6 +6880,11 @@
           "playsText": "播放次數：25萬",
           "duration": 252,
           "byOther": false,
+          "credits": {
+            "lyrics": "嚴雲農",
+            "arranger": "小安",
+            "producer": "小安"
+          },
           "nameKey": "美杜莎#live"
         },
         {
@@ -6767,6 +6896,11 @@
           "playsText": "播放次數：15萬",
           "duration": 201,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "arranger": "小安",
+            "producer": "阿弟仔"
+          },
           "nameKey": "大丈夫#live"
         },
         {
@@ -6778,6 +6912,10 @@
           "playsText": "播放次數：6萬",
           "duration": 244,
           "byOther": false,
+          "credits": {
+            "lyrics": "崔惟楷、陳天佑",
+            "music": "Danielle Senior、Scott Wild"
+          },
           "nameKey": "美人計#live"
         },
         {
@@ -6789,6 +6927,11 @@
           "playsText": "播放次數：23萬",
           "duration": 184,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "arranger": "小安",
+            "producer": "阿弟仔"
+          },
           "nameKey": "愛無赦#live"
         },
         {
@@ -6812,6 +6955,11 @@
           "playsText": "播放次數：29萬",
           "duration": 212,
           "byOther": false,
+          "credits": {
+            "music": "黃晟峰",
+            "arranger": "小安",
+            "producer": "阿弟仔"
+          },
           "nameKey": "特務j#live"
         },
         {
@@ -6823,6 +6971,11 @@
           "playsText": "播放次數：16萬",
           "duration": 143,
           "byOther": false,
+          "credits": {
+            "lyrics": "嚴雲農",
+            "arranger": "小安",
+            "producer": "阿弟仔"
+          },
           "nameKey": "花蝴蝶#live"
         },
         {
@@ -6852,6 +7005,12 @@
           "playsText": "播放次數：12萬",
           "duration": 113,
           "byOther": false,
+          "credits": {
+            "lyrics": "方文山",
+            "music": "周杰倫",
+            "arranger": "鍾興民",
+            "producer": "周杰倫"
+          },
           "nameKey": "布拉格廣場#live"
         },
         {
@@ -6863,6 +7022,12 @@
           "playsText": "播放次數：23萬",
           "duration": 275,
           "byOther": false,
+          "credits": {
+            "lyrics": "王永良",
+            "music": "林俊傑",
+            "arranger": "Kenn C",
+            "producer": "林俊傑"
+          },
           "nameKey": "第三人稱#live"
         },
         {
@@ -6874,6 +7039,12 @@
           "playsText": "播放次數：16萬",
           "duration": 264,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "music": "王力宏",
+            "arranger": "洪信傑",
+            "producer": "周佳佑"
+          },
           "nameKey": "獨佔神話#live"
         },
         {
@@ -6885,12 +7056,12 @@
           "playsText": "播放次數：17萬",
           "duration": 343,
           "byOther": false,
-          "nameKey": "大藝術家#live",
           "credits": {
             "lyrics": "嚴雲農",
             "arranger": "林邁可",
             "producer": "林邁可"
-          }
+          },
+          "nameKey": "大藝術家#live"
         },
         {
           "index": 13,
@@ -6939,6 +7110,9 @@
           "playsText": "播放次數：4.1萬",
           "duration": 151,
           "byOther": false,
+          "credits": {
+            "lyrics": "小安"
+          },
           "nameKey": "七上八下#live"
         },
         {
@@ -6965,6 +7139,11 @@
           "playsText": "播放次數：52萬",
           "duration": 262,
           "byOther": false,
+          "credits": {
+            "lyrics": "崔惟楷",
+            "arranger": "林邁可",
+            "producer": "林邁可"
+          },
           "nameKey": "日不落#live"
         },
         {
@@ -6976,6 +7155,10 @@
           "playsText": "播放次數：12萬",
           "duration": 233,
           "byOther": false,
+          "credits": {
+            "lyrics": "梁錦興",
+            "music": "黃晟峰"
+          },
           "nameKey": "無言以對#live"
         },
         {
@@ -6987,12 +7170,12 @@
           "playsText": "播放次數：10萬",
           "duration": 210,
           "byOther": false,
-          "nameKey": "迷幻#live",
           "credits": {
             "lyrics": "吳青峰",
             "arranger": "林邁可",
             "producer": "林邁可"
-          }
+          },
+          "nameKey": "迷幻#live"
         },
         {
           "index": 21,
@@ -7003,6 +7186,11 @@
           "playsText": "播放次數：4.6萬",
           "duration": 104,
           "byOther": false,
+          "credits": {
+            "lyrics": "胡如虹",
+            "arranger": "呂紹淳",
+            "producer": "王治平"
+          },
           "nameKey": "愛情36計#live"
         },
         {
@@ -7014,6 +7202,11 @@
           "playsText": "播放次數：8.6萬",
           "duration": 175,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃偉文",
+            "arranger": "小安",
+            "producer": "小安"
+          },
           "nameKey": "電話皇后#live"
         },
         {
@@ -7041,6 +7234,11 @@
           "playsText": "播放次數：14萬",
           "duration": 318,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "arranger": "呂紹淳",
+            "producer": "阿弟仔"
+          },
           "nameKey": "舞孃#live"
         },
         {
@@ -7052,6 +7250,11 @@
           "playsText": "播放次數：18萬",
           "duration": 215,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "arranger": "王治平",
+            "producer": "王治平"
+          },
           "nameKey": "看我72變#live"
         },
         {
@@ -7063,6 +7266,10 @@
           "playsText": "播放次數：1.7萬",
           "duration": 469,
           "byOther": false,
+          "credits": {
+            "lyrics": "林夕",
+            "music": "Hayley Aitken、Iggy Strange Dahl、Christoffer Vikberg、Johan Moraeus"
+          },
           "nameKey": "不一樣又怎樣#live"
         },
         {
@@ -7074,6 +7281,11 @@
           "playsText": "播放次數：40萬",
           "duration": 390,
           "byOther": false,
+          "credits": {
+            "lyrics": "李格弟",
+            "music": "倪子岡",
+            "producer": "陳星翰"
+          },
           "nameKey": "play我呸#live"
         }
       ],
@@ -7352,6 +7564,11 @@
           "playsText": "播放次數：8.7萬",
           "duration": 208,
           "byOther": false,
+          "credits": {
+            "lyrics": "崔惟楷",
+            "arranger": "呂紹淳",
+            "producer": "阿弟仔"
+          },
           "nameKey": "玩美#live"
         },
         {
@@ -7379,6 +7596,12 @@
           "playsText": "播放次數：2.1萬",
           "duration": 261,
           "byOther": false,
+          "credits": {
+            "lyrics": "蔡依林",
+            "music": "宋念宇",
+            "arranger": "Terence Teo",
+            "producer": "李偲菘"
+          },
           "nameKey": "開場白#live"
         },
         {
@@ -7390,6 +7613,11 @@
           "playsText": "播放次數：1.7萬",
           "duration": 295,
           "byOther": false,
+          "credits": {
+            "lyrics": "大麥",
+            "music": "古晧",
+            "producer": "馬毓芬"
+          },
           "nameKey": "假裝#live"
         },
         {
@@ -7401,6 +7629,11 @@
           "playsText": "播放次數：2萬",
           "duration": 241,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "arranger": "小安",
+            "producer": "阿弟仔"
+          },
           "nameKey": "唯舞獨尊#live"
         },
         {
@@ -7412,6 +7645,12 @@
           "playsText": "播放次數：1.9萬",
           "duration": 198,
           "byOther": false,
+          "credits": {
+            "lyrics": "晴天",
+            "music": "Terry Lee",
+            "arranger": "呂紹淳",
+            "producer": "阿弟仔"
+          },
           "nameKey": "唇唇欲動#live"
         },
         {
@@ -7423,6 +7662,12 @@
           "playsText": "播放次數：1.9萬",
           "duration": 327,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃俊郎",
+            "music": "陳孟奇",
+            "arranger": "Adam Lee",
+            "producer": "李偉菘"
+          },
           "nameKey": "馬德里不思議#live"
         },
         {
@@ -7434,6 +7679,11 @@
           "playsText": "播放次數：1.3萬",
           "duration": 217,
           "byOther": false,
+          "credits": {
+            "lyrics": "黃偉文",
+            "arranger": "Terence Teo",
+            "producer": "李偲菘"
+          },
           "nameKey": "懷念#live",
           "mv": "F3B3ePm1LW0"
         },
@@ -7446,6 +7696,11 @@
           "playsText": "播放次數：2.2萬",
           "duration": 237,
           "byOther": false,
+          "credits": {
+            "lyrics": "陳鎮川",
+            "arranger": "呂紹淳",
+            "producer": "阿弟仔"
+          },
           "nameKey": "舞孃#live"
         }
       ],

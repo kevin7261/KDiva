@@ -2,7 +2,7 @@
   "slug": "jay-chou",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-19T11:59:01.623Z",
+  "fetchedAt": "2026-09-19T20:57:34.911Z",
   "artist": {
     "channelId": "UCL2MDNdwEtV6aYUgNjFQGZA",
     "name": "周杰倫",
@@ -155,7 +155,7 @@
         "videoId": "RPWDeLqsN0g"
       },
       {
-        "title": "君には聞こえる",
+        "title": "妳聽得到",
         "videoId": "kLY11fv7fUk"
       },
       {
@@ -379,7 +379,7 @@
         "videoId": "yfn8sE9obWU"
       },
       {
-        "title": "時光機 / タイムマシン",
+        "title": "時光機",
         "videoId": "nCfrfCzaB2A"
       },
       {
@@ -591,7 +591,7 @@
         "videoId": "-WkecBaA4z8"
       },
       {
-        "title": "愛の断崖",
+        "title": "愛情懸崖",
         "videoId": "H5VQdhYh9rc"
       },
       {
@@ -1960,7 +1960,8 @@
             "arranger": "林邁可",
             "producer": "周杰倫"
           },
-          "nameKey": "妳聽得到"
+          "nameKey": "妳聽得到",
+          "mv": "kLY11fv7fUk"
         },
         {
           "index": 6,
@@ -2087,7 +2088,8 @@
             "arranger": "鍾興民",
             "producer": "周杰倫"
           },
-          "nameKey": "愛情懸崖"
+          "nameKey": "愛情懸崖",
+          "mv": "H5VQdhYh9rc"
         },
         {
           "index": 14,
@@ -3142,7 +3144,9 @@
           "byOther": false,
           "credits": {
             "music": "周杰倫",
-            "producer": "周杰倫"
+            "producer": "周杰倫",
+            "lyrics": "方文山",
+            "arranger": "鍾興民"
           },
           "titleZh": "菊花臺(鋼琴演奏版)",
           "titleZhVariant": true,
@@ -4745,7 +4749,8 @@
             "arranger": "黃雨勳",
             "producer": "周杰倫"
           },
-          "nameKey": "時光機"
+          "nameKey": "時光機",
+          "mv": "nCfrfCzaB2A"
         },
         {
           "index": 18,
@@ -5774,8 +5779,8 @@
           "title": "龍門澡堂",
           "artists": "周杰倫",
           "videoId": "lXCSViggwwk",
-          "plays": 9378,
-          "playsText": "播放次數：9378",
+          "plays": 9382,
+          "playsText": "播放次數：9382",
           "duration": 79,
           "byOther": false,
           "nameKey": "龍門澡堂"
@@ -5807,8 +5812,8 @@
           "title": "阿郎的童年",
           "artists": "周杰倫",
           "videoId": "aTwvqiJsQwg",
-          "plays": 7877,
-          "playsText": "播放次數：7877",
+          "plays": 7878,
+          "playsText": "播放次數：7878",
           "duration": 67,
           "byOther": false,
           "nameKey": "阿郞的童年"
@@ -5829,8 +5834,8 @@
           "title": "熱血碼頭",
           "artists": "周杰倫",
           "videoId": "ElrDZKXfyRk",
-          "plays": 6280,
-          "playsText": "播放次數：6280",
+          "plays": 6281,
+          "playsText": "播放次數：6281",
           "duration": 53,
           "byOther": false,
           "nameKey": "熱血碼頭"
@@ -5873,8 +5878,8 @@
           "title": "情人湖夜市",
           "artists": "唐從聖",
           "videoId": "5USKBDQP5m0",
-          "plays": 6379,
-          "playsText": "播放次數：6379",
+          "plays": 6380,
+          "playsText": "播放次數：6380",
           "duration": 62,
           "byOther": true,
           "nameKey": "情人湖夜市"
@@ -5884,8 +5889,8 @@
           "title": "撈金魚",
           "artists": "周杰倫",
           "videoId": "J00u10gTZoo",
-          "plays": 7090,
-          "playsText": "播放次數：7090",
+          "plays": 7094,
+          "playsText": "播放次數：7094",
           "duration": 48,
           "byOther": false,
           "nameKey": "撈金魚"
@@ -5928,8 +5933,8 @@
           "title": "英雄之歌",
           "artists": "周杰倫",
           "videoId": "IvEVa-R_5E8",
-          "plays": 6595,
-          "playsText": "播放次數：6595",
+          "plays": 6596,
+          "playsText": "播放次數：6596",
           "duration": 55,
           "byOther": false,
           "nameKey": "英雄之歌"
@@ -5972,8 +5977,8 @@
           "title": "威少的陷阱",
           "artists": "周杰倫",
           "videoId": "5zU_RJKwjag",
-          "plays": 6434,
-          "playsText": "播放次數：6434",
+          "plays": 6435,
+          "playsText": "播放次數：6435",
           "duration": 107,
           "byOther": false,
           "nameKey": "威少的陷阱"
@@ -6000,8 +6005,8 @@
           "title": "兄弟的安慰",
           "artists": "周杰倫",
           "videoId": "3KxNCL2SUTo",
-          "plays": 8574,
-          "playsText": "播放次數：8574",
+          "plays": 8575,
+          "playsText": "播放次數：8575",
           "duration": 89,
           "byOther": false,
           "nameKey": "兄弟的安慰"
@@ -6022,8 +6027,8 @@
           "title": "無助",
           "artists": "周杰倫",
           "videoId": "iD5M4lGJ8z4",
-          "plays": 6748,
-          "playsText": "播放次數：6748",
+          "plays": 6750,
+          "playsText": "播放次數：6750",
           "duration": 70,
           "byOther": false,
           "nameKey": "無助"
@@ -6033,8 +6038,8 @@
           "title": "亡命追逐",
           "artists": "周杰倫",
           "videoId": "aMnV6_2aXSo",
-          "plays": 6340,
-          "playsText": "播放次數：6340",
+          "plays": 6339,
+          "playsText": "播放次數：6339",
           "duration": 235,
           "byOther": false,
           "nameKey": "亡命追逐"
@@ -6149,8 +6154,8 @@
           "title": "歸途",
           "artists": "楊瑞代",
           "videoId": "3lrcZa5AhTI",
-          "plays": 5517,
-          "playsText": "播放次數：5517",
+          "plays": 5518,
+          "playsText": "播放次數：5518",
           "duration": 205,
           "byOther": true,
           "nameKey": "歸途"
@@ -6806,7 +6811,10 @@
           "duration": 211,
           "byOther": false,
           "credits": {
-            "lyrics": "徐若瑄"
+            "lyrics": "羅宇軒/黃婕熙",
+            "music": "周杰倫",
+            "arranger": "林邁可",
+            "producer": "周杰倫"
           },
           "nameKey": "美人魚"
         },

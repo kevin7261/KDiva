@@ -2,7 +2,7 @@
   "slug": "angela-chang",
   "source": "YouTube Music",
   "exactCounts": false,
-  "fetchedAt": "2026-09-18T23:47:45.064Z",
+  "fetchedAt": "2026-09-19T21:00:35.999Z",
   "artist": {
     "channelId": "UCKeK5Xj-iCfLOZvMDm3aIkw",
     "name": "張韶涵",
@@ -366,6 +366,86 @@
   },
   "albums": [
     {
+      "browseId": "MPREb_07f2IVJq5zG",
+      "playlistId": "OLAK5uy_ldILLHrZNfFA6jHvxMIvsNv10n0D_sjrI",
+      "title": "【海豚灣戀人】電視劇原聲帶",
+      "albumArtist": "Various Artists",
+      "type": "EP",
+      "year": 2003,
+      "thumbnail": "https://yt3.googleusercontent.com/-2whfbM39dxiJB3tlfjfRpaNPOrXzvudUbmmVm57N1R19-77R-_KvZt6rKEZB9746FbLGcjW-LpukPnU=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "JOURNEY",
+          "artists": "張韶涵",
+          "videoId": "vYh-PjASgNk",
+          "plays": 4050000,
+          "playsText": "播放次數：405萬",
+          "duration": 228,
+          "byOther": false,
+          "credits": {
+            "lyrics": "Corrinne May",
+            "music": "Corrinne May",
+            "arranger": "陳飛午",
+            "producer": "陳俊廷"
+          },
+          "nameKey": "journey"
+        },
+        {
+          "index": 2,
+          "title": "遺失的美好",
+          "artists": "張韶涵",
+          "videoId": "sh4BwEDtRI0",
+          "plays": 21750000,
+          "playsText": "播放次數：2175萬",
+          "duration": 261,
+          "byOther": false,
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "阿沁",
+            "arranger": "吳慶隆",
+            "producer": "陳俊廷"
+          },
+          "nameKey": "遺失的美好"
+        },
+        {
+          "index": 3,
+          "title": "I Don't Want To Know",
+          "artists": "陳偉",
+          "videoId": "OjS1Zhy_oUA",
+          "plays": 1500000,
+          "playsText": "播放次數：150萬",
+          "duration": 271,
+          "byOther": true,
+          "nameKey": "idontwanttoknow"
+        },
+        {
+          "index": 4,
+          "title": "JOURNEY",
+          "artists": "徐婕兒",
+          "videoId": "AOTC6SwjDSA",
+          "plays": 20000,
+          "playsText": "播放次數：2萬",
+          "duration": 284,
+          "byOther": true,
+          "credits": {
+            "lyrics": "Corrinne May",
+            "music": "Corrinne May",
+            "arranger": "陳飛午",
+            "producer": "陳俊廷"
+          },
+          "nameKey": "journey",
+          "mv": "vYh-PjASgNk"
+        }
+      ],
+      "releaseDate": null,
+      "releaseDatePrecision": null,
+      "releaseDateSource": null,
+      "wikiTitle": null,
+      "wikiKind": null,
+      "nameKey": "電視劇原聲帶"
+    },
+    {
       "browseId": "MPREb_u2d9rpc2E97",
       "playlistId": "OLAK5uy_kKrHfE3IbGcCWCkX72XUxKC2AXn5iRurI",
       "title": "Over The Rainbow",
@@ -387,7 +467,8 @@
           "credits": {
             "lyrics": "E Y. Harburg",
             "music": "Harold Arlen",
-            "arranger": "王豫民"
+            "arranger": "王豫民",
+            "producer": "林隆璇"
           },
           "titleZhVariant": true,
           "nameKey": "overtherainbow"
@@ -404,7 +485,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "小安",
-            "arranger": "陳偉、Mickey Chen"
+            "arranger": "陳偉、Mickey Chen",
+            "producer": "陳偉"
           },
           "nameKey": "寓言"
         },
@@ -420,7 +502,8 @@
           "credits": {
             "lyrics": "林怡芬",
             "music": "Sophia Levy",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "黃怡"
           },
           "nameKey": "都只因為你"
         },
@@ -436,7 +519,8 @@
           "credits": {
             "lyrics": "于光中;zh:于光中;zh-hans:于光中;zh-hant:于光中;zh-cn:于光中;zh-tw:于光中;zh-hk:于光中;zh-sg:于光中;zh-mo:于光中;]、陳偉",
             "music": "陳偉",
-            "arranger": "王豫民"
+            "arranger": "王豫民",
+            "producer": "陳偉"
           },
           "nameKey": "我的最愛"
         },
@@ -452,7 +536,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "潘協慶",
-            "arranger": "王治平"
+            "arranger": "王治平",
+            "producer": "王治平"
           },
           "nameKey": "天邊"
         },
@@ -468,7 +553,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "潘協慶",
-            "arranger": "洪敬堯"
+            "arranger": "洪敬堯",
+            "producer": "林隆璇"
           },
           "nameKey": "聽見月光"
         },
@@ -484,7 +570,8 @@
           "credits": {
             "lyrics": "深白色",
             "music": "深白色",
-            "arranger": "深白色"
+            "arranger": "深白色",
+            "producer": "黃怡"
           },
           "nameKey": "吶喊"
         },
@@ -500,7 +587,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "宋新妮",
-            "arranger": "林於賢"
+            "arranger": "林於賢",
+            "producer": "陳俊廷"
           },
           "nameKey": "雨後"
         },
@@ -516,7 +604,8 @@
           "credits": {
             "lyrics": "楊智中",
             "music": "陳海濰",
-            "arranger": "吳慶隆"
+            "arranger": "吳慶隆",
+            "producer": "黃怡"
           },
           "nameKey": "明明愛你"
         },
@@ -532,7 +621,8 @@
           "credits": {
             "lyrics": "李天龍、顏璽軒",
             "music": "李天龍",
-            "arranger": "王治平"
+            "arranger": "王治平",
+            "producer": "王治平"
           },
           "nameKey": "眞愛冒險"
         },
@@ -541,14 +631,15 @@
           "title": "遺失的美好",
           "artists": "",
           "videoId": "sh4BwEDtRI0",
-          "plays": 21730000,
-          "playsText": "播放次數：2173萬",
+          "plays": 21750000,
+          "playsText": "播放次數：2175萬",
           "duration": 262,
           "byOther": false,
           "credits": {
             "lyrics": "姚若龍",
             "music": "阿沁",
-            "arranger": "吳慶隆"
+            "arranger": "吳慶隆",
+            "producer": "陳俊廷"
           },
           "nameKey": "遺失的美好"
         },
@@ -564,7 +655,8 @@
           "credits": {
             "lyrics": "Corrinne May",
             "music": "Corrinne May",
-            "arranger": "陳飛午"
+            "arranger": "陳飛午",
+            "producer": "陳俊廷"
           },
           "nameKey": "journey"
         }
@@ -599,7 +691,8 @@
           "credits": {
             "lyrics": "于光中",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "mamamama"
         },
@@ -608,14 +701,15 @@
           "title": "歐若拉",
           "artists": "",
           "videoId": "dmwJaG-R1iM",
-          "plays": 31150000,
-          "playsText": "播放次數：3115萬",
+          "plays": 31160000,
+          "playsText": "播放次數：3116萬",
           "duration": 260,
           "byOther": false,
           "credits": {
             "lyrics": "施立",
             "music": "李天龍",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "陳韋伶"
           },
           "nameKey": "歐若拉"
         },
@@ -631,7 +725,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "彭康甡",
-            "arranger": "吳慶隆"
+            "arranger": "吳慶隆",
+            "producer": "馬毓芬"
           },
           "nameKey": "手心的太陽"
         },
@@ -647,7 +742,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "Jin Nakamura",
-            "arranger": "呂紹淳、林岑芳"
+            "arranger": "呂紹淳、林岑芳",
+            "producer": "林隆璇"
           },
           "nameKey": "浮雲"
         },
@@ -663,7 +759,8 @@
           "credits": {
             "lyrics": "大飛",
             "music": "深白色",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "陳俊廷"
           },
           "nameKey": "直線"
         },
@@ -679,7 +776,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "陳忠義",
-            "arranger": "林於賢"
+            "arranger": "林於賢",
+            "producer": "郭建良"
           },
           "nameKey": "起點"
         },
@@ -695,7 +793,8 @@
           "credits": {
             "lyrics": "嚴雲農",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "復活節"
         },
@@ -711,7 +810,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "임현정",
-            "arranger": "洪敬堯"
+            "arranger": "洪敬堯",
+            "producer": "林隆璇"
           },
           "nameKey": "可以愛很久"
         },
@@ -727,7 +827,8 @@
           "credits": {
             "lyrics": "王雅君、張耀威",
             "music": "陳依依",
-            "arranger": "吳慶隆"
+            "arranger": "吳慶隆",
+            "producer": "林隆璇"
           },
           "nameKey": "猜不透"
         },
@@ -743,7 +844,8 @@
           "credits": {
             "lyrics": "于光中",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "靜不下來"
         }
@@ -769,14 +871,15 @@
           "title": "隱形的翅膀",
           "artists": "",
           "videoId": "be2wvNFTLMc",
-          "plays": 72620000,
-          "playsText": "播放次數：7262萬",
+          "plays": 72650000,
+          "playsText": "播放次數：7265萬",
           "duration": 225,
           "byOther": false,
           "credits": {
             "lyrics": "王雅君",
             "music": "王雅君",
-            "arranger": "陳俊廷"
+            "arranger": "陳俊廷",
+            "producer": "陳俊廷"
           },
           "nameKey": "隱形的翅膀"
         },
@@ -785,14 +888,15 @@
           "title": "潘朵拉",
           "artists": "",
           "videoId": "vAtz0NWJbWo",
-          "plays": 2010000,
-          "playsText": "播放次數：201萬",
+          "plays": 2020000,
+          "playsText": "播放次數：202萬",
           "duration": 237,
           "byOther": false,
           "credits": {
             "lyrics": "于光中;zh:于光中;zh-hans:于光中;zh-hant:于光中;zh-cn:于光中;zh-tw:于光中;zh-hk:于光中;zh-sg:于光中;zh-mo:于光中;]",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "潘朵拉"
         },
@@ -808,7 +912,8 @@
           "credits": {
             "lyrics": "李天龍",
             "music": "李天龍",
-            "arranger": "陳偉、Mickey Chen"
+            "arranger": "陳偉、Mickey Chen",
+            "producer": "陳偉"
           },
           "nameKey": "香水百合"
         },
@@ -824,7 +929,8 @@
           "credits": {
             "lyrics": "深白色",
             "music": "深白色",
-            "arranger": "Mickey Chen"
+            "arranger": "Mickey Chen",
+            "producer": "林隆璇、陳俊廷"
           },
           "nameKey": "眞的"
         },
@@ -840,7 +946,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "林宇中",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "陳俊廷"
           },
           "nameKey": "最近"
         },
@@ -856,7 +963,8 @@
           "credits": {
             "lyrics": "潘協慶",
             "music": "潘協慶",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "陳俊廷"
           },
           "nameKey": "驚天動地"
         },
@@ -872,7 +980,8 @@
           "credits": {
             "lyrics": "王雅君、陳淑秋、Rap詞：林俊傑",
             "music": "林俊傑",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "王治平"
           },
           "nameKey": "保護色"
         },
@@ -888,7 +997,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "于京延",
-            "arranger": "于京延"
+            "arranger": "于京延",
+            "producer": "陳俊廷"
           },
           "nameKey": "口袋的天空"
         },
@@ -904,7 +1014,8 @@
           "credits": {
             "lyrics": "阿沁、陳淑秋",
             "music": "阿沁",
-            "arranger": "王豫民、于京延"
+            "arranger": "王豫民、于京延",
+            "producer": "林隆璇、陳俊廷"
           },
           "nameKey": "愛情旅程"
         },
@@ -913,14 +1024,15 @@
           "title": "喜歡你沒道理",
           "artists": "",
           "videoId": "rhuNm2X7nbA",
-          "plays": 3560000,
-          "playsText": "播放次數：356萬",
+          "plays": 3570000,
+          "playsText": "播放次數：357萬",
           "duration": 202,
           "byOther": false,
           "credits": {
             "lyrics": "晨瑀",
             "music": "梁思成",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "陳俊廷"
           },
           "nameKey": "喜歡你沒道理"
         },
@@ -936,7 +1048,8 @@
           "credits": {
             "lyrics": "嚴雲農",
             "music": "William Douglas、Lady John Scott",
-            "arranger": "林於賢"
+            "arranger": "林於賢",
+            "producer": "林隆璇、陳俊廷"
           },
           "nameKey": "永晝"
         }
@@ -969,7 +1082,8 @@
           "credits": {
             "lyrics": "吳易緯",
             "music": "小王子、花輪",
-            "arranger": "林於賢"
+            "arranger": "林於賢",
+            "producer": "陳俊廷"
           },
           "nameKey": "夢裡花"
         },
@@ -985,7 +1099,8 @@
           "credits": {
             "lyrics": "桃子、陳懷恩",
             "music": "陳懷恩",
-            "arranger": "洪敬堯"
+            "arranger": "洪敬堯",
+            "producer": "陳俊廷"
           },
           "nameKey": "不痛"
         },
@@ -1001,7 +1116,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "動靜音樂",
-            "arranger": "動靜音樂"
+            "arranger": "動靜音樂",
+            "producer": "陳俊廷"
           },
           "nameKey": "c大調"
         },
@@ -1017,7 +1133,8 @@
           "credits": {
             "lyrics": "嚴雲農",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "樣子"
         },
@@ -1033,7 +1150,8 @@
           "credits": {
             "lyrics": "陳偉",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "幻想愛"
         },
@@ -1049,7 +1167,8 @@
           "credits": {
             "lyrics": "陳偉",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "給你給我"
         },
@@ -1065,7 +1184,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "王雅君",
-            "arranger": "洪敬堯"
+            "arranger": "洪敬堯",
+            "producer": "陳俊廷"
           },
           "nameKey": "交換"
         },
@@ -1081,7 +1201,8 @@
           "credits": {
             "lyrics": "阿沁、桃子",
             "music": "阿沁",
-            "arranger": "林於賢"
+            "arranger": "林於賢",
+            "producer": "陳俊廷"
           },
           "nameKey": "其實很愛你"
         },
@@ -1090,14 +1211,15 @@
           "title": "淚光",
           "artists": "",
           "videoId": "krg95xi14vs",
-          "plays": 85000,
-          "playsText": "播放次數：8.5萬",
+          "plays": 86000,
+          "playsText": "播放次數：8.6萬",
           "duration": 264,
           "byOther": false,
           "credits": {
             "lyrics": "王雅君",
             "music": "王雅君",
-            "arranger": "倪方來、陳俊廷"
+            "arranger": "倪方來、陳俊廷",
+            "producer": "陳俊廷"
           },
           "nameKey": "淚光"
         },
@@ -1113,7 +1235,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "動靜音樂",
-            "arranger": "動靜音樂"
+            "arranger": "動靜音樂",
+            "producer": "陳俊廷"
           },
           "nameKey": "愛上愛的味道"
         },
@@ -1129,7 +1252,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "王雅君",
-            "arranger": "Wave G"
+            "arranger": "Wave G",
+            "producer": "陳俊廷"
           },
           "nameKey": "尋寶"
         }
@@ -1162,7 +1286,8 @@
           "credits": {
             "lyrics": "吳易緯",
             "music": "小王子、花輪",
-            "arranger": "林於賢"
+            "arranger": "林於賢",
+            "producer": "陳俊廷"
           },
           "nameKey": "夢裡花",
           "mv": "JMQOlI5-dRU"
@@ -1172,14 +1297,15 @@
           "title": "潘朵拉",
           "artists": "張韶涵",
           "videoId": "YTjS5Qrgxug",
-          "plays": 9891,
-          "playsText": "播放次數：9891",
+          "plays": 9897,
+          "playsText": "播放次數：9897",
           "duration": 306,
           "byOther": false,
           "credits": {
             "lyrics": "于光中;zh:于光中;zh-hans:于光中;zh-hant:于光中;zh-cn:于光中;zh-tw:于光中;zh-hk:于光中;zh-sg:于光中;zh-mo:于光中;]",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "潘朵拉",
           "mv": "vAtz0NWJbWo"
@@ -1189,14 +1315,15 @@
           "title": "都只因為你",
           "artists": "張韶涵",
           "videoId": "KNMrsghmjjg",
-          "plays": 6117,
-          "playsText": "播放次數：6117",
+          "plays": 6123,
+          "playsText": "播放次數：6123",
           "duration": 226,
           "byOther": false,
           "credits": {
             "lyrics": "林怡芬",
             "music": "Sophia Levy",
-            "arranger": "Martin Tang"
+            "arranger": "Martin Tang",
+            "producer": "黃怡"
           },
           "nameKey": "都只因為你",
           "mv": "74so0uVRqtk"
@@ -1224,7 +1351,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "彭康甡",
-            "arranger": "吳慶隆"
+            "arranger": "吳慶隆",
+            "producer": "馬毓芬"
           },
           "nameKey": "手心的太陽"
         },
@@ -1233,14 +1361,15 @@
           "title": "保護色",
           "artists": "張韶涵",
           "videoId": "zDpjuExZZo8",
-          "plays": 4412,
-          "playsText": "播放次數：4412",
+          "plays": 4414,
+          "playsText": "播放次數：4414",
           "duration": 349,
           "byOther": false,
           "credits": {
             "lyrics": "王雅君、陳淑秋、Rap詞：林俊傑",
             "music": "林俊傑",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "王治平"
           },
           "nameKey": "保護色",
           "mv": "1m9gp9PsUMk"
@@ -1250,14 +1379,15 @@
           "title": "Mama Mama",
           "artists": "張韶涵",
           "videoId": "VhmR0kTAW48",
-          "plays": 3620,
-          "playsText": "播放次數：3620",
+          "plays": 3623,
+          "playsText": "播放次數：3623",
           "duration": 214,
           "byOther": false,
           "credits": {
             "lyrics": "于光中",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "mamamama",
           "mv": "z2Xsp0HMqf8"
@@ -1279,8 +1409,8 @@
           "title": "一比一",
           "artists": "范瑋琪",
           "videoId": "uZf0Tq6MhkE",
-          "plays": 3117,
-          "playsText": "播放次數：3117",
+          "plays": 3118,
+          "playsText": "播放次數：3118",
           "duration": 259,
           "byOther": true,
           "nameKey": "一比一"
@@ -1297,7 +1427,8 @@
           "credits": {
             "lyrics": "桃子、陳懷恩",
             "music": "陳懷恩",
-            "arranger": "洪敬堯"
+            "arranger": "洪敬堯",
+            "producer": "陳俊廷"
           },
           "nameKey": "不痛",
           "mv": "zXHqzoroAj4"
@@ -1314,7 +1445,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "于京延",
-            "arranger": "于京延"
+            "arranger": "于京延",
+            "producer": "陳俊廷"
           },
           "nameKey": "口袋的天空",
           "mv": "IDhZy6tfJGY"
@@ -1324,14 +1456,15 @@
           "title": "JOURNEY",
           "artists": "張韶涵",
           "videoId": "RB0SZ3nd4QI",
-          "plays": 3576,
-          "playsText": "播放次數：3576",
+          "plays": 3577,
+          "playsText": "播放次數：3577",
           "duration": 281,
           "byOther": false,
           "credits": {
             "lyrics": "Corrinne May",
             "music": "Corrinne May",
-            "arranger": "陳飛午"
+            "arranger": "陳飛午",
+            "producer": "陳俊廷"
           },
           "nameKey": "journey",
           "mv": "vYh-PjASgNk"
@@ -1341,14 +1474,15 @@
           "title": "吶喊",
           "artists": "張韶涵",
           "videoId": "EafFLO-ujvE",
-          "plays": 6156,
-          "playsText": "播放次數：6156",
+          "plays": 6159,
+          "playsText": "播放次數：6159",
           "duration": 255,
           "byOther": false,
           "credits": {
             "lyrics": "深白色",
             "music": "深白色",
-            "arranger": "深白色"
+            "arranger": "深白色",
+            "producer": "黃怡"
           },
           "nameKey": "吶喊",
           "mv": "UU4p0eb0IBQ"
@@ -1365,7 +1499,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "動靜音樂",
-            "arranger": "動靜音樂"
+            "arranger": "動靜音樂",
+            "producer": "陳俊廷"
           },
           "nameKey": "c大調",
           "mv": "NFuKYLfCOxw"
@@ -1375,14 +1510,15 @@
           "title": "靜不下來",
           "artists": "張韶涵",
           "videoId": "YfC60qADBLk",
-          "plays": 2646,
-          "playsText": "播放次數：2646",
+          "plays": 2648,
+          "playsText": "播放次數：2648",
           "duration": 214,
           "byOther": false,
           "credits": {
             "lyrics": "于光中",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "靜不下來"
         },
@@ -1398,7 +1534,8 @@
           "credits": {
             "lyrics": "林夕",
             "music": "Turtles",
-            "arranger": "Turtles、馬毓芬"
+            "arranger": "Turtles、馬毓芬",
+            "producer": "王治平"
           },
           "nameKey": "快樂崇拜"
         },
@@ -1407,14 +1544,15 @@
           "title": "尋寶",
           "artists": "張韶涵",
           "videoId": "bQ1GqB7I6pY",
-          "plays": 2834,
-          "playsText": "播放次數：2834",
+          "plays": 2838,
+          "playsText": "播放次數：2838",
           "duration": 199,
           "byOther": false,
           "credits": {
             "lyrics": "王雅君",
             "music": "王雅君",
-            "arranger": "Wave G"
+            "arranger": "Wave G",
+            "producer": "陳俊廷"
           },
           "nameKey": "尋寶",
           "mv": "AUwQ5GNkh6Y"
@@ -1424,14 +1562,15 @@
           "title": "喜歡你沒道理",
           "artists": "張韶涵",
           "videoId": "sdwJf6ycKvA",
-          "plays": 6756,
-          "playsText": "播放次數：6756",
+          "plays": 6759,
+          "playsText": "播放次數：6759",
           "duration": 189,
           "byOther": false,
           "credits": {
             "lyrics": "晨瑀",
             "music": "梁思成",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "陳俊廷"
           },
           "nameKey": "喜歡你沒道理",
           "mv": "rhuNm2X7nbA"
@@ -1448,7 +1587,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "王雅君",
-            "arranger": "陳俊廷"
+            "arranger": "陳俊廷",
+            "producer": "陳俊廷"
           },
           "nameKey": "隱形的翅膀",
           "mv": "be2wvNFTLMc"
@@ -1465,7 +1605,8 @@
           "credits": {
             "lyrics": "于光中;zh:于光中;zh-hans:于光中;zh-hant:于光中;zh-cn:于光中;zh-tw:于光中;zh-hk:于光中;zh-sg:于光中;zh-mo:于光中;]、陳偉",
             "music": "陳偉",
-            "arranger": "王豫民"
+            "arranger": "王豫民",
+            "producer": "陳偉"
           },
           "nameKey": "我的最愛",
           "mv": "EXWUcGt9YV8"
@@ -1482,7 +1623,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "阿沁",
-            "arranger": "吳慶隆"
+            "arranger": "吳慶隆",
+            "producer": "陳俊廷"
           },
           "nameKey": "遺失的美好",
           "mv": "sh4BwEDtRI0"
@@ -1499,7 +1641,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "小安",
-            "arranger": "陳偉、Mickey Chen"
+            "arranger": "陳偉、Mickey Chen",
+            "producer": "陳偉"
           },
           "nameKey": "寓言",
           "mv": "-4eJy_cpvoo"
@@ -1516,7 +1659,8 @@
           "credits": {
             "lyrics": "施立",
             "music": "李天龍",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "陳韋伶"
           },
           "nameKey": "歐若拉",
           "mv": "dmwJaG-R1iM"
@@ -1589,7 +1733,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "黃淑惠",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "陳俊廷"
           },
           "nameKey": "我戀愛了"
         },
@@ -1605,7 +1750,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "動靜音樂",
-            "arranger": "動靜音樂"
+            "arranger": "動靜音樂",
+            "producer": "陳俊廷"
           },
           "nameKey": "不想懂得"
         },
@@ -1614,14 +1760,15 @@
           "title": "親愛的那不是愛情",
           "artists": "",
           "videoId": "HwF1i_6Iwp8",
-          "plays": 43470000,
-          "playsText": "播放次數：4347萬",
+          "plays": 43500000,
+          "playsText": "播放次數：4350萬",
           "duration": 257,
           "byOther": false,
           "credits": {
             "lyrics": "方文山",
             "music": "周杰倫",
-            "arranger": "動靜音樂"
+            "arranger": "動靜音樂",
+            "producer": "陳俊廷"
           },
           "nameKey": "親愛的那不是愛情"
         },
@@ -1637,7 +1784,8 @@
           "credits": {
             "lyrics": "戴蕙心",
             "music": "戴蕙心",
-            "arranger": "洪敬堯、謝銘祥"
+            "arranger": "洪敬堯、謝銘祥",
+            "producer": "陳俊廷"
           },
           "nameKey": "床邊故事"
         },
@@ -1653,7 +1801,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "范瑋琪",
-            "arranger": "呂紹淳"
+            "arranger": "呂紹淳",
+            "producer": "陳俊廷"
           },
           "nameKey": "頭號甜心"
         },
@@ -1669,7 +1818,8 @@
           "credits": {
             "lyrics": "韋禮安",
             "music": "韋禮安",
-            "arranger": "陳偉、何官錠"
+            "arranger": "陳偉、何官錠",
+            "producer": "陳偉"
           },
           "nameKey": "重來"
         },
@@ -1685,7 +1835,8 @@
           "credits": {
             "lyrics": "王雅君、黃文萱",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "能不能勇敢說愛"
         },
@@ -1701,7 +1852,8 @@
           "credits": {
             "lyrics": "林隆璇",
             "music": "林隆璇",
-            "arranger": "呂聖斐"
+            "arranger": "呂聖斐",
+            "producer": "陳俊廷"
           },
           "nameKey": "失憶"
         },
@@ -1717,7 +1869,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "DJ Eric",
-            "arranger": "洪敬堯"
+            "arranger": "洪敬堯",
+            "producer": "陳俊廷"
           },
           "nameKey": "樂園"
         },
@@ -1733,7 +1886,8 @@
           "credits": {
             "lyrics": "蔡健雅",
             "music": "蔡健雅",
-            "arranger": "毛琮文、廖偉傑"
+            "arranger": "毛琮文、廖偉傑",
+            "producer": "阿弟仔"
           },
           "nameKey": "誰愛誰"
         },
@@ -1749,7 +1903,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "動靜音樂",
-            "arranger": "動靜音樂"
+            "arranger": "動靜音樂",
+            "producer": "陳俊廷"
           },
           "titleZh": "不想懂得(鋼琴絃樂演奏版)",
           "titleZhVariant": true,
@@ -1768,7 +1923,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "DJ Eric",
-            "arranger": "洪敬堯"
+            "arranger": "洪敬堯",
+            "producer": "陳俊廷"
           },
           "nameKey": "樂園"
         }
@@ -1896,7 +2052,8 @@
           "credits": {
             "lyrics": "李焯雄",
             "music": "陳偉",
-            "arranger": "陳偉、黃文萱"
+            "arranger": "陳偉、黃文萱",
+            "producer": "陳偉"
           },
           "nameKey": "白白的"
         },
@@ -1912,7 +2069,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "陳小霞",
-            "arranger": "于京延"
+            "arranger": "于京延",
+            "producer": "陳俊廷"
           },
           "nameKey": "看得最遠的地方"
         },
@@ -1928,7 +2086,8 @@
           "credits": {
             "lyrics": "陳偉、王雅君、黃文萱",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "幸運之吻"
         },
@@ -1944,7 +2103,8 @@
           "credits": {
             "lyrics": "陳偉、陳太太",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "搖擺頭"
         },
@@ -1960,7 +2120,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "王雅君",
-            "arranger": "吳慶隆"
+            "arranger": "吳慶隆",
+            "producer": "陳俊廷"
           },
           "nameKey": "偶爾"
         },
@@ -1976,7 +2137,8 @@
           "credits": {
             "lyrics": "黃文萱",
             "music": "陳偉",
-            "arranger": "陳偉、黃文萱"
+            "arranger": "陳偉、黃文萱",
+            "producer": "陳偉"
           },
           "nameKey": "我要你的"
         },
@@ -1992,7 +2154,8 @@
           "credits": {
             "lyrics": "王雅君",
             "music": "戴蕙心",
-            "arranger": "呂紹淳、韓星洲"
+            "arranger": "呂紹淳、韓星洲",
+            "producer": "蔡尚文"
           },
           "nameKey": "尋找愛蜜莉"
         },
@@ -2008,7 +2171,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "陳偉",
-            "arranger": "陳偉"
+            "arranger": "陳偉",
+            "producer": "陳偉"
           },
           "nameKey": "再快樂一點"
         },
@@ -2024,7 +2188,8 @@
           "credits": {
             "lyrics": "Barry Alan Gibb、Maurice Ernest Gibb、Robin Hugh Gibb",
             "music": "Barry Alan Gibb、Maurice Ernest Gibb、Robin Hugh Gibb",
-            "arranger": "Roger Joseph Manning Jr."
+            "arranger": "Roger Joseph Manning Jr.",
+            "producer": "陳偉"
           },
           "nameKey": "istartedajoke"
         }
@@ -2035,6 +2200,99 @@
       "wikiTitle": "第5季 (專輯)",
       "wikiKind": null,
       "nameKey": "第5季"
+    },
+    {
+      "browseId": "MPREb_adSBDhB1ufj",
+      "playlistId": "OLAK5uy_kgcVBu1FhCwBRlo-cN0Ost6UptpcrwVJY",
+      "title": "跨界歌王第五季 第11期",
+      "albumArtist": "跨界歌王",
+      "type": "EP",
+      "year": 2020,
+      "thumbnail": "https://yt3.googleusercontent.com/4ZWQj1USGRFy9Mi2thCAw0pLPyzZ_IIwu6BWzkksjWNDBNqu0Fmdu7A0VN40zJPxhtSMSTtPQ2aNfiE=w544-h544-l90-rj",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "十字街头 (Live) (合作演出：阿云嘎)",
+          "artists": "于毅",
+          "videoId": "wFH7cpevlIg",
+          "plays": 1468,
+          "playsText": "播放次數：1468",
+          "duration": 257,
+          "byOther": true,
+          "titleZh": "十字街頭 (Live) (合作演出：阿雲嘎)",
+          "titleZhVariant": true,
+          "nameKey": "10字街頭#live"
+        },
+        {
+          "index": 2,
+          "title": "水星记 (Live) (合作演出：刘端端)",
+          "artists": "张碧晨",
+          "videoId": "N3v3SI5w8fU",
+          "plays": 87000,
+          "playsText": "播放次數：8.7萬",
+          "duration": 306,
+          "byOther": true,
+          "titleZh": "水星記 (Live) (合作演出：劉端端)",
+          "titleZhVariant": true,
+          "nameKey": "水星記#live"
+        },
+        {
+          "index": 3,
+          "title": "破茧 (Live) (合作演出：郑恺)",
+          "artists": "张韶涵",
+          "videoId": "2hs06ILujnY",
+          "plays": 31000,
+          "playsText": "播放次數：3.1萬",
+          "duration": 239,
+          "byOther": false,
+          "titleZh": "破繭 (Live) (合作演出：鄭愷)",
+          "titleZhVariant": true,
+          "nameKey": "破繭#live"
+        },
+        {
+          "index": 4,
+          "title": "小白船 + Sailing (Live) (合作演出：李小萌)",
+          "artists": "阿云嘎",
+          "videoId": "o71tP46vyKc",
+          "plays": 2273,
+          "playsText": "播放次數：2273",
+          "duration": 245,
+          "byOther": true,
+          "nameKey": "小白船sailing#live"
+        },
+        {
+          "index": 5,
+          "title": "就让这首歌 + 爱我别走 (Live) (合作演出：姜潮)",
+          "artists": "Lil Ghost小鬼",
+          "videoId": "morKzfD-sLg",
+          "plays": 709,
+          "playsText": "播放次數：709",
+          "duration": 186,
+          "byOther": true,
+          "titleZh": "就讓這首歌 + 愛我別走 (Live) (合作演出：姜潮)",
+          "titleZhVariant": true,
+          "nameKey": "就讓這首歌愛我別走#live"
+        },
+        {
+          "index": 6,
+          "title": "采花 + 命运 (Live) (合作演出：希林娜依高)",
+          "artists": "小沈阳",
+          "videoId": "lqqlm05uWxs",
+          "plays": 601,
+          "playsText": "播放次數：601",
+          "duration": 316,
+          "byOther": true,
+          "titleZh": "採花 + 命運 (Live) (合作演出：希林娜依高)",
+          "titleZhVariant": true,
+          "nameKey": "採花命運#live"
+        }
+      ],
+      "releaseDate": "2009-09-25",
+      "releaseDatePrecision": "day",
+      "releaseDateSource": "wikidata",
+      "wikiTitle": "第五季 (專輯)",
+      "wikiKind": null,
+      "nameKey": "跨界歌王第五季第11期"
     },
     {
       "browseId": "MPREb_08UNLlxA50p",
@@ -2124,7 +2382,8 @@
           "credits": {
             "lyrics": "吳易緯",
             "music": "Hermanni Kovalainen、Milos Rosas、Petri Matara",
-            "arranger": "DJ Mobster"
+            "arranger": "DJ Mobster",
+            "producer": "Jae Chong"
           },
           "nameKey": "thatgirl"
         },
@@ -2140,7 +2399,8 @@
           "credits": {
             "lyrics": "姚若龍",
             "music": "Hermanni Kovalainen、Ilanguaq Lumholt、Henrik Tala",
-            "arranger": "DJ Mobster"
+            "arranger": "DJ Mobster",
+            "producer": "Jae Chong"
           },
           "nameKey": "淋雨一直走"
         },
@@ -2156,7 +2416,8 @@
           "credits": {
             "lyrics": "吳青峰",
             "music": "呂至傑",
-            "arranger": "Wave G"
+            "arranger": "Wave G",
+            "producer": "朱敬然"
           },
           "nameKey": "最近好嗎"
         },
@@ -2165,14 +2426,15 @@
           "title": "有形的翅膀",
           "artists": "",
           "videoId": "cBp-QhO63Us",
-          "plays": 14440000,
-          "playsText": "播放次數：1444萬",
+          "plays": 14450000,
+          "playsText": "播放次數：1445萬",
           "duration": 217,
           "byOther": false,
           "credits": {
             "lyrics": "吳青峰",
             "music": "吳青峰",
-            "arranger": "黃雨勳"
+            "arranger": "黃雨勳",
+            "producer": "朱敬然"
           },
           "nameKey": "有形的翅膀"
         },
@@ -2188,7 +2450,8 @@
           "credits": {
             "lyrics": "吳易緯",
             "music": "阿沁、AGG",
-            "arranger": "Wave G"
+            "arranger": "Wave G",
+            "producer": "阿沁"
           },
           "nameKey": "我沒改變"
         },
@@ -2204,7 +2467,8 @@
           "credits": {
             "lyrics": "林唯",
             "music": "Song Yang-Ha、Yoo Ji-Sang",
-            "arranger": "林邁可"
+            "arranger": "林邁可",
+            "producer": "林邁可"
           },
           "nameKey": "講不聽"
         },
@@ -2220,7 +2484,8 @@
           "credits": {
             "lyrics": "Billy Joel",
             "music": "Billy Joel",
-            "arranger": "林邁可"
+            "arranger": "林邁可",
+            "producer": "林邁可"
           },
           "nameKey": "honesty"
         },
@@ -2236,7 +2501,8 @@
           "credits": {
             "lyrics": "Kenn Wu、吳易緯",
             "music": "Kenn Wu",
-            "arranger": "梁恩傑、朱敬然"
+            "arranger": "梁恩傑、朱敬然",
+            "producer": "朱敬然"
           },
           "nameKey": "ifimtheoneforyou"
         },
@@ -2252,7 +2518,8 @@
           "credits": {
             "lyrics": "吳易緯",
             "music": "Hermanni Kovalainen、Milos Rosas、Henrik Tala、Petri Matara",
-            "arranger": "DJ Mobster"
+            "arranger": "DJ Mobster",
+            "producer": "Jae Chong"
           },
           "nameKey": "王子病"
         },
@@ -2268,7 +2535,8 @@
           "credits": {
             "lyrics": "李焯雄",
             "music": "朱敬然",
-            "arranger": "梁恩傑、朱敬然"
+            "arranger": "梁恩傑、朱敬然",
+            "producer": "朱敬然"
           },
           "nameKey": "兄弟姐妹"
         },
@@ -2284,7 +2552,8 @@
           "credits": {
             "lyrics": "李焯雄",
             "music": "福田貴史、蕭人凰",
-            "arranger": "吳慶隆"
+            "arranger": "吳慶隆",
+            "producer": "朱敬然"
           },
           "nameKey": "是我"
         }
@@ -2634,8 +2903,8 @@
           "title": "终于",
           "artists": "",
           "videoId": "W5-i2xrqbTI",
-          "plays": 2020000,
-          "playsText": "播放次數：202萬",
+          "plays": 2030000,
+          "playsText": "播放次數：203萬",
           "duration": 276,
           "byOther": false,
           "titleZh": "終於",
@@ -2678,7 +2947,8 @@
           "credits": {
             "lyrics": "吳易緯",
             "music": "Vanja Helena Wikstrom、Nalle Ahlstedt",
-            "arranger": "Jae Chong"
+            "arranger": "Jae Chong",
+            "producer": "張韶涵"
           },
           "nameKey": "go"
         },
@@ -2717,7 +2987,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "吳易緯、張韶涵",
-            "music": "Johnny Chao"
+            "music": "Johnny Chao",
+            "producer": "張韶涵"
           },
           "titleZh": "還記得嗎 （絃樂版）",
           "titleZhVariant": true,
@@ -2734,7 +3005,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "吳易緯、張韶涵",
-            "music": "Johnny Chao"
+            "music": "Johnny Chao",
+            "producer": "張韶涵"
           },
           "titleZh": "還記得嗎",
           "titleZhVariant": true,
@@ -2752,7 +3024,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "吳易緯、張韶涵",
-            "music": "Johnny Chao"
+            "music": "Johnny Chao",
+            "producer": "張韶涵"
           },
           "titleZh": "還記得嗎（歌迷版）",
           "titleZhVariant": true,
@@ -2814,8 +3087,8 @@
           "title": "終於",
           "artists": "",
           "videoId": "W5-i2xrqbTI",
-          "plays": 2020000,
-          "playsText": "播放次數：202萬",
+          "plays": 2030000,
+          "playsText": "播放次數：203萬",
           "duration": 276,
           "byOther": false,
           "nameKey": "終於"
@@ -2854,7 +3127,8 @@
           "credits": {
             "lyrics": "吳易緯",
             "music": "Vanja Helena Wikstrom、Nalle Ahlstedt",
-            "arranger": "Jae Chong"
+            "arranger": "Jae Chong",
+            "producer": "張韶涵"
           },
           "nameKey": "go"
         },
@@ -2891,7 +3165,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "吳易緯、張韶涵",
-            "music": "Johnny Chao"
+            "music": "Johnny Chao",
+            "producer": "張韶涵"
           },
           "nameKey": "還記得嗎"
         },
@@ -2906,7 +3181,8 @@
           "byOther": false,
           "credits": {
             "lyrics": "吳易緯、張韶涵",
-            "music": "Johnny Chao"
+            "music": "Johnny Chao",
+            "producer": "張韶涵"
           },
           "nameKey": "還記得嗎",
           "mv": "GCKh3quUSPo"
@@ -3076,35 +3352,6 @@
       "nameKey": "戀愛先生電視劇原聲專輯"
     },
     {
-      "browseId": "MPREb_6SzDslCwtJ4",
-      "playlistId": "OLAK5uy_mRybcw45JCOWpn3YntAbppZNY1wBHUty4",
-      "title": "沒離開過 (電影《南極之戀》全球推廣曲) (I Surrender)",
-      "albumArtist": "張韶涵 (Angela Chang)",
-      "type": "Single",
-      "year": 2018,
-      "thumbnail": "https://yt3.googleusercontent.com/h3X3h8JOgApMxM-X2LqjSgy8mwl3liC0qsPDRnGoBojpRtUi7wdrv4FvziRyfks4jVtkYpLynFnHjg5t=w544-h544-l90-rj",
-      "tracks": [
-        {
-          "index": 1,
-          "title": "沒離開過 (I Surrender)",
-          "artists": "",
-          "videoId": "POtf6umrwIQ",
-          "plays": 600000,
-          "playsText": "播放次數：60萬",
-          "duration": 307,
-          "byOther": false,
-          "nameKey": "沒離開過",
-          "mv": "R38J733FpJE"
-        }
-      ],
-      "releaseDate": null,
-      "releaseDatePrecision": null,
-      "releaseDateSource": null,
-      "wikiTitle": null,
-      "wikiKind": null,
-      "nameKey": "沒離開過"
-    },
-    {
       "browseId": "MPREb_Y56rSWgtnLT",
       "playlistId": "OLAK5uy_nk7BHSL_GAs07r4E5CBeoD31OftCbnIKg",
       "title": "？",
@@ -3162,8 +3409,8 @@
           "title": "別",
           "artists": "",
           "videoId": "8eNGNKEXi8c",
-          "plays": 4421,
-          "playsText": "播放次數：4421",
+          "plays": 4431,
+          "playsText": "播放次數：4431",
           "duration": 243,
           "byOther": false,
           "nameKey": "別"
@@ -3173,8 +3420,8 @@
           "title": "作勢裝腔",
           "artists": "",
           "videoId": "keSDAk2Bi54",
-          "plays": 7931,
-          "playsText": "播放次數：7931",
+          "plays": 7953,
+          "playsText": "播放次數：7953",
           "duration": 229,
           "byOther": false,
           "nameKey": "作勢裝腔"
@@ -3195,8 +3442,8 @@
           "title": "常",
           "artists": "",
           "videoId": "e0c8FNUopuk",
-          "plays": 7082,
-          "playsText": "播放次數：7082",
+          "plays": 7105,
+          "playsText": "播放次數：7105",
           "duration": 238,
           "byOther": false,
           "nameKey": "常"
@@ -3217,8 +3464,8 @@
           "title": "河",
           "artists": "",
           "videoId": "T3zTx5kizEI",
-          "plays": 25000,
-          "playsText": "播放次數：2.5萬",
+          "plays": 26000,
+          "playsText": "播放次數：2.6萬",
           "duration": 271,
           "byOther": false,
           "nameKey": "河"
@@ -3245,8 +3492,8 @@
           "title": "破茧",
           "artists": "",
           "videoId": "Pnoco4_lM-8",
-          "plays": 45280000,
-          "playsText": "播放次數：4528萬",
+          "plays": 45300000,
+          "playsText": "播放次數：4530萬",
           "duration": 212,
           "byOther": false,
           "titleZh": "破繭",
@@ -3440,8 +3687,8 @@
           "title": "斬(《殘次品·放逐星空》動畫插曲)",
           "artists": "地址不明音樂實驗室",
           "videoId": "6gvHscDvE70",
-          "plays": 86,
-          "playsText": "播放次數：86",
+          "plays": 87,
+          "playsText": "播放次數：87",
           "duration": 267,
           "byOther": true,
           "nameKey": "斬"
@@ -3730,8 +3977,8 @@
           "title": "音浪 (live版)",
           "artists": "姚琛 和 连淮伟",
           "videoId": "dOOnPMiXQ0M",
-          "plays": 1375,
-          "playsText": "播放次數：1375",
+          "plays": 1378,
+          "playsText": "播放次數：1378",
           "duration": 182,
           "byOther": true,
           "nameKey": "音浪#live"
@@ -3741,8 +3988,8 @@
           "title": "三生三幸 (live版)",
           "artists": "海来阿木 和 陈冰",
           "videoId": "MGGdC3sZQ2U",
-          "plays": 1180000,
-          "playsText": "播放次數：118萬",
+          "plays": 1190000,
+          "playsText": "播放次數：119萬",
           "duration": 273,
           "byOther": true,
           "nameKey": "三生三幸#live"
@@ -3819,8 +4066,8 @@
           "title": "兄弟 (Live) (合作演出：金润吉)",
           "artists": "阿云嘎",
           "videoId": "HsIh3aAkx3Q",
-          "plays": 1232,
-          "playsText": "播放次數：1232",
+          "plays": 1235,
+          "playsText": "播放次數：1235",
           "duration": 288,
           "byOther": true,
           "titleZh": "兄弟 (Live) (合作演出：金潤吉)",
@@ -3832,8 +4079,8 @@
           "title": "玫瑰窃贼 (Live) (合作演出：康姆士乐团)",
           "artists": "苏见信 (信)",
           "videoId": "WaXQYcNqu0U",
-          "plays": 3712,
-          "playsText": "播放次數：3712",
+          "plays": 3716,
+          "playsText": "播放次數：3716",
           "duration": 272,
           "byOther": true,
           "titleZh": "玫瑰竊賊 (Live) (合作演出：康姆士樂團)",
@@ -3845,8 +4092,8 @@
           "title": "阳台 (Live) (合作演出：阿云嘎)",
           "artists": "张韶涵",
           "videoId": "LTVCcwrOTy8",
-          "plays": 2933,
-          "playsText": "播放次數：2933",
+          "plays": 2939,
+          "playsText": "播放次數：2939",
           "duration": 231,
           "byOther": false,
           "titleZh": "陽臺 (Live) (合作演出：阿雲嘎)",
@@ -4035,8 +4282,8 @@
           "title": "给我一个理由忘记 (Live)",
           "artists": "A-Lin",
           "videoId": "8s04CH9Owa4",
-          "plays": 760000,
-          "playsText": "播放次數：76萬",
+          "plays": 770000,
+          "playsText": "播放次數：77萬",
           "duration": 264,
           "byOther": true,
           "titleZh": "給我一個理由忘記 (Live)",
@@ -4195,6 +4442,12 @@
           "playsText": "播放次數：9.5萬",
           "duration": 289,
           "byOther": false,
+          "credits": {
+            "lyrics": "姚若龍",
+            "music": "阿沁",
+            "arranger": "吳慶隆",
+            "producer": "陳俊廷"
+          },
           "titleZh": "遺失的美好 (Live)",
           "titleZhVariant": true,
           "nameKey": "遺失的美好#live"
@@ -4221,8 +4474,8 @@
           "title": "無名的人 (電影《雄獅少年2》主題曲/片尾曲)",
           "artists": "",
           "videoId": "pYlLXX4uBjc",
-          "plays": 2630000,
-          "playsText": "播放次數：263萬",
+          "plays": 2640000,
+          "playsText": "播放次數：264萬",
           "duration": 266,
           "byOther": false,
           "nameKey": "無名的人"
@@ -4342,8 +4595,8 @@
           "title": "蜂拥而至",
           "artists": "",
           "videoId": "gcx44EXighU",
-          "plays": 24000,
-          "playsText": "播放次數：2.4萬",
+          "plays": 25000,
+          "playsText": "播放次數：2.5萬",
           "duration": 219,
           "byOther": false,
           "credits": {
@@ -4412,8 +4665,8 @@
           "title": "大小孩",
           "artists": "",
           "videoId": "FdBnFJwtXxo",
-          "plays": 370000,
-          "playsText": "播放次數：37萬",
+          "plays": 380000,
+          "playsText": "播放次數：38萬",
           "duration": 294,
           "byOther": false,
           "credits": {
@@ -4579,8 +4832,8 @@
           "title": "暮色回响（电影《默杀》推广曲）",
           "artists": "",
           "videoId": "T81NmSIzYkY",
-          "plays": 33700000,
-          "playsText": "播放次數：3370萬",
+          "plays": 33730000,
+          "playsText": "播放次數：3373萬",
           "duration": 182,
           "byOther": false,
           "titleZh": "暮色迴響（電影《默殺》推廣曲）",
@@ -4609,8 +4862,8 @@
           "title": "暮色迴響 (電影《默殺》推廣曲)",
           "artists": "",
           "videoId": "qU9L6gu5LPs",
-          "plays": 33700000,
-          "playsText": "播放次數：3370萬",
+          "plays": 33730000,
+          "playsText": "播放次數：3373萬",
           "duration": 182,
           "byOther": false,
           "nameKey": "暮色迴響"
@@ -4637,14 +4890,15 @@
           "title": "有形的翅膀",
           "artists": "",
           "videoId": "cBp-QhO63Us",
-          "plays": 14440000,
-          "playsText": "播放次數：1444萬",
+          "plays": 14450000,
+          "playsText": "播放次數：1445萬",
           "duration": 202,
           "byOther": false,
           "credits": {
             "lyrics": "吳青峰",
             "music": "吳青峰",
-            "arranger": "黃雨勳"
+            "arranger": "黃雨勳",
+            "producer": "朱敬然"
           },
           "nameKey": "有形的翅膀"
         }
@@ -4670,8 +4924,8 @@
           "title": "昔漣 (英文版)",
           "artists": "HOYO-MiX 和 Cassie Wei",
           "videoId": "LPNBEswd14k",
-          "plays": 5030000,
-          "playsText": "播放次數：503萬",
+          "plays": 5040000,
+          "playsText": "播放次數：504萬",
           "duration": 187,
           "byOther": true,
           "nameKey": "昔漣"
@@ -4788,8 +5042,8 @@
           "title": "折斷玫瑰 (伴奏)",
           "artists": "",
           "videoId": "-Zssk5dTA6I",
-          "plays": 5497,
-          "playsText": "播放次數：5497",
+          "plays": 5498,
+          "playsText": "播放次數：5498",
           "duration": 232,
           "byOther": false,
           "nameKey": "折斷玫瑰"

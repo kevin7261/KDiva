@@ -5,7 +5,7 @@ import { ARTISTS, categoryOf, findArtist } from '../artists.js'
 import { getModel, loadArtist, loadCounts, refreshArtist } from '../lib/store.js'
 import { readPref, writePref } from '../lib/prefs.js'
 import { useYears } from '../lib/bio.js'
-import { artistKeys, rolesOf } from '../lib/credits.js'
+import { artistKeys, wroteIt } from '../lib/credits.js'
 import { formatCount, formatFull, formatDate } from '../lib/format.js'
 import ThemeToggle from '../components/ThemeToggle.vue'
 import ArtistSwitcher from '../components/ArtistSwitcher.vue'
@@ -122,7 +122,7 @@ const selfWrittenCount = computed(() => {
   const m = model.value
   if (!m) return null
   const keys = artistKeys(artist.value)
-  return m.songs.filter((s) => rolesOf(s.credits, keys).length).length
+  return m.songs.filter((s) => wroteIt(s.credits, keys)).length
 })
 
 const tabs = computed(() => {
